@@ -4004,7 +4004,8 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 461373440
+        "size": 461373440,
+        "parentId": "0100E7300AAD4000"
     },
     "70030000005881": {
         "id": null,
@@ -4031,7 +4032,8 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 643825664
+        "size": 643825664,
+        "parentId": "01006000040C2000"
     },
     "70030000005981": {
         "id": "0100C1800D7AE000",
@@ -4058,7 +4060,8 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 2387607552
+        "size": 2387607552,
+        "parentId": "0100187003A36000"
     },
     "70030000006721": {
         "id": "0100B7200E02E000",
@@ -4085,7 +4088,8 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 219152384
+        "size": 219152384,
+        "parentId": "010018300D006000"
     },
     "70030000007541": {
         "id": null,
@@ -4118,7 +4122,8 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 849346560
+        "size": 849346560,
+        "parentId": "010042000A986000"
     },
     "70030000008621": {
         "id": null,
@@ -4150,7 +4155,8 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 5073010688
+        "size": 5073010688,
+        "parentId": "01006C300E9F0000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
@@ -7158,6 +7164,68 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000012124": {
+        "id": "01006A800016F029",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Este contenido descargable incluye el traje y la gorra del Team Rocket",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190904,
+        "nsuId": 70050000012124,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4649132acfa88b85db784ecfba192b6af124681eb5e8d299b0612a441fd9b741.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye el traje y la gorra del Team Rocket.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000012125": {
+        "id": "01006A800016F02A",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Traje de Goemon/Peluca de Goemon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190904,
+        "nsuId": 70050000012125,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/63a9881192d8690c135a62d5cf7bbc1066ec72953bd9f5f93a1fd4847c5a9568.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye el traje y la peluca de Goemon.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000012202": {
         "id": "010040600C5CF001",
         "rightsId": null,
@@ -8002,6 +8070,99 @@
         "description": "Este contenido adicional est\u00e1 disponible \u00fanicamente para los jugadores que disponen de una suscripci\u00f3n v\u00e1lida a Nintendo Switch Online. Estos art\u00edculos se podr\u00e1n descargar y usar en el modo \"Esp\u00edritus\" del juego Super Smash Bros.\u2122 Ultimate.\n\n1500 PS\nRevancha x5\nDa\u00f1o 50 % x 5\nSecuaces d\u00e9biles x 5\nFlor da\u00f1ina x 5\n\n",
         "languages": null,
         "size": 20971520
+    },
+    "70050000014721": {
+        "id": "01006A800016F02B",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Traje de Sans/Mascara de Sans",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190904,
+        "nsuId": 70050000014721,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e8ab8efb96c8f1f20d33e7a1f48551608690bd06fa0cbca2beb1cbde2cd1b64b.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye el traje y mascara de Sans.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000014723": {
+        "id": "01006A800016F02C",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Armadura de Proto Man/Casco de Proto Man",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190904,
+        "nsuId": 70050000014723,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/61534b280ebe40eb89342a618e6783a54b220f97378766f69631ab05489ff66e.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye la armadura y el casco de Proto Man.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000014724": {
+        "id": "01006A800016F02D",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Armadura de Zero/Casco de Zero",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190904,
+        "nsuId": 70050000014724,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0b128cf067f4ae1675531de693adb20abcf8f7ceaf5bc5ba351b3b746a254554.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye la armadura y el casco de Zero.",
+        "languages": null,
+        "size": 4194304
     },
     "70070000000481": {
         "id": null,

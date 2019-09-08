@@ -3843,7 +3843,8 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 461373440
+        "size": 461373440,
+        "parentId": "0100E7300AAD4000"
     },
     "70030000005881": {
         "id": null,
@@ -3870,7 +3871,8 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 643825664
+        "size": 643825664,
+        "parentId": "01006000040C2000"
     },
     "70030000005981": {
         "id": null,
@@ -3897,7 +3899,8 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 2387607552
+        "size": 2387607552,
+        "parentId": "0100187003A36000"
     },
     "70030000006721": {
         "id": null,
@@ -3924,7 +3927,8 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 219152384
+        "size": 219152384,
+        "parentId": "010018300D006000"
     },
     "70030000007541": {
         "id": null,
@@ -3957,7 +3961,8 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 849346560
+        "size": 849346560,
+        "parentId": "010042000A986000"
     },
     "70030000008621": {
         "id": null,
@@ -3989,7 +3994,8 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 5073010688
+        "size": 5073010688,
+        "parentId": "01006C300E9F0000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
@@ -6997,6 +7003,68 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000012124": {
+        "id": "01006A800016F029",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Team Rocket Outfit and Hat",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190904,
+        "nsuId": 70050000012124,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/571abd83de14c3cf44db6f0aae6b6a7697dfa217a779b2ff3839baf98ea5a3d1.jpg",
+        "intro": null,
+        "description": "This DLC contains the Team Rocket Outfit and Hat.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000012125": {
+        "id": "01006A800016F02A",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Goemon Outfit and Wig",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190904,
+        "nsuId": 70050000012125,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/604b32a750d5c09f8723a7f2928db4829bc5b19c16d36090d01b05f4a9b5b7d8.jpg",
+        "intro": null,
+        "description": "This DLC contains the Goemon Outfit and Wig.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000012202": {
         "id": "010040600C5CF001",
         "rightsId": null,
@@ -7841,6 +7909,99 @@
         "description": "This is bonus content only available for active Nintendo Switch Online members. These items can be downloaded and used from the Spirit Mode in the Super Smash Bros.\u2122 Ultimate game. \n\n1500 SP\nRematch x5\nDamage 50% x 5\nWeaken Minions x 5\nHealth Drain x 5\n\n",
         "languages": null,
         "size": 20971520
+    },
+    "70050000014721": {
+        "id": "01006A800016F02B",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Sans Outfit and Mask",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190904,
+        "nsuId": 70050000014721,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f0195bc218a013d7ecbe5e7ab82eafe42b6b65ab82fa5420c3acf85570c8ee01.jpg",
+        "intro": null,
+        "description": "This DLC contains the Sans Outfit and Mask.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000014723": {
+        "id": "01006A800016F02C",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Proto Man's Armor and Helmet",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190904,
+        "nsuId": 70050000014723,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a5feccdfd1172a27573a3def3cff69e5b5d6db520dc2d639a6635717bd1327a8.jpg",
+        "intro": null,
+        "description": "This DLC contains the Proto Man's Armor and Helmet.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000014724": {
+        "id": "01006A800016F02D",
+        "rightsId": null,
+        "name": "\u3010Costume\u3011Zero's Armor and Helmet",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190904,
+        "nsuId": 70050000014724,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3676b0768ae186142b36af625cd37da21f5d00c2c288762b924434ca3101c9e1.jpg",
+        "intro": null,
+        "description": "This DLC contains the Zero's Armor and Helmet.\n",
+        "languages": null,
+        "size": 4194304
     },
     "70070000000481": {
         "id": null,
