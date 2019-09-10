@@ -3624,7 +3624,7 @@
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9eb64e3c1acfaedc10361ddfe6858c99f467d944578a3c32770e3476a620b767.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1972ebb4a507e7d83c7d4592ae4702ebdc5bf3738659644bc29c243b144782ee.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/4425bfc566efc5cc4550fc3af4de06cf1684bfa783593209ff11bc76d4a06857.jpg",
             "https://img-eshop.cdn.nintendo.net/i/2cb3febaafb22e2db34cfe400e5dfabbc7f036115bdd56aaf8a53ed5141e9dc9.jpg",
@@ -3639,10 +3639,9 @@
         "languages": [
             "en",
             "es",
-            "fr",
-            "pt"
+            "fr"
         ],
-        "size": 709885952
+        "size": 899678208
     },
     "70010000021451": {
         "id": "01006C300E9F0000",
@@ -3963,6 +3962,34 @@
         "languages": null,
         "size": 849346560,
         "parentId": "010042000A986000"
+    },
+    "70030000008321": {
+        "id": null,
+        "rightsId": null,
+        "name": "Cadence of Hyrule: Crypt of the NecroDancer \nFeaturing The Legend of Zelda eShop Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000008321,
+        "category": null,
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 714080256,
+        "parentId": "01000B900D8B0000"
     },
     "70030000008621": {
         "id": null,
