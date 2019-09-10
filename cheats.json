@@ -11596,6 +11596,14 @@
                 "source": "041F0000 6487E3E4 05F5E0FF",
                 "title": "[selphie Exp]"
             },
+            "3a8de8c1c0d9186e55f1bb9fcd31f99f668d258ad65bbcf14dd5910756da3823": {
+                "source": "041F0000 6487DE08 05F5E0FF",
+                "title": "[diablos exp]"
+            },
+            "52a95aba4931edac74cb8329e5c14e6eff97abe1b3c16076129f096fdac1e5d6": {
+                "source": "041F0000 6487DDC4 05F5E0FF",
+                "title": "[brothers exp]"
+            },
             "52d178444469cb9462cf264fd6414938255153de7283d0e652cb0dddc545b088": {
                 "source": "041F0000 6487E34C 00001B58",
                 "title": "[Rinoa LVL 8]"
@@ -11607,6 +11615,10 @@
             "5b27d3a828accad3e0ece5a085a834828491da85cfc197c9fb34177e3d66bc24": {
                 "source": "041F0000 6487DCB4 05F5E0FF",
                 "title": "[Quezacotl EXp]"
+            },
+            "61a01cce0a6eb34caf40932f0dd5650155d49e7d950bacafee5be6a275b8c9ca": {
+                "source": "041F0000 6487E21C 05F5E0FF",
+                "title": "[Irvine Exp]"
             },
             "69b73156daa363e78f3dea9c9d785c8bc3f789809a1d0ea5ca9bd567f1bb5c4c": {
                 "source": "041F0000 6487E2B4 00005DC0",
@@ -11628,6 +11640,10 @@
                 "source": "041F0000 645F8CCA 000000FF\n041F0000 6487F5C0 000000FF\n041F0000 6487F5C2 000000FF\n041F0000 6487F5C4 000000FF\n041F0000 6487F5C6 000000FF\n041F0000 6487F5C8 000000FF",
                 "title": "[Always 255 AP after Battle]"
             },
+            "992ad8294c5aba0549dd9ec40ecea7aae2e61a55e8730ba7ad8fc9630b020ab1": {
+                "source": "041F0000 6487E34C 05F5E0FF",
+                "title": "[Rhinoa Exp]"
+            },
             "99d5988c718ab711cb2c12a96ddf52e0fc0fa3c443b76f634b96e41f0aba6912": {
                 "source": "041F0000 6487F512 0000270F\n041F0000 648F6A1E 0000270F",
                 "title": "[3rd character HP 9999 on battle]"
@@ -11642,7 +11658,7 @@
             },
             "a8bb1f8bfdc8f9f06d2f9af58b8986d36100c23677f55171c130c284532142b6": {
                 "source": "041F0000 6487F512 FFFF270F\n041F0000 648F6A1E FFFF270F",
-                "title": "[9999 Zell HP]"
+                "title": "[9999 zell HP]"
             },
             "b0e2917a2653ebdc0554739000879742d337cc39d1c0a54f103aa92e3f41976d": {
                 "source": "041F0000 6487E184 00005DC0",
@@ -11703,6 +11719,10 @@
             "fc7e482b6742c2050cad41d21712b78bdd98ff2f9da5d8ca428815052d47a80b": {
                 "source": "041F0000 6487E184 000182B8",
                 "title": "[Zell lvl 100]"
+            },
+            "fdb9434fc2afec15cbfd0fe7be9f5b7c992984bfc4badfe57e6bf0fabe5904ea": {
+                "source": "041F0000 645F8CCA 000000FF\n041F0000 6487F5C0 000000FF\n041F0000 6487F5C2 000000FF\n041F0000 6487F5C4 000000FF",
+                "title": "[GF AP always Get 255 on Battle]"
             },
             "version": 0
         }
