@@ -2424,6 +2424,10 @@
                 "source": "580F0000 02700800\n580F1000 00000028\n580F1000 00000048\n580F1000 00002438\n780F0000 00001098\n300E0000 0000001D\n640F0000 00000000\n00000001 780F0000\n00000004 310E0000\n780F0000 00000110\n300E0000 0000001F\n640F0000 00000000\n00000001 780F0000\n00000004 310E0000\n780F0000 000000D8\n300E0000 00000014\n640F0000 00000000\n00000001 780F0000\n00000004 310E0000\n780F0000 0000000C\n680F0000 00000001\n00000001 780F0000\n00000008 680F0000\n00000001 00000001\n780F0000 00000130\n300E0000 0000001A\n640F0000 00000000\n00000001 780F0000\n00000004 310E0000\n780F0000 00000010\n640F0000 00000000\n00000001 780F0000\n0000003C 680F0000\n00000001 00000001\n780F0000 00000008\n680F0000 00000001\n00000001 780F0000\n000000D8 300E0000\n0000001C 640F0000\n00000000 00000001\n780F0000 00000004\n310E0000 20000000",
                 "title": "[Unlock All Duelists Challenges All Not Beaten]"
             },
+            "bd1a2c7cf543971feefd017c2c3a3cf8cb2190715cef4dfef76577bf6478a246": {
+                "source": "04000000 014F7BC4 00000000\n04000000 0F957E38 00000000",
+                "title": "[Enemy Empty Hand/Skips Turn]"
+            },
             "version": 0
         }
     },
@@ -8441,6 +8445,26 @@
             "version": 65536
         }
     },
+    "0100698009C6E000": {
+        "70C806F458D36843": {
+            "06dd3e54215e2fdda3bcae63ca550e4879069a30954abf3f8a3dd613b24212da": {
+                "source": "04000000 002568C0 52800020",
+                "title": "[invulnerable]"
+            },
+            "2324ace18224314a22b44d3ba6b2920dd97d7d49e93aa21a50f0819e4acc42e4": {
+                "source": "04000000 003BBB5C 52800020",
+                "title": "[Unlock Mea Culpa Level for free]"
+            },
+            "39090d73068b6cf04562ead18235a21af8ad54a1b4630614710228b9d4156ff8": {
+                "source": "04000000 003BC188 528847F4\n04000000 003BC18C 72A001F4\n04000000 003BC194 1E204008",
+                "title": "[Unlock a Skill Gives Tears]"
+            },
+            "b2711c7470beae79accb1eff3bd6760aea44d88dc23178364f2bb02e7972f39d": {
+                "source": "04000000 0042D538 D503201F\n04000000 0042D59C D503201F",
+                "title": "[Refresh Fervor Cost No Life/Tears]"
+            }
+        }
+    },
     "01006A600B5E6000": {
         "FFD5E4043B659545": {
             "4169b540afef1d2d85101411ccd97b3e79d7762c73357ce175c4fe6ffec9be38": {
@@ -9611,9 +9635,21 @@
                 "source": "04000000 0A3151E8 05F5E0FF",
                 "title": "[Max Money]"
             },
+            "0f35ce200c56a3e5587a3587a7654260ab96c28ae4b01d72f32ec4fc63a0d020": {
+                "source": "580F0000 00DB82B8\n580F1000 00DB8378\n780F0000 00001C68\n300E0000 0000001C\n680F0000 00000063 00000063\n780F0000 00000090\n310E0000 20000000\n580F0000 00DB82B8\n580F1000 00DB8378\n780F0000 00003D08\n300E0000 0000001C\n680F0000 00000063 00000063\n780F0000 00000090\n310E0000 20000000",
+                "title": "[MAX Item Capacity]"
+            },
             "1ea43108a7e0ef481fdc9f0e716eea70e431fe881a9e62f72717d2c9419b9329": {
                 "source": "580F0000 00DCA550\n580F1000 00001C88\n580F1000 00000170\n580F1000 00000188\n780F0000 00000160\n640F0000 00000000 3FC00000",
                 "title": "[1.5 times faster]"
+            },
+            "27eeb5e56c70785b7425796475d8ba05259fa90a0607b674990b07d416b6ff4b": {
+                "source": "04000000 0A32EE24 00000000\n04000000 0A32EE28 0000012C\n04000000 0A32EE2C 44960000",
+                "title": "[Buff Attack UP +300%]"
+            },
+            "2fc084d0d11d7e10cd9fe14047528b770eef1e5c36c71d8285f3ce52b8b7a426": {
+                "source": "04000000 0A32EE24 00000000\n04000000 0A32EE28 00000096\n04000000 0A32EE2C 44960000",
+                "title": "[Buff Attack UP +150%]"
             },
             "3176de82f3e76f73efb07dc0f84200d9b96a5f57e13a6f001602e5750a5e6cd0": {
                 "source": "580F0000 00DCA550\n580F1000 00001C88\n780F0000 00000684\n30010000 00000003\n640F0000 00000000 40400000\n780F0000 00000004\n31010000 20000000",
@@ -9627,6 +9663,30 @@
                 "source": "04000000 0A33F1F4 05F5E0FF",
                 "title": "[Max Mission Reward Points]"
             },
+            "70a5b6eda1cca361c4e36c138c612373961745f95b7494e3656e94877a6e13f8": {
+                "source": "04000000 0A32EE24 00000000\n04000000 0A32EE28 00000032\n04000000 0A32EE2C 44960000",
+                "title": "[Buff Attack UP +50%]"
+            },
+            "8496c7fa6a6635cab770c694c83c3ccb63c0fbcbe36cc433a256c18a2b7cfc7d": {
+                "source": "04000000 0A32EE24 00000000\n04000000 0A32EE28 000000C8\n04000000 0A32EE2C 44960000",
+                "title": "[Buff Attack UP +200%]"
+            },
+            "86123f7e466177b5bfa0e8bd238c0ee8597b4282aabd1f739cd7ed4ecbf3dbf8": {
+                "source": "580F0000 00DB9540\n780F1000 000A8C38\n640F0000 00000000 00000032\n580F0000 00DB9540\n780F1000 000A8C3C\n640F0000 00000000 00000003\n580F0000 00DB9540\n780F1000 000A8C34\n680F0000 44960000 44960000",
+                "title": "[Buff Critical Hit Rate Up +50%]"
+            },
+            "9ba20ae0e077114b19be137f06e4425013351a898b9e6165cb736693ced3763d": {
+                "source": "04000000 0A32EE24 00000000\n04000000 0A32EE28 00000064\n04000000 0A32EE2C 44960000",
+                "title": "[Buff Attack UP +100%]"
+            },
+            "9c7080fc0e2fb1f7c973006f3e13bded6560bb7239138f17a7724fbdfc31f6bd": {
+                "source": "580F0000 00DCA550\n580F1000 00001C88\n780F0000 00000648\n640F0000 00000000 3F800000",
+                "title": "[Inf. Resonance Meter]"
+            },
+            "a9c3aa385ece0a1ae797f55c7bbcc7129660ebf901bbe48c07e358ce8d63fe3c": {
+                "source": "580F0000 00DB9540\n780F1000 000A8C38\n640F0000 00000000 0000012C\n580F0000 00DB9540\n780F1000 000A8C3C\n640F0000 00000000 00000003\n580F0000 00DB9540\n780F1000 000A8C34\n680F0000 44960000 44960000",
+                "title": "[Buff Critical Hit Rate Up +300%]"
+            },
             "b09631853bd552e0dc27aa302c3945ff5ffa840db223c681b0e42042c767f486": {
                 "source": "580F0000 00DCA550\n580F1000 00001C88\n580F1000 00000188\n780F0000 00000160\n640F0000 00000000 40000000",
                 "title": "[Speed x2]"
@@ -9638,6 +9698,10 @@
             "b91994c86873d9ed620d3caca61850a3c7b7cd2f4dece204e2f42ce61ade2a4e": {
                 "source": "580F0000 00DCA550\n580F1000 00001C88\n580F1000 00000188\n780F0000 00000160\n640F0000 00000000 3FC00000",
                 "title": "[Speed x1.5]"
+            },
+            "c4623203665a45e4570fbe48e6d80e641ea29bfc8a3675385e3faac79c5cc417": {
+                "source": "580F0000 00DB9540\n780F1000 000A8C38\n640F0000 00000000 00000019\n580F0000 00DB9540\n780F1000 000A8C3C\n640F0000 00000000 00000003\n580F0000 00DB9540\n780F1000 000A8C34\n680F0000 44960000 44960000",
+                "title": "[Buff Critical Hit Rate Up +25%]"
             },
             "e391e7bf76af75aaa68e9c758d5cbda2ea09388a46f720a31f15d8a2cd2c6cf5": {
                 "source": "580F0000 0A14B698\n780F0000 001AF270\n300E0000 00000032\n640F0000 00000000 000003E7\n780F0000 00000008\n310E0000 20000000",
@@ -10235,6 +10299,15 @@
                 "title": "[65535 Gold]"
             },
             "version": 327680
+        }
+    },
+    "010077B00E046000": {
+        "D2775FAFCF4835CB": {
+            "93508c0f5c19f9352a822c2a9418df3cb8eaf5a9051f8eced262f24f6a01c457": {
+                "source": "580F0000 0616E400\n780F0000 000002C4\n640F0000 00000000 000927C0",
+                "title": "[600000 gems]"
+            },
+            "version": 65536
         }
     },
     "010078D000F88000": {
@@ -11560,6 +11633,22 @@
     },
     "01008B900DC0A000": {
         "B899412D980F0B44": {
+            "057a0a82b5654d06cd93a70efdc83c226d52ba15effa5192e0f29ab72168ab76": {
+                "source": "011F0000 6487E7DA 00000098\n011F0000 6487E7DB 000000FF",
+                "title": "[255 windmill slot 31]"
+            },
+            "08c958526c5a5c765e69bc48571e711dc1b2bc50acd5fe07dbceb971c749d02b": {
+                "source": "011F0000 6487E7F8 00000011\n011F0000 6487E7F9 000000FF",
+                "title": "[255 remedy+ slot 45]"
+            },
+            "0d671835e18a9900412c3fc458b12937df7677fc0259b2f121d775c500a5181a": {
+                "source": "011F0000 6487E7B2 000000B0\n011F0000 6487E7B3 000000FF",
+                "title": "[255 LuvLuv G slot 12]"
+            },
+            "113fd1620bbb0e6769341194f54aca424c53e181b6caaeb979bda6e4c53c5107": {
+                "source": "011F0000 6487E7AE 00000031\n011F0000 6487E7AF 000000FF",
+                "title": "[255 Aegis Amulet slot 10]"
+            },
             "130f1b98b71374665e2a1b041bc68e491c091757a5fe64148c1f61adf91c1d6a": {
                 "source": "041F0000 6487E21C 000182B8",
                 "title": "[Irvine lvl 100]"
@@ -11567,6 +11656,26 @@
             "1369140fa81c87ad91ba29077ebecbf578b75fac344b78eb1595bc8947984b04": {
                 "source": "041F0000 6487E3E4 000182B8",
                 "title": "[selphie lvl 100]"
+            },
+            "1479a0f4871ee43be6cbd8dfb70c0604f5bc7c85e30ca4f26d057a4a0a9db298": {
+                "source": "011F0000 6487E7F4 0000001B\n011F0000 6487E7F5 000000FF",
+                "title": "[255 flare stone slot 43]"
+            },
+            "1761f9d425e9e6a4b8b26caa734b09b34721af48a5ddd5631f3e30c18b967cbe": {
+                "source": "011F0000 6487E7CA 000000AB\n011F0000 6487E7CB 000000FF",
+                "title": "[255 Vit up slot 24]"
+            },
+            "1aec0fcdfa0d398ae69c611624de685e166057a170c47473ad3d8135c576ebe2": {
+                "source": "011F0000 6487E7EA 00000097\n011F0000 6487E7EB 000000FF",
+                "title": "[255 dino bone slot 38]"
+            },
+            "1b732e68f6570f5a996d83014a59d1d93f648448476c3cada1b3daa683855162": {
+                "source": "011F0000 6487E7E8 00000043\n011F0000 6487E7E9 000000FF",
+                "title": "[255 star fragment slot 37]"
+            },
+            "2098536de08a426103928740f583cdcfdb2ad4590f2496d792315387ad1a1572": {
+                "source": "011F0000 6487E79E 00000035\n011F0000 6487E79F 000000FF",
+                "title": "[255 Status Guard slot 2]"
             },
             "2c1e7ece150ab5fde7fb3ba469df8818f807682adfdd7d0a3f969f4edec684d8": {
                 "source": "041F0000 6487E764 05F5E0FF",
@@ -11584,6 +11693,10 @@
                 "source": "041F0000 6487E0E8 0000270F\n041F0000 6487F342 0000270F",
                 "title": "[1st character HP 9999 on battle]"
             },
+            "2fcc0373089562681a57b9f1c709dc6a54242d62d7fe794843abc5974f539e5f": {
+                "source": "011F0000 6487E7E2 00000088\n011F0000 6487E7E3 000000FF",
+                "title": "[255 marlboro tentacle slot 34]"
+            },
             "3546b3105599391b21874d046282448e7ac8570225fcfd8c7a7dc0f718fdbe5f": {
                 "source": "041F0000 6487E0EC 00005DC0",
                 "title": "[squall lvl 25]"
@@ -11592,6 +11705,10 @@
                 "source": "041F0000 6487E0EC 000182B8",
                 "title": "[squall lvl 100]"
             },
+            "3827e2dc3e56f59694d9158c297c7420eb2d32b81c928bd317a37b42d9dabaf9": {
+                "source": "011F0000 6487E7D8 0000004A\n011F0000 6487E7D9 000000FF",
+                "title": "[255 regen ring slot 30]"
+            },
             "389ddf086419617dbb1e7fc37a65ba128815cd9d30391ba9d48128935b1033ab": {
                 "source": "041F0000 6487E3E4 05F5E0FF",
                 "title": "[selphie Exp]"
@@ -11599,6 +11716,10 @@
             "3a8de8c1c0d9186e55f1bb9fcd31f99f668d258ad65bbcf14dd5910756da3823": {
                 "source": "041F0000 6487DE08 05F5E0FF",
                 "title": "[diablos exp]"
+            },
+            "4237ab159724d621230ae1ba5b8404bda98e7df440bf6d4fab277a4bde928070": {
+                "source": "011F0000 6487E7C6 000000AE\n011F0000 6487E7C7 000000FF",
+                "title": "[255 Spd Up slot 22]"
             },
             "52a95aba4931edac74cb8329e5c14e6eff97abe1b3c16076129f096fdac1e5d6": {
                 "source": "041F0000 6487DDC4 05F5E0FF",
@@ -11612,17 +11733,37 @@
                 "source": "041F0000 6487D628 05F5E0FF",
                 "title": "[Shiva EXP]"
             },
+            "56c5eb34e0741d37c5e12e9f983ced25ac62c81958b40b6e2e114c049a1cba7e": {
+                "source": "011F0000 6487E7CE 000000AC\n011F0000 6487E7CF 000000FF",
+                "title": "[255 Mag up slot 25]"
+            },
             "5b27d3a828accad3e0ece5a085a834828491da85cfc197c9fb34177e3d66bc24": {
                 "source": "041F0000 6487DCB4 05F5E0FF",
                 "title": "[Quezacotl EXp]"
+            },
+            "61863f32771ff3440dd0a1c318ffad82e878cd8331e207bb9ebf923dab025827": {
+                "source": "011F0000 6487E7D2 0000007E\n011F0000 6487E7D3 000000FF",
+                "title": "[255 Dragon fang slot 27]"
             },
             "61a01cce0a6eb34caf40932f0dd5650155d49e7d950bacafee5be6a275b8c9ca": {
                 "source": "041F0000 6487E21C 05F5E0FF",
                 "title": "[Irvine Exp]"
             },
+            "65037a872706444e33d358fb18e87f173c3799fbc2128ff7ebc7c32356e52b3b": {
+                "source": "011F0000 6487E7FE 000000B1\n011F0000 6487E7FF 00000001",
+                "title": "[weapon mon 1st slot 48]"
+            },
             "69b73156daa363e78f3dea9c9d785c8bc3f789809a1d0ea5ca9bd567f1bb5c4c": {
                 "source": "041F0000 6487E2B4 00005DC0",
                 "title": "[quistis LVL 25]"
+            },
+            "6ecb38be4ffc68b0b27189ed25f1ae5c1e66816ef4ddc57e6081fbf36e88c448": {
+                "source": "011F0000 6487E7BC 00000052\n011F0000 6487E7BD 000000FF",
+                "title": "[255 Adamantine slot 17]"
+            },
+            "72e67cde66ff3f7fc0d050afbbecd34c8e0ca880b6a93daf4f2ef0d40be746eb": {
+                "source": "011F0000 6487E7DE 0000007A\n011F0000 6487E7DF 000000FF",
+                "title": "[255 fury fragment slot 32]"
             },
             "780a0246915294de69bf18a2be00862ffdbfc5eab81f643c4d7405cecdc898f7": {
                 "source": "041F0000 6487E2B4 00001B58",
@@ -11632,13 +11773,49 @@
                 "source": "041F0000 6487E348 FFFF270F\n041F0000 6487F342 FFFF270F",
                 "title": "[9999 Rinoa HP]"
             },
+            "7a90b98eacc9cb1cc77c184e6eb2804a293672c8b7c6ba99f29e62e71a294943": {
+                "source": "011F0000 6487E7A6 0000005C\n011F0000 6487E7A7 000000FF",
+                "title": "[255 steel curtain slot 6]"
+            },
+            "7c97d697cd85c3c13a388ed2471f4907b52fbdf944be38f980c760869ac0a814": {
+                "source": "011F0000 6487E7C2 00000015\n011F0000 6487E7C3 000000FF",
+                "title": "[255 Holy War slot 20]"
+            },
+            "7dad7c1502e6c01b5442e7fa0255e7ecafccf56d8bec6b87336a35992395b779": {
+                "source": "011F0000 6487E7B8 00000069\n011F0000 6487E7B9 000000FF",
+                "title": "[255 Three star slot 15]"
+            },
             "7f035e815d9a1d87a0f5b68a337c1d9e14a3a889b011c1eebf9c5b3d453b75db": {
                 "source": "041F0000 6487E0EC 05F5E0FF",
                 "title": "[squal exp]"
             },
+            "8829ef3203823d8b3071302b86eabc859a6c3d4f8796a3dbf5efcdd35f2a2280": {
+                "source": "011F0000 6487E7E0 00000099\n011F0000 6487E7E1 000000FF",
+                "title": "[255 dragon skin slot 33]"
+            },
             "8939b7febc1e63a77eaa1c71e184ca2e881ca9c60d6ec41754581dccc9189db7": {
                 "source": "041F0000 645F8CCA 000000FF\n041F0000 6487F5C0 000000FF\n041F0000 6487F5C2 000000FF\n041F0000 6487F5C4 000000FF\n041F0000 6487F5C6 000000FF\n041F0000 6487F5C8 000000FF",
                 "title": "[Always 255 AP after Battle]"
+            },
+            "8b97a1e6649a11da501079648057688630e4d4b8a0ba7c308e94d1bb3a26be68": {
+                "source": "011F0000 6487E7B6 0000006C\n011F0000 6487E7B7 000000FF",
+                "title": "[255 Pulse Ammo slot 14]"
+            },
+            "8e4baad4bd55c8c7b138adee5e1a30d880528c7d97fad9af1ecec7bd63573ea3": {
+                "source": "011F0000 6487E7F0 0000001D\n011F0000 6487E7F1 000000FF",
+                "title": "[255 ultima stone slot 41]"
+            },
+            "91878b877c1b44384ece22946ea48c9acfb9ddf29b57daff45b162a09fa87d0d": {
+                "source": "011F0000 6487E7A4 0000005B\n011F0000 6487E7A5 000000FF",
+                "title": "[255 moon curtain slot 5]"
+            },
+            "94d4183c944012e07c7be0d663517a888b83e585325df13ec64203a570eb621f": {
+                "source": "011F0000 6487E7A0 00000034\n011F0000 6487E7A1 000000FF",
+                "title": "[255 status attack slot 3]"
+            },
+            "97852d68c6c2df6390fd4a3832245ec562511deaac8a47a45f8d59165e3c7947": {
+                "source": "011F0000 6487E7D6 00000054\n011F0000 6487E7D7 000000FF",
+                "title": "[255 force armlet slot 29]"
             },
             "992ad8294c5aba0549dd9ec40ecea7aae2e61a55e8730ba7ad8fc9630b020ab1": {
                 "source": "041F0000 6487E34C 05F5E0FF",
@@ -11648,9 +11825,17 @@
                 "source": "041F0000 6487F512 0000270F\n041F0000 648F6A1E 0000270F",
                 "title": "[3rd character HP 9999 on battle]"
             },
+            "9b288548979cd748dcff40f3fd0678641ce449d91a4f1b1e3e9b6dbad9a54b65": {
+                "source": "011F0000 6487E7C8 000000AA\n011F0000 6487E7C9 000000FF",
+                "title": "[255 Str Up slot 23]"
+            },
             "9d822812e4284ca2534aebc17524ac844bd90ddf0d4ab5de2fcb52481d234d7b": {
                 "source": "041F0000 6487E21C 00001B58",
                 "title": "[Irvine lvl 8]"
+            },
+            "9e77415a94fa3e958444fc5c4043b294fb5a67f527da503051a44932f83b6610": {
+                "source": "011F0000 6487E7FA 00000042\n011F0000 6487E7FB 000000FF",
+                "title": "[255 steel pipe slot 46]"
             },
             "a051a18577dff8332089e85ee9143c2c0a8977090de77fef23a84f559e552e15": {
                 "source": "041F0000 6487E0EC 00001B58",
@@ -11660,6 +11845,18 @@
                 "source": "041F0000 6487F512 FFFF270F\n041F0000 648F6A1E FFFF270F",
                 "title": "[9999 zell HP]"
             },
+            "a9331ca5033e9be079bcb87dcb947f88d081e402e47fa0ef0f344071c6f277ea": {
+                "source": "011F0000 6487E7F2 0000001C\n011F0000 6487E7F3 000000FF",
+                "title": "[255 Meteor stone slot 42]"
+            },
+            "ab41b4de7437efd078e1ed360220cee115635e4d14e76a566010b2b9e722e069": {
+                "source": "011F0000 6487E7FC 000000A7\n011F0000 6487E7FD 00000001",
+                "title": "[solomon ring slot 47]"
+            },
+            "ac16bbac811c47f7b065c0e333e1de8a1d0e4b6743df2690fdaa404c25b0dee6": {
+                "source": "011F0000 6487E7A2 00000036\n011F0000 6487E7A3 000000FF",
+                "title": "[255 Rosetta Stone Slot 4]"
+            },
             "b0e2917a2653ebdc0554739000879742d337cc39d1c0a54f103aa92e3f41976d": {
                 "source": "041F0000 6487E184 00005DC0",
                 "title": "[Zell lvl 25]"
@@ -11667,6 +11864,26 @@
             "b8704b1b19874472b62ad0837280ac46fc958bb8dd34e5f5d6cabe8baa808cb4": {
                 "source": "041F0000 6487E218 FFFF270F\n041F0000 6487F342 FFFF270F",
                 "title": "[9999 Irvine HP]"
+            },
+            "bafbedc1854935c6001f3b24ba0ca1ed05d4c64c768d2e517f38555be9654a9e": {
+                "source": "011F0000 6487E7E6 00000081\n011F0000 6487E7E7 000000FF",
+                "title": "[255 curse spike slot 36]"
+            },
+            "be3abb6e35e4663a213ac7d1b22a2f3c9ea9f4436af7be6c200f1e11c391207d": {
+                "source": "011F0000 6487E7AC 00000032\n011F0000 6487E7AD 000000FF",
+                "title": "[255 elem attack slot 9]"
+            },
+            "c059ad7712f3f0dabbb83417a9d72402ba938604ca38619c3f31ba00aa3371c0": {
+                "source": "011F0000 6487E7EC 00000076\n011F0000 6487E7EF 000000FF",
+                "title": "[255 screws slot 40]"
+            },
+            "c4a88642f8ad5b714e1fc7a0e625002d9168213bc02d52516685b2bccf02cf2a": {
+                "source": "011F0000 6487E7BA 00000058\n011F0000 6487E7BB 000000FF",
+                "title": "[255 Royal Crown slot 16]"
+            },
+            "c67472795a0751f1bdd7efff69450a115e5b2fab22925f12d3809ce3d4d09887": {
+                "source": "011F0000 6487E7BE 00000055\n011F0000 6487E7BF 000000FF",
+                "title": "[255 Magic Armlet slot 18]"
             },
             "c7bc7990efc3658d146ecfeeda7cefd5cfa42bab01986ebacb944a82fa2fd3c9": {
                 "source": "041F0000 6487E0E8 FFFF270F\n041F0000 6487F342 FFFF270F",
@@ -11676,6 +11893,14 @@
                 "source": "041F0000 6487E3E4 00005DC0",
                 "title": "[selphie lvl 25]"
             },
+            "ca07902ea29a49422efef02e667b557ea2af6534aab647079994f2ce63a3e75b": {
+                "source": "011F0000 6487E7C0 0000004F\n011F0000 6487E7C1 000000FF",
+                "title": "[255 Hyper Wrist slot 19]"
+            },
+            "cde41768a4d8af41dd9204685c6325abb1f66766abddefa352ed8f7379cd4631": {
+                "source": "011F0000 6487E7D0 000000A9\n011F0000 6487E7D1 000000FF",
+                "title": "[255 HP up slot 26]"
+            },
             "d49b83101c77070fe19063a82cb52168a70bf41fa05fdca18c1b4a36134f823f": {
                 "source": "041F0000 6487E2B0 FFFF270F\n041F0000 6487F512 FFFF270F",
                 "title": "[9999 Quistis HP]"
@@ -11684,13 +11909,33 @@
                 "source": "041F0000 6487E184 05F5E0FF",
                 "title": "[Zell EXP]"
             },
+            "da000234ea200b37668645ddb636382a5ce90b4e9ece0ef9078d77f6d763a1f8": {
+                "source": "011F0000 6487E7EC 00000096\n011F0000 6487E7ED 000000FF",
+                "title": "[255 moon stone slot 39]"
+            },
             "daaf2d858b731509e07587cd9c11a70df1656ea4440e64dd04d8767f694601b8": {
                 "source": "041F0000 6487E3E0 FFFF270F\n041F0000 6487F342 FFFF270F",
                 "title": "[9999 Selphie HP]"
             },
+            "dcb5db6691262d5ce4d0507af1e7a407a0028357bf88e686c5b47ddfeb48e864": {
+                "source": "011F0000 6487E7B0 00000030\n011F0000 6487E7B1 000000FF",
+                "title": "[255 Luck-J slot 11]"
+            },
             "dd8f13b8a2730be7f152b401124320ff62a4f7c0dc7f2984d755493aef643c76": {
                 "source": "041F0000 6487E34C 000182B8",
                 "title": "[Rinoa LVL 100]"
+            },
+            "de835223b439bd2f4008ae762dda29c3ade4a7106e9fdda075b6d1ecb354ed9b": {
+                "source": "011F0000 6487E7A8 0000005D\n011F0000 6487E7A9 000000FF",
+                "title": "[255 glow curtain slot 7]"
+            },
+            "ded1c2838c8c16224ec4e524d687f08bad34433cad30e691f0fc0a3a4060eeff": {
+                "source": "011F0000 6487E7AA 00000033\n011F0000 6487E7AB 000000FF",
+                "title": "[255 elem guard slot 8]"
+            },
+            "df8ba3acacd3db2249c73d5121145ca685dd9dc3e54480e7b949fa4b20558715": {
+                "source": "011F0000 6487E7D4 00000044\n011F0000 6487E7D5 000000FF",
+                "title": "[255 energy crsytal slot 28]"
             },
             "e2526e37dd4946bf09661e8d48c7e9b3029d17ad4f7f704fb1cf5a0ba13332c4": {
                 "source": "041F0000 6487E21C 00005DC0",
@@ -11700,9 +11945,17 @@
                 "source": "041F0000 6487E180 0000270F\n041F0000 6487F172 0000270F",
                 "title": "[2nd character HP 999 on battle]"
             },
+            "e71b170af7b96ae0938d349ecbb1c823a1c30819989ebda87afa7885483b6d2e": {
+                "source": "011F0000 6487E7E4 00000075\n011F0000 6487E7E5 000000FF",
+                "title": "[255 sharp spike slot 35]"
+            },
             "e88bd937dbb1e88594de1369e5a1d98f9f0edf6837905e29c741b34ac1c40c8f": {
                 "source": "041F0000 6487E34C 00005DC0",
                 "title": "[Rinoa LVL 25]"
+            },
+            "e8dea0f96b0acbe59f82e55a02cb0a4d49ee5758963f309090e135edbe316b1f": {
+                "source": "011F0000 6487E79C 0000005A\n011F0000 6487E79D 000000FF",
+                "title": "[255 Rocket Engine slot 1]"
             },
             "eb19dd02e2205f710354a8b4b3d1fa59b2d99c3afcb0c8998953426f1b5cee0e": {
                 "source": "041F0000 6487E184 00001B58",
@@ -11715,6 +11968,22 @@
             "ef44d8d5c7004509f2b070c3f57e71ba9d3d83f5393b2e6677a4065f169686bf": {
                 "source": "041F0000 645F8EBC 05F5E0FF",
                 "title": "[Quistis EXP]"
+            },
+            "efbaca9e4122ede06f99c2e0dab2ab7f1b37aab04741ad5e93c215248f6a4fda": {
+                "source": "011F0000 6487E7B4 000000AF\n011F0000 6487E7B5 000000FF",
+                "title": "[255 Luck up slot 13]"
+            },
+            "efc4166c4f106896405ff7da63af85487869e52de22de3077f757c71c4d15e19": {
+                "source": "011F0000 6487E7FE 000000B7\n011F0000 6487E7FF 00000001",
+                "title": "[weapon mon august slot 49]"
+            },
+            "f5854b6ffb02e6f6ffd7b102d0de2c0c004802e192b8a652ed3f3b5e11686a17": {
+                "source": "011F0000 6487E7C4 000000AD\n011F0000 6487E7C5 000000FF",
+                "title": "[255 Spr up slot 21]"
+            },
+            "fbf75e7df03bb4b5704be775fcf40ef5bd7f5a09aa8730af37ac7575b7273efe": {
+                "source": "011F0000 6487E7F6 0000001A\n011F0000 6487E7F7 000000FF",
+                "title": "[255 holy stone slot 44]"
             },
             "fc7e482b6742c2050cad41d21712b78bdd98ff2f9da5d8ca428815052d47a80b": {
                 "source": "041F0000 6487E184 000182B8",
@@ -18517,6 +18786,19 @@
                 "source": "08000000 0013E2C0 2A0003F3 97FE8A7E",
                 "title": "[Change Money Max]"
             }
+        }
+    },
+    "0100F110029C8000": {
+        "743C88F0F1C33DBB": {
+            "845a9d455d19aee57584a243c2ace479a0ebf051cb3a2a66173937ffd4733ebc": {
+                "source": "04000000 000C90B0 D503201F",
+                "title": "[#Airmeter]"
+            },
+            "b73597e3780b68011f3585d6d69e1b40fa7254df3a3732c1354bdaaac17a26f8": {
+                "source": "04000000 000C7044 0B080128",
+                "title": "[#No Damage]"
+            },
+            "version": 65536
         }
     },
     "0100F15003E64000": {
