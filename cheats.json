@@ -1054,7 +1054,7 @@
             },
             "da518b2470051b55fd919ebb0bd59f6904304bb18e3fc3984082805c133f1406": {
                 "source": "01000000 00B32880 00000007",
-                "title": "[Unlock Challenge Sound Test Mode]"
+                "title": "[Unlock Challenge, Sound Test Mode]"
             },
             "f8a35ed54276a43de0622544a7d148d54f7e7dabdd08b04ef48015df0ebf686e": {
                 "source": "80000002\n580F0000 00B29A68\n780F0000 00000E3C\n640F0000 00000000 41D00000\n20000000",
@@ -5558,6 +5558,18 @@
             "version": 196608
         }
     },
+    "01004A600EB3E000": {
+        "56C0212550AEE846": {
+            "6cee28d992524affb44a258051a38da4b4dbd276375730d68509722a6962c04f": {
+                "source": "04000000 00140730 5284E1E0",
+                "title": "[max revives = 9999]"
+            },
+            "faed88fb29620a2dbdb4c2c760235b836ba4a0dcfd9d74c2f2533b7b25437691": {
+                "source": "04000000 001410B0 52800000",
+                "title": "[free revive]"
+            }
+        }
+    },
     "01004AB00A260000": {
         "9985B82CC518FFAF": {
             "0069037ca882f0be7a7a7a632bbbdaa8088f4d6f3551fb93358a594a6483d48c": {
@@ -8287,6 +8299,29 @@
         }
     },
     "0100646009FBE000": {
+        "07590851285F3479": {
+            "34c0f612c7b46a86616bd17d9b5da7b61bead5bda0f3f6a1845212dd797b0978": {
+                "source": "580F0000 018140F0\n580F1000 00000030\n580F1000 00000090\n580F1000 00000438\n580F1000 00000010\n580F1000 00000018\n580F1000 00000020\n780F0000 000000A4\n640F0000 00000000 00000000\n580F0000 018140F0\n580F1000 00000030\n580F1000 00000090\n580F1000 00000438\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 000000A4\n640F0000 00000000 00000000",
+                "title": "[no CD]"
+            },
+            "355fc0c3a5557152c6e2e166ea2c4a3c7dafd7e755eef4be030a2eb1a669f7d1": {
+                "source": "580F0000 018140F0\n580F1000 00000030\n580F1000 00000090\n780F0000 0000046C\n640F0000 00000000 00000000",
+                "title": "[cells 0]"
+            },
+            "3759e3a6c76c6351b5892bf1b9ccd557014d28ac6ae8cbb0854b332d8d60f899": {
+                "source": "580F0000 018140F0\n580F1000 00000030\n580F1000 00000090\n780F0000 00000128\n640F0000 00000000 000F423F\n780F0000 00000004\n640F0000 00000000 000F423F",
+                "title": "[HP 999999]"
+            },
+            "cbe872d097bc43a780195b341c11e2022a288f5cd4a5afa8fe67cc7e312dd22c": {
+                "source": "580F0000 018140F0\n580F1000 00000030\n580F1000 00000090\n780F0000 0000046C\n640F0000 00000000 000F423F",
+                "title": "[cells 999999]"
+            },
+            "d6d21eb9844df9a09db8d6745ae5d243ee7067e6aff360469b6cf45f8cd813c7": {
+                "source": "580F0000 018140F0\n580F1000 00000030\n580F1000 00000080\n780F0000 00000058\n640F0000 00000000 77359400",
+                "title": "[gold 2000000000]"
+            },
+            "version": 524288
+        },
         "376D8EF97FB8A97D": {
             "735c5bd24351fb77c8800caee0439e04e1924071a7d841dcfab7716f1419a8d7": {
                 "source": "580F0000 017480E8\n580F1000 00000030\n580F1000 00000090\n580F1000 00000438\n580F1000 00000010\n580F1000 00000018\n580F1000 00000020\n780F0000 000000A4\n640F0000 00000000 00000000\n580F0000 017480E8\n580F1000 00000030\n580F1000 00000090\n580F1000 00000438\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 000000A4\n640F0000 00000000 00000000",
@@ -12546,6 +12581,14 @@
                 "source": "04000000 0052DF04 0B1F0108",
                 "title": "[h]"
             },
+            "327957e7aa142b25abdf33da5139fa31388034d524a81c3bed77a0c7c6a33f3c": {
+                "source": "04000000 004688BC 0B140908",
+                "title": "[Exp x4]"
+            },
+            "3d46f8ffa18285e93219293385071d58624b40833e8f376f5df7290c2d1b8463": {
+                "source": "04000000 00448D00 0B080D28",
+                "title": "[Attribute 8x]"
+            },
             "477c5e6c4864551aca7198d0ffcd80b2e9265307310e2d4af79f4c999c1947ba": {
                 "source": "04000000 00448D58 0B080928",
                 "title": "[4]"
@@ -12554,9 +12597,17 @@
                 "source": "80001000\n400E0000 00000000 00000704\n640F01E0 00000000 4B18967F\n400E0000 00000000 00000710\n640F01E0 00000000 4B18967F\n20000000",
                 "title": "[HP]"
             },
+            "6f265236045ea42a364db5df0589784e44e5c3961cb155699dc52a38f5a7390b": {
+                "source": "04000000 004688BC 0B141108",
+                "title": "[Exp x16]"
+            },
             "92256f8c0eb49de472ffb95238478000ce5c19cf3f92a5272d13760c8e4c6b07": {
                 "source": "04000000 00448D58 0B080D28",
                 "title": "[8]"
+            },
+            "9eb8e46dc24520f75a7cacbfd09428df6e39e6a91a77f38ccae1361eab6857c6": {
+                "source": "580F0000 023457D8\n580F1000 00000000\n580F1000 00000090",
+                "title": "[Master Code]"
             },
             "aee8456fd3061c0d54c4261c3b00a585e2e5c197a9ed85d410cc1afb766526ab": {
                 "source": "04000000 004688BC 0B141508",
@@ -12566,9 +12617,21 @@
                 "source": "04000000 0052DF54 71000108",
                 "title": "[p]"
             },
+            "e27cc73a7ac0fa3827a1fa96dbd24858e99873d23307f927d48ecc7b9eb44796": {
+                "source": "04000000 004688BC 0B140D08",
+                "title": "[Exp x8]"
+            },
             "f2ea2a02dfe6824e7f5dd8ae372713aaada4ae3dc0ed984b319843486afd50b9": {
                 "source": "04000000 0047B4D4 1E204020\n04000000 0047B4D8 1E204001\n04000000 0047B4DC D503201F\n04000000 0047B4E0 D503201F",
                 "title": "[MP/]"
+            },
+            "f6eaf2e9eb5629533a3ee4f5803640a59a8f03ee56d4ef39affc7d4053f3cc8d": {
+                "source": "04000000 00448D00 0B081128",
+                "title": "[Attribute 16x]"
+            },
+            "fdb782d84041bd1b55407ed3f609b57076ddf57fde6b3ba84b7bda1e8a158395": {
+                "source": "04000000 00448D00 0B080928",
+                "title": "[Attribute 4x]"
             },
             "version": 65536
         }
@@ -13965,6 +14028,18 @@
                 "title": "[buy a rocket in garage gives max money]"
             },
             "version": 0
+        }
+    },
+    "01009EB00DC76000": {
+        "35B2BF0C429A1EC0": {
+            "23966ece969bc527cdd7e1df2e5734f74c59f1dc65dd4c158aa8c9bc693432a1": {
+                "source": "010F0000 002D156E 00000063",
+                "title": "[Inf Ammo Pistol]"
+            },
+            "26f0aba39633ced8d2052448247b73f26c1eac6a5e09b1f9374b6c07e4b690ed": {
+                "source": "040F0000 00290B78 0098967F",
+                "title": "[Max Money]"
+            }
         }
     },
     "01009F20086A0000": {
@@ -17428,11 +17503,207 @@
             "version": 0
         }
     },
+    "0100E0600BB8001": {
+        "812A9AD7AB2000B0": {
+            "0aae8f2a02076e5004983295992b13a21baac614cd1b5c6044d37592d7426254": {
+                "source": "021F0000 003BD370 000000FF\n021F0000 003BD371 000000FF",
+                "title": "[Sue Quick level up]"
+            },
+            "0f1d02a9027ca43a869dc4f41f218f12effbdfe6d3e7585a08b58e358e81b08b": {
+                "source": "011F0000 003BD2EF 00000063",
+                "title": "[feena lvl 99]"
+            },
+            "1e563f4372ac4b39c594bc7a79f2b850a66b56a90cf325a5324e6626adaa115f": {
+                "source": "011F0000 003BD36F 00000063",
+                "title": "[sue lvl 99]"
+            },
+            "2f7839da9bfa32efe2ac78f0ec5196082c9e3e0c869ccd9098d81ec1ecb4b3e9": {
+                "source": "011F0000 003BD26F 00000063",
+                "title": "[justin Lvl 99]"
+            },
+            "31c6d5aac023de49dae89d2265e34bbc3685e6cdef665abf720374142c5d7e08": {
+                "source": "011F0000 003BD2F6 000000E7\n011F0000 003BD2F7 00000003\n011F0000 003BD2F8 000000E7\n011F0000 003BD2F9 00000003",
+                "title": "[Feena Max HP]"
+            },
+            "4cc958265c5113416b53da47946ea1942a8f359814a822a531759b99ea3f376d": {
+                "source": "011F0000 003BD2A8 000000FF\n011F0000 003BD2A9 000000FF\n011F0000 003BD2AA 000000FF\n011F0000 003BD2AB 000000FF\n011F0000 003BD2AC 000000FF\n011F0000 003BD2AD 000000FF",
+                "title": "[Justin Max Mp]"
+            },
+            "4e930c3f3154e0af1bfaaeae1337a0ec7208207b51e2f92825303be4b1ae8ad7": {
+                "source": "011F0000 003BD3F6 000000E7\n011F0000 003BD3F7 00000003\n011F0000 003BD3F8 000000E7\n011F0000 003BD3F9 00000003",
+                "title": "[Gadwin Max HP]"
+            },
+            "55df455ad3053dcbb83e3d29b3d82288c0a7ca3ce71743f945c6166f6c9458a1": {
+                "source": "011F0000 003BD39C 00000062\n011F0000 003BD39D 00000062",
+                "title": "[sue weapon lvl 98]"
+            },
+            "6b46b5a409001db311f5909bead6b1854c8c3566549cdf8a79f4fb50cc8eb844": {
+                "source": "011F0000 003BD328 000000FF\n011F0000 003BD329 000000FF\n011F0000 003BD32A 000000FF\n011F0000 003BD32B 000000FF\n011F0000 003BD32C 000000FF\n011F0000 003BD32D 000000FF",
+                "title": "[Feena Max MP]"
+            },
+            "6f317b91381920dd17ee60809b2b439509f570a2b008704cc13b9a85c0844ff1": {
+                "source": "011F0000 003BD302 000000E7\n011F0000 003BD303 00000003\n011F0000 003BD304 000000E7\n011F0000 003BD305 00000003",
+                "title": "[Feena Max SP]"
+            },
+            "7687aed7481b5458660071c5aa75d5d375306d9bc2bbe3dfe5d956cfa31061ea": {
+                "source": "011F0000 003BD318 00000063\n011F0000 003BD31A 00000063\n011F0000 003BD319 00000063\n011F0000 003BD31B 00000063",
+                "title": "[feena have all magic lvl 98]"
+            },
+            "808e7c09d41867d8c809ead0ca4157a41e873df009f4acab616fa9ef8cdf7ed5": {
+                "source": "011F0000 003BD402 000000E7\n011F0000 003BD403 00000003\n011F0000 003BD404 000000E7\n011F0000 003BD405 00000003",
+                "title": "[Gadwin Max SP]"
+            },
+            "865099cad04141ffa44d4999ebd36c6769b40e8cbdbe9413bc08c5ccb9e8971f": {
+                "source": "021F0000 003BD2FA 000000E7\n021F0000 003BD2FB 00000003\n021F0000 003BD2FC 000000E7\n021F0000 003BD2FD 00000003\n021F0000 003BD2FE 000000E7\n021F0000 003BD2FF 00000003\n021F0000 003BD301 000000E7\n021F0000 003BD302 00000003",
+                "title": "[Feena Max Stat]"
+            },
+            "8896f8a5df006b2c2d64eae9d5827ce1f8aa2143a23262f242c03f43343d201d": {
+                "source": "011F0000 003BD282 000000E7\n011F0000 003BD283 00000003\n011F0000 003BD284 000000E7\n011F0000 003BD285 00000003",
+                "title": "[Justin Max SP]"
+            },
+            "8f67e4ed541a92160b085d769a7da269ce656935025714fa0b05374db5743d20": {
+                "source": "021F0000 003BD2F0 000000FF\n021F0000 003BD2F1 000000FF",
+                "title": "[Feena Quick level up]"
+            },
+            "99d8a3fe4bbc47036210fda15d84527677c69a19a2153296b79212fb9f812052": {
+                "source": "011F0000 003BD376 000000E7\n011F0000 003BD377 00000003\n011F0000 003BD378 000000E7\n011F0000 003BD379 00000003",
+                "title": "[Sue Max HP]"
+            },
+            "a112eccb51a8b8ca97e94ac14cbdbc2135d5a05062c31b62e34c017ed3efbfc1": {
+                "source": "011F0000 003BD428 000000FF\n011F0000 003BD429 000000FF\n011F0000 003BD42A 000000FF\n011F0000 003BD42B 000000FF\n011F0000 003BD42C 000000FF\n011F0000 003BD42D 000000FF",
+                "title": "[Gadwin Max MP]"
+            },
+            "a11aaf998561c2f8ca00c0b8c1d26e23fae821ef135492a7df43c13eefb1baf0": {
+                "source": "011F0000 003BD41C 00000062",
+                "title": "[Gadwin weapon lvl 98]"
+            },
+            "a944d292a843a531d758cef89c6683978c2441066379145228e4ef122b466b70": {
+                "source": "021F0000 003BD3FA 000000E7\n021F0000 003BD3FB 00000003\n021F0000 003BD3FC 000000E7\n021F0000 003BD3FD 00000003\n021F0000 003BD3FE 000000E7\n021F0000 003BD3FF 00000003\n021F0000 003BD401 000000E7\n021F0000 003BD402 00000003",
+                "title": "[Gadwin Max Stat]"
+            },
+            "b22c5faca4d28fa2c68aec08262d73ff4aa5cdb1cc8820d0b3a455cbf3cfa27d": {
+                "source": "011F0000 003BD298 00000062\n011F0000 003BD29A 00000062\n011F0000 003BD299 00000062\n011F0000 003BD29B 00000062",
+                "title": "[justin have all magic lvl 98]"
+            },
+            "b3bbc4a6487f9f9f9033affb25b82f41a89ae03869aeaadac3216f82d1d9585e": {
+                "source": "011F0000 003BD398 00000063\n011F0000 003BD39A 00000063\n011F0000 003BD399 00000063\n011F0000 003BD39B 00000063",
+                "title": "[sue have all magic lvl 99]"
+            },
+            "b47fac954c3b37087c3a9a98bdf4dfa3162d57cc197ef62c8a88974d2dc6de1f": {
+                "source": "021F0000 003BD27A 000000E7\n021F0000 003BD27B 00000003\n021F0000 003BD27C 000000E7\n021F0000 003BD27D 00000003\n021F0000 003BD27E 000000E7\n021F0000 003BD27F 00000003\n021F0000 003BD280 000000E7\n021F0000 003BD281 00000003",
+                "title": "[Justin Max Stat]"
+            },
+            "bf4ec72c61465d46efb9f03e042b47a05934d8ea0705cf288c2e6402d8d3f966": {
+                "source": "011F0000 003BD418 00000063\n011F0000 003BD41B 00000063",
+                "title": "[Gadwin magic lvl 98]"
+            },
+            "c0a56ad774216c72f4bcd3f42a7649151720920f67bd3f5dfb08cf335f1a3817": {
+                "source": "011F0000 003BD29C 00000062\n011F0000 003BD29D 00000062\n011F0000 003BD29E 00000062",
+                "title": "[justin weapon lvl 98]"
+            },
+            "c56fc23210d692fbedcf018a91413bc580f2348c33580f15f6f1a046c258d8d1": {
+                "source": "011F0000 003BD382 000000E7\n011F0000 003BD383 00000003\n011F0000 003BD384 000000E7\n011F0000 003BD385 00000003",
+                "title": "[Sue Mas SP]"
+            },
+            "c632229f494b9ed1e320d68cbbd3ad847b3eafe5ae829f348f01db340c70ed2e": {
+                "source": "021F0000 003BD37A 000000E7\n021F0000 003BD37B 00000003\n021F0000 003BD37C 000000E7\n021F0000 003BD37D 00000003\n021F0000 003BD37E 000000E7\n021F0000 003BD37F 00000003\n021F0000 003BD380 000000E7\n021F0000 003BD381 00000003",
+                "title": "[Sue Max Stat]"
+            },
+            "c95722e0ee582e0e4846e8be31913fded27862bc86f8b4ebc2d9e2f16000926e": {
+                "source": "021F0000 003BD3F0 000000FF\n021F0000 003BD3F1 000000FF",
+                "title": "[Gadwin Quick lvl up]"
+            },
+            "d1673f33513184eab981904ef6bb97e2026e1630c0f847cab3cbd1ac09dcef9c": {
+                "source": "021F0000 003BD270 000000FF\n021F0000 003BD271 000000FF",
+                "title": "[Justin Quick lvl up]"
+            },
+            "e7f260ccd0369b6a84b4f254f0326d3897149553fb53614d71133e37e8668493": {
+                "source": "011F0000 003BD3A8 000000FF\n011F0000 003BD3A9 000000FF\n011F0000 003BD3AA 000000FF\n011F0000 003BD3AB 000000FF\n011F0000 003BD3AC 000000FF\n011F0000 003BD3AD 000000FF",
+                "title": "[Sue Max MP]"
+            },
+            "e8d9e56f996808dbd9f3741c3ad342d1b21653e2bcffc6dd3b5d093048793846": {
+                "source": "011F0000 003BD3EF 00000063",
+                "title": "[Gadwin lvl 99]"
+            },
+            "f38e3adcd427ce19cf6ffd6fd87f7fef758d30cdcb368d149678f7650e499f7c": {
+                "source": "011F0000 003BD276 000000E7\n011F0000 003BD277 00000003\n011F0000 003BD278 000000E7\n011F0000 003BD279 00000003",
+                "title": "[Justin Max HP]"
+            },
+            "fc1bee3b9c4369288285ae80776f8735dcef821388fc30102513d868337d4af7": {
+                "source": "011F0000 003BD31C 00000063\n011F0000 003BD31D 00000062",
+                "title": "[feena weapon lvl 98]"
+            }
+        }
+    },
     "0100E0600BBC8001": {
         "8B679E3F55BD9DE5": {
             "1a42573c09e392e8269f3c04c217ca4445c386af2e61be630c95f3022807caf2": {
                 "source": "041F0000 00445164 0000270F",
                 "title": "[Grandia 1 money 9999]"
+            },
+            "2816b1ad3084417f5d5d3b21911621e682de843473964048ab4468de29af8065": {
+                "source": "040F0000 003E02AC 000003E7\n041F0000 00445276 000003E7\n041F0000 00445278 000003E7\n041F0000 02C4A638 000003E7\n041F0000 02C60380 000003E7\n041F0000 02C60382 000003E7\n041F0000 02C60384 000003E7",
+                "title": "[Justin HP 999]"
+            },
+            "2accf1631e78d515ee7e9206a9cefc13c61e5cd39244187cf236d27295232f63": {
+                "source": "041F0000 00445282 000003E7\n041F0000 00445284 000003E7",
+                "title": "[Justin SP 999]"
+            },
+            "2ed9dc09fcb2b9fa2d21e4bf2eb41ac67b4feb59e0ef53be0ca6d98774ecfd45": {
+                "source": "041F0000 00445292 0098967F",
+                "title": "[Justin Mace weapon EXP]"
+            },
+            "33a49b75bd4498f316d82d7966e0e8f51553faf27fb90a4439bc7d6f395410ef": {
+                "source": "041F0000 0044537E 000003E7",
+                "title": "[SUE WIT 999]"
+            },
+            "43e7ec7a06cf4f9a0cdcb4131b4768c1d8312ee0ef0d4dfa322d208ef6a8a5e8": {
+                "source": "041F0000 00445382 000003E7\n041F0000 00445384 000003E7",
+                "title": "[SUE SP 999]"
+            },
+            "4d0e92daf1f76592ff621e2e80ded6c1fd246a3773f1085d6847f1fedb629b77": {
+                "source": "041F0000 0044527E 000003E7",
+                "title": "[Justin WIT 999]"
+            },
+            "6a87e2d16021b0770d814872ada50295e5d8e6f3de6a5115bf7e18cb456f11eb": {
+                "source": "041F0000 0044537C 000003E7",
+                "title": "[SUE VIT 999]"
+            },
+            "70faa28f35c95b9a1434e3ef47d469dc3222eea56a97203336aa9b9e0b67e8b6": {
+                "source": "041F0000 00445392 0098967F",
+                "title": "[SUE Arrow weapon EXP]"
+            },
+            "9835456285ec65fc709fefc534f3bc988c0dcbda99d8afb1d544208038e20f61": {
+                "source": "041F0000 00CFE5D4 000F423F",
+                "title": "[Sue Experience points 999999]"
+            },
+            "99d6300ff84b0fef18ccfadcc25c77996c41afaa3ba764f2afeb793fc47246a5": {
+                "source": "041F0000 0044537A 000003E7",
+                "title": "[SUE STR 999]"
+            },
+            "a851b5913a107507aad7e465d3972ae165cb982a0ab37af2e1057055fe850a71": {
+                "source": "041F0000 00CFE3E8 000F423F",
+                "title": "[Justin Experience points 999999]"
+            },
+            "b113c8bc4527987cdd6ec90e0442e36e266e22abb0439e7d5e68a022f916fc74": {
+                "source": "041F0000 0044527A 000003E7",
+                "title": "[Justin STR 999]"
+            },
+            "c4c1ffc1acd3e0b9f06ddc1e6e4493549cf9f883a29f78d9704a865c0e9eea78": {
+                "source": "041F0000 00445290 0098967F",
+                "title": "[Justin Sword weapon exp]"
+            },
+            "d4a52c0796b250d37f30d9fbdf5a7be01013559bdb1621f47ddf40300cd019c6": {
+                "source": "041F0000 0044527C 000003E7",
+                "title": "[Justin VIT 999]"
+            },
+            "e2dc0d92d5df0fab28e0a0d7cd7e6eb1fa51eb860e242269ec9b19269203a0fc": {
+                "source": "041F0000 00445280 000003E7",
+                "title": "[Justin AGI 999]"
+            },
+            "fe2f83d1cfe70aab008113de1afa66d7b2013caf59251d7222708b0693ceeb0d": {
+                "source": "040F0000 003E0324 000003E7\n041F0000 00445376 000003E7\n041F0000 00445378 000003E7\n041F0000 02C4A63A 000003E7\n041F0000 02C6056C 000003E7\n041F0000 02C6056E 000003E7\n041F0000 02C60570 000003E7",
+                "title": "[SUE HP 999]"
             },
             "version": 65536
         }
