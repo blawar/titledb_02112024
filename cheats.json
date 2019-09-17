@@ -7898,25 +7898,85 @@
             "version": 0
         },
         "7D388942A921E50A": {
+            "2d98a0d54c716ac61b9930951ad571fa5395e4d9ec110560a427822dba5707c4": {
+                "source": "04000000 00A87A3C 0B150D4A",
+                "title": "[Skill/props proficiency 8 times]"
+            },
+            "2ff9a27082b4a0b571f616150891097919e7d694bd7cbe418a75a2227318d372": {
+                "source": "04000000 00A72DFC 0B011108",
+                "title": "[Experience value 16 times]"
+            },
+            "39cd3a45bc8f5ca9fd891682f37e842001ea64417a0a0bf61cd828ac04490c61": {
+                "source": "04000000 00A72DFC 0B010908",
+                "title": "[Experience value 4 times]"
+            },
+            "412b8642163434b320827c219dee9c3bbffbf44bdab08244145962c2b3fc5560": {
+                "source": "04000000 00FBE978 D503201F\n04000000 010EB924 D503201F",
+                "title": "[Increased goodness after Max]"
+            },
+            "42ff0b48510a637956f55a2e87c1fe87b45e682ed29d5d2975efdaac27daa739": {
+                "source": "04000000 00A72E0C 1A94B289",
+                "title": "[Max after level upgrade]"
+            },
             "481b5fb711b83ed585c1085fbcee8afb1e476888df70a8e6e9f044a5fc87b1ba": {
                 "source": "04000000 00B4FD00 D503201F",
                 "title": "[Unlimited Items and Ammo (on)]"
+            },
+            "487dbeff486834d57d185fd5b002e6b935fdb12f9c6892718c4057f3e6bbfa24": {
+                "source": "04000000 00A87FEC 1A89B129\n04000000 00A8828C 1A8AB14A",
+                "title": "[Max after the money changes]"
+            },
+            "4f00aa4d0f3347ae7f76092a1ae319772bfc43bf3b217473a393ced3c685af06": {
+                "source": "04000000 00A87A44 1A8BB16B",
+                "title": "[Skill/props proficiency increased after Max]"
             },
             "65ced8b3303d8fbe1fd699bf805273779409eb72736ed8ca8bd1e69f984dd93d": {
                 "source": "04000000 00A734E0 1A95B109\n04000000 00A73514 1A95B109",
                 "title": "[Max Reputation (Affection/Affinity) after change (off)]"
             },
+            "695b6c342cdf1103f56e9b4156e9e8d594003f1f9b4092782539511fadf42bde": {
+                "source": "04000000 00A876AC 0B14094B\n04000000 00A8FEDC 0B090989",
+                "title": "[Medal acquisition 4 times]"
+            },
+            "6968938d62660ddabfc2f5aaa846b7f719187bdd11f2a1600579d0b0e83d35bc": {
+                "source": "04000000 00A876AC 0B14114B\n04000000 00A8FEDC 0B091189",
+                "title": "[Medal acquisition 16 times]"
+            },
             "a2e293f08c0c52b164d58a5dac7edfb0530029b902daabdc9b16c67f2a842a73": {
                 "source": "04000000 0029DFF4 52A85908\n04000000 0029DFF8 1E270100\n04000000 0029DFFC BD000040",
                 "title": "[100% Dropchance (on)]"
+            },
+            "afe6caea7c593458e965b9af5adbd45e4f7345d1c2be115e25bf7caed7397c32": {
+                "source": "04000000 00A87A3C 0B15094A",
+                "title": "[Skill/props proficiency 4 times]"
+            },
+            "b1a95ab3af1c2321c18a7f36f069618577222e3fb4b0ca136c081fc0e93a06a3": {
+                "source": "04000000 00A876AC 0B14014B\n04000000 00A8FEDC 0B090189",
+                "title": "[Medal modification effect is turned off]"
             },
             "b9c8d205c5a5af43c0a23888b67d85e69b92906efed952e0a85403ce74edc4d9": {
                 "source": "04000000 0029DFF4 AA0203F3\n04000000 0029DFF8 D63F0100\n04000000 0029DFFC BD000260",
                 "title": "[100% Dropchance (off)]"
             },
+            "ba182380a40acf2217b95f745867c00d2daea55cec647b800c873368d47342b5": {
+                "source": "04000000 00A721A4 4B1F0108",
+                "title": "[SP use is not reduced]"
+            },
             "c12688cff4ffc4655db7b6ec6d6d4916789f380c86dccd0ec7abd3132e50724b": {
                 "source": "04000000 010E21C0 B9044801\n04000000 010E21C4 D65F03C0\n04000000 010E21C8 D503201F\n04000000 010E21CC D503201F",
                 "title": "[Max Money on change (off)]"
+            },
+            "d1c9fbbef7a034fd14a2fc728639c6642a2164dc3b85993d52150bb876f48b6a": {
+                "source": "04000000 00A72DC0 1A89B129\n04000000 00A72F3C 1A97B2E9",
+                "title": "[Max after the increase of CP]"
+            },
+            "d919f3f95517eca8b6be1e469450aa5d198410a1d420563d0f772e5dd9defc9c": {
+                "source": "04000000 00A876AC 0B140D4B\n04000000 00A8FEDC 0B090D89",
+                "title": "[Medal acquisition 8 times]"
+            },
+            "dad9ae1ccb046af6d08c9c4b18d76ac544d6dce54cb213400da88e7a2f4146aa": {
+                "source": "04000000 00A87A3C 0B15114A",
+                "title": "[Skill/props proficiency 16 times]"
             },
             "e367d89b75b6923bbe19a8cb6651d50a4f56ccdf9d744fbd0ca5e480f1b8646f": {
                 "source": "04000000 010E21C0 52993FE1\n04000000 010E21C4 72A77341\n04000000 010E21C8 B9044801\n04000000 010E21CC D65F03C0",
@@ -7929,6 +7989,10 @@
             "f19080deba89efe0d72658a095e6da1f3b64fc6494d59a0aa7b43272c94e1d05": {
                 "source": "04000000 00B4FD00 4B140108",
                 "title": "[Unlimited Items and Ammo (off)]"
+            },
+            "f2679d4a3e38b9abecfc45c10957f6a93ff86948274e2d3dfefe4c3a163f56e8": {
+                "source": "04000000 00A72DFC 0B010D08",
+                "title": "[Experience value 8 times]"
             },
             "version": 65536
         }
@@ -8721,6 +8785,26 @@
                 "title": "[P1 Infinite Power]"
             },
             "version": 65536
+        }
+    },
+    "01006BB00C6F0000": {
+        "AE16F71E002AF8CB": {
+            "297c7991d34c6976e0235b72de1b2d7416d598e8b8d4f8154c36b194e7d3846c": {
+                "source": "02000000 01CC0760 0000270F",
+                "title": "[Rubies]"
+            },
+            "29b505524fd1c2d760d99b82180ace304aac02d0e6d304849032e3a094f88b41": {
+                "source": "01000000 01CC077F 00000014",
+                "title": "[Arrows]"
+            },
+            "b3e279074bac585678a2ccb1e7cfdfda9a11302ad9c347bcca1e84ccb82c0425": {
+                "source": "01000000 01CC0780 00000014",
+                "title": "[Magic Powder]"
+            },
+            "c4a6448bd120c403f8cbabaa749d21589f6044ac99e089e71e6f5e0b3503f06b": {
+                "source": "01000000 01CC0764 00000028",
+                "title": "[Hearts]"
+            }
         }
     },
     "01006C3004FAE000": {
