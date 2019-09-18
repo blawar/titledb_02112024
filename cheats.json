@@ -14104,6 +14104,32 @@
                 "source": "04000000 001F704C 1E282808",
                 "title": "[UNL Fuel]"
             }
+        },
+        "FD04FC9F3849184D": {
+            "2e23219211931cd39836087eef7168a2509a7fdc34951b1cf4a7daa60b99be38": {
+                "source": "04000000 002C2820 1E2703E0\n04000000 002C2840 1E2703E0\n04000000 002C2860 1E2703E0",
+                "title": "[No Speed loss]"
+            },
+            "30766a26818db843d965521a704cb34c476a78c97689c03d71f9ebcba7a88dd2": {
+                "source": "04000000 002C910C 1E282808",
+                "title": "[UNL Fuel]"
+            },
+            "7e6b956f679a567ae2173c71223dd33abbaa30a191e97a7c582448182a260bbd": {
+                "source": "04000000 002AFE00 52800120",
+                "title": "[UNL Nitro]"
+            },
+            "947826b8e281cf0ea1b6764c2e6782bab8d7a8c8c4f5650a6126ec47f0cec2f4": {
+                "source": "04000000 00203F80 52800000",
+                "title": "[Race Pos1]"
+            },
+            "b3d87902606479377b9ac62821e5bc0754cecf0e9bdd60918abef81aa5b3efd9": {
+                "source": "04000000 000DF2F0 B9405C00",
+                "title": "[All Race Coins Collected*]"
+            },
+            "e5d31494120b9fa5ac20858f8031eed7f5286fe613a7a8500f98a14f274431ae": {
+                "source": "04000000 000F42FC 52800008",
+                "title": "[All Cars Unlocked]"
+            }
         }
     },
     "01009EA00E2B8000": {
