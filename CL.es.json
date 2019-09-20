@@ -2394,11 +2394,12 @@
             "Plataformas"
         ],
         "ratingContent": [
-            "Sangre",
+            "Derramamiento de sangre",
+            "Lenguaje",
             "Violencia"
         ],
         "numberOfPlayers": 1,
-        "rating": 13,
+        "rating": 17,
         "developer": null,
         "publisher": "Devolver Digital",
         "frontBoxArt": null,
@@ -2663,6 +2664,55 @@
             "zh"
         ],
         "size": 6319767552
+    },
+    "70010000013702": {
+        "id": "01000D200C180000",
+        "rightsId": null,
+        "name": "Overland",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190919,
+        "nsuId": 70010000013702,
+        "category": [
+            "Estrategia"
+        ],
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Finji",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/34c6f295defd7be6e4fa95137eed3226c548e5539775870a58bdccfbe5ebdf42.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4708aadcb21c3ee2924a1a35f481fb7a183b27a99da9bd7852608c9b5be48d8e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75350efe8d7644496d18616ee36e49702f623757c1be4c1a342b9c2785499582.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f77ee693e2f361ca3a6a0b43c32833aa55be01c29c14ac005f6dd5f532f9e74.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b866eb0122631d884367ac261a82a0ba04d8455b488681f390d77b7be3610a4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1bb3af4d3e75370779f415d60b3868cc5ac2d64f68892247a03f676c4e6cabe9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/201811d19d414c51f2081d0f28d65f2dcd2bcff267d0cb9d50951f7a5e89473a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/751879d9c67efdf432b7b95be2985f00700083a69ef2ab87a27e5f15e623b214.jpg",
+        "intro": "No todos van a sobrevivir.",
+        "description": "Hazte cargo de un grupo de personas en un viaje posapocal\u00edptico a trav\u00e9s de EE. UU. en este juego de supervivencia por turnos. Lucha contra monstruos, rescata a supervivientes y busca suministros como combustible, medicinas y armas. Decide qu\u00e9 hacer, ya sea reparar ese auto en ruinas o rescatar a ese perro. Pero recuerda que toda acci\u00f3n que tomes tendr\u00e1 consecuencias. Prep\u00e1rate para afrontar situaciones extremas, escapes dram\u00e1ticos, decisiones dif\u00edciles, debates en los que se discutir\u00e1 salvar al perro o no y el fin del mundo.\n\nCaracter\u00edsticas:\n\n- Procura tener siempre el tanque del auto con combustible. Al\u00e9jate de los monstruos. Ten cuidado. No hagas mucho ruido.\n- Los ruidos fuertes atraen problemas y no hay forma de que puedas enfrentarlos a todos. Carga todo el combustible que puedas, rescata a esa persona varada y vuelve al auto antes de que sea tarde.\n- Viaja al oeste a trav\u00e9s de praderas, monta\u00f1as, desiertos e incluso lugares a\u00fan m\u00e1s extra\u00f1os. Cada nivel, mapa de ruta y personaje se generan de forma aleatoria. Esto quiere decir que cada viaje es distinto.\n- Equ\u00edpate con much\u00edsimos objetos, incluyendo botiquines de primeros auxilios, escudos, hachas, plantas en macetas, blindajes y portaequipajes.\n- Un fin del mundo totalmente nuevo presentado por Finji (Canabalt, Night in the Woods).",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 1215299584
     },
     "70010000013704": {
         "id": "010044500C182000",
@@ -3272,6 +3322,52 @@
             "ko"
         ],
         "size": 13293846528
+    },
+    "70010000016904": {
+        "id": "0100E5600D446000",
+        "rightsId": null,
+        "name": "Ni no Kuni: Wrath of the White Witch",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190920,
+        "nsuId": 70010000016904,
+        "category": [
+            "Juego de rol",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Referencias al Uso de Alcohol y Tabaco",
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Apuestas simuladas"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/78d73682833bab17b26827c7a4c38147a295dc3a178517c0b8a0fe277fe31122.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/25b73da71810ca922c5a2b5fef451fb12455a1c29f09da3a43a1f7b3120356d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39e0bf5f29e0160426faa924d857477d1bf91dcd723e357b6c7216c9a6f83d29.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4060f209cfa2e4e931bd2e73d220a11945ff93cb7a153c6af382de8f028e13e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4ee3c0985742b7db7dc8e82f2872f6dc6bfdbbbad33230db316b4331b1add2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94f1b4308da43a592633591ad6284d6b4fa27018447c1d1797b98c0a1056b190.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9776343a91f8e8df1f12e6833c71991d7cb2f53a1bd9056fd4e71b415c802f8e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25e80ee27f7fccf286440746b77a2fe44d9da6bcce29c55d5a1bc970700b6e70.jpg",
+        "intro": "Ll\u00e9vate el otro mundo contigo",
+        "description": "Regresa al otro mundo en Ni no Kuni: La ira de la Bruja Blanca Remastered. El cl\u00e1sico de LEVEL-5 vuelve mejor que nunca: con gr\u00e1ficos y rendimiento mejorados. Acompa\u00f1a a Oliver en su viaje a trav\u00e9s de un mundo en el que encontrar\u00e1 tanto nuevas amistades como enemigos terribles con la esperanza de recuperar a su madre, a la que perdi\u00f3 tras un tr\u00e1gico accidente. En compa\u00f1\u00eda de su inseparable amigo Drippy y de su ejemplar del Vadem\u00e9cum del mago, Oliver recorrer\u00e1 un mundo de fantas\u00eda mientras domestica \u00fanimos, se enfrenta a enemigos y supera los innumerables obst\u00e1culos que se interponen entre \u00e9l y la salvaci\u00f3n de su madre.\n\nSe trata de una historia cautivadora, narrada con las t\u00e9cnicas de animaci\u00f3n del famoso Studio Ghibli y con una banda sonora compuesta por el aclamado Joe Hisaishi. Ni no Kuni: La ira de la Bruja Blanca combina unos gr\u00e1ficos y unas animaciones hermosos, un argumento magistral y una magn\u00edfica banda sonora para crear una aventura de rol \u00e9pica sin precedentes.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 6169821184
     },
     "70010000017136": {
         "id": "010029600D56A000",
