@@ -6394,6 +6394,132 @@
         }
     },
     "010055D009F78000": {
+        "19BA39BD3EE8131D": {
+            "00cb6dc4b28eb63a88316d5cde592d28dceaca2cae7d022a080d96b52cfc5497": {
+                "source": "04000000 003C37CC 0B020D4A\n04000000 00393394 0B020D29",
+                "title": "[JOB EXP 8x]"
+            },
+            "034af307c7f5d23e8829167cc9963e4fbb2f9daa5f6a86edd374bdb7736fdb32": {
+                "source": "04000000 003C37CC 0B02114A\n04000000 00393394 0B021129",
+                "title": "[JOB EXP 16x]"
+            },
+            "05cfd1e26718bc790aee995f7d26b167284c75da23ad9104369ccc9e5f1810be": {
+                "source": "04000000 003C35A8 0B011129",
+                "title": "[EXP 16x]"
+            },
+            "111f90635ad22790b64f50ba7942d44e2fa9a31c2368bc726ed1ec0874e1698e": {
+                "source": "580F0000 01A1A7A8\n580F1000 00001980\n780F0000 0000000A\n610F0000 00000000 00000000",
+                "title": "[Weapon art no durability decrease]"
+            },
+            "1248d0c49e644f595979508407ca86e44ca1ec00d4941ccd2801277f72f3db0c": {
+                "source": "400E0000 00000000 00023D61\n610F01E0 00000000 00000001",
+                "title": "[Mode : Classic]"
+            },
+            "1c7a000440cc11ec744f70d9df0346faa656c70bc5101cdb554067809626e4c4": {
+                "source": "04000000 0039A494 1A883108\n04000000 0039A4B4 1A883108\n04000000 0039A4D4 1A883108\n04000000 0039A4F4 1A883108",
+                "title": "[non storage limit]"
+            },
+            "212fb799edd03535a94c8992a848239c18f39989904b3c4be222e11cfceff29f": {
+                "source": "400E0000 00000000 00023D61\n610F01E0 00000000 00000000",
+                "title": "[Mode : Easy]"
+            },
+            "297f3c70df7fe577a8ca2d3f755107b680e585ccd350dc3f133109042775e3ef": {
+                "source": "80000041\n580F0000 01A1A7A8\n580F1000 00001A48\n780F0000 0000004C\n300E0000 00000003\n640F0000 00000000 00000000\n780F0000 00000004\n310E0000\n20000000",
+                "title": "[L+A one hit kill]"
+            },
+            "2c99f63c532115b66b73ec5cc80caa31e103b994055b7f631649f745b1cf57e9": {
+                "source": "581F0000 00000008\n780F0000 AD9EDFF8\n300E0000 00000046\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n310E0000 20000000",
+                "title": "[unlock EXTRA]"
+            },
+            "38ea602caf6fcbbc66b7b7a85d4d5495799d55e32c43dcbe9e0f8c56dbaaa63b": {
+                "source": "400E0000 00000000 00023D60\n610F01E0 00000000 00000003",
+                "title": "[Difficuty: Inferno]"
+            },
+            "3b4df44e3b469b31a71d5ae4788898ca7c7b772b89763b3417fc42c4f439bf84": {
+                "source": "400E0000 00000000 00023D60\n610F01E0 00000000 00000001",
+                "title": "[Difficuty: Hard]"
+            },
+            "482b493453d8ccf238ecc37062ee0a2754dbe9c53eca54209d85d29195dd09b8": {
+                "source": "400E0000 00000000 000249D0\n610F01E0 00000000 0000000A\n400E0000 00000000 000249D1\n620F01E0 00000000 00000307",
+                "title": "[Bonding/Teaching/Battle Active Points]"
+            },
+            "57c456e29815b2c89dc4813101838c125b274a08066892217c0a2fbd9c06e499": {
+                "source": "580F0000 01A1A7A8\n580F1000 00001970\n780F0000 00000006\n300E0000 00000005\n620F0000 00000000 00000063\n780F0000 00000004\n310E0000 20000000\n580F0000 01A1A7A8\n580F1000 00001970\n780F0000 00000094\n300E0000 00000006\n620F0000 00000000 00001414\n780F0000 00000002\n310E0000 20000000",
+                "title": "[Weapon/Magic durability]"
+            },
+            "686795f91471218b025796ab14904a17a448c5701bfb22cacf7fb94277de4edc": {
+                "source": "400E0000 00000000 00023D60\n610F01E0 00000000 00000002",
+                "title": "[Difficuty: Super Hard]"
+            },
+            "706f9cb725c1d4a673b9c4e62ed1de97be8aeae829bbc21ebaf183286cdc407a": {
+                "source": "04000000 00392C6C F100251F\n04000000 00392D68 1A89D539\n04000000 00392EF4 1A89D539\n04000000 00392094 F100271F\n04000000 00392150 1A93A668\n04000000 00392350 1A93A668",
+                "title": "[ALL ability point +1 level up(Off)]"
+            },
+            "8278d7298328f1a66db00b131a87b8fd6c4e1fed5ae37a271d06d359a9ad9fce": {
+                "source": "04000000 003C35A8 0B010529",
+                "title": "[EXP 2x]"
+            },
+            "87a64e8a43f9862f1ef2e8ac1a1df04723f3634e5f8de5e07877e0ac46fba71d": {
+                "source": "04000000 003A5854 6B1F0108",
+                "title": "[No decrease in Pts]"
+            },
+            "8f8543d7cccb9984c56010589683a7768d4154964aa99625e2150451afd4a5b9": {
+                "source": "80000040\n04000000 000AD564 1A88B100\n20000000",
+                "title": "[Max Movement Point\uff08L to switch on\uff09]"
+            },
+            "9610372c2e5279d7347126aeb757ee3151a4d39c3b95ba7623b388e58e3f9a1e": {
+                "source": "400E0000 00000000 00023D60\n610F01E0 00000000 00000000",
+                "title": "[Difficuty: Normal]"
+            },
+            "a20b559b2788e8c12ea699ccf59992e78e9ae1e3ac300b5c8f60824bb5329213": {
+                "source": "04000000 003C37CC 0B02054A\n04000000 00393394 0B020529",
+                "title": "[Job EXP 2x]"
+            },
+            "ab6b933b7b8c06c2e473c29f10fd46582b9d9a016341d8bed146e7f1706070f6": {
+                "source": "80000080\n04000000 000AD564 1A88B2E0\n20000000",
+                "title": "[Max Movement Point\uff08R to switch off\uff09]"
+            },
+            "af50f463b2a67e635faf720e56d61bbd308f4142536622b9a9061fe3a0e64f88": {
+                "source": "04000000 003A2648 4B02014A\n04000000 003A28D8 4B02014A",
+                "title": "[Material edit effect off?]"
+            },
+            "bda84b7c991cbcb65a7da1182458209dba1e350afe5abaa3d25b168be1c2f7f2": {
+                "source": "04000000 003C35A8 0B010D29",
+                "title": "[EXP 8x]"
+            },
+            "cb93db8708572ac830661ab99f17c92726c9451e968f235ad763720e443ea5b5": {
+                "source": "04000000 003C37CC 0B02094A\n04000000 00393394 0B020929",
+                "title": "[JOB EXP 4x]"
+            },
+            "d17c55f9270a3fd3fd30671e057096fc4194fa741a507f79a345dbdc1b6ec5b2": {
+                "source": "04000000 00392C6C F1001D1F\n04000000 00392D68 11000539\n04000000 00392EF4 11000539\n04000000 00392094 F1001F1F\n04000000 00392150 11000668\n04000000 00392350 11000668",
+                "title": "[ALL ability point +1 level up(On)]"
+            },
+            "e0c04fd6e5da7759d52c0e3243309ad9d9b5d7c50cdeafa899011125c7ef1948": {
+                "source": "400E0000 00000000 000249D3\n640F01E0 00000000 09090909",
+                "title": "[Unlock Statue]"
+            },
+            "e0d7e849c6aca5747f27e548e0006fc33b286fa8cb261ff440f91126da7bba6d": {
+                "source": "04000000 003C35A8 0B010929",
+                "title": "[EXP 4x]"
+            },
+            "eebbdba6010e87cfe4ecaf30a2a7b7cfe5d15f14b03eb9625eec8574cded4709": {
+                "source": "04000000 003A25B0 1A893128",
+                "title": "[Set Money to Max after change]"
+            },
+            "f75ae0cf0ed11d87de4a689ab442d1aa60df96cc7c605adb5f07b5d2424c9794": {
+                "source": "04000000 003A2648 4B1F014A\n04000000 003A28D8 4B1F014A",
+                "title": "[Material/Gift no decrease]"
+            },
+            "fcaf88681c8b6ed7839fc8a37503f6466d4e6615907e554dbbef55e46a8917a7": {
+                "source": "400E0000 00000000 000249BA\n640F01E0 00000000 0000ADD4",
+                "title": "[Teaching Level A+]"
+            },
+            "fd6a1b2a7a30bc3ffc7058f305f991f971b8523a73bce7da234b8d5d586a0737": {
+                "source": "80000100\n04000000 000AD564 1A9FB3E0\n20000000",
+                "title": "[Press ZL Enemy dont move]"
+            }
+        },
         "47CA26D2AA77D0BA": {
             "00cc411772574cacb3070d7b696c03faf98728ad7d0925bc0e987e57d516cb52": {
                 "source": "580F0000 019D76F0\n780F0000 00000F55\n610F0000 00000000 000000FF",
@@ -8789,23 +8915,170 @@
     },
     "01006BB00C6F0000": {
         "AE16F71E002AF8CB": {
+            "0164f0123b7bc2a3e163b2aae3d6a475f38ad0fdccd4a9aea2fdc6e9426b5c7c": {
+                "source": "04000000 01CC077C 000000FF",
+                "title": "[Upgrade Sword/Shield/Tunic/Bracelet]"
+            },
+            "09ec2d36d66738ac7744fb3f1644c834a16d608b322b2005afd6f16bfd71df74": {
+                "source": "01000000 01CC07C8 00000004",
+                "title": "[  Spiny Figure]"
+            },
+            "0adf8d56b003f4050feb07c8ec9cad4788bf6adac8966b9656e279a54efc5eda": {
+                "source": "04000000 00D4C690 D65F03C0",
+                "title": "[Invincible]"
+            },
+            "0d1a8c944136eba26d55d7073254b2f5522d3f58acac0c322328f18688e5ac3a": {
+                "source": "01000000 01CC077A 00000009",
+                "title": "[  Goat's Letter]"
+            },
+            "113085ea97a725afe163dce07cabd612be5ad7c506592465dcb0d5e656088db4": {
+                "source": "01000000 01CC07C8 00000080",
+                "title": "[  Piranha Plant Figure]"
+            },
+            "17ba54348fce731b30665dbef1e7a0f504696aa3869d79a6aacf311108994892": {
+                "source": "01000000 01CC077A 0000000C",
+                "title": "[  Necklace]"
+            },
+            "1874f592c4064b00259d059d5957acda633eb936a3c45c10cb58082d5b92ced0": {
+                "source": "01000000 01CBB301 0000000F\n01000000 01CBB321 0000000F",
+                "title": "[Have Map/Compass/Nightmare Key/Stone Beak]"
+            },
+            "1cf4c8e2016b9db706639e45d98e697c95ba5a37de6b6fd15158e7d91114e813": {
+                "source": "80000300 01000000 01CC0777 00000007\n20000000",
+                "title": "[Have 3/4 Hearts (Press ZL+ZR)]"
+            },
+            "23651a756f9f86720902d32adcad8316e5535c1179df86ebbcadfa69d1dd4a5c": {
+                "source": "01000000 01CBB300 00000001\n01000000 01CBB320 00000001",
+                "title": "[Infinite Small Keys]"
+            },
+            "2601e6adb77951d732e0f3fdca54073a6bf306990dc59bbd3f3a2ae0e7644369": {
+                "source": "01000000 01CC077D 00000001",
+                "title": "[Girl]"
+            },
             "297c7991d34c6976e0235b72de1b2d7416d598e8b8d4f8154c36b194e7d3846c": {
                 "source": "02000000 01CC0760 0000270F",
-                "title": "[Rubies]"
+                "title": "[Infinite Rupees]"
             },
             "29b505524fd1c2d760d99b82180ace304aac02d0e6d304849032e3a094f88b41": {
                 "source": "01000000 01CC077F 00000014",
-                "title": "[Arrows]"
+                "title": "[Infinite Arrows]"
+            },
+            "38b0cb0515f579fd1a00b0e1ba4de0109fc90eb3f6c45e81ae0d6a05d0db20ba": {
+                "source": "01000000 01CC077A 00000004",
+                "title": "[  Bananas]"
+            },
+            "3ea93f79e82a6a0aeaa6ff3c50553f487a40c3c18030260f4dd438bc68578e06": {
+                "source": "04000000 01CC076C FFFFFFFF",
+                "title": "[All Secret Seashells]"
+            },
+            "4409e7b1d96d0737c4d90946cc7a71e52c8b9aded5bfe8f0874660c7e8094438": {
+                "source": "01000000 01CC07C8 00000010",
+                "title": "[  Cheep Cheep Figure]"
+            },
+            "47a27252f3220dcd5954087600923f525143b3d496c6bd4af6811d2396e0d29d": {
+                "source": "01000000 01CC077A 0000000B",
+                "title": "[  Fishing Hook]"
+            },
+            "47c25010dfd4da371b6087572db70b6cd6cf396b61de8eee8484a8cfcbb3cc4b": {
+                "source": "01000000 01CC07C8 00000020",
+                "title": "[  Blooper Figure]"
+            },
+            "52f365e4747c7834d9c3007cd4e8ba1c76510241123b876f70cd3b930827aa7a": {
+                "source": "01000000 01CC077A 00000001",
+                "title": "[  Yoshi Doll]"
+            },
+            "58df1da6a0dec5dc21b6e2696b9c2a25fe0e2d9e58350cb1b19ced5e0bb78b32": {
+                "source": "01000000 01CC07C8 00000040",
+                "title": "[  Shy Guy Figure]"
+            },
+            "612301efe435f7c3bb195bc03cc4bcaf9022c1f1a3ebe3ffea16f9f48d087718": {
+                "source": "01000000 01CC077A 00000002",
+                "title": "[  Ribbon]"
+            },
+            "6b9d80b51f997d437017a3ca72a9951c1abe1beb6e8b03a42c1ccd9f36b9c9f0": {
+                "source": "01000000 01CC077A 0000000D",
+                "title": "[  Mermaid's Scale]"
+            },
+            "704839d39f019120f62ae42071dac24a870cdde3b885670f384671132610d6e8": {
+                "source": "01000000 01CC077A 0000000E",
+                "title": "[  Magnifying Lense]"
+            },
+            "717eebe7916e74727121ae875e512283092261d764439e4ccfd021a15cc56fbd": {
+                "source": "04000000 01CC0788 0000FFFF\n04000000 01CC078C 000FFFFF",
+                "title": "[Have All Items]"
+            },
+            "72336a4226a745acbfa3fd57f442f845013b13539dcc3a54669f7f4981af2a25": {
+                "source": "01000000 01CC07C8 00000002",
+                "title": "[  Goomba Figure]"
+            },
+            "74bc5cfb4aafba6f5de3fefefe6dbf9f7948ecd5bf297e2ab3c2461079e982f6": {
+                "source": "01000000 01CC077D 00000003",
+                "title": "[Ghost]"
+            },
+            "7569b2ea75adfc5838aa3b6a066e497ab976424dfa25cd53c744c5245ebca0fa": {
+                "source": "01000000 01CC07C8 00000008",
+                "title": "[  Boo Figure]"
+            },
+            "83731bda92c1ecaab524ad3e426bf8acb19c3cca64cf57d3f9c1071e65310d72": {
+                "source": "01000000 01CC077D 00000004",
+                "title": "[Blue Chicken]"
+            },
+            "97cb04a152ac93505ecced69d60e68af9dd1c61167dfd0f5316c4997ed0b3195": {
+                "source": "02000000 01CC07C8 00000100",
+                "title": "[  Pokey Figure]"
+            },
+            "994a04a1e885f5b8bea0648d4fa35ff778c40033e2b354f6ef886203e0d25d87": {
+                "source": "01000000 01CC077A 00000005",
+                "title": "[  Stick]"
             },
             "b3e279074bac585678a2ccb1e7cfdfda9a11302ad9c347bcca1e84ccb82c0425": {
                 "source": "01000000 01CC0780 00000014",
-                "title": "[Magic Powder]"
+                "title": "[Infinite Magic Powder]"
+            },
+            "b85c3de0c2f20115f6f2e0a145cea3d1607e8e84dfdec15198e86970b975c943": {
+                "source": "01000000 01CC07C8 00000001",
+                "title": "[  CiaoCiao Figure]"
+            },
+            "bc815cc3efbbb421b9cee4663951f51d111ebc234bbcc088a10933c62f66728b": {
+                "source": "01000000 01CC077A 00000003",
+                "title": "[  Dog Food]"
             },
             "c4a6448bd120c403f8cbabaa749d21589f6044ac99e089e71e6f5e0b3503f06b": {
                 "source": "01000000 01CC0764 00000028",
-                "title": "[Hearts]"
+                "title": "[Infinite / Max Hearts]"
             },
-			"version": 0
+            "d11be745ff417338dce699a516e50f20040a04651f018d602ef93cdb3570d482": {
+                "source": "01000000 01CC077E 0000000A",
+                "title": "[Infinite Bombs]"
+            },
+            "db6daf8ac49533d8aa5b21aa00081a3804993be76b2d5471d43ec778167cde3d": {
+                "source": "80000030 01000000 01CC07A2 0000001F\n20000000",
+                "title": "[Have 5/5 Gold Leafs (Press L3+R3)]"
+            },
+            "dba8ca2633b568032b769d61fba1e54cdcc2afae02488227eb7336c59c69ac4e": {
+                "source": "01000000 01CC077A 00000006",
+                "title": "[  Honeycomb]"
+            },
+            "dd6c49341a334fec2e57643ffa6cc59effed0ef3f1a335504a5b17a1e167d68f": {
+                "source": "01000000 01CC077A 0000000A",
+                "title": "[  Broom]"
+            },
+            "dda098f8ac66b064102890139f35fd2d68d30b6463095a1fac43145adf3fbf69": {
+                "source": "581F0000 00A2FCD0\n780F0000 00001EA0\n640F0000 00000000 40000000",
+                "title": "[Invincible]"
+            },
+            "e33e954405ac98c86261e2e23b4159cafa8b439764e4c27cc5117092a79fcade": {
+                "source": "01000000 01CC077A 00000007",
+                "title": "[  Pineapple]"
+            },
+            "e4ef30c3bbe0cbeb0cca9f8011798eb1b98d1492979fc42ad7df8a5f5c9aff65": {
+                "source": "02000000 01CC07C8 00000200",
+                "title": "[  BowWow Figure]"
+            },
+            "fa2d48b793494f2d0376fb429fc19e14eb2a3f871cc9ef82386904033b6698be": {
+                "source": "01000000 01CC077A 00000008",
+                "title": "[  Hibiscus]"
+            }
         }
     },
     "01006C3004FAE000": {
@@ -18349,6 +18622,51 @@
                 "title": "[Max Power]"
             },
             "version": 0
+        }
+    },
+    "0100E5600D446000": {
+        "45F10C499223A9E4": {
+            "2b59b1bc939707bc5fbb666b642e51eba5e2cbe8d8f0d1ce4dc91ca015c98ae3": {
+                "source": "581F0000 6E1387D0\n780F0000 00000890\n640F0000 00000000 03F940AA",
+                "title": "[Money/Duit]"
+            },
+            "318c9b057ec2d6ccae48e2b23ae7567ce5a8bc07d3794df93a49109a8dfc05f2": {
+                "source": "580F0000 0173DB58\n780F0000 00000060\n640F0000 00000000 000003E7",
+                "title": "[Max Evades]"
+            },
+            "39460fccca1b41595fbe5fe911b53ed97f60e035fe68a7d6b467b30834d1589c": {
+                "source": "580F0000 0173DB58\n780F0000 00000058\n640F0000 00000000 000003E7",
+                "title": "[Max Magic. Atk]"
+            },
+            "3d493e1f538ea70d8835f62d9f7f93afde0138a0463667320a7b9946e7adc94d": {
+                "source": "580F0000 0173DB58\n780F0000 00000024\n640F0000 00000000 3B9AC9FF",
+                "title": "[Lvl Up After Battle Always]"
+            },
+            "43b4b9f35a87a5c3428393556faaa284104ac59ef03ad487b66bca5024c280a3": {
+                "source": "580F0000 0173DB58\n780F0000 00000028\n640F0000 00000000 0000270F\n780F0000 00000008\n640F0000 00000000 0000270F",
+                "title": "[Inf HP]"
+            },
+            "7205ce600770b7276936548b24c40a1bb86371b905b41625a0d51aa7474fab56": {
+                "source": "580F0000 0173DB58\n780F0000 0000002C\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7",
+                "title": "[Inf MP]"
+            },
+            "aadd11a2cd5a9a5e245c2b49be099308b0589bb2f4f85d50a4a6d380ecfbcafe": {
+                "source": "580F0000 0173DB58\n780F0000 0000005C\n640F0000 00000000 000003E7",
+                "title": "[Max Magic. Def]"
+            },
+            "bb98bdb8b921bed7345f62ca68dd786e9785e0eb05ee401cc04feae13e97dc25": {
+                "source": "580F0000 0173DB58\n780F0000 00000054\n640F0000 00000000 000003E7",
+                "title": "[Max Physic. Def]"
+            },
+            "c82ef67d793656705f012aac19c7d661748cc0dff9c6336feb27b7fa0d22c740": {
+                "source": "580F0000 0173DB58\n780F0000 00000050\n640F0000 00000000 000003E7",
+                "title": "[Max Physic. Atk]"
+            },
+            "d8d7575625fb06ed72d3f02dc0ee93855e62347202b166ed962d6ce9aecb95ca": {
+                "source": "580F0000 0173DB58\n780F0000 00000064\n640F0000 00000000 000003E7",
+                "title": "[Max Hit Rate Gets]"
+            },
+            "version": 65536
         }
     },
     "0100E65002BB8000": {
