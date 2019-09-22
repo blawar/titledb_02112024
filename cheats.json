@@ -425,7 +425,8 @@
             "e3c61a35b58c9603939747b03634dac8b375f8803bc2c5ad926235dd522d6e40": {
                 "source": "04000000 001376A0 D65F03C0",
                 "title": "[Invulnerable]"
-            }
+            },
+            "version": 0
         }
     },
     "010007700D4AC000": {
@@ -4810,6 +4811,10 @@
                 "source": "041F0000 8B76D390\n0000038F",
                 "title": "[Apple Gems 911]"
             },
+            "9e6fa73b54d21fc3bca785033c3f27775711ea657417d62ad567eb2058e67ba2": {
+                "source": "041F0000 8B76D390 000003E7",
+                "title": "[Apple Gems 999]"
+            },
             "version": 0
         }
     },
@@ -5567,7 +5572,8 @@
             "faed88fb29620a2dbdb4c2c760235b836ba4a0dcfd9d74c2f2533b7b25437691": {
                 "source": "04000000 001410B0 52800000",
                 "title": "[free revive]"
-            }
+            },
+            "version": 0
         }
     },
     "01004AB00A260000": {
@@ -6518,7 +6524,8 @@
             "fd6a1b2a7a30bc3ffc7058f305f991f971b8523a73bce7da234b8d5d586a0737": {
                 "source": "80000100\n04000000 000AD564 1A9FB3E0\n20000000",
                 "title": "[Press ZL Enemy dont move]"
-            }
+            },
+            "version": 131072
         },
         "47CA26D2AA77D0BA": {
             "00cc411772574cacb3070d7b696c03faf98728ad7d0925bc0e987e57d516cb52": {
@@ -8831,7 +8838,8 @@
             "b2711c7470beae79accb1eff3bd6760aea44d88dc23178364f2bb02e7972f39d": {
                 "source": "04000000 0042D538 D503201F\n04000000 0042D59C D503201F",
                 "title": "[Refresh Fervor Cost No Life/Tears]"
-            }
+            },
+            "version": 0
         }
     },
     "01006A600B5E6000": {
@@ -9078,7 +9086,8 @@
             "fa2d48b793494f2d0376fb429fc19e14eb2a3f871cc9ef82386904033b6698be": {
                 "source": "01000000 01CC077A 00000008",
                 "title": "[  Hibiscus]"
-            }
+            },
+            "version": 0
         }
     },
     "01006C3004FAE000": {
@@ -11263,6 +11272,131 @@
             "5d665207eaf43b6534c23ba4d6dd964f20fe806f4f2fb45050cef119d60061d0": {
                 "source": "580F0000 01F033D8\n580F1000 00000098\n580F1000 00000010\n780F0000 00000060\n610F0000 00000000 00000009",
                 "title": "[Story Mode Infinite Lives]"
+            },
+            "version": 0
+        }
+    },
+    "01007CF00D5BA000": {
+        "F8C066A1E59D8CCE": {
+            "0e4b87f26ae80c1aa7e4b2a66dfc753b96b8406b94e3cd55afeef9cf595a3452": {
+                "source": "04000000 00822D8B 10501050\n04000000 00D83831 10501050",
+                "title": "[Infinite Health]"
+            },
+            "1a0df3d8759d9b3094ab73b590ddc050ada05f012234cbb47ab3926f75abfd34": {
+                "source": "01000000 00D81EC7 00000063",
+                "title": "[Vital Star L]"
+            },
+            "222cbb3ceeb316be3b354e2b7744781f5b1cd5a92538c3dd557e285287197ad9": {
+                "source": "02000000 00D83C0E 00001770\n02000000 00D83C12 00001770",
+                "title": "[Infinite Devil Trigger Bar]"
+            },
+            "27116909d54d7d4d4e0b8c92bed5c49993edb5ad5dbc73ba38d0c880e369c5e6": {
+                "source": "02000000 00822D89 00000C50\n02000000 00D83835 00000C50",
+                "title": "[Max Health]"
+            },
+            "28ca3031d67a9ab732d189c291730cf95be88de598759adc9d498d6a939a27a9": {
+                "source": "01000000 00D83C32 00000001",
+                "title": "[Infinite Double Jump]"
+            },
+            "299867a4743387e2bb486a416bc8f2ef0236cc738b108e97a7e7df2dd93ad508": {
+                "source": "01000000 00D772EF 00000000",
+                "title": "[Devil Hunter Rank S]"
+            },
+            "2f75aa65d1a8560be012ba1b1f7fae757d34c207d0a975616b84e53383b77774": {
+                "source": "80002200\n01000000 00D83C08 00000001\n20000000",
+                "title": "[ZR+UP Devil Form 1]"
+            },
+            "2f843a5371c7bf3b2882079d80bdea3fc841e3a9091410ff2cf910952cd5873f": {
+                "source": "01000000 00D81ECF 00000001",
+                "title": "[Aerial Heart]"
+            },
+            "3195050fdada867e67b2ab57cbd8439db0e38c13632cfaf651ca4c1c0c8be175": {
+                "source": "80008200\n01000000 00D83C08 00000002\n20000000",
+                "title": "[ZR+DOWN Devil Form 2 Do not use on Lucia]"
+            },
+            "3f94d57bc1d8ebc30a87240c95603b8b81a44cd4e0ad2f7f66aa4174d0b49f9c": {
+                "source": "01000000 00D81ECA 00000063",
+                "title": "[Devil Star S]"
+            },
+            "62044622a35de29be6faf4ef1fbd0cfe14a57dc3520d1f5d3a2a3a5c0c0dfe4f": {
+                "source": "02000000 00D83600 0000070F\n08000000 00D81ECE 01010101 01010101\n01000000 00D81ED6 00000001",
+                "title": "[Have All Equipment]"
+            },
+            "791ecb291786ae2f4262b198c949ce6db3cb6f6ca1e26d73c8ee4d6237ab1093": {
+                "source": "01000000 00D81ECB 00000063",
+                "title": "[Holy Star]"
+            },
+            "801bbd02497745b064ce0ade8721ad48430e68e80245bb71c4fdd693e231290f": {
+                "source": "04000000 00D81EBC 0001869F",
+                "title": "[99999 Red Orbs Mission]"
+            },
+            "96722975e126dbe01d8618d61c9ca92a84c11fdc09a69d15eb41a59dbaa2a523": {
+                "source": "01000000 00D81ED3 00000001",
+                "title": "[Electro Heart]"
+            },
+            "9ad7933101cf2ae030ab35568434a96c9afd83b4f3391c8225a8af9494422171": {
+                "source": "01000000 00D81ECD 00000063",
+                "title": "[Smell of Fear]"
+            },
+            "9d55d3ed5856d3466e749d94962b967932e32ec53c63b75d0e509e5d7f64b06e": {
+                "source": "01000000 00D81EC8 00000063",
+                "title": "[Vital Star S]"
+            },
+            "9f746970cb397765544e4ecf0b401a8e36c017aa7c9f6ccd8a53aa8bf623c854": {
+                "source": "01000000 00D81EC1 00000063",
+                "title": "[Infinite Yellow Orbs]"
+            },
+            "a142742b9294e8edc2c5176a3099edf9f571c046707a194f73f45c431f282511": {
+                "source": "80000030 01000000 00D81EC4 00000003\n20000000",
+                "title": "[Have 3/4 Blue Orbs (Press L3+R3)]"
+            },
+            "a56ad65b224f3009ea387493ae063cc39a785b5c0d831f658a0a3caaa6ed1856": {
+                "source": "01000000 00D81ECE 00000001",
+                "title": "[Aqua Heart]"
+            },
+            "b0cd7a753f30924f6e0c545dd14f03eb1185bbd00ae87607e25f0b9ffa4091ee": {
+                "source": "01000000 00D81ED5 00000001",
+                "title": "[Healing Heart]"
+            },
+            "b192cd5d5bca601fe3254293c6142e4aac2f5034559fef77d2aeaa6b433c86fd": {
+                "source": "01000000 00D81ED0 00000001",
+                "title": "[Quick Heart]"
+            },
+            "b2540bd557131ed9e86c92cf53bb5a5f5e8a88d6eadf9949e0f47278d95c23c4": {
+                "source": "01000000 00D81ED2 00000001",
+                "title": "[Frost Heart]"
+            },
+            "c42bd41b847e55e63ae8a4a14a3f62e956ef961a491495a3a9060b64a9721327": {
+                "source": "80001200\n01000000 00D83C08 00000000\n20000000",
+                "title": "[ZR+LEFT Normal Form]"
+            },
+            "c59ac70a544ef4aa196657afce6a3150491c2f0560405e40df661345cf68e66f": {
+                "source": "01000000 00D81ED1 00000001",
+                "title": "[Flame Heart]"
+            },
+            "d20f55556f62b8af17f69b91b171bbc025995a480757ae6900cfe82db7ce4a70": {
+                "source": "04000000 00D81EB8 000F423F",
+                "title": "[Red Orbs 999999]"
+            },
+            "d31bd66e3793d0b05554657cd71329a92f1dc3139d989623a891878de90f4e29": {
+                "source": "01000000 00D81EC9 00000063",
+                "title": "[Devil Star L]"
+            },
+            "d33588196bdea8ed94d7c2bf16f51c2108a948a32888ba59a07461eee96b7ab3": {
+                "source": "01000000 00D81ED6 00000001",
+                "title": "[Offence Heart]"
+            },
+            "dff274e92a9c2768cd416e272fac426a929cc2c6c1b1eb60c4d2d98f00920a77": {
+                "source": "02000000 00D83830 00002710\n02000000 00D83834 00002710",
+                "title": "[Infinite HP]"
+            },
+            "f1dd87e996849559579d8d207171394cddb6fc801c75f33a7f289a2b4f4c025e": {
+                "source": "04000000 00822D94 000F423F\n04000000 00822D9C 000F423F\n04000000 00D81EB8 000F423F\n04000000 00D81EBC 000F423F",
+                "title": "[Infinite Red Orbs]"
+            },
+            "ff38b2e7bb0d13e81b5cea407dbf310030bf4c883e3775dcfd29c6ecaa98899a": {
+                "source": "01000000 00D81ED4 00000001",
+                "title": "[Chrono Heart]"
             },
             "version": 0
         }
@@ -14402,7 +14536,8 @@
             "e5d31494120b9fa5ac20858f8031eed7f5286fe613a7a8500f98a14f274431ae": {
                 "source": "04000000 000F42FC 52800008",
                 "title": "[All Cars Unlocked]"
-            }
+            },
+            "version": 720896
         }
     },
     "01009EA00E2B8000": {
@@ -14423,7 +14558,8 @@
             "26f0aba39633ced8d2052448247b73f26c1eac6a5e09b1f9374b6c07e4b690ed": {
                 "source": "040F0000 00290B78 0098967F",
                 "title": "[Max Money]"
-            }
+            },
+            "version": 0
         }
     },
     "01009F20086A0000": {
