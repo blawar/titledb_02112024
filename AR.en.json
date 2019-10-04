@@ -3422,6 +3422,55 @@
         ],
         "size": 376438784
     },
+    "70010000018062": {
+        "id": "0100EBB00D2F4000",
+        "rightsId": null,
+        "name": "Neo Cab",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191003,
+        "nsuId": 70010000018062,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Language",
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Fellow Traveller",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a2f9f12a6ebcd1cb54e51a7b81d24d94c688c0c1291d61707b2b179a94fe5b58.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7d163a85075822b892e2b8f99ae44dac276c9c90e1eaa74ec8aa5acf21390b6f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a786a660116b0b2153ed74aca08aa0c0a5de4b2fb7bcf7bb860425b2bc9287f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f683386285da33c04fb4ade9c599eaa2db7cec86095cfabc6bfab905e3d4c5f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6767dd960bd4ebc50602a7c0b5e2d11fb45c521b366e531fb4c5d0ddf116a3ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/42561625035df5326aff8fe8145a9577ca5981d8093c7d9c58b5014904a3771f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae5abe9f09c230999b1b0e1bde5fea003535ac12103aa61804b6f323b43ee296.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/52bb035b39ee796efc8cd9613e15fbb6db761eae28cec56feb27ad07f8261e00.jpg",
+        "intro": "Stay Human! ",
+        "description": "Stay human in a world overcome by automation. Play as Lina, one of the last human driver-for-hire on the streets of Los Ojos. Your friend and only lifeline has gone missing; with no money and nowhere to stay, the only thing you can do is keep driving. Choose what passengers to pick up and how you engage with them to learn their stories. Balance your own emotional wellbeing with the needs of your pax as you strive to keep your perfect rating, and your job. Maybe someone in this city can help you with your own story? \n\nHold on to humanity in a world overcome by automation. \n\nMeet people. Learn their stories. Stay human! \n\nFrom the Neo Cab app, you\u2019ll choose your passengers and navigate the city grid. Connect and converse with them as you drive to their destination. You\u2019ll need to maintain your perfect rating to stay on the road. Balance your monetary needs and the needs of your passengers with your own emotional wellbeing. What\u2019s more important: your mental health or your star rating?\n\nConnect with your pax: Find ways to connect with passengers. Each has their own story to tell. \n\nUncover the secrets of Los Ojos: Lina\u2019s best course for survival is to keep driving. Piece together what has happened to Savy as you help Lina navigate the city grid. \n\nBalance your own emotional needs with that of your pax: Each passenger interaction will affect Lina\u2019s mood and it\u2019s up to you to manage their emotional wellbeing. Balance Lina\u2019s monetary needs, the necessity for a five-star rating, and the needs of pax with what feels right.  \n\nFind your own route: Neo Cab features a branching narrative with pax stories written by Leigh Alexander, Kim Belair, Bruno Dias, Duncan Fyfe, Paula Rogers & Robin Sloan. \n",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "pt",
+            "es",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 744488960
+    },
     "70010000018502": {
         "id": "0100B6400CA56000",
         "rightsId": null,
@@ -4509,6 +4558,35 @@
         "languages": null,
         "size": 5073010688,
         "parentId": "01006C300E9F0000"
+    },
+    "70030000008961": {
+        "id": null,
+        "rightsId": null,
+        "name": "Neo Cab Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000008961,
+        "category": null,
+        "ratingContent": [
+            "Language",
+            "Mild Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 834666496,
+        "parentId": "0100EBB00D2F4000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
@@ -9610,6 +9688,44 @@
         "description": "Purchase the Fire Emblem\u2122: Three Houses + Expansion Pass bundle to receive the full game and all waves of downloadable content as they release.\n\n\u2022\tWave 1: Officers Academy outfits for female and male Byleth available Day 1 (July 26th)\n\u2022\tWave 2: Additional Auxiliary battle maps, helpful in-game support items, and more will be released by 10/31/2019\n\u2022\tWave 3: Additional quests and costumes will be released by 12/31/2019; plus, another free update\n\u2022\tWave 4: Discover new story content, with additional playable characters, locations and more will be released by 4/30/2020; plus, another free update\n\n",
         "languages": null,
         "size": 12033458176
+    },
+    "70070000007061": {
+        "id": null,
+        "rightsId": null,
+        "name": "Overwatch\u00ae: Legendary Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191015,
+        "nsuId": 70070000007061,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Use of Tobacco",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1a313528edb9c32c6c657cc810227ff8a72fdbc2607a80aeff3fed96b5090502.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24f1d97fba7b72466da639e9fc085f3133816effb3c693054e32c176aa90fde2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4dbcef1080dd92607460bbc892fef808196dc3e9603a133db6b951c4bf8e500a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/28b2e39c76bd120270fe06144024f8d2864ea7c01c016a3ea7bc4368b3bc62b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58be32b76d0d8b95619b31124346bb1c1c9cc228c6736929b6fd2bc61e6461d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b21232e6be7b733b0e3f88a26bfc089e72ce88510a78050a1d4ca029eb92fee.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66872a8491d47883651f00f0b683abe0f6c5a28f84265fb3d7e92e9810e867ae.jpg",
+        "intro": "The Future Is Now.\u00a0 Are You With Us?",
+        "description": "Overwatch\u00ae launches globally on October 15, 2019 at 11:00AM PDT\n\nOverwatch: Legendary Edition includes:\n\u2022\tRedeemable code for Nintendo Switch Online Individual Membership 3-month subscription (Terms apply. nintendo.com/switch-online)\n\u2022\tPre-Purchase Bonus: Noire Widowmaker Skin\n\u2022\tThe full game\n\u2022\t5 Legendary Hero Skins\n\u2022\t5 Epic Hero Skins\n\u2022\t5 Origin Hero Skins\n\nUnlock a Golden Loot Box\nPurchase and log into Overwatch on Nintendo Switch by December 31, 2019 to unlock a Golden Loot Box with at least 1 guaranteed Legendary item!\n\nBegin your Watch\nJoin the fight for the future in the world of Overwatch\u00ae and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash a dizzying array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.\n\nExperience the Extraordinary\nSpeed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers such as Dragonstrike, Transcendence, Graviton Surge, and so much more. Every hero has a unique set of devastating, game-changing abilities.\n\nPlay Heroes, Not Classes\nEvery hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.\n\nFight for the Future...Together\nTeamwork is imperative for survival as you enter the fight with friends and comrades. Careful coordination will prove the difference between victory and defeat as your team combines the formidable powers at your disposal to devastating effect.\n\nShift Your Perspective\nJust when it seems like your team is destined to go down in defeat, switch heroes on the fly and change the course of the battle. But don\u2019t forget that your opponents can do the same. Master the game within the game as both teams shift strategies and change heroes to try to gain the upper hand.\n\nThe World Is Your Battlefield\nProtect the secrets of the mysterious Temple of Anubis in Egypt, safely escort an EMP device through King\u2019s Row in London, and do battle at many other unique locations. Every map has its own distinct feel with unique gameplay and team-based objectives.",
+        "languages": null,
+        "size": 13967032320
     },
     "70070000007201": {
         "id": null,

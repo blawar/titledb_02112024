@@ -3422,6 +3422,55 @@
         ],
         "size": 376438784
     },
+    "70010000018062": {
+        "id": "0100EBB00D2F4000",
+        "rightsId": null,
+        "name": "Neo Cab",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191003,
+        "nsuId": 70010000018062,
+        "category": [
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Lenguaje",
+            "Violencia moderada"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Fellow Traveller",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a2f9f12a6ebcd1cb54e51a7b81d24d94c688c0c1291d61707b2b179a94fe5b58.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7d163a85075822b892e2b8f99ae44dac276c9c90e1eaa74ec8aa5acf21390b6f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a786a660116b0b2153ed74aca08aa0c0a5de4b2fb7bcf7bb860425b2bc9287f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f683386285da33c04fb4ade9c599eaa2db7cec86095cfabc6bfab905e3d4c5f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6767dd960bd4ebc50602a7c0b5e2d11fb45c521b366e531fb4c5d0ddf116a3ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/42561625035df5326aff8fe8145a9577ca5981d8093c7d9c58b5014904a3771f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae5abe9f09c230999b1b0e1bde5fea003535ac12103aa61804b6f323b43ee296.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/52bb035b39ee796efc8cd9613e15fbb6db761eae28cec56feb27ad07f8261e00.jpg",
+        "intro": "\u00a1Tu humanidad es un valor \u00fanico!",
+        "description": "Tu humanidad es un valor \u00fanico en un mundo dominado por la automoci\u00f3n. Juega como Lina, una de las \u00faltimas conductoras humanas de las calles de Los Ojos. Tu amiga y salvavidas ha desaparecido, por lo que no tienes ni dinero ni d\u00f3nde alojarte. Lo \u00fanico que puedes hacer es seguir conduciendo. Elige a qu\u00e9 pasajeros recoger y c\u00f3mo quieres interactuar con ellos para conocer sus historias. Ajusta tu bienestar emocional con las necesidades de tus pasajeros y mant\u00e9n tu valoraci\u00f3n perfecta... y tu trabajo. Puede que haya alguien en esta ciudad capaz de ayudarte con tu propia historia. \n\n\nTu humanidad es un valor \u00fanico en un mundo dominado por la automoci\u00f3n. \n\nConoce a gente. Descubre sus historias. \u00a1Tu humanidad es un valor \u00fanico! \n\nDesde la aplicaci\u00f3n de Neo Cab podr\u00e1s elegir a tus pasajeros y moverte por el mapa de la ciudad. Conecta y conversa con ellos mientras conduces hacia su destino. Tendr\u00e1s que mantener la valoraci\u00f3n perfecta para poder seguir conduciendo. Ajusta tus necesidades econ\u00f3micas y las necesidades de tus pasajeros con tu propio bienestar emocional. \u00bfQu\u00e9 es m\u00e1s importante, tu salud mental o tu valoraci\u00f3n de estrellas?\n\nConecta con tus pasajeros: Encuentra formas de conectar con los pasajeros. Cada uno tendr\u00e1 su propia historia que contar. \n\nDescubre los secretos de Los Ojos: La mejor opci\u00f3n de Lina para sobrevivir es seguir conduciendo. Ayuda a Lina a moverse por la ciudad mientras consigue pistas sobre lo que le pas\u00f3 a Savy. \n\nAjusta tus necesidades emocionales con las de tus pasajeros: Todas tus interacciones con los pasajeros afectar\u00e1n al estado de \u00e1nimo de Lina, por lo que de ti depender\u00e1 gestionar su bienestar emocional. Logra el equilibrio entre las necesidades econ\u00f3micas de Lina, la necesidad de una valoraci\u00f3n de cinco estrellas y las necesidades de los pasajeros.  \n\nEncuentra tu propio camino: Neo Cab ofrece una narrativa con numerosas ramificaciones, cuyas historias fueron escritas por Leigh Alexander, Kim Belair, Bruno Dias, Duncan Fyfe, Paula Rogers y Robin Sloan.\n",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "pt",
+            "es",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 744488960
+    },
     "70010000018502": {
         "id": "0100B6400CA56000",
         "rightsId": null,
@@ -4509,6 +4558,35 @@
         "languages": null,
         "size": 5073010688,
         "parentId": "01006C300E9F0000"
+    },
+    "70030000008961": {
+        "id": null,
+        "rightsId": null,
+        "name": "Neo Cab Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000008961,
+        "category": null,
+        "ratingContent": [
+            "Lenguaje",
+            "Violencia moderada"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 834666496,
+        "parentId": "0100EBB00D2F4000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
@@ -9535,6 +9613,44 @@
         "description": "Adquiere el paquete que incluye el juego Fire Emblem\u2122: Three Houses + Pase de expansi\u00f3n y recibe el juego completo y todo el contenido descargable conforme est\u00e9 disponible.\n\n\u2022\tOla 1: Trajes de la Academia de Oficiales para Byleth chico o chica en el d\u00eda 1 (26 de julio)\n\u2022\tOla 2: Mapas adicionales de batallas opcionales, \u00fatiles art\u00edculos de apoyo del juego y mucho m\u00e1s ser\u00e1 lanzado el 31/10/2019\n\u2022\tOla 3: Misiones y trajes adicionales ser\u00e1n lanzados el 31/12/2019, adem\u00e1s otra actualizaci\u00f3n gratuita se llevar\u00e1 acabo\n\u2022\tOla 4: Descubre una nueva historia, con personajes jugables adicionales, ubicaciones y mucho m\u00e1s, todo estar\u00e1 disponible el 30/04/2020 adem\u00e1s de otra actualizaci\u00f3n gratuita\n\n",
         "languages": null,
         "size": 12033458176
+    },
+    "70070000007061": {
+        "id": null,
+        "rightsId": null,
+        "name": "Overwatch\u00ae: Legendary Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191015,
+        "nsuId": 70070000007061,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Uso de tabaco",
+            "Violencia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1a313528edb9c32c6c657cc810227ff8a72fdbc2607a80aeff3fed96b5090502.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24f1d97fba7b72466da639e9fc085f3133816effb3c693054e32c176aa90fde2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4dbcef1080dd92607460bbc892fef808196dc3e9603a133db6b951c4bf8e500a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/28b2e39c76bd120270fe06144024f8d2864ea7c01c016a3ea7bc4368b3bc62b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58be32b76d0d8b95619b31124346bb1c1c9cc228c6736929b6fd2bc61e6461d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b21232e6be7b733b0e3f88a26bfc089e72ce88510a78050a1d4ca029eb92fee.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66872a8491d47883651f00f0b683abe0f6c5a28f84265fb3d7e92e9810e867ae.jpg",
+        "intro": "El futuro es ahora. \u00bfEst\u00e1s con nosotros?",
+        "description": "Overwatch\u00ae se lanza a nivel mundial el 15 de octubre de 2019 a las 18:00 h UTC\n\nOverwatch: Legendary Edition incluye:\n\u2022\tC\u00f3digo para canjear para la suscripci\u00f3n de 3 meses de membres\u00eda individual de Nintendo Switch Online (Se aplican t\u00e9rminos. nintendo.com/switch-online)\n\u2022\tBonificaci\u00f3n por compra anticipada: Dise\u00f1o Widowmaker Noire\n\u2022\tEl juego completo\n\u2022\t5 dise\u00f1os de h\u00e9roe legendarios\n\u2022\t5 dise\u00f1os de h\u00e9roe \u00e9picos\n\u2022\t5 dise\u00f1os de h\u00e9roe Origin\n\nDesbloquea una caja de bot\u00edn dorada\n\u00a1Compra Overwatch en Nintendo Switch e inicia sesi\u00f3n antes del 31 de diciembre de 2019 para desbloquear una caja de bot\u00edn dorada con al menos 1 objeto legendario garantizado!\n\nEmpieza tu guardia\n\u00danete a la lucha por el futuro en el mundo de Overwatch\u00ae y elige a tu h\u00e9roe de entre una diversa lista de soldados, cient\u00edficos, aventureros y superdotados. Manipula el tiempo, desaf\u00eda la f\u00edsica y desata una gran variedad de armas y poderes extraordinarios. Enfr\u00e9ntate a tus enemigos en ubicaciones emblem\u00e1ticas de todas partes del mundo en el juego de disparos por equipos definitivo.\n\nVive lo extraordinario\nAcelera y ralentiza el tiempo. Haz llover destrucci\u00f3n desde lo alto en una armadura experimental con propulsores. Acecha a tu presa como un asesino espectral que puede aparecer en cualquier lugar en cualquier momento. Desata poderes como Golpe drag\u00f3n, Trascendencia, Oleada de gravitones y muchos m\u00e1s. Cada h\u00e9roe tiene un conjunto de habilidades \u00fanicas y devastadoras capaces de alterar el curso de la partida.\n\nJuega con h\u00e9roes, no clases\nCada h\u00e9roe tiene una perspectiva \u00fanica en el campo de batalla y una historia detr\u00e1s de c\u00f3mo lleg\u00f3 hasta all\u00ed. Puedes ser un campe\u00f3n de una era antigua que blande su martillo propulsado en servicio del honor, un monje rob\u00f3tico que tiene como misi\u00f3n sanar las grietas entre la humanidad y las m\u00e1quinas, o un gorila dise\u00f1ado gen\u00e9ticamente que resulta ser tambi\u00e9n un brillante cient\u00edfico, entre muchos otros.\n\nLucha por el futuro... en equipo\nEl trabajo en equipo ser\u00e1 fundamental para la supervivencia cuando ingreses al campo de batalla con amigos y compa\u00f1eros. Una coordinaci\u00f3n minuciosa puede marcar la diferencia entre la victoria y la derrota al momento de combinar en equipo los formidables poderes que tienen a disposici\u00f3n para provocar un efecto devastador.\n\nCambia tu perspectiva\nJusto cuando parece que tu equipo est\u00e1 destinado a sufrir una derrota, cambia de h\u00e9roe en cualquier momento y modifica el curso de la batalla. Pero no olvides que tus oponentes pueden hacer lo mismo. Domina el juego dentro de la partida al tiempo que ambos equipos cambian de estrategia y de h\u00e9roe para obtener una ventaja sobre su rival.\n\nEl mundo es tu campo de batalla\nProtege los secretos del misterioso Templo de Anubis en Egipto, escolta un dispositivo PEM para que llegue a salvo a destino por King\u2019s Row en Londres y libra batallas en muchas m\u00e1s ubicaciones \u00fanicas. Todos los mapas tienen caracter\u00edsticas distintivas propias, con objetivos por equipos y estilos de juego singulares.",
+        "languages": null,
+        "size": 13967032320
     },
     "70070000007201": {
         "id": null,
