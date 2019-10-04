@@ -948,7 +948,7 @@
         "size": 3332374528
     },
     "70010000001620": {
-        "id": null,
+        "id": "0100DCA0064A6000",
         "rightsId": null,
         "name": "Luigi\u2019s Mansion\u2122 3",
         "version": null,
@@ -963,18 +963,27 @@
         ],
         "ratingContent": [
             "Travesuras comicas",
-            "Violencia moderada en caricaturas"
+            "Violencia moderada en caricaturas",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
-        "numberOfPlayers": null,
+        "numberOfPlayers": 2,
         "rating": 6,
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2b166fb3197dacfde1d939acd6a976b9fbe3b1a32c54f9f0d2c8d23efb22412d.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/60601a0a7cd4f96b7b736dd4fe6da14bcefc9f1d3b649084302dcd409618f23f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4d5437c859c0b77d140eb8e4dadc9a2e9db37fdaf2f26779c38828c2da6e60cf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/699b744e3e94cf49d336f5e7d96be966f8f4eb329a5a8277bf940e6271046ea3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95314d2808b22d90b87a55d369d950d5043ab64bcf666dbca72968551fa91009.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae1b341e5d079e5af490ce5fc007679a21f69db66d85c602bb49db54ce96eb21.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4ed43984dd7de804af55d407df1d96e9c91cfa318d861956d34339ab35dcf214.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b99781bb3be15319c34d59a45fea821ec71c96cbcc41a3aac882765e482a8ad.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d359b9cfb671348c8064adc8cdb623156d42a01c8da97ca14eb5b9660e8a96a6.jpg",
         "intro": "El hotel est\u00e1 encantado. Mario est\u00e1 desaparecido. Y la \u00fanica esperanza es\u2026 \u00bf\u00a1Luigi?!",
-        "description": "Luigi ha sido invitado al hotel El Gran Descanso Real, \u00a1pero cuando Mario y sus amigos desaparecen, nuestro h\u00e9roe de verde tendr\u00e1 que sobrepasar sus miedos para poder salvarlos! Golpe, sopla y aspira a los fantasmas con la nueva Succionaentes GO-1000 y trabaja en conjunto con Gomiluigi para superar los complicados artilugios y traviesos jefes de cada piso tem\u00e1tico. \u00a1Entra a la Torre del Horror y forma equipo con hasta 7 jugadores m\u00e1s en este modo cooperativo en l\u00ednea* y local!\n\nIntenta derrotar a todos los fantasmas, rescatar a todos los toads y cumplir con los objetivos antes de que se acabe el tiempo\u2026 \u00a1en la Torre del Horror! Ya sea que explores el hotel con amigos o en solitario, ser\u00e1s absorbido por la m\u00fasica de ambiente y la espantosa decoraci\u00f3n de cada espeluznante esquina que explores. \u00bfPor qu\u00e9 no disfrutar de los panoramas y sonidos cinematogr\u00e1ficos con un amigo? En la aventura principal, t\u00fa y un amigo podr\u00e1n disfrutar juntos como Luigi y Gomiluigi en un juego cooperativo para dos. Gomiluigi puede caminar sobre picos, cruzar por lugares peque\u00f1o y puede ayudar a Luigi a superar los obst\u00e1culos que por s\u00ed solo no podr\u00eda superar. \u00a1No est\u00e1 de m\u00e1s tener a un amigo en este hotel; tal vez no sea tan tenebroso, pero Luigi no piensa lo mismo!",
+        "description": "Luigi ha sido invitado al hotel El Gran Descanso Real, \u00a1pero cuando Mario y sus amigos desaparecen, nuestro h\u00e9roe de verde tendr\u00e1 que superar sus miedos para poder salvarlos! Ataca, sopla y aspira a los fantasmas con la nueva Succionaentes GO-1000 y trabaja en conjunto con Gomiluigi para superar los complicados artilugios y traviesos jefes de cada piso tem\u00e1tico. Entra a la Torre del Horror y forma equipo con 8 jugadores para juego cooperativo en modo local o en l\u00ednea.\n\nIntenta derrotar a todos los fantasmas, rescatar a todos los toads y cumplir con los objetivos antes de que se acabe el tiempo\u2026 \u00a1en la Torre del Horror! Y para m\u00e1s locura de minijuegos compite en equipos en el Parque de Conmociones. Ya sea que explores el hotel con amigos o en solitario, ser\u00e1s absorbido por la m\u00fasica de ambiente y la espantosa decoraci\u00f3n de cada espeluznante esquina que explores. \u00bfPor qu\u00e9 no disfrutar de los panoramas y sonidos cinematogr\u00e1ficos con un amigo? En la aventura principal, t\u00fa y un amigo podr\u00e1n disfrutar juntos como Luigi y Gomiluigi en un juego cooperativo para dos. Gomiluigi puede caminar sobre picos, cruzar por lugares peque\u00f1os y puede ayudar a Luigi a superar los obst\u00e1culos que por s\u00ed solo no podr\u00eda superar. No est\u00e1 de m\u00e1s tener a un amigo en este hotel; tal vez no sea tan tenebroso, \u00a1pero Luigi no piensa lo mismo!\n\n\u2022\tAtrapa fantasmas y resuelve rompecabezas para rescatar a Mario y sus amigos en el hotel El Gran Descanso Real\n\u2022\t\u00a1Cada piso en este hotel tiene un tema, desde la decoraci\u00f3n y los rompecabezas hasta los jefes! \n\u2022\tUtiliza las nuevas funciones de la Succionaentes GO-1000: ataca a los fantasmas con un aporreo, rompe sus defensas con la ventosa y repele a los grupos con el propulsor \n\u2022\tLuigi puede llamar y controlar a Gomiluigi, su doble de color verde, qui\u00e9n har\u00e1 todo lo que Luigi no puede lograr\n\u2022\tGomiluigi puede pasar por lugares estrechos, caminar por picos y ayudar a Luigi a superar obst\u00e1culos\n\u2022\tIntercambia entre Luigi y Gomiluigi en el modo para un solo jugador, o deja que un amigo juegue como Gomiluigi en el modo cooperativo para dos jugadores\n\u2022\tHasta 8 jugadores podr\u00e1n trabajar juntos para ascender la Torre del Horror a trav\u00e9s del modo cooperativo local y en l\u00ednea\n\u2022\tEs el equipo de Luigi contra el equipo de Gomiluigi en un minijuego de combate para determinar cu\u00e1l equipo tiene a los mejores cazadores de fantasmas\n\nEl contenido descargable de pago que llegar\u00e1 m\u00e1s adelante al juego Luigi\u2019s Mansion 3 ofrecer\u00e1 m\u00e1s contenido para el Parque de conmociones y la Torre del Horror.",
         "languages": [
             "ja",
             "en",
@@ -986,7 +995,7 @@
             "ko",
             "zh"
         ],
-        "size": 0
+        "size": 6828326912
     },
     "70010000001801": {
         "id": "0100E65002BB8000",
@@ -1013,7 +1022,7 @@
         "numberOfPlayers": 1,
         "rating": 10,
         "developer": null,
-        "publisher": "Chucklefish",
+        "publisher": "ConcernedApe",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2c2d14a11ac7ee9439cfc88449360d238db52cedd921ac31309eea04053c08e7.jpg",
         "screenshots": [
@@ -1088,7 +1097,7 @@
             "ru",
             "zh"
         ],
-        "size": 4233101312
+        "size": 4307550208
     },
     "70010000002365": {
         "id": "01007E3006DDA000",
@@ -1163,7 +1172,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/357bb5040180a8d684851fae0abf47f1baa0475c9a465375bf6d369d3102aa88.jpg",
         "intro": "\u00a1Listo para la aventura!",
-        "description": "\u00a1El capit\u00e1n Toad es la estrella de su propia aventura de rompecabezas en la consola Nintendo Switch! Nuestro h\u00e9roe deber\u00e1 evadir peligros y rastrear tesoros en niveles cargados de trampas. \u00a1Sobrevive volcanes, motores de vapor, casas embrujadas e incluso niveles inspirados en el juego Super Mario Odyssey\u2122! Un jugador m\u00e1s podr\u00e1 unirse y ayudar lanzando nabos al enemigo.\n\nJuega como quieras y cuando quieras, incluso en el modo para dos jugadores utilizando un par de controles Joy-Con\u2122 y una consola Nintendo Switch en el modo televisor o semiport\u00e1til. Tambi\u00e9n podr\u00e1s jugar solo en el modo port\u00e1til. Explora laberinticos niveles y encuentra tesoros como superdiamantes e hiperestrellas.  Conforme vayas recuperando los tesoros robados por monstruos como el codicioso pajarraco y Wingo, \u00a1podr\u00e1s jugar como Toadette! Estos peque\u00f1os h\u00e9roes tendr\u00e1n que esconderse, arrancar, tirar y abrirse paso a trav\u00e9s de niveles infestados de enemigos, secretos por revelar y tesoros que encontrar. \u00a1Ilumina con la linterna tu pr\u00f3xima aventura!",
+        "description": "\u00a1El capit\u00e1n Toad es la estrella de su propia aventura de rompecabezas en la consola Nintendo Switch! Nuestro h\u00e9roe deber\u00e1 evadir peligros y rastrear tesoros en niveles cargados de trampas. \u00a1Sobrevive volcanes, motores de vapor, casas embrujadas e incluso niveles inspirados en el juego Super Mario Odyssey\u2122! Un jugador m\u00e1s podr\u00e1 unirse y ayudar lanzando nabos al enemigo.\n\nJuega como quieras y cuando quieras, incluso en el modo para dos jugadores utilizando un par de controles Joy-Con\u2122 y una consola Nintendo Switch en el modo televisor o semiport\u00e1til. Tambi\u00e9n podr\u00e1s jugar solo en el modo port\u00e1til. Explora laberinticos niveles y encuentra tesoros como superdiamantes e hiperestrellas.  Conforme vayas recuperando los tesoros robados por monstruos como el codicioso pajarraco y Wingo, \u00a1podr\u00e1s jugar como Toadette! Estos peque\u00f1os h\u00e9roes tendr\u00e1n que esconderse, arrancar, tirar y abrirse paso a trav\u00e9s de niveles infestados de enemigos, secretos por revelar y tesoros que encontrar. \u00a1Ilumina con la linterna tu pr\u00f3xima aventura!\n\n*Con la actualizaci\u00f3n gratuita del juego Captain Toad y el Visor VR Toy-Con de Nintendo Labo: kit de VR te unir\u00e1s al capit\u00e1n Toad en una peque\u00f1a experiencia adicional de realidad virtual que es simple y adecuada para toda la familia. Descubre esta experiencia al visitar de nuevo los siguientes niveles como el capit\u00e1n Toad en cuatro nuevas y peque\u00f1as misiones:\n\n\u2022\tEl Tesoro de las ruinas\n\u2022\tEl templo de los don Estorb\u00f3n\n\u2022\tLa pecera tropical\n\u2022\tDisparos desde la vagoneta\n\n",
         "languages": [
             "en",
             "es",
@@ -1209,12 +1218,12 @@
         "description": "Hollow Knight es una aventura de acci\u00f3n cl\u00e1sica en 2D ambientada en un vasto mundo interconectado. Explora cavernas tortuosas, ciudades antiguas y p\u00e1ramos mortales. Combate contra criaturas corrompidas, haz nuevas amistades con extra\u00f1os insectos y resuelve los antiguos misterios que yacen en el coraz\u00f3n del reino.\n\n\u00a1Incluye nuevos packs de contenido gratis! \u00a1Todas las misiones nuevas, batallas contra jefes y secretos!\n\u2022Sue\u00f1os Ocultos: \u00a1Poderosos enemigos emergen! Nuevas batallas contra jefes. Nuevas mejoras. Nueva m\u00fasica.\n\u2022La Compa\u00f1\u00eda de Grimm: Enciende la Linterna Pesadilla. Invoca a la Compa\u00f1\u00eda. Nueva Misi\u00f3n Principal. Nuevas Batallas contra Jefes. Nueos Amuletos. Nuevos Enemigos. Nuevos Amigos.\n\u2022Saviavida: Nuevas Herramientas Cartogr\u00e1ficas. Nueva Batalla contra un Jefe. Jefes Mejorados. Nuevas Pistas de M\u00fasica. \u00a1M\u00e1s Extras Escondidos!\n\nCaracter\u00edsticas del juego\n\u2022 Controles 2D perfectamente ajustados. Esquiva, corre y golpea para abrirte camino incluso frente a los adversarios m\u00e1s mortales.\n\u2022 Explora un vasto mundo interconectado de caminos olvidados, vegetaci\u00f3n salvaje y ciudades en ruinas.\n\u2022 \u00a1Forja tu propio camino! El mundo de Hallownest es extenso y abierto. Elige qu\u00e9 rutas seguir, a qu\u00e9 enemigos enfrentarte y encuentra tu propio camino.\n\u2022 \u00a1Evoluciona con habilidades nuevas y poderosas! Adquiere hechizos, fuerza y velocidad. Llega a nuevas alturas con las alas et\u00e9reas. Avanza r\u00e1pidamente en un destello fulminante. \u00a1Acaba con los enemigos gracias al Alma \u00cdgnea!\n\u2022 \u00a1Equipa amuletos! Antiguas reliquias que proporcionan poderes y habilidades extra\u00f1as. \u00a1Elige las que prefieras y emprende un viaje \u00fanico!\n\u2022 Un inmenso elenco de personajes adorables y extra\u00f1os que cobran vida gracias a una animaci\u00f3n tradicional fotograma a fotograma en 2D.\n\u2022 \u00a1M\u00e1s de 140 enemigos! \u00a130 jefes \u00e9picos! Enfr\u00e9ntate a bestias feroces y vence a caballeros antiguos durante tu b\u00fasqueda a trav\u00e9s del reino. \u00a1Rastrea hasta el \u00faltimo enemigo y a\u00f1\u00e1delo a tu Diario del Cazador!\n\u2022 Entra en sus mentes con el Aguij\u00f3n On\u00edrico. Descubre un lado nuevo de los personajes y de los enemigos a los que te enfrentes.\n\u2022 Los bellos paisajes coloreados con una perspectiva extravagante consiguen que este mundo transmita una sensaci\u00f3n de profundidad.\n\u2022 Registra tu viaje con numerosas herramientas de cartograf\u00eda. Compra br\u00fajulas, plumas, mapas y marcadores para entender mejor los paisajes serpenteantes de Hollow Knight.\n\u2022 Una banda sonora \u00edntima e inquietante, compuesta por Christopher Larkin, acompa\u00f1a al jugador durante su viaje.",
         "languages": [
             "ja",
+            "pt",
             "en",
             "es",
             "fr",
             "de",
             "it",
-            "pt",
             "ru",
             "ko",
             "zh"
@@ -1657,6 +1666,7 @@
         "languages": [
             "ja",
             "es",
+            "pt",
             "en",
             "fr",
             "de",
@@ -1798,14 +1808,15 @@
             "ja",
             "en",
             "es",
+            "pt",
             "fr",
             "de",
             "it",
-            "pt",
             "ru",
+            "ko",
             "zh"
         ],
-        "size": 1315962880
+        "size": 1589641216
     },
     "70010000006801": {
         "id": "010008900705C000",
@@ -1902,7 +1913,7 @@
             "ko",
             "zh"
         ],
-        "size": 11841568768
+        "size": 11982077952
     },
     "70010000008122": {
         "id": "01004AB00A260000",
@@ -2003,7 +2014,7 @@
             "ko",
             "zh"
         ],
-        "size": 970981376
+        "size": 1274019840
     },
     "70010000009167": {
         "id": "010042000A986000",
@@ -2180,12 +2191,12 @@
         "description": "\u00a1Baila a tu propio ritmo con Just Dance\u00ae 2019, el mayor juego de baile con 40 incre\u00edbles \u00e9xitos que van desde los \u00e9xitos del momento hasta los favoritos de toda la familia, entre los que est\u00e1n \"Havana\", de Camila Cabello, \"Bang Bang Bang\", de BIGBANG, \"No Tears Left To Cry\" de Ariana Grande y mucho m\u00e1s! \u00a1Con 1 mes de prueba de Just Dance Unlimited incluido podr\u00e1s bailar m\u00e1s de 400 canciones! \n\n\u00a1Tu experiencia de Just Dance ahora es personalizada conforme el juego aprende de tus h\u00e1bitos de baile y te sugiere contenido! \n\nDisfruta de ocho exclusivas coreograf\u00edas creadas con la ayuda de expertos en desarrollo infantil para promover un movimiento saludable.\n\nCuenta con contenido especial de evento y de temporada para una experiencia m\u00e1s din\u00e1mica en una nueva p\u00e1gina de inicio cuidadosamente curada.  \n",
         "languages": [
             "en",
+            "pt",
             "es",
             "fr",
             "de",
             "it",
             "nl",
-            "pt",
             "ru",
             "ko",
             "zh"
@@ -2227,7 +2238,7 @@
             "https://img-eshop.cdn.nintendo.net/i/d98af9011b7f3d89c65cd9b56f41e506f9c6671913b308567a2078881b6a35c2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/79e37949351caeb2bfdb6733922630541b0dcf3ef70c38391e4104b9c6793640.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9291e267192b7917425dd6bc1999a23a65748acccaa2e69f78dc00c6c3ba953d.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/84389d8c023535489d1b24633a851a01a5fcec56aa50a99b3eef2fe50d4eda4c.jpg",
         "intro": "\u00a1Forma un escuadr\u00f3n y juega el juego n.\u00b0 1 del g\u00e9nero Battle Royale! ",
         "description": "Sum\u00e9rgete para ser el \u00faltimo jugador en pie en el juego Batalla campal de 100 jugadores gratuito. S\u00e9 m\u00e1s listo que tus oponentes. Consigue la victoria. \u00a1Forma equipo con tus amigos en una misma sala o con personas de todo el mundo!\n\nCONSTRUYE Y DESTRUYE: dale forma al campo de batalla construyendo tus propias defensas. \u00bfEl enemigo se est\u00e1 escondiendo detr\u00e1s de una pared? Destruye su protecci\u00f3n para tomar la ventaja.\n\nPREP\u00c1RATE: sube al autob\u00fas de combate y cae en tu zona favorita. \u00a1Recolecta recursos, re\u00fane equipo y combate contra tus oponentes!\n\nFORMA EQUIPO CON TUS AMIGOS: \u00a1forma equipo con tus amigos de todo el mundo o de la misma sala!\n\nACTUALIZACIONES SEMANALES Y EVENTOS: las actualizaciones potencian constantemente la diversi\u00f3n con nuevos modos de juego, atuendos, armas y objetos.\n\nDesarrollado con Unreal Engine 4.",
         "languages": [
@@ -2241,7 +2252,7 @@
             "ru",
             "ko"
         ],
-        "size": 6652166144
+        "size": 7508852736
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -2257,9 +2268,12 @@
             "Arcade",
             "Carreras"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Referencia al alcohol",
+            "Lenguaje"
+        ],
         "numberOfPlayers": 4,
-        "rating": 6,
+        "rating": 10,
         "developer": null,
         "publisher": "AQUIRIS",
         "frontBoxArt": null,
@@ -2287,7 +2301,7 @@
             "ko",
             "zh"
         ],
-        "size": 1269825536
+        "size": 1284505600
     },
     "70010000011664": {
         "id": "010096000B3EA000",
@@ -2477,7 +2491,7 @@
             "ko",
             "zh"
         ],
-        "size": 14656995328
+        "size": 14910750720
     },
     "70010000012332": {
         "id": "01006A800016E000",
@@ -2530,7 +2544,7 @@
             "ko",
             "zh"
         ],
-        "size": 16120807424
+        "size": 16447963136
     },
     "70010000012854": {
         "id": "010050F00BC1A000",
@@ -2615,7 +2629,7 @@
             "fr",
             "pt"
         ],
-        "size": 145752064
+        "size": 146800640
     },
     "70010000013359": {
         "id": "0100A4400BE74000",
@@ -2712,7 +2726,7 @@
             "ko",
             "zh"
         ],
-        "size": 1215299584
+        "size": 1587544064
     },
     "70010000013704": {
         "id": "010044500C182000",
@@ -2752,16 +2766,16 @@
         "languages": [
             "ja",
             "en",
+            "pt",
             "es",
             "fr",
             "de",
             "it",
-            "pt",
             "ru",
             "ko",
             "zh"
         ],
-        "size": 5641338880
+        "size": 5645533184
     },
     "70010000014081": {
         "id": "0100C9F009F7A000",
@@ -2932,15 +2946,15 @@
             "en",
             "es",
             "fr",
+            "pt",
             "de",
             "it",
             "nl",
-            "pt",
             "ru",
             "ko",
             "zh"
         ],
-        "size": 141557760
+        "size": 138412032
     },
     "70010000015123": {
         "id": "010011600C946000",
@@ -3031,7 +3045,7 @@
             "ru",
             "zh"
         ],
-        "size": 25378684928
+        "size": 26179796992
     },
     "70010000015307": {
         "id": "01003BD00CAAE000",
@@ -3082,7 +3096,7 @@
             "ko",
             "zh"
         ],
-        "size": 24384634880
+        "size": 24900534272
     },
     "70010000015568": {
         "id": "0100E5D00CC0C000",
@@ -3146,11 +3160,11 @@
             "Multijugador"
         ],
         "ratingContent": [
-            "Sangre",
-            "Referencia a drogas",
-            "Contenido sexual",
-            "Lenguaje fuerte",
-            "Violencia"
+            "Derramamiento de sangre",
+            "Lenguaje",
+            "Temas sexuales",
+            "Violencia",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": 1,
         "rating": 17,
@@ -3165,7 +3179,7 @@
             "https://img-eshop.cdn.nintendo.net/i/fbc3d88ee504641b0d9421b2d2fb3361a2caeb1cfb865605a9766b0d379bb178.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6f2fc8bd4ee09c4eeb1f3d218c15aa261cbf92927861ec697f92d47d534d8c58.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b65def95012d8f84d1c2fc065d128aa7b761d8c16f862fdb492e70f7f66a0ddb.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f175e75e1685926eaad644e032010d776108041c44791a0daf6586ddd11fde0c.jpg",
         "intro": "Tan solo puede haber un dios.\nEl Divino ha muerto. Se avecina el Vac\u00edo.",
         "description": "Y pronto se despertar\u00e1n los poderes que duermen en tu interior. Ha comenzado la batalla por alzarse con la Divinidad. Elige sabiamente y ten cuidado en qui\u00e9n conf\u00edas. La oscuridad habita en todos los corazones. Domina un profundo sistema de combate t\u00e1ctico. \u00danete a otros 3 jugadores..., pero ten claro que solo uno tendr\u00e1 la oportunidad de alzarse como dios en Divinity: Original Sin 2, un juego de rol que ha ganado numerosos premios.\n\n- Elige entre m\u00e1s de 5 razas y 6 personajes con or\u00edgenes diferentes, o bien crea a tus propios personajes.\n- Libertad ilimitada para explorar y experimentar, con amigos o con acompa\u00f1antes de la IA.\n- Esta edici\u00f3n definitiva incluye cientos de ajustes y cambios.",
         "languages": [
@@ -3177,7 +3191,7 @@
             "ru",
             "zh"
         ],
-        "size": 11384389632
+        "size": 11758731264
     },
     "70010000016330": {
         "id": "0100A5C00D162000",
@@ -3275,6 +3289,7 @@
             "de",
             "it",
             "ru",
+            "ko",
             "zh"
         ],
         "size": 364904448
@@ -3321,7 +3336,7 @@
             "ru",
             "ko"
         ],
-        "size": 13293846528
+        "size": 13377732608
     },
     "70010000016904": {
         "id": "0100E5600D446000",
@@ -3488,9 +3503,10 @@
             "Violencia de fantasia",
             "Bajo contenido de sangre",
             "Lenguaje moderado",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
-        "numberOfPlayers": 4,
+        "numberOfPlayers": 1,
         "rating": 13,
         "developer": null,
         "publisher": "Nintendo",
@@ -3512,9 +3528,10 @@
             "es",
             "fr",
             "de",
-            "it"
+            "it",
+            "ko"
         ],
-        "size": 6241124352
+        "size": 6488588288
     },
     "70010000018547": {
         "id": "010040600C5CE000",
@@ -3561,7 +3578,7 @@
             "ko",
             "zh"
         ],
-        "size": 342884352
+        "size": 957349888
     },
     "70010000018600": {
         "id": "0100BF600D83A000",
@@ -3686,7 +3703,7 @@
             "es",
             "fr"
         ],
-        "size": 3114270720
+        "size": 3125805056
     },
     "70010000018695": {
         "id": "01007300020FA000",
@@ -3774,7 +3791,7 @@
             "ru",
             "zh"
         ],
-        "size": 3725590528
+        "size": 3773825024
     },
     "70010000019033": {
         "id": "01006BB00D45A000",
@@ -3851,7 +3868,7 @@
         "languages": [
             "en"
         ],
-        "size": 578813952
+        "size": 775946240
     },
     "70010000019691": {
         "id": "0100F8600E21E000",
@@ -3889,9 +3906,9 @@
             "https://img-eshop.cdn.nintendo.net/i/58be32b76d0d8b95619b31124346bb1c1c9cc228c6736929b6fd2bc61e6461d5.jpg",
             "https://img-eshop.cdn.nintendo.net/i/0b21232e6be7b733b0e3f88a26bfc089e72ce88510a78050a1d4ca029eb92fee.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd0574de767610a9baed6a7a2b3043644f57b3564822ebc10c43644010126bf1.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66872a8491d47883651f00f0b683abe0f6c5a28f84265fb3d7e92e9810e867ae.jpg",
         "intro": "El futuro es ahora. \u00bfEst\u00e1s con nosotros?",
-        "description": "Bonificaci\u00f3n por compra anticipada: Dise\u00f1o Widowmaker Noire\n\nObt\u00e9n una caja de bot\u00edn dorada\n\u00a1Compra Overwatch en Nintendo Switch antes del 31 de diciembre de 2019 para desbloquear una caja de bot\u00edn dorada con al menos 1 objeto legendario garantizado!\n\n\u00danete a la lucha por el futuro en el mundo de Overwatch\u00ae y elige a tu h\u00e9roe de entre una diversa lista de soldados, cient\u00edficos, aventureros y superdotados. Manipula el tiempo, desaf\u00eda la f\u00edsica y desata una gran variedad de armas y poderes extraordinarios. Enfr\u00e9ntate a tus enemigos en ubicaciones emblem\u00e1ticas de todas partes del mundo en el juego de disparos por equipos definitivo.\n\nVive lo extraordinario\nAcelera y ralentiza el tiempo. Haz llover destrucci\u00f3n desde lo alto en una armadura experimental con propulsores. Acecha a tu presa como un asesino espectral que puede aparecer en cualquier lugar en cualquier momento. Desata poderes como Golpe drag\u00f3n, Trascendencia, Oleada de gravitones y muchos m\u00e1s. Cada h\u00e9roe tiene un conjunto de habilidades \u00fanicas y devastadoras capaces de alterar el curso de la partida.\n\nJuega con h\u00e9roes, no clases\nCada h\u00e9roe tiene una perspectiva \u00fanica en el campo de batalla y una historia detr\u00e1s de c\u00f3mo lleg\u00f3 hasta all\u00ed. Puedes ser un campe\u00f3n de una era antigua que blande su martillo propulsado en servicio del honor, un monje rob\u00f3tico que tiene como misi\u00f3n sanar las grietas entre la humanidad y las m\u00e1quinas, o un gorila dise\u00f1ado gen\u00e9ticamente que resulta ser tambi\u00e9n un brillante cient\u00edfico, entre muchos otros.\n\nLucha por el futuro... en equipo\nEl trabajo en equipo ser\u00e1 fundamental para la supervivencia cuando ingreses al campo de batalla con amigos y compa\u00f1eros. Una coordinaci\u00f3n minuciosa puede marcar la diferencia entre la victoria y la derrota al momento de combinar en equipo los formidables poderes que tienen a disposici\u00f3n para provocar un efecto devastador.\n\nCambia tu perspectiva\nJusto cuando parece que tu equipo est\u00e1 destinado a sufrir una derrota, cambia de h\u00e9roe en cualquier momento y modifica el curso de la batalla. Pero no olvides que tus oponentes pueden hacer lo mismo. Domina el juego dentro de la partida al tiempo que ambos equipos cambian de estrategia y de h\u00e9roe para obtener una ventaja sobre su rival.\n\nEl mundo es tu campo de batalla\nProtege los secretos del misterioso Templo de Anubis en Egipto, escolta un dispositivo PEM para que llegue a salvo a destino por King\u2019s Row en Londres y libra batallas en muchas m\u00e1s ubicaciones \u00fanicas. Todos los mapas tienen caracter\u00edsticas distintivas propias, con objetivos por equipos y estilos de juego singulares.\n\nOverwatch\u00ae: Legendary Edition incluye:\n\n\u2022\tC\u00f3digo para canjear para la suscripci\u00f3n de 3 meses de membres\u00eda individual de Nintendo Switch Online (Se aplican t\u00e9rminos. nintendo.com/switch-online)\n\u2022\tEl juego completo\n\u2022\t5 dise\u00f1os de h\u00e9roe legendarios\n\u2022\t5 dise\u00f1os de h\u00e9roe \u00e9picos\n\u2022\t5 dise\u00f1os de h\u00e9roe Origin\n\u2022\t\u00a1Y mucho m\u00e1s!",
+        "description": "Overwatch\u00ae se lanza a nivel mundial el 15 de octubre de 2019 a las 18:00 h UTC\n\nOverwatch: Legendary Edition incluye:\n\u2022\tC\u00f3digo para canjear para la suscripci\u00f3n de 3 meses de membres\u00eda individual de Nintendo Switch Online (Se aplican t\u00e9rminos. nintendo.com/switch-online)\n\u2022\tBonificaci\u00f3n por compra anticipada: Dise\u00f1o Widowmaker Noire\n\u2022\tEl juego completo\n\u2022\t5 dise\u00f1os de h\u00e9roe legendarios\n\u2022\t5 dise\u00f1os de h\u00e9roe \u00e9picos\n\u2022\t5 dise\u00f1os de h\u00e9roe Origin\n\nDesbloquea una caja de bot\u00edn dorada\n\u00a1Compra Overwatch en Nintendo Switch e inicia sesi\u00f3n antes del 31 de diciembre de 2019 para desbloquear una caja de bot\u00edn dorada con al menos 1 objeto legendario garantizado!\n\nEmpieza tu guardia\n\u00danete a la lucha por el futuro en el mundo de Overwatch\u00ae y elige a tu h\u00e9roe de entre una diversa lista de soldados, cient\u00edficos, aventureros y superdotados. Manipula el tiempo, desaf\u00eda la f\u00edsica y desata una gran variedad de armas y poderes extraordinarios. Enfr\u00e9ntate a tus enemigos en ubicaciones emblem\u00e1ticas de todas partes del mundo en el juego de disparos por equipos definitivo.\n\nVive lo extraordinario\nAcelera y ralentiza el tiempo. Haz llover destrucci\u00f3n desde lo alto en una armadura experimental con propulsores. Acecha a tu presa como un asesino espectral que puede aparecer en cualquier lugar en cualquier momento. Desata poderes como Golpe drag\u00f3n, Trascendencia, Oleada de gravitones y muchos m\u00e1s. Cada h\u00e9roe tiene un conjunto de habilidades \u00fanicas y devastadoras capaces de alterar el curso de la partida.\n\nJuega con h\u00e9roes, no clases\nCada h\u00e9roe tiene una perspectiva \u00fanica en el campo de batalla y una historia detr\u00e1s de c\u00f3mo lleg\u00f3 hasta all\u00ed. Puedes ser un campe\u00f3n de una era antigua que blande su martillo propulsado en servicio del honor, un monje rob\u00f3tico que tiene como misi\u00f3n sanar las grietas entre la humanidad y las m\u00e1quinas, o un gorila dise\u00f1ado gen\u00e9ticamente que resulta ser tambi\u00e9n un brillante cient\u00edfico, entre muchos otros.\n\nLucha por el futuro... en equipo\nEl trabajo en equipo ser\u00e1 fundamental para la supervivencia cuando ingreses al campo de batalla con amigos y compa\u00f1eros. Una coordinaci\u00f3n minuciosa puede marcar la diferencia entre la victoria y la derrota al momento de combinar en equipo los formidables poderes que tienen a disposici\u00f3n para provocar un efecto devastador.\n\nCambia tu perspectiva\nJusto cuando parece que tu equipo est\u00e1 destinado a sufrir una derrota, cambia de h\u00e9roe en cualquier momento y modifica el curso de la batalla. Pero no olvides que tus oponentes pueden hacer lo mismo. Domina el juego dentro de la partida al tiempo que ambos equipos cambian de estrategia y de h\u00e9roe para obtener una ventaja sobre su rival.\n\nEl mundo es tu campo de batalla\nProtege los secretos del misterioso Templo de Anubis en Egipto, escolta un dispositivo PEM para que llegue a salvo a destino por King\u2019s Row en Londres y libra batallas en muchas m\u00e1s ubicaciones \u00fanicas. Todos los mapas tienen caracter\u00edsticas distintivas propias, con objetivos por equipos y estilos de juego singulares.",
         "languages": [
             "ja",
             "en",
@@ -3948,7 +3965,7 @@
             "ko",
             "zh"
         ],
-        "size": 40534802432
+        "size": 42926604288
     },
     "70010000020030": {
         "id": "010076D00E4BA000",
@@ -4094,13 +4111,12 @@
         "description": "Hotline Miami Collection incluye los dos juegos legendarios de la serie Hotline Miami de Dennaton Games, famosa por su ambientaci\u00f3n de luces de ne\u00f3n y su dificultad brutal.",
         "languages": [
             "en",
-            "pt",
             "es",
             "fr",
             "de",
             "ru"
         ],
-        "size": 908066816
+        "size": 1324351488
     },
     "70010000020281": {
         "id": "0100A4200DA76000",
@@ -4226,7 +4242,7 @@
             "ko",
             "zh"
         ],
-        "size": 14905507840
+        "size": 15006171136
     },
     "70010000022886": {
         "id": "0100A9400C9C2000",
@@ -4296,17 +4312,29 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a543364f5878003e7b3057a3c697ab6eb4af2e7e498f442064cfefe45a4f1e0e.jpg",
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7310ecd109bac62d57398d632490ac57e7048b3051f7b71f38ade9b0f70e2f8b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3853a7e19a80a3847c8bca7b93397f1ef8f6eba1df7e64c0746cdc4a97f37151.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/10b3f710982b2ebe021da2a94c995276859f388e4a9a8441de83f7cc8f5b3041.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c999fae8708662a4b956838e689ca99276ae26ba9bdfd569b69e6532234c19d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/232f4c5cfa83900b295d81cfbcaae8886398ed99b65932a9333a13518789a656.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b5413a70bfdc32bdd7f50e411e8f471d6d1740001a65cd15e43dbc7e5dfe0be8.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/200c9f06d0b25887bdd68fd8ab2a8b9dc5830f46036a8c52146763341c89ba1e.jpg",
         "intro": "\u00a1Derrota a todos los jefes en un equipo de cuatro!",
         "description": "Para derrotar a jefes tan malvados, \u00a1se requiere de todo un equipo de Kirbys! En este juego de acci\u00f3n multijugador*, podr\u00e1s escoger entre diferentes roles y unirte con hasta tres jugadores m\u00e1s para derrotar a los mal\u00e9volos jefes. Infla tu poder al crear armas y usa tus materiales en la tienda para recibir M\u00c1S armas, y ni qu\u00e9 decir de las armaduras y objetos. Comparte con un amigo un control Joy-Con\u2122 para jugar de forma local, \u00a1y si tienes una suscripci\u00f3n a Nintendo Switch Online incluso podr\u00e1s jugar en l\u00ednea**!\n\u00bfEres un Rey de la espada? \u00bfUn As del martillo? \u00bfSe\u00f1or del rayo? \u00bfO un Doctor erudito? No importa cu\u00e1l seas, cada habilidad se juega de diferente manera. El modo historia les permite a los jugadores formar equipos de forma local* al compartir los controles Joy-Con, mientras que el modo fiesta les permite a los jugadores jugar juntos en una sola consola a trav\u00e9s de la comunicaci\u00f3n local o en l\u00ednea**. Escanea figuras o accesorios*** amiibo\u2122 compatibles para obtener fragmentos adicionales, \u00a1que te ayudar\u00e1n a crear nuevos objetos! \u00bfTodo listo? \u00a1Porque Kirby siempre est\u00e1 m\u00e1s que listo para luchar y volar! ",
         "languages": [
+            "ja",
             "en",
             "es",
             "fr",
-            "pt"
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh"
         ],
-        "size": 1160773632
+        "size": 1180696576
     },
     "70010000023176": {
         "id": "01008D300C50C000",
@@ -4556,8 +4584,39 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 5073010688,
+        "size": 5144313856,
         "parentId": "01006C300E9F0000"
+    },
+    "70030000008741": {
+        "id": null,
+        "rightsId": null,
+        "name": "DAEMON X MACHINA\u2122 Pr\u00f3logo (Demo)",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000008741,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 2606759936,
+        "parentId": "0100B6400CA56000"
     },
     "70030000008961": {
         "id": null,
@@ -4588,6 +4647,34 @@
         "size": 834666496,
         "parentId": "0100EBB00D2F4000"
     },
+    "70030000009061": {
+        "id": null,
+        "rightsId": null,
+        "name": "Ori and the Blind Forest: Definitive Edition Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000009061,
+        "category": null,
+        "ratingContent": [
+            "Violencia moderada de fantasia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1262485504,
+        "parentId": "010061D00DB74000"
+    },
     "70050000000183": {
         "id": "01007EF00011F001",
         "rightsId": "01007EF00011F0010000000000000000",
@@ -4615,7 +4702,7 @@
         "intro": null,
         "description": "El paquete n.\u00ba 1, las pruebas legendarias, incluye los siguientes contenidos:\n\nSantuario de la espada\nEntrar\u00e1s en el santuario sin armas ni equipamiento y deber\u00e1s abrirte paso a trav\u00e9s de 45 niveles con feroces enemigos. Solo podr\u00e1s disponer de las herramientas que encuentres por el camino. Si superas el desaf\u00edo, lograr\u00e1s que la Espada Maestra sea a\u00fan m\u00e1s poderosa.\n\nFunci\u00f3n \"Senda del h\u00e9roe\"\nSe actualizar\u00e1 el mapa para que puedas ver el recorrido que has seguido en tu aventura. La funci\u00f3n almacena en torno a 200 horas de juego y permite acceder a momentos espec\u00edficos para que puedas ver en detalle tus movimientos previos. Incluso podr\u00eda serte \u00fatil para detectar santuarios que te hayan pasado desapercibidos al mostrarte qu\u00e9 zonas no has explorado todav\u00eda.\n\nModo experto\nEste modo incrementa el nivel de todos los monstruos: por ejemplo, los bokoblin rojos se volver\u00e1n azules. Tambi\u00e9n ver\u00e1s poderosos enemigos que no aparecen en el modo normal. Del mismo modo, los monstruos recuperar\u00e1n energ\u00eda vital lentamente y podr\u00e1n detectarte con mayor facilidad. Por \u00faltimo, aparecer\u00e1n enemigos y cofres del tesoro en el aire.\n\nNota: el modo experto se hab\u00eda anunciado previamente como \"modo dif\u00edcil\".\n\nTeletransportador\nEste objeto, oculto en un cofre del tesoro, te permite registrar tu ubicaci\u00f3n actual como punto de teletransporte en el mapa. Ten en cuenta que solo puedes registrar un lugar a la vez.\n\n8 objetos ocultos que deber\u00e1s localizar\nPodr\u00e1s encontrar los siguientes objetos inspirados en la serie The Legend of Zelda: la M\u00e1scara de Majora, el casco de Midna, el gorro, mallas y camiseta de Tingle, as\u00ed como el casco, armadura y grebas de espectro. Todos ellos se encuentran en cofres del tesoro desperdigados por Hyrule; sigue las pistas hasta dar con ellos.\n\nM\u00e1scara de kolog\nEsta m\u00e1scara se encuentra en un cofre del tesoro oculto. Al pon\u00e9rtela, emitir\u00e1 una vibraci\u00f3n para avisarte de que alg\u00fan kolog se encuentra en tus inmediaciones.",
         "languages": null,
-        "size": 1394606080
+        "size": 1397751808
     },
     "70050000000184": {
         "id": "01007EF00011F002",
@@ -4644,7 +4731,7 @@
         "intro": null,
         "description": "El paquete \"La balada de los campeones\" incluye lo siguiente:\n\nLa balada de los campeones\n\nLink se enfrenta a un nuevo desaf\u00edo guiado por una voz celestial: una prueba para controlar bestias divinas. Empu\u00f1a el Aniquilador Divino y elimina monstruos en diversas ubicaciones, descubre nuevos santuarios, supera un enorme calabozo y otros desaf\u00edos hasta hacerte due\u00f1o de la Moto Hyliana Alfa.\n\nPor otro lado, ayuda a Nyel a terminar la balada inconclusa que dej\u00f3 su maestro. Con algo de inspiraci\u00f3n, se animar\u00e1 a componer sus propios cantos, que te har\u00e1n revivir recuerdos pasados que desconoc\u00edas de los campeones y la princesa Zelda. \u00bfQue ocultar\u00e1 esa balada misteriosa?\n\nNota: para disfrutar del contenido de \"La balada de los campeones\", deber\u00e1s haber superado antes los desaf\u00edos de liberar las cuatro bestias divinas.\n\nIncluye adem\u00e1s:\n\n9 objetos de la serie The Legend of Zelda ocultos en distintos puntos de Hyrule: la camiseta de langosta; la capucha de Ravio; el casco de Zant; casco, botas y cota de Ganon fantasma; y tres partes del uniforme de la antigua guardia real hyliana.\n\nArreos ancestrales ocultos en cofres: una brida que prolonga el galope de tu montura y una silla que permite llamarla desde cualquier lugar.",
         "languages": null,
-        "size": 1048576
+        "size": 4194304
     },
     "70050000001423": {
         "id": "0100F15003E65001",
@@ -4672,7 +4759,7 @@
         "intro": null,
         "description": "Se incluye un traje como bonificaci\u00f3n en el pase de temporada. Este objeto no est\u00e1 disponible para la venta individual. ",
         "languages": null,
-        "size": 12582912
+        "size": 15728640
     },
     "70050000001426": {
         "id": "0100F15003E65004",
@@ -6111,7 +6198,7 @@
     "70050000008423": {
         "id": "01006A800016F003",
         "rightsId": "01006A800016F0030000000000000005",
-        "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 2",
+        "name": "Super Smash Bros.\u2122 Ultimate: Paquete de combatiente 2",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -6142,12 +6229,12 @@
     "70050000008424": {
         "id": "01006A800016F004",
         "rightsId": "01006A800016F0040000000000000005",
-        "name": "Paquete de aspirante 3",
+        "name": "Super Smash Bros.\u2122 Ultimate: Paquete de combatiente 3",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20200229,
+        "releaseDate": 20190904,
         "nsuId": 70050000008424,
         "category": null,
         "ratingContent": [
@@ -6164,9 +6251,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cce699b584a7598965170cd49771165e6f580a4f1e2aec73eb397b4c954d868c.jpg",
-        "intro": null,
-        "description": "Este paquete de contenido descargable incluye:\n\u3000- Un combatiente nuevo\n\u3000- Un escenario nuevo\n\u3000- Varios temas nuevos\n\nSe ofrecer\u00e1 informaci\u00f3n adicional en una fecha posterior.",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fea091fb46f1f9d2693352c945092629a44c9e540e0d3ddb35a91a590b43c606.jpg",
+        "intro": "\u00a1Banjo y Kazooie se unen al combate!",
+        "description": "La \u00faltima pieza del rompecabezas ha sido encontrada, \u00a1ya que Banjo y Kazooie se unen a la batalla como personaje jugable! Con Banjo listo para castigar a los rivales a mano limpia y las excelentes habilidades de tiro de Kazooie, tus rivales se dar\u00e1n por vencidos m\u00e1s r\u00e1pido de lo que dura una canci\u00f3n. Para su Smash Final, \u00a1estos compa\u00f1eros invocar\u00e1n a una bandada de Jinjos y al Poderoso Jinjonator para brindar al golpe final a cualquier enemigo que se interponga en su camino! Este paquete tambi\u00e9n incluye el escenario Monta\u00f1a Espiral (que contiene\u2026 \u00a1pues espirales!), as\u00ed como una selecci\u00f3n de m\u00fasica de la serie Banjo-Kazooie\u2122.\n\nEl paquete de aspirante 3 incluye a Banjo y Kazooie como personaje jugable, su escenario Monta\u00f1a Espiral y una selecci\u00f3n de m\u00fasica de la serie Banjo-Kazooie\u2122.\n\nNota: el contenido de este paquete de aspirante ya viene incluido en el pase de combatiente del juego Super Smash Bros. Ultimate (se vende por separado).\n",
         "languages": null,
         "size": 4194304
     },
@@ -6825,12 +6912,12 @@
     "70050000011729": {
         "id": "0100F2200C985008",
         "rightsId": null,
-        "name": "DLC 3",
+        "name": "Nightwolf",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20191231,
+        "releaseDate": 20190820,
         "nsuId": 70050000011729,
         "category": null,
         "ratingContent": [
@@ -6847,9 +6934,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b1e006ac3ccb675a12745255f608750fb812ecfd971710add0381fbb88cf3476.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f7f2a933817b357e550abdc1e30b5e0968f53f17b310216b1e7235d22b95d5d7.jpg",
         "intro": null,
-        "description": null,
+        "description": "Cada generaci\u00f3n, el gran esp\u00edritu elige a un guerrero digno para convertirse en Nightwolf: el campe\u00f3n y protector de los matoka. Grey Cloud demostr\u00f3 ser digno cuando sacrific\u00f3 su vida para evitar que el Drag\u00f3n Negro saqueara lo que quedaba de los artefactos sagrados de su tribu. Como Nightwolf, Grey Cloud posee la magia extraordinaria que le otorg\u00f3 el gran esp\u00edritu. \u00c9l la usa no solo para pelear por el futuro de los matoka, sino tambi\u00e9n para defender a toda la Tierra.",
         "languages": null,
         "size": 4194304
     },
@@ -7011,12 +7098,12 @@
     "70050000011735": {
         "id": "0100F2200C985009",
         "rightsId": null,
-        "name": "DLC 9",
+        "name": "Paquete de Luchador de Arcade Kl\u00e1sico",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20191231,
+        "releaseDate": 20190820,
         "nsuId": 70050000011735,
         "category": null,
         "ratingContent": [
@@ -7033,9 +7120,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b1e006ac3ccb675a12745255f608750fb812ecfd971710add0381fbb88cf3476.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d347f8118d6e861822d66fb57846f824847d4db1f30d8809e257d230a3051b5d.jpg",
         "intro": null,
-        "description": null,
+        "description": "Este art\u00edculo ya est\u00e1 incluido en el Paquete de Kombate.\n\nTres nuevas skins de personaje. El Paquete de Luchador de Arcade Kl\u00e1sico viste a los personajes de Mortal\u00a0Kombat\u00a011 Jax, Kung Lao y Kano con trajes inspirados en el arcade kl\u00e1sico.",
         "languages": null,
         "size": 4194304
     },
@@ -7473,7 +7560,7 @@
     "70050000012120": {
         "id": "01006A800016F025",
         "rightsId": null,
-        "name": "\u3010Costume\u3011Erdrick's Armour and Helmet",
+        "name": "\u3010Costume\u3011Yelmo y armadura de Erdrick",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -7495,7 +7582,7 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/337d824ff5044db9bb491360d93f5c50b693269c4ebe65aa9a8dfda5be8575bd.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5209f9303b0a7422eb9dc865a1d67bbea195d5cc9d292e66f033452d7f2ccf5c.jpg",
         "intro": null,
         "description": "Este contenido descargable incluye la armadura y el yelmo de Erdrick.\n",
         "languages": null,
@@ -7504,7 +7591,7 @@
     "70050000012121": {
         "id": "01006A800016F026",
         "rightsId": null,
-        "name": "\u3010Costume\u3011Martial Artist Gi and Wig",
+        "name": "\u3010Costume\u3011Kimono y peluca de artista marcial",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -7526,7 +7613,7 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c3d26b9b16ee61ccf11f81900a871b8aa31f33125a61335a453bc661a831ab6b.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f4766889b680f516be67620546eb96ef53410481d2ecc3a48063303c8927509b.jpg",
         "intro": null,
         "description": "Este contenido descargable incluye el kimono y la peluca de artista marcial.\n",
         "languages": null,
@@ -7535,7 +7622,7 @@
     "70050000012122": {
         "id": "01006A800016F027",
         "rightsId": null,
-        "name": "\u3010Costume\u3011Veronica's Outfit and Hat",
+        "name": "\u3010Costume\u3011Conjunto y gorro de Ver\u00f3nica",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -7557,7 +7644,7 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0c9bf44ac72284eac537b016247c0fb2030312dacaa97e3cf7baf55080de24f1.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a6fbd77a4a8ad7e02a84ef9e2542066ac11e6f682cc8d3ef79cfbca56375dd74.jpg",
         "intro": null,
         "description": "Este contenido descargable incluye el conjunto y el gorro de Ver\u00f3nica.",
         "languages": null,
@@ -7566,7 +7653,7 @@
     "70050000012123": {
         "id": "01006A800016F028",
         "rightsId": null,
-        "name": "\u3010Costume\u3011Slime Hat",
+        "name": "\u3010Costume\u3011Gorro de limo",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -7588,7 +7675,7 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/07012b6f482fa6f239489302c749daad2c2cb5ba138120cc8391065c479444cb.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aeebe43ac63508c948c4953aeb607a6beb5b0d4553ea99bc63c03f5d88795d54.jpg",
         "intro": null,
         "description": "Este contenido descargable incluye el gorro de limo.",
         "languages": null,
@@ -7692,11 +7779,10 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20191231,
+        "releaseDate": 20190905,
         "nsuId": 70050000012203,
         "category": null,
         "ratingContent": [
-            "Interacci\u00f3n de usuarios",
             "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
@@ -7708,7 +7794,7 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1ce9d6c282ca2b8bfa9433ea38c59318398a6724a15df934237d44f0e55afb7f.jpg",
         "intro": null,
-        "description": "Compartiremos m\u00e1s informaci\u00f3n sobre nuevos modos de juego m\u00e1s adelante. ",
+        "description": "Los modos de juego que incluye son:\n\n\u2022\tDuelo compartido \u2013 comparte con un amigo un control Joy-Con para un juego de dos jugadores entre s\u00ed y el CPU\n\n\u2022\tDuelo local \u2013 hasta 8 jugadores podr\u00e1n disfrutar en persona los combates a trav\u00e9s del modo multijugador local (se requieren consolas y juegos adicionales que se venden por separado)\n",
         "languages": null,
         "size": 4194304
     },
@@ -7943,6 +8029,39 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000012571": {
+        "id": "010042000A987002",
+        "rightsId": null,
+        "name": "limo apilable",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190712,
+        "nsuId": 70050000012571,
+        "category": null,
+        "ratingContent": [
+            "Referencia al alcohol",
+            "Travesuras comicas",
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f531dfbca8d73375d13c6e5fa7d9e67678c8980dac6e5469b7a092bfc6fdf19f.jpg",
+        "intro": null,
+        "description": "Recibe los siguientes art\u00edculos en el juego al precomprar el DRAGON QUEST BUILDERS 2 + Season Pass Bundle:\nlimo apilable",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000012795": {
         "id": "01003BD00CAAF001",
         "rightsId": null,
@@ -8134,12 +8253,12 @@
     "70050000013007": {
         "id": "010055D009F79003",
         "rightsId": null,
-        "name": "Batallas opcionales adicionales +",
+        "name": "Mapas de batallas opcionales",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20191031,
+        "releaseDate": 20190910,
         "nsuId": 70050000013007,
         "category": null,
         "ratingContent": [
@@ -8155,11 +8274,11 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d14cd6f521a821798fb865ff820baf2347365e5b7a5dcbd3d657150decad44f4.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a22fc7dcc7438dbecd66211167d85043dd2552eea2cd300f99b56e40903dd46f.jpg",
         "intro": null,
-        "description": "Nuevos mapas de batallas opcionales, nuevos objetos de apoyo y m\u00e1s estar\u00e1n disponibles el 31/10/2019.",
+        "description": "Se han incorporado mapas de batallas opcionales y una nueva opci\u00f3n de banda sonora.\nLos siguientes mapas de batallas opcionales han sido a\u00f1adidos:\nBatalla en el lago Teutates\nEscaramuza en el bosque\nPelea en las llanuras\nPugna en el Bosque Vedado\nBatalla en la Torre Conand\nDependiendo de tu progreso, un mapa de batalla opcional se mostrar\u00e1 en el men\u00fa de selecci\u00f3n de batalla.\nEstos nuevos mapas de batallas opcionales tendr\u00e1n el s\u00edmbolo \"!\" de color amarillo en el men\u00fa de selecci\u00f3n de batalla. En ellos podr\u00e1s obtener lingotes, as\u00ed como mejoradores de estad\u00edsticas como la Granada de Ailell.\nEn estos mapas especiales tambi\u00e9n recibir\u00e1s m\u00e1s oro como recompensa.\nPodr\u00e1s enfrentarte a cualquier mapa con tan solo gastar un punto de actividad.\nLa nueva opci\u00f3n musical (\"El pasadizo de las tempestades\") puede seleccionarse desde \"M\u00fasica de las batallas opcionales\" dentro del men\u00fa \"General\" en el men\u00fa del sistema mientras est\u00e9s en una batalla opcional.\nEstar\u00e1 disponible tambi\u00e9n en la Galer\u00eda de m\u00fasica.",
         "languages": null,
-        "size": 4194304
+        "size": 12582912
     },
     "70050000013008": {
         "id": "010055D009F79004",
@@ -8194,12 +8313,12 @@
     "70050000013009": {
         "id": "010055D009F79002",
         "rightsId": null,
-        "name": "Nuevos atuendos +",
+        "name": "Nuevo atuendo",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20191231,
+        "releaseDate": 20190910,
         "nsuId": 70050000013009,
         "category": null,
         "ratingContent": [
@@ -8215,21 +8334,21 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bca833ab58835d04a64f511f77c69f4e54d1be97d90ed3b9b7a21e164b1976bc.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f1f303dc588d9250940eaea7869799c4df6be3a69bbe82d894d4078180e91679.jpg",
         "intro": null,
-        "description": "Misiones y atuendos adicionales estar\u00e1n disponibles el 31/12/2019. Adem\u00e1s, se llevar\u00e1 a cabo una actualizaci\u00f3n gratuita. ",
+        "description": "Primer set\nNuevo atuendo (lentes para el protagonista, ropa c\u00f3moda) ha sido lanzado.\nLa ropa c\u00f3moda es para el protagonista y para los personajes estudiantes. Se pueden cambiar desde Mis aposentos y solo se mostrar\u00e1 en la batalla para ciertas clases. Las clases para las que se mostrar\u00e1 el atuendo en la batalla cambian seg\u00fan el personaje. Adem\u00e1s, el cambio de atuendo no se mostrar\u00e1 para los personajes enviados como viajeros. Las lentes para el protagonista es un accesorio que puede ser combinado con cualquier otro atuendo. Puedes seleccionar el accesorio desde Mis aposentos. Si los equipas, estos se mostrar\u00e1n en tu personaje en el monasterio y en el combate.",
         "languages": null,
-        "size": 4194304
+        "size": 10485760
     },
     "70050000013066": {
         "id": "010055D009F79005",
         "rightsId": null,
-        "name": "Objetos adicionales +",
+        "name": "Objetos de apoyo adicionales",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20191031,
+        "releaseDate": 20190910,
         "nsuId": 70050000013066,
         "category": null,
         "ratingContent": [
@@ -8245,9 +8364,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/08838f6db05fa2afcdaf3197cdd7b0f6f5bed185fedf734ad289717f3a1dd4ec.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f7b3e774709eeae6d10a4f43cb43e8d0b856cdb319382fddc4a9289eb26b635b.jpg",
         "intro": null,
-        "description": "Nuevos objetos de apoyo y m\u00e1s estar\u00e1n disponibles el 31/10/2019.",
+        "description": "Los objetos de apoyo (Lote de objetos sacros) han sido lanzados. Podr\u00e1s recibir el Lote de objetos sacros al seleccionar \" Prov. adicionales\" cerca de tu cama en Mis aposentos.\n(Los objetos pueden ser recibidos en cada archivo guardado que a\u00fan no los haya obtenido).\nEl set incluye:\n\u3000\u3000Zapatos viento sacro (+2 movimiento)\n\u3000\u3000T\u00fanica floral sacra (+7 PV m\u00e1x.)\n\u3000\u3000Copo de nieve sacra (+3 fuerza)\n\u3000\u3000Piedra de la luna sacra (+3 velocidad)",
         "languages": null,
         "size": 4194304
     },
@@ -8309,6 +8428,39 @@
         "description": "Este contenido adicional est\u00e1 disponible \u00fanicamente para los jugadores que disponen de una suscripci\u00f3n v\u00e1lida a Nintendo Switch Online. Estos art\u00edculos se podr\u00e1n descargar y usar en el modo \"Esp\u00edritus\" en Super Smash Bros.\u2122 Ultimate.\n\n1. 1500 PS\n2. Remplazar todos x 10\n3. Solo primarios x 10\n4. Solo apoyo x 10",
         "languages": null,
         "size": 16777216
+    },
+    "70050000014061": {
+        "id": "01009EA00B7152BD",
+        "rightsId": null,
+        "name": "Horizon Chase Turbo - Summer Vibes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190917,
+        "nsuId": 70050000014061,
+        "category": null,
+        "ratingContent": [
+            "Referencia al alcohol",
+            "Lenguaje"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "AQUIRIS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9e31a5eb2f92842442be547668cee3872c1a93978fadafcfe9361bdd22610792.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0101030cd117d5674f924ddb41fc1c0fa2da5f0f627118908629606005a8160e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61f1e6de737e9c53f4e5431d587d289474c578105185b04cd87be4dbcd8bbac2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39682afe8606408c18c2e51241abb4be5b8a2220287cd02be483abad805df848.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cc163afcf2dd6f355ed5790e6fe375286787d868ae7024540093a013fe596fda.jpg",
+        "intro": "[ESTE CONTENIDO ES PARA LA VERSI\u00d3N DIGITAL DE HORIZON CHASE TURBO. PARA LA VERSI\u00d3N F\u00cdSICA, COMPRA ESTE PRODUCTO A TRAV\u00c9S DEL JUEGO EN EL MEN\u00da \"CAMPA\u00d1AS\".]",
+        "description": "Ambiente Veraniego es la primera DLC de HORIZON CHASE TURBO. Y trae el m\u00e1s cl\u00e1sico de los descapotables recorriendo pistas soleadas camino a la playa. Adorar\u00e1s ponerte tus gafas de sol y disfrutar cada kil\u00f3metro de esta nost\u00e1lgica experiencia.\n\nEL CL\u00c1SICO DESCAPOTABLE DE LOS ARCADES\nUn nuevo b\u00f3lido, exclusivo y memorable: un tributo al descapotable m\u00e1s cl\u00e1sico de los arcades. Y 5 skins exclusivos desbloqueables.\n\n12 PISTAS CON TODO EL COLORIDO DEL VERANO\nDisfruta de una selecci\u00f3n de 12 soleadas pistas cuidadosamente escogidas para nuestra campa\u00f1a principal y reinventadas para este nuevo desaf\u00edo. Con la excepci\u00f3n de la primera, deber\u00e1s desbloquear el resto.\n\nUNA TRAVES\u00cdA DE COSTA A COSTA\nComienza en las grandes ciudades de la costa oeste y avent\u00farate hacia el interior en carreteras des\u00e9rticas para terminar el viaje en hermosas playas de la costa este. \u00bfSe sent\u00eda la brisa?\n\nAmbiente Veraniego es un tributo a los cl\u00e1sicos, y sobre todo, un homenaje a nuestros jugadores. \u00a1Diviertanse!",
+        "languages": null,
+        "size": 4194304
     },
     "70050000014281": {
         "id": "01006C300E9F1019",
@@ -8469,6 +8621,151 @@
         "description": "Est\u00e1 repleto de \u00fatiles objetos que seguro que te son de gran ayuda durante tus aventuras.",
         "languages": null,
         "size": 4194304
+    },
+    "70050000014521": {
+        "id": "01005DE00D05D004",
+        "rightsId": null,
+        "name": "Comentarios del juego en \u00e1rabe",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70050000014521,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20b8fcac6b3231b9da5fea593ac2b021b72cb7b0ebc90bd2effb97f5e5384d8c.jpg",
+        "intro": "Un legado de excelencia futbol\u00edstica en FIFA 20.",
+        "description": "Comentarios del juego en \u00e1rabe",
+        "languages": null,
+        "size": 435159040
+    },
+    "70050000014522": {
+        "id": "01005DE00D05D002",
+        "rightsId": null,
+        "name": "Comentarios del juego en polaco",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70050000014522,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20b8fcac6b3231b9da5fea593ac2b021b72cb7b0ebc90bd2effb97f5e5384d8c.jpg",
+        "intro": "Un legado de excelencia futbol\u00edstica en FIFA 20.",
+        "description": "Comentarios del juego en polaco",
+        "languages": null,
+        "size": 498073600
+    },
+    "70050000014523": {
+        "id": "01005DE00D05D001",
+        "rightsId": null,
+        "name": "Comentarios del juego en ruso",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70050000014523,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20b8fcac6b3231b9da5fea593ac2b021b72cb7b0ebc90bd2effb97f5e5384d8c.jpg",
+        "intro": "Un legado de excelencia futbol\u00edstica en FIFA 20.",
+        "description": "Comentarios del juego en ruso",
+        "languages": null,
+        "size": 456130560
+    },
+    "70050000014524": {
+        "id": "01005DE00D05D005",
+        "rightsId": null,
+        "name": "Comentarios del juego en italiano",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70050000014524,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20b8fcac6b3231b9da5fea593ac2b021b72cb7b0ebc90bd2effb97f5e5384d8c.jpg",
+        "intro": "Un legado de excelencia futbol\u00edstica en FIFA 20.",
+        "description": "Comentarios del juego en italiano",
+        "languages": null,
+        "size": 475004928
+    },
+    "70050000014525": {
+        "id": "01005DE00D05D003",
+        "rightsId": null,
+        "name": "Comentarios del juego en holand\u00e9s",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70050000014525,
+        "category": null,
+        "ratingContent": [
+            "Sin Descriptores",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20b8fcac6b3231b9da5fea593ac2b021b72cb7b0ebc90bd2effb97f5e5384d8c.jpg",
+        "intro": "Un legado de excelencia futbol\u00edstica en FIFA 20.",
+        "description": "Comentarios del juego en holand\u00e9s",
+        "languages": null,
+        "size": 662700032
     },
     "70050000014526": {
         "id": "01005DE00D05D006",
@@ -9026,6 +9323,211 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000015307": {
+        "id": "0100B6400CA5706E",
+        "rightsId": null,
+        "name": "Patr\u00f3n para Arsenal \"Pearl White\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190927,
+        "nsuId": 70050000015307,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/55ca882e45b0a3c019d8852b58b14bab218516a944c0ee5a396887c48af623bc.jpg",
+        "intro": null,
+        "description": "\"Podr\u00e1s utilizar \"\"Pearl White\"\" como un patr\u00f3n para tus Arsenales.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.\"\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000015308": {
+        "id": "0100B6400CA5706F",
+        "rightsId": null,
+        "name": "Patr\u00f3n para Arsenal \"Champagne Gold\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190927,
+        "nsuId": 70050000015308,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4efadc0fa70f9bea54f211f0ce15dc3d0ae43d6ae5b473085064b6c7adfa3d5a.jpg",
+        "intro": null,
+        "description": "\"Podr\u00e1s utilizar \"\"Champagne Gold\"\" como un patr\u00f3n para tus Arsenales.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.\"\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000015309": {
+        "id": "0100B6400CA57070",
+        "rightsId": null,
+        "name": "Patr\u00f3n para Arsenal \"Waves\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190927,
+        "nsuId": 70050000015309,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/273e779cd38485c631d66988f41b2a114410e20363c034342dd084c514310169.jpg",
+        "intro": null,
+        "description": "\"Podr\u00e1s utilizar \"\"Waves\"\" como un patr\u00f3n para tus Arsenales.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.\"\n\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000015310": {
+        "id": "0100B6400CA57071",
+        "rightsId": null,
+        "name": "Patr\u00f3n para Arsenal \"Blossoms\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190927,
+        "nsuId": 70050000015310,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f733e18145a98227d5b881483ed9385452ecca7d1f768d386373bdc0c6affb11.jpg",
+        "intro": null,
+        "description": "\"Podr\u00e1s utilizar \u201cBlossoms\"\" como un patr\u00f3n para tus Arsenales.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.\"\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000015311": {
+        "id": "0100B6400CA57072",
+        "rightsId": null,
+        "name": "Patr\u00f3n para Arsenal \"Wood Grain\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190927,
+        "nsuId": 70050000015311,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e557f20cf7d46af43ab43737af58bac18a23acc17dbe91b04ef6ff0ab0ec265e.jpg",
+        "intro": null,
+        "description": "\"Podr\u00e1s utilizar \"\"Wood Grain\"\" como un patr\u00f3n para tus Arsenales.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.\"\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70070000000041": {
+        "id": null,
+        "rightsId": null,
+        "name": null,
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70070000000041,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70070000000441": {
+        "id": null,
+        "rightsId": null,
+        "name": null,
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70070000000441,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
     "70070000000481": {
         "id": null,
         "rightsId": null,
@@ -9058,6 +9560,31 @@
         "description": "Enfr\u00e9ntate a legiones de enemigos con h\u00e9roes como Marth, Xander, Corrin, Chrom y otros guerreros de Fire Emblem y desencadena movimientos al estilo del juego Dynasty Warriors. Toma el control de personajes con diferentes ataques, dicta comandos estrat\u00e9gicos, forma parejas para crear incre\u00edbles movimientos y m\u00e1s en este maravilloso juego del equipo de Hyrule Warriors.\n\nEn el reino de Aytolis, nuevos h\u00e9roes se re\u00fanen m\u00edsticamente con otros guerreros de la historia de Fire Emblem\u2122. Estos h\u00e9roes deber\u00e1n unirse para enfrentar a un sin n\u00famero de enemigos y restaurar el misterioso escudo de llamas que detendr\u00e1 al Drag\u00f3n del Caos. Avanza en la historia para desbloquear personajes jugables adicionales, cada uno con diferentes ataques, armas, combinaciones y di\u00e1logo sonoro. La combinaci\u00f3n entre combates intensos y el juego cl\u00e1sico de Fire Emblem ofrece una novedosa manera de jugar en esta serie. Cambia de h\u00e9roes en cualquier lugar del campo de batalla y env\u00edalos a la victoria. Podr\u00e1s usar los materiales y el oro que encuentres para mejorar h\u00e9roes, armas y m\u00e1s. ",
         "languages": null,
         "size": 17980981248
+    },
+    "70070000000644": {
+        "id": null,
+        "rightsId": null,
+        "name": null,
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70070000000644,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
     },
     "70070000000661": {
         "id": null,
@@ -9154,7 +9681,32 @@
         "intro": null,
         "description": "El juego de The Legend of Zelda\u2122: Breath of the Wild atesora incontables horas de juego en un inmenso mundo de descubrimiento. \u00a1Eso lo convierte en el cimiento para m\u00e1s aventuras! Este paquete especial incluye el juego completo y la subscripci\u00f3n de expansi\u00f3n, el cual te permite acceder a tres nuevos cofres de tesoro, el paquete n\u00b0 1 de contenido descargable: las pruebas legendarias y el paquete n\u00b0 2 de contenido descargable: la balada de los campeones.\n\nEl paquete n\u00b0 1 de contenido descargable: las pruebas legendarias, incluye un nuevo desaf\u00edo llamado santuario de la espada, un nuevo modo dif\u00edcil, una nueva funci\u00f3n llamada senda del h\u00e9roe y mucho m\u00e1s. El paquete n\u00b0 2 de contenido descargable: la balada de los campeones incluir\u00e1 tambi\u00e9n una gran variedad de equipo y objetos de armadura inspirados en juegos anteriores de la serie The Legend of Zelda\u2122. Es un hecho que un mundo tan vivo como el de Hyrule debe crecer conforme pasa el tiempo. Si te apasiona la emoci\u00f3n del descubrimiento, no busques m\u00e1s, esta subscripci\u00f3n de expansi\u00f3n es lo que las leyendas necesitan.\n",
         "languages": null,
-        "size": 16878927872
+        "size": 16885219328
+    },
+    "70070000001021": {
+        "id": null,
+        "rightsId": null,
+        "name": null,
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70070000001021,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
     },
     "70070000001041": {
         "id": null,
@@ -9183,6 +9735,31 @@
         "description": "Presentando el primer juego de Pok\u00e9mon para la consola Nintendo Switch. Toma control de uno de los 21 preciados luchadores Pok\u00e9mon para derrotar a otros Pok\u00e9mon en la arena de combate. Llama al Pok\u00e9mon de apoyo para que asista en el combate, luego desencadena el excepcional ataque de r\u00e1faga de tu Pok\u00e9mon para subir de rango. Con muchos modos y maneras nuevas de combatir con tus amigos, \u00a1esta es tu oportunidad de convertirte en el campe\u00f3n de la regi\u00f3n Ferrum!  \n\nPurchase this bundle to own both Pokk\u00e9n Tournament DX and the Pokk\u00e9n Tournament DX Battle Pack.",
         "languages": null,
         "size": 4268752896
+    },
+    "70070000002404": {
+        "id": null,
+        "rightsId": null,
+        "name": null,
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70070000002404,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
     },
     "70070000003245": {
         "id": null,
@@ -9275,6 +9852,31 @@
         "languages": null,
         "size": 8180989952
     },
+    "70070000005061": {
+        "id": null,
+        "rightsId": null,
+        "name": null,
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70070000005061,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
     "70070000005062": {
         "id": null,
         "rightsId": null,
@@ -9338,7 +9940,7 @@
         "intro": null,
         "description": "Mortal\u00a0Kombat\u00a011, la m\u00e1s reciente entrega de la aclamada franquicia, te ofrece una experiencia m\u00e1s profunda y personalizada que nunca. Con las nuevas variantes de personaje tendr\u00e1s un control sin precedentes para personalizar a tus luchadores y hacerlos \u00fanicos.\n\nLa Edici\u00f3n Pr\u00e9mium de Mortal\u00a0Kombat\u00a011 incluye:\n\u2022 Juego principal\n\u2022 Paquete de Kombate\n\nEl Paquete de Kombate incluye:\n\u2022 6\u00a0nuevos personajes de contenido descargable, lanzados con el tiempo\n\u2022 7\u00a0skins de personaje exclusivas\n\u2022 7\u00a0conjuntos de equipo\n exclusivos",
         "languages": null,
-        "size": 26228031488
+        "size": 26234322944
     },
     "70070000005704": {
         "id": null,
@@ -9487,7 +10089,7 @@
         "intro": "Welcome to the Next",
         "description": "NBA 2K20 Digital Deluxe Edition incluye los siguientes objetos digitales:\n\u2022 35\u00a0000 VC (moneda virtual)\n\u2022 10\u00a0000 puntos de MyTEAM\n\u2022 10 potenciadores de habilidades de MyCAREER\n\u2022 C\u00e1psula de ropa de MyPLAYER \n\u2022 10 paquetes de Liga de MyTEAM (uno por semana)\n\u2022 10 paquetes Heat Check de MyTEAM (uno por semana desde el comienzo de la temporada de NBA)\n\u2022 1 carta Zafiro de MyTEAM de los deportistas en portada ",
         "languages": null,
-        "size": 40534802432
+        "size": 42926604288
     },
     "70070000006365": {
         "id": null,
@@ -9521,7 +10123,7 @@
         "intro": "Welcome to the Next",
         "description": "NBA 2K20 Legend Edition incluye los siguientes objetos digitales:\n\u2022 100\u00a0000 VC (moneda virtual)\n\u2022 50\u00a0000 puntos de MyTEAM\n\u2022 20 potenciadores de habilidades de MyCAREER\n\u2022 C\u00e1psula de ropa de MyPLAYER \n\u2022 Colecci\u00f3n de indumentaria de MyPLAYER \n\u2022 Colecci\u00f3n de tenis para tu MyPLAYER\n\u2022 20 paquetes de Liga de MyTEAM (uno por semana)\n\u2022 20 paquetes Heat Check de MyTEAM (uno por semana desde el comienzo de la temporada de NBA)\n\u2022 5 paquetes tem\u00e1ticos de MyTEAM (uno por tema en los siguientes cinco lanzamientos)\n\u2022 2 Cartas Zafiro de MyTEAM de los deportistas en portada. ",
         "languages": null,
-        "size": 40534802432
+        "size": 42926604288
     },
     "70070000006481": {
         "id": null,
@@ -9556,7 +10158,7 @@
         "intro": null,
         "description": "Prueba Wolfenstein: Youngblood gratis. Acceder a todo el juego y sus funcionalidades requiere una invitaci\u00f3n de alguien que posea un Buddy Pass.",
         "languages": null,
-        "size": 24384634880
+        "size": 24900534272
     },
     "70070000006482": {
         "id": null,
@@ -9594,7 +10196,7 @@
         "intro": null,
         "description": "\"Wolfenstein: Youngblood es la primera aventura cooperativa moderna de Wolfenstein.\n\nDiecinueve a\u00f1os despu\u00e9s de los acontecimientos de Wolfenstein II, B.\u00a0J. Blazkowicz desapareci\u00f3 tras una misi\u00f3n en el Par\u00eds ocupado por los nazis. Ahora, despu\u00e9s de unos cuantos a\u00f1os de entrenamiento de su aguerrido padre, las hijas gemelas de B.\u00a0J., Jess y Soph Blazkowicz, deben entrar en acci\u00f3n.\n\n\u00danete a un amigo o juega por tu cuenta. Sube de nivel, explora y completa misiones para desbloquear nuevas habilidades, armas, dispositivos, elementos est\u00e9ticos y muchas cosas m\u00e1s para complementar tu estilo de juego y personalizar tu apariencia.\n\nWolfenstein: Youngblood ofrece la experiencia de Wolfenstein con el final m\u00e1s abierto hasta la fecha. Desde una nueva base de operaciones en las catacumbas de Par\u00eds, planea el ataque para desmantelar el r\u00e9gimen nazi. \"\n",
         "languages": null,
-        "size": 24384634880
+        "size": 24900534272
     },
     "70070000006483": {
         "id": null,
@@ -9632,7 +10234,7 @@
         "intro": null,
         "description": "\"Wolfenstein: Youngblood es la primera aventura cooperativa moderna de Wolfenstein.\n\nDiecinueve a\u00f1os despu\u00e9s de los acontecimientos de Wolfenstein II, B.\u00a0J. Blazkowicz desapareci\u00f3 tras una misi\u00f3n en el Par\u00eds ocupado por los nazis. Ahora, despu\u00e9s de unos cuantos a\u00f1os de entrenamiento de su aguerrido padre, las hijas gemelas de B.\u00a0J., Jess y Soph Blazkowicz, deben entrar en acci\u00f3n.\n\n\u00danete a un amigo o juega por tu cuenta. Sube de nivel, explora y completa misiones para desbloquear nuevas habilidades, armas, dispositivos, elementos est\u00e9ticos y muchas cosas m\u00e1s para complementar tu estilo de juego y personalizar tu apariencia.\n\nLa Deluxe Edition incluye el Buddy Pass, que te permitir\u00e1 jugar el juego completo con un amigo, incluso si este no posee una copia.\n\nEsta edici\u00f3n tambi\u00e9n viene con el Cyborg Skin Pack, que incluye:\n- Dise\u00f1o de c\u00edborg\n- Dise\u00f1os de aleaci\u00f3n de titanio para todas las armas\n- Hacha de aleaci\u00f3n de titanio\n- Cuchillo de aleaci\u00f3n de titanio \n- Se\u00f1al de motivaci\u00f3n que mejora la armadura\"\n",
         "languages": null,
-        "size": 24384634880
+        "size": 24900534272
     },
     "70070000006541": {
         "id": null,
@@ -9770,6 +10372,81 @@
         "region": null,
         "releaseDate": null,
         "nsuId": 70070000007321,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70070000007782": {
+        "id": null,
+        "rightsId": null,
+        "name": null,
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70070000007782,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70070000007801": {
+        "id": null,
+        "rightsId": null,
+        "name": null,
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70070000007801,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70070000007802": {
+        "id": null,
+        "rightsId": null,
+        "name": null,
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70070000007802,
         "category": null,
         "ratingContent": null,
         "numberOfPlayers": null,
