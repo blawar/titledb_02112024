@@ -1055,7 +1055,7 @@
             },
             "da518b2470051b55fd919ebb0bd59f6904304bb18e3fc3984082805c133f1406": {
                 "source": "01000000 00B32880 00000007",
-                "title": "[Unlock Challenge Sound Test Mode]"
+                "title": "[Unlock Challenge, Sound Test Mode]"
             },
             "f8a35ed54276a43de0622544a7d148d54f7e7dabdd08b04ef48015df0ebf686e": {
                 "source": "80000002\n580F0000 00B29A68\n780F0000 00000E3C\n640F0000 00000000 41D00000\n20000000",
@@ -1942,7 +1942,7 @@
             },
             "42804fead7dea1d693ee97d0fae1d37c9aa299205c21bdfc05a5a7bd03577a89": {
                 "source": "04000000 00320F80 52800C60",
-                "title": "[Mana Stones x99]"
+                "title": "[Shadestones x99]"
             },
             "670612da152dc4434e7cb621ac5cf53750c49137e70f2dad7df7995bb23e90db": {
                 "source": "04000000 001B69A0 1E2703E0",
@@ -2308,6 +2308,18 @@
             "version": 0
         }
     },
+    "01001C100E772000": {
+        "1B80403BE8882745": {
+            "6d0a93695319ceb235689a60286a8ea58e76f4de2a5f6a54dacb92073549ee01": {
+                "source": "80000041\n580F0000 03B6AA10\n780F0000 00024240\n640F0000 00000000 20C85580\n20000000",
+                "title": "[Hold L & A for 550 million studs]"
+            },
+            "90e2347e7623d5b4b38159003e2aa373bc68c0d67c1b06e3669c71166e2452fe": {
+                "source": "580F0000 03B57DD0\n780F0000 00000838\n640F0000 00000000 00000404",
+                "title": "[Infinite health]"
+            }
+        }
+    },
     "01001C700873E000": {
         "9ED444678B20813A": {
             "249230eaa7234137968fe2ef5fbb57e6bdd4f842178fe319d39de4f20533398d": {
@@ -2551,7 +2563,7 @@
             },
             "c3fc395592dd964936ccbaaa9341b72794ef831eed51ead25e1e0005ab20802a": {
                 "source": "01000000 0050E3E6 00000008",
-                "title": "[Jason Infinite SP]"
+                "title": "[Infinite SP]"
             },
             "e7c815d2c8dfd0267e4e0580118bb8c961a8fb21957b4d0e2c5b0268a116acd3": {
                 "source": "01000000 003DFC3A 0000003F\n01000000 0050E3EC 00000008",
@@ -4550,11 +4562,11 @@
         "F8C08AD2CDA26A46": {
             "52af5c1c630b07a2a15795e2619aa38c23673f4cafe279be4259d02833f2e406": {
                 "source": "580F0000 027EE7E0\n780F0000 00002520\n640F0000 00000000 0098967F",
-                "title": "[#01# Inf Gold Coins]"
+                "title": "[Inf Gold Coins]"
             },
             "97f763faef00988eabafe4b977c4a711e7b10d902c85fe8a087b58a23af6a527": {
                 "source": "580F0000 0271E258\n580F1000 00000008\n580F1000 00000D40\n580F1000 00000058\n580F1000 00000060\n780F0000 0000027C\n640F0000 00000000 3F800000",
-                "title": "[#02# Inf Nitro]"
+                "title": "[Inf Nitro]"
             }
         }
     },
@@ -8218,11 +8230,11 @@
         "7253A3BBE715D092": {
             "0f3646b0218626b075d7c07d26d529037465c1fd4e0486f914df0c9460ab03ef": {
                 "source": "04000000 001DF980 B9443C08",
-                "title": "[finish Level with 999 coins - off]"
+                "title": "[1 Coin worth 1]"
             },
             "3578d69b04c04d1937901de8fbdb531854c78c88d4cd3805a83b9a08c12e9ac6": {
                 "source": "04000000 001DF980 52807CE8",
-                "title": "[finish Level with 999 coins - on]"
+                "title": "[1 Coin worth 999]"
             },
             "912ff8905ccb54bcad554bc833c2ddec2f5a19d25f0cc3681ab81485d3fd9d57": {
                 "source": "040F0000 004F4574 D10203FF",
@@ -9444,11 +9456,11 @@
             },
             "069fbe082aae6bbc51434f5bf3ed09c358f335bdb3aa937840e0b1dd2244a9bd": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000038\n780F0000 0000008C\n640F0000 00000000 000003E7",
-                "title": "[Hendrik Easy Escape]"
+                "title": "[Eight Max Agility]"
             },
             "0879ed3c109bbec01f61eb89d61944679669f9650e171b98d5915a25fd7d48ab": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000030\n780F0000 0000008C\n640F0000 00000000 000003E7",
-                "title": "[Rab Easy Escape]"
+                "title": "[Rab Max Agility]"
             },
             "12a63bdc905ce5b4630fe8f7281c33a21edea69eb1f568955ed89ce80b7639e2": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000010\n780F0000 0000007C\n640F0000 00000000 000003E7",
@@ -9460,11 +9472,15 @@
             },
             "16db6f31dee8abe506e40afafbd7f6b9501148d9b7fd2a1dfaa71e40f689c778": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000018\n780F0000 0000008C\n640F0000 00000000 000003E7",
-                "title": "[Serena Easy Escape]"
+                "title": "[Serena Max Agility]"
             },
             "1b5409809901bcc63aee304ad5c4674bdd5a503e44d3b78a0392958be90baad6": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000020\n780F0000 00000084\n640F0000 00000000 000003E7",
                 "title": "[Sylvando Max Attack]"
+            },
+            "2475d4a3a173f04b1aee8c3748769e4b117d00d98839569da3f1e700cb4b4302": {
+                "source": "04000000 009F59C4 6B010108",
+                "title": "[Gold Changes Like Normal]"
             },
             "24771e0887601f9e93c716a95f2223c0c9af06b17b20632f272bfa9237fa2e91": {
                 "source": "04000000 009BABF4 0B090916",
@@ -9484,7 +9500,7 @@
             },
             "3543dc2115dce96a32814ba046e927b7ae3633c9f744929245beaaa64f972c20": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000038\n780F0000 00000080\n640F0000 00000000 000003E7",
-                "title": "[Hendrik Max MP]"
+                "title": "[Eight Max MP]"
             },
             "381cc453409322c3feb317504155543d58049e3038bca77b59b1730ce89fee8d": {
                 "source": "04000000 009F58C0 0B010501",
@@ -9504,7 +9520,7 @@
             },
             "517bf2d8d50d3ed7852c8119adf781f1898eaaef6d8f965c232503df1a41f49d": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000010\n780F0000 00000090\n640F0000 00000000 000003E7",
-                "title": "[Veronica Max Charm]"
+                "title": "[Veronica Max Deftness]"
             },
             "581f85b1731030f8513349a35637d800dae6d5f984312b1c63b57ba707edb4bd": {
                 "source": "04000000 009BABF4 0B091116",
@@ -9516,7 +9532,7 @@
             },
             "63f2053805a5f406873e54f8b32faa4021f33cc20a906bb8331b5f8c2f11051d": {
                 "source": "04000000 009B03FC B940B275\n04000000 009B0400 2A0003F4",
-                "title": "[Open Status to gain Max EXP (off)]"
+                "title": "[Open Status to gain Max EXP (OFF)]"
             },
             "653a4673d845b46fae8644409fd99b54762742bf7cc353e5af3b31f24b067fe0": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000028\n780F0000 00000080\n640F0000 00000000 000003E7",
@@ -9524,11 +9540,11 @@
             },
             "71af0834dd02563f6a1088301a73afa5e62feebc85a9b3e9c149881917ec116d": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000028\n780F0000 00000090\n640F0000 00000000 000003E7",
-                "title": "[Jade Max Charm]"
+                "title": "[Jade Max Deftness]"
             },
             "773090a6ffe2848cc5f9df516a5abf0017b1e2cd8b62d6602e8e61900751ebf1": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000038\n780F0000 0000007C\n640F0000 00000000 000003E7",
-                "title": "[Hendrik Max HP]"
+                "title": "[Eight Max HP]"
             },
             "78a50f15b2754549407002d5e7cb0e1e853fac6ebf324e189b3b21e8b5ba5a55": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000008\n780F0000 00000080\n640F0000 00000000 000003E7",
@@ -9540,7 +9556,7 @@
             },
             "7decde52c717be51246b47513be10ead9450cd11165cc4a3da99f429cda75ced": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000038\n780F0000 00000090\n640F0000 00000000 000003E7",
-                "title": "[Hendrik Max Charm]"
+                "title": "[Eight Max Deftness]"
             },
             "7df4d29ada55f152e2aa8ac03c6ebc708d51db2f5c95bedefd22c5ba22afab09": {
                 "source": "80000002\n580F0000 084FE680\n580F1000 00000078\n580F1000 00000020\n580F1000 00000008\n780F0000 00000104\n640F0000 00000000 44470000\n20000000",
@@ -9552,7 +9568,7 @@
             },
             "8a607c8d75507ed3d63b58f2a471cdcb01d850b5a2540b612ecaf80bcfb45e37": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000028\n780F0000 0000008C\n640F0000 00000000 000003E7",
-                "title": "[Jade Easy Escape]"
+                "title": "[Jade Max Agility]"
             },
             "963dea254ed4b53593174e97c2a54dce439d1b6b530274bdba2aba436d488c66": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000030\n780F0000 00000080\n640F0000 00000000 000003E7",
@@ -9564,27 +9580,31 @@
             },
             "97523f452a3872587cdf02bbe974a0bf49c2b56b08af7b7d8e0527ab4fce4d0b": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000018\n780F0000 00000090\n640F0000 00000000 000003E7",
-                "title": "[Serena Max Charm]"
+                "title": "[Serena Max Deftness]"
             },
             "977b8d10948845f413f5bd0390d8891122085e1216574064dce5b2c202424650": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000030\n780F0000 0000007C\n640F0000 00000000 000003E7",
                 "title": "[Rab Max HP]"
             },
+            "9796e75ec8b41063a36138a3bfcc684cb4109a1f8f445dd17d6550873be02158": {
+                "source": "04000000 009F59C4 2B010108",
+                "title": "[Gold Increases Instead of Decreases]"
+            },
             "97ba54aa05c48f79c18d8a4caeaea5d519d84cc6078dab974956b26a61752813": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000038\n780F0000 00000084\n640F0000 00000000 000003E7",
-                "title": "[Hendrik Max Attack]"
+                "title": "[Eight Max Attack]"
             },
             "98e10d1259b48a3e282f190044aa5ab278a63b5982c06482dc8f13c758cb6006": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000000\n780F0000 0000008C\n640F0000 00000000 000003E7",
-                "title": "[Luminary Easy Escape]"
+                "title": "[Luminary Max Agility]"
             },
             "a27d7f0d2491bd7eb64b81a1340b5ab8c84733632c53a2bea8f3b443ce2f4846": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000008\n780F0000 0000008C\n640F0000 00000000 000003E7",
-                "title": "[Erik Easy Escape]"
+                "title": "[Erik Max Agility]"
             },
             "a3965500d566c5bf84ac35f9fc9a6c5d1d3fca9b05ec5cf796142cc1c252772a": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000038\n780F0000 00000088\n640F0000 00000000 000003E7",
-                "title": "[Hendrik Max Defence]"
+                "title": "[Eight Max Defence]"
             },
             "a69655aa199250a385e58d9f369a73905cd8a5660e6412400de4593569cd7625": {
                 "source": "04000000 009F58C0 0B015901",
@@ -9592,11 +9612,11 @@
             },
             "a76bd17b379985978ee58dd6389deb61d5b8d7caef19540a7f76681f2ce4b1b1": {
                 "source": "04000000 015975A4 2956A109\n04000000 015975A8 4B080128\n04000000 015975AC B9000048\n04000000 015975B0 D65F03C0\n04000000 015975B4 00000000",
-                "title": "[Open Skill Window to Gain 999 Skill points (off)]"
+                "title": "[Open Skill Window to Gain 999 Skill points (OFF)]"
             },
             "a8920e359589fbfb26d38966e01e0a4ae3f87f430e728b6b9a00d52e8b9cb6d1": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000020\n780F0000 0000008C\n640F0000 00000000 000003E7",
-                "title": "[Sylvando Easy Escape]"
+                "title": "[Sylvando Max Agility]"
             },
             "aa66e2511e93ed101b2c71606d47866556017be91db4104328d669f4d34fa83c": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000020\n780F0000 00000080\n640F0000 00000000 000003E7",
@@ -9632,19 +9652,19 @@
             },
             "c30678a6639843112dea1df6d1ac2b1cc8342888ffec59ced016fcbc481d92d2": {
                 "source": "580F0000 07815B60\n580F1000 00000130\n580F1000 00000368\n580F1000 00000010\n780F0000 00000018\n640F0000 00000000 000003E7",
-                "title": "[Mini Medal Max]"
+                "title": "[Mini Medal Max/999 Pearls]"
             },
             "c9e663b5323022df71fd2484fe8a33877001aeabbac49300f0166913fa6d32e4": {
                 "source": "04000000 009B03FC B900B260\n04000000 009B0400 0B140008",
-                "title": "[Open Status to gain Max EXP (on)]"
+                "title": "[Open Status to gain Max EXP (ON)]"
             },
             "caceae28c4112a746a2895cbc5c2023b3b1aba85593611dcc4e10330081fdbf6": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000010\n780F0000 0000008C\n640F0000 00000000 000003E7",
-                "title": "[Veronica Easy Escape]"
+                "title": "[Veronica Max Agility]"
             },
             "ce1da682dfcad07ad659bc63c6a1d34f45853655e9ed772a84b1ff8040528793": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000000\n780F0000 00000090\n640F0000 00000000 000003E7",
-                "title": "[Luminary Max Charm]"
+                "title": "[Luminary Max Deftness]"
             },
             "cf0a1d3bd145eee85eb26eeba921f3e4c5860c27a89d84f4f33343aec1b0e4a8": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000020\n780F0000 0000007C\n640F0000 00000000 000003E7",
@@ -9656,23 +9676,27 @@
             },
             "cfd46b09eb79bded445598892f54fb31301c11b2e999ad61db034181ab2a07c7": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000008\n780F0000 00000088\n640F0000 00000000 000003E7",
-                "title": "[Erik Max Defense]"
+                "title": "[Erik Max Defence]"
             },
             "d0df135db52697758a29667b525c61c8d7645c214128bbb469f5295c52e10792": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000008\n780F0000 00000090\n640F0000 00000000 000003E7",
-                "title": "[Erik Max Charm]"
+                "title": "[Erik Max Deftness]"
             },
             "d3c5962bf5bc72f8ac18ce5f4e946115971d56110eec1215c2a2fbffa3424683": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000020\n780F0000 00000090\n640F0000 00000000 000003E7",
-                "title": "[Sylvando Max Charm]"
+                "title": "[Sylvando Max Deftness]"
             },
             "d4377d8288a876dd711014daaabd84c76e9ebd39c46a359cc44ae68cc78b0768": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000030\n780F0000 00000090\n640F0000 00000000 000003E7",
-                "title": "[Rab Max Charm]"
+                "title": "[Rab Max Deftness]"
             },
             "d5e03cb94a457b9965f9a30537925d8b2eb5cb31600dd9f308623c891c21016e": {
                 "source": "04000000 009F58C0 0B011101",
                 "title": "[Gold x16]"
+            },
+            "da4f6ff09fb3eb096b312860775d072612e4cb2519476695b7c9abb8082b4e10": {
+                "source": "04000000 009F59C4 D503201F",
+                "title": "[Gold Never Decreases]"
             },
             "dd94f63f7fc3742c051db70f10d6ab897881f7900bbf4e1f2e98e3edd851c5d3": {
                 "source": "04000000 009BABF4 0B091516",
@@ -9680,7 +9704,7 @@
             },
             "e011b3c037b1e651e2da4179560d08eac31c40f17df8953278778cf9b6e64dba": {
                 "source": "580F0000 07815B60\n580F1000 00000130\n580F1000 00000368\n580F1000 00000000\n780F0000 00000018\n640F0000 00000000 0098967F",
-                "title": "[Casino Coin Max]"
+                "title": "[Casino Coin Max (May Not Be Working)]"
             },
             "e1d4725fa6458d9543f99151a43b8b3e7173991d62c2ccd001ba5958aca6776c": {
                 "source": "580F0000 084FE680\n580F1000 00000078\n580F1000 00000020\n580F1000 00000008\n780F0000 0000000C\n640F0000 00000000 0100000E",
@@ -9692,11 +9716,11 @@
             },
             "e723e17bf4ba60c275aa3b00d2201b282360a2703f1a4a8d8974b161e47ac9a9": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000000\n780F0000 00000088\n640F0000 00000000 000003E7",
-                "title": "[Luminary Max Defense]"
+                "title": "[Luminary Max Defence]"
             },
             "e8433c2005e3e5a901993fd758bcc83966a3705111b2d418e0582ffab9a3ccda": {
                 "source": "04000000 015975A4 52807CE9\n04000000 015975A8 B900B509\n04000000 015975AC B900B91F\n04000000 015975B0 B9000049\n04000000 015975B4 D65F03C0",
-                "title": "[Open Skill Window to Gain 999 Skill points (on)]"
+                "title": "[Open Skill Window to Gain 999 Skill points (ON)]"
             },
             "eee7004fadee5c52c0d18cd933dd6278a38fce20fcab76ebf5a652ae13fc613b": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000000\n780F0000 0000007C\n640F0000 00000000 000003E7",
@@ -11048,7 +11072,7 @@
             },
             "2fec72bba2e23e7ae62a899d0b7186a5ec5083e659d9d219ba9adfc4de014690": {
                 "source": "80000100\n580F0000 026BD4B0\n580F1000 00000070\n580F1000 00000040\n580F1000 000000D0\n580F1000 00000080\n580F1000 000000B0\n780F0000 00000018\n640F0000 00000000 00029D7E\n20000000",
-                "title": "[push ZL then defeat enemy for  LV+1 max LV30]"
+                "title": "[push ZL then defeat enemy for LV+1 max LV30]"
             },
             "318b1a7765b59c86628596c7f8907f7d7d913ef4a9b765481750d98f0e268d27": {
                 "source": "580F0000 026BCB08\n580F1000 00000098\n580F1000 00000100\n580F1000 000000C8\n580F1000 00000020\n580F1000 00000010\n580F1000 00000048\n580F1000 00000018\n580F1000 00000030\n780F0000 0000001B\n610F0000 00000000 00000000",
@@ -11064,9 +11088,31 @@
             },
             "670c363be2ab5c1c49437eaca84ffaeed288eb81b6f309f3b46d1bd41160ee65": {
                 "source": "580F0000 026B7810\n580F1000 00000098\n580F1000 00000058\n580F1000 00000048\n580F1000 00000038\n580F1000 00000010\n580F1000 00000020\n780F0000 00000018\n640F0000 00000000 0098967F",
-                "title": "[9999999  Credits]"
+                "title": "[9999999 Credits]"
             },
             "version": 65536
+        }
+    },
+    "010073700E412000": {
+        "1BBC6341E973E943": {
+            "a4d6f4a7fcf682bbba4f8b06c8f16f1f177e0bc5da79fd11a7d74cf4167d1036": {
+                "source": "08000000 001FE794 5400006A 6B010108\n04000000 001FE79C 2A1F03E0\n80000040\n08000000 001FE794 72A77348 52993FE8\n04000000 001FE79C 14000002\n20000000",
+                "title": "[Hold L on Buy to get Max Money]"
+            },
+            "c1c6cd11f7dcc8943a11e2403a3e1e9063e4cb3fcec36ffaed4efde215a30ebe": {
+                "source": "04000000 000B6DAC 4B1F0114",
+                "title": "[Inf Stamina]"
+            }
+        },
+        "EE35389BEB0FF248": {
+            "2cb7af2eb16d89562b6a7fd662821c2679ee8c25bfa4eb750b03c58282dad652": {
+                "source": "04000000 000B6DAC 4B1F0114",
+                "title": "[Inf Stamina]"
+            },
+            "626b34e223b2bd5acfe2244e60442ff348bb8ed64f05f643182bdc9538f16de0": {
+                "source": "08000000 001FF304 5400006A 6B010108\n04000000 001FF30C 2A1F03E0\n80000040\n08000000 001FF304 72A77348 52993FE8\n04000000 001FF30C 14000002\n20000000",
+                "title": "[Hold L on Buy to get Max Money]"
+            }
         }
     },
     "0100744001588000": {
@@ -11495,7 +11541,7 @@
             },
             "69cce3c00e99df47ae323afac2003a262452157bd925c5b5db34885802a2a424": {
                 "source": "580F0000 01D2CDA0\n580F1000 00000278\n580F1000 00000020\n780F0000 00000044\n640F0000 00000000 461C3C00",
-                "title": "[Money 9999 v100]"
+                "title": "[Money 9999]"
             },
             "version": 0
         },
@@ -12089,7 +12135,7 @@
         "09B0D1846CC99974": {
             "117b7250fbaa72ac99c2fdaa6e88c1cea23d758947c5ad88267908a00f837c22": {
                 "source": "04000000 01202F90 0001869F",
-                "title": "[99999 Coins]"
+                "title": "[99999 money]"
             },
             "31ffc0212acd71a557ff59cd3e774faefa143851873dd902659f3acb56cb8671": {
                 "source": "580F0000 01206DD0\n580F1000 00000018\n780F0000 0000011C\n680F0000 43960000 43960000",
@@ -12156,7 +12202,7 @@
             },
             "d707d9749378af64c41e87af1e37798dbc24be7c35a0bbbea966ac563c599cc2": {
                 "source": "580F0000 0120B078\n580F1000 00000018\n780F0000 0000011C\n680F0000 43960000 43960000",
-                "title": "[P1 Infinite HP v101]"
+                "title": "[P1 Infinite HP]"
             },
             "db62ebdf35e46069344b4dd7302a6a1e137a0b95e3795dd82a3aac87daa4d3ff": {
                 "source": "04000000 01207020 0001869F",
@@ -12190,7 +12236,7 @@
             },
             "79ea57827b9ff4febbfc26feb7f523065a940624f15bc65216fea1f7c9b1935f": {
                 "source": "04000000 0120C220 0001869F",
-                "title": "[99999 Coins]"
+                "title": "[99999 money]"
             },
             "c3055a1a2e3d1b28c291e18d76d3c0d2e4625e2c625d77281bcc8f81504bb38f": {
                 "source": "580F0000 01210280\n780F0000 000000BC\n640F0000 00000000 41400000\n780F0000 00000010\n640F0000 00000000 41400000",
@@ -12240,7 +12286,7 @@
         "16A91992BBA71201": {
             "0613cbb36be5f0a47485c4656f9f72929bcada9ec196a7459522bbb864f05343": {
                 "source": "580F0000 025D04E8\n780F0000 00082C8C\n640F0000 00000000 453B8000\n780F0000 00000004\n640F0000 00000000 453B8000",
-                "title": "[Max - Infinite Stamina]"
+                "title": "[Max & Infinite Stamina]"
             },
             "0f11680b959c3f85a67a524e56b1a0ae9cc54dec00a8c9b75c45c635d0055af2": {
                 "source": "021F0000 A9864228 000003E7",
@@ -12292,7 +12338,7 @@
             },
             "a397e9c75b4a3121a8f304b5bf429b223ed5f9e1d5356ac7ddbb2cb31a61b46f": {
                 "source": "580F0000 025CE340\n780F0000 000020B0\n640F0000 00000000 00000078\n780F0000 00000BB0\n640F0000 00000000 00000078\n580F0000 025D04E8\n780F0000 00082C88\n640F0000 00000000 42F00000",
-                "title": "[Max - Infinite Health]"
+                "title": "[Max & Infinite Health]"
             },
             "a99d624f916aac8fc02daead23e46d41e05230ede68f4d8f394202237b817eb4": {
                 "source": "580F0000 025D75B0\n580F1000 000447E8\n780F0000 00000020\n620F0000 00000000 000003E7",
@@ -12300,7 +12346,7 @@
             },
             "ae26e27b97a4a1e1abe41e735377f43183b4c1af4749139e67872b318c762376": {
                 "source": "580F0000 025CE340\n780F0000 00003530\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n580F0000 025CE340\n780F0000 000040E0\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006",
-                "title": "[Infinite Special Powers]"
+                "title": "[Infinite Special Power]"
             },
             "b0df1609617cea93bb29944dda2fa059e54c93fd3381fd181f2abaf419273888": {
                 "source": "041F0000 A0D4D640 0001869F\n041F0000 A9B0BFF0 0001869F",
@@ -12387,15 +12433,15 @@
         "EADA9F7AD4D3BA41": {
             "6821bb2bb3a8757cac1bfb9a1057cbdc836e668f2772b091497e232f90bc403e": {
                 "source": "04100000 9423AB94 000F423F",
-                "title": "[999999 EXP after battle]"
+                "title": "[999999 EXP despu\u00e9s de la batalla]"
             },
             "da276d9ecf93bd539a70f0f74bc6fb24ad3f016bb96b56fd4e42ad2cbb8b3522": {
                 "source": "04100000 9423AB90 000F423F",
-                "title": "[999999 GP after battle]"
+                "title": "[999999 GP despu\u00e9s de la batalla]"
             },
             "e6d6b500af367364a996690cb07c6adfd7e45d67ea7f90e6c80cf593812ee388": {
                 "source": "01100000 9423AB98 00000063",
-                "title": "[99 AP after battle]"
+                "title": "[99 AP despu\u00e9s de la batalla]"
             },
             "version": 0
         }
@@ -12659,7 +12705,7 @@
             },
             "2c828ce1140f9e174b8ec030ddcd76a3b1f9118b0dfdf7e5b71520b7b277dce1": {
                 "source": "58000000 024C8980\n78000000 00001408\n64000000 00000000 0000270F",
-                "title": "[Start with full  Lasers]"
+                "title": "[Start with full Lasers]"
             },
             "3d1678bdd159900f33e2c3bcdb58b35c3bb0d182bebcc3cd6d0a82cb217d6b05": {
                 "source": "580F0000 024B21C0\n580F1000 000000A0\n780F0000 00000048\n610F0000 00000000 00000005\n580F0000 024B2A58\n580F1000 000000A0\n780F0000 00000038\n640F0000 00000000 40C00000",
@@ -12679,7 +12725,7 @@
             },
             "5978b474cc30e60950ea8d88de1dd059f8fc04a17f4e8695ce94db260bfecf81": {
                 "source": "58000000 024C8980\n78000000 0000140C\n64000000 00000000 0000270F",
-                "title": "[Start with full  MegaBombs]"
+                "title": "[Start with full MegaBombs]"
             },
             "bd548733283abc356623f5d2b7e3453ad6c652afdbe5a17b7303a1754ebed8c8": {
                 "source": "580F0000 024B21C0\n580F1000 000000A0\n780F0000 00000026\n610F0000 00000000 00000009",
@@ -12687,7 +12733,7 @@
             },
             "c9e7b5f0a003fc39f5f277670fe8d46441f1d824ef585c8d500bcb07802f0fd8": {
                 "source": "58000000 024C8980\n78000000 00001410\n64000000 00000000 0000270F",
-                "title": "[Start with full  Shield]"
+                "title": "[Start with full Shield]"
             },
             "dd1899282f43f0d9f03091f7dfd653a6e12c083b15c6a052b576ccf786aeeec2": {
                 "source": "58000000 030F5968\n78001000 00009B14\n64000000 00000000 3B9AC9FF",
@@ -14924,7 +14970,7 @@
             },
             "c54477bba9386856a970f2ad3b7fb1642204bcc6b809ab0d43d0af52dd1f3ed8": {
                 "source": "04000000 00BBC864 00000063",
-                "title": "[99 x Fest A  Available infinite]"
+                "title": "[99 x Fest A Available infinite]"
             },
             "f5dcd957e61e37d5ae50f1943f174304eb52b2b99d44c99be2536e3ca94e9df9": {
                 "source": "04000000 00BBC86C 00000063",
@@ -15283,6 +15329,18 @@
             "f76855a60c09b0f1021f1b15bfc8f09f2eb424c6b6da0e8abba56056559d9bbe": {
                 "source": "04000000 00020DC8 52807CE9\n04000000 00020DF4 2A0003E0\n04000000 00420A28 0000397B",
                 "title": "[Get Power Max]"
+            }
+        }
+    },
+    "0100A01006E00000": {
+        "2103782A9AE5384E": {
+            "849ae08590677494682d2c4c64ed89fd913e4c4f6be0fbbeb372ca461909c889": {
+                "source": "80000041\n580F0000 04ECC258\n780F0000 000125C0\n640F0000 00000000 1DCD6500\n20000000",
+                "title": "[Hold L & A For 500 million studs]"
+            },
+            "86c1df3fa3c8cb9af88a9302e125f98a799e77c2ec9edcb56ec7a7d41150a101": {
+                "source": "580F0000 04F77400\n780F0000 000007DC\n640F0000 00000000 00000008",
+                "title": "[Infinite Health]"
             }
         }
     },
@@ -16257,7 +16315,7 @@
             },
             "e4556137ee4f40996663f06014d798414f6d0071b1fbf156ad6052eeb4d281e6": {
                 "source": "580F0000 00C337F0\n780F0000 000ADC74\n640F0000 00000000 05F5E0FF",
-                "title": "[99.999.99 Rupies]"
+                "title": "[99.999,99 Rupies]"
             },
             "version": 65536
         }
@@ -16840,6 +16898,10 @@
             },
             "4414539eb4ccf73959d5869a20f6f51ddd9e262fbba05c07e9a22127907cb56f": {
                 "source": "580F0000 01204238\n780F1000 000036F4\n640F0000 00000000 000003E7",
+                "title": "[Infinite Ammo]"
+            },
+            "99cdcc53518001808e6a377cd3a82176dab9f928a37868dbee6e75f9968abf05": {
+                "source": "580F0000 01204238\n780F1000 000066F4\n640F0000 00000000 000003E7",
                 "title": "[Infinite Ammo]"
             }
         }
@@ -18405,6 +18467,10 @@
                 "source": "80000041\n581F0000 9F087A88\n781F1000 00000070\n641F1000 00000000 20C85580\n20000000",
                 "title": "[Hold L and A 550,000,000 level only stud]"
             },
+            "63e6a41ccc701afbd8ade569ea779eeeeab86f24977239d9c2c344691c035511": {
+                "source": "580F0000 05ED0E48\n780F0000 000007C4\n640F0000 00000000 000000C8",
+                "title": "[P1 Infinite Health]"
+            },
             "f1cb766b88996dd7bc8a349e3a00629920d9834093f9dbe5a87995f7a04e5cec": {
                 "source": "581F0000 9F087A70\n781F1000 00000070\n641F1000 00000000 0BEBC200\n641F0000 00000000 0BEBC200",
                 "title": "[Too many studs chronopolis only]"
@@ -18416,11 +18482,11 @@
         "F7DE0EBC3764568A": {
             "3c0c98e00ded8ef55ee1a4e6a7d04112973df6fb2e4d166eb8515605975820e3": {
                 "source": "580F0000 007060D0\n780F0000 00000020\n640F0000 00000000 0001869F",
-                "title": "[#01# Inf Money]"
+                "title": "[Inf Money]"
             },
             "6fdd9c76bec3fa67e084f20cf9197fc704104e1e577246f7f545f3446d76bfcb": {
                 "source": "580F0000 007060B0\n580F1000 00000098\n780F0000 00001438\n640F0000 00000000 42C80000",
-                "title": "[#02# Inf Nitro]"
+                "title": "[Inf Nitro]"
             }
         }
     },
@@ -20199,7 +20265,7 @@
             },
             "5a71dc3e7d27e7765acff9fb0fa5ee5dddf708feffff884ef8470b3b9e953266": {
                 "source": "58000000 00CC9860\n78000000 0002A1C0\n61000000 00000000 00000063",
-                "title": "[Start with 99 Lives]"
+                "title": "[Lives]"
             },
             "5c6b08284b788eef59ce20c747223286b9e30a72b6fa87e63805ce130eef9b14": {
                 "source": "58000000 00C88A70\n78001000 0002A0A8\n64000000 00000000 00000063",
@@ -20407,7 +20473,7 @@
             },
             "2034db5c36665558bf6bae92b3744cab692d92df2bceb2c33086edeae0c774d0": {
                 "source": "04110000 00208008 0098967F",
-                "title": "[9999999 Money]"
+                "title": "[Max Money]"
             },
             "2552dd89ccbb4760b279e446d6f231cf52dcf70fb0f62fc2fd8ef2bcdc290e5e": {
                 "source": "04000000 00204064 2A0103F4",
@@ -21753,11 +21819,11 @@
             },
             "b4d99f1d1b27c170cc470be9c9106a8f885ff19c41748440e64b0a280f21d877": {
                 "source": "580F0000 09F55970\n780F0000 00000754\n640F0000 00000000 00000000",
-                "title": "[CPU NO Super Special Moves v1i05]"
+                "title": "[CPU NO Super Special Moves]"
             },
             "bcc7df5a37de1f1e4576e01f126219421a49d0fd3adbd1db798ba073b098b8f8": {
                 "source": "580F0000 09F55970\n780F0000 00000764\n640F0000 00000000 00000000",
-                "title": "[CPU NO Stage Interact Super v1i05]"
+                "title": "[CPU NO Stage Interact Super]"
             },
             "d21a2d556ff7bae1763590e113df1ebb8d8c816463574bd6cf338dec5caedfba": {
                 "source": "580F0000 09F55970\n780F0000 00000184\n640F0000 00000000 44FA0000",
