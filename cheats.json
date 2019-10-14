@@ -1395,6 +1395,78 @@
             "version": 589824
         }
     },
+    "010015600EFB6000": {
+        "43D16253CD0BDD2A": {
+            "1ceb0dbae3b1cb37a73a51759e3bc06a24549ba400bb711872ae6f9404388cf8": {
+                "source": "04100000 02A0B894 000003E7",
+                "title": "[P3 Mp]"
+            },
+            "1e7d26d7790bafd48466bbd807dbabcd02b55d97b8efe4d012a68e945ab9f274": {
+                "source": "02100000 02A1BC60 000000D3",
+                "title": "[Gold Pass]"
+            },
+            "224dc7722af7f2e78862b4764b349770aa35d4ae5abe8b63976caa77cf148a36": {
+                "source": "04100000 02A0B920 000003E7",
+                "title": "[P4 Mp]"
+            },
+            "35bcef58b6f5725eed0f02323f7974b186ea33031ac639120e1ba99a650cdca6": {
+                "source": "02100000 02A1BC60 000000A3",
+                "title": "[Sage Stone]"
+            },
+            "40be463a4e69c9b68951717c858e0c647d2c7f5631f195abf847d9cb904248b5": {
+                "source": "04100000 02A0B88C 000003E7",
+                "title": "[P3 Hp]"
+            },
+            "5210a80e73a07d57c9365a936cba7f7762fa4266d3ad31bead270546c1b648f2": {
+                "source": "04100000 02A0B5D8 000003E7",
+                "title": "[Hero Mp]"
+            },
+            "56004a7da9a44a31e9303c732c924ad99bab941ebbd8fbceb3c13addda0795e6": {
+                "source": "04100000 02A0B800 000003E7",
+                "title": "[P2 Hp]"
+            },
+            "769ecd46049786646f3349bf1ea863fa04fc80a617c8e295ec1f6ecafbf88b8d": {
+                "source": "04100000 02A0B5D0 000003E7",
+                "title": "[Hero Hp]"
+            },
+            "794b4c10eeae6dc4338e8baf570a8128b69fab00648a27f7ec37914aa9b4f9ed": {
+                "source": "02100000 02A1BC60 00000086",
+                "title": "[Luck Shoes]"
+            },
+            "9663bb34877b6961dad07d0587fe5f7d9600a7143e9b15bfdf323896af75ad1b": {
+                "source": "01100000 02A1BBCC 00000005",
+                "title": "[5 Seeds Left]"
+            },
+            "9cd1320a816db2b43bfa828e7936ecb4da2be45bb44f00673c90013453201610": {
+                "source": "04100000 02A0B918 000003E7",
+                "title": "[P4 Hp]"
+            },
+            "9e0e96447282e870430c0ebcf38afc8726a3e0fb44473c34f8747b59c7d7beee": {
+                "source": "02100000 02A0C31C 00000032",
+                "title": "[Slot 1 x99]"
+            },
+            "c0321fc2425bd3782c9275fda4788dc02831821b864dae574844e854480bf2d9": {
+                "source": "04100000 02A0B808 000003E7",
+                "title": "[P2 Mp]"
+            },
+            "ddf8986cd479398ead0528862638c60ee151a6014dcaac8daa39d185be6b0cdf": {
+                "source": "02100000 02A1BC60 000000BC",
+                "title": "[World Leaf]"
+            },
+            "e83c6bdbd6f27849a57c8900f3bbf6de41da422924c8b63b3dab50538b792e57": {
+                "source": "02100000 02A1BC60 000000E2",
+                "title": "[Sexy Book]"
+            },
+            "e92d0ac8657663ecb3b9edb82932d3cbd54bb42e98cc16a75be1b3e23260310d": {
+                "source": "04100000 02A0CB90 0001869F",
+                "title": "[Gold]"
+            },
+            "fb46dc27e7e84994ff60b776c2558e75af8d3df646562d8e474c5b1f7c1005bf": {
+                "source": "02100000 02A1C9B0 00001388",
+                "title": "[Gain 5k Gold]"
+            }
+        }
+    },
     "010015B00BB00000": {
         "2ACB02A77B0DC448": {
             "4d4733560f63367d937424b46e41ebe748ad69c61cd79ade8237673cc0bb370b": {
@@ -2580,6 +2652,26 @@
             "version": 327680
         }
     },
+    "010022F00DA66000": {
+        "EA84F555E2D0BC41": {
+            "25aa8247040b72b370dbb686a3783b71317220791d794de8819be5ed71840529": {
+                "source": "04000000 00684B10 D102C3FF",
+                "title": "[#Never get attacked (Off)]"
+            },
+            "49a3c14b8c703c3c2071c7c3256edb49c741308650771fe9312cef04079737eb": {
+                "source": "04000000 00BC5400 A9BE4FF4\n04000000 00BC53A0 A9BE4FF4\n80000002\n04000000 00BC5400 D65F03C0\n04000000 00BC53A0 D65F03C0\n20000000",
+                "title": "[Infinite Jump hold b]"
+            },
+            "638014a8bf28272b177c2c60f04dd84fa619a72bfd2972d208c7910fce4a86d1": {
+                "source": "04000000 0068DF20 A9BE4FF4\n04000000 0068DEC0 A9BE4FF4\n80000002\n04000000 0068DF20 D65F03C0\n04000000 0068DEC0 D65F03C0\n20000000",
+                "title": "[Gravity hold b]"
+            },
+            "c8ad4c537af7c0338987882cd872e4c76a6b41a253afcfbfee629273de7f3c8a": {
+                "source": "04000000 00684B10 D65F03C0",
+                "title": "[#Never get attacked (On)]"
+            }
+        }
+    },
     "010024400C516000": {
         "0BB3B1A39B34AC1B": {
             "8394c58eccbe1bea283bf199fe96bec0588da588e4af907ceaf6602e2c4eee45": {
@@ -2918,6 +3010,22 @@
                 "title": "[Bombs unlimited]"
             },
             "version": 65536
+        }
+    },
+    "010028D00BA1A000": {
+        "85E49C169A8B988A": {
+            "10e492509aa3de57fd210b2d5b55c7cf8901b55e087f294299e0101ed8e38af9": {
+                "source": "04070000 02C5CB40 52A88F48\n04070000 02C5CB44 B900C268\n04070000 02C5CB48 2D578660\n04070000 02C5CB4C D65F03C0\n04070000 02C5CB50 B9004CB8\n04070000 00445338 94A05E02",
+                "title": "[Infinite Stamina]"
+            },
+            "4511719a1f3925c8456d64439a7dae81b1e1d16c58105aa4c46e67f8d716ea44": {
+                "source": "04070000 004E4000 D503201F",
+                "title": "[Infinite HP]"
+            },
+            "c792e0119f07dec18e410704206fe67b23d79aea6a7c90d4ac954919e95d4616": {
+                "source": "04070000 0055FE9C 52800002\n04070000 0055FEB4 71000109",
+                "title": "[Infinite ammo]"
+            }
         }
     },
     "010029D00E740000": {
@@ -8549,6 +8657,42 @@
             }
         }
     },
+    "010062200EFB4000": {
+        "10423BBC86D3BFDE": {
+            "03e19346594393dbc4692b8a08aee40e54f8b7144feb834c11c383507c98ecec": {
+                "source": "02100000 9582E880 00001388",
+                "title": "[Gain 5k Gold]"
+            },
+            "09f2c3bb93a1954c045981b65c4ed7b80c368794a74aa2d116184019cf64700d": {
+                "source": "02100000 9582E884 000003E8",
+                "title": "[Gain 1k Exp]"
+            },
+            "199ee128050d26192851ee26b730b0bf878583d0365dae3f381fd0608d12d49d": {
+                "source": "04100000 03EAE6F8 000003E7",
+                "title": "[Erik HP]"
+            },
+            "24dc52ddc7b4055a7fdddb8f0f1bee95c069f9257a507742f8c676e1a6c8731c": {
+                "source": "04100000 03EAE6FC 000003E7",
+                "title": "[Gwen HP]"
+            },
+            "26e2fffc4f4a85e5a97110c982eb264ea28765b529bd10c0255d58d77266e89e": {
+                "source": "04100000 03EAE704 000003E7",
+                "title": "[Erik MP]"
+            },
+            "365b7122eae59458f6b423fb3debc79aae5f93199fb7a2f8f45ee50e40065e70": {
+                "source": "04100000 03EAE708 000003E7",
+                "title": "[Gwen MP]"
+            },
+            "66c752eacf7278dba906cdb9588f245102ebd81897cc27505e2c1753793afb17": {
+                "source": "04100000 03EAE6F4 000003E7",
+                "title": "[Hero HP]"
+            },
+            "f7e6837320738892078a9e903eeb30a7462318368ef20c1393fee52f712e9035": {
+                "source": "04100000 03EAE7F0 000F423F",
+                "title": "[Gold]"
+            }
+        }
+    },
     "0100628004BCE000": {
         "81DA4F9E1E961CA6": {
             "6d9781a76642cb2bcc42f1f5b041f5fd2e9eafb4e904a1d56a1405e6207bc59f": {
@@ -9172,7 +9316,7 @@
             },
             "1874f592c4064b00259d059d5957acda633eb936a3c45c10cb58082d5b92ced0": {
                 "source": "01000000 01CBB301 0000000F\n01000000 01CBB321 0000000F",
-                "title": "[Have Map/Compass/Nightmare Key/Stone Beak]"
+                "title": "[Have Map/Compass/Boss Key & Other Items In Map Screen]"
             },
             "1cf4c8e2016b9db706639e45d98e697c95ba5a37de6b6fd15158e7d91114e813": {
                 "source": "80000300 01000000 01CC0777 00000007\n20000000",
@@ -9250,6 +9394,10 @@
                 "source": "01000000 01CC07C8 00000008",
                 "title": "[  Boo Figure]"
             },
+            "75f2b71519da3c5dba8d51c7ce24fd72ffe7848c602880de32961d721ff7382a": {
+                "source": "80000100\n581F0000 39F486C8\n780F0000 000000C8\n640F0000 00000000 C1800000\n20000000",
+                "title": "[High Jump (ZL) ]"
+            },
             "83731bda92c1ecaab524ad3e426bf8acb19c3cca64cf57d3f9c1071e65310d72": {
                 "source": "01000000 01CC077D 00000004",
                 "title": "[Blue Chicken]"
@@ -9309,6 +9457,10 @@
             "fa2d48b793494f2d0376fb429fc19e14eb2a3f871cc9ef82386904033b6698be": {
                 "source": "01000000 01CC077A 00000008",
                 "title": "[  Hibiscus]"
+            },
+            "ff14b43263fad2c863d77e47f330a884ecff0d9d99f0bf7cfc68b186ad03b7aa": {
+                "source": "80000100\n580F0000 01CC8B50\n580F1000 00001528\n580F1000 00000928\n580F1000 00000018\n780F0000 000000C8\n640F0000 00000000 C1800000\n20000000",
+                "title": "[High Jump (ZL) ]"
             },
             "version": 0
         }
@@ -9765,6 +9917,10 @@
             "d3c5962bf5bc72f8ac18ce5f4e946115971d56110eec1215c2a2fbffa3424683": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000020\n780F0000 00000090\n640F0000 00000000 000003E7",
                 "title": "[Sylvando Max Deftness]"
+            },
+            "d3c9cbac7e39393f5606e20ef4a8f8f04df0895a8562098628c4c5f17167ccce": {
+                "source": "580F0000 08D90C90\n780F0000 000000A0\n610F0000 00000000 00000000\n80000080\n610F0000 00000000 0000000F\n20000000",
+                "title": "[Walk through Walls ( hold R )2D ONLY]"
             },
             "d4377d8288a876dd711014daaabd84c76e9ebd39c46a359cc44ae68cc78b0768": {
                 "source": "580F0000 07815B60\n580F1000 00000128\n580F1000 000000F0\n580F1000 00000030\n780F0000 00000090\n640F0000 00000000 000003E7",
@@ -14441,9 +14597,17 @@
             "version": 65536
         },
         "8CEAF0D2AE48A935": {
+            "047c22b60c138fa38c22e10677e9bb7aacd734fb2cc8906d1cbdac9d928a6b1e": {
+                "source": "010F0000 01279375 00000002",
+                "title": "[COSTUME-Leon Without Jacket w/Vest]"
+            },
             "099bd5b19a7236cd711e4889a2d06f7ee59ab6cf28d850ee3849c2fb2e697e0b": {
                 "source": "02000000 0124D930 00000026",
                 "title": "[Red9 With Stock]"
+            },
+            "09c01f3efd487c8946a9c58add5736efb69c52924c8b60df0ad38fa4cb738df9": {
+                "source": "010F0000 01279375 00000000",
+                "title": "[COSTUME-Leon Jacket]"
             },
             "0e3f4d2c576737100660fd79ba59fe266ac1ce3b72e4febeb1251d8a205bad56": {
                 "source": "02000000 0124D930 00000028",
@@ -14465,6 +14629,10 @@
                 "source": "02000000 0124D930 00000027",
                 "title": "[Blacktail]"
             },
+            "18467c61ec46089a59adfdc0c71a95bdb820c8d2406a0c27343a8160501356c0": {
+                "source": "010F0000 01279374 00000000",
+                "title": "[PLAY AS Leon]"
+            },
             "1a87429e19c43e1581d443a751ee439612293f484132de007b7d8ef503ba5681": {
                 "source": "00000000 00000000 00000000",
                 "title": "[Equipped Weapon Mod (Only Use One At A Time)]"
@@ -14485,6 +14653,10 @@
                 "source": "02000000 0124D930 00000021",
                 "title": "[Punisher]"
             },
+            "2b1e9c133c08097acc182fd215338db9af13e121fc8e2ece5e2d4062a7cdef57": {
+                "source": "040F0000 0127C818 00000064\n040F0000 0127C81C 0000270F\n040F0000 0127C820 00000064\n040F0000 0127C824 0000270F",
+                "title": "[100% Hit Ratio]"
+            },
             "3176e48d921438cc602f5d7e302e59ec2150547bfe56aed5d26e30be775974ba": {
                 "source": "02000000 0124D930 0000002F",
                 "title": "[Semi Auto Rifle]"
@@ -14492,6 +14664,10 @@
             "35644e1b5c594cb344d3c494835c1adfdac38826312ece71d332c7ae09131660": {
                 "source": "02000000 0124D930 0000002A",
                 "title": "[Killer7]"
+            },
+            "362b18488732aafc22cbf72be8f72860d0644d335df66009f2b1e90c75342a11": {
+                "source": "80000010 040F0000 01279358 00000332\n20000000",
+                "title": "[Start at Final Boss Battle (Press LS)]"
             },
             "3680e1793badeb797075f79db55e7835f6827ba68f4910c1c8b6a360fdbc39e0": {
                 "source": "010F0000 006E8DB8 0000001A\n010F0000 006E8DB9 00000000\n010F0000 006E8DBA 0000007A\n010F0000 006E8DBB 00000044",
@@ -14513,17 +14689,49 @@
                 "source": "010F0000 006E8B96 000000B",
                 "title": "[MORE TIME BOULDERS AND LAKE BOSS]"
             },
+            "3eab134ba7eac2793dd45cc3fc9917cdc40003e5a3f9e5957d0c82ed78f10648": {
+                "source": "040F0000 01279365 00000004",
+                "title": "[Infinite Max Health ASHLEY]"
+            },
             "4c0dec45e138ae9d6384638b6b70657d74592a927632d919a171671c2e6e40f0": {
                 "source": "02000000 0124D930 00000094",
                 "title": "[Riot Gun]"
+            },
+            "4f4553df83e66df9db6ecdf01434a7ffb548ac27ed68852319f79f87e670bd08": {
+                "source": "010F0000 01279374 00000005",
+                "title": "[PLAY AS Wesker]"
+            },
+            "506121893ff51448c98128ac4f1b3d564e25406c2d47ab55a2e13f276627e171": {
+                "source": "020F0000 01279351 00000000",
+                "title": "[Low End Game Time]"
             },
             "5062ef9999c147ed6c4e272d70e691cec69f4bdf1f45a15dc7cae8b5fa4ba938": {
                 "source": "040F0000 01279360 EFFB60FF\n80000220 040F0000 01279360 00000000\n20000000",
                 "title": "[Have XL case][Infinite Max Health (LEON) Kill Yourself (Press ZR+R3)]"
             },
+            "5366b3a86d86345b640ff51ccbdec236ec868b2b2a3e5b1e9dce403ffdf18eee": {
+                "source": "010F0000 0127C80C 00000000\n010F0000 0127C80E 00000000",
+                "title": "[0 Times Killed]"
+            },
+            "553592750c107f199afb403aa78c3042a4aa12faa274b4c1314cc9e7923fb3ad": {
+                "source": "010F0000 01279377 00000002",
+                "title": "[COSTUME-Ashley Knigh Armor (Invincible/Cant Be Carried)]"
+            },
             "59742f6ff1cfce547d82911156c635a9df7fac7356d899477b6f6b8f66f86a5b": {
                 "source": "02000000 0124D930 00000003",
                 "title": "[Matilda]"
+            },
+            "5b5a4aa2025a15c7f40160260ae62c1071660a082c474278be1fbdfa5bcd5099": {
+                "source": "010F0000 01279377 00000001",
+                "title": "[COSTUME-Ashley Disco]"
+            },
+            "60c0343dcfcd5f209abd093ff9be8e199a9480a5ad83e4246a8a5e30244cbe37": {
+                "source": "040F0000 0124F69C 0000270F",
+                "title": "[Max Enemies Killed]"
+            },
+            "60e8f0ddab0e3b74dd3fdd8e0f71e53b6fe287a502e18e866f9f6157b9862aeb": {
+                "source": "020F0000 01132FC9 000000C8\n020F0000 01132FCA 00000092\n020F0000 01132FCB 00000045\n80000020 020F0000 01132FCB 00000000\n20000000",
+                "title": "[Infinite Time Escape/Mercenaries (Press RS To End)]"
             },
             "6630aa246bc04df67fcf0aa437a06b56c77f0d10c16c322e8a2a773287907fe6": {
                 "source": "02000000 0124D930 00000099",
@@ -14537,6 +14745,18 @@
                 "source": "02000000 0124D930 000000AB\n02100000 2A6C9B80 0000007F",
                 "title": "[Mine Thrower With Scope]"
             },
+            "77e63655e3da68943ae6a2a816b811c825a58d016811292a5a2cb65d5a7ae213": {
+                "source": "010F0000 01279377 00000000",
+                "title": "[COSTUME-Ashley Default]"
+            },
+            "79d1dd30e11e8f543719797c266eb09e1d518f1d1c088710e65b19c64d7e7736": {
+                "source": "010F0000 01279375 00000001",
+                "title": "[COSTUME-Leon Without Jacket]"
+            },
+            "7df437ac112317a18b5ce18307ada2f6e9b9ba8ce061dafecc425630baee8d83": {
+                "source": "040F0000 0124F6BC 000003E7",
+                "title": "[999 Multiplyer Mercenaires]"
+            },
             "805b9b05cfcd399e0d0d0f0674f3ee3a23b5699b095b3036b69bff919622206b": {
                 "source": "02000000 0124D930 0000003E",
                 "title": "[Custom TMP]"
@@ -14548,6 +14768,10 @@
             "8469b8a1fc64c5ec1fbd8320b31895d89c85312e032b61690aab60103a05e43d": {
                 "source": "040F0000 01279360 09D060E3",
                 "title": "[Infinite Max Health Leon]"
+            },
+            "84ef9b58cc1780a2b68c128373dac2e51526614ece9faf604882c748277616ad": {
+                "source": "010F0000 01279374 00000001",
+                "title": "[PLAY AS Ashely]"
             },
             "85359779a455b61441d587ae8c17fc71317dbbeec21a6e677960863d0b792120": {
                 "source": "010F0000 006E8B82 00000050\n010F0000 006E8B83 00000044",
@@ -14563,7 +14787,7 @@
             },
             "948288db8fc0f9889544890d080310229ca31e02319ec92e226367dd02639bb3": {
                 "source": "02100000 2A6C9B80 0000007F",
-                "title": "[Have XL case, Use either at start of game or exit to a new area and code will take effect ]"
+                "title": "[Always XL case (requires a in-game reset)]"
             },
             "96192f3eb02effd2bbc7a5e2c416af8714be987ee13a455ab59c52cab8ba55c0": {
                 "source": "02000000 0124D930 00000032",
@@ -14625,6 +14849,10 @@
                 "source": "010F0000 01279348 00000000",
                 "title": "[Always 1st Save]"
             },
+            "cd56975f379a4e45310af348ecc91cbfe0da4fda28651ecc19b5ce41c49b9464": {
+                "source": "010F0000 01279375 00000003",
+                "title": "[COSTUME-Leon RPD]"
+            },
             "d2de7afd829e4370a6758e8db46315148ebb5b66c12ace83895a64eed7bd690a": {
                 "source": "02000000 0124D930 00000034",
                 "title": "[Chicago Typewriter]"
@@ -14637,9 +14865,21 @@
                 "source": "02000000 0124D930 00000029",
                 "title": "[Butterfly]"
             },
+            "dcde4a4c71fc6c06b9fe45c52075e3d18c8c0b6b96ee07a72b755a057cfde1d0": {
+                "source": "040F0000 0127C810 0000270F\n040F0000 0127C814 0000270F",
+                "title": "[Max Enemies Killed]"
+            },
+            "e1b06b511a61f5b3d2e8b20da3798d70edfe312731ddbb16b46ffdb34746e90c": {
+                "source": "040F0000 0124F6B8 05F5E0FF",
+                "title": "[Max Score Mecenaries]"
+            },
             "ec36bb9e35117e3b7d0b59b9a38b5718b925e3ffb9402578983b4543668657ff": {
                 "source": "010F0000 006E8B96 000000BO\n010F0000 006E8B97 00000043",
                 "title": "[MORE TIME BOULDERS AND LAKE BOSS]"
+            },
+            "efede9b8070819df06b535d226b832b4ff04a5d51b6794a6eaeb3ee5afb372c8": {
+                "source": "010F0000 0127934C 00000000",
+                "title": "[0 Continues]"
             },
             "f2db480cf16684a5cfcfa9a8e2654ddadcf6d84ffb5e7b436e12d9dd87b4db11": {
                 "source": "02000000 0124D930 000000AB",
@@ -14648,6 +14888,10 @@
             "f82e154330ca81e776aaa96e146d2420c9d530783b037d1f561e01ef815591d8": {
                 "source": "02000000 0124D930 00000023",
                 "title": "[Handgun]"
+            },
+            "f99550e464d36178504728aaf7f23c1556166ae590d7e343a2c3b1899cd1eaea": {
+                "source": "010F0000 01279375 00000004",
+                "title": "[COSTUME-Leon Mafia]"
             },
             "version": 0
         }
@@ -20331,6 +20575,10 @@
                 "source": "58000000 00CC9860\n78000000 0002A1C4\n61000000 00000000 00000008",
                 "title": "[Start as P Flying Squirrel]"
             },
+            "23241300e5fa5ba1fa0e0351f0e0d5271f41d37abea206a28ce829a871447bd7": {
+                "source": "581F0000 564B2D80\n780F0000 00000057\n610F0000 00000000 00000001\n80000100\n581F0000 564B2D80\n780F0000 00000057\n610F0000 00000000 00000000\n20000000",
+                "title": "[Down Down Down Yoshi (Press ZL key) ]"
+            },
             "238a7982c9fda80e2dfab8c04e2575dd337cb98b33e0efbcecbb8e99e9f84e01": {
                 "source": "580F0000 00C9A1E0\n780F0000 00006F58\n640F0000 00000000\n3B9AC9FF",
                 "title": "[999.999.999 Score (Westen)]"
@@ -20415,6 +20663,10 @@
                 "source": "01100000 542D34A4\n00000063",
                 "title": "[Inf. 99 Coins CHS]"
             },
+            "96f6f03499595ae1243b2e08f24d105199a48846629f00ffb7d2f8706c4ec587": {
+                "source": "80000002\n58100000 564B2D80\n78000000 0000007C\n64000000 00000000 40400000\n20000000",
+                "title": "[Moon Jump Yoshi]"
+            },
             "9f6f4a06eb0c92b1febbf894e07b787cfd40d072144bcd2da8afdaa25f70a9d9": {
                 "source": "58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000004",
                 "title": "[Start as Toadette]"
@@ -20450,6 +20702,10 @@
             "e54b37d147167867971115c0308677121299dcc08bf44e8b852bc78934becfbd": {
                 "source": "58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000005",
                 "title": "[Start as Nabbit]"
+            },
+            "f56218f9a4754622b9bed7107a0feb6b8f80928dee321865872de2e3ea7dba7d": {
+                "source": "58100000 564B31A0\n78000000 00002C88\n64000000 00000000 00000290",
+                "title": "[Invincible]"
             },
             "f7b916eff02cdbef32331595c961483938e2ebb53e1ad66692065bd659088a5e": {
                 "source": "58000000 00CC9860\n78000000 0002A1C8\n61000000 00000000 00000002",
@@ -20885,6 +21141,26 @@
                 "title": "[CPU 1+2+3 1-Hit Kill]"
             },
             "version": 0
+        }
+    },
+    "0100EFC00EFB2000": {
+        "4C1E8F55E6B88DA": {
+            "058239e2b674bd68d3308f1313d87ef4985e4a0e777d022360fc7c0ec74b36aa": {
+                "source": "02100000 025280A0 000003E7",
+                "title": "[Infinite Hp]"
+            },
+            "7bab38eb04e377e920f26784dfbab8efb1000d8f80f17165022e23cf2293d5c3": {
+                "source": "02100000 025280A4 000003E7",
+                "title": "[Infinite Mp]"
+            },
+            "c73c32e1c98bffe1e22adaaf3ab4c05dbe72f4da9b295d179c4e1f5cf63ae800": {
+                "source": "01100000 025280F8 00000009",
+                "title": "[Keys x9]"
+            },
+            "f72ab7cca25622f60c78c05ac5b6dff87c90a5d7ef6bd36429f19212dfa22320": {
+                "source": "04100000 025280F8 0000C350",
+                "title": "[Gold]"
+            }
         }
     },
     "0100EFD00A4FA000": {
