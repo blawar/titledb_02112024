@@ -4740,7 +4740,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 834666496,
+        "size": 838860800,
         "parentId": "0100EBB00D2F4000"
     },
     "70030000009061": {
@@ -12231,5 +12231,43 @@
         "description": null,
         "languages": null,
         "size": 0
+    },
+    "70070000008041": {
+        "id": null,
+        "rightsId": null,
+        "name": "Overwatch: Legendary Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191015,
+        "nsuId": 70070000008041,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Use of Tobacco",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1a313528edb9c32c6c657cc810227ff8a72fdbc2607a80aeff3fed96b5090502.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24f1d97fba7b72466da639e9fc085f3133816effb3c693054e32c176aa90fde2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4dbcef1080dd92607460bbc892fef808196dc3e9603a133db6b951c4bf8e500a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/28b2e39c76bd120270fe06144024f8d2864ea7c01c016a3ea7bc4368b3bc62b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58be32b76d0d8b95619b31124346bb1c1c9cc228c6736929b6fd2bc61e6461d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b21232e6be7b733b0e3f88a26bfc089e72ce88510a78050a1d4ca029eb92fee.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd0574de767610a9baed6a7a2b3043644f57b3564822ebc10c43644010126bf1.jpg",
+        "intro": "The Future Is Now.\u00a0 Are You With Us?",
+        "description": "Overwatch: Legendary Edition includes:\n\u2022\tRedeemable code for Nintendo Switch Online Individual Membership 3-month subscription (Terms apply. nintendo.com/switch-online)\n\u2022\tThe full game\n\u2022\t5 Legendary Hero Skins\n\u2022\t5 Epic Hero Skins\n\u2022\t5 Origin Hero Skins\n\nUnlock a Golden Loot Box\nPurchase and log into Overwatch on Nintendo Switch by December 31, 2019 to unlock a Golden Loot Box with at least 1 guaranteed Legendary item!\n\nBegin your Watch\nJoin the fight for the future in the world of Overwatch\u00ae and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash a dizzying array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.\n\nExperience the Extraordinary\nSpeed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers such as Dragonstrike, Transcendence, Graviton Surge, and so much more. Every hero has a unique set of devastating, game-changing abilities.\n\nPlay Heroes, Not Classes\nEvery hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.\n\nFight for the Future...Together\nTeamwork is imperative for survival as you enter the fight with friends and comrades. Careful coordination will prove the difference between victory and defeat as your team combines the formidable powers at your disposal to devastating effect.\n\nShift Your Perspective\nJust when it seems like your team is destined to go down in defeat, switch heroes on the fly and change the course of the battle. But don\u2019t forget that your opponents can do the same. Master the game within the game as both teams shift strategies and change heroes to try to gain the upper hand.\n\nThe World Is Your Battlefield\nProtect the secrets of the mysterious Temple of Anubis in Egypt, safely escort an EMP device through King\u2019s Row in London, and do battle at many other unique locations. Every map has its own distinct feel with unique gameplay and team-based objectives.",
+        "languages": null,
+        "size": 11741954048
     }
 }

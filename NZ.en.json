@@ -248,7 +248,7 @@
             "ru",
             "zh"
         ],
-        "size": 2617245696
+        "size": 5487198208
     },
     "70010000005122": {
         "id": "010097A0071A8000",
@@ -1081,6 +1081,54 @@
         ],
         "size": 1729101824
     },
+    "70010000014493": {
+        "id": "010063200C588000",
+        "rightsId": null,
+        "name": "Ghost Blade HD",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191024,
+        "nsuId": 70010000014493,
+        "category": [
+            "Arcade",
+            "Action",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Mild Violence",
+            "Sexualised Imagery"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 8,
+        "developer": null,
+        "publisher": "eastasiasoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/45736a813ce2dbe967fd3a85a3a14ccc8e7473f0e6b5f10d7fb4ffbe53ec4a4b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b1ef7346bd4aef582e58ef81ac9cf1ddecc1a3295ac666238897de5124850686.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4d0b8adb85be0e36049792765bc56baa8ea3650ad07782298c093cd13a39365.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/329169bfa8fdbcc67c4e50d088bf09569d8b999adfef7776f9a694193d7ef570.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/02f29bb5a62420b7b25a382a210591e1b452612fd0bd1c58cfd4f571bb7d0e65.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/93fb972d4e046b71f752dfb614ac0f024b7f4ddb3337331fc1f030391eef0075.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/859f33b6bdff694222179e330cfd528feefd1189a4bfb47c17f957aed31fbda7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c8ffa1e17ce8214c86bce148f4a6d2eb972ba6f120b788bfd12c276695764a06.jpg",
+        "intro": "Intense Bullet Hell Action!",
+        "description": "Ghost Blade HD is an intense Bullet-Hell top down shoot 'em up, composed by frenetic and addictive score-based gameplay. With its inspiration going back to the shooting games of the 1990s era, Ghost Blade HD ties old memories to current tones and techniques. Designed with a modern graphic style and special effects, Ghost Blade HD also features an awesome 2-player mode! Ghost Blade HD is easy to learn, hard to master.\n\nFeatures:\n\n\u2022 Beautiful and detailed HD graphics\n\u2022 5 stages with HUGE boss enemies and 3 difficulty levels\n\u2022 3 player battle ships with different weapon types\n\u2022 Arcade-style gameplay and addictive scoring system\n\u2022 2-player local co-op mode and online leaderboards\n\u2022 In-game achievement system",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 1002438656
+    },
     "70010000014748": {
         "id": "0100581007068000",
         "rightsId": null,
@@ -1330,6 +1378,56 @@
         ],
         "size": 1559232512
     },
+    "70010000015861": {
+        "id": "01005ED00CD70000",
+        "rightsId": null,
+        "name": "Door Kickers: Action Squad",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191028,
+        "nsuId": 70010000015861,
+        "category": [
+            "Action",
+            "Strategy",
+            "Platformer",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Killhouse Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eb62150a5c1d7dbd884f843a18695b90b98c24cd461fc67b24bf3288a79981df.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/07471049a192170d9bfcc402592fe17358ede5219fa31fd7a592fa97fe263f84.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80a009f4c8be432cb5b5c3405400f4706bcc0c4ece9f6c775d376b63b236d1e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04879c79556b8e240d0a3be9e0146f174caf2ead1aed2c87c41d23041a36d664.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d82c2e89f38ab865d077b344621421bb57b082b88c24102be1ca6c877bb998b8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b0c02adc0468bda7373bb184c6fd50c83e4b8c776b1e414261a9b7a4147f4284.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb69eab587e773385da9856da7c32ff1778b3f8f79f98abf0849116bf5d1bf01.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1b6cf501cf57fe3c92ce209fcf3d8ec77ab2490f80c4555f480058773a2171ac.jpg",
+        "intro": "Rescue hostages, disarm bombs and save the day in this old school, side scroller action with retro graphics and retro sensibilities. Online and Couch Coop Included.",
+        "description": "Door Kickers: Action Squad is a crazy old school side scroller action game that puts you in the role of a SWAT trooper and sends you to deal with the bad guys in Nowhere City USA.\n\nChoose your gear, then kick the doors down and face the action. Adapt and react by the seat of your pants, and if needed - restart without a care and rethink. Master weapons recoil and time your reloads, use distance and cover to your advantage and use the in-game Strategic Abilities to decide for yourself when healthpacks or gear refills are needed, or if that team-mate of yours is worth saving. Or just save up the Points earned and unleash your Ultimate to waltz through that tricky final room.  \n\nAnd when it gets too hard, bring over a friend to help. \n\nQuick Points:\n\nHigh detail retro graphics\n6 playable characters, each with unique gameplay and level up options\nUnique in-game Strategic Abilities system\n84 non linear levels to complete \nEndless tower mode\n60 weapons and gear items\n20+ enemy types and 4 mission objectives\nZombie invasion mode allowing you to play the game again in a new way\nCouch and Online Cooperative Multiplayer",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 93323264
+    },
     "70010000015874": {
         "id": "010018100CD46000",
         "rightsId": null,
@@ -1423,6 +1521,103 @@
             "zh"
         ],
         "size": 18920505344
+    },
+    "70010000015892": {
+        "id": "0100C1700CD94000",
+        "rightsId": null,
+        "name": "Zumba\u00ae Burn It Up!",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191122,
+        "nsuId": 70010000015892,
+        "category": [
+            "Lifestyle",
+            "Party",
+            "Other"
+        ],
+        "ratingContent": [
+            "General"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 0,
+        "developer": null,
+        "publisher": "505 Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5455f2cc4040d835d7bf07c297e0b70f4b482e44a56f7c94122d364273d332b2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9e02723bf9e8c815902f17aec90fae48879c2dc578c08df7b29412117c0b6b5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a9f6ecafb3fbc17df2200189a8c520e96ae9e68d325fceab6f281dda28d52743.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6de048d5d4957d9cb2ed027441288356c8df6b64f6c589bdf9e2520cbf3d2601.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6912f4fe91b4e46b25c1ae999a2d3f736ac35a66f0231ac1061e69eb18a171be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb709b8f4909a361e14c215e10cc04615c61f98d40ebe9dfa8652f7358c9b01a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5abe524c0ab2305e3ba71a1d2b13bf0dbeb43627335bc14ad78c9ae54aab427e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/713420561da766766a6f201dba18383303cdfc3d9e8236f8ec03cabea7931ea3.jpg",
+        "intro": "Spark the Dance Party + Ignite the Burn",
+        "description": "Everyone\u2019s favourite dance party is back! Zumba\u00ae is a global movement that brings the fun to fitness with over 15 million people taking weekly classes across 186 countries. \n\nGet your fix of the Zumba\u00ae program anytime, anywhere with high-energy routines and hip-shaking jams including chart-topping hits and Zumba originals. Use the Joy-Con\u2122 controllers to track your movements and get rewarded for dancing with energy and flair. \n\n\u2022 Over 30 Songs: Dance to today\u2019s top hits including \u201cI Like It\u201d (Cardi B, Bad Bunny & J Balvin) and \u201cLevel Up\u201d (Ciara) plus pulsating Zumba\u00ae original tracks, guaranteed to get you moving.\n\u2022 Choose Your Dance Style: Pick the intensity of your workout with a choice of fresh new routines and classic favourites including exhilarating dance styles from around the world.\n\u2022 Superstar Instructors: Learn from the best! Real life superstar instructors keep you motivated and on track.\n\u2022 Stunning Live-Action Visuals: Keep it cool with stylish locations with stunning live-action visuals that respond to how you play and reward your efforts.\n\u2022 Workout on the Move: Workout at home or on-the-go! No excuses \u2013 now you can fit in your favourite dance-fitness class anytime, anywhere.\n\u2022 Spark the Dance Party: Up to 4 players can join the fun! \n\u2022 Real Fitness Results: Choose from 30 classes that suit your fitness levels, set personal goals and share your achievements with friends.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 7119831040
+    },
+    "70010000015969": {
+        "id": "010027400CDC6000",
+        "rightsId": null,
+        "name": "Divinity: Original Sin 2 - Definitive Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191017,
+        "nsuId": 70010000015969,
+        "category": [
+            "RPG",
+            "Strategy",
+            "Adventure",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Sexual references",
+            "Violence",
+            "Content that may disturb"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Larian Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/73808adc03351d838510f85dad07638813ab1db487c952ff21010294a7e5a72d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/59bdd0ab6d365fde865f0109c4633d2107664d72da95a1abd7aedb4b1f09ffe5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38877ee4a2e4e23e5716a78adbe0d67c4b3f88212f6bc986ae7f0a943fa55255.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eff740777fa54b2277ff66460a8a431e5fcd9293a2a3eeb83f91e3827342e781.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbc3d88ee504641b0d9421b2d2fb3361a2caeb1cfb865605a9766b0d379bb178.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f2fc8bd4ee09c4eeb1f3d218c15aa261cbf92927861ec697f92d47d534d8c58.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f175e75e1685926eaad644e032010d776108041c44791a0daf6586ddd11fde0c.jpg",
+        "intro": "There can only be one God.\nThe Divine is dead. The Void approaches. \nAnd the powers lying dormant within you are soon to awaken.",
+        "description": "The battle for Divinity has begun. Choose wisely and trust sparingly; darkness lurks within every heart. Master deep, tactical combat. Join up to 3 other players - but know that only one of you will have the chance to become a God, in multi-award winning RPG Divinity: Original Sin 2.\n\n- Choose from over 5 races and 6 unique origin characters or create your own.\n- Unlimited freedom to explore and experiment, with friends or with AI companions.\n- Hundreds of additional tweaks and changes come with the Definitive Edition",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 11758731264
     },
     "70010000016116": {
         "id": "01005EF00CFDA000",
@@ -2672,7 +2867,7 @@
             "en",
             "de"
         ],
-        "size": 5040504832
+        "size": 5111808000
     },
     "70010000018709": {
         "id": "010061D00DB74000",
@@ -3036,6 +3231,56 @@
             "zh"
         ],
         "size": 2346713088
+    },
+    "70010000018944": {
+        "id": "010088100DD42000",
+        "rightsId": null,
+        "name": "Roof Rage",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191017,
+        "nsuId": 70010000018944,
+        "category": [
+            "Fighting",
+            "Arcade",
+            "Multiplayer",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 8,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Early Melon",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0edb97ee8629dc8691d6fda51ac6d3e92dae8312f51d7a9e8b1332518be5b6a0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/13bd317c1120509bb59124e952465e7f0e8f0e53382c56de03b0edfd86f916f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/83317ed2129b4664335b5dabd359d989ab6b3dad55330a78fa9997b30490357f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f789839cad37a629785b113759faa64815e5700be4197b54be8c28c87bab9fd8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/79333a31440a0e1ae53ac443e2e40b89d2219ea4f4ad184a90b68b6984c0e4cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9f4b4a564f80fecf53df9e7acb2e1f09e3e47e5e7c2ca2565ecd7b45480b2e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/032799b1bde3f3b2be17faa6788ae5465e3fe848d1fabd023a6813ae8bfb0687.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6527d6511d35734f391d9af72add7a9b12864c61b4a3048a3a61d02e24297470.jpg",
+        "intro": "Roof Rage is a Martial Arts Platform Fighter featuring epic rooftop battles. Multiplayer up to 8 players.",
+        "description": "Roof Rage is a fast paced, easy to pick, hard to master, platform fighter.\n\nIt is both a party game and a competitive game for platform fighter's players.\n\nThe cast include 13 characters, each one offering a unique playstyle.\nYou can pick and throw roof tiles, catch them, deflect your opponent's projectiles, wave-dash, parry and smash attack for a finishing move.\n\nPick your stage among 13 iconic, cultural inspired, rooftops.\n\nKey Features :\n\nLOCAL match, up to 8 players with different game modes : stock match, team match, score match and practice\n\nSolo Arcade mode with an unlockable boss. \n\nONLINE coming soon in a free patch.\n\nChallenging CPUs with 9 different levels of difficulty\n\n4000+ sprites -> expect great quantity of pixels moving\n\n13 Awesome 16bits soundtracks and their showdown versions",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 353370112
     },
     "70010000019003": {
         "id": "010069500DD86000",
@@ -3918,7 +4163,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/79e8a9879d81ee88cbc41b1bec10adb59edd3f8f79ef54623a9f0b176e31efcf.jpg",
         "intro": null,
-        "description": "Let\u2019s cultivate our garden!\n\nNobita, our hero, lands in a random planet with his friend after getting caught by a storm. They meet the villagers and hear that the storm also hit the village and wiped everything except for one special tree. Nobita and friends decided to help the village to be prosper again, in exchange the village will help them to go back to Earth.\n\nA slice-of-life game featuring beloved Doraemon characters!\n\nTake control of Nobita, an average boy with a heart of gold, to help bring a destroyed farm back to life! Create bonds with the other townsfolk to witness heartfelt interactions while you explore and foster the land with Doraemon, Sue, Big G, and Sneech!\n\n\u201cStory of Seasons\u201d with a twist!\n\nCustomize your farm by growing crops, raising farm animals, building furniture, and exploring everything that the city has to offer. Take advantage of Doraemon\u2019s secret gadgets to make building your farm a magical experience!",
+        "description": "A slice-of-life game featuring beloved Doraemon characters!\n\nTake control of Nobita, an average boy with a heart of gold ! Create bonds with the other townsfolk to witness heartfelt interactions while you explore and foster the land with Doraemon, Sue, Big G, and Sneech!\n\n\u201cStory of Seasons\u201d with a twist!\n\nCustomize your farm by growing crops, raising farm animals, building furniture, and exploring everything that the city has to offer. Take advantage of Doraemon\u2019s secret gadgets to make building your farm a magical experience!",
         "languages": [
             "en",
             "es",
@@ -4236,7 +4481,7 @@
             "ko",
             "zh"
         ],
-        "size": 724566016
+        "size": 749731840
     },
     "70010000020298": {
         "id": "010011000E31A000",
@@ -4976,7 +5221,7 @@
             "https://img-eshop.cdn.nintendo.net/i/a43bebc01703eab553fa2e62ad54db69352be5ef8c6874d798e0c666b8f05415.jpg",
             "https://img-eshop.cdn.nintendo.net/i/4c5a42da9dadd17d3c02339d660b454ffaa4094d2e1f596dc5cc0f93b329ef4c.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4876fc4461decb5929a9ea946085eaba8244e248f98c4c06743613cc7792bbf3.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/59598f91ad3f9d364641005709af6ce3985e6d03b7c3dd36de1896d62bbc7918.jpg",
         "intro": "The ultimate Disgaea has arrived!\nHellraising action and a horde of special features\nawait you in this tale of fiery revolution.",
         "description": "When the ruling powers of Hades are revealed to be corrupt, Valvatorez must spark a rebellion to bring them down! Armed to the teeth with dynamic, over-the-top gameplay and a horde of special features, this is the ultimate Disgaea!",
         "languages": [
@@ -5611,6 +5856,54 @@
         ],
         "size": 402653184
     },
+    "70010000021454": {
+        "id": "0100F2600EA72000",
+        "rightsId": null,
+        "name": "Override: Mech City Brawl \u2013 Super Charged Mega Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191016,
+        "nsuId": 70010000021454,
+        "category": [
+            "Action",
+            "Arcade",
+            "Fighting",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Mild coarse language",
+            "Mild fantasy violence",
+            "Online interactivity"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 8,
+        "developer": null,
+        "publisher": "Modus Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab3d20ee93b6abdf0dc195128ad32c2ad95d607422a47c50e5ef951a7b10ad27.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/869715fbd5508ef603d84a12fb546ab72d9470b7ddb06d50fc2e458fc993fc35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c0a96279ab9697116427287fe6f9fcd018864b9d9738a35746961c8d6a710fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6fe17a25a06b0b565268f86c80130d91d31c341eeec821081c22eb5458ff5c58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/376524be747a11324926069ba2d1e18f88eba25982c609dbeb766e22faf36f74.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/151754d4fa6a7edb6d3e7c60bed8fc1063ac0b1844c93cd641a789b4d4cac3cc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7b19ef664c870fd18f27062229cf08c105a2facf8c8e26b4a705e073aa02bba5.jpg",
+        "intro": "No gears, no glory! ",
+        "description": "No gears, no glory! Control gigantic robots and duke it out across fantastic cityscapes in this 3D mech-based brawler! Epic and explosive battles await with distinctive mechs in local and online versus mode, party co-op with two to four players, and a single-player campaign.\n\nPilot a diverse roster of epic, skyscraper-sized mechs, each with their own play style, special moves, and finishers. Tower over your opponents and lay waste to entire cities underfoot. Destroy 3D arenas modeled after actual cities and countries, including Tokyo, Egypt, San Francisco, and Mexico. Challenge other players, gathering two to four friends to engage in dynamic co-op where each player is responsible for one part of a towering mech! Customize your mechs in the Garage, changing their accessories and skins to create your own unique style! ",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt"
+        ],
+        "size": 5729419264
+    },
     "70010000021468": {
         "id": "01006C300E9F0000",
         "rightsId": null,
@@ -5702,6 +5995,47 @@
             "zh"
         ],
         "size": 441450496
+    },
+    "70010000021526": {
+        "id": "010039200EC66000",
+        "rightsId": null,
+        "name": "Miniature - The Story Puzzle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191018,
+        "nsuId": 70010000021526,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Strategy",
+            "Other"
+        ],
+        "ratingContent": [
+            "General"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Run-Down Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9ab3751688a85cd35ebd55879e9e9fa174cd0f678463d79a9a4032e6794532b7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9a6a639131bc14ea0c39a60c78aa0735cea58ccecf04d43f6578ceef125817fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/235b4a5c4c3aaeb691ae97343d60a4bce76c8caff029425bf5d5bab332a995ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0d0ee6fe472989c9cd9abfc510a22ef124836d4f1451c4e7537285f9c94b9a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b5cc174b7dfbe110c94920f11c49448f0e5ad0364baec1f1523d73051eb2392b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d16ecdede5468eb98f9a12a325af4dabc81925a9bf4649e7a992ca06a22e08a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46284a221e4296413badc53e82885e9d98bc1f729baedf39ab234cd82df712cb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ed4745bb70a38c12aec2578e120bb7189ab80b7ebe40ea4bfbaa5a4c69966875.jpg",
+        "intro": null,
+        "description": "The Miniature is a unique 3D Story-based puzzle game, a stunning visual world, fascinating music and original game mode.\nThis is a special puzzle game, all dioramas come with new locations, which require being put into the right order to learn the different stories.",
+        "languages": [
+            "en"
+        ],
+        "size": 688914432
     },
     "70010000021547": {
         "id": "0100D1900EC80000",
@@ -7350,7 +7684,7 @@
             "https://img-eshop.cdn.nintendo.net/i/52634f244e7b54ee187f7e45a994b9796a5f055e8186365d40ce944ae2bc4e26.jpg",
             "https://img-eshop.cdn.nintendo.net/i/5616c386c479a3e084aada49a0541ee970ff63c52b316bef1d74a58760d74f13.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/80b7841424d3d1d36caf6e7098416f694cfa84cfd2f1af3c9c5ac2217b38251d.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/df4d6b316ade12b46c4326824aefdb4d280d89788ac0bae2eaa579c2e1351798.jpg",
         "intro": "Think, build, explode and finish the next levels - become a bomb! Use your imagination and creativity to pass levels in this fun ",
         "description": "Your goal is to transport Billy's pyrotechnic to the exit using dynamites and springs. You can place them on the map wherever you want, then watch your TNT explode and send Billy into space! Billy Billy is not going to move anywhere, but the explosive dynamite should be the right motivation for him. The game contains 25 different stages, each of which can be completed in many ways. Will you only use TNT, or maybe you'll build a complicated spring sequence? Just be creative and help Billy Bomber, a TNT specialist at his work!",
         "languages": [
@@ -7567,7 +7901,7 @@
         "developer": null,
         "publisher": "Blizzard Entertainment",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0212117c2aeb895ff7ced05da9b2b5da4e67687ea489e48d5dd9fcd0e866b0b0.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f3d16894d1379fe43b7338703526141743725efd4598b28f965beb2a94697660.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/1a313528edb9c32c6c657cc810227ff8a72fdbc2607a80aeff3fed96b5090502.jpg",
             "https://img-eshop.cdn.nintendo.net/i/24f1d97fba7b72466da639e9fc085f3133816effb3c693054e32c176aa90fde2.jpg",
@@ -7578,7 +7912,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/632d5a1ad09480d55bce0b05d668921956f5eaff3f966a43da0ecce9a0c4f6f8.jpg",
         "intro": "The Future Is Now.\u00a0 Are You With Us?",
-        "description": "Pre-Purchase Bonus: Widowmaker Noire Skin\n\nGet a Golden Loot Box\nPurchase Overwatch on Nintendo Switch by December 31, 2019 to unlock a Golden Loot Box with at least 1 guaranteed Legendary item!\n\nJoin the fight for the future in the world of Overwatch\u00ae and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash a dizzying array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.\n\nExperience the Extraordinary\nSpeed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers such as Dragonstrike, Transcendence, Graviton Surge, and so much more. Every hero has a unique set of devastating, game-changing abilities.\n\nPlay Heroes, Not Classes\nEvery hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.\n\nFight for the Future...Together\nTeamwork is imperative for survival as you enter the fight with friends and comrades. Careful coordination will prove the difference between victory and defeat as your team combines the formidable powers at your disposal to devastating effect.\n\nShift Your Perspective\nJust when it seems like your team is destined to go down in defeat, switch heroes on the fly and change the course of the battle. But don\u2019t forget that your opponents can do the same. Master the game within the game as both teams shift strategies and change heroes to try to gain the upper hand.\n\nThe World Is Your Battlefield\nProtect the secrets of the mysterious Temple of Anubis in Egypt, safely escort an EMP device through King\u2019s Row in London, and do battle at many other unique locations. Every map has its own distinct feel with unique gameplay and team-based objectives.\n\nOverwatch\u00ae: Legendary Edition includes:\n\n\u2022\tRedeemable code for Nintendo Switch Online Individual Membership 3-month subscription\n\u2022\tThe full game\n\u2022\t5 Legendary Hero Skins\n\u2022\t5 Epic Hero Skins\n\u2022\t5 Origin Hero Skins\n\u2022\tAnd more!",
+        "description": "Get a Golden Loot Box\nPurchase Overwatch on Nintendo Switch by December 31, 2019 to unlock a Golden Loot Box with at least 1 guaranteed Legendary item!\n\nJoin the fight for the future in the world of Overwatch\u00ae and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash a dizzying array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.\n\nExperience the Extraordinary\nSpeed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers such as Dragonstrike, Transcendence, Graviton Surge, and so much more. Every hero has a unique set of devastating, game-changing abilities.\n\nPlay Heroes, Not Classes\nEvery hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.\n\nFight for the Future...Together\nTeamwork is imperative for survival as you enter the fight with friends and comrades. Careful coordination will prove the difference between victory and defeat as your team combines the formidable powers at your disposal to devastating effect.\n\nShift Your Perspective\nJust when it seems like your team is destined to go down in defeat, switch heroes on the fly and change the course of the battle. But don\u2019t forget that your opponents can do the same. Master the game within the game as both teams shift strategies and change heroes to try to gain the upper hand.\n\nThe World Is Your Battlefield\nProtect the secrets of the mysterious Temple of Anubis in Egypt, safely escort an EMP device through King\u2019s Row in London, and do battle at many other unique locations. Every map has its own distinct feel with unique gameplay and team-based objectives.\n\nOverwatch\u00ae: Legendary Edition includes:\n\n\u2022\tRedeemable code for Nintendo Switch Online Individual Membership 3-month subscription\n\u2022\tThe full game\n\u2022\t5 Legendary Hero Skins\n\u2022\t5 Epic Hero Skins\n\u2022\t5 Origin Hero Skins\n\u2022\tAnd more!",
         "languages": [
             "ja",
             "en",
@@ -7590,7 +7924,7 @@
             "ru",
             "ko"
         ],
-        "size": 13967032320
+        "size": 11741954048
     },
     "70010000022580": {
         "id": "0100BC800EDA2000",
@@ -8031,6 +8365,52 @@
             "en"
         ],
         "size": 197132288
+    },
+    "70010000022834": {
+        "id": "01000AC00F5EC000",
+        "rightsId": null,
+        "name": "Spirit Roots",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191101,
+        "nsuId": 70010000022834,
+        "category": [
+            "Platformer",
+            "Adventure",
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Very Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Drageus Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3c03ae5c3a4d57eca386ac9fd85ae1ea124d4619cef94082eea9028288ed13a4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8a23bb69d2f51a830aa47dc37b992bd9e9667c0f44d063dac757d935ae18dbdd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f75738faeed42bb400fe57e6dc0efa9651827c293b3da04518f386a808e399b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/68e1ad75e453328732ca431f62e011ac45c06ae977d95839a216e83f7a996bbb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e033742371c18fd6700dc78f6094578d6fcd1a4889d5fa3ea4acbff343bf7e4b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22efd13bfc1a4181edba5d1c47fc7b2f74654ee7f220d3dd61768ac217c09726.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46b4480030183483512b289638c1f0ff0600db8077ee9e82755c8502bfe615bc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1fc1b42152faf5fe046e49efba8767cc8165db618bab1c1eb5cfc8c2e34483da.jpg",
+        "intro": "Go on a fun and family-friendly platformer adventure in 5 fantastic worlds, and discover the touching story of their population.",
+        "description": "Your destination is on the outskirts of the stellar system, where a hundred years conflict created a unique situation: the small remaining parts of the two fighting planets had to be stitched together to create a surviving larger one. Welcome to the Stitched-Together Planet! \nBoth populations agreed on one condition that should never be broken: nobody can cross the border that separates them. But what exactly happens if someone breaks the rule? That\u2019s what you will find out!\n\nRun, jump, fight, avoid traps, collect coins and beat bosses in this fun and family-friendly platformer adventure. In each of the 5 worlds you will discover new challenges and enemies and evolve in unique and fantastic sceneries.\n\nWhat exactly can you expect with Spirit Roots:\n- Wonders and variety. 50 levels in 5 worlds with their own atmospheres, enemies, mechanics and music;\n- Platformer gameplay. Run, jump, collect items and fight mean creatures on the way;\n- Epic boss battles. Farmer robots? Huge spiders? Flying skulls? Mud monsters? We've packed it all into our game!\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 871366656
     },
     "70010000022852": {
         "id": "0100CCA00EDCE000",
@@ -8511,6 +8891,52 @@
         ],
         "size": 59768832
     },
+    "70010000023312": {
+        "id": "0100DEC00F7EC000",
+        "rightsId": null,
+        "name": "Pizza Bar Tycoon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191025,
+        "nsuId": 70010000023312,
+        "category": [
+            "Simulation",
+            "Strategy",
+            "Puzzle",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "General"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0c11a27d15ae7ca56ce7d3f4fb1ca3f47bb0c36b0ae53717ef12fcb6163bd666.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f806e0b7c6db506a57f77d73a4c9650fce98695c33785c18f8000074a8731d77.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36e60281a402abd24a514d0d9a8ff2f9b479b0a17145a3d553bf09bede8d4af3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a02f7f72cc4887b369886c5701eb180ecb66ade5478d50d843ba174de090e613.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2273019aba448ab1a703cdb300f8976a3daa8eab133d7c52979800db42e4286f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f3b812e5bf662c35242966a9ff98c1242dd2741544ea0ea5627bdecb674bd24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bdae1fdd20de58b4317bbd1a9391e83f20287c5435baaee98d4cac6f96c65ddd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c1908785a974e46e3c129987a80157c684c661bcb9e3007a5cf8b1561a766d45.jpg",
+        "intro": "Become a pizza magnate! Create the best pizza in town!",
+        "description": "Look out! This pizzeria will soon become the talk of the town!\n\nWell... at least that's the plan. \n\nYour customers are already queuing up, so you'll have to serve them as quickly as possible. However, that's easier said than done!\n\nEveryone's in a hurry and you'll have to prepare each order correctly, or else your customers are going to get crossed!\n\nGive it your all and you'll come out on top!\n\nIN PIZZA BAR TYCOON YOU WILL FIND:\n\n* 60 levels to explore, 70+ dishes to serve.\n* Great cartoonish graphics, music and sound effects.\n* Countless upgrades you can apply to ingredients and bar decorations.\n* 47 Achievements to complete.\n* Easy to play and hard to master.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it"
+        ],
+        "size": 153092096
+    },
     "70010000023326": {
         "id": "0100A9400C9C2000",
         "rightsId": null,
@@ -8766,6 +9192,56 @@
             "zh"
         ],
         "size": 563085312
+    },
+    "70010000024541": {
+        "id": "010005D00FC06000",
+        "rightsId": null,
+        "name": "puzzlement",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191107,
+        "nsuId": 70010000024541,
+        "category": [
+            "Puzzle",
+            "Platformer",
+            "Adventure",
+            "Other"
+        ],
+        "ratingContent": [
+            "General"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "gamebra.in",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/32802d3bf655ae9f80b2826e6a49ea69c7dfaf16b8b68fdddd751d284c2433ea.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d8ae62970ae5703860d9fa6fe989d04c3549c6f4d17f292123c47e1fc06a1535.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1408b462bccf545dc478c8ca2a842e0645a29bd9185d03b9d628a5bdd8cf6039.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f11e5b10dc21ef890f0b792ba55ec9504047475a2fe0986b52b0fc0132ec6c37.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db0e50b09f82ce0c74ce5e9f7505550d62b9347679860faa8530a534bb1f5308.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8c8495c5005210520dfa4ee6d652df5f255731515af27cff8a1965ed419112f0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b401e16f256d1ff0590118e2d024dcc67089d651aa84e9e264503572dc19e75c.jpg",
+        "intro": "* 50 beautifully crafted mind bending levels\n* Relaxing music & sounds\n* 100% indie",
+        "description": "Puzzlement is a minimal puzzle game based on walking/jumping between plane surfaces. The goal is simple; collect all red squares.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 69206016
     },
     "70030000008501": {
         "id": null,
@@ -9054,6 +9530,36 @@
         "languages": null,
         "size": 1282408448,
         "parentId": "010073700E412000"
+    },
+    "70030000009383": {
+        "id": null,
+        "rightsId": null,
+        "name": "Disgaea 4 Complete+ Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000009383,
+        "category": null,
+        "ratingContent": [
+            "Mild themes",
+            "Fantasy Violence",
+            "Coarse language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 8,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1962934272,
+        "parentId": "0100A9800E9B4000"
     },
     "70050000012119": {
         "id": "01004C400CF97001",
@@ -12640,6 +13146,258 @@
         "languages": null,
         "size": 33554432
     },
+    "70050000016679": {
+        "id": "0100F8600E21F007",
+        "rightsId": null,
+        "name": "French Language Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191016,
+        "nsuId": 70050000016679,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "Online interactivity"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd0574de767610a9baed6a7a2b3043644f57b3564822ebc10c43644010126bf1.jpg",
+        "intro": null,
+        "description": "Optional downloadable French Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
+        "languages": null,
+        "size": 506462208
+    },
+    "70050000016680": {
+        "id": "0100F8600E21F008",
+        "rightsId": null,
+        "name": "German Language Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191016,
+        "nsuId": 70050000016680,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "Online interactivity"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd0574de767610a9baed6a7a2b3043644f57b3564822ebc10c43644010126bf1.jpg",
+        "intro": null,
+        "description": "Optional downloadable German Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
+        "languages": null,
+        "size": 562036736
+    },
+    "70050000016681": {
+        "id": "0100F8600E21F004",
+        "rightsId": null,
+        "name": "Italian Language Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191016,
+        "nsuId": 70050000016681,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "Online interactivity"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd0574de767610a9baed6a7a2b3043644f57b3564822ebc10c43644010126bf1.jpg",
+        "intro": null,
+        "description": "Optional downloadable Italian Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
+        "languages": null,
+        "size": 540016640
+    },
+    "70050000016682": {
+        "id": "0100F8600E21F009",
+        "rightsId": null,
+        "name": "Brazilian Portuguese Language Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191016,
+        "nsuId": 70050000016682,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "Online interactivity"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd0574de767610a9baed6a7a2b3043644f57b3564822ebc10c43644010126bf1.jpg",
+        "intro": null,
+        "description": "Optional downloadable Brazilian Portuguese Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
+        "languages": null,
+        "size": 565182464
+    },
+    "70050000016683": {
+        "id": "0100F8600E21F005",
+        "rightsId": null,
+        "name": "Russian Language Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191016,
+        "nsuId": 70050000016683,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "Online interactivity"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd0574de767610a9baed6a7a2b3043644f57b3564822ebc10c43644010126bf1.jpg",
+        "intro": null,
+        "description": "Optional downloadable Russian Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
+        "languages": null,
+        "size": 535822336
+    },
+    "70050000016684": {
+        "id": "0100F8600E21F002",
+        "rightsId": null,
+        "name": "Castilian Spanish Language Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191016,
+        "nsuId": 70050000016684,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "Online interactivity"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd0574de767610a9baed6a7a2b3043644f57b3564822ebc10c43644010126bf1.jpg",
+        "intro": null,
+        "description": "Optional downloadable Castilian Spanish Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
+        "languages": null,
+        "size": 564133888
+    },
+    "70050000016685": {
+        "id": "0100F8600E21F003",
+        "rightsId": null,
+        "name": "Latin American Spanish Language Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191016,
+        "nsuId": 70050000016685,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "Online interactivity"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd0574de767610a9baed6a7a2b3043644f57b3564822ebc10c43644010126bf1.jpg",
+        "intro": null,
+        "description": "Optional downloadable Latin American Spanish Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
+        "languages": null,
+        "size": 570425344
+    },
+    "70050000016686": {
+        "id": "0100F8600E21F00D",
+        "rightsId": null,
+        "name": "Japanese Language Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191016,
+        "nsuId": 70050000016686,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "Online interactivity"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd0574de767610a9baed6a7a2b3043644f57b3564822ebc10c43644010126bf1.jpg",
+        "intro": null,
+        "description": "Optional downloadable Japanese Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
+        "languages": null,
+        "size": 487587840
+    },
+    "70050000016687": {
+        "id": "0100F8600E21F00A",
+        "rightsId": null,
+        "name": "Korean Language Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191016,
+        "nsuId": 70050000016687,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "Online interactivity"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd0574de767610a9baed6a7a2b3043644f57b3564822ebc10c43644010126bf1.jpg",
+        "intro": null,
+        "description": "Optional downloadable Korean Pack for Overwatch Legendary Edition on Nintendo Switch.",
+        "languages": null,
+        "size": 540016640
+    },
     "70070000006821": {
         "id": null,
         "rightsId": null,
@@ -12933,7 +13691,7 @@
         "intro": "Your character. Our universe. Create your own Superhero or Supervillain in DC Universe Online.",
         "description": "DC Universe\u2122 Online is now on Nintendo Switch\u2122! Join thousands of other players in this free-to-play, massively multiplayer online action game set in the popular DC universe. \n\u2022 Channel your inner hero or villain by creating a unique, customizable character with a variety of superpowers \n\u2022 Experience thrilling, fast-paced battles alongside and against DC characters including Batman, Wonder Woman, Superman, The Joker, and more\n\u2022 Explore immersive, story-driven adventures in Gotham City, Metropolis, Titans Island, Themyscira, Atlantis and many other famous DC locations\n\nTHIS BUNDLE INCLUDES ONE GOTHAM CITY STARTER PACK \u2013 AN IN-GAME COLLECTION OF ITEMS THAT CONTAINS:\n\u2022 Two full iconic style suits, Future Crusader and Clown Prince\n\u2022 A Gotham City Emergency Signal that provides a permanent 25% experience boost to one character and will call the aid of Batman (for heroes) or the Joker (for villains)\n\u2022 Twenty-five (25) Source Marks used to buy gear and other items in-game\n\u2022 Ten (10) Soder Colas to regenerate health and power\n\u2022 Four (4) Radar Enhancers to track special Collections throughout Gotham City and Metropolis that grant their own rewards.\n \nOnce you have entered the game with a character, the Starter Pack can be claimed through the Redeem/Claim section of the in-game Marketplace.  All style items are Account Bound and can only be traded to other characters on your account.\n\nAn SD Card is required to play this game.",
         "languages": null,
-        "size": 26377977856
+        "size": 26548895744
     },
     "70070000007681": {
         "id": null,
@@ -13162,6 +13920,41 @@
         "description": null,
         "languages": null,
         "size": 0
+    },
+    "70070000008481": {
+        "id": null,
+        "rightsId": null,
+        "name": "Overwatch: Legendary Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191016,
+        "nsuId": 70070000008481,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "Online interactivity"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1a313528edb9c32c6c657cc810227ff8a72fdbc2607a80aeff3fed96b5090502.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24f1d97fba7b72466da639e9fc085f3133816effb3c693054e32c176aa90fde2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4dbcef1080dd92607460bbc892fef808196dc3e9603a133db6b951c4bf8e500a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/28b2e39c76bd120270fe06144024f8d2864ea7c01c016a3ea7bc4368b3bc62b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58be32b76d0d8b95619b31124346bb1c1c9cc228c6736929b6fd2bc61e6461d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b21232e6be7b733b0e3f88a26bfc089e72ce88510a78050a1d4ca029eb92fee.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/632d5a1ad09480d55bce0b05d668921956f5eaff3f966a43da0ecce9a0c4f6f8.jpg",
+        "intro": "The Future Is Now.\u00a0 Are You With Us?",
+        "description": "Overwatch: Legendary Edition includes:\n\u2022\tRedeemable code for Nintendo Switch Online Individual Membership 3-month subscription (Terms apply. nintendo.com/switch-online)\n\u2022\tThe full game\n\u2022\t5 Legendary Hero Skins\n\u2022\t5 Epic Hero Skins\n\u2022\t5 Origin Hero Skins\n\nUnlock a Golden Loot Box\nPurchase and log into Overwatch on Nintendo Switch by December 31, 2019 to unlock a Golden Loot Box with at least 1 guaranteed Legendary item!\n\nBegin your Watch\nJoin the fight for the future in the world of Overwatch\u00ae and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash a dizzying array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.\n\nExperience the Extraordinary\nSpeed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers such as Dragonstrike, Transcendence, Graviton Surge, and so much more. Every hero has a unique set of devastating, game-changing abilities.\n\nPlay Heroes, Not Classes\nEvery hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.\n\nFight for the Future...Together\nTeamwork is imperative for survival as you enter the fight with friends and comrades. Careful coordination will prove the difference between victory and defeat as your team combines the formidable powers at your disposal to devastating effect.\n\nShift Your Perspective\nJust when it seems like your team is destined to go down in defeat, switch heroes on the fly and change the course of the battle. But don\u2019t forget that your opponents can do the same. Master the game within the game as both teams shift strategies and change heroes to try to gain the upper hand.\n\nThe World Is Your Battlefield\nProtect the secrets of the mysterious Temple of Anubis in Egypt, safely escort an EMP device through King\u2019s Row in London, and do battle at many other unique locations. Every map has its own distinct feel with unique gameplay and team-based objectives.",
+        "languages": null,
+        "size": 11741954048
     },
     "70070000008501": {
         "id": null,
