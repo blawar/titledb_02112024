@@ -2014,7 +2014,7 @@
             "ko",
             "zh"
         ],
-        "size": 1274019840
+        "size": 1283457024
     },
     "70010000009167": {
         "id": "010042000A986000",
@@ -2439,7 +2439,7 @@
             "ko",
             "zh"
         ],
-        "size": 4331667456
+        "size": 6304038912
     },
     "70010000012305": {
         "id": "01001B300B9BE000",
@@ -4115,7 +4115,7 @@
             "de",
             "ru"
         ],
-        "size": 1324351488
+        "size": 1323302912
     },
     "70010000020281": {
         "id": "0100A4200DA76000",
@@ -4740,7 +4740,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 834666496,
+        "size": 838860800,
         "parentId": "0100EBB00D2F4000"
     },
     "70030000009061": {
@@ -9852,6 +9852,37 @@
         "description": "Paquete de idioma coreano descargable de modo opcional para Overwatch Legendary Edition en Nintendo Switch.",
         "languages": null,
         "size": 540016640
+    },
+    "70050000015961": {
+        "id": "0100F2200C985012",
+        "rightsId": null,
+        "name": "Paquete de Skins Mascarada",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191017,
+        "nsuId": 70050000015961,
+        "category": null,
+        "ratingContent": [
+            "Derramamiento de sangre",
+            "Violencia intensa",
+            "Lenguaje fuerte",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9ad93f6ae594476011d750100335d030f55eea245e9f7e5abb0be4d123584232.jpg",
+        "intro": null,
+        "description": "El Paquete de Skins Mascarada inlcuye tres nuevas skins de personaje, justo a tiempo para Halloween. Juega como Jade Bruja Malvada, Kabal Asesino Psic\u00f3pata y Liu Kang Calavera.\n",
+        "languages": null,
+        "size": 4194304
     },
     "70050000016501": {
         "id": "0100B6400CA57085",

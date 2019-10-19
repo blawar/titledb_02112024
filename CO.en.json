@@ -2014,7 +2014,7 @@
             "ko",
             "zh"
         ],
-        "size": 1274019840
+        "size": 1283457024
     },
     "70010000009167": {
         "id": "010042000A986000",
@@ -2390,7 +2390,7 @@
             "ko",
             "zh"
         ],
-        "size": 4331667456
+        "size": 6304038912
     },
     "70010000012305": {
         "id": "01001B300B9BE000",
@@ -3988,7 +3988,7 @@
             "de",
             "ru"
         ],
-        "size": 1324351488
+        "size": 1323302912
     },
     "70010000020339": {
         "id": "010032E00E6E2000",
@@ -8333,37 +8333,6 @@
         "languages": null,
         "size": 6291456
     },
-    "70050000014024": {
-        "id": "01006A800016F068",
-        "rightsId": null,
-        "name": "Spirit Board Challenge Pack 1 -Challenge various Spirits!-",
-        "version": null,
-        "key": null,
-        "isDemo": false,
-        "region": null,
-        "releaseDate": 20190730,
-        "nsuId": 70050000014024,
-        "category": null,
-        "ratingContent": [
-            "Cartoon Violence",
-            "Comic Mischief",
-            "Suggestive Themes",
-            "Users Interact",
-            "In-Game Purchases"
-        ],
-        "numberOfPlayers": null,
-        "rating": 10,
-        "developer": null,
-        "publisher": "Nintendo",
-        "frontBoxArt": null,
-        "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/270a671b33c4ca468fa442a550eb8f69e945dbd74d58d6544449b344e21fe612.jpg",
-        "intro": null,
-        "description": "This is bonus content only available for active Nintendo Switch Online members. These items can be downloaded and used from the Spirit Mode in Super Smash Bros.\u2122 Ultimate.\n\n1. 1500SP\n2.  Shuffle All x 10\n3.  All Primaries x 10\n4.  All Supports x 10",
-        "languages": null,
-        "size": 16777216
-    },
     "70050000014061": {
         "id": "01009EA00B7152BD",
         "rightsId": null,
@@ -9691,6 +9660,37 @@
         "description": "Optional downloadable Korean Pack for Overwatch Legendary Edition on Nintendo Switch.",
         "languages": null,
         "size": 540016640
+    },
+    "70050000015961": {
+        "id": "0100F2200C985012",
+        "rightsId": null,
+        "name": "Masquerade Skin Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191017,
+        "nsuId": 70050000015961,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9ad93f6ae594476011d750100335d030f55eea245e9f7e5abb0be4d123584232.jpg",
+        "intro": null,
+        "description": "The Masquerade Skin Pack includes three new character skins, just in time for Halloween. Play as Wicked Witch Jade, Psyko Killer Kabal and Calavera Liu Kang.",
+        "languages": null,
+        "size": 4194304
     },
     "70050000016501": {
         "id": "0100B6400CA57085",

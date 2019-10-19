@@ -2014,7 +2014,7 @@
             "ko",
             "zh"
         ],
-        "size": 1274019840
+        "size": 1283457024
     },
     "70010000009167": {
         "id": "010042000A986000",
@@ -2439,7 +2439,7 @@
             "ko",
             "zh"
         ],
-        "size": 4331667456
+        "size": 6304038912
     },
     "70010000012305": {
         "id": "01001B300B9BE000",
@@ -4115,7 +4115,7 @@
             "de",
             "ru"
         ],
-        "size": 1324351488
+        "size": 1323302912
     },
     "70010000020281": {
         "id": "0100A4200DA76000",
@@ -9853,6 +9853,37 @@
         "languages": null,
         "size": 540016640
     },
+    "70050000015961": {
+        "id": "0100F2200C985012",
+        "rightsId": null,
+        "name": "Masquerade Skin Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191017,
+        "nsuId": 70050000015961,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9ad93f6ae594476011d750100335d030f55eea245e9f7e5abb0be4d123584232.jpg",
+        "intro": null,
+        "description": "The Masquerade Skin Pack includes three new character skins, just in time for Halloween. Play as Wicked Witch Jade, Psyko Killer Kabal and Calavera Liu Kang.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000016501": {
         "id": "0100B6400CA57085",
         "rightsId": null,
@@ -12030,6 +12061,31 @@
         "description": "\"Wolfenstein: Youngblood is the first modern co-op Wolfenstein adventure.\n\nNineteen years after the events of Wolfenstein II, BJ Blazckowicz has disappeared after a mission into Nazi-occupied Paris. Now, after years of training from their battle-hardened father, BJ\u2019s twin daughters, Jess and Soph Blazkowicz, are forced into action.\n\nTeam up with a friend or play alone. Level up, explore, and complete missions to unlock new abilities, weapons, gadgets, cosmetics, and more to complement your playstyle and customize your appearance.\n\nThe Deluxe Edition includes the Buddy Pass, allowing you and a friend to play the entire game together, even if they don't own the game themselves. \n\nThis edition also features the Cyborg Skin Pack, which includes:\n- Cyborg player skin\n- Titanium alloy skins for all weapons\n- Titanium alloy hatchet\n- Titanium alloy knife \n- Armor-boosting pep signal\"\n",
         "languages": null,
         "size": 24900534272
+    },
+    "70070000006541": {
+        "id": null,
+        "rightsId": null,
+        "name": null,
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70070000006541,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
     },
     "70070000006542": {
         "id": null,

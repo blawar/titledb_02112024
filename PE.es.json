@@ -2014,7 +2014,7 @@
             "ko",
             "zh"
         ],
-        "size": 1274019840
+        "size": 1283457024
     },
     "70010000009167": {
         "id": "010042000A986000",
@@ -2439,7 +2439,7 @@
             "ko",
             "zh"
         ],
-        "size": 4331667456
+        "size": 6304038912
     },
     "70010000012305": {
         "id": "01001B300B9BE000",
@@ -4115,7 +4115,7 @@
             "de",
             "ru"
         ],
-        "size": 1324351488
+        "size": 1323302912
     },
     "70010000020281": {
         "id": "0100A4200DA76000",
@@ -4740,7 +4740,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 834666496,
+        "size": 838860800,
         "parentId": "0100EBB00D2F4000"
     },
     "70030000009061": {
@@ -9853,6 +9853,37 @@
         "languages": null,
         "size": 540016640
     },
+    "70050000015961": {
+        "id": "0100F2200C985012",
+        "rightsId": null,
+        "name": "Paquete de Skins Mascarada",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191017,
+        "nsuId": 70050000015961,
+        "category": null,
+        "ratingContent": [
+            "Derramamiento de sangre",
+            "Violencia intensa",
+            "Lenguaje fuerte",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9ad93f6ae594476011d750100335d030f55eea245e9f7e5abb0be4d123584232.jpg",
+        "intro": null,
+        "description": "El Paquete de Skins Mascarada inlcuye tres nuevas skins de personaje, justo a tiempo para Halloween. Juega como Jade Bruja Malvada, Kabal Asesino Psic\u00f3pata y Liu Kang Calavera.\n",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000016501": {
         "id": "0100B6400CA57085",
         "rightsId": null,
@@ -12030,6 +12061,31 @@
         "description": "\"Wolfenstein: Youngblood es la primera aventura cooperativa moderna de Wolfenstein.\n\nDiecinueve a\u00f1os despu\u00e9s de los acontecimientos de Wolfenstein II, B.\u00a0J. Blazkowicz desapareci\u00f3 tras una misi\u00f3n en el Par\u00eds ocupado por los nazis. Ahora, despu\u00e9s de unos cuantos a\u00f1os de entrenamiento de su aguerrido padre, las hijas gemelas de B.\u00a0J., Jess y Soph Blazkowicz, deben entrar en acci\u00f3n.\n\n\u00danete a un amigo o juega por tu cuenta. Sube de nivel, explora y completa misiones para desbloquear nuevas habilidades, armas, dispositivos, elementos est\u00e9ticos y muchas cosas m\u00e1s para complementar tu estilo de juego y personalizar tu apariencia.\n\nLa Deluxe Edition incluye el Buddy Pass, que te permitir\u00e1 jugar el juego completo con un amigo, incluso si este no posee una copia.\n\nEsta edici\u00f3n tambi\u00e9n viene con el Cyborg Skin Pack, que incluye:\n- Dise\u00f1o de c\u00edborg\n- Dise\u00f1os de aleaci\u00f3n de titanio para todas las armas\n- Hacha de aleaci\u00f3n de titanio\n- Cuchillo de aleaci\u00f3n de titanio \n- Se\u00f1al de motivaci\u00f3n que mejora la armadura\"\n",
         "languages": null,
         "size": 24900534272
+    },
+    "70070000006541": {
+        "id": null,
+        "rightsId": null,
+        "name": null,
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70070000006541,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
     },
     "70070000006542": {
         "id": null,
