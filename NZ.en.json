@@ -7860,6 +7860,56 @@
         ],
         "size": 693108736
     },
+    "70010000019999": {
+        "id": "0100DFC00E472000",
+        "rightsId": null,
+        "name": "Earthfall: Alien Horde",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191029,
+        "nsuId": 70010000019999,
+        "category": [
+            "Shooter",
+            "First-Person Shooter",
+            "Multiplayer",
+            "Action"
+        ],
+        "ratingContent": [
+            "Violence",
+            "Online interactivity"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nimble",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0df5ed8bc2fd563031c85e60504ea93a6eb75685d1c37199452e9fd51dda4a02.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f62ec8f156ea3725b2cfac7a2274977ecd8cd90b54c475958b0cf2e26ccf33c2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/051d97b320a7e3f2a48c11ebdbc960e11ca9f40759260f6ab5e91489ea3e2761.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bfaa8f0b48feba4078b2cc5c3b9b8c5355901b19627b56b195493eea21e55b39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b945dfb3da74b2bb79e2fa2cbdb34cdcbc43996add7d833a4f8fea1a9f4e6d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ff1b90afd75bdaa49bcc37d9f1a44f02f84801c1f0a5f5d79c624174e4f4e52.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0531a8c6bd5734c7003c6bdd32694ae10a6f2ae0983fa568c7486c074ed5dc7e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f6a0fed883ce60a0a15eb01d2c1259f1edbfbe8a5fb82bd3b1c5c7f45a04b16f.jpg",
+        "intro": "When the Earth falls to an extra-terrestrial invasion, humanity becomes an endangered species! Battle the alien horde in this frenetic 4-player co-op shooter.",
+        "description": "Earthfall\u2122 is a 4-player co-op shooter where you team up with friends or play alone to save the world from invading aliens. Search for over 20 different kinds of weapons, or use 3D printers to print your own! Automatic turrets, deployable barricades, or mounted guns let you set up defenses to channel the enemy into kill zones. Battle your way through 16 epic levels that tell the continuing story of humanity's struggle to survive. Every playthrough is a unique experience, with dynamic spawns and reactive enemies for maximum replay value.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 9724493824
+    },
     "70010000020003": {
         "id": "010001400E474000",
         "rightsId": null,
@@ -13535,6 +13585,49 @@
         ],
         "size": 79691776
     },
+    "70010000022121": {
+        "id": "0100DD100EFF8000",
+        "rightsId": null,
+        "name": "Ghost Parade",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191031,
+        "nsuId": 70010000022121,
+        "category": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Mild fantasy violence",
+            "Coarse language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 8,
+        "developer": null,
+        "publisher": "Numskull Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/335ccc58bc45e2f33ac19c0ac926237e8f07b28da7bfba72727db9946c1d420f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a62d1fe5e9040f88753b5c02949c2a4ad0ac2a795e9444e120370789e43fcb79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a80692d645405e154d6df8450e501dc51e31c1b633e843b0d00edaf1729abdf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e16c5c98f7e1e4fa918d459ec3a7074ba41a220032cafe33ecc73a490a277d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a48e95cec780ad741a7b6f6e4ce1b6b96708b6d56296d94b37eb50180d3bf58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5cfd53029246b7f4ad60a2ec24c54f12b1bcc6b661c4d514454a91a9a5bf243c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3eded8a0bdbc22f1a49adce25f2e8cc490c61387f262ef60f37f7686d5a6ff23.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/131c1df34a8f45acac9711cf51a789e236d7846e1de2b0c9865b5476bb0e6bd4.jpg",
+        "intro": "There\u2019s something spooky in the woods... And it needs your help!",
+        "description": "Your walk home takes an other-worldly turn as you become lost in a dark, mysterious forest. Join a mystical battle to protect the supernatural inhabitants from those who are trying to level their home for profit. Team up with 30 ghostly companions \u2013 each one lending its unique magical ability to help you on your way. Explore beautifully realized environments in this spine-tingling scrolling action adventure brimming with surprises and original character designs. Working together, everyone has a ghost of a chance to safely make it home.",
+        "languages": [
+            "ja",
+            "en",
+            "zh"
+        ],
+        "size": 1974468608
+    },
     "70010000022151": {
         "id": "01009C600F02C000",
         "rightsId": null,
@@ -14727,6 +14820,53 @@
             "en"
         ],
         "size": 284164096
+    },
+    "70010000022486": {
+        "id": "010074B00ED32000",
+        "rightsId": null,
+        "name": "Polyroll",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191031,
+        "nsuId": 70010000022486,
+        "category": [
+            "Platformer",
+            "Arcade",
+            "Action"
+        ],
+        "ratingContent": [
+            "General"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "HOF Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3ddfe995657cb2e10fd579a9de02bf0dac532406ad3d63cf124ab0d4108578a7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9cc42d5318b6573408d2731ac495ebd24ceacecb28e84f33453583a5f9bf0b45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20601417d7eedd87ff19ffa299396e8a53a51f9bd2486e6b24fb612064804794.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ff41eb26d8ce1fc715eeb4b4de78e18a65c7c868ea9dd0f8a56297fd794a70b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bdfbe556cb834fc4e799b3dee5172472fc2ed2ee4127d675a97f7e552093555b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9d3b03d4722ff38d22d2f5635dbf699a3f6836288f0ff0f5ee7b8a009ea18f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8e08127f79176c92e551bed3fb66076e84398b007fb3e6ac94b0fd175c2260c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7231e11607178947bd6ca6f9f77485c8b869c826a922a858e9e5395c57ca1c2a.jpg",
+        "intro": "The roly poly with attitude has to rescue his friends from the evil Kaiser Kiwi in this retro platformer inspired by the classics!",
+        "description": "Kaiser Kiwi has kidnapped your roly poly friends and taken them to his Frigid Castle. \n\nOnly Polyroll can save them!\n\nFeatures\n4 to 10 hours of playtime \nExplore the 11 worlds and 36 levels of Polyroland\nExecute platforming challenges to collect gems\n11 unique bosses to battle",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 115343360
     },
     "70010000022501": {
         "id": "010069900F270000",
