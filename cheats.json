@@ -7689,6 +7689,22 @@
             "version": 0
         }
     },
+    "010056E00853A000": {
+        "0BB68E9935102056": {
+            "0da831caa3d4b448265c11452373f9d8a241c4ec2e67d65f7ff6fa976ab9ede7": {
+                "source": "580F0000 02402B50\n580F1000 000001B8\n580F1000 00000078\n780F0000 000000CC\n640F0000 00000000 40000000",
+                "title": "[Spped Up]"
+            },
+            "43d9dc7f59a562c567b850da7df020245c9d8538a5cab686e368f3730452eed9": {
+                "source": "580F0000 02402B50\n580F1000 000001B8\n580F1000 00000078\n780F0000 00000480\n640F0000 00000000 00000004",
+                "title": "[Inf Life]"
+            },
+            "701708e8f36bab50f3c5c3e2d6b4cbb5e0779da706417feacc856c0144d7a107": {
+                "source": "80000002\n580F0000 02402B50\n580F1000 000001B8\n580F1000 00000078\n780F0000 000001E0\n640F0000 00000000 44000000\n20000000",
+                "title": "[Moon Jump]"
+            }
+        }
+    },
     "0100574002AF4000": {
         "F1546B842FCF9D6C": {
             "09df758dc34cf1af4032e70e431e8f309bfac09c331e5b80aff8ec08b79898d1": {
@@ -8495,6 +8511,18 @@
                 "title": "[Experience value 8 times]"
             },
             "version": 65536
+        }
+    },
+    "01005EF00CFDA000": {
+        "0DF02AB1AA74AD0A": {
+            "b84826e9e5cb83eef165e2502ce845658312d4a1b7308201119f39d81127e3a1": {
+                "source": "580F0000 0530C980\n780F0000 00000590\n640F0000 00000000 43960000",
+                "title": "[Energy unlimited]"
+            },
+            "c15525a748a6d0bd04bf5dff4b358cd164bef83c9c8c7e09990f2df6d78da97b": {
+                "source": "80002000\n580F0000 0530C980\n780F0000 00000590\n640F0000 00000000 43960000",
+                "title": "[Add Energy with UP]"
+            }
         }
     },
     "01005F4009112000": {
@@ -12491,6 +12519,10 @@
                 "source": "02000000 034E48DE 00004844",
                 "title": "[Inf. Magic]"
             },
+            "0d27f55a8798c75c6e76a5f72a7ab113dd091360f651517a6df767e00e34e9b1": {
+                "source": "04000000 034E51B4 3B9AC9FF",
+                "title": "[combo99999999]"
+            },
             "169d8a09780b506e894954b74a2cee16041786d16b993487e3e0beb17e5a1b0e": {
                 "source": "580F0000 0186FA28\n780F1000 0001A910\n680F0000 00000000 3B9AC9FF",
                 "title": "[Inf. 99999999 Halos]"
@@ -12515,9 +12547,17 @@
                 "source": "01000000 034E495C 00000063",
                 "title": "[Baked Gecko x99]"
             },
+            "7b2579ce1d706ec23564e480a2a5962917cc18e81dd1a87b2b64027e33c85333": {
+                "source": "04000000 034E51B0 00000000",
+                "title": "[time0]"
+            },
             "833fc58398654f22d5ae4655051936fdd0499b334915cf6cda91f6e08b1d2444": {
                 "source": "01000000 034E4954 00000063",
                 "title": "[Unicorn Horn x99]"
+            },
+            "90bca5be19c348af775501247cbf088fb153c9266dc05da3e6cd6d508d7e4685": {
+                "source": "04000000 034E51BC 00000000",
+                "title": "[damage0]"
             },
             "92d559755c3721426c7362b103901179d758385a5d8ca2548b14c4911a45185b": {
                 "source": "01000000 034E499C 00000063",
@@ -12720,6 +12760,18 @@
     },
     "01007D7001D0E000": {
         "3AD80BD8CFCB3423": {
+            "019c63d1b44ef5cdb3c9a08fb89440b6cf701d3fd23709609c45490d07ac5391": {
+                "source": "580F0000 0C5A1110\n580F1000 00000B80\n780F0000 00000568\n640F0000 00000000 56000000",
+                "title": "[Invincible]"
+            },
+            "20afa7cab9977f3468d478662145cc9a9ef2ea3b71867ba948f734fdc2a58682": {
+                "source": "580F0000 0C5AB918\n580F1000 00000120\n780F0000 00000878\n640F0000 00000000 0000C350",
+                "title": "[Exp]"
+            },
+            "2d8825a777e75cae17fac2444e0bed62998b8fd98d1dff08b55474fcf1200cd1": {
+                "source": "580F0000 0C5AB918\n580F1000 00000120\n780F0000 00000BB8\n640F0000 00000000 00000063",
+                "title": "[Bombs]"
+            },
             "3e5c56a1ad7ef4ea469e8a80d32c91d55df9946dd26c40c73a2f9043bf47583e": {
                 "source": "58000000 0C5A0F00\n78000000 005B42B4\n68000000 00000063 00000063",
                 "title": "[Arrows x99]"
@@ -12727,6 +12779,14 @@
             "53b7411be61653aee784856f088bd30ca409d2a23b7b7257bf1249e5a5e7f70d": {
                 "source": "58000000 0C5A0F00\n78000000 005B4114\n68000000 0000C350 0000C350",
                 "title": "[EXP x50.000]"
+            },
+            "5a520e396413b3ce1b71b06c4fc2458776779ef51067bffa7320a82d42b47684": {
+                "source": "580F0000 0C5AB918\n580F1000 00000120\n780F0000 00000398\n640F0000 00000000 00000001",
+                "title": "[Key]"
+            },
+            "5fc932aca7c27adb73ad14f8af9f5e3dda9cc65ee22d340ecb8ad8436ff13c9a": {
+                "source": "580F0000 0C5AB918\n580F1000 00000120\n780F0000 00000538\n640F0000 00000000 00000001",
+                "title": "[Master Key]"
             },
             "664c8b5eb3f83c5532e5ce1c92cc9d2b6d7d9155f2547d4967eafcec713267b6": {
                 "source": "58000000 0C5B0BC8\n78000000 02B2E5D4\n68000000 41200000 41200000",
@@ -12736,9 +12796,29 @@
                 "source": "58000000 0C5A0F00\n78000000 005B3F74\n68000000 000F423F 000F423F",
                 "title": "[Money x999999]"
             },
+            "753fb9f4a933f3c4dac62b60ecd7aaf379f4808b5619075243c9636e54335e60": {
+                "source": "80000001\n580F0000 0C5A1110\n580F1000 00000B80\n780F0000 00000298\n640F0000 00000000 3E800000\n20000000",
+                "title": "[Speed Up]"
+            },
+            "9dc4bde74579150d555322fdb27836f689fd8b950d7e730414093b58636d0bb0": {
+                "source": "580F0000 0C5A1110\n580F1000 00000B80\n780F0000 00000174\n640F0000 00000000 41200000",
+                "title": "[Inf HP]"
+            },
+            "a727c7ab2da72b1ea0630d0f9f781383c2f38b97471cf5471e7ea74892ea8cac": {
+                "source": "580F0000 0C5AB918\n580F1000 00000120\n780F0000 00000A18\n640F0000 00000000 00000063",
+                "title": "[Arrows]"
+            },
             "dc8920cdbad5f1f32df412e71e5afcc04abc70ca2085946ba4e66468100abea5": {
                 "source": "58000000 0C5A0F00\n78000000 005B4454\n68000000 00000063 00000063",
                 "title": "[Bombs x99]"
+            },
+            "df4c27345799ef72293b5d520f8bfe2a233c3384ff63621298d7179cbc5af284": {
+                "source": "580F0000 0C5A1110\n580F1000 00000B80\n780F0000 000000DC\n640F0000 00000000 3F800000",
+                "title": "[Inf Stamina]"
+            },
+            "e3bcbd3e39c9e9a6efa7064a171af976d3788febc800acd385c94f0cfe1df405": {
+                "source": "580F0000 0C5AB918\n580F1000 00000120\n780F0000 000006D8\n640F0000 00000000 000F423F",
+                "title": "[Coin]"
             },
             "version": 65536
         }
@@ -22616,6 +22696,40 @@
             "ff4a72b441f3f1acb282203d9d3ae2f7cff09650b523b714bb9c81972f459166": {
                 "source": "580F0000 09F55970\n780F0000 00000194\n640F0000 00000000 44FA0000",
                 "title": "[P1 Inf Stage Interact Super]"
+            }
+        },
+        "7DD420A59EE310DD": {
+            "076db78fb244def70ec4ab0dbd73f44486b4326f258ab30bd12f4e6d052ce113": {
+                "source": "08000000 01E3BA10 D65F03C0 320003E0",
+                "title": "[#07 Unlock Collection Chars Stages ON]"
+            },
+            "2d67c4553445d8f2d45db773d4aab9df938cc9beb4ba56e4610a9b23c5e47c6e": {
+                "source": "580F0000 0A5D9980\n780F0000 000003DC\n640F0000 00000000 00000001",
+                "title": "[#04 P1 In.Fatal Blow]"
+            },
+            "36e38cefe3e6b588fbbc85f982385c87ecf5ac50fa08c05f0d096c6587a8c665": {
+                "source": "580F0000 0A5D9980\n780F0000 00000184\n640F0000 00000000 44FA0000",
+                "title": "[#02 P1 Inf. Super Special Moves]"
+            },
+            "54fd7aa0a9c7b7c3ac78c09c50a6a5c1f2c390aa8f2816f2ad1c390d9f93a125": {
+                "source": "580F0000 0A5D9980\n780F0000 00000194\n640F0000 00000000 44FA0000",
+                "title": "[#03 P1 Inf. Stage Interact Super]"
+            },
+            "745f38855fd442bd3c1cba6c646a990129ae038747c6de12e83cb7d95b53df80": {
+                "source": "08000000 01E3BA10 A9036FFC D10243FF",
+                "title": "[#08 Unlock Collection Chars Stages OFF]"
+            },
+            "af29da76fe7037944df03a1d68765b7847998a834b5d1f606c15d0ced84450d1": {
+                "source": "580F0000 0A6AFAB0\n580F1000 00000018\n780F0000 00000B98\n640F0000 00000000 00000000",
+                "title": "[#06 CPU instant Kill]"
+            },
+            "b92b5cfef22d86f8811c40b6bc602be50af8ca4bb55ae40c6f319787917c554a": {
+                "source": "580F0000 0A6AFAB0\n580F1000 00000000\n780F0000 00000B98\n640F0000 00000000 3F800000",
+                "title": "[#01 P1 In. HP]"
+            },
+            "fcc24dd955506333f675e9656bb328ac092eb90cc912f8dede3a5df0d5f06959": {
+                "source": "580F0000 0A6AFAB0\n580F1000 00000018\n780F0000 00000B98\n640F0000 00000000 3A000000",
+                "title": "[#05 CPU 1-hit Kill]"
             }
         }
     },
