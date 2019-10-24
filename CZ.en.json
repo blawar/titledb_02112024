@@ -9586,6 +9586,46 @@
         ],
         "size": 241172480
     },
+    "70010000018594": {
+        "id": "01006FB00DB02000",
+        "rightsId": null,
+        "name": "Yaga",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191112,
+        "nsuId": 70010000018594,
+        "category": [
+            "Adventure",
+            "RPG",
+            "Action",
+            "Other"
+        ],
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Versus Evil",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/43cc7e24436ab6d404322b004d8bd123fcdb8b616697d9356b8280f7445e3e67.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f29ff3bdf0db6735bb7b1101dcb1a3a027238546081253b7fca88e8ca9a1ae12.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0bb45231da50a1f769df220144566bdcb112b77b538399473b780821be0a1cd2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a2b71282c2b48801b4402d2cc1e3ba967f6d3d448a437b0cca8955a14c3adfe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/47f793dc2329839e5c18c59f635377153e770defac18325480169f539c4cf9d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/daee7dfda0c05a602726f7f3a2dd29e5d9805a64a241a499c46b4d54c6aab608.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/22a6a584554ac04fd2b629646bb24210d26d657deae41fda9f2b4507da23c0e4.jpg",
+        "intro": "The Role-playing Folktale",
+        "description": "Smash, clobber and bash the murderous legends of Slavic mythology in this darkly funny action role-playing game that changes every time you play. Play as Ivan, a one-handed blacksmith with incredibly bad luck, who must take on the impossible tasks given to him by the tzar. All the while the mysterious witch, Baba Yaga, watches over Ivan\u2019s fate. \n\nThe world of Yaga is a world steeped in Slavic folklore and ancient Pagan beliefs. Featuring a head-bobbing Romanian hip-hop soundtrack from Subcarpa\u021bi and striking, hand-drawn 2D artwork. Yaga is an authentic love letter to childhood fables from Romanian indie developer, Breadcrumbs Interactive.\n\n\u25cf Bludgeon the ancient monsters of Slavic folklore using a vast arsenal of hammers and tools forged by Ivan\u2019s own hands.\n\u25cf Your actions change Ivan\u2019s story, his reputation, and the upgrades he can choose.\n\u25cf Experiment in the deep forging system to make weapons like teleporting lightning hammers and hookshot pitchforks.\n\u25cf Explore the combinations of talismans, magic items, blessings, perks, and curses to fundamentally change how Ivan plays.\n\u25cf Multiple endings, multiple ways of solving encounters, procedural map, lots of characters to encounter, and hidden secrets mean Yaga is meant to be played over and over again.\n\u25cf Ivan\u2019s grandma just wants him to find a wife. Don\u2019t disappoint her!",
+        "languages": [
+            "en"
+        ],
+        "size": 1702887424
+    },
     "70010000018607": {
         "id": "0100DDE00DAC4000",
         "rightsId": null,
@@ -17833,7 +17873,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20191105,
+        "releaseDate": 20191107,
         "nsuId": 70010000020807,
         "category": [
             "Racing"
@@ -19348,6 +19388,55 @@
             "zh"
         ],
         "size": 1116733440
+    },
+    "70010000021086": {
+        "id": "010068200E96E000",
+        "rightsId": null,
+        "name": "Sky Gamblers - Storm Raiders 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191031,
+        "nsuId": 70010000021086,
+        "category": [
+            "Simulation",
+            "Action"
+        ],
+        "ratingContent": [
+            "Implied Violence",
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Atypical Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d8cee622ebc67a534428a55ef3762ee4e03d2d8f8aec3902a60b4b25f7144a86.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fdb0d64f73d578bad9fd5fe6664fe52ac90553633fc879e7fca0426dea4e6c16.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ef6221bc983ecd6502df7cee2e772f505a009531f8e05717ca0892333016c24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ce9e5a99d57cd3579b099676a9cecc17a05103c8c88b7ccf12a60b6281e3b4e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41d03de90cdcaec9334dceaa346163e3f44236bdc65e2b8cb0860b063f37ebe7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16b8e235b1cf89b0fb0a8ed5cd678148692ddd7fe85f26e82ec4528c9412b6a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a3cec815542a4225d6d52d8490821a6ca62498f31bd5453a599d5c84bacd58f3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fc4f7434f8c132de5a6bb9505d179104b740cf6f0d382b0b44decb88720654b7.jpg",
+        "intro": "Epic WWII airplane combat",
+        "description": "Unlock, upgrade and customize the legendary planes of WWII. Get into the cockpit and prepare to takeoff. Become the master of the skies!\n\nIMMERSIVE GAMEPLAY\nYou will fly in fully recreated cities with realistic weather in places like UK, US, Egypt, Russia, Norway and Germany. Pick your weapons wisely as you\u2019ll have to take out targets both in the sky, over the water and on the ground during a fun to play campaign. Test your take off skills and land on both ground runways and carriers. \n\nHUGE HISTORIC FLEET\nFly highly detailed WWII top fighters, bombers and dive-bombers. Enjoy the progressive damage system affecting planes and shred your enemies to pieces. Customize your favorite plane with historically accurate skins or a skin and color scheme of your choice.\n\nHUGE COLLECTION OF ONLINE and SINGLE PLAYER TRAINING MODES\nPlay with your friends online! Choose between cooperative and competitive modes: Survival, Last Man Standing, Last Team Standing, Free Flight, Free for All, Team Match, Capture the Flag and Defend the Base.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 3721396224
     },
     "70010000021090": {
         "id": "010012E00EA66000",
@@ -26217,6 +26306,47 @@
             "en"
         ],
         "size": 405798912
+    },
+    "70010000022933": {
+        "id": "0100C7600F654000",
+        "rightsId": null,
+        "name": "Juicy Realm",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191107,
+        "nsuId": 70010000022933,
+        "category": [
+            "Shooter",
+            "Action",
+            "Multiplayer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "X.D. Network",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e4fe5a7bbb21e5384f6a0a7e993ca24684fb1c261ea3178630640bcd41d38afb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/68747c276db9f9947569a7965f6a23c4da8ef541cfdce2ed55465d823ea42d83.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/739856e8c558a82cecfc6e8a5ee4c24c391f56fb3fcb829e944464298a150be4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e38f9f473badbe7bb46d030403a1e99a152712847d0f0f7095f93d04e65a8276.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa2c60b4ad60851c87697251f0c33a9dd28443034ce83adb2d31fd35ec176991.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c4c6f863b1a7704012293f4142faaf735a74b1afdfcc0a34cca078f342ade3f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16264b118be7702c12ee81054a8aef4cebcc28efd8953c50d45cb06aaa185e2a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ba021949a2bc1bd73dfd244f5939a837007a342af2b5a8be3cb1723a4cc90df9.jpg",
+        "intro": "This is a roguelike game in which players must square off against bizarre fruits all across the world.",
+        "description": "Game Introduction\nThe line between the animal and the plant world has become blurred, and the food chain has been completely disrupted. Humans, upon making this incredible discovery, have set up outposts along the border of the aggressive plants' habitat for investigations, defense, and in preparation for what may come. You take the role of a soldier on the front lines charged with confronting this strange new enemy.\n\nThe Order of Things... Disrupted\n\"Many years in the future, humanity looks upward in despair at plants, now standing atop the food chain. How could they have been so arrogant...\"\nOnly when plants began sprouting arms and legs and developing self-awareness did humanity truly begin to understand the menace that these once photosynthesis-dependent creatures posed. No one could understand how the plants took this large evolutionary leap in such a short time, something that took their animal counterparts millions of years to accomplish. One thing is certain, now is the time for humanity to make their stand in order to stay at the top of the food chain.\n\nGameplay\nAs one of the first explorers of the newly discovered plant empire, you must continuously drive deeper and deeper into the enemy's lair. Defeat bizarre and colorful fruits while retrieving new gear, weapons, and resources to defend yourself and expand your base camp.\nIf you're unable to defeat the overwhelming destructive force of the plant army alone, invite a few friends to lend a hand and help you discover the secrets behind this strange new world.\n\nGame Features\n- Rougelike elements with random zones, treasures, and monsters\n- Loads of special weapons and items\n- Unique and incredibly detailed art style\n- Expand your camp and unlock new features\n- Solo campaign and local multiplayer",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh"
+        ],
+        "size": 667942912
     },
     "70010000022970": {
         "id": "010045500DFE2000",
