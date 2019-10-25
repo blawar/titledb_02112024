@@ -1188,17 +1188,125 @@
                 "source": "041F0000 0D85FBBC 0000000F\n041F0000 0D85FBBD 00000027\n041F0000 0D85FBC0 0000000F\n041F0000 0D85FBC1 00000027",
                 "title": "[Slot 2 Max HP]"
             },
+            "05945b3d876908c2093b91cfb8e415ce4dde8b8fd7863a6c3abd55da89d59c82": {
+                "source": "04000000 0005EBF8 52800C88",
+                "title": "[BUG Immunity After Any Chip]"
+            },
+            "08cec462f2c6e008d7d3e052ca52d576a0b72bb90c670291a378c2419dda39c3": {
+                "source": "04000000 0005E574 1A89B120",
+                "title": "[Level cap 99]"
+            },
+            "096c04fdbaa18a2d53963715c0ba605f8f4aaecbf844dd8677880c8be7869575": {
+                "source": "04000000 0005EB18 52807D08",
+                "title": "[CRT maximum after equipping any chip]"
+            },
+            "096c07912aaac55fabd4319c378122fa59274a69e7c9d4576fcc3097dc721115": {
+                "source": "04000000 0005EBC0 52800C88",
+                "title": "[Paralyzed immunity after equipping any chip]"
+            },
+            "0b8964a6e33b81f925a79cd2f64e5292692bde7483e99c71fa8ef5b917df6e60": {
+                "source": "04000000 0005EC04 52800C88",
+                "title": "[Dead immunity when equipped with any chip]"
+            },
+            "0f59553bc1c2d32c04a43f61c54ed751f3b8a173a0adc8d3bd75d5beed895011": {
+                "source": "04000000 00005478 4B1F0129",
+                "title": "[Inf Sp]"
+            },
+            "2125cd9f807248d745b169cbe7a976c9b74499fca023db16e44b648b9ec07261": {
+                "source": "04000000 0006540C 4B03014A",
+                "title": "[Items are not reduced (off)]"
+            },
+            "23540aa8464747dddc7a3ce844315706d433d936be4c9a84d1dca54eaef75c8a": {
+                "source": "04000000 0000EEF8 0B090908\n04000000 0000EF04 0B080A88",
+                "title": "[4x increase in hit slots]"
+            },
+            "245ff7b850f90ba37acbbead72e9f078488e6c96d4d5b0c4d9cc3d256c07746e": {
+                "source": "04000000 0005EAB4 52807D08",
+                "title": "[Maximum SP after equipping any chip]"
+            },
             "395852820cc6b905f2db5a1de1fdaef718330cdf9873db2bf732308ca5339aae": {
                 "source": "041F0000 04A1FD08 0000007F\n041F0000 04A1FD09 00000096\n041F0000 04A1FD0A 00000098",
                 "title": "[Max Money]"
+            },
+            "39a62b1707662287d106d39182134289ad329b0bf5a44677c976e36fbaee9204": {
+                "source": "04000000 0005EC30 0B090908",
+                "title": "[4x USB effect for military division]"
+            },
+            "3a4fdc6a6b782e734933960239fa8a45e3ef1c63ebc0a7623b06aeab71d67f92": {
+                "source": "04000000 0005EBCC 52800C88",
+                "title": "[Sleep Immunity After Equipping Any Chip]"
+            },
+            "3a5dbb34ff515b8cc605c7641bf144e31f73011e30e913bfb40f1528bc59428f": {
+                "source": "04000000 0005EC5C 52801908",
+                "title": "[200% scan rate after equipping any chip]"
+            },
+            "3b2d4593a203645cea85d97c05aca35d79affa49a773af9b1a64909bf694e131": {
+                "source": "04000000 0005EAFC 52807D08",
+                "title": "[HIT Max after equipping any chip]"
+            },
+            "40c18a3ee6badcc8da743d4785567a048c8dd6e0a4fefaaa26d560e4df81dd0f": {
+                "source": "04000000 0005EC14 52800C88",
+                "title": "[100% connectivity rate after equipping any chip]"
+            },
+            "417deb7fdda13dba361767e4fe37b5beee9445f80cebdaa1f5fc98c513675c2d": {
+                "source": "04000000 0005EB78 52800C88",
+                "title": "[Light properties are injury-free after equipping any chip]"
+            },
+            "419f0ca3c21358983d390e8f81b46d17ce53e4b9431cfad293e05dc1c76193d0": {
+                "source": "04000000 0005EBB0 52800C88",
+                "title": "[Chaotic immunity after equipping any chip]"
+            },
+            "41a179ad8056c3f428a54c6c8cb7b4c31b773dd9f3e395144e60750c9a6c67fb": {
+                "source": "04000000 0005EC3C 0B0A0508",
+                "title": "[Billionaire's Military Division 2x]"
+            },
+            "435125902fcf1c203aa355ed0bf6f7afe468b1a222f0aff315ebf63eaf1aca15": {
+                "source": "04000000 0005EC30 0B090508",
+                "title": "[2x the USB effect of the military division]"
+            },
+            "46cca207721d84d84fceea4cfe6fcdc6da6ce3ee875d9631897dde94772840e2": {
+                "source": "04000000 0004FFF8 52801909",
+                "title": "[scan rate after battle Max]"
+            },
+            "47be0e8c3daf4daa1d7037078584335480250dc3e101866ac9438e32cb68102d": {
+                "source": "04000000 0005EC4C 52800C88",
+                "title": "[100% drop rate after any chip is equipped]"
+            },
+            "493aacfa303c48ceed09c0d4a4f9d277f5188e919ff730807f079370fde85ac0": {
+                "source": "04000000 0005EC68 52800C88",
+                "title": "[Equipped with any chip after through the damage relief]"
             },
             "4a0ffc0735913de7429172f81c00effa29a7db6225b7a22837af4cdb5217c26a": {
                 "source": "041F0000 0D85F988 0000000F\n041F0000 0D85F989 00000027\n041F0000 0D85F98C 0000000F\n041F0000 0D85F98D 00000027",
                 "title": "[Slot 1 Max MP]"
             },
+            "564c4132a8e6cdca1438b2546b326838f67906826c2150a5b9d0caee42c0b3f6": {
+                "source": "04000000 0005EAD0 52807D08",
+                "title": "[DEF maximum after equipping any chip]"
+            },
+            "628fce4c8671c91da49c446a220b4d3bad40b48f0656a876f54fa7786e2b8933": {
+                "source": "04000000 0000EEF8 0B091108\n04000000 0000EF04 0B081288",
+                "title": "[16x increase in hit slots]"
+            },
             "638b72b763e20dbc30c5488ffccf9ec9da0100b9ef1a2ba398987f44c9073d6e": {
                 "source": "041F0000 04A1FD14 000000FF\n041F0000 04A1FD15 000000FF",
                 "title": "[Max Memory]"
+            },
+            "65f9f7f78c8c846c7c041b1a3cf9b200e0bdf84ec7d4c4c7a3c2bb5e55032d97": {
+                "source": "04000000 0005EBE8 52800C88",
+                "title": "[Liquidization immunity after equipping any chip]"
+            },
+            "66d58bf92320a57823cfb870bd5440d09f87e00cca3d5643128c7fe700829e26": {
+                "source": "04000000 0005EB08 52807D08",
+                "title": "[AGL maximum after equipping any chip]"
+            },
+            "67ee2071400d6260c2f0a3ba66d5f410911e24e03ac56f1edbbd62137c639a20": {
+                "source": "04000000 0005EAE0 52807D08",
+                "title": "[INT max after equipping any chip]"
+            },
+            "6bb18caa32b894d1b43a59ab993caeca37d38ffd2a52704268f6531fc365e4c8": {
+                "source": "04000000 000652EC 1A8BB16B",
+                "title": "[Max item when acquired(on)]"
             },
             "78250446b61fe17f059734747cb41116b9e8f667f911f1765b77ae056bdb14a0": {
                 "source": "041F0000 0D85FBD2 000000E7\n041F0000 0D85FBD3 00000003\n041F0000 0D85FBD6 000000E7\n041F0000 0D85FBD7 00000003\n041F0000 0D85FBDA 000000E7\n041F0000 0D85FBDB 00000003\n041F0000 0D85FBDE 000000E7\n041F0000 0D85FBDF 00000003",
@@ -1208,9 +1316,21 @@
                 "source": "041F0000 0D85FBC8 000000E7\n041F0000 0D85FBC9 00000003\n041F0000 0D85FBCC 000000E7\n041F0000 0D85FBCD 00000003",
                 "title": "[Slot 2 Max MP]"
             },
+            "85983b1e0ddf7763f9d81a39fdb19641ae2bdfa0b47cd5bfdabd7193e67139f2": {
+                "source": "04000000 0005EAEC 52807D08",
+                "title": "[SPD max after equipping any chip]"
+            },
+            "87aa33ae3a6cd1c0546b3508cdf31fe961c30a0d8ac81fc7e8be217856af118f": {
+                "source": "04000000 0005EC3C 0B0A0D08",
+                "title": "[Billionaire's Military Division 8x]"
+            },
             "8b86b1ad079cd8e28381a7a34f5965825d05960dc8fbfc16476e5b3d9a2d1e1c": {
                 "source": "011F0000 0D85FE24 00000064",
                 "title": "[Slot 3 CAM 100%]"
+            },
+            "8f3ded48e231dbe842be25343b4d520e0ba8d17bca4162d35e69b82915cde45f": {
+                "source": "04000000 0005EB5C 52800C88",
+                "title": "[Equipped with any chip rear soil property injury-free]"
             },
             "91dc93237ac1ad68648b6d4c9046ced628d8ff71b12f1aabd21c5e6fc99b9bd5": {
                 "source": "011F0000 0D85FBA8 00000063",
@@ -1220,6 +1340,26 @@
                 "source": "041F0000 0D85FE22 000000E7\n041F0000 0D85FE23 00000003",
                 "title": "[Slot 3 Max ABI]"
             },
+            "97a4fb4e553f7ddf51a369ed5702c73e0921d41a7d0c23e8e88e092a051c3ee4": {
+                "source": "04000000 00067F54 1A89B128",
+                "title": "[Max Money after change]"
+            },
+            "a1c3970f2f1bb9ce81e348532614737512952e6f02c4e8cf9df921c008526db6": {
+                "source": "04000000 0005EAA8 0B090108\n04000000 0005EAB4 0B0A0108\n04000000 0005EAC4 0B090108\n04000000 0005EAD0 0B0A0108\n04000000 0005EAE0 0B090108\n04000000 0005EAEC 0B0A0108\n04000000 0005EAFC 0B090108\n04000000 0005EB08 0B0A0108\n04000000 0005EB18 0B090108\n04000000 0005EB24 0B0A0108\n04000000 0005EB34 0B090108\n04000000 0005EB40 0B0A0108\n04000000 0005EB50 0B090108\n04000000 0005EB5C 0B0A0108\n04000000 0005EB6C 0B090108\n04000000 0005EB78 0B0A0108\n04000000 0005EB88 0B090108\n04000000 0005EB94 0B0A0108\n04000000 0005EBA4 0B090108\n04000000 0005EBB0 0B0A0108\n04000000 0005EBC0 0B090108\n04000000 0005EBCC 0B0A0108\n04000000 0005EBDC 0B090108\n04000000 0005EBE8 0B0A0108\n04000000 0005EBF8 0B090108\n04000000 0005EC04 0B0A0108\n04000000 0005EC14 0B090108\n04000000 0005EC20 0B0A0108\n04000000 0005EC30 0B090108\n04000000 0005EC3C 0B0A0108\n04000000 0005EC4C 0B090108\n04000000 0005EC5C 0B0A0108\n04000000 0005EC68 0B090108",
+                "title": "[Max Item Equipment effect]"
+            },
+            "a32ced584f8938774c3288e123049afdb010f1c5ae1a808d9a3a61efb336068e": {
+                "source": "04000000 0005EF1C 1A89B128\n04000000 0005EF28 1A89B120\n04000000 0005EFD4 1A89B128\n04000000 0005EFE0 1A89B120\n04000000 0005F084 1A89B128\n04000000 0005F090 1A89B120\n04000000 0005F134 1A89B128\n04000000 0005F140 1A89B120\n04000000 0005F1E4 1A89B128\n04000000 0005F1F0 1A89B120\n04000000 0005F294 1A89B128\n04000000 0005F2A0 1A89B120",
+                "title": "[Maximum after full property promotion]"
+            },
+            "a4fc03d3fcb7fe9d247075ef031a09462025af548a3917ce2bb39a9e21a86047": {
+                "source": "04000000 0005EB40 52800C88",
+                "title": "[Equipped with any chip rear wood property injury-free]"
+            },
+            "a688e2ed66f352ed614e41b6ee6d19f6e38306c67ce2a365b705c75de6b0d60d": {
+                "source": "04000000 000543E4 1A88C128",
+                "title": "[Friendship maximum after change]"
+            },
             "a796f40f4f709c227c042bd9d960689aa20172566dd0f9bfbb3616bc7a88e07e": {
                 "source": "041F0000 0D85F992 000000E7\n041F0000 0D85F993 00000003\n041F0000 0D85F996 000000E7\n041F0000 0D85F997 00000003\n041F0000 0D85F99A 000000E7\n041F0000 0D85F99B 00000003\n041F0000 0D85F99E 000000E7\n041F0000 0D85F99F 00000003",
                 "title": "[Slot 1 Max Stat]"
@@ -1228,13 +1368,33 @@
                 "source": "011F0000 0D85FBE4 00000064",
                 "title": "[Slot 2 CAM 100%]"
             },
+            "ac5132211ec7e3385a8737b549b3d520531e5dcdfa56575035974832e074175e": {
+                "source": "04000000 0005EB94 52800C88",
+                "title": "[No property injury-free after equipping any chip]"
+            },
+            "b86420498e09a792e71760aa16261714098e7f24edf42f42aecafc605510a27c": {
+                "source": "04000000 0005EB50 52800C88",
+                "title": "[Mine-free properties after equipping any chip]"
+            },
             "c306e6ba7b92cb0ae93c9421cd6b994e96b047eb8b612d7d90f407ce81bff27c": {
                 "source": "041F0000 0D85FE08 000000E7\n041F0000 0D85FE09 00000003\n041F0000 0D85FE0C 000000E7\n041F0000 0D85FE0D 00000003",
                 "title": "[Slot 3 Max MP]"
             },
+            "cde93d9b3961f2a42e51874712bf7eeb46a60a5e27e9efde98fc8a063a4df615": {
+                "source": "04000000 0005EAA8 5284E1E8",
+                "title": "[HP Max after equipping any chip]"
+            },
+            "ce1d2050ada384e41918aa15962da627aef7a2683061ce2926efb2f88873c8a7": {
+                "source": "04000000 0005EB88 52800C88",
+                "title": "[Dark properties free of injury after equipping any chip]"
+            },
             "d2e0501b62124464a3db2ae5942306e7163c7470e96154753b803d602fa64db2": {
                 "source": "011F0000 0D85F9A4 00000064",
                 "title": "[Slot 1 CAM 100%]"
+            },
+            "d39cd879e3ed5bc3f99039b9932c1a8f399ebb31d803c7de74774a39fb4faa3c": {
+                "source": "04000000 0005EBDC 52800C88",
+                "title": "[Dizziness immunity after equipping any chip]"
             },
             "d3dc45b73cf0343a936174b85325a96e9476c8fb5ad98b8d675e46fb75aca7ec": {
                 "source": "041F0000 0D85FE12 000000E7\n041F0000 0D85FE13 00000003\n041F0000 0D85FE16 000000E7\n041F0000 0D85FE17 00000003\n041F0000 0D85FE1A 000000E7\n041F0000 0D85FE1B 00000003\n041F0000 0D85FE1E 000000E7\n041F0000 0D85FE1F 00000003",
@@ -1244,25 +1404,81 @@
                 "source": "011F0000 0D85FDE8 00000063",
                 "title": "[Slot 3 Level 99]"
             },
+            "d67c1c061a16a3cc00631b66316415005dcb8d7cd872b4dd576fe14fbca98728": {
+                "source": "04000000 0005EB24 52800C88",
+                "title": "[Fire property free of injury after equipping any chip]"
+            },
+            "d6af1d6f0950a099ea4d255a3904010d77d0266edbb2836001ad297032e85c77": {
+                "source": "04000000 0005EC20 52800C88",
+                "title": "[100% escape rate after equipping any chip]"
+            },
             "d9857316b24def36af6e186f75bbc69c55b3ffd95a0d414272bcbaf753094aca": {
                 "source": "041F0000 0D85FBE2 000000E7\n041F0000 0D85FBE3 00000003",
                 "title": "[Slot 2 Max ABI]"
+            },
+            "dac262e4ae9cf6205546cc6a578f6d9507249e696b8b78cd52fa42fbca89f66f": {
+                "source": "04000000 000652EC 1A8BB12B",
+                "title": "[Max item when acquired(off)]"
+            },
+            "e0a3c6d747912163e73a6cd4251ec08fde58de10f8afbeee4767261bf5a3707b": {
+                "source": "04000000 0005EB6C 52800C88",
+                "title": "[Equipped with any chip rear wind property injury-free]"
+            },
+            "e4d4ae5b949790677f7f7c5c3423b948d233b1eb5a826565c3c2adce01680bde": {
+                "source": "04000000 0005EC30 0B090D08",
+                "title": "[8x USB effect for military division]"
             },
             "e858b319388cdf0b2eb1ab4da64c708c91eea96dd38cfbe052e3a23b6b7ea1ca": {
                 "source": "041F0000 0D85FDFC 0000000F\n041F0000 0D85FDFD 00000027\n041F0000 0D85FE00 0000000F\n041F0000 0D85FE01 00000027",
                 "title": "[Slot 3 Max HP]"
             },
+            "ecbb4e94c2577b2242488ec23d835555ea2e36ab9ce404a51bfa8847d2d0ce37": {
+                "source": "04000000 0000EEF8 0B090D08\n04000000 0000EF04 0B080E88",
+                "title": "[8x increase in hit slots]"
+            },
+            "ed240f6f1b5318aa1855be0851b5d0120e2ee39af722c7681293249155701ec5": {
+                "source": "04000000 0005EBA4 52800C88",
+                "title": "[Highly toxic immunity after equipping any chip]"
+            },
             "ee1108e5a2da113d0c2e20373adb9f3293dbc9a8edbaf036aa2824a6e5a428ab": {
                 "source": "011F0000 0D85F968 00000063",
                 "title": "[Slot 1 Level 99]"
+            },
+            "eed38ceb730f47cf692f186cc11dbbed991f537dc7cc89cf5c2fa62f6708cbee": {
+                "source": "04000000 0005EB34 52800C88",
+                "title": "[Water properties free of injury after equipping any chip]"
             },
             "f024a0d738e7c88a57c14ce820e8895a4f04c024d841675b4001d911ec40c4fa": {
                 "source": "041F0000 0D85F980 0000000F\n041F0000 0D85F981 00000027\n041F0000 0D85F97C 0000000F\n041F0000 0D85F97D 00000027",
                 "title": "[slot 1 Max HP]"
             },
+            "f048012d6aa7da76618b91bf8e6a5c73b230287ec48dea5818d947b8c41d67b4": {
+                "source": "04000000 0005EC2C 52993FE8\n04000000 0005EC30 72877348",
+                "title": "[Full level after increased experience after equipping chips]"
+            },
             "f4ed7b193d104fbf236aa037cbbdddf480ca6484154e3dcfc32f8f0a34ba5b4e": {
                 "source": "041F0000 0D85F9A2 000000E7\n041F0000 0D85F9A3 00000003",
                 "title": "[Slot 1 Max ABI]"
+            },
+            "fa599464269587287b89cf83a1d3886472248ab5c2d9d6cf969d2d012ae210e4": {
+                "source": "04000000 0006540C 4B1F014A",
+                "title": "[Items are not reduced (on)]"
+            },
+            "fa848ae95f0449b903cfdf92130995027776c02466e55534a5bd3d843b2fa0d2": {
+                "source": "04000000 00054658 1A88C108",
+                "title": "[Can the maximum after the change]"
+            },
+            "fc490cf775d81034e51bdb157f6b6dceea8d9b1d749b5a5dcb6d057327fa0dcd": {
+                "source": "04000000 0005EAC4 52807D08",
+                "title": "[ATK max after any chip]"
+            },
+            "fdbd752bfbb2b640a8fe6a1b54821f9b8f5a9582e117e4063af7f79a2ca888fe": {
+                "source": "04000000 00069010 1A89B128",
+                "title": "[Maximum after team cap increase]"
+            },
+            "ffbd1a37794167f484f904504d59fb4483f2d4d2c98b64de1daf834a62c64030": {
+                "source": "04000000 0005EC3C 0B0A0908",
+                "title": "[Billionaire's Military Division 4x]"
             }
         }
     },
@@ -20656,6 +20872,38 @@
                 "title": "[Max Red Orbs (Press L3)]"
             },
             "version": 0
+        }
+    },
+    "0100E8500AD58000": {
+        "1D18291B37A88AB1": {
+            "233ec17d4baa8eb4682d5a591b653ea3171cc8c3eeb4679532ad832aad4a029c": {
+                "source": "041F0000 119FC80C 0098967F",
+                "title": "[inf money]"
+            },
+            "2986a0a2dc9d4289ee451507b0fa99858aa68a5a4bff685d42601a01b1675fc3": {
+                "source": "021F0000 119FC830 000003E7\n021F0000 119FC840 000003E7\n021F0000 119FC850 000003E7\n021F0000 119FC860 000003E7\n021F0000 119FC870 000003E7\n021F0000 119FC880 000003E7",
+                "title": "[all fuse item 999]"
+            },
+            "5a4f8bb49fb785d734fdc76b015e72f8b64ab52944d9e195e4a7474e1a924945": {
+                "source": "020F0000 01424554 0000270F\n020F0000 01424558 0000270F\n021F0000 1D1C3480 0000270F\n021F0000 1D1C3484 0000270F",
+                "title": "[combo 9999]"
+            },
+            "94ee4a3c907836d3a8e1122e6c781ee6ef0281e16fa42eec303d4afbb898bddb": {
+                "source": "020F0000 0142444C 0000270F\n021F0000 1D1C3488 0000270F",
+                "title": "[9999 ko]"
+            },
+            "a36632d37dff0c84b9f73aa71abd86c8e7ded8a6a1cffbb6dfe61bfe05af47fd": {
+                "source": "021F0000 119FC820 000003E7\n021F0000 119FC822 000003E7\n021F0000 119FC824 000003E7\n021F0000 119FC826 000003E7\n021F0000 119FC828 000003E7\n021F0000 119FC82A 000003E7\n021F0000 119FC82C 000003E7\n021F0000 119FC82E 000003E7\n021F0000 119FC830 000003E7\n021F0000 119FC832 000003E7\n021F0000 119FC834 000003E7\n021F0000 119FC836 000003E7\n021F0000 119FC838 000003E7\n021F0000 119FC83A 000003E7\n021F0000 119FC83C 000003E7\n021F0000 119FC83E 000003E7\n021F0000 119FC840 000003E7\n021F0000 119FC842 000003E7\n021F0000 119FC844 000003E7\n021F0000 119FC846 000003E7\n021F0000 119FC848 000003E7\n021F0000 119FC84A 000003E7\n021F0000 119FC84C 000003E7\n021F0000 119FC84E 000003E7\n021F0000 119FC850 000003E7\n021F0000 119FC852 000003E7\n021F0000 119FC854 000003E7\n021F0000 119FC856 000003E7\n021F0000 119FC858 000003E7\n021F0000 119FC85A 000003E7\n021F0000 119FC85C 000003E7\n021F0000 119FC85E 000003E7\n021F0000 119FC860 000003E7\n021F0000 119FC862 000003E7\n021F0000 119FC864 000003E7\n021F0000 119FC866 000003E7\n021F0000 119FC868 000003E7\n021F0000 119FC86A 000003E7\n021F0000 119FC86C 000003E7\n021F0000 119FC86E 000003E7\n021F0000 119FC870 000003E7\n021F0000 119FC872 000003E7\n021F0000 119FC874 000003E7\n021F0000 119FC876 000003E7\n021F0000 119FC878 000003E7\n021F0000 119FC87A 000003E7\n021F0000 119FC87C 000003E7\n021F0000 119FC87E 000003E7\n021F0000 119FC880 000003E7\n021F0000 119FC882 000003E7\n021F0000 119FC884 000003E7\n021F0000 119FC886 000003E7\n021F0000 119FC888 000003E7\n021F0000 119FC88A 000003E7\n021F0000 119FC88C 000003E7\n021F0000 119FC88E 000003E7",
+                "title": "[all item 999]"
+            },
+            "a6ba1808cd260da824e04ddebbb3f566e00e51cbc9dee61280514e43cdb897c1": {
+                "source": "011F0000 119FC814 00000063",
+                "title": "[inf crystal]"
+            },
+            "b0a191c20485297346f0538436aa50b54f45735b224bc69802c36242d6d14041": {
+                "source": "041F0000 119FC818 000F423F",
+                "title": "[inf growth point]"
+            }
         }
     },
     "0100E95004038000": {

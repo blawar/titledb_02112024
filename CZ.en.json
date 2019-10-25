@@ -367,8 +367,7 @@
             "Fighting"
         ],
         "ratingContent": [
-            "Mild Swearing",
-            "Moderate Violence"
+            "Mild Swearing"
         ],
         "numberOfPlayers": 4,
         "rating": 12,
@@ -1189,6 +1188,7 @@
             "Adventure"
         ],
         "ratingContent": [
+            "Implied Violence",
             "Mild Violence"
         ],
         "numberOfPlayers": 1,
@@ -1709,7 +1709,7 @@
             "ko",
             "zh"
         ],
-        "size": 1364197376
+        "size": 1375731712
     },
     "70010000010844": {
         "id": "010016400B1FE000",
@@ -1767,9 +1767,11 @@
             "Arcade",
             "Shooter"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "SEGA",
         "frontBoxArt": null,
@@ -2824,10 +2826,10 @@
             "Arcade"
         ],
         "ratingContent": [
-            "Mild Violence"
+            "Moderate Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 12,
         "developer": null,
         "publisher": "Screwtape Studios",
         "frontBoxArt": null,
@@ -4502,9 +4504,11 @@
             "Sports",
             "Simulation"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Fear"
+        ],
         "numberOfPlayers": 4,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "FREE STYLE",
         "frontBoxArt": null,
@@ -5711,7 +5715,7 @@
             "https://img-eshop.cdn.nintendo.net/i/0a73543215ecbb447af5b2b17ba7efcc1f0ca65cd0580b8f90ac41a29b8e527b.jpg",
             "https://img-eshop.cdn.nintendo.net/i/10b2fe58cbb30e0c2623469f64be4373b94ca719075cc4affe09c435b6fa35a9.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1eb53abb530cb593e43b313775408b05ad675e499225a7efbd8f2c1c7375bd69.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/851cf97cf79151fb59ed8d32b53066165b7bee39287b56ddcacbb0e0b76daaf6.jpg",
         "intro": "Jetpack through the prehistoric world in a \u201cStone fiction\u201d adventure platformer!",
         "description": "Jet Kave Adventure brings everything you love about 2.5D platformers. Enjoy the skill-based action, challenging boss fights, clever secrets and thrilling set-pieces in a game where the Stone Age and science fiction collide.\n\nMeet Kave, the jet-powered caveman. A has-been chief banished by his own tribe, he stumbles upon\u2026 a jetpack! The device turns him into the only prehistoric man who stands a chance against \u201cthe alien invader\u201d \u2013 a rather unlikable guy from the sky who\u2019ll readily kick off a disastrous volcanic eruption just so he can repair his spaceship. So begins Kave\u2019s quest to save the whole island and prove his worth to the tribe.\n\nWho needs double jumps when you\u2019ve got a jetpack?! This piece of extraterrestrial tech is a real game changer \u2013 both for Kave and the player. Master jet-fueled platforming and fly over pitfalls, smash through walls, knock out enemies, and manipulate objects as you halt the alien threat once and for all.\n\nGAME FEATURES:\n\u25cf\tSave the island and Kave\u2019s honor in a playful \u201cStone fiction\u201d adventure\n\u25cf\tJetpack through 36 colorful levels riddled with hazards and rich with secrets\n\u25cf\tUse your trusty club and alien jetpack to smack and whack 30 types of enemies\n\u25cf\tShow what you\u2019re made of in breakneck flight sequences and boss fights\n\u25cf\tMaster jet-fueled platforming to find collectibles and upgrade your gear\n\u25cf\tEnjoy a 2.5D adventure platformer tailor-made for Nintendo Switch\u2122!",
         "languages": [
@@ -5930,6 +5934,43 @@
             "zh"
         ],
         "size": 3276800000
+    },
+    "70010000016653": {
+        "id": "010009300D31C000",
+        "rightsId": null,
+        "name": "Squidgies Takeover",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191114,
+        "nsuId": 70010000016653,
+        "category": [
+            "Puzzle",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "GiantMargarita",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/211588428ff74bf6611f4020c3c229583e10b865f21c356db0361abc6e9b1308.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4277cf1ddbef91604b4e3fe0ba3fd7bcab0e8ff7841e75c4f4cdfb9867efe9f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2a5445bbac6169a355ee13c2148d6bad5dddb1329e461de799efac1694bf2ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e93bba13aaa2bc4b439f93112262f33dd20edd5aa677b7ef7dc82cf094ead4df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77705bab50919ff409a4c5f7a61947964490f957671da19ab2825acb332a2282.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/820cc5df0f7e260fe06b85bb50bd7ed76dc372af6f109e75b89eb0b0712b0856.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/56ceede9cdfc3aa173d0bd1db675d665f1826847963923628a16a26294ef4cfd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ef08a2e487a5709df99579511c675432035d35a3782bc2267d5cccad411dcec1.jpg",
+        "intro": "The adorable Squidgies need your help to conquer the galaxy in this puzzle game full of diverse powerups, levels, and challenges!",
+        "description": "You control the Squidgies, hapless little blobs of adorableness, that need your help to escape their Mumma's tentacles and make their new home on planets across the galaxy. \n\nFind creative solutions to each level's puzzles by making the Squidgies swing, fling, float, splat, stretch into tubes, and turn metallic. Some Squidgie powers can be combined together for even more mind-bending puzzle-solving techniques!\n\nGet enough Squidgies into the portal, and you'll takeover all three planets \u2014 enough room for even the most active Squidgie. Are you skilled enough to conquer them all? Try hard enough, you might even find some bonus planets to invade.\n\nThere are over 80 levels (and more on the way), each with their own unique feats to complete and highscores to beat.\n\nThere's more replayability than you can shake a Squidgie at. Note: please don't shake the Squidgies \u2014 they're sensitive!",
+        "languages": [
+            "en"
+        ],
+        "size": 578813952
     },
     "70010000016658": {
         "id": "0100E5800D32C000",
@@ -8083,7 +8124,7 @@
             "de",
             "ru"
         ],
-        "size": 1422917632
+        "size": 1488977920
     },
     "70010000017882": {
         "id": "010054C00D842000",
@@ -8347,7 +8388,7 @@
             "ko",
             "zh"
         ],
-        "size": 744488960
+        "size": 749731840
     },
     "70010000018063": {
         "id": "010000B00D800000",
@@ -8639,7 +8680,7 @@
             "ru",
             "zh"
         ],
-        "size": 691011584
+        "size": 734003200
     },
     "70010000018127": {
         "id": "01002B000D97E000",
@@ -10661,7 +10702,7 @@
             "ko",
             "zh"
         ],
-        "size": 14607712256
+        "size": 14664335360
     },
     "70010000018915": {
         "id": "01000D100DCF8000",
@@ -11286,9 +11327,11 @@
             "Adventure",
             "Puzzle"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Fear"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Daedalic GmbH",
         "frontBoxArt": null,
@@ -11669,6 +11712,47 @@
             "zh"
         ],
         "size": 1148190720
+    },
+    "70010000019159": {
+        "id": "0100EA300DE6E000",
+        "rightsId": null,
+        "name": "R\u00e9ussir : Code de la Route (French Highway Code)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191024,
+        "nsuId": 70010000019159,
+        "category": [
+            "Party",
+            "Education",
+            "Multiplayer",
+            "Training"
+        ],
+        "ratingContent": [
+            "Fear"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Microids",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3c0ea7764605da136966514603b290e91e0155b6b9a1d7667a9cf046718c2f1e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ac00d010589fffbd529d3670c4e466fca3f3614e7dc53fc09a8a053cf9f6f1cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5299072ecebc757458b03fc6b121f5b757e36de3e95cc4009c1333738fa37de1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d4671fb0929ea1c154e528605e65a8342c8ec245baa8cc9a4a08f6c9119d830f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/548c8048c0216a71e04deeb849d11f35de7219eba4bb16a00077b628e0ba000b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9295b6221c1f17d46cb0409a0b6bfaeebae61d8639482e5f4eda05d7e3f804b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2bacaa7270f40005c4126cab380428c1bc7b92073c49320f744c9f30eb9cc441.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/449f97440861f78971c29117caaf991037ad0a35e9144cd9719375a8641e22f0.jpg",
+        "intro": "Learn the French Highway Code and challenge your friends!",
+        "description": "Discover the best way to learn the French Highway Code: on Nintendo Switch\u2122! Prepare for the exam, test your knowledge and challenge your friends in exclusive mini-games. Enjoy all content in solo mode or with other players, overcome your blind spots with special quiz series, and reach the top of the online rankings. Your driving license is right around the corner! \n\n- Up to 4 players on the same screen: challenge your friends and family on their road safety skills!\n- Exclusive minigames: aim for the highest score in Survival Mode and learn to recognise shapes and icons with the Road Signs Game.\n- 3200 questions/answers fully voiced in French, covering every official topic and more. More than 100 complete lessons and 130 levels from easiest to hardest difficulty, to be prepared for every situation.\n- Custom experience: monitor your progress with the individual player profile. Discover your complete results, work on your weak points and unlock trophies as you improve!\n- Full compliance with the French Highway Code, featuring an Exam Mode recreating the exact conditions of the real exam. All content created by licensed road safety specialists. \n",
+        "languages": [
+            "fr"
+        ],
+        "size": 1584398336
     },
     "70010000019160": {
         "id": "010028D00BA1A000",
@@ -12341,7 +12425,7 @@
         "languages": [
             "en"
         ],
-        "size": 322961408
+        "size": 656408576
     },
     "70010000019301": {
         "id": "010006E00DFAE000",
@@ -13485,7 +13569,7 @@
             "https://img-eshop.cdn.nintendo.net/i/702e96d57ac66a25fa2cd0d2ea9735b355a2e4f9e48a986ceab6db894db906f6.jpg",
             "https://img-eshop.cdn.nintendo.net/i/2e651fa9eec20d89ac2943c80a15ac76250254f6a36a7cacdbe378866f61b9ff.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/90f64eb5af290efe8b3eed5d0ec9cde11f8739bb5ef007a284142a40670db6b0.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0c765f5e33d515bc39b91fb084ef9a0bd3b105a8dceabf8c55a9387750a9d8a.jpg",
         "intro": null,
         "description": "Join Mario, Sonic and friends for their greatest adventure yet at the Olympic Games Tokyo 2020! \n\nGo for gold as you compete in action-packed sports games, including four brand new events to Tokyo 2020 \u2014 Skateboarding, Karate, Surfing, and Sport Climbing, as well as a large selection of classic events. \n\nGet the party started on your Nintendo Switch with a variety of ways to play, including button play and motion controls in multiplayer game modes that support up to four players locally and up to eight players online.  \n\nPlay as Mario, Sonic, Yoshi, Amy Rose, Luigi, Dr. Eggman, and many more of your favourite characters.",
         "languages": [
@@ -13840,7 +13924,7 @@
             "de",
             "it"
         ],
-        "size": 1539309568
+        "size": 1686110208
     },
     "70010000019686": {
         "id": "0100E1800E202000",
@@ -14933,7 +15017,7 @@
             "ko",
             "zh"
         ],
-        "size": 42926604288
+        "size": 43146805248
     },
     "70010000019992": {
         "id": "010003900E46A000",
@@ -15215,7 +15299,7 @@
             "ko",
             "zh"
         ],
-        "size": 6282018816
+        "size": 6329204736
     },
     "70010000020045": {
         "id": "0100BDE00E4C0000",
@@ -16738,7 +16822,7 @@
             "ko",
             "zh"
         ],
-        "size": 2345664512
+        "size": 2387607552
     },
     "70010000020462": {
         "id": "010042800E748000",
@@ -17045,11 +17129,10 @@
             "Adventure"
         ],
         "ratingContent": [
-            "Mild Swearing",
-            "Sexual Innuendo"
+            "Strong Language"
         ],
         "numberOfPlayers": 1,
-        "rating": 12,
+        "rating": 16,
         "developer": null,
         "publisher": "Alliance",
         "frontBoxArt": null,
@@ -18459,11 +18542,9 @@
             "Shooter",
             "Arcade"
         ],
-        "ratingContent": [
-            "Mild Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 2,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "HAMSTER",
         "frontBoxArt": null,
@@ -19045,7 +19126,7 @@
             "ru",
             "zh"
         ],
-        "size": 1768947712
+        "size": 1769996288
     },
     "70010000021052": {
         "id": "010040A00EA26000",
@@ -20631,6 +20712,47 @@
         ],
         "size": 320864256
     },
+    "70010000021341": {
+        "id": "010012800EBAE000",
+        "rightsId": null,
+        "name": "Disney TSUM TSUM FESTIVAL",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191108,
+        "nsuId": 70010000021341,
+        "category": [
+            "Puzzle",
+            "Party"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f228804e89e7cb2cf7b0cacf759ee2a8b9b50a88f67fd63ded9aad9640564b21.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c2324d781f96fb359d9c7e2617c43e6867312909b035726b0aa043f25fc5a8d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd1c472f513e23e27d9b6853c3e4153071b17065bad88cd4c0d75b23bacac2b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75f13c9225cc93a4c91a545c5a568fe6cec9eb43fa27868d224f66fb9c5ba7ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52d6997a85a1f6fdbbfdfa32dd2510b92e147d97c7c98abfe27cf80711b04980.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b308a9c91cdc54f3fbd2b7369c72bc48a4c72a4c67e76ce2598f0e4ac74e916.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aeb3b9f0a4117aa08a27c4ec1e0b5a9fa73a56aa6b5f2733b8d0cf993f10e6bc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/08065de97bd55d6078b7322b579019f3b51d03a350a3e4089fa3c9c49ec38a2a.jpg",
+        "intro": null,
+        "description": "The popular \"Disney TSUM TSUM\" very own party game is now out on Nintendo Switch\u2122!\n\nA party game where cute characters from \"Disney TSUM TSUM\" unfold in a toy store with 10 exciting stages which include games such as curling, hockey, and many more!\n\nEnjoy the game in various ways by teaming up with friends or challenging them! Choose your favorite Tsum, and have a great time with families and friends!\n\nFurthermore, for the very first time, the nostalgic puzzle game now corresponds to online matches. Enjoy online plays with people from all over the world!\n\n\u203bA separate Joy-Con\u2122 is required to play this game with Nintendo Switch\u2122 Lite console.\n\u203bOne Joy-Con\u2122 per player is required to play the party games.\n\u203bHandheld mode game such as TSUM TSUM Puzzle is available.\n\u203bSystem, skills of Tsum and effects are adjusted to meet Nintendo Switch\u2122 specifications.\n\u203bOffline party games are available.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 2481979392
+    },
     "70010000021347": {
         "id": "01006A900EB1A000",
         "rightsId": null,
@@ -20731,8 +20853,7 @@
             "Adventure"
         ],
         "ratingContent": [
-            "Implied Violence",
-            "Mild Violence"
+            "Implied Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -21464,9 +21585,11 @@
             "Arcade",
             "Multiplayer"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Implied Violence"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Intragames",
         "frontBoxArt": null,
@@ -21493,7 +21616,7 @@
             "ko",
             "zh"
         ],
-        "size": 4272947200
+        "size": 3569352704
     },
     "70010000021567": {
         "id": "01002B300ECA2000",
@@ -22058,6 +22181,47 @@
         ],
         "size": 802160640
     },
+    "70010000021723": {
+        "id": "010018400E4FC000",
+        "rightsId": null,
+        "name": "Vortex Attack EX",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191024,
+        "nsuId": 70010000021723,
+        "category": [
+            "Arcade",
+            "Shooter",
+            "Multiplayer",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 3,
+        "rating": 3,
+        "developer": null,
+        "publisher": "KaleidoGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/47faca29b2fe9b9217d71c7b409a4b17b8029c19b0c4a262a8cf5dcc57b44b7d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bd73253e368016bfc8992588a02b651f85582a215e64e488ce6bbcccc5fc56b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cedfe8430ea404215fcc56c2b073a4ec1d0c4c329edbd967cc1fbd0f23d13649.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f02ea1855afd2a02f6755dc21688ebb57229243bd19e221a8acc6b73d3e85a8b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48fc73c9f50e1ef5411f15243079181e77c865cde1548aa611efb87740144325.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/429dedc6322b6543d4e61bb41e775db438e596f86da8fa0eb29dac252281908c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/45e01920e88bbf5a79f16ba9e769e985899a445fc6a887125366d539e8b7b7fb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9350fedd565ac117ec24935f56daa1c01c2f1af146a4b65594c1f0e31e1cf5ac.jpg",
+        "intro": "Black holes destruction . Hi-scores party.",
+        "description": "- Arcade shooter created for novice to pro: all skill levels welcome.\n- Play with your friends or against world hi-scores.\n- Unlock new ships, new upgrades and expert mode.\n- Highly re-playable!\n\nGalaxy is in danger with hostile ships swarming from the opening vortex. Blast the swarming hordes with huge variety of upgradeable ships. This frenetic arcade space shooter featuring worldwide leader-boards and intense local multiplayer mode will keep you playing until all ships are unlocked and galaxies saved.\n\nGame features:\n- Up to 3 simultaneous local players\n- 11 ship models (evolving up to 4 levels max)\n- 4 levels of difficulty. Adapted for all skill levels\n- 2 Game dimensions: Metal and Neon Dimension. (affects difficulty, number of levels and enemies)\n- 16 Game filters: Arcade, Phosphor CRT, VHS, Monochrome, Vintage, Lomo colours, Psychedelic, etc...\n- Fireworks particles festival\n- Online leader-boards (coming soon!)\n- Tons of individual ship upgrades\n- Over 150 levels featuring the innovative Vortex System, bosses and bonus\n- Multiplayer designed gameplay\n- Action Neo-retro FX and music\n- Arcade coin-op: Design and integration",
+        "languages": [
+            "ja",
+            "en",
+            "es"
+        ],
+        "size": 197132288
+    },
     "70010000021733": {
         "id": "0100FC000EE10000",
         "rightsId": null,
@@ -22561,10 +22725,10 @@
             "Other"
         ],
         "ratingContent": [
-            "Mild Violence"
+            "Moderate Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 12,
         "developer": null,
         "publisher": "QubicGames",
         "frontBoxArt": null,
@@ -22811,10 +22975,10 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Mild Violence"
+            "Moderate Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 12,
         "developer": null,
         "publisher": "Machineboy",
         "frontBoxArt": null,
@@ -23093,7 +23257,7 @@
     "70010000021917": {
         "id": "01000E000EEF8000",
         "rightsId": null,
-        "name": "Aldred - Knight of Honor",
+        "name": "Aldred Knight",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -23120,9 +23284,9 @@
             "https://img-eshop.cdn.nintendo.net/i/fd0bc1d3649322d55bc336c45f75cff80f72b4ff58b95b5235c2df10679900db.jpg",
             "https://img-eshop.cdn.nintendo.net/i/90cdebae97e50e4795c5bf6b35e36985a7f8b2241cbc8b235d39405085970f30.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/63f09d1161cf108fb441e9d83e76a14999dd39f915846f8f12b8c98dbfb92a36.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a68c165cfec8bce905cbde86cca9fe2115ea381f4144c79917408590e7ba8bc1.jpg",
         "intro": "A classic adventure of sword and magic in a 2D platform game",
-        "description": "In Knight of Honor you are Aldred, the most powerful swordsman of the divine flame, passing through innumerable obstacles and war bosses to rid the kingdom of a great evil.\n\nTo progress in the game you need to be careful, each monster must be faced in a different way, switching weapons and spells can help you a lot. The amount of obstacles increases at each level, so it is imperative that you get some potions and upgrades on the merchant.\n\nEach level contains objects to destroy, pieces to collect and people to rescue, if you are a player who likes challenges you will find many achievements in this 2D adventure game.\n\nFeatures:\n- A friendly classic art style\n- More than 20 different and challenging stages\n- Several bosses to defeat\n- Diferent weapons and spells\n- Three maps to explore\n- Hidden objects and fragments of story\n- Special objects to destroy and collect\n- Characters to rescue",
+        "description": "You are Aldred, the most powerful swordsman of the divine flame, passing through innumerable obstacles and war bosses to rid the kingdom of a great evil.\n\nTo progress in the game you need to be careful, each monster must be faced in a different way, switching weapons and spells can help you a lot. The amount of obstacles increases at each level, so it is imperative that you get some potions and upgrades on the merchant.\n\nEach level contains objects to destroy, pieces to collect and people to rescue, if you are a player who likes challenges you will find many achievements in this 2D adventure game.\n\nFeatures:\n- A friendly classic art style\n- More than 20 different and challenging stages\n- Several bosses to defeat\n- Diferent weapons and spells\n- Three maps to explore\n- Hidden objects and fragments of story\n- Special objects to destroy and collect\n- Characters to rescue",
         "languages": [
             "en"
         ],
@@ -23782,7 +23946,7 @@
             "ko",
             "zh"
         ],
-        "size": 1109393408
+        "size": 1116733440
     },
     "70010000022114": {
         "id": "0100EA300EFF0000",
@@ -25062,6 +25226,50 @@
         ],
         "size": 4345298944
     },
+    "70010000022418": {
+        "id": "0100B1900F0B6000",
+        "rightsId": null,
+        "name": "The Legend of Dark Witch",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191024,
+        "nsuId": 70010000022418,
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Simulated Gambling"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "INSIDE SYSTEM",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8000fc5c1183f2e1fb016d84531ce7bf871996bac7ff05ca80df011381a3ee87.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0ba8d6e91d99e6aa7da8e175798357b55ae9bf68a7ba1d43121fde61f11df8f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7ef513264d685926398fcc0890e416deecd29a586730a950fd3a49d2218cc28.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d4897528677956575c44bfe251f5327ebdb05016f16a979054014fd840ac4ddd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4fea04f2306a835132e3f2aa39914fd0232122b4e5868734dd9f6dae0f787555.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca101fcf5d046cc1480fb30046a0c2bdedc5f70a2cd430134e85484f7f0c5f37.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/58de89bf46d5303521ebbb131ceee06ca8d8cbe01aa1f9152aab5f30c0f8cd15.jpg",
+        "intro": "The Legend of Dark Witch is a 2D platform action game.",
+        "description": "Syega Crystals gave their powers to the people of the world, but somebody has stolen all of them...\n\nAfter all the Syega crystals are missing, the world plunges into darkness. As the dark witch Zizou, you must retrieve the missing Syega Crystals.\n\nThe Legend of Dark Witch is a 2D platform action game. Zizou can learn new attacks by defeating bosses. She will need every one of those attacks if she is going to save the world.\n\nOther Features:\n\n-A magical world beautifully depicted through in-game graphics.\n-Diverse levels that provide a fair challenge.\nAdditional bonuses that reward those who replay the game.\n-3 difficulty modes.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh"
+        ],
+        "size": 1775239168
+    },
     "70010000022427": {
         "id": "010008600F1F2000",
         "rightsId": null,
@@ -25497,7 +25705,7 @@
             "ru",
             "ko"
         ],
-        "size": 11741954048
+        "size": 11792285696
     },
     "70010000022560": {
         "id": "01008F600F2D0000",
@@ -25634,6 +25842,44 @@
             "ru"
         ],
         "size": 611319808
+    },
+    "70010000022585": {
+        "id": "01006AA00EE44000",
+        "rightsId": null,
+        "name": "Otokomizu",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191030,
+        "nsuId": 70010000022585,
+        "category": [
+            "Action"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "BIG BOYS STUDIO",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c3b9c72b0dd883f23916d96d42ee8aff456ad31f63b84b8dea4fa896dcf01f12.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/10c161ba9d119fc7683cf8b5eac19102f6bd64dd131151b1bd7a124a6dda05eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d09dcd42c2f7edeb5bd1a886328892c61f237156739ec59992075be206d4a73.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7fbfecf665f81560a08456c80e9698c6a23d0d606d935414d6201e266352526.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8eb7e896994abb303847d3f0758762f908d9b1ca351fe6881d773f4abff1aba0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd6cb11816ed2781efb97f656244752be09a8c7712fc3d4aa7adf5d2510d6fd5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bc5f7751015773d1928733dae383324e3f52b9f4f14dbff0932e2bfa69ba62fa.jpg",
+        "intro": null,
+        "description": "Hovering in the sky over Edo City with a loincloth!\nThis jet pack firefighting 3D action game has the most mysterious operation feeling ever!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 1814036480
     },
     "70010000022608": {
         "id": "010026B006802000",
@@ -26668,6 +26914,45 @@
         ],
         "size": 2874146816
     },
+    "70010000023138": {
+        "id": "0100ED700F718000",
+        "rightsId": null,
+        "name": "Desktop Rugby",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191024,
+        "nsuId": 70010000023138,
+        "category": [
+            "Sports",
+            "Action",
+            "Party",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "SAT-BOX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7e82475a950fdfa1a6fc9346bc7f0ba40a5b3719f55291558a950b89c7fbc127.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c1e944c7d9c6975196f029aa87dad4f42052c0f7e149fba74c0dc1ed424ce319.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40d784111881f5e781f219094ce38df18ad477c6d7f9bfdd54aef84df285b4da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/086746678492d22150cc38e86c266ab7e448ce3bf508506a37a3b4f2915cea72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e902a466819787042ce6a8b0045bd62f6c1910c4856365b4cc219ac00cb89b24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4b7051797d36bcf2838bffd1d5db1da0ba84db4ece8442a30d0c689b3651688.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dfd4409cb16c6b69316b9f6cb24e0fea6566127841fc9e0201c25fc1c0ee2882.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5442a8a30360b818b64b11159863ec33c131f2f96240f694a6e6cc070be11075.jpg",
+        "intro": "The thrill of a rugby match all on one desktop!\nEvery try is electrifying!\nEvery win is a feat of teamwork!",
+        "description": "All the excitement of rugby in the palm of your hand!\nEnjoy hair-raising scrums and dramatic conversions all through a casual control system!\nA whole field awaits on one school desk!\nCustomize your team with individual player strengths and lead them to victory!\n\n[Practice Game]\nPlay single player matches with ease!\nSeven-a-side or fifteen a side!\nPick up the rules here or through the tutorial!\n\n[Tournament]\nTake on the national and international sevens tournaments!\nSpecial rivals await at the internationals!\nTake on the best of the best to become the new world champions!\n\n[Friendly Game]\nPlay co-op and PvP matches with up to 4 players!\nWork together against quick-thinking NPCs or test your mettle against each other!\nPlay on a one-of-a-kind field guaranteed to bring out the rugby fan in anyone!\nCapsule Kick\nUse your points to obtain new items!\nHone your team's skills through a range of obtainable uniforms and power-up items!\n\n[Mini Game]\nGo for a sidestep try!\nDart your way past oncoming opponents to get the most points out of a try!\n\n[Team Selection]\nIt doesn't stop with uniforms and power-ups! Even the individual style of each player can be customized!\nPut together a star team to be reckoned with!",
+        "languages": [
+            "en"
+        ],
+        "size": 676331520
+    },
     "70010000023139": {
         "id": "010076000F6B8000",
         "rightsId": null,
@@ -27470,6 +27755,45 @@
         ],
         "size": 329252864
     },
+    "70010000024207": {
+        "id": "010027D00F63C000",
+        "rightsId": null,
+        "name": "Party Treats",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191025,
+        "nsuId": 70010000024207,
+        "category": [
+            "Party",
+            "Multiplayer",
+            "Board Game",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "QubicGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7c1050ab9e74f662156abadec6c121618e5c23194290fbf7b5227167b1be73cb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ef1c29a8aed9732d9e6f2c3193de8b89ebf40d888e8941aeab1033c42a12891c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b4cb5dc266410cceddf7a3092c94e9d651f9c21243088be9fbc2a8ffdcd5d8a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/565ded7ff3f8bc0c551a3889cdcf21982857bb3922f340314d1c7b9e8d406a88.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5600159a3aa63d7b9c1b405cc50924279a9f19a878ee1152f9d9cb7488decf56.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a7016ef04da5f6a32c31b402bd9da67e54d7a8bd968664419d658d7e6930358.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95e87d04d10e58c59b5d866ca234717400a37cf3d35e2770ff08bc00c7da0766.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6316fbc5c25aa209757512f118dea531c683f86ae23b36ec2261897c4ab2f961.jpg",
+        "intro": "Taste a unique recipe presented by the original publisher of Astro Bears Party and the creators of Timberman VS. Party with your friends as delicious treats.",
+        "description": "Party Treats is a funny and innovative local multiplayer game that can be played by up to 4 players.\n\nThe gameplay stands out from other party games and offers:\n \n\u25cf A unique \"Try, die, repeat\" recipe with Risks VS Rewards ingredients\n \n\u25cf Diverse cooperative modes & a delightful campaign mode\n \n\u25cf Wide range of characters and special abilities to choose from\n \nGather with your friends on the couch for hours of fun. Discover a unique take on party games.\n",
+        "languages": [
+            "en"
+        ],
+        "size": 498073600
+    },
     "70010000024390": {
         "id": "010034800FB60000",
         "rightsId": null,
@@ -27520,6 +27844,47 @@
             "zh"
         ],
         "size": 563085312
+    },
+    "70010000024427": {
+        "id": "0100F3A00FB78000",
+        "rightsId": null,
+        "name": "Mononoke Slashdown",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191031,
+        "nsuId": 70010000024427,
+        "category": [
+            "Action"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "ARC SYSTEM WORKS",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e7d786f13b6783677a922a3ed4ab089740f12685e41d1f8c1a462ce699ede916.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/754b5a9a663009ac68350d24019e640c4b6f006663d2e8cb4da9c8e62f5a421c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/509bb555aac2e7be02e4a56f4ac48354e093faa82f203a0eaa2dfe319e2e316a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b82af9a857e42c0e40db3481fbb5e0fd3a5315cab4d67a61849015513ff0c61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dbfc511ebd98409740590317e3b068446fe12f9df4efcfb30f5d5dc7f14c4478.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f3511ffaa9cd7c5e1c093265f3b72e7f8ce7833d2805fe07bc8c72b229e2a513.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f979ef79486eeda2eda98efb9425edba80907aad8e19f42fb04dcf7c896f4b5b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/10e91f578e409d09809042a6b9dd8daf1c9e151ca0593549219aca735d63b65f.jpg",
+        "intro": "Save the city from rampant ghosts, and give it back to its people!\nAn exciting new ninja action game!",
+        "description": "Control Kagemaru the ninja, using ninjutsu arts, kunai daggers and the katana to defeat ghosts and monsters in this 2D scrolling action game!\nKill the ghosts to collect in-game currency and use it to buy powerful weapons, armor, ninjutsu techniques to power-up, and return the city back to its people!\nWhat is more, every stage has secret challenges to complete.\nCan you take up the challenge to try and complete all the missions?\n\n\u25a0STORY\nIn a peaceful town, people were living in harmony.\nBut one day, an evil power slowly awakens from the depths beyond the mountain ridges.\nMysterious stones are said to be seen, first in the mountain, then in the fields, and eventually in the city.\nAnd from these stones, ghosts start apperaring successively, turning the peaceful life of the villagers into a nightmare.\nSuddenly, in the forest, a swordsman's blade shines in the night!\nIt is the katana of a ninja apprentice, [Kagemaru].\n\"Why won't the warriors come and help the villagers...\" Kagemaru already knew the answer, as the city and its castle were flooded with ghosts summoned by this evil power.\nWhile still an apprentice, Kagemaru now stands up fearlessly to fight the ghosts.\nIn order to save the city and its people, he will have to face the monsters alone.",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh"
+        ],
+        "size": 416284672
     },
     "70010000024541": {
         "id": "010005D00FC06000",
@@ -27610,6 +27975,47 @@
         ],
         "size": 128974848
     },
+    "70010000024559": {
+        "id": "0100A0300FC3E000",
+        "rightsId": null,
+        "name": "Perseverance",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191101,
+        "nsuId": 70010000024559,
+        "category": [
+            "Adventure",
+            "Action",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Cool Small Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/97ce80534927ae09935830b429656e5cfe5c32d35192f2c07ae298c9e816bafe.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/be21766406fb2b876682122ea833abe6c36217ab525a35d743f67d0a4006bb92.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/028b8bdfbf377a3ed17a17fcfc562625237c622f703ed25061d12464b5da7de1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8cb0183577b4303796fe690bc59b747d512622e11c164688e554aebcfd3c23d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c97389a475c1cebfb8d86a821d390f29d2361c3d746e4ee349645eeecda2139.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a1f9fdc9f572b05b87a816bb01c27dfc75abd44ce04b4f8a4c1eee6a2ee77f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b21768a06198057153ce753db50f16bf68118f6be810d01b2d2331d6a500ebad.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6ec6a1f04c785087caa3528a3659f970d2131eb1a7b3068ded0d33494c058601.jpg",
+        "intro": "A horror and drama-filled story revolving around two different characters whose paths cross in the middle of nightmarish events.",
+        "description": "You play as Jack Cutter, a father who is struggling to keep his family together. He\u2019s a \u2018go-to\u2019 guy in his hometown of Grey Ville. Research conducted in the nearby military base gives the town a mysterious aura. Residents prefer to stay away from it. Things take an unexpected turn when one of the experiments goes horribly wrong and the area is quarantined.\n\nMeanwhile a mysterious woman chases a fugitive. Her superiors expect her to fulfill her orders as usual... but they aren't telling her everything. The person she\u2019s after is more than what she appears to be.\n\nSoon both Jack and this mysterious agent will find themselves in the middle of a crisis that will change them forever.\n\nMain features:\n\n* PLAY At your own pace\n* IMMERSE yourself in a gripping story\n* CHOOSE and create your own version of Jack",
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "size": 537919488
+    },
     "70010000024580": {
         "id": "01007FB00FC5E000",
         "rightsId": null,
@@ -27684,6 +28090,46 @@
             "en"
         ],
         "size": 90177536
+    },
+    "70010000024862": {
+        "id": "010076600FD64000",
+        "rightsId": null,
+        "name": "One Person Story",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191108,
+        "nsuId": 70010000024862,
+        "category": [
+            "Puzzle",
+            "Adventure",
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Drageus Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0e9ec78e7f66613f8c1dd91fb082645101fe1fa556ad78321de5985963cd77a5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6a78fa06c8b0342737110997d99729f2a08d05e18364e756ff39cfddf3aa6b77.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e5053602a53f7b0ac402d1529bfcd661e9a6781c1385bd6770fa48727ea7a67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/649a229be307fccc307359dbce9c8a515f4b9ae738c63d59da18ca55d213bf5f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17540a7b162a39402ed54e8a74b6d4d234d8365e5bf26ec84852292443f7884d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b17df4a2bc2fb74f2a9444bc711593282c5afaa6cfdafd07015fddf9c2f7474a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c0e388cf67916316dc24fd7b65d61e1e03ea64eb94ac860dfa049b2e6b24052.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5260d542cab3d2fd07abd95c94573b384bc9af8645ca2f8dc0d6defbffe19818.jpg",
+        "intro": "This game is a personal story. Just like life, it\u2019s a puzzle of obstacles and friendships, a rollercoaster of downs and ups, pain and hope.",
+        "description": "You will evolve and grow up in a minimalist and beautiful environment full of characters, objects and events that represent life situations. Sometimes there is pain, like when our little hero crushes on spikes. But friends always help and open the doors that stop us \u2013 so we can keep moving on. Thinking hard always offers solutions to our problems. Discover and make your own journey now with us!\n\nFeatures of One Person Story:\n-    A sensorial and emotional experience to remember\n-    Interesting situations that will challenge your problem-solving skills\n-    100 levels with various mechanics introduced on the go\n-    Meditative soundtrack and graphics",
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "size": 123731968
     },
     "70010000025421": {
         "id": null,
@@ -28329,7 +28775,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 1350565888,
+        "size": 1352663040,
         "parentId": "01008E500AFF6000"
     },
     "70030000008602": {
@@ -28517,7 +28963,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 2606759936,
+        "size": 2692743168,
         "parentId": "0100B6400CA56000"
     },
     "70030000008870": {
@@ -28852,6 +29298,62 @@
         "languages": null,
         "size": 1962934272,
         "parentId": "0100A9800E9B4000"
+    },
+    "70030000009541": {
+        "id": null,
+        "rightsId": null,
+        "name": "Mario & Sonic at the Olympic Games Tokyo 2020 Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000009541,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 2031091712,
+        "parentId": "010086000E148000"
+    },
+    "70030000009601": {
+        "id": null,
+        "rightsId": null,
+        "name": "Jet Kave Adventure Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000009601,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 831520768,
+        "parentId": "0100E4900D266000"
     },
     "70050000004224": {
         "id": "0100F8F0000A3065",
@@ -31910,6 +32412,72 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000013141": {
+        "id": "01003DE00C95F017",
+        "rightsId": null,
+        "name": "Jailbreak Support Goods",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191023,
+        "nsuId": 70050000013141,
+        "category": null,
+        "ratingContent": [
+            "Sex"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Idea Factory",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2bca460b3cd9e65c65a2e41c548a4b020dd68825685def204c52c961f700eeb3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06a2fb1eb7d83269186fe3551fc5c8219f5acb6a5ee25e9187d799f7795cc82b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/89fb34553edc2a1d092aa0055e74a31a3b951be8b2a321fe59bd79192e04380b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/01afdc59b3e11960d8c807b0027adb93ce929ff308edbbe4ab77949a3d312fe8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4472193448ddbd006c7f9641e7d29fa3077904661cd3a90a23e06c44b4461dd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6a5a0f34cfcb7a8b5bf597e9db9298a0699cf7935c597eaaac7a146170319190.jpg",
+        "intro": null,
+        "description": "Get outta Jail with the following equipment and items! Only for Mary Skelter 2.\n\nEquipment:\n- Circlet of Agreement\n- Tunic of Amnesty\n- Bracelet of Wardenship\n- Stiletto of Prejudice\n\nConsumable Items:\n- Homing Amplifier x 50\n- Doctor\u2019s Med Kit x 20\n- Healing AED x 10\n- All-Heal Capsule x 10\n- Flash Grenade x 50",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000013142": {
+        "id": "01003DE00C95F008",
+        "rightsId": null,
+        "name": "Mary Skelter Game Item",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191023,
+        "nsuId": 70050000013142,
+        "category": null,
+        "ratingContent": [
+            "Sex"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Idea Factory",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/137bc321512dbcc9b9026ef4d3c5de6a46195669e4eaeb9d032b32c2cce02181.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da4d697ff10e716f11ca63c410ad50b50984357abf6fa564f513a2d873023f93.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5673d72fb67fb779f32c01ee86bae7229ed0a7b3e44c6d6d772e087702af886e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4ff36db090b695f74b5a560b6b84bc96ec2714923897924683a1eaf7672b2f66.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e11e8801643fc1991a850d6ed9aeee5ddab81f19f9cb20abe65c4467f2960243.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5bc5c1d5d78cf8e74687d64627d2db394dc785ac2fe81d76b108198918c9f383.jpg",
+        "intro": null,
+        "description": "This add-on content immediately unlocks the first game, Mary Skelter: Nightmares!",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000013170": {
         "id": "01001CE00D7B7012",
         "rightsId": null,
@@ -32652,7 +33220,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20190912,
+        "releaseDate": 20191031,
         "nsuId": 70050000013360,
         "category": null,
         "ratingContent": [
@@ -34925,6 +35493,105 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000014038": {
+        "id": "01003DE00C95F013",
+        "rightsId": null,
+        "name": "Blood Maidens' Swimsuits",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191023,
+        "nsuId": 70050000014038,
+        "category": null,
+        "ratingContent": [
+            "Sex"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Idea Factory",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/770adde6b88f4887ed29af654cd853c8aea046a93faa13ba19d5432d26e46052.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d72b91a38d93e84bfc7ca0f13b44875f998be87629923c9842a7f529cd5dafe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ac42c77a57a9b43d621ce657c545916fa8162afd95c8091ff4c09b14339c29f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12096dbf08071ea5aa5784ff52029916cd176af906a7de06781c2a473cf0cb2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c66523aa74e9bc8fd3f1468c797069d32b3b855a8d80c7c30f6f2649c6dce4e0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ba3fd1cb78d43fb297e6056ad72932a96e91a575004a774cf4cd58cc17364b2b.jpg",
+        "intro": null,
+        "description": "No Blood Skelter-ing in the pool! This unlocks a new Job class, skills, and outfits for the Blood Maidens. Only for Mary Skelter 2.",
+        "languages": null,
+        "size": 101711872
+    },
+    "70050000014039": {
+        "id": "01003DE00C95F015",
+        "rightsId": null,
+        "name": "Death end re;Quest Job Attire 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191023,
+        "nsuId": 70050000014039,
+        "category": null,
+        "ratingContent": [
+            "Sex"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Idea Factory",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d9a806d74856a2ccc8e0c768f9288b7805e9329e97ea7fd5963a18d6f77fcad3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd0ace263ced42c9083b0395fa231e0e6ec4f57ecad655081e945096b74414b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca21c117ddf997355638f0f5c2615afb18751c63c26496de01e25b8f23e5ef98.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11ace776c1e57737cb9b693a5420fe7013e9b96f98dcc56565f71622d0a771ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/372826b58ad31ab440d09b6e89d14f8636513d2ca683c498c6d66c79ad36aedb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5280ee874aa021e22b490b548408929ac7f615965e4b0c714e72915b65febbf7.jpg",
+        "intro": null,
+        "description": "Unlock a new Job class, skills, and outfits inspired by Death end re;Quest for the following characters:\n\n- Otsuu\n- Little Mermaid\n- Hameln\n- Gretel\n- Rapunzel\n- Kaguya\n\nOnly for Mary Skelter 2.",
+        "languages": null,
+        "size": 58720256
+    },
+    "70050000014040": {
+        "id": "01003DE00C95F016",
+        "rightsId": null,
+        "name": "Death end re;Quest Job Attire 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191023,
+        "nsuId": 70050000014040,
+        "category": null,
+        "ratingContent": [
+            "Sex"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Idea Factory",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e52f9db6409e0d7b7b9d68ef2e589c7e76e40d212478a4eb3d543a101a8c8b47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c1211081197c168c60425bf3cf53d9531d3fccfdeaa40b43bc2c00cca86eb907.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31801c20d0eb54ac1a55aabcf8bd816ba17347c0f0d1bfbef84be14ea6f9ad83.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e113c21763771fc7c40c944a61b09ed048c0b584fdc23868a149271cae8ddb7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/541f88d2a601f8aaa9058309f8e8b4199ae3f31374a61f1a8dd14d6b25f356be.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b70b05a6cc373030fac03bdba2bdd42098ac18198571c7a01f10c17749df8575.jpg",
+        "intro": null,
+        "description": "Unlock a new Job class, skills, and outfits inspired by Death end re;Quest for the following characters:\n\n- Thumbelina\n- Snow White\n- Sleeping Beauty\n- Cinderella\n- Red Riding Hood\n- Alice\n\nOnly for Mary Skelter 2.",
+        "languages": null,
+        "size": 59768832
+    },
     "70050000014050": {
         "id": "0100FE000EC25001",
         "rightsId": null,
@@ -35294,6 +35961,65 @@
         "description": "Unlocks a new costume for Kohaku in the Base menu.\n*Will not display during cut-scenes.",
         "languages": null,
         "size": 5242880
+    },
+    "70050000014501": {
+        "id": "0100B2B00E7AB005",
+        "rightsId": null,
+        "name": "Dusk Diver - Angel in white uniform",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191025,
+        "nsuId": 70050000014501,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Pqube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d4f1245d21dc0fe4cd15f6d9de03474321949b753fdff1af1f557e3afcb12e64.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f634fa5cb8e40b9d1f04b841ea17433db1a1dc07af76c1c8a372b4003f29f682.jpg",
+        "intro": "A vibrant anime/action RPG with action-orientated combat in a unique Taipei setting.",
+        "description": "Allows Yumo to change the outfit in Tumaz Mart's Dressing room.\n- Angel in white uniform (Only for Yumo)\n\nYumo the white angel. Next patient,please! ",
+        "languages": null,
+        "size": 7340032
+    },
+    "70050000014502": {
+        "id": "0100B2B00E7AB006",
+        "rightsId": null,
+        "name": "Dusk Diver - News anchor costume",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191025,
+        "nsuId": 70050000014502,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Pqube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b31f842c7b20185ccf56a8e35219db1dce4b7cc841fb0fe97b9c67297ea3f4db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ce6d4416cbd4a9f2cf187d304b99905e10ee06dff1c4d9eecb0f25e48e13535.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b4dbdcc28b412a8af81782cf963a9ff2010af16d51e5698d3ab39623e4f8065b.jpg",
+        "intro": "A vibrant anime/action RPG with action-orientated combat in a unique Taipei setting.",
+        "description": "Allows Yumo to change the outfit in Tumaz Mart's Dressing room.\n- News anchor costume (Only for Yumo)\n\nNews anchor Yumo will bring the breaking news to you!",
+        "languages": null,
+        "size": 8388608
     },
     "70050000014533": {
         "id": "01005DE00D05D004",
@@ -36110,6 +36836,33 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000015021": {
+        "id": "0100B2B00E7AB007",
+        "rightsId": null,
+        "name": "Dusk Diver - Welcome Summer! Swimsuits",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191025,
+        "nsuId": 70050000015021,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Pqube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/53721904e883498ce8141918102ee7425fcc33fbfeed9d5a5e4677ba6c735b33.jpg",
+        "intro": "A vibrant anime/action RPG with action-orientated combat in a unique Taipei setting.",
+        "description": "Allows Yumo and Guardians to change their outfits in Tumaz Mart's Dressing room.\n- Welcome Summer! swimsuits (Yumo)\n- Welcome Summer! swimsuits (Leo)\n- Welcome Summer! swimsuits (Bahet)\n- Welcome Summer! swimsuits (Le Viada)\n\nWould you like to enjoy summer in Ximending with Yumo?",
+        "languages": null,
+        "size": 14680064
+    },
     "70050000015156": {
         "id": "0100B6400CA57064",
         "rightsId": null,
@@ -36486,6 +37239,33 @@
         "description": "A \"Bowl\" hairstyle part for Outers.\n\nNote:\n- A copy of DAEMON X MACHINA is required to use this content.\n- This content is cosmetic only, and not an equipment item. Using it will not affect your status.",
         "languages": null,
         "size": 4194304
+    },
+    "70050000015441": {
+        "id": "0100B2B00E7AB008",
+        "rightsId": null,
+        "name": "Dusk Diver - Stage Costumes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191025,
+        "nsuId": 70050000015441,
+        "category": null,
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Pqube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/995000297aecc4878bfdede444197019986822c09a1c6f8fcd2637ee9aeff413.jpg",
+        "intro": "A vibrant anime/action RPG with action-orientated combat in a unique Taipei setting.",
+        "description": "Allows Yumo and Guardians to change their outfits in Tumaz Mart's Dressing room.\n- Stage costumes (Yumo)\n- Stage costumes (Leo)\n- Stage costumes (Bahet)\n- Stage costumes (Le Viada)\n\nLet's perform a live show on the street!",
+        "languages": null,
+        "size": 20971520
     },
     "70050000015470": {
         "id": "010075200F1CB001",
@@ -38385,7 +39165,7 @@
         "intro": "Welcome to the Next",
         "description": "The NBA 2K20 Digital Deluxe Edition includes the following digital items:\n\u2022 35,000 Virtual Currency\n\u2022 10,000 MyTEAM Points\n\u2022 10 MyCAREER Skill Boosts\n\u2022 MyPLAYER Clothing Capsule \n\u2022 10 MyTEAM League Packs (delivered one a week)\n\u2022 10 MyTEAM Heat Check Packs (delivered one a week beginning at the start of the NBA season)\n\u2022 1 Sapphire MyTEAM Cover Athlete Card ",
         "languages": null,
-        "size": 42926604288
+        "size": 43146805248
     },
     "70070000006369": {
         "id": null,
@@ -38414,7 +39194,7 @@
         "intro": "Welcome to the Next",
         "description": "The NBA 2K20 Legend Edition includes the following digital items:\n\u2022 100,000 Virtual Currency\n\u2022 50,000 MyTEAM Points\n\u2022 20 MyCAREER Skill Boosts\n\u2022 MyPLAYER Clothing Capsule \n\u2022 MyPLAYER Apparel Collection \n\u2022 MyPLAYER Shoe Collection\n\u2022 20 MyTEAM League Packs (delivered one a week)\n\u2022 20 MyTEAM Heat Check Packs (delivered one a week beginning at the start of the NBA season)\n\u2022 5 MyTEAM Themed Packs (one per theme release across the next five releases)\n\u2022 2 Sapphire MyTEAM Cover Athlete Cards ",
         "languages": null,
-        "size": 42926604288
+        "size": 43146805248
     },
     "70070000006421": {
         "id": null,
@@ -38780,7 +39560,7 @@
         "intro": null,
         "description": "With the Deluxe edition, you get the complete WRC 8 game, the Legendary Car pack with three iconic cars (Alpine A110, Ford Escort RS and Lancia Delta HF Integrale) and experienced crew members to add to your staff in Career mode.\n",
         "languages": null,
-        "size": 14624489472
+        "size": 14681112576
     },
     "70070000006861": {
         "id": null,
@@ -38814,7 +39594,7 @@
         "intro": null,
         "description": "Languages supported:\nVoice & Text: English, Fran\u00e7ais, Deutsch, \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \nText: Italiano, Espa\u00f1ol, \u7b80\u4f53\u4e2d\u6587, \u7e41\u4f53\u4e2d\u6587, \u65e5\u672c\u8a9e, \ud55c\uad6d\uc5b4, \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430, Polski, Portugu\u00eas (Brasil), \u010cesk\u00fd, T\u00fcrk\u00e7e, \u0627\u0644\u0639\u0631\u0628\u064a\u0629\n\nUpgrade your experience with the Deluxe Edition which includes:\n\nThe Sinking City \nThe Worshipers of the Necronomicon DLC: 3 side quests with the infamous Necronomicon and new monsters\nMerciful Madness DLC: three brand new side quests exclusive to the Nintendo Switch\u2122!\n\nThe Sinking City is an adventure and investigation game set in an open world inspired by the universe of H.P. Lovecraft, the master of Horror. The half-submerged city of Oakmont is gripped by supernatural forces. You're a private investigator, and you have to uncover the truth of what has possessed the city\u2026 and the minds of its inhabitants.\n\nAn oppressive atmosphere and story inspired by the universe of H.P. Lovecraft.\nA vast open world that can be explored on foot, by boat, in a diving suit\u2026\nHigh replay value thanks to an open investigation system: each case can be solved in a number of ways, with different possible endings depending on your actions.\nAn arsenal of weapons from the 1920s with which to take on nightmarish creatures.\nManage your mental health to untangle the truth behind the madness.\n",
         "languages": null,
-        "size": 9332326400
+        "size": 9336520704
     },
     "70070000006870": {
         "id": null,
@@ -39131,11 +39911,13 @@
         "nsuId": 70070000007341,
         "category": null,
         "ratingContent": [
+            "Implied Violence",
+            "Mild Violence",
             "Users Interact",
             "In-game purchases"
         ],
         "numberOfPlayers": null,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Gameloft",
         "frontBoxArt": null,
@@ -39151,7 +39933,7 @@
         "intro": null,
         "description": "Get a head start with the Asphalt 9: Legends Starting Racer Bundle! Unlock incredible supercars and resources to boost your progress, and challenge your friends and family in split-screen multiplayer right from the beginning.\nThis bundle contains:\n\u2022 Asphalt 9: Legends game\n\u2022 20 Blueprints to unlock the BMW 3.0 CSL Hommage \n\u2022 20 Blueprints to unlock the DS Automobiles DS E-Tense \n\u2022 20 Blueprints to unlock the Lotus Evora Sport 410 \n\u2022 20 Blueprints to unlock the Dodge Challenger 392 HEMI Scat Pack\n\u2022 25 Blueprints to unlock the Porsche 911 Carrera GTS \n\u2022 200,000 Credits\n\u2022 300 Tokens",
         "languages": null,
-        "size": 1731198976
+        "size": 4194304
     },
     "70070000007521": {
         "id": null,
@@ -39184,6 +39966,31 @@
         "description": "The concept of this title, the latest in the series to depict a new \"Atelier\" world, is \"True-to-life youths that develop together, even if just a little bit\".\nIt is the story of a girl and her friends who are about to become adults, discovering what is most important to them.\nTo depict the story of the main characters discovering things they've never seen before, we've created fields with natural shadows that allow you to feel the breath of the world. Graphics have been further enhanced, allowing for a world of daily-life and adventure to be depicted in a new way.\n\nMain points\n\u25a0Advanced \"Synthesis\" system & \"Location Points\"\nThe \"Synthesis\" system in which players combine materials to create items has been revamped.\nNow, in addition to being able to understand the effects of synthesis visually, the system allows you to enjoy the experience of developing recipes more than ever before.\nAlso, we've included \"Location Points\" that players can create through synthesis!\n\n\u25a0Use different items to gather new materials!\nWhen \"Gathering\" the necessary materials for synthesis, the items you receive change depending on the tools you use to gather them, so it will be easier to obtain the items you want.\n\n\u25a0Intense battles\nWith a combination of turn-based command battle and real time elements, enjoy intense battles where the choices you make determine the outcome! It is a system that will allow you to sense the feeling of strengthening bonds with your friends more than ever.\n\nStory\nThe main character is Ryza, an ordinary girl.\nTired of boring village life, she escapes the village to gather with her good friends in a secret location to talk of their dreams and plan thrilling adventures.\nOne day, the determined Ryza and company decide to head for the forbidden \"island across the shore\" as their first exploration trip.\nTogether with the alchemist and other friends they meet there, they have a \"summer adventure\" that they will never forget.",
         "languages": null,
         "size": 5487198208
+    },
+    "70070000007561": {
+        "id": null,
+        "rightsId": null,
+        "name": null,
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70070000007561,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
     },
     "70070000007602": {
         "id": null,
@@ -39479,7 +40286,7 @@
         "intro": "The Future Is Now.\u00a0 Are You With Us?",
         "description": "Overwatch: Legendary Edition includes:\n\u2022\tRedeemable code for Nintendo Switch Online Individual Membership 3-month subscription (Terms apply. nintendo.com/switch-online)\n\u2022\tThe full game\n\u2022\t5 Legendary Hero Skins\n\u2022\t5 Epic Hero Skins\n\u2022\t5 Origin Hero Skins\n\nUnlock a Golden Loot Box\nPurchase and log into Overwatch on Nintendo Switch by December 31, 2019 to unlock a Golden Loot Box with at least 1 guaranteed Legendary item!\n\nBegin your Watch\nJoin the fight for the future in the world of Overwatch\u00ae and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash a dizzying array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.\n\nExperience the Extraordinary\nSpeed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers such as Dragonstrike, Transcendence, Graviton Surge, and so much more. Every hero has a unique set of devastating, game-changing abilities.\n\nPlay Heroes, Not Classes\nEvery hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.\n\nFight for the Future...Together\nTeamwork is imperative for survival as you enter the fight with friends and comrades. Careful coordination will prove the difference between victory and defeat as your team combines the formidable powers at your disposal to devastating effect.\n\nShift Your Perspective\nJust when it seems like your team is destined to go down in defeat, switch heroes on the fly and change the course of the battle. But don\u2019t forget that your opponents can do the same. Master the game within the game as both teams shift strategies and change heroes to try to gain the upper hand.\n\nThe World Is Your Battlefield\nProtect the secrets of the mysterious Temple of Anubis in Egypt, safely escort an EMP device through King\u2019s Row in London, and do battle at many other unique locations. Every map has its own distinct feel with unique gameplay and team-based objectives.",
         "languages": null,
-        "size": 11741954048
+        "size": 11792285696
     },
     "70070000008501": {
         "id": null,
