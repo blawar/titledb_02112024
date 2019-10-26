@@ -4115,7 +4115,7 @@
             "de",
             "ru"
         ],
-        "size": 1323302912
+        "size": 1320157184
     },
     "70010000020281": {
         "id": "0100A4200DA76000",
@@ -11323,6 +11323,33 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0557510f140ac84559dc700eece69cdd4c9c60f7e4525c6f5b79640e8af5d624.jpg",
         "intro": null,
         "description": "This is the \"Daemon X Machina\" decal for your Arsenal that uses calligraphy from calligrapher Souun Takeda.\n\nThe in-game design does not contain Mr. Souun's signature.\nA copy of \"DAEMON X MACHINA\" will be required to use this content.\nThis content is purely cosmetic, and using this will not have any status changes.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000017101": {
+        "id": "010017700B6C3001",
+        "rightsId": null,
+        "name": "Space Costume",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191108,
+        "nsuId": 70050000017101,
+        "category": null,
+        "ratingContent": [
+            "Mild Cartoon Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Playful",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5d71fb154d3a9fbe56aae8e1c2ec000ca73bf607917514a7d788da30d6dd5b95.jpg",
+        "intro": null,
+        "description": "Purchase this title before 9pm PST on November 7, 2019 and receive Lucky's Space Suit costume!",
         "languages": null,
         "size": 4194304
     },

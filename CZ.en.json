@@ -2369,9 +2369,12 @@
             "Action",
             "Other"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Implied Violence",
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Coatsink Software",
         "frontBoxArt": null,
@@ -3786,11 +3789,13 @@
             "Arcade"
         ],
         "ratingContent": [
+            "Implied Violence",
+            "Mild Violence",
             "Users Interact",
             "In-game purchases"
         ],
         "numberOfPlayers": 4,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Gameloft",
         "frontBoxArt": null,
@@ -3799,7 +3804,7 @@
             "https://img-eshop.cdn.nintendo.net/i/78d85ed1c0cfd939df6f3dee4584ebb062ae118ddbc9374826c49b81e043becf.jpg",
             "https://img-eshop.cdn.nintendo.net/i/071e943670b62bc05d969b0ff71b22ffd8f295aeff42b567767bbeed0bc272e4.jpg",
             "https://img-eshop.cdn.nintendo.net/i/8ef07b8e6b200950cd5f7a275da6e83b606119b3231db9d524b44a2635e5187a.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/8f94ac6e5d44fc880ecfed36be8d478aa8a4c94543c3a92a7cc176de5595ffb4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fe143e0af052efa8c47f997384bbe6f622bb98f50d9913e6bfdd88eed5d2dcf9.jpg",
             "https://img-eshop.cdn.nintendo.net/i/bfa7b9c4daa9d4f50591a8d7320be8cc6d2127be4b21def54103ab9ba4949174.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6dcb9aa9eb9ac56609f27e9fb6c695dfb3c06a05be70f9521ab8bc227ca7451c.jpg"
         ],
@@ -3818,7 +3823,7 @@
             "ko",
             "zh"
         ],
-        "size": 1727004672
+        "size": 2011168768
     },
     "70010000014956": {
         "id": "010092A00C4B6000",
@@ -4314,9 +4319,11 @@
             "Puzzle",
             "RPG"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Fear"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "indienova",
         "frontBoxArt": null,
@@ -4702,7 +4709,7 @@
             "ko",
             "zh"
         ],
-        "size": 93323264
+        "size": 110100480
     },
     "70010000015874": {
         "id": "010018100CD46000",
@@ -5810,7 +5817,7 @@
             "it",
             "nl"
         ],
-        "size": 3489660928
+        "size": 6629097472
     },
     "70010000016607": {
         "id": "0100A0600C610000",
@@ -17936,11 +17943,7 @@
         "intro": null,
         "description": "Winner of over 250 Game of the Year awards, The Witcher 3: Wild Hunt is a story-driven, open world adventure set in a dark fantasy universe. \n\nYou are Geralt of Rivia, mercenary monster slayer. At your disposal is every tool of the trade: razor-sharp swords, lethal mixtures, stealthy crossbows, and powerful combat magic. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down the Child of Prophecy, a living weapon that can alter the shape of the world.\n\nThe Complete Edition contains every piece of downloadable content released for the game, including two massive story expansions: Hearts of Stone & Blood and Wine. It's the perfect opportunity to enter this world for the first time or relive the adventure \u2014 on the go! \n\nFeatures\n\n-A gigantic open world to explore.\nVisit the luxurious and corrupt city of Novigrad, face the frigid cold of the wind-swept Skellige islands, and challenge the dark forces roaming the forlorn, ravaged No Man\u2019s Land. Sail through open seas, dive in search of long lost artifacts or gallop your mount into combat \u2014 the world of the Witcher beckons to be explored. \n\n-Unparalleled novel-like story spanning over 150 hours of gameplay.\nWith over 100 hours of core and side-quest gameplay and over 50 hours of additional content, The Witcher 3: Wild Hunt combines the intense, plot-driven pull of traditional RPGs with the freedom of choice only open world games can offer. Make choices and face their consequences to unlock endings tailored to how you play.  \n\n-Now on Nintendo Switch\u2122 \u2014 play at home and on the go.\nDeveloped to take advantage of everything Nintendo Switch\u2122 has to offer, the game delivers a truly powerful on-the-go experience.",
         "languages": [
-            "en",
-            "es",
-            "fr",
-            "de",
-            "it"
+            "en"
         ],
         "size": 31048335360
     },
@@ -18607,7 +18610,49 @@
             "de",
             "it"
         ],
-        "size": 6023020544
+        "size": 8161067008
+    },
+    "70010000020927": {
+        "id": "01005BA00E6BE000",
+        "rightsId": null,
+        "name": "Arcade Archives GOLF",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191025,
+        "nsuId": 70010000020927,
+        "category": [
+            "Sports",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/592f9c418b00f6d836cf0a7c83af4bcbf60a8ab537cf17727f7bfa106f6f18cd.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8309eeb99e6fc37bffe9e5f9f3fbc558df440aac876dda6c1a7c93eefe3d6881.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3fcc3ad8c6c5b9257224b953b0265d208fec1a0efc06f9c5fc426b89b63004d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61784c62b349c36ef90f3b66162eb89d732c0f89d241d2747eb526e4a243d24c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/923964f6a7578d5e6b91021d473d69c8977c8ef2d6abb1aa5ea74aa037673e80.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70bb66df6765ec0dc89c3c9c450a542866084663cd36e9ad53b28b9e960ac923.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eecd43ad4fb58ccc5f8017f49e377d19f27e36254c47150a48dd62c0e5aafd1a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cf0785961e18addea2e8fa9ea0838b772b508bb481f43607562ebfb7c6192756.jpg",
+        "intro": "Read the wind and aim for a hole-in-one! Conquer all 18 holes!",
+        "description": "\"GOLF\" is a sports game released by Nintendo in 1984.\nPay close attention to the wind direction and speed, choose the best club, and aim for the lowest score as you play across 18 holes.\nYou can also challenge a friend in the 2 player mode.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 81788928
     },
     "70010000020930": {
         "id": "01004EC00E634000",
@@ -25322,10 +25367,10 @@
             "Adventure"
         ],
         "ratingContent": [
-            "Simulated Gambling"
+            "Mild Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 12,
+        "rating": 7,
         "developer": null,
         "publisher": "INSIDE SYSTEM",
         "frontBoxArt": null,
@@ -27755,6 +27800,48 @@
         ],
         "size": 255852544
     },
+    "70010000023689": {
+        "id": "010060200F954000",
+        "rightsId": null,
+        "name": "Jewel Rotation",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191025,
+        "nsuId": 70010000023689,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Arcade",
+            "Strategy"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Sprakelsoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4859761ca26a7ae1652207822a8f3572ae877a3b9c94b686f6998e149a211555.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/31f47801b7f05a2d29765650721ad4ac594c7eb1ffe9f10797300f680682986d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2087899b0cb81f7c4dcb5966862c0100b6e15dd78d6b7a09da312d5b5adc4316.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8162e63d320d65f751b7ab4283a45332995b221d1d092eeb734246e473e42891.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c36e5917174b6525abee77f41014c21fef7c8a127b3e7efb77c88a2030f4e165.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/67076de3b588397324482e7a5db8ff2b36ddcaf9a5f6e15667b3367ccb740827.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5cb865209f7ce71ce02ea550b1263005bacd32fb71b5982c68c782dc2ec1f04f.jpg",
+        "intro": null,
+        "description": "\"Jewel Rotation\" is a fun and addictive puzzle game.\nIt features:\n\u2714 Three game modes: Beginner, Expert and Infinite\n\u2714 HD graphics\n\u2714 Tutorial for an easy start!\nInstructions:\nThe board consists of four side-to-side layers filled with sparkling jewels.\nYou have a quota to clear a number of specific kinds of jewels. \nYou clear jewels by rotating the layers so that four of the same jewels line up. \nWhen you get a four of a kind, those jewels vanish and are replaced by more jewels. \nIf you meet your jewel quota, you go to the next level for a tougher puzzle. \nYou also have a time limit, so you better get those jewels out of there quickly!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "pt"
+        ],
+        "size": 395313152
+    },
     "70010000023691": {
         "id": "01000A700F956000",
         "rightsId": null,
@@ -29461,6 +29548,32 @@
         "languages": null,
         "size": 1962934272,
         "parentId": "0100A9800E9B4000"
+    },
+    "70030000009521": {
+        "id": null,
+        "rightsId": null,
+        "name": "Jewel Rotation Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000009521,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 395313152,
+        "parentId": "010060200F954000"
     },
     "70030000009541": {
         "id": null,
@@ -40096,7 +40209,7 @@
         "intro": null,
         "description": "Get a head start with the Asphalt 9: Legends Starting Racer Bundle! Unlock incredible supercars and resources to boost your progress, and challenge your friends and family in split-screen multiplayer right from the beginning.\nThis bundle contains:\n\u2022 Asphalt 9: Legends game\n\u2022 20 Blueprints to unlock the BMW 3.0 CSL Hommage \n\u2022 20 Blueprints to unlock the DS Automobiles DS E-Tense \n\u2022 20 Blueprints to unlock the Lotus Evora Sport 410 \n\u2022 20 Blueprints to unlock the Dodge Challenger 392 HEMI Scat Pack\n\u2022 25 Blueprints to unlock the Porsche 911 Carrera GTS \n\u2022 200,000 Credits\n\u2022 300 Tokens",
         "languages": null,
-        "size": 4194304
+        "size": 2015363072
     },
     "70070000007521": {
         "id": null,
