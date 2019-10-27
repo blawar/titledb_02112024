@@ -4183,7 +4183,7 @@
             "de",
             "it"
         ],
-        "size": 4431282176
+        "size": 4432330752
     },
     "70010000015353": {
         "id": "01005F600CB0E000",
@@ -8130,7 +8130,7 @@
             "de",
             "it"
         ],
-        "size": 552599552
+        "size": 501219328
     },
     "70010000017879": {
         "id": "0100A0C00D846000",
@@ -13723,7 +13723,7 @@
             "ko",
             "zh"
         ],
-        "size": 817889280
+        "size": 823132160
     },
     "70010000019646": {
         "id": "0100F2900B3E2000",
@@ -15472,7 +15472,7 @@
             "de",
             "ru"
         ],
-        "size": 1323302912
+        "size": 1320157184
     },
     "70010000020092": {
         "id": "0100E0400E320000",
@@ -15901,7 +15901,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12de6039775380dc093fb509e5faeea6517e378ce5b414df168829361e514c02.jpg",
         "intro": "It doesn't take a hero to save the world.\nHero Express: \"Heroic deliveries, right on time!\"",
-        "description": "A mad 2D physics based driving game that lets you drive all over the world. Who's gonna save the day when the hero's in trouble? Of course the Hero Express! Drive around crazy tracks, powerup your vehicles and save the world.",
+        "description": "A mad 2D physics based driving game that lets you drive all over the world. Who's gonna save the day when the hero's in trouble? Of course the Hero Express! Drive around 11 crazy tracks and 11 totally crazy arenas, powerup your vehicles and save the world.",
         "languages": [
             "en"
         ],
@@ -24201,7 +24201,7 @@
             "ru",
             "zh"
         ],
-        "size": 3952082944
+        "size": 3953131520
     },
     "70010000022151": {
         "id": "01009C600F02C000",
@@ -28263,6 +28263,43 @@
         ],
         "size": 363855872
     },
+    "70010000024687": {
+        "id": "01007BF00FCB0000",
+        "rightsId": null,
+        "name": "Blindy",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191108,
+        "nsuId": 70010000024687,
+        "category": [
+            "Arcade",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/22aae00420916ef6419b12af641df374c43bf7a3642cdc8d1555123d324069d3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4882b492361950f1e7be4f1a343c7d4b3fbc730bc757dc37f9ae2f08f2bd48f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e92cd6c06aa0642fced1af23ede4544d42aedb579896e8aa925ff215151c191.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/898892516eb4cea5d10b20c95be6cff76bd99cabb8413753deba841d7bc0b717.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71e8426f5ed3dcbeb80b8cbef704a5ec6fb2cd50ebae216fcd30b4fa57fbd4a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/88a3503d8eaf925665bdc2ec4caa4aeac63097bb4329810b09652e9bd6f96042.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d77dae2a1f99591f7af85c3d2d4edcadd1de97866944b7eb4d347555ac869c90.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42f0e9cf35287dadccfc446e7e822cda5fd861f89c679a37c97eb2ed28adb7e4.jpg",
+        "intro": "Take 2D platformer, add some souls-like difficulty, get rid of all useless stuff and turn lights off - that's Blindy. \n",
+        "description": "It is not a unfair platformer but its very challenging.\nPlay 60 unique levels in 4 game modes!\nEach level requires skill, death and practice. Blindy is a hardcore platformer, an exciting, challenging game for anyone. Still want more?\nFind a coin hidden in every level!\nTry to not smash your device.",
+        "languages": [
+            "en"
+        ],
+        "size": 51380224
+    },
     "70010000024711": {
         "id": "01000E800FCB4000",
         "rightsId": null,
@@ -28579,7 +28616,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 672137216,
+        "size": 1137704960,
         "parentId": "01003AB00983C000"
     },
     "70030000007624": {
