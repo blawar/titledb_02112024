@@ -6869,7 +6869,7 @@
             "ko",
             "zh"
         ],
-        "size": 6596591616
+        "size": 6514802688
     },
     "70010000019367": {
         "id": "0100F2400D434000",
@@ -22926,6 +22926,31 @@
         "description": "\n\u53ef\u7372\u5f97\u300c\u5a01\u666e\u300d\u8207\u300c\u5e15\u5983\u300d\n\n\u800c\u4e14\u9084\u53ef\u5f97\u5230\u300c\u80e1\u8fea\u300d\u3001\u300c\u5927\u773c\u4ed4\u300d\u3001\u300c\u5c3c\u83ab\u300d\u8207\u300c\u8331\u8482\u300d\u7b494\u6b3eTsum\u7684\u65e9\u671f\u7372\u5f97\u6b0a\u3002",
         "languages": null,
         "size": 20971520
+    },
+    "70050000017326": {
+        "id": "0100C2D00EBD5001",
+        "rightsId": null,
+        "name": "\u725b\u670d\u88dd",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191028,
+        "nsuId": 70050000017326,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/672f8224aecbcdddd53ede1181d9b30d76a84fcdfc5280542cb96e04a8e5922b.jpg",
+        "intro": null,
+        "description": "\u725b\u670d\u88dd",
+        "languages": null,
+        "size": 4194304
     },
     "70070000002461": {
         "id": null,
