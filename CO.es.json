@@ -995,7 +995,7 @@
             "ko",
             "zh"
         ],
-        "size": 6828326912
+        "size": 6865027072
     },
     "70010000001801": {
         "id": "0100E65002BB8000",
@@ -1496,6 +1496,48 @@
             "zh"
         ],
         "size": 7129268224
+    },
+    "70010000004492": {
+        "id": "01008DB008C2C000",
+        "rightsId": null,
+        "name": "Pok\u00e9mon\u2122 Shield",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191115,
+        "nsuId": 70010000004492,
+        "category": [
+            "Juego de rol"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/959762efe1ebe8eb3e3eae454f7c6ee307df06446885dbab62f8bec7e2b4d91b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/31ee74fe5360c4e76f72a6a4747c0771a4d6cd1a88d00690ea2f97caa9b16009.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7efd9a639826a4cd4eb655ad489a882e9ab9c2f2cd28fad2e9b589c9630a730b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed2ec03e6aa1f54c7d1c809dfd345b18cc2bd35f5726080689d4eb818ddf0b06.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c49172b16b091d661750c2d2b9e70e263f29ce20abf47dda6bd78a8273cd7fa0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/436a4088cf4346d24ab7d52b4207f9ac5e30963272dbcb3aa0f6aa1d206cfbfe.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6a824ace8e4b9504eb2937a1a054536d5dc2538ef8c9ef5ac7f1d9ab0f39a78a.jpg",
+        "intro": "Una nueva regi\u00f3n llena de Pok\u00e9mon nunca antes vistos",
+        "description": "Una nueva generaci\u00f3n de Pok\u00e9mon est\u00e1 por llegar a la consola Nintendo Switch\u2122. Convi\u00e9rtete en un entrenador Pok\u00e9mon, emb\u00e1rcate en una nueva aventura en la regi\u00f3n de Galar y \u00a1descubre el misterio detr\u00e1s de los Pok\u00e9mon legendarios Zacian y Zamazenta! Explora el \u00c1rea Silvestre, una vasta extensi\u00f3n de terreno donde los jugadores podr\u00e1n controlar la c\u00e1mara libremente. Participa en Incursiones Dinamax* ** en donde los jugadores se enfrentar\u00e1n a gigantescos y superpoderosos Pok\u00e9mon conocidos como Pok\u00e9mon Dinamax.\n\nComienza tu aventura al elegir uno de los tres nuevos compa\u00f1eros Pok\u00e9mon: Grookey, Scorbunny o Sobble y encuentra nuevos y conocidos Pok\u00e9mon mientras atrapas, combates e intercambias. Los jugadores podr\u00e1n controlar la c\u00e1mara y explorar vastas \u00e1reas alrededor de ellos en el \u00c1rea Silvestre. Haz equipo con otros jugadores de manera local o en l\u00ednea en las nuevas Incursiones Dinamax que son cooperativas. Los entrenadores que posean el objeto especial Maxi-Pulsera podr\u00e1n dinamaxizar a sus propios Pok\u00e9mon. Prep\u00e1rate para la siguiente aventura Pok\u00e9mon en los juegos Pok\u00e9mon\u2122 Sword y Pok\u00e9mon\u2122 Shield.\n\n\u2022 Atrapa, combate e intercambia Pok\u00e9mon en una nueva aventura en la regi\u00f3n de Galar \n\u2022 Escoge uno de los tres nuevos compa\u00f1eros Pok\u00e9mon y encuentra Pok\u00e9mon nunca antes vistos\n\u2022 \u00a1Descubre el misterio detr\u00e1s de los Pok\u00e9mon legendarios Zacian y Zamazenta!\n\u2022 Los jugadores podr\u00e1n controlar la c\u00e1mara en la vasta \u00c1rea Silvestre\n\u2022 \u00a1Haz equipo con otros entrenadores para participar en Incursiones Dinamax* **! \n\u2022 Combate a Pok\u00e9mon Dinamax en Incursiones Dinamax e intenta atraparlos* **",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 10244587520
     },
     "70010000004606": {
         "id": "0100CD5008D9E000",
@@ -4167,7 +4209,7 @@
             "ko",
             "zh"
         ],
-        "size": 1274019840
+        "size": 1829765120
     },
     "70010000020033": {
         "id": "01006BB00C6F0000",

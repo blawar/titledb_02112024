@@ -306,7 +306,7 @@
             "ko",
             "zh"
         ],
-        "size": 6828326912
+        "size": 6865027072
     },
     "70010000001701": {
         "id": "0100E46006708000",
@@ -5405,7 +5405,7 @@
             "ko",
             "zh"
         ],
-        "size": 492830720
+        "size": 824180736
     },
     "70010000013411": {
         "id": "01003AB00983C000",
@@ -6456,6 +6456,54 @@
         ],
         "size": 1094713344
     },
+    "70010000014147": {
+        "id": "0100A8200C372000",
+        "rightsId": null,
+        "name": "Headsnatchers",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191107,
+        "nsuId": 70010000014147,
+        "category": [
+            "Action",
+            "Sport",
+            "Mehrspieler",
+            "Party"
+        ],
+        "ratingContent": [
+            "Gewalt"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Iceberg Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/43fb9280903cd1504a04e7d1783d5462f869b954046457ee19960e1c6ba9fc17.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b4fefd39d8c457564a790b8d1ff932ea8e4b0f0dd8bd13e5f51cd22c9ee2ef76.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03c53c54c3ae5fc9ce6c62b5c3ea5d8ed338ded4bba6f258ef75feac3f9b25b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94eef2bb074c6e2ff31de4e740ea95a5b99a6392bdd5451888134164afc407ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f637293639431c0edd58816447f4b6fe268863e73fa3fd5b8fe11d5bde642da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/659497c173180f5fdc037ce5407a0b5b0209c031bb0c765308858d4df7639a3e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5468f65c18a8adf7cd605a07b52da3084b571852b13980cd96c9641d624e6633.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9b5425370dd3aef11c9481c22e132a1424dd5d9c570ed47c5b4795fb31544984.jpg",
+        "intro": "Verlier blo\u00df nicht den Kopf! ",
+        "description": "Headsnatchers ist ein superhektisches Partyspiel f\u00fcr bis zu 4 Spieler \u2013 lokal oder online*! Fordere deine Freunde zu abgedrehten Pr\u00fcgeleien heraus, schnapp dir ihre K\u00f6pfe und mach dummes Zeug damit \u2013 jederzeit und \u00fcberall auf Nintendo Switch\u2122!\n\n- Schnapp dir die K\u00f6pfe! Und roll sie! Dunke sie! Sp\u00fcl sie! Es gibt 25 genial abgefahrene Level, jeder mit eigenen Gefahren, Waffen und M\u00f6glichkeiten, deinen Freunden eins auszuwischen!\n\n- So viele K\u00f6pfe! W\u00e4hle aus 100 einzigartigen K\u00f6pfen! Das reicht dir nicht? Dann mach dir deinen eigenen! Mit dem Kopf-Editor kannst du ohne Ende K\u00f6pfe erschaffen! \n\n- Spiele zu Hause oder unterwegs mit Nintendo Switch\u2122! Bis zu 4 Spieler k\u00f6nnen im Tornado- oder Wechselmannschaft-Modus spielen oder sich an den zuf\u00e4lligen Herausforderungen der Headsnatchers Show versuchen!\n\n- Ganz allein? Wage dich ins Zombieschloss im Einzelspielermodus \u2013 ein actiongeladenes Jump 'n' Run voller Fallen, Abgr\u00fcnde und Horden von Untoten!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 2416967680
+    },
     "70010000014153": {
         "id": "0100BA200C378000",
         "rightsId": null,
@@ -7009,7 +7057,7 @@
             "ko",
             "zh"
         ],
-        "size": 802160640
+        "size": 837812224
     },
     "70010000014582": {
         "id": "01008CD00C5FC000",
@@ -15624,8 +15672,7 @@
         ],
         "ratingContent": [
             "Abstrakte Gewalt",
-            "Alkoholkonsum",
-            "Tabakkonsum"
+            "Seltene Schreckmomente"
         ],
         "numberOfPlayers": 4,
         "rating": 6,
@@ -17980,9 +18027,11 @@
             "Action",
             "Adventure"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Seltene Schreckmomente"
+        ],
         "numberOfPlayers": 2,
-        "rating": 0,
+        "rating": 6,
         "developer": null,
         "publisher": "HeroCraft",
         "frontBoxArt": null,
@@ -17995,7 +18044,7 @@
             "https://img-eshop.cdn.nintendo.net/i/1ce482b102e2e995bf3a5eeaf0cef4471ecddddd7c229dda628a2b6f6980f802.jpg",
             "https://img-eshop.cdn.nintendo.net/i/5312571c712b727abb92e044067584039392ea9ade728ec0609768a239546ee7.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e32d3ebc982bc25b46f885680e52c0ac4d7e87724702297046254e2699f58309.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9b587f2b20daadc0f168a3ff6b55cd9abda916dd162ace091ec7277a28a437d0.jpg",
         "intro": null,
         "description": "Hyperforma ist eine fesselnde Geschichte \u00fcber einen einsamen Forscher, der eine Reise in die \u00dcberreste des alten Cyberspace im \"Ancient Network\",  dem Artefakt einer mysteri\u00f6sen, verschwundenen Zivilisation der Vergangenheit, unternimmt, in der Hoffnung, die Geheimnisse ihrer Meister zu enth\u00fcllen.\n\nAuf seiner Suche trifft der Held auf monumentale \"lebendige\" Schnittstellen und \u00fcberwindet zahlreiche Hindernisse, w\u00e4hrend er durch die komplexesten Verteidigungssysteme bricht, um schlie\u00dflich die Wahrheit zu entdecken, nicht nur \u00fcber die dramatischen Ereignisse der Vergangenheit, sondern auch \u00fcber sein eigenes Wesen.\n\nDas Gameplay von Hyperforma stellt eine Neuerfindung eines klassischen r\u00e4tselbasierten Arcade-Spiels dar, indem der Spieler komplexe virtuelle Verteidigungssysteme hacken muss.\n\nBereite dich auf eine faszinierende Reise durch eine einzigartige Welt vor, inspiriert von den Werken von William Gibson, Dan Simmons und Peter Watts.\n\nDie Spielfunktionen:\n- Eine atmosph\u00e4rische Cyberpunk-Szenerie; \n- Eine Vielzahl von Levels und einzigartige Bosse;\n- Eine philosophische Science-Fiction-Geschichte;\n- Knifflige R\u00e4tsel; \n- Wundersch\u00f6ne Grafik; \n- Ein beeindruckender Soundtrack. \n\nHyperforma auf der Nintendo Switch\u2122 bietet ein v\u00f6llig neues, auf das System zugeschnittenes Erlebnis. Zu den neuen Funktionen geh\u00f6ren:\n- Ein brandneuer 2-Spieler-Versus-Modus mit Controller-Sharing;\n- Gyroscope Steuerungs-Optionen; \n- HD Rumble Unterst\u00fctzung;\n- Eine komplett \u00fcberarbeitete Oberfl\u00e4che und eine verbesserte Farbabstufung.",
         "languages": [
@@ -23361,6 +23410,52 @@
         ],
         "size": 311427072
     },
+    "70010000019102": {
+        "id": "0100E5D00DE2C000",
+        "rightsId": null,
+        "name": "Bau-Simulator 2 US - Console Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191106,
+        "nsuId": 70010000019102,
+        "category": [
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "astragon",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1af18eb072c4169b3683b3b2bec915f7eaca9589761dd08f908238c5eb0fb67f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/aff20269ba47a836796437cf5bc315916f0dfd81f9f2b557711fd8056c2f077b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd8ce42ac16a6799b16226fd53cb0b33df7f92e605813de2b00116600b2f0d44.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58053f40748300345fdd6c65f5cb4253ea5c1a865066540349995c4fb7288f9d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e60357f88811adae4ff266d1d42309f6bc94264be549c21b6aff8b3f6c5e1f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6fba6456af989c48d42b12fb63a79824e7770ea0089f58088c91e5ce410e4368.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a747ae5e5bfd7bee30df55a4b5b7a04b8c49aa4cde4115348715fb81340d409.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f05d2b6bbc45cd4feb9823370c29a584fb58e8dc71df14624cc78aa95dba8b05.jpg",
+        "intro": null,
+        "description": "DEIN EIGENES BAUUNTERNEHMEN\nNachdem Du Deine eigene Firma gegr\u00fcndet hast, kannst Du nun Schritt f\u00fcr Schritt neue Regionen von Westside Plains, der offenen Spielwelt von Bau-Simulator 2 US - Console Edition, erkunden und immer gr\u00f6\u00dfere und lukrativere Bauauftr\u00e4ge annehmen. \n\nUMFANGREICHER FUHRPARK MIT \u00dcBER 40 FAHRZEUGEN UND GER\u00c4TEN\nOriginal lizenzierte Fahrzeuge und Ger\u00e4te von Caterpillar, Liebherr, Palfinger, Bell Equipment, STILL, ATLAS, Mack Trucks, MEILLER Kipper und Kenworth. Darunter der Kettendozer D8T, der Baggerlader 430F2 und der Muldenkipper 745C von Cat sowie der PK 27002 SH Ladekran von Palfinger, der 81K Turmdrehkran und der LTM 1300 Mobilkran von Liebherr, der Radlader L310 von ATLAS und der B45E Muldenkipper von Bell Equipment sowie den T880 von Kenworth.\n\n\u00dcBER 60 UNTERSCHIEDLICHE BAUAUFTR\u00c4GE\nErkunde Westside Plains und meistere \u00fcber 60 vielf\u00e4ltige und anspruchsvolle Bauauftr\u00e4ge, darunter die Sanierung br\u00fcchiger Verkehrswege, den Wiederaufbau einer Eisenbahnbr\u00fccke, kleinere Gartenarbeiten, das Errichten neuer Wohnh\u00e4user und Industriehallen sowie der Transport von Waren und Maschinen, die Konstruktion neuer Apartmentgeb\u00e4ude, die Ausbesserung von Kan\u00e4len und viele andere Aufgaben.\n\nINKLUSIVE STRASSENBAU UND \u2013SANIERUNG\nDer Bau-Simulator 2 US - Console Edition bietet Dir zum ersten Mal auf einer Konsole die M\u00f6glichkeit, Stra\u00dfenbau bzw. die Sanierung maroder Verkehrswege durchzuf\u00fchren. Speziell daf\u00fcr entwickelte Maschinen von Caterpillar erm\u00f6glichen Dir ein ganz neues Spielerlebnis und sorgen so f\u00fcr noch mehr Abwechslung im Baualltag.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 2196766720
+    },
     "70010000019105": {
         "id": "0100DD300CF3A000",
         "rightsId": null,
@@ -25928,13 +26023,15 @@
         "intro": "Action-RPG-Spiel, in dem Ihre Wahl die Geschichte steuert.",
         "description": "Quest Hunter ist ein Action-RPG-Spiel, in dem Ihre Wahl die Geschichte steuert. Finden Sie Tonnen von Sch\u00e4tzen, l\u00f6sen Sie R\u00e4tsel, r\u00fcsten Sie Ihren Helden auf, leveln Sie die F\u00e4higkeiten auf und bek\u00e4mpfen Sie Feinde. Spielen Sie von der Couch aus, allein oder mit Freunden, oder machen Sie eine Online-Party mit bis zu vier Spielern!\n\nBesonderheiten\n\n+ Ein dramatisches Rollenspiel: beeinflussen Sie die Entwicklung des Geschehens, indem Sie die Antworten in den Dialogen ausw\u00e4hlen. Bringen Sie die heimt\u00fcckischen Pl\u00e4ne der Feinde ans Licht. Retten Sie die Welt von der ewigen Dunkelheit!\n\n+ Koop-Spiel: spielen Sie Online-Koop mit Ihren Freunden oder \"Couch-Koop\" auf einem Bildschirm (bis zu 4 Spieler). K\u00e4mpfen Sie Schulter an Schulter gegen das \u00dcbel oder bereiten Sie ihren Feinden ein Massengrab!\n\n+ Generierbare Dungeons: fordern Sie Ihr Gl\u00fcck heraus, suchen Sie einen Ausgang aus dem Dungeon. Wo finden Sie ihn dieses Mal? Wer lauert auf Sie hinter der Ecke?\n\n+ R\u00e4tsel und Puzzles: Schieben, drehen, anz\u00fcnden, umschalten, ausgraben\u2026 Also, l\u00f6sen Sie zahlreiche Aufgaben. Suchen Sie nach den Schatzkarten und werden Sie reicher als der reichste Kr\u00f6sus.\n\n+ F\u00e4higkeiten und Superkr\u00e4fte: Leveln Sie Ihren Charakter und entwickeln Sie neue F\u00e4higkeiten. Ihr Charakter wird zu einer unbesiegbaren Maschine, die die Feinde zerschmettert!\n\n+ Waffen, R\u00fcstung und Gegenst\u00e4nde: Finden, schaffen und leveln Sie Ihre Waffen und R\u00fcstung auf. Brauen Sie Zaubertr\u00e4nke oder produzieren Sie Bomben. Die Entscheidung, ob Sie eine Schaufel und einen Strohhut oder eine Klinge und einen Helm nehmen, treffen Sie!\n\n+ Monster und Bosse: Z\u00fcnden Sie eine Fackel und Sie verschrecken geheimnisvolle Bestien, die aus der Dunkelheit herausgekrochen sind! Geben Sie Geld den heimt\u00fcckischen R\u00e4ubern und Sie bleiben am Leben! Finden Sie Zugang zu den listigen Bossen!\n\n+ Sch\u00e4tze und Troph\u00e4en: F\u00fcllen Sie Ihre Taschen mit Troph\u00e4en der niedergeschmetterten Feinde. Finden Sie alle Verstecke. Graben Sie alle Sch\u00e4tze der Dunklen Welt aus!\n\nUnd vergessen Sie nicht: Nur im Licht einer Fackel sind Sie in Sicherheit!",
         "languages": [
+            "ja",
             "en",
+            "pt",
             "fr",
             "de",
             "ru",
             "zh"
         ],
-        "size": 2287992832
+        "size": 2468347904
     },
     "70010000019474": {
         "id": "0100BF500207C000",
@@ -27734,10 +27831,11 @@
             "Simulation"
         ],
         "ratingContent": [
-            "Explizite Gewalt"
+            "Explizite Sprache",
+            "Gewalt"
         ],
         "numberOfPlayers": 1,
-        "rating": 18,
+        "rating": 16,
         "developer": null,
         "publisher": "Plug In Digital",
         "frontBoxArt": null,
@@ -28623,7 +28721,7 @@
             "ko",
             "zh"
         ],
-        "size": 1274019840
+        "size": 1829765120
     },
     "70010000020034": {
         "id": "01006BB00C6F0000",
@@ -28752,6 +28850,48 @@
             "en"
         ],
         "size": 327155712
+    },
+    "70010000020061": {
+        "id": "010089400E4E2000",
+        "rightsId": null,
+        "name": "Little Briar Rose",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191010,
+        "nsuId": 70010000020061,
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Tabakkonsum"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Elf Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c25665c27a84d18684e55b80180f7870e8ee31b1645deca94b37109325692d0e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9e2b24be64ef28725c3313f7fb1bc0cfd3fe27929899948731bc57281b068637.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a4ad74929ae9723763aa9498d79d4702e20dad2b52e53b8059056de8b3d12bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/45fd876038f5591d20154e9ff0ce535fb469373f9c7b5294380b54db9657bf9d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/34fb61a06fa6ea453f9907317616daa53391da3332b19741bc37534bbf3257c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6fa4e7e82fb3d69a14797f016d70d5231eca23528a2068a0bd825b9e38b6e8c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5692361043348571ab305dc62626bbcf60ee43b70c388c44b28f2f6c63b4423b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3316914d7a9092fac75ef9e44c8a98f9d75172bfc1d47e5b2387f4b7fc6e5224.jpg",
+        "intro": "A stained glass-styled adventure inspired by Sleeping Beauty.",
+        "description": "An ancient legend, a cursed castle surrounded by brambles, a forest inhabited by funny enchanted creatures and a sweet princess sleeping in it. And, obviously, a fearless prince!\n\nThis is what Little Briar Rose is made out of. In this particular stained glass-styled graphic adventure the player will help a whole dynasty of princes complete their quest. Be careful though, many will try, but only one shall prevail!\n\nFeatures:\n- Enjoy the hand-drawn graphics, inspired by the stained glass-style art.\n- Relive the Brothers Grimm\u2019s \u201cLittle Briar Rose\u201d with an adventure full of magic.\n- Catch the hints of western and eastern traditions.\n- Explore a fairy-tale and fun world, inhabited by weird and unique creatures.\n- Challenge your skill with minigames and puzzles!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "it"
+        ],
+        "size": 354418688
     },
     "70010000020083": {
         "id": "010047800E516000",
@@ -31364,7 +31504,7 @@
             "ko",
             "zh"
         ],
-        "size": 3757047808
+        "size": 3198156800
     },
     "70010000020728": {
         "id": "010082B00E8B8000",
@@ -32382,7 +32522,7 @@
             "en",
             "fr"
         ],
-        "size": 4854906880
+        "size": 4958715904
     },
     "70010000020956": {
         "id": "0100BB200E9BA000",
@@ -39774,7 +39914,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20191101,
+        "releaseDate": 20191111,
         "nsuId": 70010000022641,
         "category": [
             "Simulation",
@@ -57475,6 +57615,39 @@
         "description": "Optional herunterladbares Sprachpaket Koreanisch f\u00fcr die Overwatch Legendary Edition auf Nintendo Switch.",
         "languages": null,
         "size": 540016640
+    },
+    "70050000017063": {
+        "id": "0100B6800B5C9002",
+        "rightsId": null,
+        "name": "Stranger Sins",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191028,
+        "nsuId": 70050000017063,
+        "category": null,
+        "ratingContent": [
+            "Abstrakte Gewalt",
+            "Alkoholkonsum",
+            "Seltene Schreckmomente"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "tinyBuild Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e0bba1053adb645ce9970d22426253f81bebdecd4abfbb2853aa42516bd97963.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ba5cd5b582a92236543e00559330ba8bb465b1db19812546792e99fc389f728.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c74c40d010ee38581fd458fe2b1ae2a17e58806cb9d41c19c6877782ada46414.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e6240da6d64bd5b3bfe0118972807feb9a3ab09401e56b01234b73374f4ef972.jpg",
+        "intro": "In der ersten gro\u00dfen Handlungs-Erweiterung wirst du deine eigene Taverne bauen und die Vergangenheit der Welt von Graveyard Keeper erforschen.",
+        "description": "- 4-8 Stunden zus\u00e4tzliches Gameplay.\n- Baue und betreibe deine eigene Taverne. Endlich geh\u00f6rt dir deine eigene Bar!\n- Organisiere Rattenrennen und Standup-Shows.\n- Lerne die Dorfbewohner besser kennen und hilf ihnen bei dutzenden von Auftr\u00e4gen.\n- Hilf Gerry dabei, seine Erinnerungen zur\u00fcckzubekommen.\n- Erfahre, was vor 200 Jahren geschehen ist. Entdecke die Geschichte der Spielwelt und deiner Rolle in ihr.\n\nEs geht nicht nur um die Vergangenheit. Erinnerst du dich an den Holzf\u00e4ller, den Imker, die Br\u00fcder Corey und Tress und andere stumme NPCs? Fast alle von ihnen haben in dieser Erweiterung etwas zu sagen! Und irgendwie sind sie alle noch durchgeknallter als im Hauptspiel. Auf der Suche nach mysteri\u00f6sen Artefakten wirst du mehr \u00fcber die Hintergrundgeschichte und die Beziehungen der Dorfbewohner untereinander erfahren... wenn du sie davon \u00fcberzeugen kannst, mit dir zu reden.",
+        "languages": null,
+        "size": 4194304
     },
     "70070000002281": {
         "id": null,
