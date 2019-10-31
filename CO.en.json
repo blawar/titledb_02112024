@@ -981,7 +981,7 @@
             "https://img-eshop.cdn.nintendo.net/i/4ed43984dd7de804af55d407df1d96e9c91cfa318d861956d34339ab35dcf214.jpg",
             "https://img-eshop.cdn.nintendo.net/i/2b99781bb3be15319c34d59a45fea821ec71c96cbcc41a3aac882765e482a8ad.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d59857ab07f07f0c8aef006964620bd51bc96195e817d523d05ab39e1d631119.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2b166fb3197dacfde1d939acd6a976b9fbe3b1a32c54f9f0d2c8d23efb22412d.jpg",
         "intro": "The hotel is haunted. Mario is missing. And our only hope is\u2026Luigi?!",
         "description": "Luigi\u2019s invited to the towering Last Resort hotel, but when Mario and friends go missing, our green-clad hero will have to conquer his fears to save them! Slam, blow away, and vacuum up ghosts with the all-new Poltergust G-00, and join forces with Gooigi to overcome the puzzling contraptions and mischievous boss on each themed floor. And that\u2019s just the Last Resort. Enter the ScareScraper for 8-player local wireless or online co-op gameplay. \n\nSee if you can defeat all the ghosts, rescue all the toads, or clear other objectives before time runs out\u2026in the ScareScraper! And for more mini-game madness, compete on teams at the ScreamPark! Whether you play with friends or wander the hotel alone, you\u2019ll be sucked in by the atmospheric music and ghoulish d\u00e9cor of every cobwebby corner you explore. Why not take in the cinematic sights and sounds with a friend? In the main adventure, you and a friend can play together as Luigi and Gooigi in two-player co-op! Gooigi can walk on spikes, slip through tight spaces, and help Luigi overcome obstacles he can\u2019t tackle alone. Never hurts to have a friend in this hotel; it may not be very spooky, but Luigi begs to differ!\n\n\u2022\tCatch ghosts and solve puzzles to rescue Mario and friends in the Last Resort hotel\n\u2022\tEach floor of this towering hotel is themed, from the d\u00e9cor to the puzzles to boss!\n\u2022\tUtilize the functions of the all-new Poltergust G-00: Pummel ghosts with a Slam, break through defenses with the Suction Shot, and blow back groups with a Burst\n\u2022\tLuigi can call upon and control Gooigi, his all-green doppelganger, who can do what Luigi can\u2019t\n\u2022\tGooigi can slip through tight spaces, walk on spikes, and help Luigi overcome obstacles\n\u2022\tChange between Luigi and Gooigi in single player, or let a friend play as Gooigi for 2-player co-op\n\u2022\tUp to 8 players can work together to ascend the Scarescaper via local wireless or online\n\u2022\tIt\u2019s Team Luigi vs. Team Gooigi in a mini-game battle to see which is the ultimate team of ghost hunters\n\nPaid DLC will come to Luigi\u2019s Mansion 3 in the future, adding new content to the ScareScraper and ScreamPark!",
         "languages": [
@@ -1508,10 +1508,16 @@
         "releaseDate": 20191115,
         "nsuId": 70010000004492,
         "category": [
+            "Adventure",
             "RPG"
         ],
-        "ratingContent": [],
-        "numberOfPlayers": null,
+        "ratingContent": [
+            "Comic Mischief",
+            "Mild Cartoon Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
         "publisher": "Nintendo",
@@ -1525,8 +1531,56 @@
             "https://img-eshop.cdn.nintendo.net/i/436a4088cf4346d24ab7d52b4207f9ac5e30963272dbcb3aa0f6aa1d206cfbfe.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6a824ace8e4b9504eb2937a1a054536d5dc2538ef8c9ef5ac7f1d9ab0f39a78a.jpg",
-        "intro": "A whole new region full of never-before-seen Pok\u00e9mon",
-        "description": "A new generation of Pok\u00e9mon is coming to the Nintendo Switch\u2122 system. Become a Pok\u00e9mon Trainer, embark on a new journey in the new Galar region, and unravel the mystery behind the Legendary Pok\u00e9mon Zacian and Zamazenta! Explore the Wild Area, a vast expanse of land where the player can freely control the camera. And participate in Max Raid Battles* ** in which players will face off against gigantic and super-strong Pok\u00e9mon known as Dynamax Pok\u00e9mon.\n\nBegin your adventure by choosing one of three new partner Pok\u00e9mon: Grookey, Scorbunny, or Sobble and encounter new and familiar Pok\u00e9mon as you catch, battle, and trade. Players can control the camera and explore the vast areas around them in the Wild Area. Team up with other players locally or online in the new multiplayer co-op Max Raid Battles. Trainers who possess the special item Dynamax Band can Dynamax their own Pok\u00e9mon. Get ready for the next Pok\u00e9mon adventure in the Pok\u00e9mon\u2122 Sword and Pok\u00e9mon\u2122 Shield games.\n\n\u2022 Catch, battle, and trade Pok\u00e9mon on an all-new adventure in the Galar region\n\u2022 Choose from three new partner Pok\u00e9mon and encounter never-before-seen Pok\u00e9mon\n\u2022 Unravel the mystery behind the Legendary Pok\u00e9mon Zacian and Zamazenta!\n\u2022 Players can control the camera in the vast Wild Area\n\u2022 Team up with other Trainers to participate in Max Raid Battles* **! \n\u2022 Battle wild Dynamax Pok\u00e9mon in Max Raid Battles and try catching them* **",
+        "intro": "Get ready for the next Pok\u00e9mon adventure in the Pok\u00e9mon\u2122 Sword and Pok\u00e9mon\u2122 Shield games.",
+        "description": "A new generation of Pok\u00e9mon is coming to the Nintendo Switch\u2122 system. Begin your adventure as a Pok\u00e9mon Trainer by choosing one of three new partner Pok\u00e9mon: Grookey, Scorbunny, or Sobble. Then embark on a journey in the new Galar region, where you\u2019ll challenge the troublemakers of Team Yell, while unraveling the mystery behind the Legendary Pok\u00e9mon Zacian and Zamazenta! Explore the Wild Area, a vast expanse of land where the player can freely control the camera. Team up with three other players locally or online in the new multiplayer co-op Max Raid Battles* in which players will face off against gigantic and super-strong Pok\u00e9mon known as Dynamax Pok\u00e9mon.\n\nCertain Pok\u00e9mon can even Gigantamax to gain a new look and a powerful set of G-Max moves. But there\u2019s more to being a champion than honing your battle skills: you can pick your own clothes and get a new hairdo while visiting the stores in town, so you can be the trainer you want to be. Throughout your journey, you\u2019ll encounter newly discovered Pok\u00e9mon as well as familiar ones that will look a little different in their new Galarian forms! For another way to level up your Pok\u00e9mon, assign them Pok\u00e9 Jobs to complete, and for fun, you can even play with your Pok\u00e9mon in Pok\u00e9mon Camp! \n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 10244587520
+    },
+    "70010000004496": {
+        "id": "0100ABF008968000",
+        "rightsId": null,
+        "name": "Pok\u00e9mon\u2122 Sword",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191115,
+        "nsuId": 70010000004496,
+        "category": [
+            "Adventure",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Comic Mischief",
+            "Mild Cartoon Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0bf4bca3b619ae6ef04ca08214df7b2a438a8fec8616934b03ae73de839bd518.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/31ee74fe5360c4e76f72a6a4747c0771a4d6cd1a88d00690ea2f97caa9b16009.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7efd9a639826a4cd4eb655ad489a882e9ab9c2f2cd28fad2e9b589c9630a730b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed2ec03e6aa1f54c7d1c809dfd345b18cc2bd35f5726080689d4eb818ddf0b06.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c49172b16b091d661750c2d2b9e70e263f29ce20abf47dda6bd78a8273cd7fa0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/436a4088cf4346d24ab7d52b4207f9ac5e30963272dbcb3aa0f6aa1d206cfbfe.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1a7e765fe91da863330208620c5446908cc7ae47108a80a168ff65356df764db.jpg",
+        "intro": "Get ready for the next Pok\u00e9mon adventure in the Pok\u00e9mon\u2122 Sword and Pok\u00e9mon\u2122 Shield games.",
+        "description": "A new generation of Pok\u00e9mon is coming to the Nintendo Switch\u2122 system. Begin your adventure as a Pok\u00e9mon Trainer by choosing one of three new partner Pok\u00e9mon: Grookey, Scorbunny, or Sobble. Then embark on a journey in the new Galar region, where you\u2019ll challenge the troublemakers of Team Yell, while unraveling the mystery behind the Legendary Pok\u00e9mon Zacian and Zamazenta! Explore the Wild Area, a vast expanse of land where the player can freely control the camera. Team up with three other players locally or online in the new multiplayer co-op Max Raid Battles* in which players will face off against gigantic and super-strong Pok\u00e9mon known as Dynamax Pok\u00e9mon. \n\nCertain Pok\u00e9mon can even Gigantamax to gain a new look and a powerful set of G-Max moves. But there\u2019s more to being a champion than honing your battle skills: you can pick your own clothes and get a new hairdo while visiting the stores in town, so you can be the trainer you want to be. Throughout your journey, you\u2019ll encounter newly discovered Pok\u00e9mon as well as familiar ones that will look a little different in their new Galarian forms! For another way to level up your Pok\u00e9mon, assign them Pok\u00e9 Jobs to complete, and for fun, you can even play with your Pok\u00e9mon in Pok\u00e9mon Camp!  ",
         "languages": [
             "ja",
             "en",
@@ -3891,7 +3945,7 @@
             "nl",
             "ru"
         ],
-        "size": 6855589888
+        "size": 6893338624
     },
     "70010000019648": {
         "id": "0100F2900B3E2000",
@@ -4553,6 +4607,54 @@
             "pt"
         ],
         "size": 124780544
+    },
+    "70010000026262": {
+        "id": "0100ABF008968000",
+        "rightsId": null,
+        "name": "Pok\u00e9mon Sword and Pok\u00e9mon Shield Double Pack Digital Version",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191115,
+        "nsuId": 70010000026262,
+        "category": [
+            "Adventure",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Comic Mischief",
+            "Mild Cartoon Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0bf4bca3b619ae6ef04ca08214df7b2a438a8fec8616934b03ae73de839bd518.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/31ee74fe5360c4e76f72a6a4747c0771a4d6cd1a88d00690ea2f97caa9b16009.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7efd9a639826a4cd4eb655ad489a882e9ab9c2f2cd28fad2e9b589c9630a730b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed2ec03e6aa1f54c7d1c809dfd345b18cc2bd35f5726080689d4eb818ddf0b06.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c49172b16b091d661750c2d2b9e70e263f29ce20abf47dda6bd78a8273cd7fa0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/436a4088cf4346d24ab7d52b4207f9ac5e30963272dbcb3aa0f6aa1d206cfbfe.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4a7c422cd8270ae2de1ac4bf9d944137b8fe51d822694224de24ddda299615fb.jpg",
+        "intro": "A new generation of Pok\u00e9mon is coming to the Nintendo Switch\u2122 system.",
+        "description": "If you purchase the Pok\u00e9mon Sword and Pok\u00e9mon Shield Double Pack Digital Version, you will receive a bonus of Dynamax Crystals and Quick Balls!\n\nThe digital version of the Pok\u00e9mon Sword and Pok\u00e9mon Shield Double Pack includes an automatic download of the Pok\u00e9mon Sword game, a Nintendo eShop download code for the Pok\u00e9mon Shield game, and a special bonus of 4 in-game codes: 2 codes redeemable for one Dynamax Crystal each and 2 codes redeemable for 12 Quick Balls each! Pok\u00e9mon Sword will be automatically downloaded to your system upon completion of purchase and you will receive a download code on your receipt for Pok\u00e9mon Shield. In total, you will receive the 5 codes below. Under the Notifications section of this page, please see \u201cHow to download Pok\u00e9mon Shield digital version\u201d and \u201cHow to redeem the in-game codes\u201d for instructions on how to redeem each of these codes, and \u201cHow to use the Dynamax Crystals\u201d for help on putting the bonus Dynamax Crystals to use!\n\n\u2022\t1 download code for the Pok\u00e9mon Shield game\n\u2022\t1 in-game code for 1 Dynamax Crystal \u201c\u2605And 15\u201d to face Larvitar*\n\u2022\t1 in-game code for 1 Dynamax Crystal \u201c\u2605And 458\u201d to face Jangmo-o*\n\u2022\t1 in-game code for 12 Quick Balls #1**\n\u2022\t1 in-game code for 12 Quick Balls #2**\n\n\u25a0About Quick Balls\nQuick Balls are special Pok\u00e9 Balls that are more likely to catch Pok\u00e9mon if you use them as soon as a battle begins.\n\n\u25a0About Dynamax Crystals\nBy using the Dynamax Crystals received via these codes, you\u2019ll be able to face Dynamax Larvitar and Dynamax Jangmo-o in special Max Raid Battles*. These Pok\u00e9mon normally can\u2019t be encountered until later in the game!\n\nMax Raid Battles are battles in which you can recruit up to three players*** via local communication or the internet to face down powerful Dynamax Pok\u00e9mon!\n\nEvery participant will get an opportunity to catch the Pok\u00e9mon if you triumph in the battle! Additionally, with Dynamax Crystals, you\u2019ll be able to attempt these Max Raid Battles as many times as it takes to win or until midnight on the day that the Dynamax Crystal was used, whichever comes first.*\n\n\u25a0The Galar Region Awaits You!\nBegin your adventure as a Pok\u00e9mon Trainer by choosing one of three new partner Pok\u00e9mon: Grookey, Scorbunny, or Sobble. Then embark on a journey in the new Galar region, where you\u2019ll challenge the troublemakers of Team Yell, while unraveling the mystery behind the Legendary Pok\u00e9mon Zacian and Zamazenta! Explore the Wild Area, a vast expanse of land where the player can freely control the camera. Team up with three other players locally or online*** in the new multiplayer co-op Max Raid Battles* in which players will face off against gigantic and super-strong Pok\u00e9mon known as Dynamax Pok\u00e9mon.\n\nCertain Pok\u00e9mon can even Gigantamax to gain a new look and a powerful set of G-Max moves. But there\u2019s more to being a champion than honing your battle skills: you can pick your own clothes and get a new hairdo while visiting the stores in town, so you can be the trainer you want to be. Throughout your journey, you\u2019ll encounter newly discovered Pok\u00e9mon as well as familiar ones that will look a little different in their new Galarian forms! For another way to level up your Pok\u00e9mon, assign them Pok\u00e9 Jobs to complete, and for fun, you can even play with your Pok\u00e9mon in Pok\u00e9mon Camp!\n\n\u2022\tCatch, battle, and trade Pok\u00e9mon on a new adventure in the Galar region\n\u2022\tChoose from three new partner Pok\u00e9mon and encounter never-before-seen Pok\u00e9mon\n\u2022\tUnravel the mystery behind the Legendary Pok\u00e9mon Zacian and Zamazenta!\n\u2022\tTeam up with other Trainers to participate in Max Raid Battles***!\n\u2022\tBattle wild Dynamax Pok\u00e9mon in Max Raid Battles*** and try catching them!\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 10244587520
     },
     "70030000005101": {
         "id": null,

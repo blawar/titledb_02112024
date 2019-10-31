@@ -860,9 +860,9 @@
         "size": 6237978624
     },
     "70010000004485": {
-        "id": null,
+        "id": "01008DB008C2C000",
         "rightsId": null,
-        "name": "Pok\u00e9mon Schild",
+        "name": "Pok\u00e9mon Schild (ohne SteelBook\u00ae)",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -870,15 +870,16 @@
         "releaseDate": 20191115,
         "nsuId": 70010000004485,
         "category": [
-            "RPG"
+            "RPG",
+            "Adventure"
         ],
         "ratingContent": [],
-        "numberOfPlayers": null,
+        "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/56a2c59387496a516d571af16746aa7a332836596ff6cb7ccf3e9020156e0036.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/8cae9e7405294d12936b4cc74d62829dfd6342ed7ef439cca47415263c96e64f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/4d20ad62989bce38696e3c86d639e45b9c5d06c1816cf2e9f7ce2a2057f28dc1.jpg",
@@ -888,17 +889,24 @@
             "https://img-eshop.cdn.nintendo.net/i/69d299013a97782d23fb2c981a2d81b20d70ca4fa1fdf792568660deddf85b5d.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3f218b3f29fc96df6a316f31cd166ba9f8547f43c04c5f981b0d176d3c3bc919.jpg",
-        "intro": "Willkommen in der Galar-Region",
-        "description": "Galar ist eine weitl\u00e4ufige Region mit vielen unterschiedlichen Umgebungen, von idyllischen Dorflandschaften \u00fcber moderne St\u00e4dte und dichte W\u00e4lder bis hin zu zerkl\u00fcfteten, schneebedeckten Bergen. Die Menschen und Pok\u00e9mon, die in dieser Region Seite an Seite leben, haben die dortigen Industrien durch ihre gemeinsame Arbeit entwickelt. \n\nAuf deiner Reise wirst du in den Arenen der Galar-Region antreten k\u00f6nnen, um dir den Titel des Champs zu erk\u00e4mpfen! Du wirst dabei jedoch nicht allein sein, sondern von einem von drei neu entdeckten Pok\u00e9mon begleitet werden, das du dir als Partner-Pok\u00e9mon aussuchen kannst!",
+        "intro": "Bonus: 12 Flottb\u00e4lle!\nWichtig: Diese Version enth\u00e4lt kein SteelBook\u00ae.",
+        "description": "Bonus bis zum 15.01.2020:\nDownloadcode f\u00fcr zw\u00f6lf Flottb\u00e4lle f\u00fcr Pok\u00e9mon Schild.\nDer Downloadcode ist bis zum 30.11.2020 g\u00fcltig.\n\nGalar ist eine weitl\u00e4ufige Region mit vielen unterschiedlichen Umgebungen, von idyllischen Dorflandschaften \u00fcber moderne St\u00e4dte und dichte W\u00e4lder bis hin zu zerkl\u00fcfteten, schneebedeckten Bergen. Die Menschen und Pok\u00e9mon, die in dieser Region Seite an Seite leben, haben die dortigen Industrien durch ihre gemeinsame Arbeit entwickelt. \n\nAuf deiner Reise wirst du in den Arenen der Galar-Region antreten k\u00f6nnen, um dir den Titel des Champs zu erk\u00e4mpfen! Du wirst dabei jedoch nicht allein sein, sondern von einem von drei neu entdeckten Pok\u00e9mon begleitet werden, das du dir als Partner-Pok\u00e9mon aussuchen kannst!",
         "languages": [
-            "en"
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
         ],
-        "size": 0
+        "size": 10244587520
     },
     "70010000004488": {
-        "id": null,
+        "id": "0100ABF008968000",
         "rightsId": null,
-        "name": "Pok\u00e9mon Schwert",
+        "name": "Pok\u00e9mon Schwert (ohne SteelBook\u00ae)",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -906,15 +914,16 @@
         "releaseDate": 20191115,
         "nsuId": 70010000004488,
         "category": [
-            "RPG"
+            "RPG",
+            "Adventure"
         ],
         "ratingContent": [],
-        "numberOfPlayers": null,
+        "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/106d6552aa19fc16b2a016143000af0713857f940b9b11f53e0906a4c87025b2.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/8cae9e7405294d12936b4cc74d62829dfd6342ed7ef439cca47415263c96e64f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/4d20ad62989bce38696e3c86d639e45b9c5d06c1816cf2e9f7ce2a2057f28dc1.jpg",
@@ -924,12 +933,19 @@
             "https://img-eshop.cdn.nintendo.net/i/69d299013a97782d23fb2c981a2d81b20d70ca4fa1fdf792568660deddf85b5d.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f5f864f7a210c82d672d2034cdc2f0c6dc2ce117a17cec44e0eb96f2df28e453.jpg",
-        "intro": "Willkommen in der Galar-Region",
-        "description": "Galar ist eine weitl\u00e4ufige Region mit vielen unterschiedlichen Umgebungen, von idyllischen Dorflandschaften \u00fcber moderne St\u00e4dte und dichte W\u00e4lder bis hin zu zerkl\u00fcfteten, schneebedeckten Bergen. Die Menschen und Pok\u00e9mon, die in dieser Region Seite an Seite leben, haben die dortigen Industrien durch ihre gemeinsame Arbeit entwickelt. \n\nAuf deiner Reise wirst du in den Arenen der Galar-Region antreten k\u00f6nnen, um dir den Titel des Champs zu erk\u00e4mpfen! Du wirst dabei jedoch nicht allein sein, sondern von einem von drei neu entdeckten Pok\u00e9mon begleitet werden, das du dir als Partner-Pok\u00e9mon aussuchen kannst!",
+        "intro": "Bonus: 12 Flottb\u00e4lle!\nWichtig: Diese Version enth\u00e4lt kein SteelBook\u00ae.",
+        "description": "Bonus bis zum 15.01.2020:\nDownloadcode f\u00fcr zw\u00f6lf Flottb\u00e4lle f\u00fcr Pok\u00e9mon Schwert.\nDer Downloadcode ist bis zum 30.11.2020 g\u00fcltig.\n\nGalar ist eine weitl\u00e4ufige Region mit vielen unterschiedlichen Umgebungen, von idyllischen Dorflandschaften \u00fcber moderne St\u00e4dte und dichte W\u00e4lder bis hin zu zerkl\u00fcfteten, schneebedeckten Bergen. Die Menschen und Pok\u00e9mon, die in dieser Region Seite an Seite leben, haben die dortigen Industrien durch ihre gemeinsame Arbeit entwickelt. \n\nAuf deiner Reise wirst du in den Arenen der Galar-Region antreten k\u00f6nnen, um dir den Titel des Champs zu erk\u00e4mpfen! Du wirst dabei jedoch nicht allein sein, sondern von einem von drei neu entdeckten Pok\u00e9mon begleitet werden, das du dir als Partner-Pok\u00e9mon aussuchen kannst!",
         "languages": [
-            "en"
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
         ],
-        "size": 0
+        "size": 10244587520
     },
     "70010000004554": {
         "id": "01004E5007E92000",
@@ -1668,6 +1684,49 @@
             "zh"
         ],
         "size": 11982077952
+    },
+    "70010000007801": {
+        "id": "0100B61009C60000",
+        "rightsId": null,
+        "name": "STAY COOL, KOBAYASHI-SAN!: A RIVER CITY RANSOM STORY",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191107,
+        "nsuId": 70010000007801,
+        "category": [
+            "Action",
+            "Shooter",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Gewalt"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 12,
+        "developer": null,
+        "publisher": "ARC SYSTEM WORKS",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/27f24567936c308a77cbadb6ce08bc1c17be3cee4294b639495ee1b47a5cd307.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9421feed22e0e207d00ce574b770906270c40cbf719377d364911ee8b73eb7d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd47f6e8228f1856fdffe61a7165fcef600e63ed0e855a80abeb4e33e2dbd249.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d2cf72148ca7093a64dd26f7c1652b4b9939788a6c82e485aa425ea312e6245.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b06aac5b9097cc0c38c53cdda25a38dccae13c4aa24b0b0d8df940c5aed0306d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea88580707652413b8625c6e7ff9a745fc1ff197e358ccf252f6cdc642aa6679.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c2ffe55f0f0164b8e7c33530ac7de0bddbb19c0c7faf163171b0bcc575bbb03.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f7478ed74fc07b8408f20217e40472e0cd91f6f4ad8e6983f0bdc9346c09ff36.jpg",
+        "intro": "Kunio-kun's infamous rival that all River City Series fans will recognize. The head of the Reiho High School Big Four: Kobayashi gets his own game!!",
+        "description": "A short while after the events of \"Downtown Nekketsu Monogatari\"...\nReiho High School, where the battle took place, has these Big Four, who are feared by all the others schools around.\nAnd at the top of the Big Four, reigns only one man: Masao Kobayashi.\nHere's one of his stories.\n\nBack in middle school, a mysterious event led him to meet a boy named Mizoguchi, who was actually a Time Regulator, going after an evil organization that has disrupted the time-space equilibrium.\n\nAfter finding out that Kobayashi has a hint of mysterious power in him, Mizoguchi has them set out together to take this evil organization down.\n\nSo, when Kobayashi's friend gets abducted by the evil organization, He puts on a calm face while burning with rage inside.\nHe has got to go rescue his friend and bring an end to this evil organization.\n\n\u25a0Original staff members!\nThe original directors of Nekketsu K\u014dha Kunio-kun (aka Renegade): Yoshihisa Kishimoto and Downtown Nekketsu Monogatari (aka Street Gangs/River City Ransom): Mokeke Sekimoto, are teaming up to bring you a new reckless action game!\n\n\u25a0Funny and nostalgic pixel art!\nWhen hearing \"Kunio-kun\", pixel art characters is the first thing that comes to mind.\nNice, cute and nostalgic pixel art.\n\n\u25a020 different endings!\nDepending on your actions in-game, you can trigger a different ending.\nDo you think you could complete the game to see every one of them?\n\n\u25a0Collect the \u2605 and power-up!\nYou can actually spend the \u2605 you have collected in-game to enhance your characters and equip them with items.\nLet's play the game and become the strongest!\n\n\u25a0Quite the chatterbox!\nAll characters have been voiced for this game!\nEnjoy the very talkative encounters between them!",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh"
+        ],
+        "size": 836763648
     },
     "70010000007841": {
         "id": "0100126006EF0000",
@@ -10128,9 +10187,9 @@
             "https://img-eshop.cdn.nintendo.net/i/b0c02adc0468bda7373bb184c6fd50c83e4b8c776b1e414261a9b7a4147f4284.jpg",
             "https://img-eshop.cdn.nintendo.net/i/cb69eab587e773385da9856da7c32ff1778b3f8f79f98abf0849116bf5d1bf01.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1b6cf501cf57fe3c92ce209fcf3d8ec77ab2490f80c4555f480058773a2171ac.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1281eda40584bd47a1272344e6b7aeeb1676f2cd1ab87119482abe9e02ade518.jpg",
         "intro": "In diesem Side-Scroller-Actionspiel der alten Schule musst du Geiseln befreien, Bomben entsch\u00e4rfen und den Tag retten! Retro-Grafik und Retro-Feel.",
-        "description": "Door Kickers: Action Squad ist ein verr\u00fccktest Side-Scroller-Actionspiel der alten Schule, das dich in die Rolle eines SWAT-Troopers versetzt und dich auf die B\u00f6sewichte in Nowhere City, USA, losl\u00e4sst.\n\nW\u00e4hle deine Ausstattung und dann tritt die T\u00fcren ein, um dich der Action zu stellen. Du musst schnell auf alle m\u00f6glichen Situationen reagieren k\u00f6nnen und falls n\u00f6tig - ohne gro\u00df zu Zweifeln neustarten und umdenken. Meistere den R\u00fccksto\u00df der Waffen und passe genau ab, wann du nachl\u00e4dst. Setze Entfernung und Deckung zu deinem Vorteil ein und nutze die strategischen F\u00e4higkeiten im Spiel, um selbst zu entscheiden, wann du mehr Gesundheit oder Nachschub f\u00fcr deine Ausr\u00fcstung brauchst (oder um zu bestimmen, ob dein Teamkamerad es wert ist, gerettet zu werden). Oder du kannst dir deine Punkte auch einfach aufsparen und deine ultimative F\u00e4higkeit entfesseln, um den kniffligen, letzten Raum locker zu \u00fcberwinden.\n\nUnd wenn's zu schwer wird, hol dir einen Freund dazu, der dir hilft.\n\nKurz\u00fcbersicht:\n\nRetro-Grafik mit hoher Detailtreue\n6 spielbare Charaktere, jeder mit einzigartigem Gameplay und M\u00f6glichkeiten zum Hochleveln\nEinzigartiges System mit strategischen Spielf\u00e4higkeiten\n84 nicht lineare Level, die es abzuschlie\u00dfen gilt\nEndloser Turmmodus\nZombieinvasion-Modus, in dem du das Spiel auf ganz neue Art und Weise spielen kannst\nMehr als 60 Waffen und Ausr\u00fcstungsgegenst\u00e4nde\nMehr als 20 Feindesarten und 4 Missionsziele\nCouch- und Online-Coop-Mehrspielermodus",
+        "description": "Door Kickers: Action Squad ist ein verr\u00fccktest Side-Scroller-Actionspiel der alten Schule, das dich in die Rolle eines SWAT-Troopers versetzt und dich auf die B\u00f6sewichte in Nowhere City, USA, losl\u00e4sst.\n\nW\u00e4hle deine Ausstattung und dann tritt die T\u00fcren ein, um dich der Action zu stellen. Du musst schnell auf alle m\u00f6glichen Situationen reagieren k\u00f6nnen und falls n\u00f6tig - ohne gro\u00df zu Zweifeln neustarten und umdenken. Meistere den R\u00fccksto\u00df der Waffen und passe genau ab, wann du nachl\u00e4dst. Setze Entfernung und Deckung zu deinem Vorteil ein und nutze die strategischen F\u00e4higkeiten im Spiel, um selbst zu entscheiden, wann du mehr Gesundheit oder Nachschub f\u00fcr deine Ausr\u00fcstung brauchst (oder um zu bestimmen, ob dein Teamkamerad es wert ist, gerettet zu werden). Oder du kannst dir deine Punkte auch einfach aufsparen und deine ultimative F\u00e4higkeit entfesseln, um den kniffligen, letzten Raum locker zu \u00fcberwinden.\n\nUnd wenn's zu schwer wird, hol dir einen Freund dazu, der dir hilft.\n\nKurz\u00fcbersicht:\n\u2022 Retro-Grafik mit hoher Detailtreue\n\u2022 6 spielbare Charaktere, jeder mit einzigartigem Gameplay \n\u2022 84 nicht lineare Level, die es abzuschlie\u00dfen gilt\n\u2022 Endloser Turmmodus\n\u2022 Zombieinvasion-Modus\n\u2022 Mehr als 60 Waffen und Ausr\u00fcstungsgegenst\u00e4nde\n\u2022 Mehr als 20 Feindesarten und 4 Missionsziele\n\u2022 Couch- und Online-Coop-Mehrspielermodus\n",
         "languages": [
             "ja",
             "en",
@@ -13170,7 +13229,7 @@
         "languages": [
             "en"
         ],
-        "size": 578813952
+        "size": 1095761920
     },
     "70010000016658": {
         "id": "0100E5800D32C000",
@@ -23080,9 +23139,11 @@
             "Adventure",
             "Puzzle"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Seltene Schreckmomente"
+        ],
         "numberOfPlayers": 1,
-        "rating": 0,
+        "rating": 6,
         "developer": null,
         "publisher": "Flight School Studio",
         "frontBoxArt": null,
@@ -23454,7 +23515,7 @@
             "ko",
             "zh"
         ],
-        "size": 2196766720
+        "size": 2772434944
     },
     "70010000019105": {
         "id": "0100DD300CF3A000",
@@ -26552,7 +26613,7 @@
             "nl",
             "ru"
         ],
-        "size": 6855589888
+        "size": 6893338624
     },
     "70010000019630": {
         "id": "0100FFA00C9F4000",
@@ -27062,7 +27123,7 @@
             "de",
             "it"
         ],
-        "size": 1686110208
+        "size": 1861222400
     },
     "70010000019686": {
         "id": "0100E1800E202000",
@@ -27408,6 +27469,47 @@
         ],
         "size": 109051904
     },
+    "70010000019757": {
+        "id": "0100A3500E2D8000",
+        "rightsId": null,
+        "name": "The Manga Works",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191107,
+        "nsuId": 70010000019757,
+        "category": [
+            "Simulation",
+            "Study",
+            "Training",
+            "Andere"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Kairosoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cebc449a58d4324859d94ed01886b358befa5696b4c40f9a0910dc53558f8050.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c8de9d0aa2536625f48714fcd49ac4610074e4ac123ca7b28f3941ba1a705030.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/132b8fe48b9aee3329a4375a52534be8e4e56bfec50a1c0132dcbfac19175f32.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fad194c02256fd7c3449bfa8d43af5dc6f52ea77cf7d6d26ca31db451ca56bab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b6ca907b6e9acf7eacf1f6e4eae8ed8f342bcd9572bf104294127993d2825607.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3456b65d919cf19573ebc49535c3bf2c0e8b1a0f99e1a70ef4aa049591be146.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b0eadab494c30f71a49a86cc26384e145b0ba36c00d3dbd749e5300bdb7fda14.jpg",
+        "intro": "Make history with manga!\nTurn your work into anime, drama, and even movies!",
+        "description": "It's the manga artist experience you've been waiting for!\n\nCreate a manga masterpiece and draw your way into the nation's heart.\n\nStart out as a fledgling manga artist in a small and empty room... Armed with only a single pen, draw the best manga you can and march proudly to the publishers to show off your work.\n\nIdeas are the lifeblood of a manga artist. Go out in search of inspiration and gather plot points, then stuff your manga full of creativity.\nAccumulate experience points and use them to train up your drawing, storytelling, and other skills.\nWhen you think you've created a great one-shot, take it to a publisher! If you manage to make the \"editor from hell\" smile, it might just be the start of a fruitful relationship.\n\nProduce the best manga the world has ever seen, and write your name down in history!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh"
+        ],
+        "size": 201326592
+    },
     "70010000019773": {
         "id": "01009EA00E2B8000",
         "rightsId": null,
@@ -27487,7 +27589,7 @@
             "en",
             "zh"
         ],
-        "size": 13329498112
+        "size": 13458472960
     },
     "70010000019780": {
         "id": "0100E1100D92C000",
@@ -32378,7 +32480,7 @@
         "developer": null,
         "publisher": "Fingerlab",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/907eb64ad1f6368c8e71c591110deec804c991f93f7f75d2a0bd10a51500c361.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/291077f37b85bb555f6870cde67f1ba87cc5cc81c5d9bc0836b1c6a1677f141e.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/043b145f1122794b8e2fda0129205e4f29af16654c7769619b78e2689fc01716.jpg",
             "https://img-eshop.cdn.nintendo.net/i/2b217b784d234f9ded19f82f332507a080aa2d5597927b0c776e991c7d8ba090.jpg",
@@ -32400,7 +32502,7 @@
             "ko",
             "zh"
         ],
-        "size": 294649856
+        "size": 325058560
     },
     "70010000020942": {
         "id": "010087C00E31C000",
@@ -33426,6 +33528,46 @@
             "en"
         ],
         "size": 2209349632
+    },
+    "70010000021095": {
+        "id": "0100E3D00EA82000",
+        "rightsId": null,
+        "name": "SIMULACRA",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191203,
+        "nsuId": 70010000021095,
+        "category": [
+            "Adventure",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Explizite Sprache",
+            "Seltene Schreckmomente"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Wales Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3edfcbb2cf8a1087627f20358f1f38b8f766204bab6506f4fcb680a2923aa71d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6a1c9c18572597755307e300b50e258eb875c18e90c0e73e32c31b4cdfab366d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61b3f7762ecaf84f95f244d5e2c163ae18d42ecfe7cadd33109f75ffc277353d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ca8fd099af77072dd44a85a029af9043633ca41b0c5c20eccfe95a4389d1ff8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a98ee9cc73968cdf1983ab7daa0e2353e22f7129f80e52a5750e44f568fc2d36.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca949315fc50ba1bdc21fe26ce1eb2a8ecbe30f3f292197cf42accb5df4499e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8549eecebf080bc6a2395dd2bebf0ac2f1a2e5dfad85f282332711e993294b98.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e44908da8a839be9fe4019df28d7046d2d201358c3fb56b834f38d45dffbcfe1.jpg",
+        "intro": null,
+        "description": "Von den Machern von Sara is Missing erscheint nun SIMULACRA, ein interaktives FMV-Horrorerlebnis, bei dem man das Handy einer vermissten Frau untersucht.\n\nSie haben ein Handy gefunden, das eine Frau namens Anna verloren hat. Auf dem Handy sehen Sie sich eine Videobotschaft mit einem verzweifelten Hilferuf an. Als Sie sich n\u00e4her damit besch\u00e4ftigen, zeigt das Handy ein seltsames Verhalten. Sie sprechen mit ihren Freunden, doch auch die wissen nicht, wo sie ist. Die Informationen in Texten, E-Mails und Fotogalerien sind unvollst\u00e4ndig. Nun liegt es an Ihnen, das R\u00e4tsel zu l\u00f6sen.\n\nVerlorene Dateien und besch\u00e4digte Daten werden wiederhergestellt, w\u00e4hrend Sie ihre letzten Schritte zur\u00fcckverfolgen. Finden Sie sie, bevor es zu sp\u00e4t ist.\n\n\u2022 Erkunden Sie eine komplette, reale Welt durch die Linse eines Mobiltelefons.\n\u2022 Genie\u00dfen Sie ein einzigartiges Spielerlebnis mit beliebten Handy-Apps, darunter eine Dating-App, eine Social-Media-App und ein Webbrowser.\n\u2022 Eine umfangreiche Geschichte mit stundenlangem Spiel, das zu f\u00fcnf m\u00f6glichen Enden f\u00fchrt.\n\u2022 Gefilmt mit echten Schauspielern und zahlreichen Synchronsprechern.\n\u2022 L\u00f6sen und entschl\u00fcsseln Sie die wiederkehrenden Bilder- und Textr\u00e4tsel, um mehr \u00fcber Annas Geschichte zu erfahren.\n",
+        "languages": [
+            "en"
+        ],
+        "size": 958398464
     },
     "70010000021099": {
         "id": "01000A600EA88000",
@@ -35224,6 +35366,47 @@
         ],
         "size": 441450496
     },
+    "70010000021526": {
+        "id": "010039200EC66000",
+        "rightsId": null,
+        "name": "Miniature - The Story Puzzle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191017,
+        "nsuId": 70010000021526,
+        "category": [
+            "Puzzle",
+            "Brettspiel",
+            "Strategie",
+            "Andere"
+        ],
+        "ratingContent": [
+            "Abstrakte Gewalt"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Run-Down Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9ab3751688a85cd35ebd55879e9e9fa174cd0f678463d79a9a4032e6794532b7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9a6a639131bc14ea0c39a60c78aa0735cea58ccecf04d43f6578ceef125817fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/235b4a5c4c3aaeb691ae97343d60a4bce76c8caff029425bf5d5bab332a995ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0d0ee6fe472989c9cd9abfc510a22ef124836d4f1451c4e7537285f9c94b9a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b5cc174b7dfbe110c94920f11c49448f0e5ad0364baec1f1523d73051eb2392b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d16ecdede5468eb98f9a12a325af4dabc81925a9bf4649e7a992ca06a22e08a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46284a221e4296413badc53e82885e9d98bc1f729baedf39ab234cd82df712cb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ed4745bb70a38c12aec2578e120bb7189ab80b7ebe40ea4bfbaa5a4c69966875.jpg",
+        "intro": null,
+        "description": "The Miniature is a unique 3D Story-based puzzle game, a stunning visual world, fascinating music and original game mode.\nThis is a special puzzle game, all dioramas come with new locations, which require being put into the right order to learn the different stories.",
+        "languages": [
+            "en"
+        ],
+        "size": 739246080
+    },
     "70010000021547": {
         "id": "0100D1900EC80000",
         "rightsId": null,
@@ -35683,6 +35866,54 @@
             "en"
         ],
         "size": 1464860672
+    },
+    "70010000021628": {
+        "id": "0100FBD00ED24000",
+        "rightsId": null,
+        "name": "MONKEY BARRELS",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191107,
+        "nsuId": 70010000021628,
+        "category": [
+            "Action",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Abstrakte Gewalt"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Good-Feel",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/aae60903c31078545bb60dcf79192ddb49c6b92650a0854b31a11f6b4536971c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/94246cc996a9e514944fffac79072ef9194c2915c22baae62575019ff01eab07.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0344b9fdde7feea0be1f6a5142a63b48ce84179f8454e6bede84b495efc42b8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/13ed8022e46e9d22d92a970541e198c7f9de07b579e4bedf8769a2b9da5818c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a0db4242dadc200ed5f43486e78edc9d309ca5a2a19e9e2d067a6527d4bd359.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a41eef2d983e2d5b6d530235d26803003232ad7be5ea9dfd578381e3bc734fa6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd289775b398936f31e0a41ae2f32739850410fb4abfea40363499f2f4d5ebb6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff1dbdcf67e5fd7582d34f453aeb99554240cfa823512279ecbe7642038229e2.jpg",
+        "intro": "\u201eDer Affen-Krabben-Krieg, der alle Kriege beendet\u201c beginnt! In diesem verr\u00fcckten Shooter k\u00e4mpfen Affen gegen Maschinen!",
+        "description": "In einer Welt, die von dem Elektronikkonzern Krabbenwelt Elektro regiert wird, machen sich zwei mutige Affen auf den Weg, um ihre entfuhrten Freunde aus den Klauen einer bosen Armee von Roboter-Haushaltsgeraten zu befreien!\n\nNeben einem Storymodus mit 22 Leveln gibt es auch einen herausfordernden Online-Modus!\nMit 3D-Pixel-Art, die Old-School-Grafik neues Leben einhaucht!\nEs erwarten dich jede Menge lustiger und herausfordernder Level!\n\n\u2022 98 verschiedene Waffentypen!\n\"Aus Standardwaffen und einzigartigen Kreationen kannst du bis zu 4 Gegenstande auswahlen, um dir ihre individuellen Starken zunutze zu machen und selbst in den hartesten Leveln zu triumphieren.\"\n\n\u2022 Affe gegen Affe! Online-Partien mit bis zu 6 Spielern!\n\"Entscheide, wer der Affenboss im Bananengerangel wird! Die Regeln sind einfach: Wer die meisten Bananen sammelt, gewinnt!\"",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 3401580544
     },
     "70010000021633": {
         "id": "0100F7300ED2C000",
@@ -37793,7 +38024,7 @@
             "en",
             "zh"
         ],
-        "size": 1974468608
+        "size": 3227516928
     },
     "70010000022141": {
         "id": "010082B00EE50000",
@@ -38614,7 +38845,7 @@
             "it",
             "nl"
         ],
-        "size": 2513436672
+        "size": 2603614208
     },
     "70010000022308": {
         "id": "0100A2F00EEFC000",
@@ -40334,6 +40565,48 @@
         ],
         "size": 425721856
     },
+    "70010000022863": {
+        "id": "0100CE700F62A000",
+        "rightsId": null,
+        "name": "Thief of Thieves: Season One",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191112,
+        "nsuId": 70010000022863,
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Alkoholkonsum",
+            "Explizite Sprache",
+            "Gewalt",
+            "Sexuelle Andeutungen",
+            "Tabakkonsum"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Rival Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/39944e8c8968705d557c7e0e45c7c0b3b3916f01dc7e97a8eb59f89d2c757716.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7a5d2c6ffe7e1f8e6a65e3f0f869ae4d3b1d04dac686193a8ab01392260833ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31947bd7ba59836878267bd74342bce0bf75948d80aa3f3ff45f7203b8f7a02d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f18013d890495cd13f0162bcbae1a433ce55afa68bd117af6b0f25ef5b958ad1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a1fa0d3315853348aef5c5e9e7f8ecba1fd0cb027c9c9e59e19ab19584132cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1225bb101b6904492b07f822e2addd13e9b89d5f81721557fbb3c79a5c467969.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7dedeae158adf0e7fb4c2bd4c398df846f57edf31235eed04b0a06ea1b9f2bb5.jpg",
+        "intro": "Thief of Thieves: Season One basiert auf der Comicbuch-Reihe von Robert Kirkman. Es wird Zeit f\u00fcr Celia, den \u00dcbergang vom Lehrling zum Meister zu bew\u00e4ltigen.",
+        "description": "Season One enth\u00e4lt alle vier Volumes dieses preisgekr\u00f6nten Spiels von Rival Games. (Sprachausgabe und Untertitel in Englisch.)\n\nIn Thief of Thieves: Season One spielst du eine Fassadenkletterin und nutzt Verstohlenheit, Manipulation und die Hilfe deiner Teammitglieder, um auf der ganzen Welt hochkar\u00e4tige Einbr\u00fcche durchzuf\u00fchren.\n\nThief of Thieves: Season One basiert auf der preisgekr\u00f6nten Comicbuch-Reihe von Robert Kirkman und ist eine Geschichte \u00fcber Raub\u00fcberf\u00e4lle und die Leute dahinter. Es wird Zeit f\u00fcr Celia, den Sch\u00fctzling von Meisterdieb Redmond, den \u00dcbergang vom Lehrling zum Meister zu bew\u00e4ltigen. Ein vermasselter Job f\u00fchrt Celia nach Europa, wo sie sich einem neuen Verbrecherteam anschlie\u00dft, das eine Reihe von Einbr\u00fcchen durchf\u00fchren will. Lerne dein Team kennen, entscheide dich, wie du vorgehst, aber sei vorsichtig \u2013 die Entscheidungen, die du triffst, k\u00f6nnten drastische Konsequenzen haben. \n\nEin neuer Kontinent und ein neues Team. Schaffst du das? \n\nFeatures\n- Die Geschichte wird \u00fcber Comicbilder und das Gameplay erz\u00e4hlt, w\u00e4hrend sich Celia ihren Weg durch verschiedenste Szenen bahnt, von Cocktailpartys bis hin zu Bauh\u00f6fen. Dabei nutzt sie ihr Talent der Manipulation und der T\u00e4uschung \u2013 jedoch niemals Gewalt.\n- Atemberaubende Grafik \u2013 Ein einzigartiger Grafikstil, der handgezeichnete 2D-Comics und 3D-Umgebungen zu einer nahtlosen Geschichte kombiniert.\n- Lebensechte Charaktere, die von Sprechern wie Fryda Wolff (Mass Effect: Andromeda), Stephen Stanton (Rogue One), Emily O\u2019Brien (Death Stranding), Cissy Jones (Firewatch, The Walking Dead: Season 1), Fred Tatasciore (Kung Fu Panda 2) und Elias Toufexis (Deus Ex: Human Revolution) zum Leben erweckt werden.\n- Eine ma\u00dfgeschneiderte Geschichte \u2013 Die Entscheidungen, die du triffst, ver\u00e4ndern die Handlung und die Beziehungen zu deinen Teammitgliedern.\n",
+        "languages": [
+            "en"
+        ],
+        "size": 12901679104
+    },
     "70010000022907": {
         "id": "01000ED00F64E000",
         "rightsId": null,
@@ -41107,6 +41380,47 @@
         ],
         "size": 156237824
     },
+    "70010000023307": {
+        "id": "01008CA00F7E0000",
+        "rightsId": null,
+        "name": "Perils of Baking",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191114,
+        "nsuId": 70010000023307,
+        "category": [
+            "Arcade",
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Abstrakte Gewalt"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "eastasiasoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/389d699f5105dfa6c17a8965c7dc8ce612e970b312e27fd432d0bb545887e099.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f9c6cadbc4bf2e46851f525e83fc20dd16ab8049d0b077803e84b14a82943e9a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/acff48c906c759fb6f7e03401442d3b871a38a7d20e84c26b210da48315ed91f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac3a1b5f57d6a9c01598fdd13cf14704988040d0177911fee21510912881dabc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d40e013d2f6e5b62a8d35df9b7b07760f0a51a085288e760acd43aeb8d75b23f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8641ddf841baca7f479101ef5b931d563feb25f034f22b2d63e0185f554bb818.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed6768f0e18adc1017bc33a155c78835c2db5b14e30b129710369c731b201ceb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/23aec08d9ff69547886db44426e548f8e0ebeb524208ade8e4dbc49a8ad70f92.jpg",
+        "intro": "Perils of Baking ist eine 2D Liebeserkl\u00e4rung an Retrospiele",
+        "description": "Du schl\u00fcpfst in die Rolle des j\u00fcngeren zweier Br\u00fcder, die die Kunst des Backens gemeistert haben. Es liegt an dir, die b\u00f6sen Pl\u00e4ne deines Bruders zu durchkreuzen, da er den M\u00e4chten eines dunklen Artefakts verfallen ist.\n\nIn den 40 Hauptmissionen des Spiels setzt du dich hinter das Steuer eines Minikarts, fliegst einen Ballon, schwimmst, backst (nat\u00fcrlich!), erlebst umgekehrte Schwerkraft und vieles mehr.\n\nNur die wahren B\u00e4cker schaffen es, alle Bonusr\u00e4ume zu entdecken und s\u00e4mtliche Level im geheimnisvollen Land zu durchqueren.\n\nFeatures:\n\n\u2022 Erlebe ein klassisches 2D-Plattformspiel im Retro-Stil.\n\u2022 Spiele dich durch 40 Hauptmissionen und entdecke alle Bonusr\u00e4ume und Geheimnisse.\n\u2022 Sammle Nahrung, um deine Kr\u00e4fte freizusetzen und neue F\u00e4higkeiten zu erlangen.\n\u2022 Besiege unz\u00e4hlige Feinde und fordere Bossgegner heraus.\n\u2022 Casual Gameplay, geeignet f\u00fcr die ganze Familie",
+        "languages": [
+            "en"
+        ],
+        "size": 128974848
+    },
     "70010000023312": {
         "id": "0100DEC00F7EC000",
         "rightsId": null,
@@ -41577,6 +41891,46 @@
         ],
         "size": 29360128
     },
+    "70010000023712": {
+        "id": "01003E500F962000",
+        "rightsId": null,
+        "name": "Tokyo Dark \u2013 Remembrance \u2013",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191107,
+        "nsuId": 70010000023712,
+        "category": [
+            "Adventure",
+            "Action"
+        ],
+        "ratingContent": [
+            "\u00c4ngstigende Inhalte",
+            "Gewalt"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "UNTIES",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1b37cff7bae9dad05ba894ba1fefc98c51698e7d578ffb52d4d0e64b8cf5cf68.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7930670a4b1620639faa8956331ad8ed04bbb728d6e4b370f292e6b2fe7ed68a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/07fb6e2ef0b2060328f00ef79d2842ac570f0b054cb939fc6a0bc6fe2869238d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16c52d94d3fe9f322abbcbf6ac96a84d6886551a93f5345ce4227328cd7fd641.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/356c0246bb28919571b9fdbb78cec57f8231687da401fa25dea8744157014334.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78e68010af5a295c7a245ac968010fe4f9fc779074940e34cd068d42bc588ae1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1d2a0fc1291620e210f0d227fb52739562c59cd6e659f4c1d980b154fca25f38.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/508988f9d469d99e98f223b7e454ab8436ead5c5a9afd70451d6412cec41d0b0.jpg",
+        "intro": "Wird dich deine Vergangenheit heimsuchen oder wirst du deinen Entscheidungen treu bleiben?",
+        "description": "Detective Itos Partner wird vermisst, aber was zun\u00e4chst wie ein einfacher Fall wirkt, entwickelt sich schnell zu einem verworrenen Albtraum, der Ito dazu bringt, sich ihrer Vergangenheit zu stellen und ihren eigenen Verstand zu hinterfragen.\n\nTokyo Dark legt die Erz\u00e4hlung in deine H\u00e4nde. Deine Entscheidungen und Handlungen wirken sich auf Detective Itos Geisteszustand aus und \u00f6ffnen dir dadurch T\u00fcren zu verschiedenen M\u00f6glichkeiten, w\u00e4hrend du versuchst, deinen Partner zu finden und die dunkle, erschreckende Welt um dich herum zu verstehen. \n\nHAUPTFUNKTIONEN\n\n\u30fbDas S.P.I.N. (Sanity, Professionalism, Investigation, Neurosis)-System dokumentiert jede Entscheidung, die du triffst, was die Reaktionen anderer Charaktere und deine Handlungsm\u00f6glichkeiten \u00e4ndert.\n\u30fbTauche tief in die Welt unter Tokio ein, die dich dazu bringen wird, jede einzelne Entscheidung infrage zu stellen.\n\u30fbEine verzweigte Erz\u00e4hlung mit 13 verschiedenen, aufregenden Enden.\n\u30fbDas Erkunden, Entdecken und L\u00f6sen von R\u00e4tseln, das f\u00fcr Point-and-Click-Spiele typisch ist, wird hier mit erz\u00e4hlerischer Tiefe kombiniert.",
+        "languages": [
+            "en"
+        ],
+        "size": 1228931072
+    },
     "70010000024092": {
         "id": "010077500FA64000",
         "rightsId": null,
@@ -41919,6 +42273,47 @@
         ],
         "size": 537919488
     },
+    "70010000024571": {
+        "id": "010022D0089AE000",
+        "rightsId": null,
+        "name": "Labyrinth of the Witch",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191114,
+        "nsuId": 70010000024571,
+        "category": [
+            "RPG",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Sexuelle Andeutungen"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "ORANGE CUBE",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2ef9e97d0bf1b39fe36c17d946ce7edc937cc38653476658c5e31ff8e03cbbe8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/626be99a59c50f746b109ef46a995b7bafae7a25d83352ada7be7c1eb5a5f092.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/742ca9e19b499b2de66ce76b66f12ba5d0f6713e9b43da08b312aefb64b4ee6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/befb62cab2ae0cdaee3af585aabbda0464c905d28fc058f1c7c4852f425c5eef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f8fe4716cdbdd0aa6e0e5169c591f32bf5683171f6c0056a6bf9bf9ae296e05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc1794877d72e5ee2da402e928e7957d71f9d0a5b6fc42525cc59fe9938c8140.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de508abbc3bf37c8234746f527a1592967425eb546a2524ee247dc90a876d7d3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7f00dd7df19b4d12362fadbb82a92c347b571fce274f067b64fef72a9af6f85a.jpg",
+        "intro": "Rogue-like as you like!",
+        "description": "A simple dungeon exploration RPG that anyone can play!\n Strategically use a multitude of items to tackle ever-changing dungeons.\n \n A Rogue-like for Anyone and Everyone\n \n This simple, easy-to-play dungeon exploration RPG is free of difficult game mechanics.\n \n Speedrun Faster than Anyone!\n \n Built for the speedrunners, take on the Speedrun Dungeon armed with only your wits (no starting items!) and find your own gear!\n \n Pixel Art at its Best\n \n State-of-the-art pixel art and animations bring your adventures to life!\n",
+        "languages": [
+            "ja",
+            "en",
+            "zh"
+        ],
+        "size": 198180864
+    },
     "70010000024580": {
         "id": "01007FB00FC5E000",
         "rightsId": null,
@@ -42072,6 +42467,49 @@
         ],
         "size": 90177536
     },
+    "70010000024795": {
+        "id": "01002F800FD12000",
+        "rightsId": null,
+        "name": "Strange Telephone",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191107,
+        "nsuId": 70010000024795,
+        "category": [
+            "Adventure",
+            "RPG",
+            "Puzzle",
+            "Andere"
+        ],
+        "ratingContent": [
+            "Abstrakte Gewalt"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "PLAYISM",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cf448e3b44e0da38f99f7af9e3e3ffc4c94d8c67334e4a14eb9d71d4a040a498.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b6f5dc7a8f4e630a01a4d5a07b371e0c33dd157b664e4bec25fb166b0d3c7db8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/443a282a2aa3f1636eca4ee75dfc1d1a3a13f47ad82bdb51b44182ed84d22311.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3cc0937de962d73158f729b4971c0d5f738f99a90d0a3075c49a514789ac901.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04e5c210b4a42feede1c062e588ca53045966ec03f943bfe522588cac6ca8cdb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6fb56d3079fd4b8a8566468e8f86fa5f7b34dc0f77b455468875b0c4dfe895ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a5d61b582ade8a4854c8e194d28aca135607fc48007dcf806b8f4855de7ecce.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a727f30950b18bbd53eec2d68e763c4a692f7966fafc25888253d0e95f8fcd24.jpg",
+        "intro": "Lass dich von einem Telefon in eine mysteri\u00f6se Welt entf\u00fchren.",
+        "description": "- Ein 2D-Adventure, in dem du eine mysteri\u00f6se Welt erkundest.\nDas Spiel beginnt mit Jill, die in eine dunkle Welt hineingezogen wurde und die sich nun vor einer gro\u00dfen, mysteri\u00f6sen T\u00fcr wiederfindet.\nIhr Retter in dieser Situation ist Graham\u00a0\u2013 ein Telefon.\nDurch Eingabe von sechs Ziffern kann Jill mit Graham jene Welt transformieren und die seltsamsten Umgebungen erschaffen.\nErkunde je nach Ziffernkombination eine Vielzahl verschiedener R\u00e4ume, sammle n\u00fctzliche Items und finde den Schl\u00fcssel zu der schwebenden T\u00fcr, um dieser Welt endlich entfliehen zu k\u00f6nnen.\n\nEs gibt nicht nur ein Ende zu dieser Geschichte. F\u00fchre Jill zu allen Enden und finde die Wahrheit \u00fcber die Welt von \"\"Strange Telephone\"\" heraus!",
+        "languages": [
+            "ja",
+            "en",
+            "zh"
+        ],
+        "size": 89128960
+    },
     "70010000024832": {
         "id": "0100E5A00FD38000",
         "rightsId": null,
@@ -42195,6 +42633,94 @@
             "en"
         ],
         "size": 0
+    },
+    "70010000025973": {
+        "id": "0100ABF008968000",
+        "rightsId": null,
+        "name": "Pok\u00e9mon Schwert + SteelBook\u00ae",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191115,
+        "nsuId": 70010000025973,
+        "category": [
+            "RPG",
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/106d6552aa19fc16b2a016143000af0713857f940b9b11f53e0906a4c87025b2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8cae9e7405294d12936b4cc74d62829dfd6342ed7ef439cca47415263c96e64f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4d20ad62989bce38696e3c86d639e45b9c5d06c1816cf2e9f7ce2a2057f28dc1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3842c123f5516000a1d37e0dc0286947db0430c1d3341aaba415b9aba4eee781.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b3d4460b1eb47ce274e23416cb9dd0e2c16a75fcc2a689a33e6e574fd219fed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e73bdbe943ab8344998cac6bd2a1efc03c2efbcae97350e9451805455fa61bd4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69d299013a97782d23fb2c981a2d81b20d70ca4fa1fdf792568660deddf85b5d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c68dc2cef4d698608b86d2bca05b33b3659fff386b09a199588d9170c2ea4e9b.jpg",
+        "intro": "Jetzt vorbestellen und ein kostenloses SteelBook\u00ae erhalten!",
+        "description": "Bonus (solange der Vorrat reicht): Erhalte ein kostenloses SteelBook\u00ae bei der Vorbestellung im Nintendo eShop!\n\nDieses Bundle enth\u00e4lt das Spiel Pok\u00e9mon Schwert und ein Pok\u00e9mon Schwert-SteelBook\u00ae, auf dem das Legend\u00e4re Pok\u00e9mon Zacian zu sehen ist.\nDas SteelBook\u00ae kann \u00fcber einen Gutscheincode, der auf der E-Mail-Quittung f\u00fcr den Bundle-Kauf enthalten ist, kostenlos im My Nintendo Store bestellt werden (inkl. kostenlosem Versand).\nDer Gutscheincode f\u00fcr das Pok\u00e9mon Schwert-SteelBook\u00ae kann bis zum 31.01.2020 unter nintendo.de/PokemonSchwertSteelBook eingel\u00f6st werden.\n\nDieses Aktions-Bundle ist nur erh\u00e4ltlich, solange der Vorrat reicht. Sobald es vergriffen ist, wird es aus dem Nintendo eShop entfernt.\n\nDownloads, die \u00fcber einen Nintendo Switch-Game-Coupon oder einen Downloadcode get\u00e4tigt wurden, k\u00f6nnen f\u00fcr diese Aktion nicht ber\u00fccksichtigt werden.\n\nBonus bis zum 15.01.2020:\nDownloadcode f\u00fcr zw\u00f6lf Flottb\u00e4lle f\u00fcr Pok\u00e9mon Schwert.\nDer Downloadcode ist bis zum 30.11.2020 g\u00fcltig.\n\nGalar ist eine weitl\u00e4ufige Region mit vielen unterschiedlichen Umgebungen, von idyllischen Dorflandschaften \u00fcber moderne St\u00e4dte und dichte W\u00e4lder bis hin zu zerkl\u00fcfteten, schneebedeckten Bergen. Die Menschen und Pok\u00e9mon, die in dieser Region Seite an Seite leben, haben die dortigen Industrien durch ihre gemeinsame Arbeit entwickelt. \n\nAuf deiner Reise wirst du in den Arenen der Galar-Region antreten k\u00f6nnen, um dir den Titel des Champs zu erk\u00e4mpfen! Du wirst dabei jedoch nicht allein sein, sondern von einem von drei neu entdeckten Pok\u00e9mon begleitet werden, das du dir als Partner-Pok\u00e9mon aussuchen kannst!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 10244587520
+    },
+    "70010000025982": {
+        "id": "01008DB008C2C000",
+        "rightsId": null,
+        "name": "Pok\u00e9mon Schild + SteelBook\u00ae",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191115,
+        "nsuId": 70010000025982,
+        "category": [
+            "RPG",
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/56a2c59387496a516d571af16746aa7a332836596ff6cb7ccf3e9020156e0036.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8cae9e7405294d12936b4cc74d62829dfd6342ed7ef439cca47415263c96e64f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4d20ad62989bce38696e3c86d639e45b9c5d06c1816cf2e9f7ce2a2057f28dc1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3842c123f5516000a1d37e0dc0286947db0430c1d3341aaba415b9aba4eee781.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b3d4460b1eb47ce274e23416cb9dd0e2c16a75fcc2a689a33e6e574fd219fed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e73bdbe943ab8344998cac6bd2a1efc03c2efbcae97350e9451805455fa61bd4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69d299013a97782d23fb2c981a2d81b20d70ca4fa1fdf792568660deddf85b5d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aae1d176ac9c8fb455b938c4c672383f7b3e72b3617d71452114d00b60433ceb.jpg",
+        "intro": "Jetzt vorbestellen und ein kostenloses SteelBook\u00ae erhalten!",
+        "description": "Bonus (solange der Vorrat reicht): Erhalte ein kostenloses SteelBook\u00ae bei der Vorbestellung im Nintendo eShop!\n\nDieses Bundle enth\u00e4lt das Spiel Pok\u00e9mon Schild und ein Pok\u00e9mon Schild-SteelBook\u00ae, auf dem das Legend\u00e4re Pok\u00e9mon Zamazenta zu sehen ist.\nDas SteelBook\u00ae kann \u00fcber einen Gutscheincode, der auf der E-Mail-Quittung f\u00fcr den Bundle-Kauf enthalten ist, kostenlos im My Nintendo Store bestellt werden (inkl. kostenlosem Versand).\nDer Gutscheincode f\u00fcr das Pok\u00e9mon Schild-SteelBook\u00ae kann bis zum 31.01.2020 unter nintendo.de/PokemonSchildSteelBook eingel\u00f6st werden.\n\nDieses Aktions-Bundle ist nur erh\u00e4ltlich, solange der Vorrat reicht. Sobald es vergriffen ist, wird es aus dem Nintendo eShop entfernt.\n\nDownloads, die \u00fcber einen Nintendo Switch-Game-Coupon oder einen Downloadcode get\u00e4tigt wurden, k\u00f6nnen f\u00fcr diese Aktion nicht ber\u00fccksichtigt werden.\n\nBonus bis zum 15.01.2020:\nDownloadcode f\u00fcr zw\u00f6lf Flottb\u00e4lle f\u00fcr Pok\u00e9mon Schild.\nDer Downloadcode ist bis zum 30.11.2020 g\u00fcltig.\n\nGalar ist eine weitl\u00e4ufige Region mit vielen unterschiedlichen Umgebungen, von idyllischen Dorflandschaften \u00fcber moderne St\u00e4dte und dichte W\u00e4lder bis hin zu zerkl\u00fcfteten, schneebedeckten Bergen. Die Menschen und Pok\u00e9mon, die in dieser Region Seite an Seite leben, haben die dortigen Industrien durch ihre gemeinsame Arbeit entwickelt. \n\nAuf deiner Reise wirst du in den Arenen der Galar-Region antreten k\u00f6nnen, um dir den Titel des Champs zu erk\u00e4mpfen! Du wirst dabei jedoch nicht allein sein, sondern von einem von drei neu entdeckten Pok\u00e9mon begleitet werden, das du dir als Partner-Pok\u00e9mon aussuchen kannst!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 10244587520
     },
     "70030000005902": {
         "id": null,
@@ -57646,6 +58172,31 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e6240da6d64bd5b3bfe0118972807feb9a3ab09401e56b01234b73374f4ef972.jpg",
         "intro": "In der ersten gro\u00dfen Handlungs-Erweiterung wirst du deine eigene Taverne bauen und die Vergangenheit der Welt von Graveyard Keeper erforschen.",
         "description": "- 4-8 Stunden zus\u00e4tzliches Gameplay.\n- Baue und betreibe deine eigene Taverne. Endlich geh\u00f6rt dir deine eigene Bar!\n- Organisiere Rattenrennen und Standup-Shows.\n- Lerne die Dorfbewohner besser kennen und hilf ihnen bei dutzenden von Auftr\u00e4gen.\n- Hilf Gerry dabei, seine Erinnerungen zur\u00fcckzubekommen.\n- Erfahre, was vor 200 Jahren geschehen ist. Entdecke die Geschichte der Spielwelt und deiner Rolle in ihr.\n\nEs geht nicht nur um die Vergangenheit. Erinnerst du dich an den Holzf\u00e4ller, den Imker, die Br\u00fcder Corey und Tress und andere stumme NPCs? Fast alle von ihnen haben in dieser Erweiterung etwas zu sagen! Und irgendwie sind sie alle noch durchgeknallter als im Hauptspiel. Auf der Suche nach mysteri\u00f6sen Artefakten wirst du mehr \u00fcber die Hintergrundgeschichte und die Beziehungen der Dorfbewohner untereinander erfahren... wenn du sie davon \u00fcberzeugen kannst, mit dir zu reden.",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000017501": {
+        "id": "010017700B6C3001",
+        "rightsId": null,
+        "name": "Space Costume",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191029,
+        "nsuId": 70050000017501,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Playful",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5d71fb154d3a9fbe56aae8e1c2ec000ca73bf607917514a7d788da30d6dd5b95.jpg",
+        "intro": null,
+        "description": "Lucky's Space Suit costume",
         "languages": null,
         "size": 4194304
     },
