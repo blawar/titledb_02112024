@@ -2063,6 +2063,34 @@
             "version": 65536
         }
     },
+    "010018900DD0000": {
+        "C35190AD7468CB42": {
+            "17ba72b8634d0e69cb7799b75ee3d54ead775a5fd3925fa8ba96b57278f5f7ff": {
+                "source": "58000000 0420E510\n78000000 00002158\n61000000 00000000 000000C8",
+                "title": "[Infinite Bullets]"
+            },
+            "39438107310ea3afb607e9b895259996338e4eed111c7fae8aa652fe4ca8f6b9": {
+                "source": "58000000 0420E510\n78000000 000020E0\n61000000 00000000 000000C8",
+                "title": "[Infinite Armor]"
+            },
+            "3a069a5a8fd65e11dbe67c17ffd7bf79ca5cd1106b3ffe9f80b825c9e288ecff": {
+                "source": "58000000 0420E510\n78000000 00002160\n62000000 00000000 0000012C",
+                "title": "[Inf Cells]"
+            },
+            "3da189bed2f3a1fb6c06b3cd2778e118f5a993d03172f9d4462c857249d33ea2": {
+                "source": "58000000 0420E510\n78000000 0000215C\n61000000 00000000 00000032",
+                "title": "[Infinite Shotgun Rounds]"
+            },
+            "42a1b4355b927e3fbd1178558f411585a083e27dcace37b4bce84aad88ab78ae": {
+                "source": "58000000 0420E510\n78000000 00002164\n61000000 00000000 00000032",
+                "title": "[Inf Rockets]"
+            },
+            "f8610d0c19519e0cef0b3e3b041fbc2503d5b527e2f0d297560bbb838cfd0125": {
+                "source": "58000000 0420E510\n78000000 000020DC\n61000000 00000000 000000C8",
+                "title": "[Infinite Health]"
+            }
+        }
+    },
     "0100192003FA4000": {
         "758226EAE49FE1BB": {
             "0952fb4428bf6fae82f5e00a3e687efc253fa709fadec6a3a705792554a81311": {
@@ -3506,6 +3534,14 @@
                 "source": "581F0000 067D84E8\n780F0000 0000367F\n610F0000 00000000 0000003D\n80008000\n610F0000 00000000 000000CD\n20000000",
                 "title": "[Descent (Hold Down)]"
             },
+            "0fe3e7c11f3354dac9228ae34fde40b772bbbb949660ccd6122a15c31066a722": {
+                "source": "581F0000 067D84E8\n780F0000 00003673\n610F0000 00000000\n00000041 80000080\n610F0000 00000000\n000000C1 20000000",
+                "title": "[Montez et maintenez le bouton R]"
+            },
+            "264e586631dc367f0da2c8f3f75fe9d6973694640cfe8ea6e3c602a7a103599b": {
+                "source": "581F0000 067D84E8\n780F0000 0000367F\n610F0000 00000000\n0000003D 80008000\n610F0000 00000000\n000000CD 20000000",
+                "title": "[Drop maintenez la touche croix enfonc\u00e9e]"
+            },
             "2db3c7c8efd7398e5d9455050234a6df7e836cacd6bb0e5a4fc1794ee3413aa6": {
                 "source": "581F0000 067D84E8\n780F0000 000042A0\n640F0000 00000000 44480000",
                 "title": "[Infinite Health]"
@@ -3514,13 +3550,33 @@
                 "source": "581F0000 067D84E8\n780F0000 00003673\n610F0000 00000000 00000041\n80000080\n610F0000 00000000 000000C1\n20000000",
                 "title": "[Rise (Hold R)]"
             },
+            "43ab18725a5a87f571ee14d11d1c1ccdae1b52b87bcaeef279e2cbb3b6b83b9b": {
+                "source": "581F0000 067D84E8\n780F0000 000011B0\n680F0000 40800000\n40800000 780F0000\n00000008 640F0000\n00000000 40800000",
+                "title": "[Acc\u00e9l\u00e9rer la course]"
+            },
             "7239013eba19323c29de62107625c9e1c0411fa8d1d831ea3dc102b1665d47b2": {
                 "source": "581F0000 067D84E8\n780F0000 000011B0\n680F0000 40800000 40800000\n780F0000 00000008\n640F0000 00000000 40800000",
                 "title": "[Speed Up]"
             },
+            "9170e9ba8288bef5a611f7b5dffc00b4871f8e8a5ecca0a52e9818a6a5944fc2": {
+                "source": "581F0000 067D84E8\n780F0000 00005196\n300E0000 00000006\n620F0000 00000000\n000003E7 780F0000\n00000028 310E0000\n20000000",
+                "title": "[Article illimit\u00e9]"
+            },
             "c6ccd1bef1dd00722b6c1b0908a516ba490177c1783a3ed6e60145457bc2ab02": {
                 "source": "581F0000 067D84E8\n780F0000 00003673\n610F0000 00000000 00000041\n80002000\n610F0000 00000000 000000C1\n20000000",
                 "title": "[Rise (Hold Up)]"
+            },
+            "c9daa6c2b38dfc5cb0e8355c9c588c6f13ef404ce2febebc4a269de54fa15e0b": {
+                "source": "581F0000 067D84E8\n780F0000 0000507E\n300E0000 00000006\n620F0000 00000000\n000003E7 780F0000\n00000028 310E0000\n20000000",
+                "title": "[Bullet illimit\u00e9]"
+            },
+            "d6fc4aee9ef56615b74797f993ded7501617679f83068d3b61d79a53779c8a97": {
+                "source": "581F0000 067D84E8\n780F0000 000042A0\n640F0000 00000000\n44480000",
+                "title": "[Fente corporelle infinie]"
+            },
+            "fc0fc00f7f8f2a006c565b7a429bfc72748ef09ab387ff265085a25b84f5802e": {
+                "source": "581F0000 067D84E8\n780F0000 00001368\n640F0000 00000000\n03840384",
+                "title": "[Hp ne diminue pas]"
             }
         }
     },
@@ -20574,6 +20630,34 @@
                 "title": "[Too many studs chronopolis only]"
             },
             "version": 393216
+        }
+    },
+    "0100D4F00DD02000": {
+        "1F6C11F9AE3C2148": {
+            "57a37237bc33de5bb8ba8bb4d6dfad3bc60e8a5722aaf298a3449a06c235e8dc": {
+                "source": "58000000 0420D550\n78000000 00002160\n62000000 00000000 0000012C",
+                "title": "[Inf Cells]"
+            },
+            "67b4c381c810d2da7c4850e269394f21cfca13be0aeb8ddf091f0d6567b0b9d5": {
+                "source": "58000000 0420D550\n78000000 00002164\n61000000 00000000 00000032",
+                "title": "[Inf Rockets]"
+            },
+            "97ed95a1cb6fef98eccee2d8fc1b35a14888639276acc4daa564d5726f6374df": {
+                "source": "58000000 0420D550\n78000000 000020DC\n61000000 00000000 000000C8",
+                "title": "[Inf Health]"
+            },
+            "b8b8fac80946a8d09ffbf5555bab3e299bd87fc2c0b4573b97c7dc71ff961713": {
+                "source": "58000000 0420D550\n78000000 00002158\n61000000 00000000 000000C8",
+                "title": "[Inf Bullets]"
+            },
+            "dcb5c25311d8c230ad3791f93ca421e7e1ffd76f21c697e640eed291487033d1": {
+                "source": "58000000 0420D550\n78000000 000020E0\n61000000 00000000 000000C8",
+                "title": "[Inf Armor]"
+            },
+            "f4108737ab422cb312d00a6a1379c28a1624961a17c64852713fb6fb4475208e": {
+                "source": "58000000 0420D550\n78000000 0000215C\n61000000 00000000 00000032",
+                "title": "[Inf Shotgun Rounds]"
+            }
         }
     },
     "0100D6200933C000": {
