@@ -13386,6 +13386,52 @@
         }
     },
     "010078D000F88000": {
+        "0F4992D359C3B6DD": {
+            "052273f1b965b37e3a3c4f4b6ac1460901393f89e33828b59e28b55a20a6d20b": {
+                "source": "041F0000 54A2E964 00000064",
+                "title": "[KI MAX]"
+            },
+            "0685f8d8d7afc6575186d26b9bb9e327bba48f5458d981928b60db9b9ee02008": {
+                "source": "041F0000 54A2E95C 0000270F",
+                "title": "[Attribute Points MAX]"
+            },
+            "0786f46df192f38c2b0aca353a75fb5868657f9ec674e3cee72c8ac4793b85a6": {
+                "source": "041F0000 54A100A4 3B9AC9FF",
+                "title": "[Zeni MAX]"
+            },
+            "0bfa19714ee4641165981a4692533ee80ad4ca708f194ffcc50ff761d7c3adf6": {
+                "source": "041F0000 54A2E96C 00000064",
+                "title": "[Strike Supers MAX]"
+            },
+            "40f11d09772c684b978ef8c0ea63357d31021ef976f98350931c04247f9d8940": {
+                "source": "041F0000 54A2E970 00000064",
+                "title": "[KI Blast Supers MAX]"
+            },
+            "4b9283c7b0d006ada134ae2945c1758fa1599ca1c82d896644da15d51c18a18e": {
+                "source": "041F0000 54A2E954 00000063",
+                "title": "[Level MAX]"
+            },
+            "620d799384a2d0e3c8da8e131e211d3b645ee2122562684802ecb0e387a363bd": {
+                "source": "041F0000 54A100A8 3B9AC9FF",
+                "title": "[TP MAX]"
+            },
+            "68e4994c912ec1d35fdda6fb6c738a53ce730941dbbc4f5abac2a70506f2ebcd": {
+                "source": "041F0000 54A2E968 00000064",
+                "title": "[Basic Attacks MAX]"
+            },
+            "83d1e728b958b1dca1fc1c2955591c97177ceb7e94f170800c651777cdf00cfe": {
+                "source": "041F0000 54A2E960 00000064",
+                "title": "[Health MAX]"
+            },
+            "eaca699533b9b06f241fee67324451aa8581ec166ae0a8f89155dea173a0cdf9": {
+                "source": "041F0000 54A2E958 3B9AC9FF",
+                "title": "[EXP MAX]"
+            },
+            "f1d68b2920d276867cc0159f940aca40291c10b75376a88e538b65d7a6629178": {
+                "source": "041F0000 54A2E974 00000064",
+                "title": "[Stamina MAX]"
+            }
+        },
         "15F6AFFE27BC79DC": {
             "03bf49983e04c7eb41bc5d958147c2b744d999b51392571f70746e27f61face0": {
                 "source": "041F0000 54C100A4 05F5E100",
@@ -20364,6 +20410,46 @@
             "version": 0
         }
     },
+    "0100D1900EC80000": {
+        "5017110DB5AAC6CC": {
+            "389db6c2bcf96d0984ec751cb711e4ad3b109c64bd791e6441f30e18739183be": {
+                "source": "04000000 017BE8DC 0000270F\n04000000 017BE8E0 0000270F\n04000000 017BE8E4 0000270F",
+                "title": "[Ryza HP9999]"
+            },
+            "436ee7cc7e5da4a53f767b296e6071a7a68fbcba824156aa2bd2b2ef20b1a0d8": {
+                "source": "04000000 017BF07C 0000270F\n04000000 017BF080 0000270F\n04000000 017BF084 0000270F",
+                "title": "[Lanto HP9999]"
+            },
+            "43a2ed35e6cd3906b439963bdd33be083d43b0f4afcc49d4eba69a9ddc043a87": {
+                "source": "04000000 017BF44C 0000270F\n04000000 017BF450 0000270F\n04000000 017BF454 0000270F",
+                "title": "[Tao HP9999]"
+            },
+            "5c6d6d86647abe06fab8b2ec14e3c9ae2af5fe5fe58ffad1ac97c79dfc9aed58": {
+                "source": "04000000 017BF458 0000270F\n04000000 017BF45C 0000270F\n04000000 017BF460 0000270F\n04000000 017BF464 0000270F\n04000000 017BF468 0000270F\n04000000 017BF46C 0000270F",
+                "title": "[Tao attack and defense Min Ling MAX]"
+            },
+            "6829f04a6fe3208a5e121ef99df5091441ca107853de18ca7cb91e14b2ce1e77": {
+                "source": "04000000 017BE8C0 3B9AC9FF",
+                "title": "[money 999999999]"
+            },
+            "c59fda9f6c0b5ae1eebf06ff36d60a56ed2c4f80805038f5551e3814a3ea8f63": {
+                "source": "580F0000 0173F9A0\n780F0000 00000009\n300E0000 00001388\n620F0000 00000000 00006363\n780F0000 00000042\n310E0000\n20000000",
+                "title": "[Proper quality]"
+            },
+            "c7841ab83c4a7899d99e78459bdea49b2b7ff4b1ddae065ca9e63c220eca963d": {
+                "source": "04000000 017BF088 0000270F\n04000000 017BF08C 0000270F\n04000000 017BF090 0000270F\n04000000 017BF094 0000270F\n04000000 017BF098 0000270F\n04000000 017BF09C 0000270F",
+                "title": "[Lanto attack and defense Min Ling MAX]"
+            },
+            "d0995e09c3c72a9aef29dc93ae2e6caa6333c209f45e650315a4f07d042a05b8": {
+                "source": "580F0000 0173F9A0\n780F0000 00000004\n300E0000 00001388\n620F0000 00000000 000003E7\n780F0000 00000042\n310E0000\n20000000",
+                "title": "[Proper quality 999]"
+            },
+            "d71c92a16acde68de8f8f295f77a50ba5e82b5de4c4f93cddd22623cf8c9cdc9": {
+                "source": "04000000 017BE8E8 0000270F\n04000000 017BE8EC 0000270F\n04000000 017BE8F0 0000270F\n04000000 017BE8F4 0000270F\n04000000 017BE8F8 0000270F\n04000000 017BE8FC 0000270F",
+                "title": "[Ryza Attack and Defense Mind MAX]"
+            }
+        }
+    },
     "0100D1B006744000": {
         "29E1A37D84227147": {
             "3c6fbf092e5cc45197d145d6a2222f3fbf0ae51ff8a8c1900e4bf64461102aba": {
@@ -24551,6 +24637,40 @@
             "c69689ca1ccec8ea71bcc4f3669117898f7ad8ff3f3bbf7fa1a8fbb2fadf4a13": {
                 "source": "04000000 00712520 1E27D000",
                 "title": "[RelicRace Crate add 30sec to freeze timer]"
+            }
+        },
+        "D614A20DDE59E4D7": {
+            "1539cf2bd45bae6065efee647ea8d50c54e7c3447d28751ea75109e2b8c4ac5f": {
+                "source": "04000000 010542D0 52800020",
+                "title": "[Unlock Penta Pinguin]"
+            },
+            "18b31bda4cc9f0ef0d85c689b2f93973666011d33636d0a2bb1c389bcb46fb9b": {
+                "source": "04000000 01053FA8 52800020",
+                "title": "[Unlock All Ordinary Items]"
+            },
+            "21dc76dd53e41636c85d7d01c1bef74fe1d9f35b770395591d290e12ba738f31": {
+                "source": "04000000 010550FC 52800020",
+                "title": "[Unlock All Pit Stop Items]"
+            },
+            "3428166b3d77b20d769dc8367ffcd58f21c182ab7bedb5a5ef775634d1f45705": {
+                "source": "04000000 01054BF0 52800020",
+                "title": "[Unlock N.Tropy]"
+            },
+            "4a67ceebf9ac39c492ba818a7d2e62168e7180d3132ade7885497b318d9396f1": {
+                "source": "04000000 00E527F0 11001508",
+                "title": "[CrystalRace 1 Crystal is worth 5]"
+            },
+            "a0cfbd155beb828def3224bba93d4b67ce5a92b9dda843c64754306812fb8c6e": {
+                "source": "04000000 01054578 52800020",
+                "title": "[Unlock All Skins]"
+            },
+            "b4a049d3ad0cc18c6ee54e73beb03bc38bcc8d21930fba9f7afcc3117dc68747": {
+                "source": "04000000 00FA4D2C 1E27D000",
+                "title": "[RelicRace Crate add 30sec to freeze timer]"
+            },
+            "ce455737658b5e3f35b59a667805712ccf10b7edba3533f94e45a898ad23e79a": {
+                "source": "04000000 01054E30 52800020",
+                "title": "[Beat All Oxide Times - Digital NTropy Skin]"
             }
         },
         "EC79BF385ED287E8": {
