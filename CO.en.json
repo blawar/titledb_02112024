@@ -2149,7 +2149,7 @@
             "https://img-eshop.cdn.nintendo.net/i/4cd10146d6ed2b52c0a2bd4e101cac42072ad19c37fa11afc33b15751c783bdb.jpg",
             "https://img-eshop.cdn.nintendo.net/i/27f202d839c2f8f5be7b87e970d67ba3613257bf81a455b7a1730bf7b99bc536.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5afcc52929670ad67cca124937893371ee23de7bea04540e64ec0097d0f9a4c6.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aa76ed4ae6eed8a8160643e1ff1b9f964468270b9ed6a26fdae8bb4f91576ba1.jpg",
         "intro": "Gather, craft, and build a realm to defend",
         "description": "To stop the worshippers of an ancient evil, you must join forces with the mysterious Malroth and build a ravaged world into the realm of your dreams. In this RPG adventure, you\u2019ll explore huge islands, gather and craft with materials, design towns, level them up, and defend them from monsters and bosses alongside townspeople. As you progress, you\u2019ll unearth crafting and building recipes. Dash, glide, explore underwater, fast travel, and play in optional first-person perspective as you try to find them all. In the Isle of Awakening, you and up to three other Builders can explore together in local wireless*; or play online** together too.\n\nShare screenshots by posting them online through the Noticeboard, or visit other players\u2019 islands and use the Magic Pencil to create a blueprint of a favorite creation.*** You can get recipes that let you craft the Legendary Builder\u2019s outfit and the Dragonlord\u2019s Throne by owning the original DRAGON QUEST BUILDERS game on the Nintendo Switch\u2122 system. Why not adventure in style as you take quests to help those in need, engage in the daily lives of townspeople, and master the latest farming techniques? All in a day\u2019s work for the Builder! ",
         "languages": [
@@ -3483,7 +3483,7 @@
             "ru",
             "ko"
         ],
-        "size": 13377732608
+        "size": 13449035776
     },
     "70010000016904": {
         "id": "0100E5600D446000",
@@ -3727,6 +3727,59 @@
             "zh"
         ],
         "size": 957349888
+    },
+    "70010000018623": {
+        "id": "0100DDB00DB38000",
+        "rightsId": null,
+        "name": "Just Dance\u00ae 2020",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191105,
+        "nsuId": 70010000018623,
+        "category": [
+            "Music",
+            "Party",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 6,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/38250b0453d0f7e2dad8e3a22e0c8941e40e2b094f182c0443942cb2a8ef662d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6dfc2cdf521905e77f83afe71baa1d9a879671e4be10380d792ecf2fc3f6d37a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c60ee8da720873c67d912c4a5b804060a3da84de3c8b2775a63c53859b7ec5c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/254c4bee0720f5c64a7cd73af4a1265835414918049468c8136a9801d71b50b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b2fa69fa4c23d2b8d30fb8d8c2ea9985683a2779cb7d6bdb7a1aa4c8848eddd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b62973a57f6de81a69e5539f96cde9a323d3fd0aefeca5440227e68a3214ace.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d772fd1fcba9d6c9216c5c4542d7513f00a369c6efe4e11f8c3507d33aacc2c1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/48239a52b0acb74d54aac2820c9d800acafda43f80c66de53260e7dc603dc496.jpg",
+        "intro": null,
+        "description": "Just Dance\u00ae 2020 is the ultimate dance game with 40 hot tracks from chart-topping hits like \u201cOld Town Road (Remix)\u201d by Lil Nas X Ft. Billy Ray Cyrus and \u201cGod Is A Woman\u201d by Ariana Grande. Keep the party going for hours with songs for the whole family to enjoy!\n\n40 Hot New Tracks: Keep the party going with the latest hits like \u201cOld Town Road (Remix)\u201d by Lil Nas X Ft. Billy Ray Cyrus.\n\nFree Just Dance\u00ae Unlimited: Dance to 500+ of your favorite songs!  A free one-month trial is included with every purchase.\n\nChoose Your Favorite Songs: Create your own playlists to customize your Just Dance parties!\n\nKids Mode: Enjoy eight new kid-friendly songs, offering a fun experience for our youngest players.  \n\nPlay Co-op with Friends: Dance to our newest universes and beat the high score together.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 7766802432
     },
     "70010000018692": {
         "id": "010018300D006000",
@@ -4039,7 +4092,7 @@
             "ru",
             "ko"
         ],
-        "size": 11792285696
+        "size": 12119441408
     },
     "70010000019989": {
         "id": "010026000E466000",
@@ -5015,6 +5068,71 @@
         "languages": null,
         "size": 1262485504,
         "parentId": "010061D00DB74000"
+    },
+    "70030000009761": {
+        "id": null,
+        "rightsId": null,
+        "name": "DRAGON QUEST BUILDERS\u2122 2  JUMBO DEMO",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000009761,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Comic Mischief",
+            "Fantasy Violence",
+            "Mild Blood",
+            "Mild Language",
+            "Suggestive Themes",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1587544064,
+        "parentId": "010042000A986000"
+    },
+    "70030000009921": {
+        "id": null,
+        "rightsId": null,
+        "name": "Just Dance\u00ae 2020 Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000009921,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1660944384,
+        "parentId": "0100DDB00DB38000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
@@ -11493,6 +11611,37 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000016732": {
+        "id": "01006A800016F06F",
+        "rightsId": null,
+        "name": "Spirit Board Challenge Pack 3 -Bonus 5000 in-game Gold and 3 Classic Tickets -",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191104,
+        "nsuId": 70050000016732,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bba3a3b3f4369b592bc8892099745b30173f2dfd6905049420d262112c7c4023.jpg",
+        "intro": null,
+        "description": "This is bonus content only available for active Nintendo Switch Online members. These items can be downloaded and used from the Spirit Mode in the Super Smash Bros.\u2122 Ultimate game. \n\n5000 Gold\nClassic Ticket x 3\n\n\n",
+        "languages": null,
+        "size": 8388608
+    },
     "70050000017101": {
         "id": "010017700B6C3001",
         "rightsId": null,
@@ -12540,6 +12689,6 @@
         "intro": "The Future Is Now.\u00a0 Are You With Us?",
         "description": "Overwatch: Legendary Edition includes:\n\u2022\tRedeemable code for Nintendo Switch Online Individual Membership 3-month subscription (Terms apply. nintendo.com/switch-online)\n\u2022\tThe full game\n\u2022\t5 Legendary Hero Skins\n\u2022\t5 Epic Hero Skins\n\u2022\t5 Origin Hero Skins\n\nUnlock a Golden Loot Box\nPurchase and log into Overwatch on Nintendo Switch by December 31, 2019 to unlock a Golden Loot Box with at least 1 guaranteed Legendary item!\n\nBegin your Watch\nJoin the fight for the future in the world of Overwatch\u00ae and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash a dizzying array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.\n\nExperience the Extraordinary\nSpeed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers such as Dragonstrike, Transcendence, Graviton Surge, and so much more. Every hero has a unique set of devastating, game-changing abilities.\n\nPlay Heroes, Not Classes\nEvery hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.\n\nFight for the Future...Together\nTeamwork is imperative for survival as you enter the fight with friends and comrades. Careful coordination will prove the difference between victory and defeat as your team combines the formidable powers at your disposal to devastating effect.\n\nShift Your Perspective\nJust when it seems like your team is destined to go down in defeat, switch heroes on the fly and change the course of the battle. But don\u2019t forget that your opponents can do the same. Master the game within the game as both teams shift strategies and change heroes to try to gain the upper hand.\n\nThe World Is Your Battlefield\nProtect the secrets of the mysterious Temple of Anubis in Egypt, safely escort an EMP device through King\u2019s Row in London, and do battle at many other unique locations. Every map has its own distinct feel with unique gameplay and team-based objectives.",
         "languages": null,
-        "size": 11792285696
+        "size": 12119441408
     }
 }
