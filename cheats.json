@@ -18740,6 +18740,22 @@
             }
         }
     },
+    "0100CE500D226000": {
+        "6E3697980FB82E82": {
+            "082fece4535bc4735b24eb65aa82cd2cf0c413eb1f91a6ca3f2234d46c8fc76f": {
+                "source": "040F0000 00533554 0000270F",
+                "title": "[9999 Picarats]"
+            },
+            "20b6382b4fcb85e095246efff7f22b30ca5a8a5d1b17f24447318f99a7f0ee9d": {
+                "source": "040F0000 00533556 00000063",
+                "title": "[hint coins don't decrease]"
+            },
+            "2162522b5a84b9629bbe69e62336614ee6dd65e649e98e90596a79dacf0c95e7": {
+                "source": "040F0000 00533558 00000063",
+                "title": "[99 hint coins]"
+            }
+        }
+    },
     "0100CEF001DC0000": {
         "E9849E22467B5E3B": {
             "03fd37fcb9c4d38ffe3cd422669d3f6a1a2bbec7d61259224d4aa902f86b6fe7": {
