@@ -166,7 +166,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8e65fa61fcda72488ed5db3e3f134fa1cdf3a7097c4987a58a2ab0ed12f1e816.jpg",
         "intro": "A relaxing hotel getaway... What could possibly go wrong?",
-        "description": "Luigi\u2019s dream vacation turns into a ghostly \u2013 and gooey \u2013 nightmare in Luigi's Mansion 3 for Nintendo Switch!\n\nLuigi embarks on a dream vacation with Mario and friends upon receiving an invitation to a luxurious hotel. However, his dream quickly becomes a nightmare when King Boo reveals everything had been a ploy to capture Mario and friends.\n\nWith the assistance of Professor E. Gadd once again, the reluctant and cowardly hero Luigi traverses up and down treacherous floors of the now-ominous hotel on a quest to save them.\n\nWield the upgraded Poltergust G-00 to slam and blow away the ghosts\u2019 defences, or summon Gooigi, an all-green doppelganger that can help Luigi overcome obstacles he can\u2019t get past alone. Interchange between Luigi and Gooigi as one player, or grab a friend and control one each.\n\nFor more frenetic multiplayer action, race the timer to clear various objectives on a series of floors in ScareScraper mode. ScareScraper mode can be played online or locally with up to eight players on four Nintendo Switch systems.\n\nPlease note: paid downloadable content will come to Luigi's Mansion 3 in the future, adding new content to the ScareScraper and ScreamPark multiplayer modes!",
+        "description": "Luigi\u2019s dream vacation turns into a ghostly \u2013 and gooey \u2013 nightmare in Luigi's Mansion 3 for Nintendo Switch!\n\nLuigi embarks on a dream vacation with Mario and friends upon receiving an invitation to a luxurious hotel. However, his dream quickly becomes a nightmare when King Boo reveals everything had been a ploy to capture Mario and friends.\n\nWith the assistance of Professor E. Gadd once again, the reluctant and cowardly hero Luigi traverses up and down treacherous floors of the now-ominous hotel on a quest to save them.\n\nWield the upgraded Poltergust G-00 to slam and blow away the ghosts\u2019 defences, or summon Gooigi, an all-green doppelganger that can help Luigi overcome obstacles he can\u2019t get past alone. Interchange between Luigi and Gooigi as one player, or grab a friend and control one each.\n\nFor more frenetic multiplayer action, race the timer to clear various objectives on a series of floors in ScareScraper mode. ScareScraper mode can be played online or locally with up to eight players on four Nintendo Switch systems.\n\nPlease note: paid downloadable content will come to Luigi's Mansion 3 in the future, adding new content to the ScareScraper and ScreamPark multiplayer modes!\n\nAdditional controllers and accessories (sold separately) may be required to play multiplayer on Nintendo Switch Lite.",
         "languages": [
             "ja",
             "en",
@@ -3675,6 +3675,50 @@
         ],
         "size": 2416967680
     },
+    "70010000014287": {
+        "id": "0100E9000C42C000",
+        "rightsId": null,
+        "name": "Tick Tock: A Tale for Two",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191205,
+        "nsuId": 70010000014287,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Communication"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Other Tales Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/45be6bbd86f0396e2b61d2c67958db2b23077b355d736b45a79e5dbb6d23c276.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ec588bf816b82287257f96a65b494c01fe65e91b2598a5ab75a56dfeaa23b45e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70d410145718b61904b161ea93c21035d39bae1c75f55092d958f7c981bb6527.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e9b7761d9082348b2e3e8c4efa7856df16b729456cb54d7a28602fe9ac0be50e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/34b57d94312a01a542dee70870f51147ae1ad2a930fe8d9f6d52aee8b7721372.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7fddeb5faeba8d457cbab91bc8f725253f51a8a48d8a202068f774d97518b86.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f755f1dd7b1a8f83e0c9d9b800e603a45213d31a488719c959e7212d23c60e40.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/70e052e9f9145f6194e992296c28eeb3a89308980b58b6bec1bf8dc46a2188b9.jpg",
+        "intro": "Uncover the mystery of a missing sister.\nA two-player co-op game played on two devices.\nPlay with a friend and tell each other what you see.",
+        "description": "In Tick Tock: A Tale for Two you and your friend find yourself trapped in an eerie world created by the skilful clockmaker Amalie Ravn. Your mission is to escape! But to do so you need to navigate a mysterious, sinister clockwork world filled with secrets and cryptic puzzles. To find the truth and ultimately escape this place, you must combine the information on both players\u2019 screens. \n\nPrepare yourselves for a narrative adventure where your communication skills are put to the test. Shout out instructions, discuss what you see, and listen. But remember: time is ticking. \n\nPlay on two devices, local or remotely, all you need is a voice connection. \n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "zh"
+        ],
+        "size": 728760320
+    },
     "70010000014371": {
         "id": "010073A00C4B2000",
         "rightsId": null,
@@ -3715,6 +3759,45 @@
             "en"
         ],
         "size": 1729101824
+    },
+    "70010000014375": {
+        "id": "010000100C4B8000",
+        "rightsId": null,
+        "name": "Jamestown+",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191212,
+        "nsuId": 70010000014375,
+        "category": [
+            "Action",
+            "Shooter",
+            "Multiplayer",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Final Form Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c718d0a07e087f25fea066b00399939f649927121defd420b14fcf6fc64b3472.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/08fa67d64eb1ebed42091abc50ce2b76a9a5e626864d9096227bcfeaf75073ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d070b4c7866c3dc1c1d3012a3686fcc07d7dc84d59c57bcda2a8e73e8c06949.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a442ed40de16f5f778004d83617067866cb1f71c2923a8fffa2a3106ee332557.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a7418ea55588bc2c1f67c25286f1ac785e1134a993b84d88358beea585d7662.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb4730303b8839990b6c2c7596b2968be6aa2aaf12fd05748d0de3a2c695f272.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/145a3728242b77f906f7f59d6a88b1abb3c152959e59e73363c90f8fdada1806.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f2fbc79dfca5a6325732b74ba0999ae9a4d69d832d04d2f995b86253ad454836.jpg",
+        "intro": "17th-century Mars beckons. Bring your friends.",
+        "description": "Set on 17th-century British colonial Mars, Jamestown+ is a neoclassical cooperative shoot-em-up for up to four players. Lush pixelart and an award-winning orchestral soundtrack immerse you in Raleigh\u2019s battle to protect Britain\u2019s last bastion: Jamestown colony. It's designed to be an exciting experience whether this is your first shoot 'em up or your hundredth!\n\nJamestown+ features all the intensity, depth, and lovingly handcrafted pixels of a classic arcade shooter, with a modern twist: deeply-integrated cooperative gameplay.\n\nJamestown's wide array of difficulty levels gives newcomers an exciting way to get into the shoot 'em up genre while also offering experts the crisp controls and intense action they crave.\n\nJamestown+ plays beautifully with any number of players - you'll only lose a credit when the whole team is destroyed at once, so you're always happy to have a bonus friend in on the action!",
+        "languages": [
+            "en"
+        ],
+        "size": 313524224
     },
     "70010000014406": {
         "id": "0100C3300C3F2000",
@@ -20231,7 +20314,7 @@
             "de",
             "it"
         ],
-        "size": 670040064
+        "size": 727711744
     },
     "70010000020801": {
         "id": "010012100E8DC000",
@@ -21370,9 +21453,11 @@
             "RPG",
             "Action"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Pqube",
         "frontBoxArt": null,
@@ -21387,7 +21472,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/86ce31e206ef8fe9d5de3635450de2900cc75046aaf640772a1dacfe74c1ad1c.jpg",
         "intro": "Go on the ultimutt catventure today!",
-        "description": "CAT QUEST II is a 2D open-world action-RPG set in a fantasy realm of cats and dogs. Under threat from a continuing war between the cats of Felingard and the advancing dogs of the Lupus Empire, CAT QUEST II tells the tail of two kings, brought together against their will, on a journey of paw-some discovery to reclaim their thrones.\nPlay as both a cat and dog as you explore their kingdoms solo or with a friend! Quest in a world filled with magic, curious monsters, and go on a catventure like never before!\n\nFollowing the success of the acclaimed CAT QUEST, developers The Gentlebros return to the world of Felingard to expand on the original with more explosive spells, expanded weapon options, an exciting new character switch mechanic, and local co-op!\nFeatures\n- Brand new story set in the world of Felingard - and beyond!\n- All new switch and co-op gameplay. Play as both cat and dog, either alone or with a friend!\n- New weapons types \u2013 Master swords, staves and more to become a fur-midable fighter!\n- More spells bring even more furry judgement to your foes.\n- New passive abilities, whose attributes can be mixed and combined for endless paw-sibilities!\n- Exciting, and varied dungeons filled with new traps and obstacles, making every pounce into the unknown a fresh experience!\n- Em-bark on a litany of side quests, each telling its own story and expanding the lore and universe of CAT QUEST!\n",
+        "description": "CAT QUEST II is a 2D open-world action-RPG set in a fantasy realm of cats and dogs. Under threat from a continuing war between the cats of Felingard and the advancing dogs of the Lupus Empire, CAT QUEST II tells the tail of two kings, brought together against their will, on a journey of paw-some discovery to reclaim their thrones.\nPlay as both a cat and dog as you explore their kingdoms solo or with a friend! Quest in a world filled with magic, curious monsters, and go on a catventure like never before!\n\nFollowing the success of the acclaimed CAT QUEST, developers The Gentlebros return to the world of Felingard to expand on the original with more explosive spells, expanded weapon options, an exciting new character switch mechanic, and local co-op!\nFeatures\n- Brand new story set in the world of Felingard - and beyond!\n- All new switch and local co-op gameplay. Play as both cat and dog, either alone or with a friend!\n- New weapons types \u2013 Master swords, staves and more to become a fur-midable fighter!\n- More spells bring even more furry judgement to your foes.\n- New passive abilities, whose attributes can be mixed and combined for endless paw-sibilities!\n- Exciting, and varied dungeons filled with new traps and obstacles, making every pounce into the unknown a fresh experience!\n- Em-bark on a litany of side quests, each telling its own story and expanding the lore and universe of CAT QUEST!\n",
         "languages": [
             "ja",
             "en",
@@ -21622,7 +21707,7 @@
             "ru",
             "zh"
         ],
-        "size": 1769996288
+        "size": 1784676352
     },
     "70010000021052": {
         "id": "010040A00EA26000",
@@ -21746,6 +21831,51 @@
             "it"
         ],
         "size": 4269801472
+    },
+    "70010000021058": {
+        "id": "010032000EA2C000",
+        "rightsId": null,
+        "name": "BLACKSAD: Under the Skin",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191128,
+        "nsuId": 70010000021058,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "Drugs",
+            "Sex",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Microids",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/80181966879605311688b6ad25f16d9675760170734b2f37d5a656832a92c1d0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/22ff793a76f1a049f8cc4ce00e3fc21e2e898033326c566a0c3102a4d337f00f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c021d92be603493636f91f284d32fb45b6043b0d67f395e6884255ca14867856.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/185abfc33ace7ac527f3c4956d87382c8e5d2dc79f38f9d43342bf309bd93e18.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d0267e1a64093d2a2d23a5ee626585ef3fab6aef5136469cb6d244d2e0d440c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ad6cfcb4af3023e3cb819491fef7d365bb2e04bf0de6715c0b859d404619e981.jpg",
+        "intro": "A dark corruption scandal in the heart of the New York City's underworld\n for charismatic detective John Blacksad",
+        "description": "The early 50s: Joe Dunn, owner of a boxing club, is found dead.\nMeanwhile, rising star Robert Yale, due to take to the ring for the most important fight of his career, has mysteriously disappeared. \nSonia Dunn, Joe\u2019s daughter, takes over the club and must deal with its financial woes. She hires private detective John Blacksad to investigate Yale\u2019s disappearance and to find the missing man. This sinister case will take our investigator to the darkest, most dismal depths of New York.\nWith its anthropomorphic characters and its incredible 1950s feel, BLACKSAD: Under the Skin promises all the eerily dark adventure of a detective novel, just like the eponymous comic book series.\nInvestigations, searches for clues, fights, witness interviews: let your feline instinct guide you as you infiltrate the corrupt world of boxing.\n\n\nFeatures:\n\u2022\tAn official and all-new story for BLACKSAD, set in the comic book series\u2019 unique world, perfectly recreated for gamers.\n\n\u2022\tAn investigative narrative game with gameplay combining investigations, puzzles, quick time events (QTE) and multiple-choice dialog.\n \n\u2022\tMore than 30 characters, including new faces and old favorites, each with their own story and side quests.\n\n\u2022\tAn immersive world with a jazz soundtrack to rival the very best of Hollywood\u2019s film noir.\n\n\u2022\tFans of adventure games will love its gameplay and narration while fans of the comic book series will be thrilled to rediscover the characters and graphic style of this unique world.\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "size": 13220446208
     },
     "70010000021067": {
         "id": "01005B800EA5A000",
@@ -22482,6 +22612,50 @@
         ],
         "size": 407896064
     },
+    "70010000021119": {
+        "id": "0100F6000EAA8000",
+        "rightsId": null,
+        "name": "Must Dash Amigos",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191205,
+        "nsuId": 70010000021119,
+        "category": [
+            "Racing",
+            "Party",
+            "Multiplayer",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "MINIBEAST",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b0077a9e0f4a8b64f14ef78548b1a8d7a923d12c49944e292ce5786a02a997b9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4dbf90154f22d747435f841ed1df05e9d908a671316bcfd6e31203336f9f80c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3910ee6eb9dc327d65921f85a4f178311421f5096e4d40ad5ac7409e680925d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/927d8da8b0c66f97d71ea0f7f73220fabc922ce7fd5cf943a6ffdfe2758156ec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2f3db84d360a280d7d3bc0f8d645182f3b999deb0716247ff5d84ab448194c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48b106fbf6acc47e586d2e3f9d7244cdf4a9716c24ac27a0fc1a1dc2b582c681.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8127bccd3bcfe432d4fde0f50ccf014953ac1e62734a35facf63360b2037579d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/094eaff877d7b24832b3709a7a9ce5b13d8cf6644b5f3721288a18dc40df4cfa.jpg",
+        "intro": "Loco top-down Battle Racer with Pi\u00f1ata Stampedes, Avocados and mayhem for up to 4 Players!",
+        "description": "Experience a Loco top-down Battle Racer filled with Pi\u00f1ata Stampedes, Avocados and mayhem for up to 4 Players! Must Dash Amigos is a humorous, family friendly fun-fest with controls so simple that anyone can play!\n\n- Leave rivals eating your dust as you blaze past them in Race Mode!\n- Dish out the damage in Battle Mode to prove your might!\n- Compete in Tournaments to truly uncover the worthiest champion!\n\nTo survive in this world you cannot just run; you Must Dash Amigos!",
+        "languages": [
+            "es",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "pt"
+        ],
+        "size": 766509056
+    },
     "70010000021129": {
         "id": "010032000EAC6000",
         "rightsId": null,
@@ -22654,6 +22828,45 @@
             "zh"
         ],
         "size": 500170752
+    },
+    "70010000021169": {
+        "id": "01003CE00EAF0000",
+        "rightsId": null,
+        "name": "holedown",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191113,
+        "nsuId": 70010000021169,
+        "category": [
+            "Arcade",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "webbfarbror",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ace9a953009a687a76f0fa6bf5102962bbafb91ae42688c7a0f4c84e0b4ebfed.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/48e8afe1352fb63ab1a62a23339d2634308d764369af111f6cb64213034010eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73b87ed5daac29dcbe6602e41fd5c2cabf22b7283c07064c97a5489c2b1ab56c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e0e582194589fc8f03eb75db3543bad1acaaafffe961e69dda707af7e61e7d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60e3cb05cb318e73fc7af31e2b6ddae368326162991a963d8e628a3aeff8a39d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebd0f15fd1d7870e5551db98dc7015858375bdef61802705abee9c24049e30ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/177bd2cf5bee90a98a19e8cb1ee65bb6fecebf6c539f7aebc0169d8581c926d8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3504f2360332a8030f2c474664c58dcfa68852afbd33d100d53ad5e9ba592871.jpg",
+        "intro": "A delightful ball bouncing spectacle",
+        "description": "Dig deep underground by shooting balls and breaking blocks to traverse your way to the core of planets. With only a certain number of shots per round and some blocks firmly fixed to the wall, thoughtfully strategize and aim the balls for maximum impact. Knock down as many blocks as possible while collecting crystals for upgrades and getting deeper beneath the surface.\n\nNow with couch coop mode, play and collaborate with friends for the first time, each with your own little worm buddy. \n\nChoose your ideal upgrade such as more starting balls, more shots per round, or storing more crystals, based on your play style and overall strategy. Work your way into the procedurally generated planet as you watch the delightful spectacle of balls fly around the screen.\n\nBalance your plan between ball bouncing patterns and unpredictable, surprising bounces in this mesmerizing and curious game oozing with charm. Immerse yourself in a world of extravagant minimalistic art while jamming out to an original space acid soundtrack as you feel the satisfaction of digging further underground.\n\nFeatures:\nCoop mode to play with friends\nLeaderboards to see how you rank\nSix planets to dig through\nOriginal soundtrack of seven diverse and space-acid themed tunes\nA tight experience with 5+ hours of gameplay\nIntuitive, one-handed play\nEndless play mode",
+        "languages": [
+            "ja",
+            "en",
+            "zh"
+        ],
+        "size": 80740352
     },
     "70010000021172": {
         "id": "0100B2700E9F4000",
@@ -24611,6 +24824,48 @@
             "en"
         ],
         "size": 213909504
+    },
+    "70010000021635": {
+        "id": "01009EE00E91E000",
+        "rightsId": null,
+        "name": "Some Distant Memory",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191114,
+        "nsuId": 70010000021635,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Mild Swearing",
+            "Sexual Innuendo"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Way Down Deep",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0f57ed36d0849830ca4d51105805fc01cf176bc62d8a0714b1f30c6e03bfc22b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f89e4c27f7a645ece96cead75b454b002ec2ae509261cab20eaa423763e3c8a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e1616f0719f702a570a9185458310f4b23e942c1a543f8b58d984a5ca200403.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a186eeff5de077084273acf8c53c94292f749e8b723c0f8514854a3e64239d01.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46d2e003dcd8c539ae60cb2350b8803f2a8fb5a75d3ca40d759743c587178da4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/57010e29f0e2b8c95bae401b1a5c0dc32f6adea5173233baa0e613c90786a50a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa15edb956eacfbb2b26a096f2e2a528c9d3a7f8e7dcd53cf9a5f61fdc0d89d9.jpg",
+        "intro": "Rebuild their memories.\nRelive their lives.\nThe future ends without the past.",
+        "description": "Some Distant Memory is a hand-drawn story exploration game set 300 years after the apocalypse. You play an archaeologist named Professor Zay, joined by her companion, ARORA, a centuries-old AI capable of recreating human memories from scanned relics.",
+        "languages": [
+            "ja",
+            "en",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 2579496960
     },
     "70010000021644": {
         "id": "01005A100ED8A000",
@@ -29058,6 +29313,51 @@
         ],
         "size": 1102053376
     },
+    "70010000022737": {
+        "id": "010084600F51C000",
+        "rightsId": null,
+        "name": "Demon Pit",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191225,
+        "nsuId": 70010000022737,
+        "category": [
+            "Arcade",
+            "Shooter",
+            "Action",
+            "First-Person Shooter"
+        ],
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Digerati",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9f6abac9a25c702c87f841fb66d428f675cdbf1e0dd05999120ffcea87aa77e8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/176a4a9410d4d0bfb7b08f2c26ace6c69dab0ccb4ada56f640f97835c5885baf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bc9c148542a532e72ebe47331e3c8a6dae2295c3a1884f64f76232a21935702.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c133e59a135d4f4e25ee34e6c8e261f6339c11a6dc04ce5ffa00ed5f6debc02.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c2f671a62b8d48ba7cc393c97ad71890cb7aa914bb97ac19b5af0ff7bde5987c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46c7b037bd2a1e01583f8a3589d9c0de1c35fb85f9d93190fb80249d11095c71.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b69c03cb22f61f71a5d33f45818d8d3b6a5ea305c3b12c7b3d1ed0cd925f992.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4d834d7d1f02473331c06acab4714dedc287aee6ee6d15b22def2924fed1f044.jpg",
+        "intro": "The pit awaits!",
+        "description": "Arise Demon Hunter. It is time. The years you spent slaughtering demon-kind in the mortal world did little to cleanse your soul. Your sins have been laid bare and you have been judged. You are damned for eternity. The pit awaits!\n\nInspired by the fast-paced FPS games of the 1990s, Demon Pit is an intense arcade-style arena shooter. Armed with a series of ranged weapons and a soul grapple, you must fight and out maneuver endless waves of demons in a constantly changing environment. How long can you survive before they rip your flesh and claim your soul?\nBattle 10 types of hideous hell spawn\nRepel the demon horde with 7 varied weapons\nUse your soul grapple to traverse the arena quickly and avoid the oncoming legion\nMaster movement to survive the changing environment and its hazards\nConstantly kill to keep your multiplier alive and compete for leaderboard immortality.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru"
+        ],
+        "size": 319815680
+    },
     "70010000022739": {
         "id": "0100E2800EF4A000",
         "rightsId": null,
@@ -29508,7 +29808,7 @@
             "ko",
             "zh"
         ],
-        "size": 667942912
+        "size": 895483904
     },
     "70010000022959": {
         "id": "010088F00F66C000",
@@ -30821,7 +31121,7 @@
         "languages": [
             "en"
         ],
-        "size": 1228931072
+        "size": 1312817152
     },
     "70010000024092": {
         "id": "010077500FA64000",
@@ -31075,6 +31375,51 @@
             "zh"
         ],
         "size": 563085312
+    },
+    "70010000024397": {
+        "id": "0100BC400FB64000",
+        "rightsId": null,
+        "name": "Balthazar's Dream",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191114,
+        "nsuId": 70010000024397,
+        "category": [
+            "Adventure",
+            "Arcade",
+            "Action",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Dolores Ent.",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/253c6d67ee791b762df06880f11c67988200e6553fad32918978e65ef044540c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/082a83ca545941139b48f5efa41a5437f7da14b11369f2b029e7a5e35d99e27e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bf998e0809e346af169682a0d0493f975a103882cecab35024575c9781dcbd9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5df9a27cce95a7bbd0968f6bcee9362c2e4314c7ebffa7e3185b0d2da63b5483.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac8e5852fe2deb930771c5f189df4f8b04f85eb02477fea766f901891e1f0c0b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4518f09d70a8b880744e4798306959111d9cba2e5d8a8108859ddbeab66f3fd4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee3646b35a201a4438705bcad20a6b897d4a5fb0d61281c716a439fdaf6bc98e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f1adfb6ee56591ee38ff21a920603273354b153b2036a04bf6aa407be34c1f13.jpg",
+        "intro": "Balthazar's Dream is a platformer with puzzle elements",
+        "description": "A kid named Dustin goes into a coma after being hit by an ice cream truck. His injuries are serious and there is virtually no hope of him waking up.\nHis dog sleeps by his side, dreaming of strange and mysterious lands filled with canine wonders. It is Balthazar - Dustin's best friend and there is no way in the world he will move even an inch away from his owner.\nIn his dream Balthazar senses a presence of two entities. Recognizing one as Dustin he uses his nose to follow him, while the other presence lurks menacingly in the darkness. Balthazar is sure that it is here to take the boy away.\n\nWith a loud bark Balthazar embarks on a quest to save his owner, venturing through the dreamscape with love and determination only a dog can possess.\n\nFEATURES\n\u2022 10 levels\n\u2022 3 dogfights with bosses\n\u2022 5 different dog breeds to play with\n\u2022 Launching your dog into space\n\u2022 Emotional soundtrack\n\u2022 Challenging platformer segments",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 1682964480
     },
     "70010000024427": {
         "id": "0100F3A00FB78000",
@@ -31733,6 +32078,96 @@
             "de"
         ],
         "size": 226492416
+    },
+    "70010000025347": {
+        "id": "010087200289A000",
+        "rightsId": null,
+        "name": "Riverbond",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191210,
+        "nsuId": 70010000025347,
+        "category": [
+            "Action",
+            "Adventure",
+            "Arcade",
+            "Party"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Cococucumber",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c2d437e368edeee98a28f6efa0f510791bb74ee81d4130bcb1c605b9f7d3e037.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ce4a7ede1ce23203f9efc794d753cda5953586bd2724d832896f5954e71b3c66.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/725de6dedab42b3a8b32cf59a23eb99abf5529420c38451a8bc00b4755ee1234.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a6d44d49fae766ca4c60d67d6aa304f862bf815cf7c20a5e5a3032932911a4d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b51456034185a46a664eac8bfcf7ba9fe44c583cff550cd18fe1632eb13ca47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b6d0b3f7e35ed4757735ff3aa2dcb94ee47475084e5095a0f09c5d20ae83993.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b82da383a1006c433ae724815153f255812a0269ba1100959653049cf63f16d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f0e3b9dece1e48bec195a040477304b52fe7eaf8bc196689b4352877f8cd98b4.jpg",
+        "intro": "Riverbond is a fun and frantic couch co-op adventure game for 1 to 4 players set in a stunning voxel world.",
+        "description": "Embark on a heroic journey to complete missions, battle adorable enemies, and smash everything into tiny cubes! Will you and your friends be the legendary heroes of Riverbond?\n\nThe Knight has imprisoned the leaders of the Eight Worlds, causing chaos, droughts and disarray! Adventure together to defeat evil and help the charming citizens of Riverbond in this action-packed journey through beautiful, hand-crafted worlds. Unlock a variety of weapons, equip new skins, and activate power-ups to hack and slash your way to glory!\n\nClassic Single Player or Chaotic Couch Co-op! \nWhether in single player or taking it up a notch in chaotic couch co-op, you can play this epic adventure your way. With drop-in, drop-out couch co-op, everyone wins together!\n\nCubic Combat and Awesome Voxel Destruction\nWith a selection of fast and responsive weapons, wreaking havoc on everything is always satisfying. Topple massive towers with a swoosh of your sword, get trigger happy on mobs of enemies, and explode environments into colourful bursts of voxel goodness!\n\nCute Characters and Deadly Bosses\nMeet charming characters, make unexpected allies, and battle with cute (but deadly!) bosses. Choose from over 50 weapons to suit your play style and triumph over evil. Cue epic adventure music!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 589299712
+    },
+    "70010000025413": {
+        "id": "0100D6100FF44000",
+        "rightsId": null,
+        "name": "Sudoku Relax 3 Autumn Leaves",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191114,
+        "nsuId": 70010000025413,
+        "category": [
+            "Board Game",
+            "Puzzle",
+            "Training",
+            "Study"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "G-mode",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/84e1bf122177d282ed1500b601c56ddfc14e5cdc0830ff210901dd27605569ef.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0b6ed53efe25e8ca5ae3c904980742be5ee1c4319ee5a202a8906e6d62756898.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63bf00ff176ce241887fa1a226ce008e00bc2f81b6a4395325fe1a94906c1aab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dccebf21f20dee15e3477f509974d318b2d956d75b28708107798844a44dc071.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d7d5bddc8a6baab15e370315bd007848d4948178a211991e7e3644671ceae95.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ad96fa40bd645e1036b58e7a948684b61bee37758dd5f13e83b6f308336d2fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/918fe168919430443f406c344d9ce986e86408b0b427492c28ff654fd584412d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f0241a0c92efa9c791e4443118e9094247977d105225119df4aff09705191118.jpg",
+        "intro": "Let your mind take a break and refresh itself to the mind-soothing effects of Sudoku.",
+        "description": "The popular \"Sudoku Relax\" title is coming out with a sequel, \"Sudoku Relax 3\".\nThis new title is filled with warm autumn colors and brings a sense of calm.\n\nChoose from EASY, NORMAL, or HARD modes with over 300 puzzles.\nExercise your brain and wind down to the relaxing gameplay and music.\n\nSolving puzzles unlocks new backgrounds and music tracks.\nThe game contains 3 backgrounds and 3 music tracks.\n\nYou can choose to pause the game at any time and continue playing at your convenience.\nSimple touch controls make playing easy.",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 59768832
     },
     "70010000025419": {
         "id": "01006D300FFA6000",
