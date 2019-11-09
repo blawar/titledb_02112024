@@ -1045,7 +1045,7 @@
             "ru",
             "zh"
         ],
-        "size": 1450180608
+        "size": 1546649600
     },
     "70010000002264": {
         "id": "0100A330022C2000",
@@ -2010,6 +2010,52 @@
             "zh"
         ],
         "size": 12171870208
+    },
+    "70010000008109": {
+        "id": "0100AA400A238000",
+        "rightsId": null,
+        "name": "The Stretchers\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191108,
+        "nsuId": 70010000008109,
+        "category": [
+            "Acci\u00f3n",
+            "Rompecabezas"
+        ],
+        "ratingContent": [
+            "Violencia moderada de fantasia"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fd194f25187e886d8d9c5b2171e084762bf990cb5bd3daf8e95568e112c089e9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e13012b1a5b94f5545bf8b49352c9d63744b79caac23c6984cf3289b0e7b9a51.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bafb6b8a68eb86721e92ba54bf2409c9c7520f446c8fdaae0e6b7393a5fb95bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fef48617b410fce441603a7852d65c3804934fa374c7ee3b6f0216587f23a807.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0903dab791e0dfb7d85a206c3e9b3be2725e1f997e35a476a6c9a42c23f682c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9705d84817ecaa13692d3869d7c13c4bf9f54ec84872bec7027c5caf7e44e625.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09547e6c62704db50dfb346e7555303c0a2ce6e4df5810c21c01b796e78f6228.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d44116d6ab768b57dc8341db39ff4dc1a98ff8e4f1607bc660c2ec5d8514a3e1.jpg",
+        "intro": "Salvar al mundo es una tarea de locura",
+        "description": "\u00a1El mundo sufre de una epidemia de mareaditis causada por el Capit\u00e1n Sesera y solo t\u00fa puedes rescatarlos! Trabaja con un amigo en el modo cooperativo o controla habilidosamente dos m\u00e9dicos por tu cuenta para superar desafiantes rompecabezas basados en leyes f\u00edsicas en cada alocada misi\u00f3n. Si quieres trabajar en equipo para transportar a tantos mareadines como puedas en una camilla, o trabaja en paralelo para arrastrarlos uno a uno hacia la ambulancia, t\u00fa podr\u00e1s decidir como quieras proceder. A medida que juegues y completes las misiones, \u00a1lograr\u00e1s completar objetivos extras y descubrir objetos ocultos cargadas de diversi\u00f3n! \n\nAl explorar las zonas de las misiones y otras \u00e1reas del mapa tambi\u00e9n podr\u00e1s desbloquear gorros adicionales, colores y muebles para decorar tu base. Cuando recibas una llamada de urgencia, no dudes en lanzarte a investigar y experimentar. Nunca sabes lo que te espera, ya que se pueden desarrollar di\u00e1logos divertidos o situaciones muy c\u00f3micas. Pero no dejes que la diversi\u00f3n te distraiga de tu misi\u00f3n: \u00a1detener al malvado genio Capit\u00e1n Sesera y evitar que se propague la locura de sus ca\u00f3ticos mareadines!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "zh"
+        ],
+        "size": 1993342976
     },
     "70010000008122": {
         "id": "01004AB00A260000",
@@ -3386,7 +3432,7 @@
             "ru",
             "zh"
         ],
-        "size": 11758731264
+        "size": 11777605632
     },
     "70010000016330": {
         "id": "0100A5C00D162000",

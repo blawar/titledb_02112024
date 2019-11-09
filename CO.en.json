@@ -1045,7 +1045,7 @@
             "ru",
             "zh"
         ],
-        "size": 1450180608
+        "size": 1546649600
     },
     "70010000002264": {
         "id": "0100A330022C2000",
@@ -2010,6 +2010,52 @@
             "zh"
         ],
         "size": 12171870208
+    },
+    "70010000008109": {
+        "id": "0100AA400A238000",
+        "rightsId": null,
+        "name": "The Stretchers\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191108,
+        "nsuId": 70010000008109,
+        "category": [
+            "Action",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fd194f25187e886d8d9c5b2171e084762bf990cb5bd3daf8e95568e112c089e9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e13012b1a5b94f5545bf8b49352c9d63744b79caac23c6984cf3289b0e7b9a51.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bafb6b8a68eb86721e92ba54bf2409c9c7520f446c8fdaae0e6b7393a5fb95bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fef48617b410fce441603a7852d65c3804934fa374c7ee3b6f0216587f23a807.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0903dab791e0dfb7d85a206c3e9b3be2725e1f997e35a476a6c9a42c23f682c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9705d84817ecaa13692d3869d7c13c4bf9f54ec84872bec7027c5caf7e44e625.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09547e6c62704db50dfb346e7555303c0a2ce6e4df5810c21c01b796e78f6228.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d44116d6ab768b57dc8341db39ff4dc1a98ff8e4f1607bc660c2ec5d8514a3e1.jpg",
+        "intro": "Saving the world will be a bit of a stretch",
+        "description": "The world has a bad case of the Dizzies\u2014residents dizzied by Captain Brains\u2014and only you can rescue them! Work with a friend in co-op or skillfully control two medics on your own to overcome the physics-based puzzles of each madcap mission. Either way, how you go about it is totally up to you, whether you work together to transport many Dizzies at once on a stretcher or work in parallel by splitting up dragging the Dizzies to the ambulance one by one. As you play and replay missions, you\u2019ll complete bonus objectives and uncover hidden collectibles with hilarious results!\n\nYou\u2019ll also unlock additional hats, costume colors, and furniture for your home base by exploring mission areas and the world map. When you receive a distress call, don\u2019t be afraid to get curious and experiment. You never know what hilarity will ensue, whether it\u2019s the laugh-out-loud writing or yet another unexpected slapstick situation. But don\u2019t let the levity distract you from your ultimate mission: to stop the evil mastermind Captain Brains and the spread of his chaotic Dizzies!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "zh"
+        ],
+        "size": 1993342976
     },
     "70010000008122": {
         "id": "01004AB00A260000",
@@ -3337,7 +3383,7 @@
             "ru",
             "zh"
         ],
-        "size": 11758731264
+        "size": 11777605632
     },
     "70010000016330": {
         "id": "0100A5C00D162000",
