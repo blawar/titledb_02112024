@@ -5211,11 +5211,11 @@
             },
             "8fb13d9fe0f0a45bbb2374f9027b48e1f9da80693829fa4739e836706c3b803f": {
                 "source": "580F0000 013C5BD8\n780F0000 00000060\n581F1000 00000000\n780F0000 00B87B22\n620F0000 00000000 000003E7",
-                "title": "[Itemslot 00 x999]"
+                "title": "[Itemslot MAX999]"
             },
             "98e987788f3ce71d8e9ccb4d585b2d4097fde496891f1b092e31ed77aacd6a82": {
                 "source": "580A0000 013C5BD8\n780A0000 00000060\n581A1000 00000000\n780A0000 00B87B20",
-                "title": "[Mastercode - Inventory]"
+                "title": "[{Mastercode} - Inventory MUST ON]"
             },
             "9e9a8d70c5baa290625ab9d304a964fe2edac220adb831cb90a5a24cc3409b21": {
                 "source": "980BA100 00000000 0000000A\n620B0000 00000000 000003E7",
@@ -5227,15 +5227,15 @@
             },
             "a76cb127a3a10934736b28417ad38d0131ffd6ed0a72e9bddc76faa91f81905f": {
                 "source": "620A0000 00000000 0000000D",
-                "title": "[Life Seed]"
+                "title": "[Life Seed 999]"
             },
             "b797ac703a043af9c9290c673dd085a0f4d8f2eba5f1a1b75ea5dc2fadf2e085": {
                 "source": "580F0000 013C5BD8\n780F0000 00000060\n581F1000 00000000\n780F0000 007E5144\n640F0000 00000000 0000270F",
-                "title": "[9999 Gratitude Points]"
+                "title": "[MAX Gratitude Points]"
             },
             "b99990d2fd13888e10c4711c3aab13caa39addccae2a628a1a3a47dccc31d83f": {
                 "source": "580F0000 013C5BD8\n780F0000 00000060\n581F1000 00000000\n780F0000 000954C4\n640F0000 00000000 03E703E7",
-                "title": "[Infinite HP]"
+                "title": "[Infinite HP COEK]"
             },
             "bf3d6a863e7997339c481bc842b60e13682c66cba1b73128f68187b94896a54c": {
                 "source": "580F0000 013C5BD8\n780F0000 00000060\n581F1000 00000000\n780F0000 000954D4\n640F0000 00000000 432F0000",
@@ -5255,7 +5255,7 @@
             },
             "cefded38b71df82d1bc9720252fc4d3e4622bdfa49448d09419e97a6ba0d93be": {
                 "source": "620A0000 00000000 000003AF",
-                "title": "[Builder's Workbench (Lv5)]"
+                "title": "[Builder's Workbench MAX]"
             },
             "d16d8cf671d81379fdd6da89b12193ac57993f460f97e6aa4ed13ef760ab770e": {
                 "source": "580F0000 013C5BD8\n780F0000 00000060\n581F1000 00000000\n780F0000 000954CC\n620F0000 00000000 00002710",
@@ -8101,6 +8101,10 @@
                 "source": "580F0000 019CC760\n780F1000 4102C2F8\n300E0000 0000005A\n620F0000 00000000 000003E7\n780F0000 00000220\n310E0000 20000000",
                 "title": "[enhanced points]"
             },
+            "4070b59019439c08f4f882f55f90160af40b8ab0f6b7518600eecf7f26f56d1c": {
+                "source": "04100000 025D23C4 000003E7",
+                "title": "[Cosmic  XP Cube]"
+            },
             "4255e4a0beee3846da002cf779444a5d15ca5ed63948686d8f75a6b1ccc83abf": {
                 "source": "04000000 00241C90 9A8B256A\n04000000 00241D00 9A8B256A",
                 "title": "[props / virtual ball after starting Max]"
@@ -8117,6 +8121,10 @@
                 "source": "580F0000 01A10940\n780F0000 00000144\n300E0000 00000004\n680F0000 FFFFFFFF FFFFFFFF\n780F0000 00000CB0\n310E0000 20000000\n580F0000 01A10940\n780F0000 0000014C\n300E0000 00000004\n640F0000 00000000 FFFFFFFF\n780F0000 00000CB0\n310E0000 20000000",
                 "title": "[Fighting property Max]"
             },
+            "6ffa3ab3c2bf1ecd2956f033281554d5345ab18e207aa592e277edfaea1f64e7": {
+                "source": "04100000 025D23BC 000003E7",
+                "title": "[Solid XP Cube]"
+            },
             "73f95a255545cf9383f4c67926311ea56d55a85368c8c6dff92743eadce84a2c": {
                 "source": "580F0000 01A10940\n580F1000 00000860\n780F0000 00000F58\n640F0000 00000000 47435000\n580F0000 01A10940\n580F1000 00001510\n780F0000 00000F58\n640F0000 00000000 47435000\n580F0000 01A10940\n580F1000 000021C0\n780F0000 00000F58\n640F0000 00000000 47435000\n580F0000 01A10940\n580F1000 00002E70\n780F0000 00000F58\n640F0000 00000000 47435000",
                 "title": "[Must Kill Max]"
@@ -8125,9 +8133,21 @@
                 "source": "04000000 00241C4C 9A8C258A",
                 "title": "[Capability Beads/Credit Points Increase Max]"
             },
+            "8dc8c176e90073fe1d83a58d424b9aa51866fd7901c875d3c01e61fefcfb2f8d": {
+                "source": "04100000 025D23C8 000003E7",
+                "title": "[Ultimate XP Cube]"
+            },
             "a2ed217250333bde5f1d2d8aab82dcc7670e5530b11e30a475f464869a4c36ac": {
                 "source": "580F0000 01A10940\n580F1000 00000860\n780F0000 00000FB4\n640F0000 00000000 497423F0\n780F0000 00000004",
                 "title": "[Energy is not reduced]"
+            },
+            "d5996eeecdd35d03efdcd4938eaf57b98877985e761ad22a1cddcd874ce4d87b": {
+                "source": "04100000 025D23B8 000003E7",
+                "title": "[Small XP Cube]"
+            },
+            "d9ad9fb2f32adad177bc55ad0fcbda8261562251a55c5a2bbda0662354621d78": {
+                "source": "04100000 025D23C0 000003E7",
+                "title": "[Enlarged XP Cube]"
             },
             "e90fc411a6aec03bca89bcab10fb6f2ed58aedff637e76b1834a6a90b0f2e0c3": {
                 "source": "580F0000 01A10940\n780F0000 00000120\n300E0000 00000004\n640F0000 00000000 000F423F\n780F0000 00000CB0\n310E0000 20000000\n580F0000 01A10940\n780F0000 00000124\n300E0000 00000004\n640F0000 00000000 000F423F\n780F0000 00000CB0\n310E0000 20000000",
@@ -11821,15 +11841,31 @@
             },
             "3176de82f3e76f73efb07dc0f84200d9b96a5f57e13a6f001602e5750a5e6cd0": {
                 "source": "580F0000 00DCA550\n580F1000 00001C88\n780F0000 00000684\n30010000 00000003\n640F0000 00000000 40400000\n780F0000 00000004\n31010000 20000000",
-                "title": "[Rekien meter is not reduced]"
+                "title": "[Maximum Legion Meter Have]"
+            },
+            "346799a41edcbf0bd54772200a2dd51923ee52607e2ea6190bb13ec125b86034": {
+                "source": "04000000 0A3151E8 00989680",
+                "title": "[Have Max Money/Duits Bro]"
             },
             "473c8210126cf8b1b5173f20482e6335208d5821e72e048f19c54529c066dec5": {
                 "source": "580F0000 00DCA550\n580F1000 00001C88\n780F0000 00000170\n640F0000 00000000 0000270F\n580F0000 00DCA550\n580F1000 00001C88\n580F1000 00000090\n780F1000 00000018\n640F0000 00000000 0000270F\n780F0000 00000004\n640F0000 00000000 0000270F",
-                "title": "[HP does not decrease]"
+                "title": "[Maximum Gets HP]"
+            },
+            "47f698d8b530f362ad43250220f3efa4ec4be57e95a5854f444dc44cc8939c7b": {
+                "source": "580F0000 00DB82B8\n580F1000 00DB8378\n780F0000 0000210C\n300E0000 00000003\n640F0000 00000000 66666666\n780F0000 00000090\n310E0000 20000000\n580F0000 00DB82B8\n580F1000 00DB8378\n780F0000 0000498C\n300E0000 00000003\n640F0000 00000000 66666666\n780F0000 00000090\n310E0000 20000000",
+                "title": "[Bomb Atk Up]"
             },
             "4a84bd86cbf47af201cf3244b5e46e801e9e7dc6c56b6fb7db3298932dd99d3a": {
                 "source": "04000000 0A33F1F4 05F5E0FF",
                 "title": "[Max Mission Reward Points]"
+            },
+            "5fd6918355fc65333dab63d3b0988aaaf645adf00da63361ba506e2f43583e9b": {
+                "source": "580F0000 00DCA550\n580F1000 00001C88\n780F0000 00000684\n640F0000 00000000 40800000\n780F0000 00000008\n640F0000 00000000 00000000",
+                "title": "[Inf. Rekien Meter]"
+            },
+            "6bb3f8eccd97c73a4ef68e72d973e045002af6d90c15db284442593b39ee015f": {
+                "source": "300E0000 00000008\n04000000 0A2FB400 00000063\n78000000 00000008\n310E0000",
+                "title": "[MAX Restore Item]"
             },
             "70a5b6eda1cca361c4e36c138c612373961745f95b7494e3656e94877a6e13f8": {
                 "source": "04000000 0A32EE24 00000000\n04000000 0A32EE28 00000032\n04000000 0A32EE2C 44960000",
@@ -11857,7 +11893,7 @@
             },
             "b09631853bd552e0dc27aa302c3945ff5ffa840db223c681b0e42042c767f486": {
                 "source": "580F0000 00DCA550\n580F1000 00001C88\n580F1000 00000188\n780F0000 00000160\n640F0000 00000000 40000000",
-                "title": "[Move/Atk Speed x2]"
+                "title": "[Speed x2]"
             },
             "b3297076e4db0c6f732784ce9d13ee82807b81eeef7bd9a5819371e390d558c4": {
                 "source": "04000000 0A335078 05F5E0FF",
@@ -11865,7 +11901,7 @@
             },
             "b91994c86873d9ed620d3caca61850a3c7b7cd2f4dece204e2f42ce61ade2a4e": {
                 "source": "580F0000 00DCA550\n580F1000 00001C88\n580F1000 00000188\n780F0000 00000160\n640F0000 00000000 3FC00000",
-                "title": "[Move/Atk Speed x1.5]"
+                "title": "[Speed x1.5]"
             },
             "c4623203665a45e4570fbe48e6d80e641ea29bfc8a3675385e3faac79c5cc417": {
                 "source": "580F0000 00DB9540\n780F1000 000A8C38\n640F0000 00000000 00000019\n580F0000 00DB9540\n780F1000 000A8C3C\n640F0000 00000000 00000003\n580F0000 00DB9540\n780F1000 000A8C34\n680F0000 44960000 44960000",
@@ -11873,11 +11909,11 @@
             },
             "e391e7bf76af75aaa68e9c758d5cbda2ea09388a46f720a31f15d8a2cd2c6cf5": {
                 "source": "580F0000 0A14B698\n780F0000 001AF270\n300E0000 00000032\n640F0000 00000000 000003E7\n780F0000 00000008\n310E0000 20000000",
-                "title": "[Upgrade Item x999 (Need to have atleast 1)]"
+                "title": "[strengthen & selling items x999]"
             },
             "e699c89d88368176b1eb52dd57bda928e9e0d08e2e1e92975aa639dfcdce5bdf": {
                 "source": "04000000 0A244AB0 05F5E0FF\n04000000 0A244AB4 05F5E0FF\n04000000 0A244AB8 05F5E0FF",
-                "title": "[Mission reward points]"
+                "title": "[In Mission Reward  Gets Points]"
             },
             "eed5f2a09c5bb9235c4786257856ad2e60e960c0e5d88f56567e974e9da0cd5b": {
                 "source": "04000000 0A3151E0 05F5E0FF",
@@ -11885,7 +11921,7 @@
             },
             "f93bb55f7bf3a64d8e056130602883fd8c30686e3f247d1b1b6d25213695ec3c": {
                 "source": "580F0000 00DCA550\n580F1000 00001C88\n580F1000 00000188\n780F0000 00000160\n640F0000 00000000 3F800000",
-                "title": "[Moving Speed 1x (Restore)]"
+                "title": "[Original Speed]"
             }
         }
     },
@@ -12008,6 +12044,18 @@
             "626b34e223b2bd5acfe2244e60442ff348bb8ed64f05f643182bdc9538f16de0": {
                 "source": "08000000 001FF304 5400006A 6B010108\n04000000 001FF30C 2A1F03E0\n80000040\n08000000 001FF304 72A77348 52993FE8\n04000000 001FF30C 14000002\n20000000",
                 "title": "[Hold L on Buy to get Max Money]"
+            }
+        }
+    },
+    "010074200E910000": {
+        "B9F66D47FC26DEFA": {
+            "44eca65f8a7bad1dd2e791006a07fb4c78b8b88542d7678d925c102d2f18139f": {
+                "source": "580F0000 06B723D8\n780F0000 00000654\n640F0000 00000000 0098967F",
+                "title": "[9999999 xp]"
+            },
+            "b4d7ca4eb502f7cf189868bdad7bb30811f4d8b835cb05d1b7a98a04b6fa5dd9": {
+                "source": "580F0000 06B723D8\n780F0000 00000650\n640F0000 00000000 0098967F",
+                "title": "[9999999 money]"
             }
         }
     },
