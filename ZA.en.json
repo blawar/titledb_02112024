@@ -2452,6 +2452,45 @@
         ],
         "size": 1444937728
     },
+    "70010000011943": {
+        "id": null,
+        "rightsId": null,
+        "name": "Raining Blobs",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191115,
+        "nsuId": 70010000011943,
+        "category": [
+            "Arcade",
+            "Puzzle",
+            "Multiplayer",
+            "Party"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 8,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Black Shell Media",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e55b4187449cb3ead2a63ffd9b4ce628fdb8ff55b6b680c30c0a97461cae9c89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c0b5bd22a6b13668f37c8f5cbc6435264acfa0c18b8505f090ea706ed64a213.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7ea27dc5fd1c16bde1c2dcc2695ee1a839fe439b0d24d1d02bca69128abb88c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a0932249415783fba692b9b80ec01c63c9317631df9f6ce9ba3728c56c053a24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75397d5ed11f4e895648b80641770b837db933f4722fc5f4d51293685a298719.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/79611d479993c00d0064777b3ae55885c0b6ea47aa91b2cd176ca732883921eb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/410fbbd29c5a2dd69bec3d0e3b5dbf691bdebfac2774469f60d4a2f76e86bf4d.jpg",
+        "intro": null,
+        "description": "Raining Blobs is a fast-paced arcade puzzle game based around matching falling blobs. This game will put both your fingers and mind to a test of raw skill.\n\nFeatures:\n-Arcade, Tournament, Endless Battle and Puzzle modes that can be played solo, with friends and CPU players with 6 levels of difficulty.\n-Crush your competition with up to 8 player in local co-op and versus modes divided in teams. Up to 16 players with CPUs.\n-Reach level 100 in non battle Arcade mode and chase high score.\n-Advance your way through fierce battles in Tournament mode, unravel the story and unlock hidden final boss.\n-Solve all mind-bending puzzles in Puzzle mode.\n-Collect a wide selection of challenging and rewarding achievements.\n-Secure your position as the undisputed master by rising to the top of the leaderboards in all game modes.\n-A lot of useful stats.\n-Unlockable gallery of cute protagonists inspired by anime style art.\n-Many settings and gameplay variations. Rebindable controls.\n-Varied original soundtrack.\n-Match replays.",
+        "languages": [
+            "en"
+        ],
+        "size": 0
+    },
     "70010000012061": {
         "id": "01005AD00B91A000",
         "rightsId": null,
@@ -2992,6 +3031,55 @@
             "zh"
         ],
         "size": 1357905920
+    },
+    "70010000013209": {
+        "id": "010072B00BDDE000",
+        "rightsId": null,
+        "name": "Narcos: Rise of the Cartels",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191121,
+        "nsuId": 70010000013209,
+        "category": [
+            "Strategy",
+            "Action"
+        ],
+        "ratingContent": [
+            "Bad Language",
+            "Drugs",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Curve Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/710b68d054377d29d93d69b378051d9501e77f03b3c34637c5b936fc431c3060.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/709bf8f8e317c379edef9f2ae605f0083d674d9c1b4fc7d97e3365742f3b7957.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3eae90abdba0ac7e2c78a8b3c1865a7a03e212f954a061f704a68dd800ab8a25.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37ec6b4330718c2f6d3971a092f292fa2ef95abaf97833363d8eaf0b9464a44b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e5f36723bbf828a52a5628738ccff9d8f068b608455ba52f3f5742a7e71c555.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d8d00460210df2de2c35ffce2f10622c7d6791660ffc47a7c8a35c2bb45e03b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9aed3124cc8c018577fbf84f2c16d015b9298b092615e3e9f48bc551d6820bf9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1d9d4e93ebb14e3a9eae4b0b0a432a547362faf3de1a697ef62bfe09d10ab588.jpg",
+        "intro": "Narcos: Rise of the Cartels is a brutal turn-based action strategy game based on the hit Netflix TV series. ",
+        "description": "Welcome to Colombia, 1980\u2019s - the fires of El Patr\u00f3n's empire have been lit, its influence spanning borders, and expansion unabated. Influence and corruption is rife; cops, guards, politicians and those in between are falling into the pocket of the Medell\u00edn Cartel, and after years of production, America is finally taking notice.\nNarcos: Rise of the Cartels tells the story of the hit Netflix TV series, of the rise and fall of El Patr\u00f3n. Choose your side and ally with the DEA or conversely side with the Narcos. Explore recognisable locations from the show and take a role in pivotal world-altering events and battles that will define and shift the war on drugs.\nForm your team from a variety of class-specific roles, join leading characters, upgrade your skills and take part in brutal turn-based combat, where your actions will have consequence. \nPlata o Plomo?",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 7796162560
     },
     "70010000013256": {
         "id": "01000E200BE10000",
@@ -6462,6 +6550,39 @@
             "it"
         ],
         "size": 8443133952
+    },
+    "70010000016218": {
+        "id": "010003A00D0B4000",
+        "rightsId": null,
+        "name": "SaGa SCARLET GRACE: AMBITIONS\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191203,
+        "nsuId": 70010000016218,
+        "category": [
+            "RPG"
+        ],
+        "ratingContent": [
+            "Mild Swearing",
+            "Moderate Violence",
+            "Sexual Innuendo"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "SQUARE ENIX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e8635d5e6757fe7efeb6e7d2852723a89bb5a3d2e517848ebeca869031a91196.jpg",
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3a4b0f8cae482b7ba1bd4512d194600a993cd405db6cc754090ba1b905c1ec55.jpg",
+        "intro": null,
+        "description": "The Firebringer, a fallen god and bane of humanity, has wrought havoc on the world since his exile. Mankind constructed an Empire with a singular purpose: engage the Firebringer and his fiends in battle to defend humanity. After a millennia of fighting, the Firebringer has finally been defeated, and the Empire is left without purpose, spurring rebellion.\n\n\u2022 Follow the journey of Urpina, Taria, Balmant, and Leonard as they call on their might and set out to carve a new future. \n\n\u2022 Travel the world and engage in events in any order, or skip them entirely if you wish; your decisions affect the development of your story.\n\n\u2022 Take charge and shape your own adventure with ultimate freedom of choice. \n\n\u2022 Create a team of up to five capable fighters and engage in strategic turn-based combat, selecting from 9 weapon varieties. The composition of your group affects your abilities and impacts your tactics. The choices you make will define your legacy!",
+        "languages": [
+            "en"
+        ],
+        "size": 2911895552
     },
     "70010000016225": {
         "id": "0100FDC00D0C0000",
@@ -28778,7 +28899,8 @@
         "category": [
             "Arcade",
             "Action",
-            "Shooter"
+            "Shooter",
+            "Party"
         ],
         "ratingContent": [
             "Mild Violence"
