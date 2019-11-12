@@ -17196,6 +17196,22 @@
             }
         }
     },
+    "0100ABF008968000": {
+        "8DAFEDBB5BE81C2C": {
+            "0446e4fefb52d6c35f09930b55e52ca7892be6584f376ed777d950621be5425a": {
+                "source": "04100000 42935F18 0098967F",
+                "title": "[Max Watts]"
+            },
+            "4921fd0153ae424e647c6eb0f40186efa3baf25698344a57c0d6015f7e539471": {
+                "source": "580F0000 02771710\n780F0000 0001B794\n640F0000 00000000 000F423F",
+                "title": "[999999 money]"
+            },
+            "7882253b728b2055432bb84a76a756f35ed4ab915a6428e3cf88c859f0daf2bf": {
+                "source": "041F0000 4293AE34 0098967F",
+                "title": "[Max Money]"
+            }
+        }
+    },
     "0100AC40038F4000": {
         "EF700397005B93F4": {
             "40ba7cc31bc736d1b7bb99ea21724e21308ce120c38e3bb6043c2d9426dd604d": {
@@ -21495,6 +21511,18 @@
             "e91d7376114eff4aec014bcdde59c0f664bc761dd86f6ed3b457a2d0de059cf8": {
                 "source": "08000000 0013E2C0 2A0003F3 97FE8A7E",
                 "title": "[Change Money Max]"
+            }
+        }
+    },
+    "0100F110029C8000": {
+        "743C88F0F1C33DBB": {
+            "845a9d455d19aee57584a243c2ace479a0ebf051cb3a2a66173937ffd4733ebc": {
+                "source": "04000000 000C90B0 D503201F",
+                "title": "[#Airmeter]"
+            },
+            "b73597e3780b68011f3585d6d69e1b40fa7254df3a3732c1354bdaaac17a26f8": {
+                "source": "04000000 000C7044 0B080128",
+                "title": "[#No Damage]"
             }
         }
     },
