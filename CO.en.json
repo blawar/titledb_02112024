@@ -2358,7 +2358,7 @@
             "ru",
             "ko"
         ],
-        "size": 8158969856
+        "size": 8315207680
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -2599,7 +2599,7 @@
             "zh",
             "zh"
         ],
-        "size": 14910750720
+        "size": 15172894720
     },
     "70010000012332": {
         "id": "01006A800016E000",
@@ -4267,7 +4267,7 @@
             "ko",
             "zh"
         ],
-        "size": 1829765120
+        "size": 1827667968
     },
     "70010000020033": {
         "id": "01006BB00C6F0000",
@@ -8975,6 +8975,37 @@
         "description": "This is a set of four in-game gear items. You can receive:\n\n\u2022\tGray FA-11 Bomber\n\u2022\tBrown FA-11 Bomber\n\u2022\tRed V-Neck Limited Tee\n\u2022\tGreen V-Neck Limited Tee\n",
         "languages": null,
         "size": 6291456
+    },
+    "70050000014024": {
+        "id": "01006A800016F068",
+        "rightsId": null,
+        "name": "Spirit Board Challenge Pack 1 -Challenge various Spirits!-",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70050000014024,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/270a671b33c4ca468fa442a550eb8f69e945dbd74d58d6544449b344e21fe612.jpg",
+        "intro": null,
+        "description": "This is bonus content only available for active Nintendo Switch Online members. These items can be downloaded and used from the Spirit Mode in Super Smash Bros.\u2122 Ultimate.\n\n1. 1500SP\n2.  Shuffle All x 10\n3.  All Primaries x 10\n4.  All Supports x 10",
+        "languages": null,
+        "size": 16777216
     },
     "70050000014061": {
         "id": "01009EA00B7152BD",
