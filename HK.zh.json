@@ -852,7 +852,7 @@
             "zh",
             "zh"
         ],
-        "size": 5308940288
+        "size": 6139412480
     },
     "70010000009601": {
         "id": "0100B61008208000",
@@ -2289,7 +2289,7 @@
             "ko",
             "zh"
         ],
-        "size": 4557111296
+        "size": 4585422848
     },
     "70010000011852": {
         "id": "0100C1500B82E000",
@@ -4871,7 +4871,7 @@
             "ko",
             "zh"
         ],
-        "size": 4137680896
+        "size": 4367319040
     },
     "70010000014944": {
         "id": "0100F1B00B456000",
@@ -6924,7 +6924,7 @@
             "de",
             "it"
         ],
-        "size": 2882535424
+        "size": 3285188608
     },
     "70010000019039": {
         "id": "01004C900DBBE000",
@@ -7222,7 +7222,7 @@
             "zh",
             "zh"
         ],
-        "size": 1679818752
+        "size": 1853882368
     },
     "70010000019727": {
         "id": "010051F00E256000",
@@ -23601,6 +23601,38 @@
         "languages": null,
         "size": 20971520
     },
+    "70050000017181": {
+        "id": "01005FF00C7CD024",
+        "rightsId": null,
+        "name": "Porsche Series",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191114,
+        "nsuId": 70050000017181,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": "H2 INTERACTIVE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b807e69ceb4d11840f9b1a6c3cf4e410ecc295b79812c860939550967d8a07ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a6362c1d7345e17e9697a8a947a5e239a0b8a4028bf617eab7c1e9db2e66c88.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ece8cca545f26586ae8ea9ff9e0d570079124d38048d6120389d946eb56184f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a2f28c8c175dd88c4afd3ef7bd3e78c202f383f504bf2d70ff1d2b2b35db6e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3cd4db1761899a1c8ec4c1017029c6ed61da2ba9beda3b5198f4fa43e134dfb6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/119523274fd2ef256e090547732b7052f43880eb17a938a655f86899b2617f38.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/562c5dae0a7ae188534c2306228d6a765dfb3f356ebbeacaa6d9ecebd11055e2.jpg",
+        "intro": null,
+        "description": "\u53c3\u52a0\u5b8c\u5168\u65b0\u7684Porsche Series \u6d3b\u52d5\uff0c\u8acb\u89e3\u9396 718 Type 982 Cayman GT4 \u8207\u77e5\u540d\u7684 911 930 Turb \u7b49\u7684\u50b3\u8aaa\u4e2d\u7684\u6c7d\u8eca\u3002\u5728\u5176\u4ed6\u6240\u6709\u904a\u6232\u6a21\u5f0f\u4e2d\u53ef\u4ee5\u99d5\u99db\u3002\n \n\u53c3\u52a0\u5305\u62ec\u5982\u4e0b\u9805\u76ee\u7684 Porsche \u6bd4\u8cfd\uff1a\n- \u65b0\u7684\u5b63\u7bc0\u904a\u6232\u6a21\u5f0f\n- 3 \u7a2e\u65b0\u7684\u51a0\u4e9e\u8eca\u8cfd\n- 2 \u7a2e\u65b0\u7684 Porsche\u548c ...\n- 1 \u7a2e\u50b3\u8aaa\u4e2d\u7684 Porsche\n- \u9084\u6709\u4e00\u4e9b\u60f3\u4e0d\u5230\u7684\uff01\n \n\u5982\u679c\u5c0d\u6311\u6230\u6709\u81ea\u4fe1\uff0c\u4f86\u53c3\u52a0\u7af6\u722d\uff01\n",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000017326": {
         "id": "0100C2D00EBD5001",
         "rightsId": null,
@@ -23625,6 +23657,56 @@
         "description": "\u725b\u670d\u88dd",
         "languages": null,
         "size": 4194304
+    },
+    "70050000017402": {
+        "id": "0100D9A005ED7071",
+        "rightsId": null,
+        "name": "\u822a\u6d77\u738b \u52d5\u756b\u97f3\u6a02\uff30\uff41\uff43\uff4b",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191114,
+        "nsuId": 70050000017402,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3a5dfb46200b4808d0b98479ad2d7376bdf4630f1bf0a2593a69a567771912dd.jpg",
+        "intro": null,
+        "description": "\u662f\u80fd\u65bc\u6f14\u594f\u904a\u6232\u5167\u4f7f\u7528\u7684\u8ffd\u52a0\u9805\u76ee\u3002\n\n\u25a0\u6a02\u66f2\u300c\uff2f\uff36\uff25\uff32 \uff34\uff28\uff25 \uff34\uff2f\uff30\u300d\n\u7c21\u55ae\u26051\u3000\u666e\u901a\u26052\u3000\u56f0\u96e3\u26052\u3000\u9b54\u738b\u26056\n\u25a0\u6a02\u66f2\u300c\uff37\uff45 \uff27\uff4f\uff01\u300d\n\u7c21\u55ae\u26053\u3000\u666e\u901a\u26052\u3000\u56f0\u96e3\u26055\u3000\u9b54\u738b\u26056\n\u25a0\u6a02\u66f2\u300c\uff37\uff45 \uff23\uff41\uff4e\uff01\u300d\n\u7c21\u55ae\u26052\u3000\u666e\u901a\u26054\u3000\u56f0\u96e3\u26056\u3000\u9b54\u738b\u26057",
+        "languages": null,
+        "size": 12582912
+    },
+    "70050000017403": {
+        "id": "0100D9A005ED7076",
+        "rightsId": null,
+        "name": "\uff24\uff4f\uff4e\uff44\uff45\uff52 \uff30\uff41\uff43\uff4b -Lightning-",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191114,
+        "nsuId": 70050000017403,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0d8ee7822245894092926360f0182c0869f6b6e62e9a3bc1fb6d3f049187a5e6.jpg",
+        "intro": null,
+        "description": "\u662f\u80fd\u65bc\u6f14\u594f\u904a\u6232\u5167\u4f7f\u7528\u7684\u8ffd\u52a0\u9805\u76ee\u3002\n\n\u25a0\u6a02\u66f2\u300c\u5176\u65b9, \u6fc0\u6602\u300d\n\u7c21\u55ae\u26055\u3000\u666e\u901a\u26056\u3000\u56f0\u96e3\u26058\u3000\u9b54\u738b\u260510\n\u25a0\u6a02\u66f2\u300c\uff2b\uff21\uff27\uff21\uff39\uff21\uff2b\uff29 \uff37\uff2f \uff2d\uff2f\uff34\uff2f\uff2d\uff25\uff34\uff25\u300d\n\u7c21\u55ae\u26055\u3000\u666e\u901a\u26056\u3000\u56f0\u96e3\u26056\u3000\u9b54\u738b\u26058\n\u25a0\u6a02\u66f2\u300c\uff2c\uff49\uff47\uff48\uff54\uff4e\uff49\uff4e\uff47 \uff30\uff41\uff53\uff53\uff49\uff4f\uff4e\u300d\n\u7c21\u55ae\u26054\u3000\u666e\u901a\u26055\u3000\u56f0\u96e3\u26056\u3000\u9b54\u738b\u26057\n\u25a0\u6a02\u66f2\u300c\uff33\uff48\uff49\uff4e\uff59 \uff2b\uff55\uff4e\uff47-\uff46\uff55 \uff32\uff45\uff56\uff49\uff56\uff41\uff4c\u300d\n\u7c21\u55ae\u26054\u3000\u666e\u901a\u26056\u3000\u56f0\u96e3\u26057\u3000\u9b54\u738b\u26059\n\u25a0\u6a02\u66f2\u300c\u592a\u967d\u4e5f\uff39\uff21\uff30\uff21\uff30\uff21\u300d\n\u7c21\u55ae\u26054\u3000\u666e\u901a\u26055\u3000\u56f0\u96e3\u26055\u3000\u9b54\u738b\u26054",
+        "languages": null,
+        "size": 20971520
     },
     "70050000017547": {
         "id": "010096000E1ED2BF",

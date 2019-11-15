@@ -1044,9 +1044,12 @@
             "ja",
             "en",
             "es",
+            "fr",
             "de",
+            "it",
             "pt",
             "ru",
+            "ko",
             "zh",
             "zh"
         ],
@@ -2407,7 +2410,7 @@
             "ru",
             "ko"
         ],
-        "size": 8158969856
+        "size": 8315207680
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -2648,7 +2651,7 @@
             "zh",
             "zh"
         ],
-        "size": 14910750720
+        "size": 15172894720
     },
     "70010000012332": {
         "id": "01006A800016E000",
@@ -2905,7 +2908,8 @@
             "Referencia a drogas",
             "Lenguaje",
             "Violencia moderada",
-            "Temas insinuantes"
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
@@ -3431,7 +3435,8 @@
             "Derramamiento de sangre",
             "Lenguaje",
             "Temas sexuales",
-            "Violencia"
+            "Violencia",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": 1,
         "rating": 17,
@@ -4394,7 +4399,7 @@
             "ko",
             "zh"
         ],
-        "size": 1829765120
+        "size": 1827667968
     },
     "70010000020033": {
         "id": "01006BB00C6F0000",
@@ -4489,6 +4494,7 @@
         "description": "Hotline Miami Collection incluye los dos juegos legendarios de la serie Hotline Miami de Dennaton Games, famosa por su ambientaci\u00f3n de luces de ne\u00f3n y su dificultad brutal.",
         "languages": [
             "en",
+            "pt",
             "es",
             "fr",
             "de",

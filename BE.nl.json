@@ -1884,6 +1884,51 @@
         ],
         "size": 55574528
     },
+    "70010000024861": {
+        "id": "0100C9E00FD62000",
+        "rightsId": null,
+        "name": "Farabel",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191220,
+        "nsuId": 70010000024861,
+        "category": [
+            "Strategiespel",
+            "RPG",
+            "Bordspel",
+            "Avonturenspel"
+        ],
+        "ratingContent": [
+            "Licht geweld"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Drageus Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eb7f4d7329ff72156fb86d0f44258de50a494492e4d5d465089bdb240bd9f67a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/66905369a8a85fc2bed9459007f18b5d0b4619c8a9a914ffad1f83f2a44335af.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6bf0d72f5980b48132eedc571cfdb20575e6025323f76f508c50a5e890132a61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea66f2d38f6d6e04fb942df4158e9e368937290a7a4b2c273faa5cc0fefd4e28.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac77de88f18d559492f8c1d45843c5ab683295e548545499bdcf3d838bd62332.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4ddeb3e827a778264583511eb8cc80a0b8b6eaf1053498f585eaef52f66ac9d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/72fc5d8bbb7c9a9c6a92c0b21107823abedaa4f2d03d2fba7d8cc7d6d5c2c5b0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/233df08c4fb2c88d391971bc7510664e91d6e116fc2aa6a1ee302187c2bb915b.jpg",
+        "intro": "The strategy game that starts at the end! You know how to level up, but can you level down? Be smart to survive!",
+        "description": "Your hero is strong, victorious and lived happily ever after. The End\u2026\nb\u2026but wait\u2026the game just started! \nIn this turn-based strategy game, you begin at the end of the story and have to go back in time to prevent war. And obviously, the whole gaming experience is turned upside down!\nAfter each victory comes a jump into the past, when you were not that strong. Think carefully to choose the right points to weaken and still survive. Can you manage with less health? Or do you prefer to deal less damage? You will have to make the right (tricky) decisions to anticipate your next fights. Thankfully your units offer a wide range of special abilities that can help you. \nMaster the art of leveling down and find out how it all began!\n\nFeatures:\n-    Campaign Mode: Play as Cendor, lord of Farabel. Go back in time to save the city in a campaign of 26 epic and challenging battles.\n-    Classic Mode: Purchase units and war machines and destroy your enemy as quickly as possible and with the least amount of casualties. Play through a series of different battles.\n-    Defense Mode: You take on an endless army which is impossible to beat. Build your own army  and survive as long as possible.\n-    Many possibilities: Make the best use of 40 different units and 18 different spells and abilities.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru"
+        ],
+        "size": 451936256
+    },
     "70010000025148": {
         "id": "010083800E43E000",
         "rightsId": null,
@@ -2048,6 +2093,89 @@
             "en"
         ],
         "size": 0
+    },
+    "70010000025467": {
+        "id": "010072C010002000",
+        "rightsId": null,
+        "name": "Event Horizon: Space Defense",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191213,
+        "nsuId": 70010000025467,
+        "category": [
+            "Avonturenspel",
+            "Actiespel",
+            "Speelhalspel",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Impliciet geweld",
+            "Licht geweld"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Drageus Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4c295c982042e6773dee71c9bf73df1a82ee40e312e07b8aca8e902b56854fc5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/89eb86a4dd531cea4b28dbc565c10e9ae6adbca06f02fe52f90183d078eebdeb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c4d645bdc25b9a3192d947298118beae785b5e1afb54cea807f02b66a0dbd22.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d63d2f9022456704666ff496302810f33dbe2bc0277b2742468780954ebd607f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/325cee8148edca0f951302d78ef00acccfe475c4de3270ee41c53cda802e4941.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/774b97e349bd693f1b36bd6e57dffd5b31911dcba7f27d434f23dc4d4dbf4547.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d7591e69a5b8f4829db67a0f1c4edb064fdb0cd5f725025c3bb25d9acaa494b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9a43bde3f7d20b3fda2ecbc4bf3b67dc7f86e4e51188d11d96786b32b80f1311.jpg",
+        "intro": "Build and command your starbase in an endless journey. Choose every detail of your playstyle from hundreds of ships, weapons, modules and upgrades.",
+        "description": "You are under attack! \nSet in the captivating Event Horizon universe, this hardcore game puts you in control of a massive space fleet at war with over twelve alien factions. Make the best decisions in two crucial phases: strategic building and adrenaline-fueled battles. \n\nYou will have to trace your own path to victory from a large variety of possible items, features and actions. You should also travel to hunt giant space worms, investigate helpful beacons and scavenge wreckages for new assets.\n\nThere is no end to the game, the stronger you become, the stronger your enemies will be. The war lasts forever - defend your station at all costs!\n\nFeatures:\n- Over 100 unique spaceships - Progressively unlock them, from small frigates to capital vessels\n- Fully modular ships - Change the internal layout to use different weapons, add more armor and much more\u2026\n- Massive fleet battles \u2013 Fly right into the action to defend your station against dozens of alien invaders\n- Exploration - Scavenge wreckages and abandoned cargo for blueprints and scraps, encounter giant space worms\n- Investigation - Travel to beacons to help cargo ships under attack or destroy an enemy space station\n- Unlimited upgrades - Ships can be expanded and repainted for looks, and modules features can be upgraded\n- Never-ending gameplay \u2013 Fight forever, the stronger your base is, the stronger are the invaders",
+        "languages": [
+            "en"
+        ],
+        "size": 157286400
+    },
+    "70010000025756": {
+        "id": "01003D50100F4000",
+        "rightsId": null,
+        "name": "Breathing Fear",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191206,
+        "nsuId": 70010000025756,
+        "category": [
+            "Avonturenspel",
+            "Puzzelspel",
+            "Actiespel"
+        ],
+        "ratingContent": [
+            "Alcohol-/tabakgebruik"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Drageus Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d70c57000e20c0240314dbde938dc886d5f6b49eae654d1d656728e7ba8c0326.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ae6927614f56054445bcf83ff1b17889171ef012a5d20de777b1f20221a54fb8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bfc620d817c43d3061adec69fec0f45400bba79df1cd267da3acc3958cf056a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ce68815ac5277b5484b255eae0516e6e77e0dc8f5aad09800e339585de2a10b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4042fb9d1246e0f5a5665211d4a34f1c404b6f3c1dbb997a35f8ec5ff45e2d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2464feb045289ed0fa77bb3ba8b4aa157f5423267187356c0573592621859d06.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb6f7f3cb4103b269a4ee9815667d5be0eee827c3209de68a6f877cf6f451398.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b046395348df2a3431bda79f312666fc72d108c56c507b3063c65d0557833688.jpg",
+        "intro": "There\u2019s something wrong about this house. Fate brought you there but now even your own shadow is frightening. Will you stay sane and solve the cursed mysteries?",
+        "description": "Embark on a nonlinear and scary survival-adventure game. Why are you in this abandoned house in the woods? Is it fate? The only thing you know for sure is that strange things need to be solved - disturbing letters, objects, recordings, paranormal events... They drive you crazy but you need to keep a clear mind and shed some light on those mysteries.\nSpeaking of light, make sure it doesn\u2019t go out, your heart might not handle it\u2026\n\nBreathing Fear is the winner of Games Jam: Gamm. No jumpscares here, just a meticulously-crafted story, pixel art, music and atmosphere that will give you the creeps.",
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "size": 60817408
     },
     "70010000026330": {
         "id": "010027700FD2E000",

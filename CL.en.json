@@ -1044,9 +1044,12 @@
             "ja",
             "en",
             "es",
+            "fr",
             "de",
+            "it",
             "pt",
             "ru",
+            "ko",
             "zh",
             "zh"
         ],
@@ -2905,7 +2908,8 @@
             "Drug Reference",
             "Language",
             "Mild Violence",
-            "Suggestive Themes"
+            "Suggestive Themes",
+            "Users Interact"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
@@ -3431,7 +3435,8 @@
             "Blood and Gore",
             "Language",
             "Sexual Themes",
-            "Violence"
+            "Violence",
+            "Users Interact"
         ],
         "numberOfPlayers": 1,
         "rating": 17,
@@ -4489,6 +4494,7 @@
         "description": "Hotline Miami Collection contains both legendary games in the neon-soaked, brutally-challenging Hotline Miami series from Dennaton Games. ",
         "languages": [
             "en",
+            "pt",
             "es",
             "fr",
             "de",
