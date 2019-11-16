@@ -1044,9 +1044,12 @@
             "ja",
             "en",
             "es",
+            "fr",
             "de",
+            "it",
             "pt",
             "ru",
+            "ko",
             "zh",
             "zh"
         ],
@@ -2905,7 +2908,8 @@
             "Referencia a drogas",
             "Lenguaje",
             "Violencia moderada",
-            "Temas insinuantes"
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
