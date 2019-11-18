@@ -2855,7 +2855,7 @@
             "ko",
             "zh"
         ],
-        "size": 824180736
+        "size": 831520768
     },
     "70010000013411": {
         "id": "01003AB00983C000",
@@ -9656,7 +9656,9 @@
         "intro": null,
         "description": "Forced to leave your home under mysterious circumstances, you find yourself drawn into a conflict that has the Sword Coast on the brink of war. Soon you discover there are other forces at work, far more sinister than you could ever imagine...\n\nSince its original release in 1998, Baldur\u2019s Gate has set the standard for Dungeons & Dragons computer roleplaying games. Customize your hero, recruit a party of brave allies, and explore the Sword Coast in your search for adventure, profit\u2026 and the truth.\n\nRunning on an upgraded and improved version of the Infinity Engine, Baldur\u2019s Gate: Enhanced Edition includes the original Baldur\u2019s Gate adventure, the Tales of the Sword Coast expansion, and all-new content including three new party members.\n",
         "languages": [
-            "en"
+            "en",
+            "fr",
+            "de"
         ],
         "size": 6660554752
     },
@@ -34153,27 +34155,30 @@
     "70050000012984": {
         "id": "01001CE00D7B7007",
         "rightsId": null,
-        "name": null,
+        "name": "Foreign Series - Equipment Set",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20190628,
         "nsuId": 70050000012984,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Sexual references",
+            "Sexualised imagery"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 13,
         "developer": null,
-        "publisher": null,
+        "publisher": "Reef Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/58d8c2ae2f3e23b7277d8b31fd6bd037233bd9ed6d4e42254cb11cc026a1f5c3.jpg",
         "intro": null,
-        "description": null,
+        "description": "Some foreign-themed weapons and equipment for all characters.",
         "languages": null,
-        "size": 0
+        "size": 4194304
     },
     "70050000012985": {
         "id": "01001CE00D7B7008",
@@ -40543,6 +40548,33 @@
         "description": "Lucky's Space Suit costume",
         "languages": null,
         "size": 4194304
+    },
+    "70050000017621": {
+        "id": "010010A00DA49002",
+        "rightsId": null,
+        "name": "International Voice Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191118,
+        "nsuId": 70050000017621,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Beamdog",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c52b5d408058bc8b566bc7065277fe438e22e4222f3425ac54f4aa110ae12a13.jpg",
+        "intro": null,
+        "description": "The International Voice Pack adds voice in the following languages:\n\nBaldur\u2019s Gate \nFrench\nGerman\nRussian\nPolish\nUkrainian\n \nBaldur\u2019s Gate II\nItalian\nGerman\nPolish\n\nPlease note:\nSiege of Dragonspear is English voice only.\nThe introduction movie to Baldur\u2019s Gate is voiced over in English and German only.\n",
+        "languages": null,
+        "size": 2509242368
     },
     "70050000017662": {
         "id": "0100E6300F855001",
