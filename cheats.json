@@ -1466,6 +1466,10 @@
                 "source": "040F0000 000DAFB0 EB286586\n040F0000 00AF45D0 ED9F2A00\n040F0000 00AF45D4 E12FFF1E\n040F0000 00AF45D8 XXXXXXXX",
                 "title": "[Stretch Player Vertically]"
             },
+            "41aca4b215d9e49b53da62b83d112203eac36f2e085643cc7ac2fe27f3a73d32": {
+                "source": "04000000 007289B0 48D80000",
+                "title": "[cpu no move ]"
+            },
             "49d24224ff63dd2ccb2b6bcbad7a9886a9f34d8b8143bd245e46a27fa77b039a": {
                 "source": "010F0000 00C2F9C2 000000FF\n010F0000 00C2FA22 000000FF",
                 "title": "[BIGGER KART METAL MARIO]"
@@ -6027,7 +6031,8 @@
             "d0e553f5cf36050030dbdb88ae71784d211317620d4b8402c1c094f7303cb5c1": {
                 "source": "01100000 01907788\n0000005B",
                 "title": "[KNOWLEDGE MAX]"
-            }
+            },
+            "version": 0
         }
     },
     "01004E700DFE6000": {
@@ -9161,6 +9166,24 @@
                 "title": "[gold 2000000000]"
             },
             "version": 524288
+        },
+        "254C9E4B338BFCD3": {
+            "1beac486ef9007226dc328190eba69cb45c5fa34e98091a80baff168aaf03f08": {
+                "source": "58100000 00930F20\n58001000 00000068\n58001000 00000090\n78000000 00000420\n64000000 00000000 00000004",
+                "title": "[Infinite potion]"
+            },
+            "50f877301257bad25544b9d712929df067a9f2b6038b11f7bd5f052f72eb09b4": {
+                "source": "58100000 00930F20\n58001000 00000068\n58001000 00000090\n78000000 00000150\n64001000 00000000 000000FF\n64001000 00000000 000000FF\n64000000 00000000 000000FF",
+                "title": "[255 brutality/tactics/survival]"
+            },
+            "60499bb5c84c2783a5cf620173f3c2ebdb7c80d676b40f56b00484788614e15a": {
+                "source": "58100000 00930F20\n58001000 00000068\n58001000 00000090\n58001000 00000338\n58001000 00000010\n58001000 00000060\n78000000 000000A4\n64000000 00000000 00000000\n78000000 00000148\n64000000 00000000 00000000",
+                "title": "[no CD]"
+            },
+            "a9de2442791d9233d4c8f62cc6ea48887c9f2037cba878bd1c3b450fadba80c1": {
+                "source": "58100000 00930F20\n58001000 00000068\n58001000 00000080\n78000000 00000058\n64000000 00000000 77359400",
+                "title": "[gold 2000000000]"
+            }
         },
         "376D8EF97FB8A97D": {
             "735c5bd24351fb77c8800caee0439e04e1924071a7d841dcfab7716f1419a8d7": {
@@ -19802,6 +19825,62 @@
             "version": 0
         }
     },
+    "0100CA400E300000": {
+        "BE5FAEAF26B2BD48": {
+            "137de4fe42b81322ca439ee425d13af16e3acc913f70b5585c038b443743bb6c": {
+                "source": "04000000 004FE7C0 2A0003E0",
+                "title": "[Maximum After SP Change]"
+            },
+            "14f92699dc0e95e3edea63de31660cd5d0a502083dab88d87869dfe363504eda": {
+                "source": "580F0000 017023C8\n780F0000 00000090\n610F0000 00000000 0000008C",
+                "title": "[Unlimited movement]"
+            },
+            "3f4be22eb8a09778b527b45353cb2bc1dbabea035a263d3dc39b1f486788c6b0": {
+                "source": "04000000 0053E9A0 2A0003E0\n04000000 0053E9DC 2A0003E0\n04000000 0053EA18 2A0003E0\n04000000 0053EA50 2A0003E0\n04000000 0053EAC0 2A0003E0\n04000000 0053EAD4 52993FE8\n04000000 0053EAD8 72A77348",
+                "title": "[Maximum After Money Changes]"
+            },
+            "42f6e93dca1a0680f6e5719fbf71fd6ccba4c7dfee8a3aa61ed20974b8d3e15f": {
+                "source": "580F0000 017023C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000008\n780F0000 00000025\n610F0000 00000000 00000010",
+                "title": "[Body Movement]"
+            },
+            "4dbdee558199abce5ec61babc43e40d09b42a92928debee6f5c2a3e39205defd": {
+                "source": "580F0000 017023C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000008\n780F0000 00000020\n640F0000 00000000 00000000",
+                "title": "[Body Adaptability full S]"
+            },
+            "4fd6e785e33a41283b32b19d37c7cd726560feebcfe3d12aaf67ff37a161d3e1": {
+                "source": "04000000 004DF088 52800148",
+                "title": "[Maximum after EXC increase]"
+            },
+            "6d8fd1eb85cf8cec00fa271aeed499df4c7c249e652c889103548f4d8f2a9ee2": {
+                "source": "04000000 0050B7EC 2A0003E0\n04000000 0053EC08 2A0003E0\n04000000 0053EC44 2A0003E0\n04000000 0053ECF0 2A0003E0\n04000000 0053ED04 529C1FE8\n04000000 0053ED08 72A0BEA8",
+                "title": "[Maximum After TAC Changes]"
+            },
+            "a64af8808506e0ba5adf65b3118bd67a66c3b4a1918c25cbbc904ecf4203ec7d": {
+                "source": "580F0000 017023C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000008\n780F0000 00000044\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F",
+                "title": "[The Body HP is the Largest]"
+            },
+            "a7eeb61266ecaa6b3a6d41260ab33035b79ae75564dfd269502fb299a18bcaaa": {
+                "source": "04000000 00506214 5280000A\n04000000 00506228 52800008",
+                "title": "[The Number of Bullets is not reduced]"
+            },
+            "a8810da1e4839a03f386bc3665d1d2866275059172f81ff473a9d657ffd12af2": {
+                "source": "04000000 00506010 79409801\n04000000 00506028 79409928",
+                "title": "[Maximum After EN Use]"
+            },
+            "bb30250f1e8fcfab5b1ed83b10d2d26ef864e8c7a96d364dd78744a8b22ce7ce": {
+                "source": "580F0000 017023C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000010\n580F1000 00000008\n780F0000 0000005A\n620F0000 00000000 0000012C",
+                "title": "[Main Driving Force Max]"
+            },
+            "c487e2ad6b022361ab7430665b692087725fed34e78e0add4f3a911a9778b4be": {
+                "source": "04000000 004DF140 6B1F0128",
+                "title": "[EXCEL does not decrease after use]"
+            },
+            "d7df64a24ac92333801d9c7d26c7be3e2e778161bcabae84239a419072c123ef": {
+                "source": "04000000 004FFF28 79408048\n80000100\n04000000 004FFF28 528E0008\n20000000",
+                "title": "[Press ZL button to hit the largest]"
+            }
+        }
+    },
     "0100CAF001DBE000": {
         "84F8723C0B2EDD8B": {
             "024e27eb984a872c195ca8095d0ed5195690974f4a9d0594c5e50e469d12892b": {
@@ -22438,7 +22517,8 @@
             "ddecef4fef12a5c9455106865c22ac26049566310029565e50419491d72931a2": {
                 "source": "01000000 012A1920 0000007F",
                 "title": "[Inf Super P1]"
-            }
+            },
+            "version": 65536
         }
     },
     "0100EBE002B3E000": {

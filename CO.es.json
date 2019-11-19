@@ -2707,6 +2707,58 @@
         ],
         "size": 16639852544
     },
+    "70010000012840": {
+        "id": "0100DC300AC78000",
+        "rightsId": "0100DC300AC780000000000000000005",
+        "name": "The Messenger",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191118,
+        "nsuId": 70010000012840,
+        "category": [
+            "Acci\u00f3n",
+            "Aventura",
+            "Arcade",
+            "Plataformas"
+        ],
+        "ratingContent": [
+            "Humor vulgar",
+            "Violencia de fantasia",
+            "Lenguaje"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Devolver Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ff97ff2ff5407ebbce8a4b2223d8f9c6175637f04a605826a25b0906afa5b5da.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a1a6ff41df4b90d63b5bd402d7cc654497af0878927961a73e9b8b306f1d63a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e1e43ab84a5ec334f2a4289cbbf0972f83eef35ab4ee18fc899d6a61ab32a42.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a8c80e71074ea318bca3053a7bd75dd00b955966990d45a475924c30a556413.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8a56a5ef4a121ebdcccf5272bfc492f05e9e37fccfcec60b757db1786255d47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4484c4f01ff769f46d978e08ca82b3cfd1003ee9ae800568a55bba5b4eb0af48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fab023ae555e3301a40ae7dc92643198f1cdcc3d18a06820cd606a656e43f8e2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/df0eb163676a4e1c3059dc3a9cee00e77563250a61f834c726346007b5a3a9fd.jpg",
+        "intro": null,
+        "description": "Mientras un ej\u00e9rcito demon\u00edaco asedia su aldea, un joven ninja se adentra en un mundo maldito para llevar un pergamino crucial para la supervivencia de su clan. Lo que empieza como un cl\u00e1sico juego de acci\u00f3n y plataformas no tarda en convertirse en una extensa aventura de viajes en el tiempo llena de emoci\u00f3n, sorpresas y humor.\n\n - Una mec\u00e1nica de juego din\u00e1mica y acrob\u00e1tica y unos controles superafinados dignos de una \u00e9pica aventura de ninjas.\n\n - Mejoras de personaje, nuevas habilidades, niveles ocultos y distintos caminos por descubrir.\n\n - Sprites, animaciones y fondos de 8 y 16 bits dise\u00f1ados meticulosamente, con el esp\u00edritu de los cl\u00e1sicos.\n\n - Un memorable elenco de peculiares villanos, jefes y c\u00f3mplices.\n\n - Banda sonora original del reconocido compositor de chiptune Rainbowdragoneyes, creada a mano usando Famitracker.",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "pt",
+            "es",
+            "de",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2071986176
+    },
     "70010000012854": {
         "id": "010050F00BC1A000",
         "rightsId": null,
@@ -12647,7 +12699,7 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4dd347402b2a0ee7ea79535fd8757c1b5b4222f7c837a46d32754b7b6d6cfd69.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ca3700c7bf13979d11be7e48e05f28a928a320026104f889bc5392b4c98cefc2.jpg",
         "intro": null,
         "description": "Mortal\u00a0Kombat\u00a011, la m\u00e1s reciente entrega de la aclamada franquicia, te ofrece una experiencia m\u00e1s profunda y personalizada que nunca. Con las nuevas variantes de personaje tendr\u00e1s un control sin precedentes para personalizar a tus luchadores y hacerlos \u00fanicos.\n\nLa Edici\u00f3n Pr\u00e9mium de Mortal\u00a0Kombat\u00a011 incluye:\n\u2022 Juego principal\n\u2022 Paquete de Kombate\n\nEl Paquete de Kombate incluye:\n\u2022 6\u00a0nuevos personajes de contenido descargable, lanzados con el tiempo\n\u2022 7\u00a0skins de personaje exclusivas\n\u2022 7\u00a0conjuntos de equipo\n exclusivos",
         "languages": null,
