@@ -6656,6 +6656,30 @@
             "10fac6c1f90da9316ed9c3ec71e52ca063bb8ab5a41d7bfd12bb5ad29bd17c69": {
                 "source": "01100000 043CFB18 00000003",
                 "title": "[Hearts unlimited]"
+            },
+            "19546c376db89c3e8531dbc5dc8b0ab99c5a2aab7ad91a6fe1cf411a2aee9c52": {
+                "source": "041F0000 043CFB00 00000000",
+                "title": "[Inf Time]"
+            },
+            "27863a38e55c25f2baea0b394d89edc69a7bc34f2c736fe969c408792e298cd8": {
+                "source": "041F0000 02D6A864 00000000",
+                "title": "[Inf Jump]"
+            },
+            "4afaca527479d08ad7413113ffa91a27b20fcd1345a7fab13e64ca609605f4c8": {
+                "source": "041F0000 02D6A874 40000000",
+                "title": "[Invincible]"
+            },
+            "5e6f97beecd19f0a8e88080723b6d12d9a08dd825c574d239baa3dd055dcf652": {
+                "source": "041F0000 015DC8DC 42600000",
+                "title": "[Speed Up]"
+            },
+            "80e89381b094f8f6f165fc15441c88fd5cacc6e0dd15309b86603776ece4a76d": {
+                "source": "80000002\n041F0000 015DC880 C2000000\n20000000",
+                "title": "[Moon Jump]"
+            },
+            "ef1e398f06bcad9bcef32884256aa7bdbcc17166a8b5f766e2ed45a206d52ab8": {
+                "source": "041F0000 02D6A7F0 00000101\n80000100\n041F0000 02D6A7F0 00000000\n20000000",
+                "title": "[Walk through Walls (Hold ZL)]"
             }
         }
     },
@@ -13269,6 +13293,20 @@
                 "title": "[Story Mode Infinite Lives]"
             },
             "version": 0
+        },
+        "A0A745DA9AE25946": {
+            "30ceee3e269a08031ecdb28f81d12d9a646a9fc034039e05ea220801197bb427": {
+                "source": "580F0000 02B6DD78\n780F1000 00001190\n640F0000 00000000 0098967F",
+                "title": "[02# Money 9999999]"
+            },
+            "6adb3952cefbb2c5cfda49f7af0c1789d80620edc8e5d9b48218a8c755a8ab0c": {
+                "source": "04000000 0071F33C D65F03C0\n80000200\n04000000 0071F33C A9BB67FA\n20000000",
+                "title": "[03# Invincible  Press ZR off]"
+            },
+            "9bc47c94f2c4b0c36769db05f0b01a139917e2e67dae931ab2fcefdf8f014658": {
+                "source": "580F0000 02B6DDF0\n780F0000 00000F40\n610F0000 00000000 00000009",
+                "title": "[01# Story Mode Infinite Lives]"
+            }
         }
     },
     "01007CF00D5BA000": {
@@ -18391,6 +18429,34 @@
             "5b686d8e1680566fea90943f31a87343e505ea2696a8c248f0d2d24820cb7066": {
                 "source": "04000000 001DF980 52807CE8",
                 "title": "[finish Level with 999 coins - on]"
+            }
+        }
+    },
+    "0100AEC010052000": {
+        "A0F1E0EAE07D8446": {
+            "0d2918d14d917fe99aaefb6913ff794206e5917e18b7a5afbbc1fd5f1f8019d9": {
+                "source": "80000002\n580F0000 03363930\n580F1000 00002DA8\n780F0000 0000007C\n640F0000 00000000 41A00000\n20000000",
+                "title": "[Moon Jump]"
+            },
+            "971a365f146becbf5278eaf0a4ea8c8ff69bcced64ea23ac628cfa7bb55dbb25": {
+                "source": "580F0000 03363930\n580F1000 00002DA8\n780F0000 0000001C\n640F0000 00000000 41800000",
+                "title": "[Speed Up]"
+            },
+            "c999932b2dc3d79a57d20092ec08ab714f32ab5970abdfa3d6a01e936c997f10": {
+                "source": "580F0000 03363150\n780F0000 00002C0C\n640F0000 00000000 000003E8",
+                "title": "[Inf Ammo]"
+            },
+            "d5a60fa28608229f315a8dd22cb92cc988bcd1786c12cb4df430d1edf35ebdfa": {
+                "source": "580F0000 03363150\n780F0000 00002C14\n640F0000 00000000 00000064",
+                "title": "[Inf Bomb]"
+            },
+            "ef005277f885cdeb14c173025723d549ced748518e21a7926500f032172ee739": {
+                "source": "580F0000 03363150\n780F0000 00002C4C\n640F0000 00000000 44E10000",
+                "title": "[Inf Time]"
+            },
+            "fb9c1b63ac562588a671998b13c408d8602ea755627ab65f28a3815a3015fab4": {
+                "source": "580F0000 03363930\n580F1000 00002DA8\n780F0000 000000A0\n640F0000 00000000 40000000",
+                "title": "[Invincible]"
             }
         }
     },
