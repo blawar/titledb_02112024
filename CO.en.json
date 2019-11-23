@@ -4222,7 +4222,7 @@
         "languages": [
             "en"
         ],
-        "size": 778043392
+        "size": 786432000
     },
     "70010000019691": {
         "id": "0100F8600E21E000",
@@ -9603,6 +9603,37 @@
         "description": "This DLC contains the Zero's Armor and Helmet.\n",
         "languages": null,
         "size": 4194304
+    },
+    "70050000014761": {
+        "id": "010044500C183003",
+        "rightsId": null,
+        "name": "Civilization VI Expansion Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191122,
+        "nsuId": 70050000014761,
+        "category": null,
+        "ratingContent": [
+            "Drug Reference",
+            "Language",
+            "Mild Violence",
+            "Suggestive Themes",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1af3e720e9155ca304d671f890893e7c8df8f88a0410070c0790f32ce2645a42.jpg",
+        "intro": "Build Your Greatest Empire on Nintendo Switch\u2122",
+        "description": "Sid Meier\u2019s Civilization VI Expansion Bundle, which combines both Rise and Fall and Gathering Storm expansions, takes the turn-based strategy classic to new heights. With 16 new civilizations, 18 new leaders, and major enhancements to gameplay such as Great Ages and an active planet where geology and climatology present unique new challenges, the pursuit of building the greatest empire becomes as exciting as it has ever been in the Civilization franchise.\n\nThe Civilization VI Expansion Bundle contains all features from the Rise and Fall and Gathering Storm expansions, that includes: \n\n\u2022NEW LEADERS AND CIVS: Combined together, sixteen new civilizations and eighteen new leaders are introduced. Each brings unique bonuses and gameplay, as well as unique units, districts, wonders, buildings, and more. \n\n\u2022GREAT AGES: As your civilization ebbs and flows and you reach milestone Historic Moments, you will move towards Dark Ages or Golden Ages, each providing specific challenges or bonuses based on your actions in game. Rise triumphantly from a Dark Age, and your next Golden Age will be even stronger \u2013 a Heroic Age.\n\n\u2022LOYALTY: Cities now have individual Loyalty to your leadership \u2013 let it fall too low, and face the consequences of low yields, revolts, and the potential to lose your city if it declares its own independence. But one civilization\u2019s loss can be your gain as you inspire Loyalty among cities throughout the map and further expand your borders.\n\n\u2022GOVERNORS: Recruit, appoint, and upgrade powerful characters with unique specialization bonuses and promotion trees to customize your cities, and reinforce Loyalty.\n\n\u2022ENHANCED ALLIANCES: An enhanced alliances system allows players to form different types of alliances and build bonuses over time.\n\n\u2022EMERGENCIES: When a civilization grows too powerful, other civilizations can join a pact against the threatening civilization, and earn rewards, or penalties, when the Emergency ends.\n\n\u2022TIMELINE: Review your civilization\u2019s history at any time with the new Timeline feature, a visual journey through the Historic Moments that you encountered on your path to victory. \n\n\u2022ENVIRONMENTAL EFFECTS: Volcanoes, storms (blizzards, sandstorms, tornados, hurricanes), climate change, floods, and droughts bring the world to life in a brand-new way. Your settlement choices are more important than ever as you balance high risks and high rewards. \n\n\u2022POWER AND CONSUMABLE RESOURCES: Strategic resources play an additional role. These resources are now consumed in power plants to generate electricity for your cities. Initially you\u2019ll be powering your most advanced buildings by burning carbon-based resources like Coal and Oil, but renewable energy sources also unlock as you progress to current-day technologies. Your choices about resource usage will directly affect the world\u2019s temperature and can cause melting ice caps and rising sea levels. \n\n\u2022ENGINEERING PROJECTS: Shape the world around your empire to overcome unfavorable land conditions by making improvements like canals, dams, tunnels and railroads. When settling cities, consider the flood risk to coastal lowland areas, but keep in mind that in the late-game, new technologies like Flood Barriers can be used to protect these tiles.\n\n\u2022WORLD CONGRESS: Make your voice heard among the other leaders of the world. Earn Diplomatic Favor through Alliances, influencing city-states, competing in World Games, and more. Use Diplomatic Favor to extract promises from other leaders, vote on Resolutions, call a Special Session to address an emergency, and increase the weight of your votes in your quest to achieve the new Diplomatic Victory. \n\n\u202221st CENTURY TECHNOLOGIES & CIVICS: A new era has been added to the Technology and Civics trees. Combat new environmental effects with speculative ideas such as relocating your population out to seasteads and developing technologies to recapture carbon emissions.",
+        "languages": null,
+        "size": 3832545280
     },
     "70050000015201": {
         "id": "0100B6400CA57064",
