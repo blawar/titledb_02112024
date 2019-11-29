@@ -2459,7 +2459,7 @@
             "zh",
             "zh"
         ],
-        "size": 1506803712
+        "size": 1541406720
     },
     "70010000011664": {
         "id": "010096000B3EA000",
@@ -12313,6 +12313,39 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5d71fb154d3a9fbe56aae8e1c2ec000ca73bf607917514a7d788da30d6dd5b95.jpg",
         "intro": null,
         "description": "Purchase this title before 9pm PST on November 7, 2019 and receive Lucky's Space Suit costume!",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018086": {
+        "id": "01009EA00B7152BE",
+        "rightsId": null,
+        "name": "Horizon Chase Turbo - Rookie Series",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191128,
+        "nsuId": 70050000018086,
+        "category": null,
+        "ratingContent": [
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "AQUIRIS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e7c90b62ea4d44d802bf37d853cb158dc32e982fd7c1652a18341618149a0794.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/81bbcc8e2c2b04f91cd2b80bd251c8b92ca103c20bba1c72d1bc5ef15454c506.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/47a4cdcfef02770127d6157ad4ce93d11b3b4e073c82e25486230cb15eaf03f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/437ca8c842a72a201326c38434f9ac5b675de6646da39c2442374eda961ee656.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/986f771d3482ee9910327a8ef9bbf9b3eac0bbcb8a6e6d9c6b979bac7101fc9e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3959c301498ebd7d795371622f4301b3187eae7a72613bc501483ae19e3d4659.jpg",
+        "intro": "A new campaign tailored for new players. Bring your friends and family together into ROOKIE SERIES!",
+        "description": "HORIZON CHASE TURBO ROOKIE SERIES DLC\nA new campaign tailored for new players. Bring your friends and family together into ROOKIE SERIES!\n\nTHE ROOKIE SERIES CAMPAIGN\nThe new campaign is directed at young and inexperienced players, as it will teach the game basics in a welcoming environment, where they can evolve at their own pace. With no leaderboards, collectible coins nor fuel management, the DLC lets players focus on learning the main aspects of racing.\n\nA PERFECT CAR FOR BEGINNERS\nRookie, a brand new car that is perfect for players who don\u2019t have much experience with racing games. It offers great handling and receives automatic upgrades as the player progresses in the campaign.\n\nTHE DRIVER LICENSE\nWhen the players reach the end of Rookie Series, they\u2019ll unlock a special Driver\u2019s License, that ensures they\u2019re ready for World Tour and other gaming modes.",
         "languages": null,
         "size": 4194304
     },

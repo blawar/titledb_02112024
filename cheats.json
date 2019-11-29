@@ -403,6 +403,18 @@
             "version": 65536
         }
     },
+    "010007300C482000": {
+        "70852B805BBF7B4A": {
+            "ca25b72f79fcb4ec72e332508cfe0f937a8e00ee218451d5f7c3a255b8745b59": {
+                "source": "580F0000 01EF6138\n780F0000 0000F680\n640F0000 00000000 000F423F",
+                "title": "[Gems MAX]"
+            },
+            "e3c61a35b58c9603939747b03634dac8b375f8803bc2c5ad926235dd522d6e40": {
+                "source": "04000000 001376A0 D65F03C0",
+                "title": "[Invulnerable]"
+            }
+        }
+    },
     "010007700D4AC000": {
         "47834DD89CC22747": {
             "0544e150d07a881e690994c5c449a9aea11516eb44ed29fb8dbf8895159bac1a": {
@@ -3055,6 +3067,50 @@
                 "title": "[Infinite HP]"
             },
             "version": 327680
+        }
+    },
+    "010022900D3EC000": {
+        "239145D13200977B": {
+            "1a3aea73ef1e2f9b104310d8f1b4b00094eac9d39ac5e9d41181909868cb9433": {
+                "source": "04000000 0041CB1C 79046660",
+                "title": "[morale or air do not decrease ]"
+            },
+            "229ad9780ac6819053d94831a06d900826b9002f5ba7eabd1dc7d0a50eea680a": {
+                "source": "04000000 0041C290 B9022668\n80000040\n04000000 0041C290 B902267F\n20000000",
+                "title": "[enemy unable to counteratt hold L to make HP 0]"
+            },
+            "3fdb9ea8a591c0a3735250179ac5b562c09244ef2ff062499de6aa3cbcd47aec": {
+                "source": "04000000 0041C364 1A80B008",
+                "title": "[EN inf]"
+            },
+            "96dc4c7710b7919082bbc006c3ca3fe3ab21faa4dad64a026bc36c0b45f279ef": {
+                "source": "80000200\n04000000 0041CB00 1A89B008\n20000000",
+                "title": "[MP max after value change ZR off]"
+            },
+            "9c848284eb453ad78dff6f3f297fbcc2b1721e785bb9a5d86093edbd588dbca2": {
+                "source": "04000000 00129480 1A89B128",
+                "title": "[CAPITAL Max after vlaue change]"
+            },
+            "a44356ea2f9566b01d6d982bbf8f314da70e9a6fb55546d0e06b4a5b0408dae3": {
+                "source": "04000000 00384C50 0B080AC8\n04000000 00384FA8 0B01094A",
+                "title": "[SCORE x4]"
+            },
+            "a8c84a125f00050a8fe656cb6f8d7b5133a7776f4f02bcb9e63eb3baca14714b": {
+                "source": "80000100\n04000000 0041CB00 1A80B008\n20000000",
+                "title": "[MP max after value change ZL on]"
+            },
+            "cdd7ff0856722753801649585de397a2ccb9bec0b7b1cf410ca6a5bf14a4a1cd": {
+                "source": "04000000 00350074 0B190D01",
+                "title": "[kills x8]"
+            },
+            "d16b32a66b921d54fe75155133718562f496cd2a4555b666dd86f3041e043c13": {
+                "source": "04000000 00350074 0B190901",
+                "title": "[kills x4]"
+            },
+            "e4588760b9ea2cc974f349f921757ff6802181f66a109780372acf07d8a9b799": {
+                "source": "04000000 00384C50 0B080EC8\n04000000 00384FA8 0B010D4A",
+                "title": "[SCORE x8]"
+            }
         }
     },
     "010022F00DA66000": {
@@ -7403,6 +7459,10 @@
             "version": 65536
         },
         "9454F2C47F827602": {
+            "14d68389fded41eb1265baf978929a6fcacad08d56b6f6d1227de10aa648bc3c": {
+                "source": "80000040\n04000000 000AFC54 1A88B100\n20000000",
+                "title": "[Max Movement Point\uff08L to switch on\uff09]"
+            },
             "174b405940a39d8fe97bfa5b8b05bb0367d9ebd502798b3f054887e15cb2c7b3": {
                 "source": "04000000 003B1914 1A883108\n04000000 003B1934 1A883108\n04000000 003B1954 1A883108\n04000000 003B1974 1A883108\n04000000 003B1994 1A883108",
                 "title": "[INF SHOP ITEMS(ON)]"
@@ -7413,7 +7473,7 @@
             },
             "1d80b48e8b6f6eed9ca9906e01c62845e1c1a7564ed18b8e8e975dff01f098e3": {
                 "source": "580A0000 01A2F1B8\n780A0000 000B01B4\n610A0000 00000000 00000000",
-                "title": "[Mode : Easy]"
+                "title": "[Difficuty: Normal]"
             },
             "23e616bbd283ee3ef11b7990e04f76587949faab6e22fd7ca2f18b6a8b86d5f3": {
                 "source": "58000000 01A2F1B8\n78000000 000B0E07\n61001000 00000000 0000000A\n62000000 00000000 00000307",
@@ -7438,6 +7498,10 @@
             "3db3ca96d5a32a828cba5068fd4fa4667b4049613379a7d21f7366a944be46f4": {
                 "source": "04000000 003E06D8 0B010929",
                 "title": "[exp x4]"
+            },
+            "3fd52b9abbdc614012e665a51e51c36465dfa0ed968f5f32308821f119bbddbd": {
+                "source": "40000000 00000000 00000000\n04000000 003BC5A8 4B1F014A\n04000000 003BC5D8 4B1F014A",
+                "title": "[Inf Materials/Gifts]"
             },
             "4baa963d1d124b6efbc106344eb0fc9f03180c5718d29c754d468fa955435030": {
                 "source": "580F0000 01A69D50\n780F0000 00000002\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n620F0000 00000000 00000064\n780F0000 00000004\n580F0000 01A69D60\n780F0000 0000000A\n610F0000 00000000 00000000\n580F0000 01A69D50\n780F0000 00000094\n640F1000 00000000 64646464\n640F1000 00000000 64646464\n620F0000 00000000 00006464",
@@ -7485,11 +7549,15 @@
             },
             "85984bcd737ee0f8ec21222b2807ba95a824f2ed7d5e7aaf3ea18ea98067ce81": {
                 "source": "580F0000 01ABAF60\n780F0000 00024274\n640F0000 00000000 000F423F",
-                "title": "[Max gold]"
+                "title": "[Max Money Alternate]"
             },
             "8e29777b537673292335a500a9327d3ecaf881fd17b4640f857eab6f10c332b6": {
                 "source": "04000000 003E06D8 0B011129",
                 "title": "[exp x16]"
+            },
+            "8f704821892e9d0e98a3167410a756a80f75885046a67b96f359236c2212f0df": {
+                "source": "580F0000 019D76F0\n780F0000 00000717\n300E0000 00000023\n610F0000 00000000 000000FF\n780F0000 00000230\n310E0000\n580F0000 019D76F0\n780F0000 00000718\n300E0000 00000023\n640F0000 00000000 FFFFFFFF\n780F0000 00000230\n310E0000",
+                "title": "[All Characters - Unlock All Jobs]"
             },
             "91f1d8b464ffaa0ef6ff80e26b7d201ef15edd27b3cf79e54516b80486af52f5": {
                 "source": "04000000 003E08FC 0B021D4A\n04000000 003D5504 0B021D29",
@@ -7501,7 +7569,7 @@
             },
             "9f7446840714f05db440207f9bfe63a486354f0f9c60459f34538de55900dd6d": {
                 "source": "04000000 003A9BAC F1001D1F\n04000000 003A9CA8 11000539\n04000000 003A9E34 11000539\n04000000 003A8F64 F1001F1F\n04000000 003A9020 11000668\n04000000 003A9220 11000668",
-                "title": "[ALL ability point +1 level up(On)]"
+                "title": "[+1 to all Stats with growth ON ALTERNATE]"
             },
             "a5b9b686a703bd84ee0a1553b9e77c9c0ac211bb84499fd9babe1074a6c0d228": {
                 "source": "04000000 003AA2D4 0B021129",
@@ -7509,11 +7577,11 @@
             },
             "b99dddf7a3aac57449bca44847fda84a5c7860d90b4c64219f7d9e17ba150a62": {
                 "source": "580F0000 01ABAF60\n780F0000 0000068C\n300E0000 0000003C\n620F0000 00000000 000000C8\n780F0000 0000024C\n310E0000",
-                "title": "[All Characters - Current Class Max XP v1.1.0]"
+                "title": "[All Characters - Current Class Max XP]"
             },
             "bdcf1c9c1d99aee1c5a3d6755c9c9f1ceac8bbc97a614f0e5510c1b92951027a": {
                 "source": "580F0000 01ABAF60\n780F0000 00000723\n300E0000 0000003C\n620F0000 00000000 00000000\n780F0000 0000024C\n310E0000",
-                "title": "[Infinite Exam Retakes v1.1.0]"
+                "title": "[Infinite Exam Retakes]"
             },
             "c47e4167e158904c19c7bce497306314e916f2c8ad7464c24c6bc3e4226e285e": {
                 "source": "580A0000 01A2F1B8\n780A0000 000B01B4\n610A0000 00000000 00000002",
@@ -7523,9 +7591,13 @@
                 "source": "04000000 003AA2D4 0B020929",
                 "title": "[Skill x4 booster in Teaching]"
             },
+            "cec09a6e1eb5257aa72bf213c33b1a697c1128632e5c5f39adb13badeaf41610": {
+                "source": "04000000 003A9010 2A1403E0\n04000000 003A9210 2A1403E0",
+                "title": "[+1 to all Stats with growth ON]"
+            },
             "d30a42e9977d64e059cf45c7898bc5cbb516da04278fb752ea41425c66c5374a": {
                 "source": "580A0000 01A2F1B8\n780A0000 000B01B4\n610A0000 00000000 00000001",
-                "title": "[Mode : Classic]"
+                "title": "[Difficuty: Hard]"
             },
             "d6f3daf60a76d784059e22e9a5d92ee2679c1b96fc0d9d885a2374213f759ea3": {
                 "source": "04000000 003BF354 6B1F0108",
@@ -7537,15 +7609,27 @@
             },
             "e5653ab62b30fca41e09fcd30e627bfb3d68d2774c24b1611e2c38b6beeda0f7": {
                 "source": "04000000 003A9BAC F100251F\n04000000 003A9CA8 1A89D539\n04000000 003A9E34 1A89D539\n04000000 003A8F64 F100271F\n04000000 003A9020 1A93A668\n04000000 003A9220 1A93A668",
-                "title": "[ALL ability point +1 level up(Off)]"
+                "title": "[+1 to all Stats with growth OFF ALTERNATE]"
             },
             "e5ca2641f667ff6753e5524b60093f0508e7c49385723b9dad65a4c007c1fc7c": {
                 "source": "04000000 003AA2D4 0B020129",
                 "title": "[Skill x1 booster in Teaching]"
             },
+            "e7acc2c5418aa46235b4374c2f639eee567eb4e485f627da07663e51a085a05b": {
+                "source": "80000080\n04000000 000AFC54 1A88B2E0\n20000000",
+                "title": "[Max Movement Point\uff08R to switch off\uff09]"
+            },
             "ed704306ebec3717e5f16d57c10bd5d232778e01d86504407caa9f25509b6dde": {
                 "source": "04000000 01ADF1E4 0098967F",
                 "title": "[Max Money]"
+            },
+            "f18c8a06e8bc6473a2291150c0bad13745dd75499b7f14197f075176c640042e": {
+                "source": "04000000 003A9010 2A1703E0\n04000000 003A9210 2A1703E0",
+                "title": "[+1 to all Stats with growth OFF]"
+            },
+            "f2e97e747bdb44ff6159151acccb3913356fb5688939ad46cc218882293954c2": {
+                "source": "580F0000 01ABAF60\n780F0000 00000717\n300E0000 0000003C\n610F1000 00000000 000000FF\n640F1000 00000000 FFFFFDFF\n780F0000 00000247\n310E0000",
+                "title": "[Unlock all regular Classes]"
             }
         },
         "CECF500CEA4C214C": {
@@ -18024,6 +18108,34 @@
                 "title": "[P2 30 Coins Save1]"
             },
             "version": 0
+        }
+    },
+    "0100A6000ACEA000": {
+        "149284506F1BCC48": {
+            "0af9c0e4f33dd564b2987192b4eafdd11e54c433fc7eba3b81eee5d2c52d6344": {
+                "source": "580F0000 02B30998\n580F1000 000000A0\n580F1000 00000080\n580F1000 00000010\n580F1000 00000020\n580F1000 00000028\n580F1000 00000050\n780F0000 00000034\n640F0000 00000000 4479C000",
+                "title": "[Infinite HP]"
+            },
+            "46cdb34ae74b1f8b45dd72a9caadec736e3fd7759ebdc6060fda944e9da662e0": {
+                "source": "580F0000 02B30990\n580F1000 000000A0\n580F1000 00000008\n580F1000 00000010\n580F1000 00000030\n580F1000 00000018\n580F1000 00000010\n780F0000 00000030\n640F0000 00000000 47C15C00",
+                "title": "[Money 99000 Only Use 1 time on New Game]"
+            },
+            "534d00796209dda00655674f2d59950247c2a0a72c0fb88b55c6d541765ebbcc": {
+                "source": "580F0000 02B31288\n580F1000 000000A0\n580F1000 00000010\n580F1000 00000010\n580F1000 00000028\n580F1000 00000028\n580F1000 00000050\n780F0000 00000038\n640F0000 00000000 00000000",
+                "title": "[CPU No Yellow Bar]"
+            },
+            "58f057e680e03290ad90ebaede5680a162774f63d6fe28bf8a8c59dfe0e85f45": {
+                "source": "580F0000 02B30990\n580F1000 000000A0\n580F1000 00000008\n580F1000 00000010\n580F1000 00000030\n580F1000 00000018\n580F1000 00000010\n780F0000 00000040\n640F0000 00000000 461AB000",
+                "title": "[Skill Points 9900 Only Use 1 time on New Game]"
+            },
+            "8b4178bf547d972a555c7978b17667916a4dc012279095ee7e619b1fc423a24f": {
+                "source": "580F0000 02B30990\n580F1000 000000A0\n580F1000 00000008\n580F1000 00000010\n580F1000 00000030\n580F1000 00000018\n580F1000 00000010\n780F0000 00000034\n640F0000 00000000 46A00000\n780F0000 00000004\n680F0000 46A00000 46A00000",
+                "title": "[Red Blue Green 28 Only Use 1 time on New Game]"
+            },
+            "9c9d5bbda680a3fc53f033acd2fbaaf052ec0448c942606e32183d59d1852a2d": {
+                "source": "580F0000 02B30998\n580F1000 000000A0\n580F1000 00000080\n580F1000 00000010\n580F1000 00000020\n580F1000 00000028\n580F1000 00000050\n780F0000 00000038\n640F0000 00000000 42C80000",
+                "title": "[Infinite Yellow Bar]"
+            }
         }
     },
     "0100A6300150C000": {
