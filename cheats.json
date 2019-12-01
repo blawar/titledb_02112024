@@ -3406,6 +3406,10 @@
                 "source": "581F0000 067D84E8\n780F0000 00005196\n300E0000 00000006\n620F0000 00000000\n000003E7 780F0000\n00000028 310E0000\n20000000",
                 "title": "[Article illimit\u00e9]"
             },
+            "92bc76ebd0f63ff90c417ccfb866a95b997a58c5d498502c2ed15b4fd75cd7c9": {
+                "source": "04000000 003FFE00 D65F03C0",
+                "title": "[hitanywhere mode]"
+            },
             "9e21bb3223d4d8c9179db1f3f9fb4bef9ed77b12c8dfc9f0da97fed9d92b1463": {
                 "source": "581F0000 067D84E8\n780F0000 00001368\n640F0000 00000000 03840384",
                 "title": "[Infinite Health Main Character]"
@@ -3636,6 +3640,18 @@
                 "title": "[P1 Cheer Bar Special Rapid Fire]"
             },
             "version": 0
+        }
+    },
+    "01002BA00D662000": {
+        "A38595D6DD8F6F4F": {
+            "0b74ca033a46636a36bff43a8cb3ba698ea3c7493b60371d7c5c8feec71f6361": {
+                "source": "04000000 0063677C 1E2E1009",
+                "title": "[Affinity - Instant Allied on Update]"
+            },
+            "5a18efe33dff9b6e4a4814e07b69ec4b79c99e144d298ca04c3f257e1e0806e7": {
+                "source": "04000000 0030DACC 52800020",
+                "title": "[Free Craft]"
+            }
         }
     },
     "01002C0008E5200": {
@@ -4649,6 +4665,28 @@
             "version": 65536
         }
     },
+    "01002DE00C250000": {
+        "31D92C875B1CCA41": {
+            "1ca28eb20e1fdb278b70a138c8ad4533e228505f726de90977b92d62ee75fdf5": {
+                "source": "04000000 003E2BFC 5284E1F5",
+                "title": "[get souls x9999 on collect]"
+            },
+            "db0c2c3dac2415f2746c7aab8cfd772b35d7904f1e10fb29b76b70296f07d741": {
+                "source": "04000000 0041196C 0098967F\n04000000 00411930 180001E1",
+                "title": "[get merv x9999999 on collect]"
+            }
+        },
+        "592DE2F107EC8646": {
+            "293ce02856a1a0e2c8464f5803ea9a217559b22dc240953a5e08d12b80acef42": {
+                "source": "04000000 001E870C 5284E1F5",
+                "title": "[get souls x9999 on collect]"
+            },
+            "de80a0bcaaa1faf4eea6b48044a7a14dda94420abc28b120cbfb75500962a903": {
+                "source": "04000000 0051B258 5292CFE9\n04000000 0051B25C 72A01309",
+                "title": "[get merv x9999999 on collect]"
+            }
+        }
+    },
     "01002DE00E5D0000": {
         "D76D38B9E285E4CC": {
             "1bd8eb603d698e24f6a8eb6574f6257ac42ef41b7946f1199785990180d6bb65": {
@@ -4852,6 +4890,18 @@
                 "title": "[999999 Gold]"
             },
             "version": 0
+        }
+    },
+    "010034E00EFD0000": {
+        "72353029E0DD9843": {
+            "1c7fdcb09c2eb68b4b5359255a85d748dcbf70aba1d9163a34d453fe6de22358": {
+                "source": "04000000 002F4DF0 4B1F0108",
+                "title": "[Inf Sight Range]"
+            },
+            "43dba48a5feb06a190b68dd0638a1ca59d45871d9ef176d22102cd1498ffabc4": {
+                "source": "04000000 002F4594 4B1F0108",
+                "title": "[Inf Food]"
+            }
         }
     },
     "010036B0034E4000": {
@@ -9516,6 +9566,14 @@
                 "source": "58100000 00930F20\n58001000 00000068\n58001000 00000090\n78000000 00000420\n64000000 00000000 00000004",
                 "title": "[Infinite potion]"
             },
+            "459addca468e2aaa03c4c41454ce462d0ef29c334931e50630a1017c60b91da4": {
+                "source": "58100000 00930F20\n58001000 00000068\n58001000 00000090\n78000000 0000047C\n64000000 00000000 000F423F",
+                "title": "[Cells]"
+            },
+            "50286f63b61c2dccab27bc576507efc33093f9abe927eb9d9b76d5ab239c3651": {
+                "source": "80002002\n581F0000 00930F20\n580F1000 00000068\n580F1000 00000090\n780F0000 000000B4\n640F0000 00000000 BFE00000\n20000000",
+                "title": "[Moon Jump Up+B]"
+            },
             "50f877301257bad25544b9d712929df067a9f2b6038b11f7bd5f052f72eb09b4": {
                 "source": "58100000 00930F20\n58001000 00000068\n58001000 00000090\n78000000 00000150\n64001000 00000000 000000FF\n64001000 00000000 000000FF\n64000000 00000000 000000FF",
                 "title": "[255 brutality/tactics/survival]"
@@ -9527,6 +9585,14 @@
             "a9de2442791d9233d4c8f62cc6ea48887c9f2037cba878bd1c3b450fadba80c1": {
                 "source": "58100000 00930F20\n58001000 00000068\n58001000 00000080\n78000000 00000058\n64000000 00000000 77359400",
                 "title": "[gold 2000000000]"
+            },
+            "e696201dc0463b5dcdd94e2f1b2c8ffae833072d1c1106f5c2bf1c5f1ecb4337": {
+                "source": "58100000 00930F20\n58001000 00000068\n58001000 00000090\n78000000 00000128\n64001000 00000000 0000270F\n64000000 00000000 0000270F",
+                "title": "[Infinite health]"
+            },
+            "fb223ec2c4c5db01c87f4f7798095ef29b7ca81ecd6d9e7c36badd50eb63a121": {
+                "source": "58100000 00930F20\n58001000 00000068\n58001000 00000090\n78000000 00000474\n64000000 00000000 000F423F",
+                "title": "[Cells]"
             }
         },
         "376D8EF97FB8A97D": {
@@ -17479,6 +17545,44 @@
             "aef67b97f8de8071a9dcbc3f297fff23962dcc63384283dcb6d31527d5559675": {
                 "source": "04000000 001F704C 1E282808",
                 "title": "[UNL Fuel]"
+            }
+        },
+        "FC03E9C290B99944": {
+            "324501ba4620a9d5cbce698f9a901833c9fcb7f1394a205abd9fb1a18540cbee": {
+                "source": "04000000 002F7280 B9410400",
+                "title": "[Always first place (OFF)]"
+            },
+            "7abea5e12114f7c16c8817a0239e0d55216b548ffaedd07dcfd7e9903b3f6205": {
+                "source": "04000000 0117D11C 1E283808",
+                "title": "[Infinite Fuel (OFF)]"
+            },
+            "80d2f468569af32f51528b6307a942f076b76b0dc7ac40f3354ef21f38eab102": {
+                "source": "04000000 0117D11C 1E282808",
+                "title": "[Infinite Fuel (ON)]"
+            },
+            "8a0af0ea0e257ee5d68e0cdf000837c429aee24872b6cd20654747f736653faa": {
+                "source": "04000000 002FD2B0 B9402000",
+                "title": "[Infinite Nitro (OFF)]"
+            },
+            "967aa7d52ff2d8adf94d09df41c26cfc09609fcac9c327056f233cce13693439": {
+                "source": "04000000 002F7280 52800000",
+                "title": "[Always first place (ON)]"
+            },
+            "b313f441a2b800bd221ee0d49b7b8b866bdafcbbf6c2d3fe52a687f6b86e963e": {
+                "source": "04000000 002FD2B0 52800120",
+                "title": "[Infinite Nitro (ON)]"
+            },
+            "be69113cc9d333bc121711b4fb3a020c55dfe616a33601fe2e74195f0a0d078b": {
+                "source": "04000000 000DFF30 B9405C00",
+                "title": "[All Race Coins Collected (ON)]"
+            },
+            "e1740260d3311ea8e3cb829d55c64dd73c300a38ee18584faaf4c02995d3293d": {
+                "source": "04000000 000F567C 52800008",
+                "title": "[Unlock all cars]"
+            },
+            "e39f4e5f43b6cf05b74637ee177b2dc3b9ad6d56ee0204a0be6c3ca03a472f6b": {
+                "source": "04000000 000DFF30 B9405800",
+                "title": "[All Race Coins Collected (OFF)]"
             }
         }
     },
