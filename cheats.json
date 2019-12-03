@@ -17548,6 +17548,10 @@
             }
         },
         "FC03E9C290B99944": {
+            "26f4f1b6fc050b56c1797e3a21140336a1c381b8e53004ede640bf385854e4b2": {
+                "source": "04000000 002F9DA0 D61F00A0",
+                "title": "[Ghostization (OFF)]"
+            },
             "324501ba4620a9d5cbce698f9a901833c9fcb7f1394a205abd9fb1a18540cbee": {
                 "source": "04000000 002F7280 B9410400",
                 "title": "[Always first place (OFF)]"
@@ -17567,6 +17571,10 @@
             "967aa7d52ff2d8adf94d09df41c26cfc09609fcac9c327056f233cce13693439": {
                 "source": "04000000 002F7280 52800000",
                 "title": "[Always first place (ON)]"
+            },
+            "96996d9775fa30f148e63047fb69c636af7bdd1f0790169139a5ad1b2627d17d": {
+                "source": "04000000 002F9DA0 D65F03C0",
+                "title": "[Ghostization (ON)]"
             },
             "b313f441a2b800bd221ee0d49b7b8b866bdafcbbf6c2d3fe52a687f6b86e963e": {
                 "source": "04000000 002FD2B0 52800120",
@@ -20021,6 +20029,24 @@
         }
     },
     "0100BF500207C000": {
+        "1A6DFB0842D3E0D4": {
+            "345a1e068480e75e4adc53c8011fa4eec234a17e89802b2ecb661c10fa3d2aa8": {
+                "source": "04070000 001770DC 52800009",
+                "title": "[Unlimited items]"
+            },
+            "4a27a65839895205c9e90ffeec620ac2addbf2b799da333e4087ac8fc3df2dbf": {
+                "source": "04070000 001A02CC 52800009",
+                "title": "[Unlimited MP]"
+            },
+            "5c4ce8e417aa7de952b31ef2cdea706e132fca4d988fbafe8249320c9afe648a": {
+                "source": "04070000 04895420 BD4002E0\n04070000 04895424 F9401740\n04070000 04895428 D28267A8\n04070000 0489542C 38686800\n04070000 04895430 7100041F\n04070000 04895434 54000041\n04070000 04895438 1E2703E0\n04070000 0489543C D65F03C0\n04070000 0011856C 951DF3AD",
+                "title": "[Unlimited HP]"
+            },
+            "a403386424f3705ff851c2d84346d3398727b66cc7ad8e22bd92359b49e4cecf": {
+                "source": "04070000 04895400 52A00EC2\n04070000 04895404 7295BE22\n04070000 04895408 B9025402\n04070000 0489540C B9425400\n04070000 04895410 D65F03C0\n04070000 0026E5B8 95189B92",
+                "title": "[7777777 money]"
+            }
+        },
         "3801F5E8E152C2C2": {
             "0465f1035ee47215fe221638850f88caa327e9ad7b68d63a88db1b08a7af0262": {
                 "source": "580F0000 09624770\n580F1000 00000038\n780F0000 00000C24\n640F0000 00000000 4479C000",
@@ -23727,6 +23753,14 @@
             "ecf64461733f64488f7e1b9e0f65d738156d731977e3f0ecd03dcd441e74c63c": {
                 "source": "580F0000 01A22E10\n780F0000 00005D84\n620F0000 00000000 00004E20",
                 "title": "[#04# Player Inf Heat Gauge]"
+            }
+        }
+    },
+    "0100EEB005ACC000": {
+        "5441813A911B7B45": {
+            "1533734c8b968ce5e1156a1c5ad7764b73c9ca003f2447bba5f2a21ee8ed0d1e": {
+                "source": "04100000 B7BE58DC 0001869F",
+                "title": "[Unlimited energy cubes]"
             }
         }
     },
