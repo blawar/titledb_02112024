@@ -2560,7 +2560,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20181108,
+        "releaseDate": 20191212,
         "nsuId": 70010000012305,
         "category": [
             "Action",
@@ -2594,6 +2594,7 @@
             "ja",
             "en",
             "es",
+            "pt",
             "fr",
             "de",
             "it",
@@ -3661,7 +3662,7 @@
             "ru",
             "ko"
         ],
-        "size": 13449035776
+        "size": 13511950336
     },
     "70010000016904": {
         "id": "0100E5600D446000",
@@ -7910,9 +7911,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6d69ae0d12766d6b358ab3f57a6bcacda566da809e181ae20f2a3573916ca661.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff7d3742374045b51ed0c65c74a92d56123a30ae6326ffd375cfb6d4cd6068bd.jpg",
         "intro": null,
-        "description": "This item is already included in the Kombat Pack.\n\nThree new character skins. The Gothic Horror Skin Pack includes Goddess of the Damned Cetrion, Kronika's Monster Geras, and Nosferatu Raiden.",
+        "description": "This item is already included in the Kombat Pack.\n\nThree new character skins. The Gothic Horror Skin Pack includes Goddess of the Damned Cetrion, Kronika's Monster Geras, and Impaler Raiden.",
         "languages": null,
         "size": 4194304
     },
