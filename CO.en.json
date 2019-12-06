@@ -2410,7 +2410,7 @@
             "zh",
             "zh"
         ],
-        "size": 1541406720
+        "size": 1570766848
     },
     "70010000011664": {
         "id": "010096000B3EA000",
@@ -2893,7 +2893,7 @@
             "zh",
             "zh"
         ],
-        "size": 1639972864
+        "size": 1669332992
     },
     "70010000013704": {
         "id": "010044500C182000",
@@ -4943,6 +4943,56 @@
             "zh"
         ],
         "size": 10244587520
+    },
+    "70010000027060": {
+        "id": "01008B20022AA000",
+        "rightsId": null,
+        "name": "Shovel Knight: King of Cards",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191210,
+        "nsuId": 70010000027060,
+        "category": [
+            "Adventure",
+            "Action",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Yacht Club Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a2d8a816016a8507cf273f3dd8e49715505cdf5d52b049a21c710c3125e51f5f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/69c35665ca2398812910f833eb8b591fc47118028b1a10dbbbc653a4a1e3e5cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f9c233e7487e8ef6ed76c15872fa2946624547f13af117d656dc4a489fffc10.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/679b9f08bdd8da04e10e57e0f0af61fc862355bfa68819d8620949be9557dd81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e63510b7a1e7ec348b6607e608e86803e6a6eac4b3b8e43cd34f0bc47cf299cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e8fa9511aab56f806cf04511d95c984ac5b65f13090a9d71349eb3f5bad0a25.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63393b5a6754fa9d6bded07bcec0941626ab3370b7700d343bc54abacc8e6474.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ed8db82af3c1a332393836fbacb4d443c4d4ce4caea38f6704514186c56e343.jpg",
+        "intro": null,
+        "description": "Hear Ye, Hear Ye! Make way for Shovel Knight: King of Cards, the grandest adventure in the Shovel Knight: Treasure Trove saga! Step into the gilded boots of King Knight as you leap, Shoulder Bash, and twirl your way to a kingdom of your own in this regal prequel. Gather cards, take on challengers, and build a deck in the all-new card game, Joustus! Travel through strange worlds, gather new subjects, best the Joustus Judges, and become King of Cards! World-class platforming, exquisite visuals, a story with heart, action-packed stages, masterful music, glorious new bosses, and more await you in Shovel Knight: King of Cards.\n\nFeatures:\n\u2022 See how the royal saga begins! Encounter some familiar faces, meet some new ones, and learn how King Knight came to sit upon the throne at Pridemoor Keep in the most ridiculous Shovel Knight adventure yet!\n\n\u2022 Smash enemies and obstacles head-on with your Shoulder Bash! King Knight\u2019s showy play style is all about crashing, bouncing, and throwing his heft around.\n\n\u2022 Take part in Joustus, a brand new collectible card game created specifically for King of Cards! Build a deck, search for over 120 unique cards, defeat challengers, and become the Champion of each House of Joustus.\n\n\u2022 Collect tons of treasure, heirlooms, armors, abilities, and followers as you sail the skies in your quest for the Joustus Crown.\n\n\u2022 Test your skills with new Feats and Challenge Stages featuring boss rematches, custom-created platforming challenges, and more.\n\n\u2022 Enjoy Yacht Club Games\u2019 finest visual presentation ever! The beautiful, 8-bit inspired style bridges the gap between yesterday and today.\n\n\u2022 Another masterful soundtrack by Jake \u201cVirt\u201d Kaufman!\n\n\u2022 Balanced gameplay is a warm welcome to newcomers and an old embrace for experts.\n\n\u2022 Take on a new challenge and multiply your wealth with New Game+!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 217055232
     },
     "70030000005101": {
         "id": null,

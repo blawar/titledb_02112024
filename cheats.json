@@ -2936,6 +2936,30 @@
             "version": 0
         }
     },
+    "010021D00812A000": {
+        "82FFF40B9CEA383D": {
+            "6302732b02f60e645b48fcab96ee6bb37ac93bedef07aa44016730a3940389f7": {
+                "source": "011F0000 018177BD 00000000\n011F0000 018177BF 00000002\n80000200\n011F0000 018177BD 00000010\n20000000",
+                "title": "[Inf Fire Mario (Small = ZR)]"
+            },
+            "85e282d42240b5fb203691f4de024240c2fb209be4238f9849d4f0395a064847": {
+                "source": "011F0000 01817807 00000020",
+                "title": "[Invincible]"
+            },
+            "8915872004dafa3a70b7fd9b6f3cbd57c4d2fccb607806663e22d38d5fb0ec30": {
+                "source": "041F0000 01817860 0A090900\n80000100\n041F0000 01817860 00000000\n20000000",
+                "title": "[Time Stop (Time 0 = ZL)]"
+            },
+            "97de21dbab546299efd02d069144ef7ae71b8bae6667641cd1681cc0565c7b18": {
+                "source": "011F0000 01817808 00000020",
+                "title": "[Inf Star Power]"
+            },
+            "ac7f3d09d95fd56b3f90e517abdaf97d986182e73b34579d1114e5b65630d2f2": {
+                "source": "80000001\n011F0000 01817108 000000FC\n20000000",
+                "title": "[Moon Jump]"
+            }
+        }
+    },
     "010021F00AD76000": {
         "A18D105404DA2C47": {
             "61a0ab13b37be88f1b63cf15671484f09509aee2fd1469e9f9c410aed9ff4e2c": {
@@ -3071,21 +3095,81 @@
     },
     "010022900D3EC000": {
         "239145D13200977B": {
+            "051e64f03bdfa45f5550d9f941bff73d96e17037e25b1a3e9d5496874d7f6fce": {
+                "source": "580F0000 0154B3C0\n780F0000 00000E78\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n20000000",
+                "title": "[Character Crew Stats - Auxiliary 999 (1st to 50th)]"
+            },
+            "16f1384730ce501514d9c6a5e19e54b8a76ea7fd3bab387d03c48e7add60f89d": {
+                "source": "580F0000 0154B3C0\n780F0000 00000E80\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n20000000",
+                "title": "[Character Crew Stats - Navigation 999 (1st to 50th)]"
+            },
             "1a3aea73ef1e2f9b104310d8f1b4b00094eac9d39ac5e9d41181909868cb9433": {
                 "source": "04000000 0041CB1C 79046660",
                 "title": "[morale or air do not decrease ]"
+            },
+            "1d2367c8c5f08110abf4738b8a301822fabf284b714e56ec3d8c51fbe6f4e65f": {
+                "source": "04000000 01549158 3B9ACA00",
+                "title": "[Max Capital]"
             },
             "229ad9780ac6819053d94831a06d900826b9002f5ba7eabd1dc7d0a50eea680a": {
                 "source": "04000000 0041C290 B9022668\n80000040\n04000000 0041C290 B902267F\n20000000",
                 "title": "[enemy unable to counteratt hold L to make HP 0]"
             },
+            "2866a54b1171b8dc9b95dcbb319724611220b0c46f998f18a92d8655604f642b": {
+                "source": "580F0000 0154B3B8\n780F0000 00000030\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000038\n310E0000\n20000000",
+                "title": "[MS/MA/WARSHIP MOB 999 (1st to 50th)]"
+            },
+            "3f4f0bcd554fda900b78d5070f00598dd3a6d044515dba90e6f406e91b6d8600": {
+                "source": "580F0000 0154B3B8\n780F0000 00000010\n300E0000 00000032\n610F0000 00000000 00000063\n780F0000 00000038\n310E0000\n20000000",
+                "title": "[MS/MA/WARSHIP LV99 (1st to 50th)]"
+            },
             "3fdb9ea8a591c0a3735250179ac5b562c09244ef2ff062499de6aa3cbcd47aec": {
                 "source": "04000000 0041C364 1A80B008",
                 "title": "[EN inf]"
             },
+            "418b0f0983c5a3096c5e5cc7cb9d1cc85d770d1c67ea3f744b5b47c3d7689ef5": {
+                "source": "580F0000 01548FE0\n780F0000 00000002\n300E0000 00000032\n620F0000 00000000 00000063\n780F0000 0000000A\n310E0000\n20000000",
+                "title": "[Character Ability List 99 (1st to 50th)]"
+            },
+            "6f267b3e52861497822395a76ac7be53109ad93fe024048d0825967ca8adc78e": {
+                "source": "580F0000 0154B3C0\n780F0000 00000E60\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n20000000",
+                "title": "[Character Pilot Stats - Ranged 999 (1st to 50th)]"
+            },
+            "7e22441e406237330d62efc74f956be92d4f81b0f04f8d6b22d48ad2e4af4bd4": {
+                "source": "580F0000 0154B3C0\n780F0000 00000E88\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n20000000",
+                "title": "[Character Crew Stats - Charisma 999 (1st to 50th)]"
+            },
+            "83b50c89127c179323404c2a687ab199e6fff8880df857565fec87ff7cf1d06a": {
+                "source": "580F0000 0154B3B8\n780F0000 0000002C\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000038\n310E0000\n20000000",
+                "title": "[MS/MA/WARSHIP DEF 999 (1st to 50th)]"
+            },
+            "83f9fb4474f17be3b1764ab91ed3e4d5cdc0d7e14a27bd466e0f83355190fb88": {
+                "source": "580F0000 0154B3C0\n780F0000 00000E64\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n20000000",
+                "title": "[Character Pilot Stats - Melee 999 (1st to 50th)]"
+            },
+            "86e3fdaeeaf320138f72e2913b0fbe3112005b2ebeec7e2df1045a003200947a": {
+                "source": "580F0000 0154B3C0\n780F0000 00000E7C\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n20000000",
+                "title": "[Character Crew Stats - Communications 999 (1st to 50th)]"
+            },
+            "90de5d3322c2e4c9f54a3753e48ada391ac8e9f9a847dcb0b10bb0945036e896": {
+                "source": "580F0000 01548F00\n780F0000 00000018\n640F0000 00000000 0001869F",
+                "title": "[WARSHIP 99999 Upgrade points (1st)]"
+            },
+            "93a4e7fff39f62a57ba4b7fe3bb4edb654b819ba3298b7e7142899c6526cafa4": {
+                "source": "580F0000 0154B3C0\n780F0000 00000E74\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n20000000",
+                "title": "[Character Crew Stats - Command 999 (1st to 50th)]"
+            },
             "96dc4c7710b7919082bbc006c3ca3fe3ab21faa4dad64a026bc36c0b45f279ef": {
                 "source": "80000200\n04000000 0041CB00 1A89B008\n20000000",
                 "title": "[MP max after value change ZR off]"
+            },
+            "97aaf55ffe03d1c2b708517ac2a924eac196757998a41f7db5d6ec32bc51ecf7": {
+                "source": "580F0000 0154B3C0\n780F0000 00000E6C\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n20000000",
+                "title": "[Character Pilot Stats - Reaction 999 (1st to 50th)]"
+            },
+            "99fc5e6db585d3fba15fbcccabcc2e1b676aeada1b5acb95d576750b8023c7c3": {
+                "source": "580F0000 0154B3C0\n780F0000 00000E84\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n20000000",
+                "title": "[Character Crew Stats - Maintenance 999 (1st to 50th)]"
             },
             "9c848284eb453ad78dff6f3f297fbcc2b1721e785bb9a5d86093edbd588dbca2": {
                 "source": "04000000 00129480 1A89B128",
@@ -3094,6 +3178,14 @@
             "a44356ea2f9566b01d6d982bbf8f314da70e9a6fb55546d0e06b4a5b0408dae3": {
                 "source": "04000000 00384C50 0B080AC8\n04000000 00384FA8 0B01094A",
                 "title": "[SCORE x4]"
+            },
+            "a6265117bd21f369e97faf8cf9a18e32fd54aabb43fc39278eda4f6795398380": {
+                "source": "580F0000 0154B3B8\n780F0000 00000024\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000038\n310E0000\n20000000",
+                "title": "[MS/MA/WARSHIP EN 999 (1st to 50th)]"
+            },
+            "a682acd595d4d1da74026d6050b7021ac18cdb10ddddc52ec845b3bfbd7d408a": {
+                "source": "580F0000 0154B3B8\n780F0000 00000028\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000038\n310E0000\n20000000",
+                "title": "[MS/MA/WARSHIP ATK 999 (1st to 50th)]"
             },
             "a8c84a125f00050a8fe656cb6f8d7b5133a7776f4f02bcb9e63eb3baca14714b": {
                 "source": "80000100\n04000000 0041CB00 1A80B008\n20000000",
@@ -3110,6 +3202,22 @@
             "e4588760b9ea2cc974f349f921757ff6802181f66a109780372acf07d8a9b799": {
                 "source": "04000000 00384C50 0B080EC8\n04000000 00384FA8 0B010D4A",
                 "title": "[SCORE x8]"
+            },
+            "e48f81306b11d91063b250b64fd98a047ff07d516c42e5c8d359e5300c634259": {
+                "source": "580F0000 0154B3C0\n780F0000 00000E70\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n20000000",
+                "title": "[Character Pilot Stats - Awakening 999 (1st to 50th)]"
+            },
+            "e67458c1c72424eba13fb7ce7f3ccb0edb6e7eb134ae74da40f8937eafb49a6e": {
+                "source": "580F0000 0154B3C0\n780F0000 00000E28\n300E0000 00000032\n610F0000 00000000 00000063\n780F0000 00000090\n310E0000\n20000000",
+                "title": "[Character LV99 (1st to 50th)]"
+            },
+            "ec87e81a0fc4eb66dfa881e748935872caed62d643a6b7ad301dc95bd76af979": {
+                "source": "580F0000 01549160\n780F0000 00000018\n640F0000 00000000 0001869F",
+                "title": "[MS/MA 99999 Upgrade points (1st)]"
+            },
+            "ff27e43a4276d8d2003e92da68a4c6594cb019b23bfc8a9d6280f5f89c87c544": {
+                "source": "580F0000 0154B3C0\n780F0000 00000E68\n300E0000 00000032\n620F0000 00000000 000003E7\n780F0000 00000090\n310E0000\n20000000",
+                "title": "[Character Pilot Stats - Defense 999 (1st to 50th)]"
             }
         }
     },
@@ -12663,6 +12771,18 @@
                 "title": "[999,999 Money]"
             },
             "version": 0
+        }
+    },
+    "010072B00BDDE000": {
+        "2E6FA6FAE12D8085": {
+            "1b735abc1d0a407312de391bb69e398db2c47326addcd99bb0dfdbb0a1564983": {
+                "source": "580F0000 05539960\n780F1000 00015FB8\n640F0000 00000000 0098967F",
+                "title": "[02# 9999999 Skill points]"
+            },
+            "dd3cd79e94c3c6c7b8d3eca8b0424e19da60d3f2af3e451781a84e8294b98bbe": {
+                "source": "580F0000 05539960\n780F1000 00015E24\n640F0000 00000000 4B18967F",
+                "title": "[01# 9999999 money]"
+            }
         }
     },
     "01007300020FA000": {
@@ -22724,6 +22844,102 @@
             "e82e8fec60506173939bf7b896795710994e1bc60a3dbae77ce892bcd857a2af": {
                 "source": "580F0000 049D4B78\n780F0000 000002F8\n040F0000 00000000 43FE0000",
                 "title": "[Infinite Energy]"
+            }
+        }
+    },
+    "0100E6B00DEA4000": {
+        "EB33B25F08668B19": {
+            "1536b0b897f2dde57b804a18697f956b51998379037ea9a7ad0d191ccaaa9d8f": {
+                "source": "04000000 004DF8A4 4B010129",
+                "title": "[WeaponParts never decreases (off)]"
+            },
+            "1beab52ab65cc7d90c8dcf1d24709dd7a975f2f74222043f03168564a1f3a163": {
+                "source": "04000000 0036EE14 0B151508\n04000000 0036F5F0 0B081528\n04000000 0036FAF4 0B081528\n04000000 0036FAF8 0B161508",
+                "title": "[Award 32x Exp]"
+            },
+            "4ba8c7d4b09c58e42f125135538c8be33ad6c62850b21bb19d03a2cece736f36": {
+                "source": "04000000 004DF874 0B011129",
+                "title": "[Gain 16x WeaponParts]"
+            },
+            "5c28ce82b7b5b5433df9130ec64d6557f957d1c8ffbfddfdbb4535a1c9816c23": {
+                "source": "04000000 004DF874 0B010929",
+                "title": "[Gain 4x WeaponParts]"
+            },
+            "69cc83fa36b2f0418095b1a94150411836f5af88ccd0e7ecd36dd18c09840990": {
+                "source": "04000000 004DF12C 4B1402AA",
+                "title": "[Medpack never decreases (off)]"
+            },
+            "6dbc611a897585993fdb0823f66e2379dc244cc36d3e6a911b91feae96b6c735": {
+                "source": "04000000 004DF874 0B010D29",
+                "title": "[Gain 8x WeaponParts]"
+            },
+            "6fd374b2e0be9d408ddc9b94e97bc856338a8e232a8031a1c1b02a6adf3cd6eb": {
+                "source": "04000000 005FFBC0 B94C7408\n04000000 005FFBC4 B9000048\n04000000 005FFBC8 D65F03C0\n04000000 005FFBCC 00000000",
+                "title": "[Unlimited Action Points (off)]"
+            },
+            "7cb6c04217a901ee3e95103141d67801dc403c0309dbe437c0ce570000cf3fa2": {
+                "source": "04000000 004DEF10 4B1302AA",
+                "title": "[Scrap never decreases (off)]"
+            },
+            "7d95e8888f9df79c2a8985695857ac08e8dc301866c752622f9198b1ca2ced75": {
+                "source": "04000000 004DF8A4 D503201F",
+                "title": "[WeaponParts never decreases (on)]"
+            },
+            "7f6c2dc8014f7e5c6433a22f06a192d73c8d8c49dd2162c80243142269575d4b": {
+                "source": "04000000 004DF874 0B010529",
+                "title": "[Gain 2x WeaponParts]"
+            },
+            "80e2083f41aed568e2345e02bdfe927e6d0ecc0a85324aef9c6743befde8b2bc": {
+                "source": "04000000 0036A8D0 D503201F\n04000000 0036A8E8 D503201F\n04000000 0036A934 D503201F",
+                "title": "[Unlimited Ammo (on)]"
+            },
+            "8310f95c29befba5f6bbd9e6c0ce9cc83b2509da4279b3b2d617750fd03812fa": {
+                "source": "04000000 004DEF10 2A1503EA",
+                "title": "[Scrap never decreases (on)]"
+            },
+            "92b3a8f48dd256800b70b659ba381750667dfac64e4f75cf72ce5bcff793fa23": {
+                "source": "04000000 0036EE14 0B150108\n04000000 0036F5F0 0B080128\n04000000 0036FAF4 0B080128\n04000000 0036FAF8 0B160108",
+                "title": "[Award 1x Exp]"
+            },
+            "a6a4f734b3ecba2ad3be53c554f1b52f8f8aa37e15aee0dd2d5a850ea9431c9e": {
+                "source": "04000000 004DF874 0B010129",
+                "title": "[Gain 1x WeaponParts]"
+            },
+            "ac2f82fc3bd5a90cb08db6a0a1e49a8cf8f70b43e5a6c194f22282cca0005df4": {
+                "source": "04000000 004DF874 0B011529",
+                "title": "[Gain 32x WeaponParts]"
+            },
+            "b1d22cee776389d51aaa12a34fd74134cdf28b402bd97ab3eaac2cb6e0347b21": {
+                "source": "04000000 005FFBC0 52800048\n04000000 005FFBC4 B90C7408\n04000000 005FFBC8 B9000048\n04000000 005FFBCC D65F03C0",
+                "title": "[Unlimited Action Points (on)]"
+            },
+            "b73778522b389dec219fecdd6cbe5ca84e8d48db5675f6a72bfb29ac45dd774b": {
+                "source": "04000000 004DF12C 2A1503EA",
+                "title": "[Medpack never decreases (on)]"
+            },
+            "c196f7f005870c3486582bde6dea80713952ac2a8e73e27c41fcb1baece30799": {
+                "source": "04000000 0036EE14 0B151108\n04000000 0036F5F0 0B081128\n04000000 0036FAF4 0B081128\n04000000 0036FAF8 0B161108",
+                "title": "[Award 16x Exp]"
+            },
+            "d10f2917c59d87ac60b10f5bebf20bd2866c6fa5fc781887261d840afd3841c2": {
+                "source": "04000000 0036EE14 0B150D08\n04000000 0036F5F0 0B080D28\n04000000 0036FAF4 0B080D28\n04000000 0036FAF8 0B160D08",
+                "title": "[Award 8x Exp]"
+            },
+            "d52ce5aa45133d226a9d1efaf1ffd87e2fa8b093c995c7cd88c8a5ae40356b5d": {
+                "source": "04000000 0036A8D0 7100054A\n04000000 0036A8E8 7100054A\n04000000 0036A934 7100054A",
+                "title": "[Unlimited Ammo (off)]"
+            },
+            "dd29ad6f9bc847114bc48604c3288358fc2e52830549f8adb063316aaefbd1a3": {
+                "source": "04000000 0036EE14 0B150908\n04000000 0036F5F0 0B080928\n04000000 0036FAF4 0B080928\n04000000 0036FAF8 0B160908",
+                "title": "[Award 4x Exp]"
+            },
+            "de843dd237807bdef1a1dd29c010375717bfa5feb81d105fa485b6885639dec2": {
+                "source": "04000000 0036EE14 0B150508\n04000000 0036F5F0 0B080528\n04000000 0036FAF4 0B080528\n04000000 0036FAF8 0B160508",
+                "title": "[Award 2x Exp]"
+            },
+            "ecdfb416692fe56d604939bb051ad4991cf2b5b8d14324e1bbb1e4e9183ee924": {
+                "source": "04000000 005FFBC0 B94C7408\n04000000 005FFBC4 B9000048\n04000000 005FFBC8 D65F03C0\n04000000 005FFBCC 00000000\n80000100\n04000000 005FFBC0 52800048\n04000000 005FFBC4 B90C7408\n04000000 005FFBC8 B9000048\n04000000 005FFBCC D65F03C0\n20000000",
+                "title": "[Unlimited Action Points (Hold ZL)]"
             }
         }
     },
