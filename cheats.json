@@ -1766,6 +1766,44 @@
         }
     },
     "010017700B6C2000": {
+        "14872049185C584C": {
+            "19f48aab4445637932a567ff33ff4065547847ad3e0ece29b2c311ebafcec6a9": {
+                "source": "04000000 002ECA00 D65F03C0",
+                "title": "[05# No damage also for enemy (On)]"
+            },
+            "2fe40a3f01281cde402f4057eae50b4ed4ef7e074e542ceafa940209ab2696a3": {
+                "source": "04000000 002EC874 1A95B15A",
+                "title": "[07# Infinite Hearts]"
+            },
+            "41e97ba20df237e223aa0fd5b36adeaefb33783997f26c2f4bb9dace66918bbe": {
+                "source": "04000000 002C5B60 52800000",
+                "title": "[01# Infinte Lives]"
+            },
+            "63731eb617e248401d57dbb0235190f12188072d6372a5c69481d797dc348daa": {
+                "source": "04000000 002EC734 D503201F",
+                "title": "[06# Invulnerable *partially*]"
+            },
+            "94179561e31c434c82db695adb0385386b4d1cdae0f9e7d176fd6b8a2943baa1": {
+                "source": "04000000 0021CD18 321F03F4",
+                "title": "[02# Infinite Jump(off)]"
+            },
+            "bf952b09fed3b37a5cfeb7f3f092ac865c6fbdc2268dfe32df6a4664c61a467d": {
+                "source": "04000000 002ECA00 F81D0FF5",
+                "title": "[05# No damage also for enemy (Off)]"
+            },
+            "deeefbc7d113a610627247517a3abc4040f769efe2a92fc285dfafab1cac5c85": {
+                "source": "04000000 002ECA94 4B0003E1",
+                "title": "[03# Enable - cant die - ignore hearts]"
+            },
+            "eae47abd948145b95c5798d426d08f3a759327457768409dad7ba3af714b30af": {
+                "source": "04000000 0021CD18 D503201F",
+                "title": "[02# Infinite jump(on)]"
+            },
+            "f55dd587e97c7c2007202700c18c7e8ddd88ca132c72a5bd130db9c5f17ad6fb": {
+                "source": "04000000 002ECA94 4B1503E1",
+                "title": "[03# Disable - cant die - ignore hearts]"
+            }
+        },
         "9ACB46936749F543": {
             "4393222fd923f7f8e72a4a1f789060d0559d49d2a5d538eaca101d15237ab113": {
                 "source": "04000000 005B2060 52800000",
