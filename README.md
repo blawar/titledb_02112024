@@ -10,7 +10,11 @@
 
 `demos.{region}.txt` - titleId|region|nsuId
 
+[`dlcNames.txt`](dlcNames.txt) - DLC names not available on Shogun
+
 [`ncas.json`](ncas.json) - Mapped by NCA id
+
+[`retailOnly.txt`](retailOnly.txt) - XCI titles
 
 [`titles.US.en.json`](titles.US.en.json) - Mapped by titleId, used for [Tinfoil](https://tinfoil.io/Download#download)
 
