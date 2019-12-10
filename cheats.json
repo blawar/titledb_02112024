@@ -6452,6 +6452,42 @@
             "version": 0
         }
     },
+    "01004EC00E634000": {
+        "5052C4B099581AE2": {
+            "12056dabd43c83944264f6c79d6c2c92cce92a6b74354c197a3006d076b96a6f": {
+                "source": "011F0000 0078C0AA 00000001",
+                "title": "[MISSILE]"
+            },
+            "2520ebdc7067ccac3c255521dc00ff7f403ce44d5a4d6aea10b09a800bace826": {
+                "source": "011F0000 0078C0A9 00000005",
+                "title": "[Speed]"
+            },
+            "486d3353194d7895d65d56e4e3ed714e3fa0468b2b0d2304d399918a3d9c2999": {
+                "source": "011F0000 0078C0AF 00000005",
+                "title": "[Barrier]"
+            },
+            "7a9b1c664c488ea5314dc6f44f90851a7ea9a1ec731a19ec618a42cb2bc023b5": {
+                "source": "011F0000 0078C089 00000064",
+                "title": "[Infinite Lives]"
+            },
+            "7cc791c17c5fe142109c609719de8a2482c8fc805162b94fa90333ccf5245e6a": {
+                "source": "011F0000 0078C0AE 00000002",
+                "title": "[OPTION]"
+            },
+            "84c214a2473d277ef568c1dbc8b5534b61155c79321a890a61eb6df8aaba2bdf": {
+                "source": "011F0000 0078C0AD 00000001",
+                "title": "[LASER]"
+            },
+            "d572d8f96ab40a72a8f07d2a3b7e646fd07cfa959781f92fd743263f07bb1f9a": {
+                "source": "011F0000 0078C09E 00000004",
+                "title": "[AUTO SHOT]"
+            },
+            "f83477d9e098a792646a5fc214d72694771ce75425d77021a1abec7fe1c2350f": {
+                "source": "80000100\n011F0000 0078C084 00000080\n011F0000 0078C169 00000001\n20000000\n80000200\n011F0000 0078C084 000000A0\n011F0000 0078C169 00000002\n20000000",
+                "title": "[Invincible (ON = ZL , OFF = ZR)]"
+            }
+        }
+    },
     "01004FD00D66A000": {
         "CDD1C03D9879B8C4": {
             "0bc6c151c6beebb7afddcf4f7d812b60705d3d82a3b4c21cf88382a6c308ee98": {
@@ -10069,6 +10105,28 @@
         }
     },
     "0100698009C6E000": {
+        "382C13C67356D348": {
+            "360f50f7199c623fc966e1bc4dda2d8edd7f1bc739181c9cf5d6c76fe80e4f4a": {
+                "source": "04000000 00437238 D503201F\n04000000 0043729C D503201F",
+                "title": "[Refill Fervor Cost No Life/Tears]"
+            },
+            "4447bbd2c6117ef68f2f0147c1b1cb7d8cf0bfbd3e92686060d95c8a59a8cabf": {
+                "source": "04000000 003741D8 528847F4\n04000000 003741DC 72A001F4\n04000000 003741E4 1E204008",
+                "title": "[Unlock Skill Gives Tears]"
+            },
+            "7f9760686e64e030379fa6448df459f6750498bc475ed2b31fbcff630f038a98": {
+                "source": "04000000 00373DD4 52800000",
+                "title": "[Unlock all Mea Culpa Skill]"
+            },
+            "9454660879677289875c4b67e4fe3eeb2a38553c1ffd2cd7f7c129d5f15d806c": {
+                "source": "04000000 00373BAC 52800020",
+                "title": "[Unlock Mea Culpa for free]"
+            },
+            "e3592a730c2ad599677cfa6eb2f4046da7f9b2e269a779fd3584fa462f0dba5c": {
+                "source": "04000000 00258EC0 52800020",
+                "title": "[Invulnerable]"
+            }
+        },
         "70C806F458D36843": {
             "06dd3e54215e2fdda3bcae63ca550e4879069a30954abf3f8a3dd613b24212da": {
                 "source": "04000000 002568C0 52800020",
@@ -11786,19 +11844,19 @@
         "3A1A0309A1A756DF": {
             "08fab56a702c9ed754726b50bf2959c7334d30bfe9557f05efd36f0c6e46bc67": {
                 "source": "580F0000 01815380",
-                "title": "[\u5fc5\u987b\u7801//Requried code?]"
+                "title": "[SRWT Ver.1.05]"
             },
             "2cc7eafd476755297e9482b628878d06c44bf5b43734bb2bc82a101560279155": {
                 "source": "580F0000 015D03D8\n780F0000 00000200\n300E0000 00000080\n610F0000 00000000 00000046\n780F0000 00000018\n310E0000\n20000000",
-                "title": "[\u5168\u5f3a\u5316\u82af\u7247]"
+                "title": "[Fully enhanced chip All Parts]"
             },
             "3f3b4921ed2f6a97d5bd540f3f34e8110234bbe371a981bd6ec84d0cb719c295": {
                 "source": "01000000 01AA7E54 00000035",
-                "title": "[SR\u70b9\u6570Max]"
+                "title": "[SR points Max]"
             },
             "44723556ff1a8b8ce3d64b2f7e2cab0d12271ce30f005f582d5e9f4b8a495ca2": {
                 "source": "400D0000 00000000 000000FC\n610F01D0 00000000 0000000A",
-                "title": "[ExC\u6700\u5927]"
+                "title": "[ExC Max]"
             },
             "46cd63166a709b18a2b3604d4df40d16947419e2e78c24581ca7f2a328d51e7e": {
                 "source": "400D0000 00000000 000000FD\n610F01D0 00000000 0000001F",
@@ -11806,11 +11864,15 @@
             },
             "4a4c2d17f11832bab34f9695f4441b71b49d5374cfb3993fa8001902d70b4f24": {
                 "source": "400D0000 00000000 00000090\n610F01D0 00000000 0000008C",
-                "title": "[\u65e0\u9650\u884c\u52a8//Unlimited Move]"
+                "title": "[Unlimited action]"
             },
             "4b95180b8ad5aeb8e4b58be0ebf0d3502131d53e6e39619e64cc4e8561218c44": {
                 "source": "04000000 01AA7D90 05F5E0FF",
-                "title": "[TacP\u6700\u5927]"
+                "title": "[TacP Max TacP]"
+            },
+            "5afe99677fbb29ad243ab0cdde4bfdd9613250796d1353fc8e709b8113af77e0": {
+                "source": "01000000 01AA7E53 00000063",
+                "title": "[Modify the game to 99 weeks]"
             },
             "5dc43ad15b400d071016e6d49879e1a3791ad3ffc6d2de2b1c49f48fb0d438a5": {
                 "source": "01000000 01AA7E53 00000004",
@@ -11818,39 +11880,39 @@
             },
             "640da2c0ee7106dd2fd0209de12f5d38ed81435a62aa22ddabd7fa237ae90018": {
                 "source": "04000000 01AA7D78 05F5E0FF",
-                "title": "[\u91d1\u94b1\u6700\u5927]"
+                "title": "[Max Money]"
             },
             "64ee0536c45530c64c5568f1706ce18e758ffbe02edfb22b02e085f5f70f3198": {
                 "source": "580F0000 015D03D8\n780F0000 00000140\n610F0000 00000000 00000000\n580F0000 015D03D8\n780F0000 00000145\n300E0000 00000012\n610F0000 00000000 00000000\n780F0000 00000001\n310E0000\n20000000",
-                "title": "[TAC\u8ba2\u5236\u8fd8\u539f]"
+                "title": "[TAC custom restore GRADE 0]"
             },
             "6eb5c92a4907c4e61eea5af677d4cd024353012c85c1085b55f4b721d3ae0895": {
                 "source": "580F0000 015D03D8\n780F0000 00000140\n610F0000 00000000 00000006\n580F0000 015D03D8\n780F0000 00000145\n300E0000 00000012\n610F0000 00000000 00000001\n780F0000 00000001\n310E0000\n20000000",
-                "title": "[TAC\u8ba2\u5236\u5168\u5f00]"
+                "title": "[TAC custom-made Unlock All GRADE]"
             },
             "7b5adfb9cb547b96e7277cab31f2046764f1810087c12a7a58c7ce92f4020a93": {
                 "source": "580F0000 015D03D8\n780F1000 001D564C\n300E0000 0000039C\n640F0000 00000000 000184AC\n780F0000 000001F8\n310E0000\n20000000",
-                "title": "[\u5168\u5458\u7ecf\u9a8c\u503c\u6700\u5927//Max EXP]"
+                "title": "[Full experience value Max]"
             },
             "caaa93533bc48d4f68d2550c4ca9cd8feb8f0ed323affdf4907b1882ca597113": {
                 "source": "580F0000 01815380\n580F1000 00000010\n580F1000 00000000\n580F1000 00000010\n580F1000 00000008\n780F0000 00000038\n620F0000 00000000 000003E7\n780F0000 00000020\n620F0000 00000000 000003E7",
-                "title": "[\u4e3b\u9a7e\u9a76999 SP]"
+                "title": "[Master driving 999 SP]"
             },
             "d8f04a015539e4c7306eff2f3df9407d6c05704525270ee8a8892c986a7aea2e": {
                 "source": "580F0000 015D03D8\n780F0000 00000DFA\n300E0000 00000026\n640F0000 00000000 00000001\n780F0000 00000018\n310E0000\n580F0000 015D03D8\n780F0000 00000E00\n300E0000 00000026\n640F0000 00000000 00000062\n780F0000 00000018\n310E0000\n580F0000 015D03D8\n780F0000 00000E04\n300E0000 00000026\n640F0000 00000000 00000062\n780F0000 00000018\n310E0000\n20000000",
-                "title": "[\u5168\u6280\u80fd]"
+                "title": "[Full skill program All Skills]"
             },
             "dfc3e249e1e9966d4c71d27e0ac13d7a448fbb72529fab1c8de463b33e90c676": {
                 "source": "01000000 01AA7E56 00000001",
-                "title": "[20\u6bb5\u6539\u9020]"
+                "title": "[20 change to open]"
             },
             "e43c31e740746e89eb6f59d1fc470f932417c268b7a2c3af1af19210f15959dc": {
                 "source": "580F0000 015D03D8\n780F1000 001D5698\n300E0000 0000034C\n620F0000 00000000 0000012C\n780F0000 000001F8\n310E0000\n20000000",
-                "title": "[\u5168\u5458\u51fb\u5760\u6570300//All Total kill 300]"
+                "title": "[The total number of people killed 300]"
             },
             "fa678b9a5f9f0af6f0de4fc42dd2cc7c9a42c253d8f2ea34ee369308925eaadd": {
                 "source": "04000000 01AA9D10 00000384\n04000000 01AA9D14 00000384",
-                "title": "[S-SP\u6700\u5927]"
+                "title": "[S-SP Max]"
             },
             "version": 327680
         },
@@ -13215,6 +13277,30 @@
                 "title": "[Infinite Jetpack]"
             },
             "version": 0
+        }
+    },
+    "0100755004608000": {
+        "E6565A2D8F70B84C": {
+            "02ba0f0ceba1645da8bc8f0d80e8dd1d3a6fa63ca6c631079086fff782dfe0fe": {
+                "source": "011F0000 0198D152 00000007",
+                "title": "[Infinite Lives]"
+            },
+            "7697d73e081baf7f2d05c5a37da511cc7b1cb70b63c3111722c1d014730ab82f": {
+                "source": "011F0000 0198D89C 00000001",
+                "title": "[Infinite POW]"
+            },
+            "79667f10f3eae6bb29666e138c4bbdb4e2e71a7e7e016a0122ef805b4472ac5f": {
+                "source": "80000200\n041F0000 0198D6F3 00000001\n20000000",
+                "title": "[Anywhere POW (ZR)]"
+            },
+            "7b221ff01647dfcc1b74e973b26955b0216c221cec1b5582109570bdbb2e35bb": {
+                "source": "80000100\n041F0000 0198D13C 00040006\n20000000",
+                "title": "[Invincible (Push ZL)]"
+            },
+            "cbc528d1de7781d71b8b7486b24244f19329ec3fece5c4cc9ada6dc949fa7a0f": {
+                "source": "80000001\n011F0000 0198D147 000000DC\n20000000",
+                "title": "[Super Jump]"
+            }
         }
     },
     "010075600AE96000": {
@@ -21041,6 +21127,88 @@
                 "source": "04000000 004FFF28 79408048\n80000100\n04000000 004FFF28 528E0008\n20000000",
                 "title": "[Press ZL button to hit the largest]"
             }
+        },
+        "EAC0AC0033CE59E1": {
+            "065515f0d050cd5a16e824e2e47981526c94d6e9eb7b6856a35df027f53ca788": {
+                "source": "01000000 01932AD3 00000004",
+                "title": "[Number of clears 4]"
+            },
+            "0e6b02fcbb1dd7fdf13fbd969880ca3e9bae80e187d010efb1d8ef843170caff": {
+                "source": "04000000 004F6920 2A0003E0",
+                "title": "[Maximum after SP change]"
+            },
+            "112b880e4fcf2b352824365a87dadf1e2b5da164c9d0c283c867b2672ccd4620": {
+                "source": "04000000 004D71E8 52800148",
+                "title": "[Maximum after EXC increase]"
+            },
+            "246e0c28d3c869a4aa1219158e1faa3b694d6f55a8c7f78cb0d6124bce32910e": {
+                "source": "08000000 01932A10 05F5E0FF 05F5E0FF",
+                "title": "[Tac Point 99999999 (2)]"
+            },
+            "45c18ead93810f090dae46607f4836f0494af69d2539d037cb5d4a9f4897a150": {
+                "source": "04000000 004D72A0 6B1F0128",
+                "title": "[EXC does not decrease after use]"
+            },
+            "50ced542f869ff04986b5fdae0b809bce1ebfbe6a963f9d59b21cd9cb52ea63b": {
+                "source": "04000000 01932A10 05F5E0FF",
+                "title": "[Funds 99999999]"
+            },
+            "7c532008ee694e9e80d4b332baea19c626b8a3fcee334180fb29561c7eaa8497": {
+                "source": "580F0000 016F03C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000008\n780F0000 00000044\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F",
+                "title": "[HP 99999]"
+            },
+            "88fca8b1a06c75b2e0b1354ed48f288d4ffeddb5e4a183e0897d280340c46136": {
+                "source": "580F0000 014FC2F8\n780F0000 000002BC\n300E0000 00000062\n610F0000 00000000 00000062\n780F0000 00000018\n310E0000 20000000",
+                "title": "[All Reinforced Parts x98]"
+            },
+            "892bc9429a1a14fdac53f816c574a8080cbe35746e712adae865cd00f227e999": {
+                "source": "580F0000 016F03C8\n780F0000 00000090\n610F0000 00000000 0000008C",
+                "title": "[Unlimited movement]"
+            },
+            "9a2a502cb97dcd65c55153223ae885c31cdf65932737edfb0babf919d2baa1cc": {
+                "source": "04000000 004FE374 5280000A\n04000000 004FE388 52800008",
+                "title": "[The bullets are not reduced]"
+            },
+            "aeeff59a96c6cfab6766a5d88b0652042d6092078e23d53081c714b1a8d75848": {
+                "source": "01000000 01932AD6 00000001",
+                "title": "[15 Levels remodeling possible]"
+            },
+            "b463de1ab0b59a877102cc09cdf5722ea39fb77c91b7821bb116b4bfe2bb2eb6": {
+                "source": "580F0000 016F03C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000008\n780F0000 00000020\n640F0000 00000000 00000000",
+                "title": "[Terrain adaptation All S]"
+            },
+            "c12bc7816d365cd36e1241bbd26c96a8e8af6a596bcfc9530caf1cc88b198b61": {
+                "source": "580F0000 016F03C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000010\n580F1000 00000008\n780F0000 0000005A\n620F0000 00000000 0000012C",
+                "title": "[Fullfill Maximum]"
+            },
+            "c36aafd089decf69cd82e0a7f2a2330645707a79238205b9d327f8ba2adc85ff": {
+                "source": "04000000 01932A14 05F5E0FF",
+                "title": "[Tac Point 99999999]"
+            },
+            "d14ecb5fcb2b996325d244bd532054792348472df19f584aef4aa76af0a431e8": {
+                "source": "04000000 0050B7EC 2A0003E0\n04000000 0053EC08 2A0003E0\n04000000 0053EC44 2A0003E0\n04000000 0053ECF0 2A0003E0\n04000000 0053ED04 529C1FE8\n04000000 0053ED08 72A0BEA8",
+                "title": "[Maximum After TAC Changes]"
+            },
+            "d5429079bb7617ffd47ad21c53e9bf1fe1ef89614c3683fdc99d990ce9e36a7d": {
+                "source": "08000000 019329F8 05F5E0FF 05F5E0FF",
+                "title": "[Funds 99999999 (2)]"
+            },
+            "d72c7b0ece9ae86ef57b97701a04bd420924df1ad967c736846719fd82f75a9a": {
+                "source": "04000000 0053E9A0 2A0003E0\n04000000 0053E9DC 2A0003E0\n04000000 0053EA18 2A0003E0\n04000000 0053EA50 2A0003E0\n04000000 0053EAC0 2A0003E0\n04000000 0053EAD4 52993FE8\n04000000 0053EAD8 72A77348",
+                "title": "[Maximum After Money Changes]"
+            },
+            "ea47aa2395bd42c229d42f67d82a8e6a9ecce10a06b16b02bc0adc8680ca4906": {
+                "source": "04000000 004FE170 79409801\n04000000 004FE188 79409928",
+                "title": "[Maximum after EN use]"
+            },
+            "fad0a2d6f5320ab4dfc165f5fd5f074ffa5a5fb9c2f82931b944479b4bf9fae4": {
+                "source": "04000000 004F8088 79408048\n80000100\n04000000 004F8088 528E0008\n20000000",
+                "title": "[Press ZL button to hit the largest]"
+            },
+            "ff0e6284d349e468defcebf5a3da63307c916e81cb12c674eab42555c79e6375": {
+                "source": "580F0000 016F03C8\n580F1000 00000010\n580F1000 00000000\n580F1000 00000008\n580F1000 00000008\n780F0000 00000025\n610F0000 00000000 00000010",
+                "title": "[Move 16]"
+            }
         }
     },
     "0100CAF001DBE000": {
@@ -22057,6 +22225,16 @@
         }
     },
     "0100DCA0064A6000": {
+        "075AD583A1603F84": {
+            "656f29df2bb73d789097804b04c972ff89dbd7adb27c344b29f253e487a599ca": {
+                "source": "580F0000 019273E0\n780F0000 00003F20\n610F0000 00000000 00000063",
+                "title": "[Bones Unlimited]"
+            },
+            "8aaf3c31f6661c864a789c6ac1cfe9491edb4b3f5e93c66208e6d852740cc172": {
+                "source": "580F0000 019273E0\n780F0000 00003868\n640F0000 00000000 0001869F",
+                "title": "[Money Max]"
+            }
+        },
         "486F6A3B2D6BCF5C": {
             "0e07bdc8d85ead4c14ebfbb959fad326f9aeeea3e8b1ec89918a897667aca90e": {
                 "source": "580F0000 018BD1F8\n780F0000 000004E8\n610F0000 00000000 00000063",
@@ -24084,6 +24262,30 @@
             "version": 65536
         }
     },
+    "0100EBF00E702000": {
+        "5EC132F471291B7E": {
+            "268ecf9d405a631f8d235933f033d44ebe27a1533251c7660d114d9af37cd2fd": {
+                "source": "580F0000 01CD5B90\n780F1000 0000027C\n300E0000 00000006\n620F0000 00000000 000003E7\n780F0000 00000060\n310E0000\n20000000",
+                "title": "[Max MP and INF MP all char]"
+            },
+            "2ef656c0ee56172418a2a35196bb1ead5c81136ae58027cee0f7b7a60eae57e2": {
+                "source": "580F0000 01CD5BB0\n780F1000 00000BD0\n300E0000 00000006\n640F0000 00000000 00000000\n780F0000 000000DC\n310E0000\n20000000",
+                "title": "[PLAYTIME always 00]"
+            },
+            "af6de035da331d8ea5dfec40bfd7ac46e23976dfdc8a5ea77819e09970454d7c": {
+                "source": "580F0000 01CD5BB0\n780F1000 0000027A\n300E0000 00000006\n640F0000 00000000 000003E7\n780F0000 000000DC\n310E0000\n20000000",
+                "title": "[999 max Skill point all char]"
+            },
+            "e23431986a9dc2f8489ed264b4e05cd2da6f8a3edb96ddb38d7ee6d6129fa8ce": {
+                "source": "580F0000 01CD5B90\n780F1000 00000290\n300E0000 00000006\n640F0000 00000000 0098967F\n780F0000 00000060\n310E0000\n20000000",
+                "title": "[9999999 exp all char]"
+            },
+            "f7f5870794cd4fc08019d4b49923928896fbe9bd8b76ccddca48298b176e0cb3": {
+                "source": "580F0000 01CD5B90\n780F1000 00000284\n300E0000 00000006\n640F0000 00000000 0000270F\n780F0000 00000060\n310E0000\n20000000",
+                "title": "[Max Hp and INF HP all char]"
+            }
+        }
+    },
     "0100EC400D54E000": {
         "1FE34416E3F057AD": {
             "16e205642fa0962b59628c8b3a5dd5530ab92ae0b1a3a16d3189b6c8f1d1b9a6": {
@@ -25221,6 +25423,32 @@
             "79e9f35d08a3ad1c504c5e1a41e0ab72bfe4287429b5c4b1facb4bb786f4aea6": {
                 "source": "580F0000 09B7FCD0\n780F0000 000003CC\n640F0000 00000000 FEFFFFFE",
                 "title": "[Player1 Anytime and Infinite Fatal Blow]"
+            }
+        },
+        "5CC95226DBAAAE04": {
+            "1b76549af7cfa57602fcc7110bb3d3d1ccb4998f7d23ce1e98e918486ce1ec11": {
+                "source": "580F0000 09D5BB98\n580F1000 00000000\n580F1000 00000018\n780F0000 00000BC0\n640F0000 00000000 00000000",
+                "title": "[CPU instant Kill]"
+            },
+            "7b6029944bf2e7db1655f26a5308113bba1ec74067e39ca4b85832f7b2da1c11": {
+                "source": "580F0000 0A8EC990\n780F0000 000003DC\n640F0000 00000000 00000001",
+                "title": "[Inf Fatal Blows P1]"
+            },
+            "9afc0f453bf5071dc707cf76a219ed7246d74efa40777bd3e74850a8077e224c": {
+                "source": "580F0000 0A8EC990\n780F0000 00000194\n640F0000 00000000 44FA0000",
+                "title": "[Inf Interactions P1]"
+            },
+            "b370624f05093d033e052160d1b337acc5e47b48633d8f8695b2f45d000b9b53": {
+                "source": "580F0000 09D5BB98\n580F1000 00000000\n580F1000 00000000\n780F0000 00000BC0\n640F0000 00000000 3F800000",
+                "title": "[Inf Health P1]"
+            },
+            "d34828d521f750d130057dbce9e8d0afb154aa5ab2940a29b4a7d4e70d950738": {
+                "source": "580F0000 0A8EC990\n780F0000 00000184\n640F0000 00000000 44FA0000",
+                "title": "[Inf Super P1]"
+            },
+            "fda9570c717cde561cc078213c5453297c169ba2f994e4696eca90e43d92d6e5": {
+                "source": "58000000 09D461E8\n78001000 000005C0\n62000000 00000000 000000F0",
+                "title": "[Inf Round Time]"
             }
         },
         "600436311AFC7F24": {
