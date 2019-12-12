@@ -6132,6 +6132,14 @@
             "version": 0
         }
     },
+    "010044700DEB0000": {
+        "85F5D5AB6187F602": {
+            "7e3cfe573f26dd618723c4fb5f5844fd1210d05f43e734e1a7d5d8eba62ec3e0": {
+                "source": "04100000 800D94F8 3F800000",
+                "title": "[01# Inf Health Ship 1.0.0]"
+            }
+        }
+    },
     "010045F00BFC2000": {
         "8704D866D10EB543": {
             "58841f1a6542619d7fa90acc54de137f8f9e865e2b09c3f9bd31ab7771e629f1": {
@@ -6671,6 +6679,34 @@
             "f83477d9e098a792646a5fc214d72694771ce75425d77021a1abec7fe1c2350f": {
                 "source": "80000100\n011F0000 0078C084 00000080\n011F0000 0078C169 00000001\n20000000\n80000200\n011F0000 0078C084 000000A0\n011F0000 0078C169 00000002\n20000000",
                 "title": "[Invincible (ON = ZL , OFF = ZR)]"
+            }
+        }
+    },
+    "01004F800C4DA000": {
+        "777320C58883BD91": {
+            "5f5e8e05b4e41134427acaf46c1f8172e3522a4573fb611f27fb52deacbf9162": {
+                "source": "580F0000 02F42D28\n780F0000 000003C8\n640F0000 00000000 00000064",
+                "title": "[Inf Diamond]"
+            },
+            "750948f7f8d0e6ee6826f4f53b25f93cc54f99ebcd7cdc11edb59c4c891d500f": {
+                "source": "580F0000 02F42D28\n780F0000 000003DC\n640F0000 00000000 42C80000",
+                "title": "[Time Stop]"
+            },
+            "7e772ec65d79c015461674f235aab53e3a97ee1cc1413b2c4747caec71a2e574": {
+                "source": "580F0000 02F42D28\n780F0000 000003D8\n640F0000 00000000 00000064",
+                "title": "[Inf Stone]"
+            },
+            "b6e2c3d8723e590116f47aa01516433cec0d7f8e84466f209006914b4d996835": {
+                "source": "580F0000 02F4D7F8\n780F0000 00001978\n640F0000 00000000 00000002",
+                "title": "[Inf Item]"
+            },
+            "c77c610590bd4d6aa6d07242976482b87606242d176d7905380f3e876c7a6a40": {
+                "source": "580F0000 02F42D28\n780F0000 000003CC\n640F0000 00000000 00000064",
+                "title": "[Inf Life]"
+            },
+            "c7878c797bbcf9359a20ab38751cf6f8b2c4d27442e7b84ccc318133ce9cb702": {
+                "source": "80000002\n580F0000 02F4D7F8\n780F0000 0000192C\n640F0000 00000000 44200000\n20000000",
+                "title": "[Moon Jump]"
             }
         }
     },
@@ -13499,6 +13535,10 @@
     },
     "010076F0049A2000": {
         "7AE22DDABCE854F5": {
+            "052f4073e5ba0b2f65dee452177b1ee24d8c87723099483083810ab31bdd316d": {
+                "source": "04000000 00AFD700 D65F03C0",
+                "title": "[hitanywhere weapon]"
+            },
             "0632fc45d044136a23bbc6f7b142ad14b9598637a74bc5bb8957764d4e92cebf": {
                 "source": "04000000 0320AE64 05F5E0FF",
                 "title": "[Inf Halos]"
@@ -13515,6 +13555,10 @@
                 "source": "04000000 008A8B18 D65F03C0",
                 "title": "[throw anywhere mode]"
             },
+            "46e3ab1af285e95b43b108c66d14d9956079391b8e1f37b9208ab0ad957f90b9": {
+                "source": "04000000 00AFD470 D65F03C0",
+                "title": "[hitanywhere gun]"
+            },
             "69cf3b108ba0d165905c33cce2d768b39855bbe61039dd2b5b3b072712486687": {
                 "source": "580F0000 010ACBF0\n780F0000 00000C30\n640F0000 00000000",
                 "title": "[Inf. Jumps]"
@@ -13526,6 +13570,10 @@
             "8bccc35660208dbd1bc5ae164fb5fecca30cb4c0d5a4094a1fa9dc08ac8be063": {
                 "source": "04000000 005D8430 D65F03C0",
                 "title": "[1p invecible]"
+            },
+            "a5c15072c379a87daf2f8d2f7812ecb97110bb16b47530b7c8b2d6a65137961d": {
+                "source": "04000000 0001D5CC D503201F",
+                "title": "[inf health+protection hit+damger0]"
             },
             "b1648dff95e475a421bd40677ecb631f4e37f587f38aca18b836958a7b0b8c58": {
                 "source": "04000000 00043264 A9BF7BFD",
@@ -13542,6 +13590,14 @@
             "e71639639644fc5d7e0766aa1c8390b4bf4b84ca259c6087f6a00f8d4c3417b2": {
                 "source": "04000000 00043264 D65F03C0",
                 "title": "[hitanywhere gun shot gun]"
+            },
+            "e9a4407ce295ad73e5483169aeabf1bd20d5b51faf3ebea49cf25fef4b1b1ea3": {
+                "source": "04000000 000312F4 D10543FF\n80000002 04000000 000312F4 D65F03C0\n20000000",
+                "title": "[inf jump]"
+            },
+            "fc73a5204913eac729c28b019f4a18015528325c8881143e7c3e0543221d4b0c": {
+                "source": "04000000 00020C14 D65F03C0",
+                "title": "[1p invelcible mode]"
             },
             "version": 0
         }
@@ -18025,6 +18081,38 @@
             "945e9b3e3c2ee34e15f8246aab65b964722da82f3760a6706102e8005342fd9c": {
                 "source": "04000000 024B9600\nBD002C6C 04000000\n00657EE0 BD406C00\n04000000 00657EE4\nBD007000",
                 "title": "[HP Max]"
+            }
+        }
+    },
+    "01009DB00DE12000": {
+        "934946857AE782C7": {
+            "2225f9379dca184f23258ec626804b12f02bb01f0a59f6f9db08f401d410a023": {
+                "source": "580F0000 02F4AD78\n780F0000 00000418\n640F0000 00000000 00000064",
+                "title": "[Inf Diamond]"
+            },
+            "5d080217bcfb6dd61679e61b968c0eecdac24d997a9621cf26e607598d1889d6": {
+                "source": "580F0000 02F4AD78\n780F0000 00000428\n640F0000 00000000 00000064",
+                "title": "[Inf Stone]"
+            },
+            "6ca89e0a52181d4bcb2230018823a0e9addfad9b47bdb39988d43db316a15352": {
+                "source": "80000002\n580F0000 02F55848\n780F0000 0000132C\n640F0000 00000000 44200000\n20000000",
+                "title": "[Moon Jump]"
+            },
+            "736bb5ae572c1160157d32d4f7d1fc93214500888908b123432ea5769f9ef6e4": {
+                "source": "580F0000 02F55848\n780F0000 0000137C\n640F0000 00000000 01010101",
+                "title": "[Inf Item]"
+            },
+            "80d53819c15e056b8dff28dfee8402222143bb1f38d73057dffbbd8dd1829eaa": {
+                "source": "580F0000 02F4AD78\n780F0000 0000041C\n640F0000 00000000 00000064",
+                "title": "[Inf Life]"
+            },
+            "9495b8640c588cb0ac1b82df5046368fa0fe1bff1ff06241785088ad55748080": {
+                "source": "580F0000 02F55848\n780F0000 00001398\n640F0000 00000000 42C80000",
+                "title": "[Invincible]"
+            },
+            "bdc7ae2167cae1e5bd59c458dc6c76f56dfc1200cc7bff7a80d8f5c4e9bdd9b0": {
+                "source": "580F0000 02F4AD78\n780F0000 0000042C\n640F0000 00000000 42C80000",
+                "title": "[Time Stop]"
             }
         }
     },
