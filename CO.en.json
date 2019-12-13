@@ -5149,6 +5149,37 @@
         ],
         "size": 205520896
     },
+    "70010000027329": {
+        "id": null,
+        "rightsId": null,
+        "name": "Bravely Default\u2122 II",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 2020,
+        "nsuId": 70010000027329,
+        "category": [
+            "RPG"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e82909ea3707046616d1f1f90dd986b614fff33eec116d1064412a36c7b2e05e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1564e23922995d167263aa0b03cd9ad4c0bbe66c75d53917f3a0cd96b1dffb6c.jpg",
+        "intro": null,
+        "description": "A new world, a new story, and all-new Heroes of Light await in an original RPG experience arriving on the Nintendo Switch system in 2020! This tale of four heroes comes from team that brought you the Bravely series and Octopath Traveler, and features music from Revo, acclaimed composer of the original Bravely Default soundtrack.",
+        "languages": [
+            "ja"
+        ],
+        "size": 0
+    },
     "70030000005101": {
         "id": null,
         "rightsId": null,

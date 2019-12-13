@@ -5970,6 +5970,68 @@
             },
             "version": 65536
         },
+        "A6B07FF854883072": {
+            "299bb29f5e7560703aeed6cc930cd8a7658d9cb143fd7c155fa3b95a067e06ec": {
+                "source": "021F0000 41C84AE6 00000063",
+                "title": "[Hand Item Slot 14 x99]"
+            },
+            "3ababc3fe3cd3f718999e4f0673728befcceae8ede1c55eafa11a9a53bbc5bc5": {
+                "source": "021F0000 41C84ABA 00000063",
+                "title": "[Hand Item Slot 3 x99]"
+            },
+            "43125abd4256a7752df01352f24ef256a5ff750e177d985e6dd6b0a73d5bcc93": {
+                "source": "021F0000 41C84AEA 00000063",
+                "title": "[Hand Item Slot 15 x99]"
+            },
+            "4f1fae9e367bb32496e73b7575e6028c854db2e6ba92889e4176df6e3d32947c": {
+                "source": "021F0000 41C84AE2 00000063",
+                "title": "[Hand Item Slot 13 x99]"
+            },
+            "72606877c40ccf1b7957911e87c8344d58ee5e6c0295c387cd7633c040288ab2": {
+                "source": "021F0000 41C84ADA 00000063",
+                "title": "[Hand Item Slot 11 x99]"
+            },
+            "7798c6d8cb5efb9242ce0594243439f8ea30cbd803db0f551ee83473840445fe": {
+                "source": "021F0000 41C84ABE 00000063",
+                "title": "[Hand Item Slot 4 x99]"
+            },
+            "83359408325944465fc5866346f23a7040349076f76d21658dfca514aedcfd15": {
+                "source": "021F0000 41C84ACA 00000063",
+                "title": "[Hand Item Slot 7 x99]"
+            },
+            "899dd7cbf4f54f03cba5a55799770b8bea3e7a71e3e913f865755b9337a9fee9": {
+                "source": "021F0000 41C84AC2 00000063",
+                "title": "[Hand Item Slot 5 x99]"
+            },
+            "bdc7d956a874623d729609a0f69f444daa6530df2ce5ffa3298cd4e1d39b9076": {
+                "source": "021F0000 41C84AD2 00000063",
+                "title": "[Hand Item Slot 9 x99]"
+            },
+            "be22b803b39d0a7962b44675e122c8e113f6966d81ac413dc3074b96e849f555": {
+                "source": "021F0000 41C84ADE 00000063",
+                "title": "[Hand Item Slot 12 x99]"
+            },
+            "c4011db071e5fb1da41c90f19155474288b9f0097a12362d8a2f6faa14c99fce": {
+                "source": "021F0000 41C84AB2 00000063",
+                "title": "[Hand Item Slot 1 x99]"
+            },
+            "e0eb53fa955826f7a3ee85d6f32a5b001231676b0f1491eecd39886cf6a1b6af": {
+                "source": "021F0000 41C84ACE 00000063",
+                "title": "[Hand Item Slot 8 x99]"
+            },
+            "ec41399410601ec0c810cd0da9cc2cf759f6949782448d8de8715158b192bebc": {
+                "source": "021F0000 41C84AB6 00000063",
+                "title": "[Hand Item Slot 2 x99]"
+            },
+            "f3fcdf005b976ce2bd95442c5531f5d9f23f811dc790fa4c8515f4454c2fe76e": {
+                "source": "021F0000 41C84AD6 00000063",
+                "title": "[Hand Item Slot 10 x99]"
+            },
+            "f64f23d58452482402838900be22301d2e77d04326037bc78dfe8c70e9694cbb": {
+                "source": "021F0000 41C84AC6 00000063",
+                "title": "[Hand Item Slot 6 x99]"
+            }
+        },
         "ED620A2FD245FFE0": {
             "12ec21833bf68de60da23e79030298d0f420ae12d6345c275718f0f5a902e602": {
                 "source": "580A0000 013B5B18\n780A0000 00000060\n581A1000 00000000\n780A0000 00B88840",
@@ -14203,9 +14265,17 @@
                 "source": "01000000 034E497C 00000063",
                 "title": "[Bloody Rose Lollipop x99]"
             },
+            "2a67d62ed60b92fbc5bebc23daa2346638cabfbc84d175eeb54904bde01b25ed": {
+                "source": "04000000 00AFD700 D65F03C0",
+                "title": "[hitanywhere weapon]"
+            },
             "46772a86c0b66a509f6da2c74277382563fc5be7232a6958a3d92640c62a08d6": {
                 "source": "01000000 034E4954 00000063\n01000000 034E495C 00000063\n01000000 034E4964 00000063\n01000000 034E496C 00000063\n01000000 034E4974 00000063\n01000000 034E497C 00000063\n01000000 034E4984 00000063\n01000000 034E498C 00000063\n01000000 034E4994 00000063\n01000000 034E499C 00000063\n01000000 034E49A4 00000063\n01000000 034E49AC 00000063\n01000000 034E49B4 00000063\n01000000 034E49BC 00000063\n01000000 034E49C4 00000063\n01000000 034E49CC 00000063\n01000000 034E49D4 00000063\n01000000 034E49DC 00000063\n01000000 034E49E4 00000063\n01000000 034E49EC 00000063",
                 "title": "[All Items x99]"
+            },
+            "6696166c7d2d9fab391e5d6cb0aca074ee5c862a0338c1cc43944bc034fdb151": {
+                "source": "04000000 000312F4 D10543FF\n80000002 04000000 000312F4 D65F03C0\n20000000",
+                "title": "[inf jump]"
             },
             "68b565f775751af49ddc1c32c6accb03fc10c1d146220b2efc12f7c80a7d2684": {
                 "source": "01000000 034E49A4 00000063",
@@ -14230,6 +14300,14 @@
             "90bca5be19c348af775501247cbf088fb153c9266dc05da3e6cd6d508d7e4685": {
                 "source": "04000000 034E51BC 00000000",
                 "title": "[damage0]"
+            },
+            "90bd9ebacc7eb26231c76164a56184a58d1ee5a2b887b9fa8b8e0314bb4b6169": {
+                "source": "04000000 00AFD470 D65F03C0",
+                "title": "[hitanywhere gun]"
+            },
+            "928358a810155289f5c12fb59bf654411fe0a5fdcfa03381c2b26c91dca28e2f": {
+                "source": "04000000 0001D5CC D503201F",
+                "title": "[inf health+protection hit+damger0]"
             },
             "92d559755c3721426c7362b103901179d758385a5d8ca2548b14c4911a45185b": {
                 "source": "01000000 034E499C 00000063",
@@ -14258,6 +14336,10 @@
             "d00b8ca42c1d0b4ba203b8bd937a1689ce5e49830aa1aa16d798b833776f8765": {
                 "source": "01000000 034E498C 00000063",
                 "title": "[Purple Magic Lollipop x99]"
+            },
+            "d7f7643e51ad144df3dc40577bf8dcf41413cb79bc4e553399b532a47ba45dbf": {
+                "source": "04000000 00020C14 D65F03C0",
+                "title": "[1p invelcible mode]"
             },
             "d98d7d94917dc1be0228e72131e2bfe6bddf054c48615a50966037cfe799f780": {
                 "source": "01000000 034E4984 00000063",
@@ -15352,6 +15434,30 @@
                 "title": "[Freeze Mana - Disable]"
             },
             "version": 0
+        }
+    },
+    "01008B20022AA000": {
+        "1DCCDB6FE282748D": {
+            "0db5152c98ca145b7a8fca50cd9f5fa5e81ba56629c111665971d893f6bb3c5a": {
+                "source": "80000100\n581F0000 4CD072E8\n780F0000 000000E8\n680F0000 40000000 40000000\n20000000\n80000200\n581F0000 4CD072E8\n780F0000 000000E8\n680F0000 3F800000 3F800000\n20000000",
+                "title": "[Size Up (ZL=ON , ZR=OFF)]"
+            },
+            "11e00a13dfe629a2c62dbfb5897beb93d9d21cf19e0e8fafa81edb23245b571c": {
+                "source": "581F0000 4CD069C0\n780F0000 0000008C\n640F0000 00000000 40000000",
+                "title": "[Speed Up Type.A]"
+            },
+            "19900e90de7191d22fc2af4bd8129e890f396c86fc04d1d3716ea9b586b6d6f2": {
+                "source": "581F0000 4CD072D8\n780F0000 000004C8\n640F0000 00000000 3F800000",
+                "title": "[Invincible]"
+            },
+            "c1ec4dc7239c24856a500f44d5da89a875e452e11c758c762f2675f9851c5a04": {
+                "source": "80000002\n581F0000 4CD069C0\n780F0000 00000060\n640F0000 00000000 41500000\n20000000",
+                "title": "[Moon Jump]"
+            },
+            "e04d631abf087d6f5cde0684fe7b9ef713b0384c9bd9b44f0ac3c040eac7a264": {
+                "source": "581F0000 4CD072E8\n780F0000 00000060\n640F0000 00000000 40000000",
+                "title": "[Speed Up Type.B]"
+            }
         }
     },
     "01008B900DC0A000": {
