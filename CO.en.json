@@ -958,7 +958,7 @@
             "ko",
             "zh"
         ],
-        "size": 25377636352
+        "size": 25406996480
     },
     "70010000001526": {
         "id": "0100331005E8E000",
@@ -2441,7 +2441,7 @@
         "developer": null,
         "publisher": "Epic Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f7a7aaecd2c85c4e8ea1729539e023e55b844701d0e660be6fc2447467f5d4cc.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8b6864e5f6765c930b55516a16af7b2e2ccb32eb2cd9af42f5100de182aee181.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/b90ced2ecb8bbc0e6c87ccbea087ee3434ce72f7a35cbb6408e438e482fc8095.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ae4c533113f88919e73cf0bacba01f1e25b080d98d040598e8dc1c692535cb3e.jpg",
@@ -2463,7 +2463,7 @@
             "ru",
             "ko"
         ],
-        "size": 8343519232
+        "size": 8869904384
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -3812,7 +3812,7 @@
             "de",
             "it"
         ],
-        "size": 6169821184
+        "size": 6202327040
     },
     "70010000017136": {
         "id": "010029600D56A000",
@@ -4997,7 +4997,7 @@
             "fr",
             "pt"
         ],
-        "size": 124780544
+        "size": 187695104
     },
     "70010000026262": {
         "id": "0100ABF008968000",
@@ -5064,10 +5064,11 @@
             "Platformer"
         ],
         "ratingContent": [
-            "Fantasy Violence"
+            "Mild Fantasy Violence",
+            "Use of Alcohol"
         ],
         "numberOfPlayers": 1,
-        "rating": 10,
+        "rating": 6,
         "developer": null,
         "publisher": "Yacht Club Games",
         "frontBoxArt": null,
@@ -5115,10 +5116,10 @@
             "Platformer"
         ],
         "ratingContent": [
-            "Fantasy Violence"
+            "Mild Fantasy Violence"
         ],
         "numberOfPlayers": 4,
-        "rating": 10,
+        "rating": 6,
         "developer": null,
         "publisher": "Yacht Club Games",
         "frontBoxArt": null,

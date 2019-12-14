@@ -6236,6 +6236,22 @@
             "version": 0
         }
     },
+    "010047100F978000": {
+        "7D6224F7125CE217": {
+            "8fbebe5c1e7f687aad33c384521d41459c5f0aed58f1ab4edb3772aa9a2dd913": {
+                "source": "80000100\n011F0000 0078CA1F 00000030\n20000000",
+                "title": "[Easy clear (ZL)]"
+            },
+            "b2527bddc4cd795c9f1ee6af7faa254eed045fcd471edc2ef92c016a2b98c596": {
+                "source": "011F0000 0078CDB4 000000FF",
+                "title": "[Time Stop]"
+            },
+            "d351a8bb16cd0a9a0dd492055ac3235a474b9e078898af3264498aec14355aa3": {
+                "source": "011F0000 0078CDBD 0000001B",
+                "title": "[Infinite Lives]"
+            }
+        }
+    },
     "010047F001DBC000": {
         "21610CABD4340C7F": {
             "4601e08cf174e267bfc354ed61a549f6a2f7594a1e9421109cf21de78d306958": {
@@ -21233,6 +21249,30 @@
             "version": 65536
         }
     },
+    "0100C2D00981E000": {
+        "5B2E5BD36B0A27BA": {
+            "29c419df1ee19a96acfab7de6de7f6446117627d03f768f33554cbd40ba34d28": {
+                "source": "80000100\n041F0000 017F9170 00000000\n041F0000 017F9174 00000000\n041F0000 017F9178 00000000\n20000000",
+                "title": "[Enemy on the ground does not appear (Hold ZL)]"
+            },
+            "495bb3b8a315f9929d6911db338de7816a864a426f3f884e56810054b9262341": {
+                "source": "041F0000 017F9038 00000000",
+                "title": "[Rapid Fire]"
+            },
+            "acd11d599dc95ae0655087688b965317202c59d08be5c3eaa515648fc0cd68d9": {
+                "source": "011F0000 017F90A0 00000007",
+                "title": "[Infinite Lives]"
+            },
+            "c0d39dae462a7691699465068579547ea17a480704c9acbb263ba4385231a64f": {
+                "source": "80000001\n011F0000 017F90DE 00000002\n20000000",
+                "title": "[Moon Jump]"
+            },
+            "f469e2f7f851d89da8e033a71c5a4ed67b7fee83aa53b8b6cbf16f6f72a3685a": {
+                "source": "011F0000 017F90AA 00000064",
+                "title": "[Time Stop]"
+            }
+        }
+    },
     "0100C4400CB7C000": {
         "80B750F7AB6A6D9B": {
             "5398528fbb11d03f6c0d43d20acfa59b0a21ee47ab704a9538c87333a8942517": {
@@ -26267,6 +26307,40 @@
                 "title": "[Unlock Penta Pinguin]"
             },
             "version": 393216
+        },
+        "6D693314DAC7B040": {
+            "6b080a8848b1c3a491cb47a7e04d12978bf9f21be17537c0fdee38108a30d288": {
+                "source": "04000000 0107108C 52800020",
+                "title": "[Unlock N.Tropy]"
+            },
+            "7bfe6becd9521f20aadda5a662d5a27a7f038cb99daa2a79e0d95ecc8e2b5ae3": {
+                "source": "04000000 010706C0 52800020",
+                "title": "[Unlock Penta Pinguin]"
+            },
+            "a489dd6ecdf84787214bc0c5e26d7f27007ac23a536ea07f883364227fdf84fd": {
+                "source": "04000000 010717D8 52800020",
+                "title": "[Unlock All Pit Stop Items]"
+            },
+            "b00b68faf3d36a3bdb49cdd04623ca089350a2839e5cc03595807865ba5dc694": {
+                "source": "04000000 010712F8 52800020",
+                "title": "[Beat All Oxide Times - Digital NTropy Skin]"
+            },
+            "be086cddf459958d039b39ed4eabab8a5b920cb345075f830bc365cca76966eb": {
+                "source": "04000000 00FBDE3C 1E27D000",
+                "title": "[RelicRace Crate add 30sec to freeze timer]"
+            },
+            "c7a1fb2df4b4ba6b907ff1b078f393c3e27d012a546f1c9327d4163549fd4280": {
+                "source": "04000000 01070994 52800020",
+                "title": "[Unlock All Skins]"
+            },
+            "c7a8b99df0d49cfc1a61c0f7bf883b840232ef3d23112c972d081053a80d5262": {
+                "source": "04000000 010703AC 52800020",
+                "title": "[Unlock All Ordinary Items]"
+            },
+            "f5d739d68422422e84a308014a1f97b8c6924ef971c07cd05a5b699a46732d51": {
+                "source": "04000000 00E661B0 11001508",
+                "title": "[CrystalRace 1 Crystal is worth 5]"
+            }
         },
         "BE5EE5A46FCDE180": {
             "949541b7ddfed048b4e789174a3eb92281875438aae110a9f120a0ce13426bcb": {
