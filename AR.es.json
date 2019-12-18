@@ -1100,7 +1100,7 @@
             "zh",
             "zh"
         ],
-        "size": 6865027072
+        "size": 7112491008
     },
     "70010000001801": {
         "id": "0100E65002BB8000",
@@ -1154,7 +1154,7 @@
             "zh",
             "zh"
         ],
-        "size": 1546649600
+        "size": 1523580928
     },
     "70010000002264": {
         "id": "0100A330022C2000",
@@ -2498,7 +2498,7 @@
             "https://img-eshop.cdn.nintendo.net/i/fae34636e19ffd165288306b68d6cd2a50e01928aee4522edb2baa355be07ace.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ca9dff83f98650a760230ff520fbf8327247a7ed180e9871d24d2d747ff84302.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0c0662b08269cf9686739f65287b6a2bd14c739926631bdd40dd83f622f7999b.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/370ac4e61e219c4cbd72776972d8a54a33c558ca2eaae889abdcc976a039295a.jpg",
         "intro": "\u00a1Forma un escuadr\u00f3n y juega el juego n.\u00b0 1 del g\u00e9nero Battle Royale! ",
         "description": "Sum\u00e9rgete para ser el \u00faltimo jugador en pie en el juego Batalla campal de 100 jugadores gratuito. S\u00e9 m\u00e1s listo que tus oponentes. Consigue la victoria. \u00a1Forma equipo con tus amigos en una misma sala o con personas de todo el mundo!\n\nCONSTRUYE Y DESTRUYE: dale forma al campo de batalla construyendo tus propias defensas. \u00bfEl enemigo se est\u00e1 escondiendo detr\u00e1s de una pared? Destruye su protecci\u00f3n para tomar la ventaja.\n\nPREP\u00c1RATE: sube al autob\u00fas de combate y cae en tu zona favorita. \u00a1Recolecta recursos, re\u00fane equipo y combate contra tus oponentes!\n\nFORMA EQUIPO CON TUS AMIGOS: \u00a1forma equipo con tus amigos de todo el mundo o de la misma sala!\n\nACTUALIZACIONES SEMANALES Y EVENTOS: las actualizaciones potencian constantemente la diversi\u00f3n con nuevos modos de juego, atuendos, armas y objetos.\n\nDesarrollado con Unreal Engine 4.",
         "languages": [
@@ -3044,7 +3044,7 @@
             "zh",
             "zh"
         ],
-        "size": 1669332992
+        "size": 1697644544
     },
     "70010000013704": {
         "id": "010044500C182000",
@@ -3417,7 +3417,7 @@
             "ru",
             "zh"
         ],
-        "size": 26122125312
+        "size": 26116882432
     },
     "70010000015307": {
         "id": "01003BD00CAAE000",
@@ -4158,7 +4158,7 @@
             "zh",
             "zh"
         ],
-        "size": 7766802432
+        "size": 7886340096
     },
     "70010000018689": {
         "id": "01002BA00D662000",
@@ -12928,6 +12928,66 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000018551": {
+        "id": "0100DCA0064A7001",
+        "rightsId": null,
+        "name": "Multiplayer Pack Part 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200430,
+        "nsuId": 70050000018551,
+        "category": null,
+        "ratingContent": [
+            "Travesuras comicas",
+            "Violencia moderada en caricaturas",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f883daae1ba2fb0424814c25a41c21ab648a74fda52570799134eabb1827860.jpg",
+        "intro": null,
+        "description": "El terror inicia al llegar la primera parte del contenido descargable multijugador de Luigi\u2019s Mansion 3 en la primavera de 2020, con 3 atuendos y temas para los pisos de la Torre del Horror y tres minijuegos adicionales para el Parque de Conmociones. T\u00fa y tus amigos podr\u00e1n escalar la torre con mucho estilo y encontrar inesperados conjuntos de piezas y exclusivos fantasmas disfrazados, \u00a1luego visita el Parque de Conmociones y juega los tres nuevos minijuegos para disfrutar un poco de acci\u00f3n de Luigi contra Gomiluigi!",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000018552": {
+        "id": "0100DCA0064A7002",
+        "rightsId": null,
+        "name": "Multiplayer Pack Part 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200731,
+        "nsuId": 70050000018552,
+        "category": null,
+        "ratingContent": [
+            "Travesuras comicas",
+            "Violencia moderada en caricaturas",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00578e66b18e1ea962974ac9bfe85e9c2daefd5a7c5e010e37a59c3ea7b9cfc2.jpg",
+        "intro": null,
+        "description": "El verano de 2020 ver\u00e1 el terror\u00edfico final del contenido descargable multijugador de Luigi\u2019s Mansion 3, pero para descubrir qu\u00e9 sorpresas fantasmales te esperan en la segunda parte de este contenido descargable, deber\u00e1s esperar un poco m\u00e1s. ",
+        "languages": null,
+        "size": 4194304
+    },
     "70070000000041": {
         "id": null,
         "rightsId": null,
@@ -13391,7 +13451,7 @@
         "intro": null,
         "description": "Mortal\u00a0Kombat\u00a011, la m\u00e1s reciente entrega de la aclamada franquicia, te ofrece una experiencia m\u00e1s profunda y personalizada que nunca. Con las nuevas variantes de personaje tendr\u00e1s un control sin precedentes para personalizar a tus luchadores y hacerlos \u00fanicos.\n\nLa Edici\u00f3n Pr\u00e9mium de Mortal\u00a0Kombat\u00a011 incluye:\n\u2022 Juego principal\n\u2022 Paquete de Kombate\n\nEl Paquete de Kombate incluye:\n\u2022 6\u00a0nuevos personajes complementarios jugables, incluyendo a Shang Tsung, Nightwolf, Terminator T-800, Sindel, Guas\u00f3n y Spawn\n\u2022 Acceso anticipado de 1\u00a0semana a todos los personajes complementarios\n\u2022 Skins y\u00a0conjuntos de equipo con cada personaje complementario\n\u2022 6 paquetes de skins tem\u00e1ticas incluyendo Ninjas de Arcade Kl\u00e1sicos, Luchadores de Arcade Kl\u00e1sicos y m\u00e1s",
         "languages": null,
-        "size": 26176651264
+        "size": 26171408384
     },
     "70070000005704": {
         "id": null,
@@ -13951,5 +14011,60 @@
         "description": "Overwatch: Legendary Edition incluye:\n\u2022\tC\u00f3digo para canjear para la suscripci\u00f3n de 3 meses de membres\u00eda individual de Nintendo Switch Online (Se aplican t\u00e9rminos. nintendo.com/switch-online)\n\u2022\tEl juego completo\n\u2022\t5 dise\u00f1os de h\u00e9roe legendarios\n\u2022\t5 dise\u00f1os de h\u00e9roe \u00e9picos\n\u2022\t5 dise\u00f1os de h\u00e9roe Origin\n\nDesbloquea una caja de bot\u00edn dorada\n\u00a1Compra Overwatch en Nintendo Switch e inicia sesi\u00f3n antes del 31 de diciembre de 2019 para desbloquear una caja de bot\u00edn dorada con al menos 1 objeto legendario garantizado!\n\nEmpieza tu guardia\n\u00danete a la lucha por el futuro en el mundo de Overwatch\u00ae y elige a tu h\u00e9roe de entre una diversa lista de soldados, cient\u00edficos, aventureros y superdotados. Manipula el tiempo, desaf\u00eda la f\u00edsica y desata una gran variedad de armas y poderes extraordinarios. Enfr\u00e9ntate a tus enemigos en ubicaciones emblem\u00e1ticas de todas partes del mundo en el juego de disparos por equipos definitivo.\n\nVive lo extraordinario\nAcelera y ralentiza el tiempo. Haz llover destrucci\u00f3n desde lo alto en una armadura experimental con propulsores. Acecha a tu presa como un asesino espectral que puede aparecer en cualquier lugar en cualquier momento. Desata poderes como Golpe drag\u00f3n, Trascendencia, Oleada de gravitones y muchos m\u00e1s. Cada h\u00e9roe tiene un conjunto de habilidades \u00fanicas y devastadoras capaces de alterar el curso de la partida.\n\nJuega con h\u00e9roes, no clases\nCada h\u00e9roe tiene una perspectiva \u00fanica en el campo de batalla y una historia detr\u00e1s de c\u00f3mo lleg\u00f3 hasta all\u00ed. Puedes ser un campe\u00f3n de una era antigua que blande su martillo propulsado en servicio del honor, un monje rob\u00f3tico que tiene como misi\u00f3n sanar las grietas entre la humanidad y las m\u00e1quinas, o un gorila dise\u00f1ado gen\u00e9ticamente que resulta ser tambi\u00e9n un brillante cient\u00edfico, entre muchos otros.\n\nLucha por el futuro... en equipo\nEl trabajo en equipo ser\u00e1 fundamental para la supervivencia cuando ingreses al campo de batalla con amigos y compa\u00f1eros. Una coordinaci\u00f3n minuciosa puede marcar la diferencia entre la victoria y la derrota al momento de combinar en equipo los formidables poderes que tienen a disposici\u00f3n para provocar un efecto devastador.\n\nCambia tu perspectiva\nJusto cuando parece que tu equipo est\u00e1 destinado a sufrir una derrota, cambia de h\u00e9roe en cualquier momento y modifica el curso de la batalla. Pero no olvides que tus oponentes pueden hacer lo mismo. Domina el juego dentro de la partida al tiempo que ambos equipos cambian de estrategia y de h\u00e9roe para obtener una ventaja sobre su rival.\n\nEl mundo es tu campo de batalla\nProtege los secretos del misterioso Templo de Anubis en Egipto, escolta un dispositivo PEM para que llegue a salvo a destino por King\u2019s Row en Londres y libra batallas en muchas m\u00e1s ubicaciones \u00fanicas. Todos los mapas tienen caracter\u00edsticas distintivas propias, con objetivos por equipos y estilos de juego singulares.",
         "languages": null,
         "size": 12626952192
+    },
+    "70070000009532": {
+        "id": null,
+        "rightsId": null,
+        "name": null,
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70070000009532,
+        "category": null,
+        "ratingContent": null,
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70070000009533": {
+        "id": null,
+        "rightsId": null,
+        "name": "Luigi's Mansion\u2122 3 + Multiplayer Pack Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191217,
+        "nsuId": 70070000009533,
+        "category": null,
+        "ratingContent": [
+            "Travesuras comicas",
+            "Violencia moderada en caricaturas",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fc6f62846c58b36f88038a114242cf46236b2c095a29f73d40e8946402083f49.jpg",
+        "intro": null,
+        "description": "Luigi ha sido invitado al hotel El Gran Descanso Real, \u00a1pero cuando Mario y sus amigos desaparecen, nuestro h\u00e9roe de verde tendr\u00e1 que superar sus miedos para poder salvarlos! Ataca, sopla y aspira a los fantasmas con la nueva Succionaentes GO-1000 y trabaja en conjunto con Gomiluigi para superar los complicados artilugios y traviesos jefes de cada piso tem\u00e1tico. Entra a la Torre del Horror y forma equipo con 8 jugadores para juego cooperativo en modo local o en l\u00ednea.\n\n\u00a1La cacer\u00eda de fantasmas contin\u00faa hasta el 2020 con el paquete de contenido descargable multijugador de Luigi's Mansion\u2122 3! Este contenido descargable incluye escalofriantes pero a la vez encantadores atuendos que Luigi podr\u00e1 utilizar en el modo Torre del Horror y \u00a1temas que transformar\u00e1n la apariencia de los pisos de la torre! Mant\u00e9n tu linterna cerca, porque nuevas sorpresas podr\u00edan estar ocultas en los pasillos de esta macabra edificaci\u00f3n. Si t\u00fa y tus amigos no est\u00e1n aporreando o encandilando su camino por la Torre del Horror, los nuevos minijuegos de este contenido descargable brindar\u00e1n al Parque de Conmociones tenebrosas y amistosas competencias. Precompra ahora y recibe acceso a la primera y segunda parte del contenido descargable conforme se vayan lanzando, adem\u00e1s una linterna tipo E tenebrosamente tierna que estar\u00e1 lista para utilizarse de inmediato\u2026 \u00a1puede que un espectral amigo haga acto de presencia!",
+        "languages": null,
+        "size": 7120879616
     }
 }
