@@ -22991,6 +22991,30 @@
             "version": 0
         }
     },
+    "0100DD600DD48000": {
+        "5DDDF2EC": {
+            "0c51cce5a7fd7ce810d1394d02358adca0e56fe09311cdca803e95c92934fc8d": {
+                "source": "04000000 01049480 D65F03C0",
+                "title": "[cpu partner no damage]"
+            },
+            "4d2870cdc8248a5f342501e05bd12decd2d53dc1ee75e995e06c49e2172abc0a": {
+                "source": "04000000 00E75E90 0B150128",
+                "title": "[#inf Inventory 1 (on)]"
+            },
+            "a1d2ac8719c7a8f160a514e4b98cfed9e71ca6b09c6b7668910144b9c00208dc": {
+                "source": "04000000 00D7D220 F81D0FF5",
+                "title": "[No Damage 01 (off)]"
+            },
+            "a43459e4929be11107599a0327518d191b9a0e28f0c846aa6c379b67eaf79949": {
+                "source": "04000000 00D7D220 D65F03C0",
+                "title": "[No Damage 01]"
+            },
+            "d9b43d399845cdd72ac19c646b173bc00827d795be0d7c22370f7774c4e945f2": {
+                "source": "04000000 00E75E90 4B150128",
+                "title": "[#inf Inventory 1 (off)]"
+            }
+        }
+    },
     "0100DDB00DB38000": {
         "6674D85B7A37A96F": {
             "6ad1bf080312ad9dc147441edc098c8caacac2dd390992c007de28247a43f770": {
