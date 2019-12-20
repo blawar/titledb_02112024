@@ -8447,7 +8447,7 @@
             "zh",
             "zh"
         ],
-        "size": 7419723776
+        "size": 7451181056
     },
     "70010000020629": {
         "id": "01001C500E72E000",
@@ -9192,7 +9192,7 @@
             "zh",
             "zh"
         ],
-        "size": 864026624
+        "size": 968884224
     },
     "70010000022821": {
         "id": "0100B6400CA56000",
@@ -9977,6 +9977,50 @@
             "zh"
         ],
         "size": 10244587520
+    },
+    "70010000027570": {
+        "id": "0100A9400C9C2000",
+        "rightsId": null,
+        "name": "\ub3c4\ucfc4 \ubbf8\ub77c\uc8fc \uc138\uc158 #FE \uc559\ucf54\ub974",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200117,
+        "nsuId": 70010000027570,
+        "category": [
+            "RPG"
+        ],
+        "ratingContent": [
+            "\uc120\uc815\uc131",
+            "\ud3ed\ub825\uc131",
+            "\uc5b8\uc5b4\uc758 \ubd80\uc801\uc808\uc131"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4ff32efe9352f32ca82af02967216f75453871603e1ec63fa8d2ffd2b0b88438.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/004a31dadbb423bc1b346f3c8e76783854ffb86e552b131d770478fa299ce5b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa7fdf8f6fac7fb2a38831168b7349106653724e87254a8dfe3947d1adc84c65.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/253ef7974bc075cdee6d79576d7c46136b334ec5855ac19d9a2be51860005bdd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/99678cf9dddd40c28304b769f230a675f3c6dc33b18171514be3709c9ef87da0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d2b1a30fe30f8001ddbc679b6bddd8e59631944439d8d0e823fdf9036e1fc83.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87fd3a3eeda3ace7f36f6f44902c0fdfa64cb8adace4f88c9642760f40336984.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4cc700847727251141aa17904ff38d3e7fcab78b3523fc4dc2de79b5244fd692.jpg",
+        "intro": "\ud654\ub824\ud55c \uc138\uacc4\uc640 \uc554\ud751\uc5d0\uc11c\uc758 \uc2f8\uc6c0.\n\uadf8\ub9ac\uace0 \uafc8\uacfc \uc131\uc7a5 \uc774\uc57c\uae30\n",
+        "description": "\ubb34\ub300\ub294 \ud604\ub300\uc758 \ub3c4\ucfc4. \uc608\ub2a5\uc774 \ubc88\uc601\ud558\uace0 \uc788\uace0, \ud45c\ud604\ub825\uc758 \uacb0\uc815 \u300cPerforma\u300d\uac00 \ud758\ub7ec \ub118\uce58\ub294 \uc774 \uac70\ub9ac\uc5d0 \ub3cc\uc5f0 \ub2e4\ub978\uc138\uacc4\uc758 \uce68\ub7b5\uc790 \u300c\ubbf8\ub77c\uc8fc\u300d\uac00 \ub9c8\uc218\ub97c \ubed7\uce69\ub2c8\ub2e4. \uac15\ub825\ud55c \u300cPerforma\u300d\ub97c \uac00\uc9c4 \uc8fc\uc778\uacf5 \u300cItsuki Aoi\u300d\uc640 \ub3d9\ub8cc\ub294 \ub808\uc2a8 \ub4f1\uc744 \ud1b5\ud574 \uc608\ub2a5\uacc4\uc5d0\uc11c \uc131\uacf5\ud558\uaca0\ub2e4\ub294 \uafc8\uc744 \ucad3\uc73c\uba70, \uae30\uc5b5\uc744 \uc783\uace0 \ud604\ub300\ub85c \uc798\ubabb \uc624\uac8c \ub41c \u300cChrom\u300d, \u300cCaeda\u300d, \u300cCain\u300d\uacfc \uac19\uc740 \u300c\ud30c\uc774\uc5b4 \uc5e0\ube14\ub818\u300d\uc758 \uc601\uc6c5\uc758 \ud798\uc744 \ube4c\ub824 \u300c\ubbf8\ub77c\uc8fc\u300d\uc758 \uc704\ud611\uc5d0 \ub9de\uc12d\ub2c8\ub2e4.\n\n\u25c6 ATLUS x \ud30c\uc774\uc5b4 \uc5e0\ube14\ub818\n\uc774\ubc88 \uc791\uc740 \u300e\ud398\ub974\uc18c\ub098\u300f \uc2dc\ub9ac\uc988\ub098 \u300e\uc9c4\u30fb\uc5ec\uc2e0\uc804\uc0dd\u300f \uc2dc\ub9ac\uc988 \ub4f1, \ub9ce\uc740 RPG\ub97c \ub9cc\ub4e4\uc5b4 \uc628 ATLUS\uc640 \ub864\ud50c\ub808\uc789 \uc2dc\ubbac\ub808\uc774\uc158\uc73c\ub85c 29\ub144\uc758 \uc5ed\uc0ac\ub97c \uac00\uc9c4 \u300e\ud30c\uc774\uc5b4 \uc5e0\ube14\ub818\u300f \uc2dc\ub9ac\uc988\uc758 \uceec\ub798\ubc84\ub808\uc774\uc158 RPG\uc785\ub2c8\ub2e4. \n\n\u25c6 \u300c\ubbf8\ub77c\uc8fc\u300d\uc640\uc758 \uc2f8\uc6c0\n\ubc30\ud2c0\uc5d0\uc11c\ub294 Chrom \uc77c\ud589\uc774 \ubb34\uae30\uac00 \ub418\uc5b4 \ubbf8\ub77c\uc8fc\uc640 \uc2f8\uc6c0\uc744 \ubc8c\uc785\ub2c8\ub2e4. \ucee4\ub9e8\ub4dc\ub97c \ud1b5\ud574 \uce90\ub9ad\ud130\uc5d0\uac8c \uacf5\uaca9\uc744 \uc9c0\uc2dc\ud558\uc5ec, \uc801\uc758 \uc57d\uc810\uc744 \ucc0c\ub974\uba74 \ub3d9\ub8cc\ub4e4\uc774 \ucd94\uaca9\ud558\uc5ec \uc274 \uc0c8 \uc5c6\uc774 \uacf5\uaca9\ud558\ub294 \u300c\uc138\uc158\u300d\uc774 \ubc1c\uc0dd. \ud30c\uc774\uc5b4 \uc5e0\ube14\ub818\uc5d0\uc11c \uc775\uc219\ud55c \uac80\u00b7\ucc3d\u00b7\ub3c4\ub07c\uc758 \uc0c1\uc131 \uad00\uacc4\uc5d0 \ub354\ud574, \ud654\uc5fc\uc774\ub098 \ube59\uacb0 \ub4f1 \ub9c8\ubc95\uc758 \uc18d\uc131\ub3c4 \uc788\uc5b4 \uc801\uc758 \ub0b4\uc131\uc774\ub098 \uc57d\uc810\uc744 \ud30c\uc545\ud55c \ub4a4 \uacf5\uaca9\ud558\ub294 \uac83\uc774 \uc911\uc694\ud569\ub2c8\ub2e4. \n\n\u25c6 \uc608\ub2a5 \ud65c\ub3d9\n\ub2e4\ub978 \uc138\uacc4\uc758 \uce68\ub7b5\uc5d0 \ub9de\uc11c\uba74\uc11c\ub3c4 \uc5f0\uc608\uacc4\uc5d0\uc11c \uc131\uacf5\ud558\ub294 \uafc8\uc744 \uc774\ub8e8\uae30 \uc704\ud574 \ud45c\uba74\uc801\uc778 \ubaa8\uc2b5\uc778 \uc5f0\uc608\uc778 \ud65c\ub3d9\ub3c4 \ud569\ub2c8\ub2e4. \ub178\ub798\ub098 \uc5f0\uae30\ub97c \uc5f0\ub9c8\ud558\uac70\ub098 \ub77c\uc774\ube0c\ub098 \ub4dc\ub77c\ub9c8\uc5d0 \ucd9c\uc5f0\ud558\uac70\ub098 \uc5f0\uc608\uc778\uc73c\ub85c\uc11c \ud3bc\uce58\ub294 \ud65c\uc57d\uc740, \ub208\ubd80\uc2dc\uac8c \ube5b\ub098\ub294 \u300cPerforma\u300d\uac00 \ub418\uc5b4 \uc804\ud22c\uc5d0\ub3c4 \uc774\uc5b4\uc9d1\ub2c8\ub2e4.\n\n\u25c6 \uc2e0\uaddc \uc694\uc18c\nWii U \ud310\uc5d0\ub294 \uc5c6\uc5c8\ub358 \uc2e0\uaddc \uc694\uc18c\ub3c4 \uc218\ub85d. \uc2e0\uace1\uc774\ub098 \uc0c8\ub85c\uc6b4 \uc758\uc0c1, \ucd94\uac00 \uc2dc\ub098\ub9ac\uc624, \ucd94\uac00 \ub358\uc804 \ub4f1, \uc0c8\ub85c\uc6b4 \u300c\ub3c4\ucfc4 \ubbf8\ub77c\uc8fc \uc138\uc158 #FE\u300d\ub97c \uc990\uae38 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \ub610\ud55c, Maiko\u30fbTiki\u30fbBarry\ub3c4 \uc0c8\ub86d\uac8c \ubc30\ud2c0\uc5d0 \ucc38\uc804\ud569\ub2c8\ub2e4. \uc804\ub7b5\uc5d0 \ub530\ub77c \uc804 \ubcf4\ub2e4 \ub354 \uae34 \u300c\uc138\uc158\u300d\uc744 \uc774\uc744 \uc218\ub3c4 \uc788\uc2b5\ub2c8\ub2e4. ",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "zh",
+            "zh"
+        ],
+        "size": 12099518464
     },
     "70030000006005": {
         "id": null,
