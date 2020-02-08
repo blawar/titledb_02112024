@@ -6133,6 +6133,26 @@
     },
     "010036200CF6A000": {
         "61D93CE7139CD44E": {
+            "209e2b00b9c3a6a0286d2181b3b92b12b7518ed5c610b46f5a36abf968a69ebd": {
+                "source": "04000000 0087C0CC 1E271000",
+                "title": "[Quick Charge Power]"
+            },
+            "305879965c312ae7d6fc0f6d82a7f5aa4c03c426e9d7b29e22c6801957360c0f": {
+                "source": "04000000 0087A8E0 52A83808\n04000000 0087A8E4 B901CE68\n04000000 0087A8E8 B901D268\n04000000 0087A8EC D65F03C0",
+                "title": "[Instant Power - beta - ON]"
+            },
+            "325da9f06ddef283204699d2d4246db679cc47ae6b772cce5b05f744bae4c7fd": {
+                "source": "04000000 0087D890 D65F03C0",
+                "title": "[No Damage]"
+            },
+            "364469a59939b5837dffad72a3898a71b3c9c5eb6e177ba49ad00a9cb124e795": {
+                "source": "04000000 00879980 D65F03C0",
+                "title": "[Stop Time]"
+            },
+            "45479fed52407911b24a1f4fe073ed215bcdac3323c6cc620e17138d3cb2c598": {
+                "source": "04000000 0087A8E0 D10643FF\n04000000 0087A8E4 6D0F3BEF\n04000000 0087A8E8 6D1033EB\n04000000 0087A8EC 6D112BEB",
+                "title": "[Instant Power - beta - OFF]"
+            },
             "c0f612251bd0efc08db38d393eb8c9dde17d05dc785e63c75fc1e489d1310f78": {
                 "source": "58000000 022DEC38\n58001000 000000A0\n58001000 00000010\n78000000 000001CC\n64000000 00000000 41C00000",
                 "title": "[Max Battery]"
@@ -19527,6 +19547,10 @@
                 "source": "580F0000 012ACB50\n780F0000 00001380\n640F0000 00000000 000000FA",
                 "title": "[Infinite health for the active character]"
             },
+            "0e7cd625c5dcac0b9822ba4472b2080299475c74d1357d9aa3c3008e8db1a711": {
+                "source": "04000000 0016FC44 1E249000",
+                "title": "[1p speed move10x]"
+            },
             "11843e865faa82cde32dfcaff4defcf74f71eb1b22e66f6c67b0babe101aa7e0": {
                 "source": "58000000 0129ACB8\n78000000 0000045C\n64000000 00000000 00000063",
                 "title": "[- Rebecca Slot 1 Right to 99]"
@@ -19586,6 +19610,10 @@
             "423dbb10d2066fe9e20f0f7c4a5d3ba1cfeb912da0ec62c98a6bc1ec3ba3c127": {
                 "source": "02100000 03B8B0B5 00000000\n02100000 13E77D94 00000000",
                 "title": "[Always 1st Save]"
+            },
+            "4372fbb5e63c8602322a74499e2a200c6cf6d94e3c8d3ca41f25695074a1dd5d": {
+                "source": "04000000 0016E800 D65F03C0",
+                "title": "[inf health+no grab}"
             },
             "4450913bd4a04cda1ad10eb365082479e01f84dfc528021d6a4babaa2bd22242": {
                 "source": "58000000 0129ACB8\n78000000 00000484\n300E0000 00000006\n64000000 00000000 00000063\n78000000 00000008\n310E0000\n20000000",
@@ -19703,6 +19731,10 @@
                 "source": "01100000 13EF74A0 0000000E\n01100000 13EF74A4 00000063",
                 "title": "[Molotov Cocktail]"
             },
+            "bf9e46fdd64bd1041840164f94247584d113e8dc424c64345d6a22aaf9070cef": {
+                "source": "04000000 0016FC44 1E201000",
+                "title": "[1p speed move 2x]"
+            },
             "c2e66db05b8743172c5bafcf81157beeb8fbf3f4fd7851d073e1780a5dd0d4f1": {
                 "source": "01100000 13EF74A0 00000007\n01100000 13EF74A4 00000063",
                 "title": "[Grenade Launcher Explosive (Requires Slot 1&2)]"
@@ -19710,6 +19742,10 @@
             "c40024c352687d7f611ff26b1ef769bc7f4a459c17ffa841622c837661ef17ec": {
                 "source": "580F0000 01BB1320\n780F0000 00014BD0\n640F0000 00000000 000000FA",
                 "title": "[Infinite HP (Billy)]"
+            },
+            "c4fa60584782a6bd26509640834d6adb6fa0cc1e47b487f140c4908683b80493": {
+                "source": "04000000 0016FC44 1E2F9000",
+                "title": "[1p speed move 0.75]"
             },
             "ca6802803e331433478f62b792f9cf2ac2ec97121a859e9d08298cfa70273501": {
                 "source": "01100000 13EF74A0 00000016\n01100000 13EF74A4 00000063",
@@ -28045,6 +28081,26 @@
             "ecdfb416692fe56d604939bb051ad4991cf2b5b8d14324e1bbb1e4e9183ee924": {
                 "source": "04000000 005FFBC0 B94C7408\n04000000 005FFBC4 B9000048\n04000000 005FFBC8 D65F03C0\n04000000 005FFBCC 00000000\n80000100\n04000000 005FFBC0 52800048\n04000000 005FFBC4 B90C7408\n04000000 005FFBC8 B9000048\n04000000 005FFBCC D65F03C0\n20000000",
                 "title": "[Unlimited Action Points (Hold ZL)]"
+            }
+        }
+    },
+    "0100E6B00FFBA000": {
+        "EA5BA579F77A014A": {
+            "542aebc8d9931e1598b4c5cfa0520c67cab3bb0a7216736d58e52b5138c92d9d": {
+                "source": "580F0000 02D26A88\n580F1000 000000A0\n580F1000 00000030\n580F1000 000000B8\n580F1000 00000038\n580F1000 00000020\n580F1000 00000020\n780F0000 00000010\n640F0000 00000000 00002710",
+                "title": "[Inf Sword]"
+            },
+            "9c17d0fd816a84de14194c35f46180a30c19f4a65f7f574d1e06389d297450f7": {
+                "source": "80000002\n580F0000 02D23900\n580F1000 00000088\n580F1000 00000000\n580F1000 000001D8\n780F0000 00000044\n640F0000 00000000 42300000\n20000000",
+                "title": "[Moon Jump]"
+            },
+            "d225aad987a415cc7f7ea47c1bd03a1ef110e8b4be44e23a45043bea4a44b446": {
+                "source": "580F0000 02D26AD0\n580F1000 000000A0\n580F1000 00000000\n780F0000 00000134\n640F0000 00000000 42480000",
+                "title": "[Inf HP]"
+            },
+            "da19b45b7b3a64e62d8e66fe26939f65fb4e3e2be16b1c33293b0f831e487e98": {
+                "source": "580F0000 02D26A88\n580F1000 000000A0\n580F1000 00000030\n580F1000 000000B8\n780F0000 00000030\n640F0000 00000000 00002710",
+                "title": "[Coin MAX]"
             }
         }
     },
