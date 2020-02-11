@@ -4486,6 +4486,54 @@
         ],
         "size": 3906994176
     },
+    "70010000019055": {
+        "id": "010091400D238000",
+        "rightsId": null,
+        "name": "Bloodroots",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200228,
+        "nsuId": 70010000019055,
+        "category": [
+            "Action",
+            "Arcade",
+            "Platformer",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Language",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Paper Cult",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/324ec4a6cc231b14b97cdd863b24ed0fef3deac91dae3696232d2c7f2a337cf3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b4bae8a11dd756e9373d4ea179f2517206a99f00466eaa1c9b0232204164cd45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70498de3502331891bc0088495ef4c415a7381abe36afe002a491da10fd2924e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/609f7c44f311b689e030355091bbf9c1ce6be8a5453d482fd0467a3c956cf4db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf10df1474c5e796eab583dc9b9fab320cd9d218d3acf0b1d2701720e9af7e77.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fb60feaf8a60ecc9cd101d17b5321d12a901b2a11b9dc346c8a6778c30723fa2.jpg",
+        "intro": "In Bloodroots, the world is your weapon - improvise and adapt in a bloody revenge quest across the sprawling Weird West.",
+        "description": "Betrayed and left for dead, Mr. Wolf is hell-bent on finding his killer and enacting revenge - alone, and vastly outnumbered. \n\nThankfully for Mr. Wolf, the world is your weapon in Bloodroots - a relentless action game that unfolds across the sprawling Weird West. You\u2019ll choreograph spectacular, ultra-violent combos by making use of everything around you, from hatchets, to ladders, to...carrots? It\u2019s improvise or die, as Mr. Wolf fights his way to the center of the mystery: why was he betrayed?\n\n- A world overflowing with makeshift weapons that not only change the way you fight, but how you get around\n- Improvise the most deadly combos and compete for fame on worldwide leaderboards \n- Fight your way through a variety of handcrafted levels, from frozen forests to towering mountaintops \n- Experience a twisted Western revenge tale with a deranged cast of characters",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "ko",
+            "zh"
+        ],
+        "size": 1797259264
+    },
     "70010000019616": {
         "id": "010003000E146000",
         "rightsId": null,
@@ -4929,7 +4977,8 @@
             "Action"
         ],
         "ratingContent": [
-            "Comic Mischief",
+            "Alcohol Reference",
+            "Crude Humor",
             "Fantasy Violence",
             "Mild Language"
         ],

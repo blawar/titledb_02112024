@@ -1219,6 +1219,14 @@
             }
         }
     },
+    "010010B008A36000": {
+        "6CE5D7797E98BE64": {
+            "f64f3b1ca6a80bdccdc3359e5ec558f4e82c640f0e01e247f38a058f66259467": {
+                "source": "011F0000 01812284 00000009",
+                "title": "[kid niki 9 lives]"
+            }
+        }
+    },
     "010011600C946000": {
         "2FF317A1828BC0FC": {
             "40445339b17d395181457500bd68c2d115d1b0ee95f9d6231e68cdf741b7466f": {
@@ -4712,6 +4720,24 @@
         }
     },
     "01002B30028F6000": {
+        "5EAE657929360479": {
+            "a28db1b3aa44135dafce2d7e4b5a7be0635a7cf237177565fe607a50d55f9df6": {
+                "source": "580F0000 05018CD0\n580F1000 000000F0\n580F1000 00000040\n580F1000 00000018\n580F1000 00000028\n580F1000 00000128\n580F1000 00000010\n580F1000 00000080\n780F0000 000000D0\n610F0000 00000000 00000002",
+                "title": "[Infinite Dash]"
+            },
+            "d34919025611d9a27699d46c38c6ac52e7325d8aa593da2de453bc1a1751c01b": {
+                "source": "580F0000 05018CD0\n580F1000 000000F0\n580F1000 00000040\n580F1000 00000018\n580F1000 00000028\n580F1000 00000128\n580F1000 00000010\n580F1000 00000080\n780F0000 000000D4\n640F0000 00000000 42DC0000",
+                "title": "[Infinite Wall Climb Stamina]"
+            },
+            "d8b2c01657914009f2cbdee70b04554219975a6cf6edce8d55964b79c954188e": {
+                "source": "580F0000 05018CD0\n580F1000 000000F0\n580F1000 00000040\n580F1000 00000018\n580F1000 00000028\n580F1000 00000128\n580F1000 00000010\n580F1000 00000080\n780F0000 000000FE\n610F0000 00000000 00000000\n80000080\n610F0000 00000000 00000001\n20000000",
+                "title": "[Hold R for Invincibility, choose Retry if stuck]"
+            },
+            "f5c6225db742cc518a1311e58e4037a7ff34b645fe79d0ea7f7521921a98c804": {
+                "source": "80000002\n580F0000 05018CD0\n580F1000 000000F0\n580F1000 00000040\n580F1000 00000018\n580F1000 00000028\n580F1000 00000128\n580F1000 00000010\n580F1000 00000080\n780F0000 00000084\n640F0000 00000000 C2D80000\n20000000",
+                "title": "[B Moonjump]"
+            }
+        },
         "B1FB371FB03A6E6A": {
             "7aeed07aab42369bb041b1a282ed98ae15e7508cca5aaac3ab86dbe1b24093a7": {
                 "source": "80000002\n580F0000 0525F318\n580F1000 000000F0\n580F1000 00000040\n580F1000 00000010\n580F1000 00000050\n580F1000 00000010\n580F1000 00000030\n780F0000 0000007C\n640F0000 00000000 C3000000\n20000000",
@@ -8521,17 +8547,45 @@
     },
     "010051800E922000": {
         "01744DBED078494C": {
+            "167125c60ae24e29dd7190e3c073a9100ae81b99e49275d66021cbd5960d1072": {
+                "source": "04000000 010FFA10 B9433000\n04000000 010FFA14 0B001400\n04000000 010FFA18 D65F03C0",
+                "title": "[xp multiplier x33]"
+            },
+            "26331ef155d6bca4e3e95907f2d91187a416044e19607fc8156aececf49ed3d6": {
+                "source": "04000000 010FFA10 B9433000\n04000000 010FFA14 0B000400\n04000000 010FFA18 D65F03C0",
+                "title": "[xp multiplier x3]"
+            },
             "3b00dd58fbe8afd4f1f67076af7691662397fea8c98d4ce182fbd20e6add57c2": {
                 "source": "04000000 010FF5E8 47C35000\n04000000 010FF5E0 1C000040",
-                "title": "[pearls x 100k after battle]"
+                "title": "[pearls multiplier x100k]"
+            },
+            "488d1fedf7926d7bbf01dbe6ff515729d2bd465cba2eec3a7c97eeadde9195d5": {
+                "source": "04000000 010FF5E8 447A0000\n04000000 010FF5E0 1C000040",
+                "title": "[pearls multiplier x1k]"
             },
             "495c7ac0ac1e35d7709126c484b186ae802209d31ec8dba25db7b9e6aa536920": {
                 "source": "04000000 010FFA10 B9433000",
                 "title": "[deactivate xp cheat]"
             },
+            "5017fc7671c0225c766fae74b3054d4657f99b1e2a1804be9c1fcaddd571a064": {
+                "source": "04000000 010FFA14 0B000C00\n04000000 010FFA18 D65F03C0",
+                "title": "[xp multiplier x9]"
+            },
+            "6370c7e00a93be7d45befd370c657deb672b7eb3c9c17798efabf94c3f91f0ea": {
+                "source": "04000000 010FF5E8 461C4000\n04000000 010FF5E0 1C000040",
+                "title": "[pearls multiplier x10k]"
+            },
             "9ffc41c0fec19ce3b728bbd5d76f042eac264315df46d563ac0ed2053bb7be5b": {
                 "source": "04000000 010FFA18 00002710\n04000000 010FFA10 18000040",
                 "title": "[get 10k xp after battle]"
+            },
+            "bcb6596139f81de632278d84ff3d75e173712c96964dddf875638b512a63806a": {
+                "source": "04000000 010FFA10 B9433000\n04000000 010FFA14 0B000800\n04000000 010FFA18 D65F03C0",
+                "title": "[xp multiplier x5]"
+            },
+            "dd2549bd03386caf85c67c5136c1b2560fb6d747cacc0caad83ee9f8d19a121a": {
+                "source": "04000000 010FFA10 B9433000\n04000000 010FFA14 D65F03C0",
+                "title": "[deactivate xp cheat]"
             },
             "e1baa5d0f13fed54e84d051006d38d7610a42f9fa3557604b26d58e6210ec441": {
                 "source": "04000000 010FF5E0 BD429800",
@@ -8562,6 +8616,50 @@
             "ee4773ac8117f2afb1c81a2189a28389ba0a2fb285aae6a3ae8e5ba85123a05f": {
                 "source": "04000000 008C642C 1E37D001\n04000000 008C4958 1E37D001",
                 "title": "[hit kill]"
+            }
+        }
+    },
+    "01005250086C4000": {
+        "ECE85107B8DC81DB": {
+            "029a60d985e40c663ac5a72d81f0728c85df0bb5b4882c771be5284f8aee4fcb": {
+                "source": "80000080\n580F0000 0623D550\n780F0000 0000007C\n610F0000 00000000 00000024\n580F0000 063FAA88\n780F0000 0000007C\n610F0000 00000000 00000024",
+                "title": "[x8 Energy unlimited [R]]"
+            },
+            "39ceb4b20313514770503f1bf71f3b8e9fe9c55a779950913d64ad5ca747b1d0": {
+                "source": "580F0000 04C7C898\n780F0000 000000BD\n610F0000 00000000 00000009",
+                "title": "[x5 Lives unlimited]"
+            },
+            "50d87fc4049716075514ce4e8210a2a25d05a2814026fdb9ca37b641746a9408": {
+                "source": "040F0000 05E91B40 01050000",
+                "title": "[x8 Credits unlimited]"
+            },
+            "7d4c0e61de13bd9140687f6dcb98b481b4f5bcd7b8e71a8fbfed026282a241cb": {
+                "source": "80000200\n580F0000 0429BEA8\n780F1000 0000001C\n640F0000 00000000 00400000",
+                "title": "[X Challenge Energy unlimited [ZR]]"
+            },
+            "89beb4106805cdcb0229b74124bf41bc71a17996a7d2dec74bff2c2e90c7f68d": {
+                "source": "01100000 173E01FD 00000009",
+                "title": "[X6 Lives unlimited]"
+            },
+            "982b247e834c08227fc552570f626255c72063abb745fa7ec2fa8fdb2140abae": {
+                "source": "580F0000 04BDFE08\n780F1000 00000194\n620F0000 00000000 00000940",
+                "title": "[X Challenge Lives unlimited]"
+            },
+            "bcbd01b127b2e8e89c3722c8c0c03e1e3358fbc7d39fae0d276598842852bcdb": {
+                "source": "01000000 05A207E0 00000009",
+                "title": "[X7 Lives unlimited]"
+            },
+            "d4446f6f8c579733348741806f580ae786634362586a6b4c1fb6a66bfa2de67f": {
+                "source": "580F0000 04CC9508\n580F1000 00000030\n780F0000 00000370\n610F0000 00000000 00000020",
+                "title": "[mmx5 inf hp]"
+            },
+            "dfc04bb40b76c5f25f3c8ca3b5b959a3d117988f91b0cfdc204d8941f003b1ec": {
+                "source": "80000080\n580F0000 042B5988\n780F0000 0000007C\n610F0000 00000000 00000020",
+                "title": "[X7 Energy unlimited [R]]"
+            },
+            "e8e5d3451216c0718897cb8ad0659e88e51e6123487e2f059ca4182934539d0d": {
+                "source": "80000080\n580F0000 059DCBB8\n780F0000 00000190\n640F0000 00000000 00201120",
+                "title": "[X6 Energy unlimited [R]]"
             }
         }
     },
@@ -10549,9 +10647,21 @@
     },
     "01005C60086BE000": {
         "EAD37D36ABD7C4C8": {
+            "464a5f85a3b096e10f79f9e1dc0a26090b9a6286e5561fdb25f0c13793bccb2b": {
+                "source": "580F0000 02519240\n780F0000 00001CF7\n610F0000 00000000 00000010",
+                "title": "[mmx inf hp]"
+            },
+            "84aa014f2c762524046984c655ba4abfa1bb551ae1d8f1fafd3c7545ec110795": {
+                "source": "580F0000 02519240\n780F0000 00001B27\n610F0000 00000000 00000010",
+                "title": "[mmx 3 inf hp]"
+            },
             "9fb2037b64837e4e686cd6a08d2e802d31e470a1df9fb828bfccd27e49213c2e": {
                 "source": "01100000 133D0204 00000009",
                 "title": "[MMX4 9 Lives]"
+            },
+            "c72fa8e224551919e9adae2f551b8945f69e99848e38cd863fb40b52c31505ab": {
+                "source": "580F0000 025A9FC0\n780F0000 00000B78\n610F0000 00000000 00000020",
+                "title": "[mmx4 inf hp]"
             }
         }
     },
@@ -11812,6 +11922,32 @@
             "d6d21eb9844df9a09db8d6745ae5d243ee7067e6aff360469b6cf45f8cd813c7": {
                 "source": "580F0000 018140F0\n580F1000 00000030\n580F1000 00000080\n780F0000 00000058\n640F0000 00000000 77359400",
                 "title": "[gold 2000000000]"
+            }
+        },
+        "113FE52D64570F0F": {
+            "177402bb794adec7603922e1d50167290c1013f1d17de9ca065a2f1d964f748a": {
+                "source": "580F0000 0197E320\n580F1000 00000030\n580F1000 00000080\n780F0000 00000048\n640F0000 00000000 0000270F",
+                "title": "[06# 9999 Coins]"
+            },
+            "28a74d5088913950455b3ccc44f6419db36f5d7c8fcfa04165077ded1dce907f": {
+                "source": "580F0000 0197E320\n580F1000 00000030\n580F1000 00000090\n780F0000 00000420\n640F0000 00000000 0000270F",
+                "title": "[05# Inf Potions]"
+            },
+            "2cc773507272487999af906fae1fb2498ef776b6127b3c0b64497b3551d023c9": {
+                "source": "580F0000 0197E320\n580F1000 00000030\n580F1000 00000090\n780F0000 00000128\n640F0000 00000000 0000270F\n780F0000 00000004\n640F0000 00000000 0000270F",
+                "title": "[02# Max Health]"
+            },
+            "2f3a5a75909890738419fb8ca09bcd0628f74a722c61a72413f7f316a4f11220": {
+                "source": "580F0000 0197E320\n580F1000 00000030\n580F1000 00000090\n780F0000 00000474\n640F0000 00000000 0000270F",
+                "title": "[03# 9999 Cells]"
+            },
+            "69d868f1a3834dca40aaa1fd5c2bf5ba65ca46c21096ea70f7d4ffd34bf9d360": {
+                "source": "80002002\n580F0000 0197E320\n580F1000 00000030\n580F1000 00000090\n780F0000 000000B4\n640F0000 00000000 BFE00000\n20000000",
+                "title": "[01# Inf Jump Up+B]"
+            },
+            "77ace8df9d3ad88650f7aa445e4210c64231ff676037311009ee479851559b87": {
+                "source": "80000010\n580F0000 0197E320\n580F1000 00000030\n580F1000 00000090\n780F0000 00000150\n640F0000 00000000 00000040\n780F0000 00000004\n640F0000 00000000 00000040\n780F0000 00000004\n640F0000 00000000 00000040\n20000000",
+                "title": "[04# Push Left Stick DPS UP push again On Pickup]"
             }
         },
         "254C9E4B338BFCD3": {
@@ -15461,6 +15597,36 @@
             }
         }
     },
+    "010074600CC7A000": {
+        "4D4FCFD3BE47484A": {
+            "6be9e8d776e2e583f40edec900ecae5067a62d8eb844397f372e225c87d82097": {
+                "source": "04000000 0031F280 18FFFCC0",
+                "title": "[Rank Points Ghost MAX]"
+            },
+            "c809981ceb8b2b230897dab8732ed1903860418b0bedbe7438e3d83004b378d2": {
+                "source": "04000000 002F39A0 D65F03C0",
+                "title": "[Infinite Lamp Usage]"
+            },
+            "dc6ce7d39b7022e5349e415ade26f43c25ab2d9ee14e9b1da3d1c47ed720bbd4": {
+                "source": "04000000 0031F220 18FFFFC0",
+                "title": "[Rank Points Human MAX]"
+            }
+        },
+        "710B99C18AA32240": {
+            "63210d038a554ad3d89e98217a7bb37c9c0e77876a31a7a35c525b004007515b": {
+                "source": "04000000 003304A0 D65F03C0",
+                "title": "[Infinite Lamp Usage]"
+            },
+            "a5979a1af14193c06e247e66cb877e78db8ddefc04caad4d900576de243829b3": {
+                "source": "04000000 003527D0 18FFFFE0",
+                "title": "[Rank Points Human MAX]"
+            },
+            "b44037064b665cb3b2ad3fbd2578292d598b3ce85f2ff5ebbb6cb80324b42932": {
+                "source": "04000000 003527F0 18FFFEE0",
+                "title": "[Rank Points Ghost MAX]"
+            }
+        }
+    },
     "0100749009844000": {
         "2E4D252AA9547F98": {
             "7097a0262c7fa75c3f14bd988ee97ab470740989197995591066fa1522cea75f": {
@@ -16739,13 +16905,25 @@
                 "source": "580F0000 01210288\n580F1000 00000018\n780F0000 0000011C\n680F0000 43960000 43960000",
                 "title": "[P3 Infinite HP]"
             },
+            "6cfd5d9f4c57e4fb9734aa6daad0a9a2ef6bbf1b4810951d6d3cd45d3766ebe7": {
+                "source": "58000000 01209E58\n78000000 00000008\n64000000 00000000 41A00000",
+                "title": "[Timer at 20 secs]"
+            },
             "79ea57827b9ff4febbfc26feb7f523065a940624f15bc65216fea1f7c9b1935f": {
                 "source": "04000000 0120C220 0001869F",
                 "title": "[99999 money]"
             },
+            "844a2b6c148f8ea30a55f796d324156ee835c49e1b8089fbe9c28fda73859a0b": {
+                "source": "58000000 01209E58\n78000000 00000008\n64000000 00000000 42440000",
+                "title": "[Timer at 49 secs]"
+            },
             "c3055a1a2e3d1b28c291e18d76d3c0d2e4625e2c625d77281bcc8f81504bb38f": {
                 "source": "580F0000 01210280\n780F0000 000000BC\n640F0000 00000000 41400000\n780F0000 00000010\n640F0000 00000000 41400000",
                 "title": "[P2 Infinite Super]"
+            },
+            "dde1449f07c2bb6e26e81388d773aafb88654c5f44f440d07b783558e45157f1": {
+                "source": "80000002\n58000000 01224828\n78000000 00000020\n64000000 00000000 00000101\n20000000",
+                "title": "[Infinite Jump B button]"
             },
             "ed0ccb8669174bf0e4ebb18273ba8f8a35b3ba785f1901cea20c9df224ab726e": {
                 "source": "580F0000 01210290\n780F0000 000000BC\n640F0000 00000000 41400000\n780F0000 00000010\n640F0000 00000000 41400000",
@@ -18206,6 +18384,14 @@
             "e49830e9027cbf2dc037d7af119316dba2bcb2756cf7559d5243abf885a09aea": {
                 "source": "011F0000 019C6237 00000063",
                 "title": "[Infinite Lives]"
+            }
+        }
+    },
+    "01008CA00CF34000": {
+        "8CA43E408D847247": {
+            "65aad78f5b017debb3e1b5f58fe91807bb46a080f17fe3aeeafa406d475de1fe": {
+                "source": "04000000 001DAA90 D65F03C0",
+                "title": "[no damage - inf health]"
             }
         }
     },
@@ -19849,7 +20035,7 @@
         "82C2A04A21D3E0B8": {
             "0094fc38a7b8dc7893f2ce5a4e35b65552b8cf0e44fd170ac0194419e8589f4c": {
                 "source": "00000000 00000000 00000000",
-                "title": "[==Equipped Weapon Mod (Only Use One At A Time)==]"
+                "title": "[Use only ONE at a time]"
             },
             "00cd7084188f57144cae6b16ad8276bf9e53f5a54c3a32f734c1311671dc0000": {
                 "source": "02000000 0124D930 00000024",
@@ -19871,9 +20057,25 @@
                 "source": "02000000 0124D930 00000041",
                 "title": "[P.R.L. 412]"
             },
+            "0b52cd8726f7a05f6ca67a264bf3b4e3b7426a9008b203ddd27b93de1fb55fca": {
+                "source": "580F0000 0113B398\n780F0000 00000304\n640F0000 00000000 3F800000\n80000002\n640F0000 00000000 40200000\n20000000",
+                "title": "[Speed Up (Hold B)]"
+            },
+            "0b6e0e4fe60bd26b7198b1e11f1f0e70f53e7aa36e02fb8e4e8022bd4dea8685": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000051",
+                "title": "[LEON AMMO semi auto rifle infrared FIRST AID SPRAY]"
+            },
             "0e1d7e0098aeddb7553dd7a6e8f36e33f73cb615f3b082582929b0192e4b5a4e": {
                 "source": "02000000 0124D930 00000032",
                 "title": "[TMP With Stock]"
+            },
+            "10e3a9055c5f8d34cb57beba4e77f4fcf453d73bc27543a45347d299502fbc30": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000099",
+                "title": "[LEON AMMO rifle infrared FIRST AID SPRAY]"
+            },
+            "12630b5286316ab878478f110efae7788979bbbcbf6631711a26bdaf3e70a5ce": {
+                "source": "580F0000 0113B398\n780F0000 000003CC\n640F0000 00000000 0000009E",
+                "title": "[Invincible]"
             },
             "1bb3a2438b36d53ba61b9d59bbec8a9c9429c6efac32ec98197058f6c18dd501": {
                 "source": "02000000 0124D930 00000021",
@@ -19885,7 +20087,7 @@
             },
             "1e1428d95c213c4af3dd51b2aa2721439e732f551d0480591886a82d2e52d873": {
                 "source": "300E0000 000000FF\n02100000 2A6C9B96 00001F38\n78000000 0000000E\n310E0000\n20000000",
-                "title": "[Infinite Ammo]"
+                "title": "[Infinite Ammo - DOESNT WORK for me, forces hekate reboot]"
             },
             "20f3555ff24cd8b212b191a7b29cf8dbb860297fff2557f2866e529ae3f4c65b": {
                 "source": "010F0000 01279374 00000000",
@@ -19895,6 +20097,10 @@
                 "source": "02000000 0124D930 0000002F",
                 "title": "[Semi Auto Rifle]"
             },
+            "227e5bbe6caccccd664c2ae4e8844d48f426b0c539c658059348480c914aef9d": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000028",
+                "title": "[LEON AMMO 412 sight FIRST AID SPRAY]"
+            },
             "22d1b59a55ed91881de7fcbeb984fe9ce978baa3f3e8fc8fb1a318e04e346ed6": {
                 "source": "010F0000 01279377 00000001",
                 "title": "[Ashley Disco]"
@@ -19903,13 +20109,29 @@
                 "source": "02000000 0124D930 00000026",
                 "title": "[Red9 With Stock]"
             },
+            "2614b1f6893191ce791058e114856d4983c9e49354384b20b54ecba84374c379": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000002E",
+                "title": "[LEON AMMO rifle FIRST AID SPRAY]"
+            },
             "268603e3c4195e424766623cfa2ecea57f06a9a17a23ff671f0d8c83f14b7847": {
                 "source": "02000000 0124D930 00000029",
                 "title": "[Butterfly]"
             },
+            "2a040b88906c3eac790023c65018e61dc93b4b856d4a6aad19e7015f631ecf62": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 000000AB",
+                "title": "[LEON AMMO minethrower scope FIRST AID SPRAY]"
+            },
+            "2fe39c8f7c88bb28768ba33a6da6ffaa034e43a1a7efa2763380be635c3789e9": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000040",
+                "title": "[LEON AMMO Punisher2 TYPEWRITER FIRST AID SPRAY]"
+            },
             "331e22af77264f5f39870f098b523a00ec11abeeb918a36137cb913b45568adc": {
                 "source": "040F0000 01279365 00000004",
                 "title": "[Infinite Max Health ASHLEY]"
+            },
+            "3e516519c2765313450c02b5fad8c1133f0a261ae90c4581b002fc12fdef1cc5": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000006C",
+                "title": "[LEON AMMO rifle semi auto scope FIRST AID SPRAY]"
             },
             "3e6f864dfc4113003d8e72108462467db8ff71a847133a85d6f0372cb12c8612": {
                 "source": "020F0000 01132FC9 000000C8\n020F0000 01132FCA 00000092\n020F0000 01132FCB 00000045\n80000020 020F0000 01132FCB 00000000\n20000000",
@@ -19919,25 +20141,53 @@
                 "source": "02000000 0124D930 00000036",
                 "title": "[Mine Thrower]"
             },
+            "48c3d32cdd0fd67d976ca8238e657c98d34b4d0798e575592f1b04c1c16d8f94": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000036",
+                "title": "[LEON AMMO mine thrower FIRST AID SPRAY]"
+            },
+            "4b68e68cc654eddc29409183392d52a47f649837635e355123b984d8fda4b65d": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000037",
+                "title": "[LEON AMMO Handcannon FIRST AID SPRAY]"
+            },
             "4da4819462c607b2006887f805072dfd7732f4159ddf704b77fe348219ab09c3": {
                 "source": "040F0000 01279360 09D060E3",
                 "title": "[Infinite Max Health Leon]"
+            },
+            "51e879035a44ab613cf43ebd356967f72792dff11e2ff6b2c3fcd7d4cee71795": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000002F",
+                "title": "[LEON AMMO semi auto rifle FIRST AID SPRAY]"
             },
             "547f648855b1fc1c131e86d66a8edb6c98a2ea90a5cf89721eaf0dcd1069cff7": {
                 "source": "02000000 0124D930 00000023",
                 "title": "[Handgun]"
             },
+            "5593fb9d84cb84ad314f72e2a8255db3a42e5e77f36b267c51e458fd6a47c1c0": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000021",
+                "title": "[LEON AMMO Punisher TYPEWRITER FIRST AID SPRAY]"
+            },
             "569140b6a803838324a8a0c546dfd8706e06137ca1d284d81956013ab960760c": {
                 "source": "010F0000 006E8DB8 0000001A\n010F0000 006E8DB9 00000000\n010F0000 006E8DBA 0000007A\n010F0000 006E8DBB 00000044",
                 "title": "[ACTIVATE GARDEN NO DOGS]"
+            },
+            "61b2d72164191e6d759ab332e9849527cdd2e1856a654cd6ff46c68b92bee979": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000094",
+                "title": "[LEON AMMO riot gun FIRST AID SPRAY]"
             },
             "61dbf1ffc25df85c32ca1cc4dad3e5f893fd7446e2e62cf26d5436d4e2f2ef26": {
                 "source": "010F0000 01279377 00000000",
                 "title": "[Ashley Default]"
             },
+            "640e809c959ede94f4ac34c077251d1df62cb494fc6fae93616c5a9161271837": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000030",
+                "title": "[LEON AMMO tmp FIRST AID SPRAY]"
+            },
             "6542ccf30de23edeced13881759e8e2d3437aee3e36ddadad9833994d8a36bad": {
                 "source": "010F0000 01279375 00000001",
                 "title": "[Leon Without Jacket]"
+            },
+            "65a49dbea1e918cec5172cbd1c0985f7b435ee36955675e704ba92fcb449d4bf": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000002C",
+                "title": "[LEON AMMO shotgun FIRST AID SPRAY]"
             },
             "6803c3877d2514f1a9f50d9af16b20cbc2937beb801fb5b4e1c5f44f09a8a398": {
                 "source": "040F0000 0124F6BC 000003E7",
@@ -19949,11 +20199,19 @@
             },
             "6ad8b644c7c8537b80f2aee824b747629a4ef794e2283a8eb7f83b7c9bdafe96": {
                 "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000034",
-                "title": "[LEON AMMO CHICAGO TYPEWRITER FIRST AID SPRAY]"
+                "title": "[LEON AMMO Chicago FIRST AID SPRAY]"
+            },
+            "6b29678826f573d0b4f3be2d1b4db41303000e6bfa85abf507406461057ef629": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000006B",
+                "title": "[LEON AMMO rifle scope FIRST AID SPRAY]"
             },
             "6cdda5cbc25961bcf42d7d503e735a4572a0065c588609774c9b94eccdab9821": {
                 "source": "02000000 0124D930 00000003",
                 "title": "[Matilda]"
+            },
+            "6e74f9239e9c95136762d623c21fabbf7ae209c92273f6f0d76151dc2411349b": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000002A",
+                "title": "[LEON AMMO killer7 FIRST AID SPRAY]"
             },
             "789a13a191fdd25f652e5de15b81a4fc9edf6ab6872d8f8b7e4a0060e844c75f": {
                 "source": "02000000 0124D930 00000099",
@@ -19975,9 +20233,17 @@
                 "source": "02000000 0124D930 0000006B",
                 "title": "[Rifle With Scope]"
             },
+            "814924bddcde2348d94ebe2dec1dcde204160dd6c3e428c8dad8088e0900cb9c": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000023",
+                "title": "[LEON AMMO handgun FIRST AID SPRAY]"
+            },
             "82792f2b8d83568ad395d1b603b8dd756b8c908f20a31ffa2435991d0f90541c": {
                 "source": "02000000 0124D930 00000094",
                 "title": "[Riot Gun]"
+            },
+            "8b230e4dd6b68703aef8a21a160dc6df95ded3085088fdc12a0cfbf4191db803": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000032",
+                "title": "[LEON AMMO tmp stock FIRST AID SPRAY]"
             },
             "8fe12033ca384a9d7a2348b9370908533a6279b644d75904b87689efce9014b5": {
                 "source": "02000000 0124D930 00000030",
@@ -19991,6 +20257,10 @@
                 "source": "80000010 040F0000 01279358 00000332\n20000000",
                 "title": "[Start at Final Boss Battle (Press L3)]"
             },
+            "949af7778a13b813b86b3716f61dce194d8f1d519b7c82f9b4c66220475358b8": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000024",
+                "title": "[LEON AMMO handgun silencer FIRST AID SPRAY]"
+            },
             "97069cf0b62d6883eff35105e9d87ea8d73700ddecc589e1dfdb4cad87cc0e6e": {
                 "source": "02000000 0124D930 0000002E",
                 "title": "[Rifle]"
@@ -19998,6 +20268,10 @@
             "97c26e203c2e1b8f9523a19ba35e4bca08ca52119f9c7003a9410049d1d312f4": {
                 "source": "040F0000 01279365 00000004\n80000210 040F0000 01279365 00000000\n20000000",
                 "title": "[Infinite Max Health (ASHLEY) Kill (Press ZR+L3)]"
+            },
+            "988a16936b2802c3a969921b2415c0030e92d32e8e89b01c5d914eaa7ca87c34": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000027",
+                "title": "[LEON AMMO blacktail FIRST AID SPRAY]"
             },
             "9944974d6b3bfbc6b66833ee0c9664fd9232f355b728dd8353cd1e5e6b11e840": {
                 "source": "020F0000 01279351 00000000",
@@ -20023,13 +20297,21 @@
                 "source": "010F0000 0127C80C 00000000\n010F0000 0127C80E 00000000",
                 "title": "[0 Times Killed]"
             },
+            "a89c80f8333dcb83beab55f14a3cfb351af5c3fee839d6864bfa7530fef22968": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000041",
+                "title": "[LEON AMMO 412 FIRST AID SPRAY]"
+            },
             "a9ab2690c9c39afa4b029d3933946dcda8982e488d528f5ae7f05ac9adca998b": {
                 "source": "010F0000 01279375 00000000",
                 "title": "[Leon Jacket]"
             },
+            "aae4f983ec7a3def9ec950e66f75591da76439b74605e8d9e0d944a90b3a584a": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000003",
+                "title": "[LEON AMMO Matilda FIRST AID SPRAY]"
+            },
             "aba745ee679430cc4345303076df933dc34dee2c065fec0cb125377dfc9e5e38": {
                 "source": "300E0000 000000FF\n02100000 2A6C9B82 000003E7\n78000000 0000000E\n310E0000\n20000000",
-                "title": "[Infinite Items]"
+                "title": "[Infinite Items - DOESNT WORK for me, forces hekate reboot]"
             },
             "acd72a79bda55a2134e197e5dfa4c67219c4fc66469a9e4390ab67926050727a": {
                 "source": "040F0000 01279354 05F5E0FF",
@@ -20057,7 +20339,7 @@
             },
             "b79872df6fd55b5fe9d565efa1809920b3111b3755cf2a86427a65c7b538130c": {
                 "source": "010F0000 01279377 00000002",
-                "title": "[Ashley Knigh Armor (Invincible/Cant Be Carried)]"
+                "title": "[Ashley Knigh Armor (Invincible/Can't Be Carried)]"
             },
             "b9aea1327db06b7dc535b8646a3d94897c1f5e2ec9bab95b8bfd2e07008b1f32": {
                 "source": "010F0000 01279375 00000002",
@@ -20071,9 +20353,17 @@
                 "source": "010F0000 0127934C 00000000",
                 "title": "[0 Continues]"
             },
+            "c41ea26ba69b96f000fd4f269424f1119d846e08714b030405404c34e31c51f0": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000029",
+                "title": "[LEON AMMO butterfly FIRST AID SPRAY]"
+            },
             "c6c1ee049ab181fe4ef3556b5c41ae0a0d91bc34dd0a2ac94f276ffba0840ec5": {
                 "source": "02000000 0124D930 00000040",
                 "title": "[Punisher]"
+            },
+            "c796775bb7c5cf4ee1ff92b28423085a39795f8d5389f68e9c00cde31fb3b0cd": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000006D",
+                "title": "[LEON AMMO infinite rocket TYPEWRITER FIRST AID SPRAY]"
             },
             "c804ce620ded26de625743c489f7df76fe22da66953628e537dec0253d0f2f89": {
                 "source": "010F0000 006E8B82 00000050\n010F0000 006E8B83 00000044",
@@ -20115,19 +20405,47 @@
                 "source": "040F0000 01279360 EFFB60FF\n80000220 040F0000 01279360 00000000\n20000000",
                 "title": "[Infinite Max Health (LEON) Kill (Press ZR+R3)]"
             },
+            "e97b35b6349714015a1b4db98b10905df28d7feae997c09b7e4666208dfd2718": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000003E",
+                "title": "[LEON AMMO custom tmp FIRST AID SPRAY]"
+            },
+            "e9d7dbf0b75731089173b607faae0a4017423560844a6910534788b9357fb002": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000026",
+                "title": "[LEON AMMO red9 stock FIRST AID SPRAY]"
+            },
             "ec672f8286d7e1a8ba94696390e06777b6630762ddb5e24038e64ff4a44e40b2": {
                 "source": "040F0000 0124F69C 0000270F",
                 "title": "[Max Enemies Killed]"
             },
+            "edd94c4b314bef21f0f44b8725225cfead9fa83a0554b777de033bbf7283e5ab": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000025",
+                "title": "[LEON AMMO red9 FIRST AID SPRAY]"
+            },
             "fc02c98031d77484c68b05feea40f0623592adbc049f3b47795160d74027a6f7": {
                 "source": "02000000 0124D930 0000002C",
                 "title": "[Shotgun]"
+            },
+            "fc222b4808b40fad38cc54ffccd68f5576abf887af17b122e631b7c92f9705e8": {
+                "source": "580F0000 0113B398\n780F0000 00000350\n80000208\n640F0000 00000000 00000000\n20000000\n80000202\n640F0000 00000000 01000000\n20000000",
+                "title": "[Walk Through Walls (ZR and Y, ZR and B)]"
+            },
+            "ff3df34ca2e1f7ad7b8b0e9a6fb980ef281f4f710233108b4361f240b5ff1f81": {
+                "source": "580F0000 0113B398\n780F0000 000000C0\n300E0000 00000003\n640F0000 00000000 3F800000\n78000000 00000004\n80000080\n640F0000 00000000 3FB00000\n78000000 00000004\n310E0000\n20000000",
+                "title": "[Size Up (Hold R)]"
             }
         },
         "8CEAF0D2AE48A935": {
             "047c22b60c138fa38c22e10677e9bb7aacd734fb2cc8906d1cbdac9d928a6b1e": {
                 "source": "010F0000 01279375 00000002",
                 "title": "[Leon Without Jacket w/Vest]"
+            },
+            "05fce850b1c01f1bf2243ec01c1c53ac6c179ecbf91e26c1b4a11abab9e7b14b": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000026",
+                "title": "[LEON AMMO red9 stock FIRST AID SPRAY]"
+            },
+            "074dd7aafdb766daa812cfaba4aca9dc0618cb3ced4596b88ac5cc8f76638c46": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000051",
+                "title": "[LEON AMMO semi auto rifle infrared FIRST AID SPRAY]"
             },
             "099bd5b19a7236cd711e4889a2d06f7ee59ab6cf28d850ee3849c2fb2e697e0b": {
                 "source": "02000000 0124D930 00000026",
@@ -20163,11 +20481,19 @@
             },
             "1a87429e19c43e1581d443a751ee439612293f484132de007b7d8ef503ba5681": {
                 "source": "00000000 00000000 00000000",
-                "title": "[==Equipped Weapon Mod (Only Use One At A Time)==]"
+                "title": "[Use only ONE at a time]"
             },
             "1b42c8f43fd839258e79908b286101380b5f726e56e4a892778c7d6197945544": {
                 "source": "580F0000 0113B398\n780F0000 000000C0\n300E0000 00000003\n640F0000 00000000 3F800000\n78000000 00000004\n80000080\n640F0000 00000000 3FB00000\n78000000 00000004\n310E0000\n20000000",
                 "title": "[Size Up (Hold R)]"
+            },
+            "1bc5d142fe4c57976a428a69dd6aaa8c4cd4b50739d3eeeb7999fa018c50dc52": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000006D",
+                "title": "[LEON AMMO infinite rocket TYPEWRITER FIRST AID SPRAY]"
+            },
+            "1ddb89fbe782fb359edcb6d65884a4c65efe810a3256251cac18cbef28b2797b": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000099",
+                "title": "[LEON AMMO rifle infrared FIRST AID SPRAY]"
             },
             "21ee43cf34b10a2705d0213d5b6ba335bd55a5932486daee063e4355fae18dbe": {
                 "source": "02000000 0124D930 0000002E",
@@ -20197,6 +20523,10 @@
                 "source": "02000000 0124D930 0000002A",
                 "title": "[Killer7]"
             },
+            "35c899efdbb8e6b5e9b1dfd623e52523f6cd801d8251a0d7a7e19232456cc918": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000002F",
+                "title": "[LEON AMMO semi auto rifle FIRST AID SPRAY]"
+            },
             "362b18488732aafc22cbf72be8f72860d0644d335df66009f2b1e90c75342a11": {
                 "source": "80000010 040F0000 01279358 00000332\n20000000",
                 "title": "[Start at Final Boss Battle (Press L3)]"
@@ -20217,6 +20547,10 @@
                 "source": "02000000 0124D930 00000051",
                 "title": "[Semi Auto Rifle With Infrared Scope]"
             },
+            "3d104d409b5017b13a417f70ccd0aa93f62f0838e74359852ede7cedd42b1dc8": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000006B",
+                "title": "[LEON AMMO rifle scope FIRST AID SPRAY]"
+            },
             "3d8555bad10c4ec296c9d0659b5e609192a5257371455a33823354572348bd9f": {
                 "source": "010F0000 006E8B96 000000B",
                 "title": "[MORE TIME BOULDERS AND LAKE BOSS]"
@@ -20232,6 +20566,10 @@
             "4f4553df83e66df9db6ecdf01434a7ffb548ac27ed68852319f79f87e670bd08": {
                 "source": "010F0000 01279374 00000005",
                 "title": "[Wesker]"
+            },
+            "4fbeb5a422a24548f5b6d74f59d80531f72890570ac0f5f5c5c2e68c2e95e528": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000030",
+                "title": "[LEON AMMO tmp FIRST AID SPRAY]"
             },
             "506121893ff51448c98128ac4f1b3d564e25406c2d47ab55a2e13f276627e171": {
                 "source": "020F0000 01279351 00000000",
@@ -20249,9 +20587,17 @@
                 "source": "010F0000 01279377 00000002",
                 "title": "[Ashley Knigh Armor (Invincible/Can't Be Carried)]"
             },
+            "56eb1916109192fce77289e779c28b5fe3722ea9ad6b21681c1b8de2815bc553": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000041",
+                "title": "[LEON AMMO 412 FIRST AID SPRAY]"
+            },
             "59742f6ff1cfce547d82911156c635a9df7fac7356d899477b6f6b8f66f86a5b": {
                 "source": "02000000 0124D930 00000003",
                 "title": "[Matilda]"
+            },
+            "5a516d889ab39800f11c8a82affaac4a648a0055d83366d1ef2fad56a2cf5f83": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000027",
+                "title": "[LEON AMMO blacktail FIRST AID SPRAY]"
             },
             "5b5a4aa2025a15c7f40160260ae62c1071660a082c474278be1fbdfa5bcd5099": {
                 "source": "010F0000 01279377 00000001",
@@ -20265,13 +20611,21 @@
                 "source": "020F0000 01132FC9 000000C8\n020F0000 01132FCA 00000092\n020F0000 01132FCB 00000045\n80000020 020F0000 01132FCB 00000000\n20000000",
                 "title": "[Infinite Time Escape/Mercenaries (Press R3 To End)]"
             },
+            "6218a07c9d992d9ff6285616321ba6b572567201a4855d498de9f37198f17e73": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000003E",
+                "title": "[LEON AMMO custom tmp FIRST AID SPRAY]"
+            },
+            "641cd3b42ffd49a26af0efef50fc9cd8fc2701f3718d920881f6920d93fe4c9b": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 000000AB",
+                "title": "[LEON AMMO minethrower scope FIRST AID SPRAY]"
+            },
             "6630aa246bc04df67fcf0aa437a06b56c77f0d10c16c322e8a2a773287907fe6": {
                 "source": "02000000 0124D930 00000099",
                 "title": "[Rifle With Infrared Scope]"
             },
             "6641c4f789cf9ea6e531ecdf632b0f3e4f811b979092a11cf132163a227fd0cc": {
                 "source": "300E0000 000000FF\n02100000 2A6C9B82 000003E7\n78000000 0000000E\n310E0000\n20000000",
-                "title": "[Infinite Items]"
+                "title": "[Infinite Items - DOESNT WORK for me, forces hekate reboot]"
             },
             "6a25144eb269611e42dd96344c332ef0113ec7d68c21d2c55dbdfeae34844283": {
                 "source": "02000000 0124D930 000000AB\n02100000 2A6C9B80 0000007F",
@@ -20280,6 +20634,10 @@
             "77e63655e3da68943ae6a2a816b811c825a58d016811292a5a2cb65d5a7ae213": {
                 "source": "010F0000 01279377 00000000",
                 "title": "[Ashley Default]"
+            },
+            "794e54f8c64d9f7e72f614f9792f9332128955a95fb14b31e9b62158614bea8d": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000003",
+                "title": "[LEON AMMO Matilda FIRST AID SPRAY]"
             },
             "79d1dd30e11e8f543719797c266eb09e1d518f1d1c088710e65b19c64d7e7736": {
                 "source": "010F0000 01279375 00000001",
@@ -20293,9 +20651,13 @@
                 "source": "02000000 0124D930 0000003E",
                 "title": "[Custom TMP]"
             },
+            "80bee403768f85317e6cf5090c40b90dbb2892b1e4afbe104eb0c24fcf75f2f4": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000002E",
+                "title": "[LEON AMMO rifle FIRST AID SPRAY]"
+            },
             "83ba3dba250f661a7396aa461b1f1a38609e911de9497a1b276d264c758da12b": {
                 "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000034",
-                "title": "[LEON AMMO CHICAGO TYPEWRITER FIRST AID SPRAY]"
+                "title": "[LEON AMMO Chicago FIRST AID SPRAY]"
             },
             "8469b8a1fc64c5ec1fbd8320b31895d89c85312e032b61690aab60103a05e43d": {
                 "source": "040F0000 01279360 09D060E3",
@@ -20313,13 +20675,17 @@
                 "source": "040F0000 01279365 00000004\n80000210 040F0000 01279365 00000000\n20000000",
                 "title": "[Infinite Max Health (ASHLEY) Kill (Press ZR+L3)]"
             },
+            "87b42f74145f6ba7d4c9405a8456a4bf734ed0d4611d0c717ce43cc7ffe4a522": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000094",
+                "title": "[LEON AMMO riot gun FIRST AID SPRAY]"
+            },
             "8c421a51bd9471c407066cbbc94056329a3553089e16ba3570247e8c0d027070": {
                 "source": "580F0000 0113B398\n780F0000 00000350\n80000208\n640F0000 00000000 00000000\n20000000\n80000202\n640F0000 00000000 01000000\n20000000",
                 "title": "[Walk Through Walls (ZR and Y, ZR and B)]"
             },
             "93c4c5fba5eca4fe086932ede810d0f48764c8e584475b08c30c54dfcabbe311": {
                 "source": "300E0000 000000FF\n02100000 2A6C9B96 00001F38\n78000000 0000000E\n310E0000\n20000000",
-                "title": "[Infinite Ammo]"
+                "title": "[Infinite Ammo - DOESNT WORK for me, forces hekate reboot]"
             },
             "948288db8fc0f9889544890d080310229ca31e02319ec92e226367dd02639bb3": {
                 "source": "02100000 2A6C9B80 0000007F",
@@ -20353,9 +20719,21 @@
                 "source": "02000000 0124D930 00000024",
                 "title": "[Handgun with Silencer]"
             },
+            "9ebc96c370d547e457694609ee18ea2a2ab32d04749bab4d3ec509575cc63301": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000023",
+                "title": "[LEON AMMO handgun FIRST AID SPRAY]"
+            },
             "9fbb1e4ac372af5860ebd8c6a171e6805c1378d7eac47c09af75ff612cbbf297": {
                 "source": "010F0000 006E8B83 00000048\n011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9BD6 000000FF\n011F0000 2A6C9BE4 000000FF\n011F0000 2A6C9C1C 000000FF\n011F0000 2A6C9C38 000000FF",
                 "title": "[MERCENARIES AMMO SPRAY SHOOT WALLS]"
+            },
+            "a3aca77f750f86f6b8d80d9a13b39f34ca3ec18eb6449c55cec0096a3ef3ebdc": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000040",
+                "title": "[LEON AMMO Punisher2 TYPEWRITER FIRST AID SPRAY]"
+            },
+            "a3bbb27d8ffb9af9020a90ca2cdf1be83d079c8f876cc1f7424d743df51324a1": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000029",
+                "title": "[LEON AMMO butterfly FIRST AID SPRAY]"
             },
             "a4cd8c5f0ea42ed592bf18f69c81a37d8d5b52a91c1053864d3b72de11f17135": {
                 "source": "02000000 0124D930 00000040",
@@ -20365,17 +20743,33 @@
                 "source": "80000100 040F0000 01279360 EFFB60FF\n20000000",
                 "title": "[Full Health (Press ZL) Kill Yourself (Press ZR+R3)]"
             },
+            "ad087ddef0c350ff436ad9bfeba18d6fc70075161a030e954332497bad01b164": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000021",
+                "title": "[LEON AMMO Punisher TYPEWRITER FIRST AID SPRAY]"
+            },
             "ad523794f57bfde3e010b5b4b23194bf7072b09400258b5bfca613c260bcad30": {
                 "source": "02000000 0124D930 00000036",
                 "title": "[Mine Thrower]"
+            },
+            "b23bc4938c6da1016dc77c051e95b94242da7c9b09ce2d3d5d854c8a11946675": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000036",
+                "title": "[LEON AMMO mine thrower FIRST AID SPRAY]"
             },
             "b6caa3aaeac539641eb5413f9f51cfae3cf15c2f3fb7f029dd75208cf808302f": {
                 "source": "02000000 0124D930 0000006D",
                 "title": "[Rocket Launcher (Infinite)]"
             },
+            "b73e6d470655249beba824618a4f02544e1e1b8037c4d24dcf91b850b3cf696d": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000037",
+                "title": "[LEON AMMO Handcannon FIRST AID SPRAY]"
+            },
             "b7defbbb6573b22f23dcd787deda3fb1f3f38f5dc86e567d9a567c4c53890c8a": {
                 "source": "02000000 0124D930 00000025",
                 "title": "[Red9]"
+            },
+            "b86e3346f4830d83bbe0aff308fb297e2a1613328143232040186fa61c691743": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000002C",
+                "title": "[LEON AMMO shotgun FIRST AID SPRAY]"
             },
             "ba07a44b47587bb926e8105f59768cd7f6f952f5f0724b8be761368a0b19a6e6": {
                 "source": "04000000 00282724 D503201F",
@@ -20389,17 +20783,41 @@
                 "source": "010F0000 01279348 00000000",
                 "title": "[Always 1st Save]"
             },
+            "c2f5c6c562e61a01c0058e6acd7fba4a55b9dc09a431983594e7a195752fe575": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000002A",
+                "title": "[LEON AMMO killer7 FIRST AID SPRAY]"
+            },
+            "c7582108823cb66334d5e1d46989c959a2649a7e222f70b4023aad70c76dcbe1": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000032",
+                "title": "[LEON AMMO tmp stock FIRST AID SPRAY]"
+            },
+            "c986ef8a9d5d8c5ebbc74bc352bd376e2aa75d72ef6080f48c3486ed8a56c4e8": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000025",
+                "title": "[LEON AMMO red9 FIRST AID SPRAY]"
+            },
             "cd56975f379a4e45310af348ecc91cbfe0da4fda28651ecc19b5ce41c49b9464": {
                 "source": "010F0000 01279375 00000003",
                 "title": "[Leon RPD]"
+            },
+            "d18f81c23e7266fc07b52cf60a8f30d5115837f9dcdfe8f07ec7d3b987ae3d9c": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 0000006C",
+                "title": "[LEON AMMO rifle semi auto scope FIRST AID SPRAY]"
             },
             "d2de7afd829e4370a6758e8db46315148ebb5b66c12ace83895a64eed7bd690a": {
                 "source": "02000000 0124D930 00000034",
                 "title": "[Chicago Typewriter]"
             },
+            "d4ccf0db1cc48c3f2b69cca7d0397e6fa62116a533312421702b7b44aa973202": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000024",
+                "title": "[LEON AMMO handgun silencer FIRST AID SPRAY]"
+            },
             "d4e11c65dd788d4cb908499df33d33f8579d7e83b8682dbc5c0ca0858a39b7ba": {
                 "source": "580F0000 0113B398\n780F0000 000000C0\n300E0000 00000003\n640F0000 00000000 3F800000\n780F0000 00000004\n80000080\n640F0000 00000000 3FB00000\n780F0000 00000004\n310E0000\n20000000",
                 "title": "[Size Up (Hold R)]"
+            },
+            "d7a3127e9fd40b6d5ccd06e835a19fc09ae24637ada5a2e1baf9a54f308ff3b6": {
+                "source": "011F0000 2A6C9B97 000000FF\n011F0000 2A6C9BAC 000000FF\n011F0000 2A6C9B8E 00000028",
+                "title": "[LEON AMMO 412 sight FIRST AID SPRAY]"
             },
             "d93357ad6c891aa31b318827a34315135887c85eb10fb1df872ec4cb610eb763": {
                 "source": "02000000 0124D930 00000029",
@@ -20978,6 +21396,48 @@
         }
     },
     "01009D60076F6000": {
+        "0988BA5931F79147": {
+            "4777f7c2de2bfbcf30f4b61aafbf25f9e5acd7d7aba7fa1e2baaf487b000e03f": {
+                "source": "04000000 011CD6B0 1E2703E8",
+                "title": "[Mouse Stage Inf Time]"
+            },
+            "4c8203f2a0f52b15583ab8abcd71a9e0a0716dae73d3f9b00305eedf83ae88de": {
+                "source": "04000000 010D9C98 D503201F",
+                "title": "[Rainbow Box]"
+            },
+            "64e7f047625ae150aff541ede3dc1bf3e661616f4716c75426d285508a13c907": {
+                "source": "04000000 01119D24 528000A1\n04000000 01119D28 B9021001",
+                "title": "[Inf Blank]"
+            },
+            "7e46d5f933fe7baf4cb5e2876aaf5c7a613c9f252e1a83453edc1190b06e45e7": {
+                "source": "04000000 010D9C98 54000081",
+                "title": "[Rainbow Box Disable]"
+            },
+            "8204877ad59ce41bb31bfce5726cde5aee69cd769d1af7302d61c9088fe77114": {
+                "source": "04000000 024C0B0C 10003482\n04000000 024C0B00 52800028\n04000000 024C0B04 3901A008\n04000000 024C0B08 D65F03C0\n04000000 012314E4 944A3D87",
+                "title": "[Enter Secret Stage no need Keys]"
+            },
+            "960cc5d9ff2e03b0545967729808e04765734a525fb388d1bd341a8660f21835": {
+                "source": "04000000 011D6540 1E2703E8",
+                "title": "[Mouse Stage Inf HP]"
+            },
+            "a7e8155eccc4ebbf03e881af501364f1ab267edae77e1c633dda55e19b5ebd06": {
+                "source": "04000000 00DEB410 52800C61",
+                "title": "[Change Key 99]"
+            },
+            "ae396323c51c87200daa415bbb18e4a786439fd6810285ab8e56cfea7776abbe": {
+                "source": "04000000 00DEB20C 5284E1F4",
+                "title": "[Change Coin 9999]"
+            },
+            "c66eb9bae39e3c56f00c9ba1f30303fabfff3f24a149e3a4f2a3d06fb5822b1a": {
+                "source": "04000000 0153ACF4 BD406C00\n04000000 0153ACF8 BD007000",
+                "title": "[HP Max ]"
+            },
+            "f4c926a797966441682e130656b8091a4facbc1e65ae7f2f8576aa6b638b96ae": {
+                "source": "04000000 00DD9F74 52800008\n04000000 00DDB87C 52800014\n04000000 00DDC5A8 1E2703E1",
+                "title": "[No Reload]"
+            }
+        },
         "41353EF03C96CF44": {
             "ad33205552016c21994dceecccee6a469720635a7326f8c4154bf8d42be1be23": {
                 "source": "04000000 00DEB20C 5284E1F4",
@@ -21615,6 +22075,22 @@
             "f716394e1a1b2a5d546e4ba8fc57be51c663ae095331ba455a554cb028f360a1": {
                 "source": "580F0000 05D818C0\n780F0000 00008AA8\n640F0000 00000000 00000001",
                 "title": "[Gotenks - Unlocked]"
+            }
+        }
+    },
+    "0100A2E00D0E0000": {
+        "CA1A5E968E4E9345": {
+            "6dd3fe244823e656ba68b519a3b53cb9f39f4c1e86760bdb3a2b79542c7b2076": {
+                "source": "580F0000 0241B6A8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000010\n580F1000 00000020\n780F0000 00000010\n640F0000 00000000 40400000",
+                "title": "[Inf Heart]"
+            },
+            "b12d87de7a7d5384072e55092525a8b8fb3ff7e9350b26c2db521e69728ef8ae": {
+                "source": "580F0000 0241B6A8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000010\n580F1000 00000020\n780F0000 0000001C\n640F0000 00000000 00000009\n780F0000 00000004\n640F0000 00000000 00000029",
+                "title": "[Various Missile]"
+            },
+            "e98a683db4da8db202aade7a0ef4711d9d7e9db52c5c8ddc063cf60a72e37dc0": {
+                "source": "580F0000 0241B6A8\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000010\n580F1000 00000020\n780F0000 00000030\n640F0000 00000000 05000000",
+                "title": "[Inf Bomb]"
             }
         }
     },
@@ -24206,6 +24682,44 @@
                 "source": "580F0000 03734560\n580F1000 00000070\n780F0000 00000170\n680F0000 0000270F 0000270F",
                 "title": "[Inf HP]"
             }
+        },
+        "E962BE62E05DDE43": {
+            "0459b12d3d026edc50b82e1c942ed45e8fc7cc552672acd2c1eb991e86ec9642": {
+                "source": "580F0000 0379E858\n780F0000 000000BC\n640F0000 00000000 0000270F",
+                "title": "[DEF MAX]"
+            },
+            "30c5a558f05bb9a1604d9f17d4a375c6957c31284e708e52f34cbddb1c254e16": {
+                "source": "580F0000 0379E858\n780F0000 00000088\n640F0000 00000000 42C80000",
+                "title": "[Inf EN]"
+            },
+            "33dac90270fcfd99ec5d2bcee3d4283db7d7de09850b93b105e4c8cd2235117c": {
+                "source": "580F0000 0379E7A0\n580F1000 00000070\n780F0000 0000015C\n640F0000 00000000 41000000",
+                "title": "[Invincible]"
+            },
+            "667bc4f8fceafce4b6fc9ac5db6a3303607c29ce45488132ef05aee128d95532": {
+                "source": "580F0000 0379E7A0\n580F1000 00000070\n780F0000 00000170\n680F0000 0000270F 0000270F",
+                "title": "[Inf HP]"
+            },
+            "66f7bcbf670d250dd9fe0fd1f7e484d7c2259e3ab4df87395865386c5e23ccd2": {
+                "source": "580F0000 0379E858\n780F0000 000000B4\n640F0000 00000000 0000270F",
+                "title": "[ATK MAX]"
+            },
+            "b1160b94e7f894900bb552311058d7af3a29c1f4e9ce86a584851c7e1bca7c45": {
+                "source": "580F0000 0379E858\n780F0000 000000C4\n640F0000 00000000 0000270F",
+                "title": "[Fisit MAX]"
+            },
+            "b6fb93936614f26f6ea3a3edcab00ff3c56f58e97b1f0a7893a28b201930230f": {
+                "source": "580F0000 0379E858\n780F0000 00000170\n640F0000 00000000 0000270F",
+                "title": "[Gold MAX]"
+            },
+            "b7dd1c80ba4ed3e0d8e1d6eeac3e8493b0d155c65b8665976ed6fed878c9ae73": {
+                "source": "580F0000 0379E858\n780F0000 000000CC\n640F0000 00000000 00000064",
+                "title": "[Luck MAX]"
+            },
+            "c06d19807c2e72390abf174dd90416f13e44269b35fa2db8756496af1116c5b0": {
+                "source": "80000002\n580F0000 0379E7A0\n580F1000 00000070\n780F0000 00000104\n640F0000 00000000 C4C00000\n20000000",
+                "title": "[Moon Jump]"
+            }
         }
     },
     "0100B7D0022EE000": {
@@ -26696,6 +27210,18 @@
             }
         }
     },
+    "0100D6200E130000": {
+        "A40DA7C8DE72FA41": {
+            "0aabcc444a2d1ff8838a95c84fd06b626ab85553ac828d1f36dbebdf8df9342a": {
+                "source": "04000000 016189D0 EB2BBA6D",
+                "title": "[No Damage (off)]"
+            },
+            "f447302a48cedaeb8736269a988ff2628213bf51603232dd2ad093c4f3ca7fa4": {
+                "source": "04000000 016189D0 D65F03C0",
+                "title": "[No Damage (On)]"
+            }
+        }
+    },
     "0100D940022F6000": {
         "069B9A025B219E56": {
             "74cd8f95dc6ae26693a745bcca68f3a0468dbc8db35d66e566d483ae408cb30a": {
@@ -26934,6 +27460,12 @@
                 "source": "580F0000 019272D0\n580F1000 00000018\n580F1000 00000020\n580F1000 00001130\n780F0000 00001EF8\n640F0000 00000000 00000063",
                 "title": "[02# 99 hearts]"
             }
+        },
+        "A27C9BA72927796A": {
+            "49055a9d7b1c22168c06316a8c298653ccd58266ccf1f8542853672d7bb186bc": {
+                "source": "02100000 1975F538 00000063\n02100000 1975F61C 00000063\n02100000 1975F620 00000063\n02100000 22F7D8A0 00000063",
+                "title": "[Heart x99]"
+            }
         }
     },
     "0100DD300CF3A000": {
@@ -27073,14 +27605,68 @@
         }
     },
     "0100DE600BEEE000": {
+        "C619CC7FE091C312": {
+            "35eeb79c946e2a861cabc0abe151e84a302e7bda4a21ef75a74428058ae80a80": {
+                "source": "580F0000 040279B0\n580F1000 000000FC\n580F1000 00000008\n780F0000 00001D28\n640F0000 00000000 000003E7",
+                "title": "[Infinite Health]"
+            },
+            "4c59b403ef08cc9414a47074dcae9f6875a0a02717ef9945632c92e6fad93769": {
+                "source": "580F0000 040279B0\n580F1000 000000FC\n580F1000 00000008\n780F0000 00001D10\n640F0000 00000000 3B9AC99C",
+                "title": "[Infinite Money]"
+            },
+            "5046f804215a37515f45c57ad05ee9ebfb7073306cf6d8fc9505d3773eb4e3c7": {
+                "source": "580F0000 02AAAB78\n580F1000 00000028\n780F0000 000001EC\n610F0000 00000000 0000002A",
+                "title": "[Infinite ammo no reload Machine Gun]"
+            },
+            "6577572f8a3cb221878f128d06ccb7b14ee7aa4520d3ae8d7d90dc51416da743": {
+                "source": "580F0000 02AAAB78\n580F1000 00000028\n580F1000 00000028\n580F1000 00000028\n780F0000 000001EC\n610F0000 00000000 0000003F",
+                "title": "[Infinite ammo no reload AK]"
+            },
+            "817e36c103a06e71f4647bea107ffd495edf7db2615ae140ddb76978be815cb3": {
+                "source": "580F0000 02AAAB78\n780F0000 000001EC\n610F0000 00000000 0000002A",
+                "title": "[Infinite ammo no reload Equipped Weapon]"
+            },
+            "871381ff64a4a497ebbaebfee6c7f8885a8ea039ead3f13bfadb872ceda352c9": {
+                "source": "580F0000 02AAAB78\n580F1000 00000028\n580F1000 00000028\n780F0000 000001EC\n610F0000 00000000 0000000C",
+                "title": "[Infinite ammo no reload Shotgun]"
+            },
+            "a49c1b2d465c2a4cdb398ab67fba2ae3071f1aa09eb67980162fa5b2ede0588c": {
+                "source": "580F0000 02AAAB78\n580F1000 00000028\n580F1000 00000028\n580F1000 00000028\n580F1000 00000028\n780F0000 000001EC\n610F0000 00000000 00000008",
+                "title": "[Infinite ammo no reload Grenade Launcher]"
+            }
+        },
         "FFEDEB38F462558E": {
+            "108bc740915471be465d449d1da1d03d118913a9e0ce811cbb4bb3390029f7fe": {
+                "source": "580F0000 02A82B78\n580F1000 00000028\n580F1000 00000028\n580F1000 00000028\n780F0000 000001EC\n610F0000 00000000 0000003F",
+                "title": "[Infinite ammo no reload AK]"
+            },
             "3008c69e24f7122b151a815b6dfce270ec1be94dd30fa79b8366806a70269358": {
                 "source": "580F0000 03FFF9B0\n580F1000 000000FC\n580F1000 00000008\n780F0000 00001D10\n640F0000 00000000 05F5E09C",
                 "title": "[Infinite Money]"
             },
+            "3c6aee70b4c32d75668ba42c2ad6c0407a4f30de4f26e468e31cd391980f9d1c": {
+                "source": "580F0000 02A82B78\n580F1000 00000028\n580F1000 00000028\n580F1000 00000028\n580F1000 00000028\n780F0000 000001EC\n610F0000 00000000 00000008",
+                "title": "[Infinite ammo no reload Grenade Launcher]"
+            },
+            "50d84dc575a5f3ad49481faa913b72ad412207fc94f1bf27a1a6071d707bb1bb": {
+                "source": "580F0000 02A82B78\n580F1000 00000028\n780F0000 000001EC\n610F0000 00000000 0000002A",
+                "title": "[Infinite ammo no reload Machine Gun]"
+            },
+            "5ea037a44526ce0ea704ff827d6a32e0e0949a06fa5b13d9f3b6b65b338bb261": {
+                "source": "580F0000 03FFF9B0\n580F1000 000000FC\n580F1000 00000008\n780F0000 00001D28\n640F0000 00000000 000003E7",
+                "title": "[Infinite Health]"
+            },
             "bc3c562aa1730026151856adc053fdd6f2497338399e64aebd8f62045f508445": {
                 "source": "580F0000 03FFF9B0\n580F1000 00000104\n780F0000 00001D18\n640F0000 00000000 447A0000",
                 "title": "[Infnite Health]"
+            },
+            "e2da15b2de2be8bbd22922c29dfb25dd21d0b9f0bdc4b6f1041e2fabc47d0e61": {
+                "source": "580F0000 02A82B78\n580F1000 00000028\n580F1000 00000028\n780F0000 000001EC\n610F0000 00000000 0000000C",
+                "title": "[Infinite ammo no reload Shotgun]"
+            },
+            "e3f5c99bb3f3fed9afe5f86abae9ec0d6e123da5b14050f4aa99ffd051ff43d5": {
+                "source": "580F0000 02A82B78\n780F0000 000001EC\n610F0000 00000000 0000002A",
+                "title": "[Infinite ammo no reload Pistol]"
             }
         }
     },
@@ -30469,6 +31055,38 @@
             "a0da8ca6f11eb084c211bd7f094bcce033fa48adc7c98748fc46daa932d74c38": {
                 "source": "04000000 02ABF994 1E27D000",
                 "title": "[HIT RANGE 30X]"
+            }
+        }
+    },
+    "0100F2300D4BA000": {
+        "0EB0818751685BE8": {
+            "033952332ad04915bcd8b021b253c0bafd659c6f6fabcc30589debdb8c349725": {
+                "source": "580F0000 059DFED8\n580F1000 00000100\n580F1000 00000030\n580F1000 00000318\n780F0000 00000520\n640F0000 00000000 0098967F",
+                "title": "[Soul 99999999 is not reduced]"
+            },
+            "13857310b924772a11b55b12e66cb4cfb5c23bd59cded4187e0d16434dc43b7d": {
+                "source": "580F0000 059DFED8\n580F1000 00000100\n580F1000 00000030\n580F1000 00000318\n780F0000 00000528\n640F0000 00000000 0098967F",
+                "title": "[The key of the fraudster 9999999 is not reduced]"
+            },
+            "1cc54d729a4686ee6c82572adc2391b7b33dfe1978899e4d459e92b7f214f031": {
+                "source": "580F0000 059DFED8\n580F1000 00000100\n580F1000 00000030\n580F1000 00000318\n780F0000 00000524\n640F0000 00000000 0098967F",
+                "title": "[The boatman's gold coin 9999999 is not reduced]"
+            },
+            "4d94fc55a4d9ad57bf77aaa9638e8c95645aa1c5f0dbd4f2d04f8f62d372f2bd": {
+                "source": "580F0000 059DFED8\n580F1000 00000100\n580F1000 00000030\n580F1000 00000318\n780F0000 0000052C\n640F0000 00000000 00000010",
+                "title": "[No reduction in the use of medicaments]"
+            },
+            "59dd412bbd7bb14052ab4361e4f4d14c3ebf0d16061e3ac54bdc3a1d21cda3c1": {
+                "source": "580F0000 059F24B0\n580F1000 00000670\n580F1000 000000A8\n580F1000 000000D0\n780F0000 0000037C\n640F0000 00000000 44160000",
+                "title": "[Character War Knight HP is not reduced]"
+            },
+            "6124d2604077e88b6143ad159b72adf6a2af9554db159b20319f324efc70d997": {
+                "source": "580F0000 059DFED8\n580F1000 00000100\n580F1000 00000030\n580F1000 00000318\n780F0000 00000590\n640F0000 FFFFFFFF B7B1D800",
+                "title": "[No need to wait for the potion]"
+            },
+            "beca554902265701ee34201acbe10a39b9beca973df63393c5c7acbde4c2732f": {
+                "source": "580F0000 059F24B0\n580F1000 00000670\n580F1000 000000A8\n580F1000 000000D0\n780F0000 000003A0\n680F0000 461C3C00 461C3C00",
+                "title": "[Character War Knight Infinity Wrath]"
             }
         }
     },
