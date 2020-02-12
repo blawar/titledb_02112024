@@ -2856,7 +2856,7 @@
     "70010000012523": {
         "id": "01003D200BAA2000",
         "rightsId": null,
-        "name": "Pok\u00e9mon Mystery Dungeon: Rescue Team DX",
+        "name": "Pok\u00e9mon Mystery Dungeon\u2122: Rescue Team DX",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -2876,10 +2876,17 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/01bdf842194256f9948bf5ff6fb7b77bacc6905adfede8b7d69cd4ca70c5a216.jpg",
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/753c065bede11311df8a39fc314a2fb3716dff41c39c075fc476051eb2bb24f3.jpg",
-        "intro": "\u00bfQu\u00e9 har\u00edas si una ma\u00f1ana despiertas\u2026 como un Pok\u00e9mon?\n",
-        "description": "Emb\u00e1rcate en un viaje y explora las misteriosas mazmorras en este reimaginado juego basado en los dos t\u00edtulos que iniciaron la serie Pok\u00e9mon Mystery Dungeon\u2122. Con una mezcla de los juegos Pok\u00e9mon Mystery Dungeon: Red Rescue Team y Pok\u00e9mon Mystery Dungeon: Blue Rescue Team que fueron lanzados originalmente en 2006, Pok\u00e9mon Mystery Dungeon\u2122: Rescue Team DX cobra vida en la consola Nintendo Switch\u2122 con un estilo hermosamente art\u00edstico inspirado en la acuarela.\n",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/148164872cdf091bf75edbfd2b80e2f8bfa3563306973ff38438ae89d26f8e6d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1938e45058bb1327d5602421c32b0e65b9927e45953f943f0619ce8203ff2f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0833f156e8be1ceeaa33c9f00f4bf46d3c0e53a1b48308c75d1cb509547c3455.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97e6592929df28cf46f6c6aac9123a73c6ce1c7417cb59f71c883bffbeb8aa89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7665e6bffbb33beee647e4c7008a64a35a34ef0bf781e8375eadaa037609c33.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/273a1d5e746e7b9caf2aee225396905b192398f5683e6650d09b90667fdfdecd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b69310fc8b9aabbf10aee075b0e3141b65a07dfec9dd03197572f1abe43898eb.jpg",
+        "intro": "Transf\u00f3rmate en un Pok\u00e9mon. Salva al mundo Pok\u00e9mon\n",
+        "description": "\u00bfQu\u00e9 har\u00edas si despiertas como un Pok\u00e9mon? \u00a1Podr\u00e1s conocer y reclutar Pok\u00e9mon en esta aventura de mazmorras dentro de su mundo! Crea un equipo de rescate para enfrentarte a mazmorras en constante cambio y planea estrat\u00e9gicamente cada uno de tus movimientos mientras te aventuras para asegurarte que el mundo Pok\u00e9mon es un lugar m\u00e1s seguro\u2026 y descubrir tu verdadero prop\u00f3sito en el camino.\n\nConforme vayas reclutando Pok\u00e9mon, estos confiables compa\u00f1eros deber\u00e1n permanecer en alg\u00fan lugar, as\u00ed que construye campamentos para el equipo de rescate para alojar, gestionar y mejorar a tus amigos Pok\u00e9mon. Analiza cuidadosamente qui\u00e9n es el indicado para cada trabajo y planea la mejor manera de abordar una mazmorra mientras preparas a todo el equipo de rescate. Te mover\u00e1s un cuadro a la vez, o utiliza el modo Autom\u00e1tico para incrementar la velocidad de movimiento hasta que te enfrentes a otro Pok\u00e9mon en los combates por turnos, eso s\u00ed, \u00a1no te olvides de las fortalezas, debilidades y los talentos poco comunes de cada Pok\u00e9mon! \u00a1Esta versi\u00f3n incluye Pok\u00e9mon megaevolucionados, hermosos gr\u00e1ficos inspirados en la acuarela y mucho m\u00e1s! Si\u00e9ntete c\u00f3modo como un Pok\u00e9mon, hay mucho trabajo por hacer.",
         "languages": [
             "en",
             "es",
@@ -5587,6 +5594,50 @@
             "fr"
         ],
         "size": 6701449216
+    },
+    "70010000028523": {
+        "id": "010015F008C54000",
+        "rightsId": null,
+        "name": "Pok\u00e9mon\u2122 HOME",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200211,
+        "nsuId": 70010000028523,
+        "category": [
+            "Otros"
+        ],
+        "ratingContent": [
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7169a83c23b8f35388b86619320ebd13282b781997eb70f23786b9c0eae9f41d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4ebfd3fbe35e4ae3aad74128f854821cd96fe8fa77f34eb82ccaae6576540b88.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ff8980fb4ef3cc4b6354011994b89930d75773800c7ed4fce73e7c98f2e39e7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04be250477ae850375d045461109cbf21c999c8a2c3ea4786188ab86eab66fae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65a8b797ff00423ba37c579ba53ea3b0ae561944487a73d6939655449181f19d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5ee86cafc1e0b5b77df70c6ec707c9e6a01589afd34df012830bfa988db2048.jpg",
+        "intro": "Un lugar donde los Pok\u00e9mon se pueden reunir ",
+        "description": "Pok\u00e9mon\u2122 HOME es un servicio en la nube para Nintendo Switch\u2122 y dispositivos m\u00f3viles compatibles dise\u00f1ado para convertirse en un lugar donde se pueden reunir todos los Pok\u00e9mon. Al vincular la misma cuenta Nintendo a la versi\u00f3n para Nintendo Switch y la versi\u00f3n para dispositivos m\u00f3viles, podr\u00e1s acceder a tus cajas desde ambas versiones. Pok\u00e9mon HOME te permitir\u00e1 transferir Pok\u00e9mon entre los juegos compatibles, intercambiar Pok\u00e9mon cuando quieras y \u00a1mucho m\u00e1s! Tambi\u00e9n puedes suscribirte al plan pr\u00e9mium de Pok\u00e9mon HOME para tener acceso a m\u00e1s funciones. \n\nCon Pok\u00e9mon HOME podr\u00e1s gestionar tu colecci\u00f3n de Pok\u00e9mon a trav\u00e9s de m\u00faltiples juegos. Y reunir a tus Pok\u00e9mon es solo el principio: Podr\u00e1s intercambiar con amigos o con usuarios de todo el mundo al utilizar la aplicaci\u00f3n m\u00f3vil de Pok\u00e9mon HOME. Una suscripci\u00f3n al plan pr\u00e9mium te brinda la posibilidad de transferir Pok\u00e9mon desde el Pok\u00e9mon Bank, expande la capacidad de Pok\u00e9mon que pueden ser depositados de 30 a 6000, expande el n\u00famero de Pok\u00e9mon que pueden ser colocados al mismo tiempo en la caja prodigiosa y GTS (\u00fanicamente en la versi\u00f3n m\u00f3vil), te permite crear tu propio grupo para realizar intercambios (\u00fanicamente en la versi\u00f3n m\u00f3vil) y te otorga la Funci\u00f3n Juez dentro de Pok\u00e9mon HOME. ",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 741343232
     },
     "70010000028643": {
         "id": null,

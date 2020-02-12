@@ -2856,7 +2856,7 @@
     "70010000012523": {
         "id": "01003D200BAA2000",
         "rightsId": null,
-        "name": "Pok\u00e9mon Mystery Dungeon: Rescue Team DX",
+        "name": "Pok\u00e9mon Mystery Dungeon\u2122: Rescue Team DX",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -2876,10 +2876,17 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/01bdf842194256f9948bf5ff6fb7b77bacc6905adfede8b7d69cd4ca70c5a216.jpg",
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66593a5969de4b12d9de025e80843ed7cf69671e26b382994c7c0afe00ada30d.jpg",
-        "intro": "What would you do if you woke up one morning\u2026and you were a Pok\u00e9mon?!\n",
-        "description": "You must embark on a journey to explore mysterious dungeons in this reimagination of the two games that started the Pok\u00e9mon Mystery Dungeon\u2122 series. Combining the Pok\u00e9mon Mystery Dungeon: Red Rescue Team and the Pok\u00e9mon Mystery Dungeon: Blue Rescue Team games originally released in 2006, Pok\u00e9mon Mystery Dungeon\u2122: Rescue Team DX comes to life on the Nintendo Switch\u2122 system with a beautiful, watercolor-inspired art style.\n",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/148164872cdf091bf75edbfd2b80e2f8bfa3563306973ff38438ae89d26f8e6d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1938e45058bb1327d5602421c32b0e65b9927e45953f943f0619ce8203ff2f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0833f156e8be1ceeaa33c9f00f4bf46d3c0e53a1b48308c75d1cb509547c3455.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97e6592929df28cf46f6c6aac9123a73c6ce1c7417cb59f71c883bffbeb8aa89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7665e6bffbb33beee647e4c7008a64a35a34ef0bf781e8375eadaa037609c33.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/273a1d5e746e7b9caf2aee225396905b192398f5683e6650d09b90667fdfdecd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/225a7052c2afa2f9ed685cc316c32ea19bd8a238a967d6e7482820ba5a927512.jpg",
+        "intro": "Become a Pok\u00e9mon. Save the Pok\u00e9mon world.\n",
+        "description": "What if you woke up one day, and you were a Pok\u00e9mon? You can meet and recruit Pok\u00e9mon in a dungeon-crawling adventure within their world! Build a rescue team to take on mysterious, changing dungeons and strategically plan your moves as you venture forth to make the Pok\u00e9mon world a safer place\u2026and uncover your true purpose along the way.\n\nAs you recruit Pok\u00e9mon, these trusty teammates will need somewhere to stay, so build rescue team camps to house, manage, and strengthen your Pok\u00e9mon friends. Think hard about who is right for the job and how to approach each mysterious dungeon as you prepare a rescue team. You\u2019ll move a single square at a time or use Auto mode to speed up movement until you engage other Pok\u00e9mon in turn-based battles\u2014but don\u2019t forget about Pok\u00e9mon strengths, weaknesses and potential rare qualities! This version adds Mega Evolved Pok\u00e9mon, gorgeous watercolor-inspired graphics, and more! Get comfortable in your Pok\u00e9mon form, there\u2019s a lot of work to do.\n",
         "languages": [
             "en",
             "es",
@@ -5587,6 +5594,50 @@
             "fr"
         ],
         "size": 6701449216
+    },
+    "70010000028523": {
+        "id": "010015F008C54000",
+        "rightsId": null,
+        "name": "Pok\u00e9mon\u2122 HOME",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200211,
+        "nsuId": 70010000028523,
+        "category": [
+            "Other"
+        ],
+        "ratingContent": [
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7169a83c23b8f35388b86619320ebd13282b781997eb70f23786b9c0eae9f41d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4ebfd3fbe35e4ae3aad74128f854821cd96fe8fa77f34eb82ccaae6576540b88.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ff8980fb4ef3cc4b6354011994b89930d75773800c7ed4fce73e7c98f2e39e7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04be250477ae850375d045461109cbf21c999c8a2c3ea4786188ab86eab66fae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65a8b797ff00423ba37c579ba53ea3b0ae561944487a73d6939655449181f19d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5ee86cafc1e0b5b77df70c6ec707c9e6a01589afd34df012830bfa988db2048.jpg",
+        "intro": "A Place Where Your Pok\u00e9mon Can Gather",
+        "description": "Pok\u00e9mon\u2122 HOME is a cloud service for the Nintendo Switch\u2122 system and compatible mobile devices designed as a place where all Pok\u00e9mon can gather. By linking the same Nintendo Account to both the Nintendo Switch version and mobile version of Pok\u00e9mon HOME, you\u2019ll be able to access the same Pok\u00e9mon Boxes on both versions. With Pok\u00e9mon HOME you can move Pok\u00e9mon between compatible games, trade Pok\u00e9mon on the go, and more! You can also purchase a subscription to the Pok\u00e9mon HOME Premium Plan for more features.\n\nWith Pok\u00e9mon HOME, you can manage your collection of Pok\u00e9mon across multiple games. Gathering your Pok\u00e9mon is just the beginning\u2014you can trade with friends or with anyone around the world directly using the Pok\u00e9mon HOME mobile app. A subscription to the Premium Plan gives the ability to transfer Pok\u00e9mon from Pok\u00e9mon Bank expands the number of Pok\u00e9mon that can be deposited from 30 to 6,000, expands the number of Pok\u00e9mon that can be placed in the Wonder Box and GTS at one time (mobile version only), allows you to host your own Room Trades (mobile version only), and gives you the Judge function right within Pok\u00e9mon HOME. ",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 741343232
     },
     "70010000028643": {
         "id": null,
