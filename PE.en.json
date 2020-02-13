@@ -2168,7 +2168,7 @@
             "zh",
             "zh"
         ],
-        "size": 12172918784
+        "size": 12404654080
     },
     "70010000008109": {
         "id": "0100AA400A238000",
@@ -9705,19 +9705,20 @@
     "70050000013006": {
         "id": "010055D009F79001",
         "rightsId": null,
-        "name": "Additional Story Content +",
+        "name": "Side Story: Cindered Shadows",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20200430,
+        "releaseDate": 20200212,
         "nsuId": 70050000013006,
         "category": null,
         "ratingContent": [
             "Blood",
             "Suggestive Themes",
             "Violence",
-            "Users Interact"
+            "Users Interact",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": null,
         "rating": 13,
@@ -9726,11 +9727,11 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ccb789c2dc8618a0163a9ba6eaed9ecd9be0b4e485baa2355bb656da852a3c9d.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e42ffc6acdbbf8b983f81e382e02828d584005896376ab4a43d145627e8379f4.jpg",
         "intro": null,
-        "description": "Discover new story content, with additional playable characters, locations and more will be released by 4/30/2020; plus, another free update.",
+        "description": "A multiple-chapter story separate from the main game, featuring all-new additional characters, locations and battlefields.\n\nYou can start Cindered Shadows from Side Story on the title screen, regardless of your progress in the main game. You can choose from Normal or Hard difficulty (Maddening difficulty is not available). There are three save slots available for the side story, independent from those of the main game. There's also a separate autosave for the side story.\nIf you want to pick up from where you left off, select Continue from the title screen as normal. You can then use the ZL and ZR Buttons to toggle between the main game and side story data. \n\nIn addition, the following content will be unlocked in the main game as you progress in the side story:\n-\tA new area of the Monastery to explore\n*Talk to the Shifty Merchant near your personal quarters.\n-\tNew recruitable characters in the Monastery\n*These characters can only be recruited during the first part of the game.\n-\tQuests, activities, character classes, Paralogues involving the new characters, new support conversations, and more!\n-\tA new costume for Anna (the Tricky Merchant outfit) for Expansion Pass holders",
         "languages": null,
-        "size": 4194304
+        "size": 433061888
     },
     "70050000013007": {
         "id": "010055D009F79003",
@@ -9760,7 +9761,7 @@
         "intro": null,
         "description": "Auxiliary battle maps and a new music option have been added.\nThe following auxiliary battle maps have been added:\nBattle at Lake Teutates\nBattle in the Forest\nBattle in the Plains\nBattle at the Sealed Forest\nBattle at Conand Tower\nDepending on your progress, one auxiliary battle map will be displayed on the battle-selection screen.\nThese new auxiliary battle maps will have a yellow \"!\" icon on the battle-selection screen. In them you will be able to obtain bullion, as well as stat-boosting items such as Ailell Pomegranate.\nYou will also receive more gold as a reward from these special maps.\nYou can challenge any map by spending one activity point.\nThe new music option (\"Corridor of the Tempest\") can be selected from \"Battle Music\" within \"General\" on the system menu while in an auxiliary battle.\nYou can also listen to it in the Music Library.",
         "languages": null,
-        "size": 17825792
+        "size": 560988160
     },
     "70050000013008": {
         "id": "010055D009F79004",
@@ -9820,7 +9821,7 @@
         "intro": null,
         "description": "DLC Wave 3: Released on 11/7/2019\nNew costumes (servants wear, summer attire, evening wear) have been released.\nThese can be worn by both the protagonist and their students. Costumes can be changed via your Journal in the Monastery.\n\nFirst set\nNew attire (Glasses for the protagonist, House Loungewear) has been released.\nHouse Loungewear is for the protagonist and for student characters. It can be changed into from your Personal Quarters and will only be displayed in battle for certain classes. The classes for which the attire will be displayed in battle change depending on the character. Additionally, the attire change will not display for characters sent out as travelers.\nThe Glasses for the protagonist are an accessory that can be combined with any other outfit. The accessory can be selected from your Personal Quarters. If equipped, Glasses will be displayed on your player character at the monastery and in battle.",
         "languages": null,
-        "size": 49283072
+        "size": 133169152
     },
     "70050000013066": {
         "id": "010055D009F79005",
@@ -14737,9 +14738,9 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ed2194aa5ca7ecfe6e3d9e2ba60f99dfe2e2c417cd199292e793fd26d24b018e.jpg",
         "intro": null,
-        "description": "A set including the Fire Emblem: Three Houses game as well as the Fire Emblem: Three Houses Expansion Pass which will allow you access to all downloadable content once it is released.\n\n\u25cfFire Emblem: Three Houses\n\nThree regions dominate the continent of F\u00f3dlan: Adrestia, Faerghus, and Leicester. At the Officers Academy, the politics of the continent are played out in miniature. Three Houses are led by the future rulers of the three territories. In this tactical role-playing title, you assume the role of a professor of the students of the Officers Academy, instructing them in the classroom and leading them to victory on the field of battle. The two-part story sees your charges come of age in turbulent times as all of F\u00f3dlan is enveloped by war. The second part of the story diverges into three arcs depending on which house you teach. Your decisions will shape the future of F\u00f3dlan.\n\n\u25cfExpansion Pass\n\nThe following DLC is included:\n\n-Additional quests: released on 11/7/2019\nAdditional quests are available. For more information, please see the relevant introductory page for this DLC.\n\n-New Attires\nWave 1: released on 9/10/2019\nWave 2: released on 11/7/2019\nFor more information, please see the relevant introductory pages for this DLC.\n\n-Additional resources: released on 11/7/2019\nAnna can be recruited as part of the expansion pass.\nFor more information, please see the relevant introductory page for this DLC.\n\n-Additional auxiliary battles: released on 9/10/2019\nAdditional auxiliary battles and a new song are available.\nFor more information, please see the relevant introductory page for this DLC.\n\n-Support items: released on 9/10/2019\nThe Sacred Items set of support items is available.\nFor more information, please see the relevant introductory page for this DLC.\n\n-Academy Uniform for protagonist: released on 7/26/2019\nA new clothing option for the protagonist to is available.\nFor more information, please see the relevant introductory page for this DLC.\n\n-Additional storyline: Scheduled for release by 4/20/2020\nA storyline spanning several chapters and separate from that of the main game, with new characters, locations, and battles.\n",
+        "description": "A set including the Fire Emblem: Three Houses game as well as the Fire Emblem: Three Houses Expansion Pass which will allow you access to all downloadable content once it is released.\n\n\u25cfFire Emblem: Three Houses\n\nThree regions dominate the continent of F\u00f3dlan: Adrestia, Faerghus, and Leicester. At the Officers Academy, the politics of the continent are played out in miniature. Three Houses are led by the future rulers of the three territories. In this tactical role-playing title, you assume the role of a professor of the students of the Officers Academy, instructing them in the classroom and leading them to victory on the field of battle. The two-part story sees your charges come of age in turbulent times as all of F\u00f3dlan is enveloped by war. The second part of the story diverges into three arcs depending on which house you teach. Your decisions will shape the future of F\u00f3dlan.\n\n\u25cfExpansion Pass\n\nThe following DLC is included:\n\n-Side Story: Cindered Shadows: released on 02/12/2020\nFeaturing a storyline spanning several chapters and separate from that of the main game, with all-new characters, locations and battles.\n\n-Additional quests: released on 11/7/2019\nAdditional quests are available. For more information, please see the relevant introductory page for this DLC.\n\n-New Attires\nWave 1: released on 9/10/2019\nWave 2: released on 11/7/2019\nFor more information, please see the relevant introductory pages for this DLC.\n\n-Additional resources: released on 11/7/2019\nAnna can be recruited as part of the expansion pass.\nFor more information, please see the relevant introductory page for this DLC.\n\n-Additional auxiliary battles: released on 9/10/2019\nAdditional auxiliary battles and a new song are available.\nFor more information, please see the relevant introductory page for this DLC.\n\n-Support items: released on 9/10/2019\nThe Sacred Items set of support items is available.\nFor more information, please see the relevant introductory page for this DLC.\n\n-Academy Uniform for protagonist: released on 7/26/2019\nA new clothing option for the protagonist to is available.\nFor more information, please see the relevant introductory page for this DLC.\n\n-Additional storyline: Scheduled for release by 4/20/2020\nA storyline spanning several chapters and separate from that of the main game, with new characters, locations, and battles.\n",
         "languages": null,
-        "size": 12268339200
+        "size": 13555990528
     },
     "70070000007061": {
         "id": null,

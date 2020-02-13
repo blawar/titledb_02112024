@@ -2168,7 +2168,7 @@
             "zh",
             "zh"
         ],
-        "size": 12172918784
+        "size": 12404654080
     },
     "70010000008109": {
         "id": "0100AA400A238000",
@@ -9705,19 +9705,20 @@
     "70050000013006": {
         "id": "010055D009F79001",
         "rightsId": null,
-        "name": "Historia adicional +",
+        "name": "Historia adicional: En la boca del lobo",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20200430,
+        "releaseDate": 20200212,
         "nsuId": 70050000013006,
         "category": null,
         "ratingContent": [
             "Sangre",
             "Temas insinuantes",
             "Violencia",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 13,
@@ -9726,11 +9727,11 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/20b432d5ef1c3384b5fd1b192a3cedd79f56fefb715639d339d9076f6f803d50.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e42ffc6acdbbf8b983f81e382e02828d584005896376ab4a43d145627e8379f4.jpg",
         "intro": null,
-        "description": "Descubre una nueva historia, con nuevos personajes jugables, nuevas ubicaciones y m\u00e1s que estar\u00e1n disponibles el 30/4/2020. Adem\u00e1s, se llevar\u00e1 a cabo una actualizaci\u00f3n gratuita. ",
+        "description": "Esta historia independiente del juego original consta de varios cap\u00edtulos e incluye nuevos personajes, localizaciones y mapas.\n\nAl margen de tu progreso en el juego principal, podr\u00e1s disfrutar de \"En la boca del lobo\" en cualquier momento desde la opci\u00f3n \"Historia adicional\" del men\u00fa principal tanto en nivel de dificultad normal como dif\u00edcil (no est\u00e1 disponible en nivel extremo). Esta nueva historia dispone de tres archivos de guardado separados de los del juego principal, as\u00ed como de una funci\u00f3n independiente de autoguardado. Para continuar la partida desde el punto en el que la dejaste, selecciona \"Continuar\" en el men\u00fa principal y utiliza los botones ZL y ZR para cambiar entre los datos del juego principal y de la historia adicional.\n\nAdem\u00e1s, a medida que progreses en la historia adicional, se desbloquear\u00e1 el siguiente contenido en el juego principal:\n- Una nueva zona del monasterio\n(Deber\u00e1s hablar con el mercader sospechoso ubicado cerca de tus aposentos.)\n- Nuevos personajes reclutables en el monasterio\n(Solo se podr\u00e1n reclutar durante el primer arco del juego.)\n- Nuevas peticiones, actividades, clases para los personajes, desv\u00edos centrados en los nuevos personajes, conversaciones de apoyo... \u00a1y mucho m\u00e1s!\n- El atuendo de mercader guerrera para Anna, exclusivo para los compradores del pase de expansi\u00f3n",
         "languages": null,
-        "size": 4194304
+        "size": 433061888
     },
     "70050000013007": {
         "id": "010055D009F79003",
@@ -9760,7 +9761,7 @@
         "intro": null,
         "description": "Se han incorporado mapas de batallas opcionales y una nueva opci\u00f3n de banda sonora.\nLos siguientes mapas de batallas opcionales han sido a\u00f1adidos:\nBatalla en el lago Teutates\nEscaramuza en el bosque\nPelea en las llanuras\nPugna en el Bosque Vedado\nBatalla en la Torre Conand\nDependiendo de tu progreso, un mapa de batalla opcional se mostrar\u00e1 en el men\u00fa de selecci\u00f3n de batalla.\nEstos nuevos mapas de batallas opcionales tendr\u00e1n el s\u00edmbolo \"!\" de color amarillo en el men\u00fa de selecci\u00f3n de batalla. En ellos podr\u00e1s obtener lingotes, as\u00ed como mejoradores de estad\u00edsticas como la Granada de Ailell.\nEn estos mapas especiales tambi\u00e9n recibir\u00e1s m\u00e1s oro como recompensa.\nPodr\u00e1s enfrentarte a cualquier mapa con tan solo gastar un punto de actividad.\nLa nueva opci\u00f3n musical (\"El pasadizo de las tempestades\") puede seleccionarse desde \"M\u00fasica de las batallas opcionales\" dentro del men\u00fa \"General\" en el men\u00fa del sistema mientras est\u00e9s en una batalla opcional.\nEstar\u00e1 disponible tambi\u00e9n en la Galer\u00eda de m\u00fasica.",
         "languages": null,
-        "size": 17825792
+        "size": 560988160
     },
     "70050000013008": {
         "id": "010055D009F79004",
@@ -9820,7 +9821,7 @@
         "intro": null,
         "description": "Ola 3 de contenido descargable: Fecha de lanzamiento 07/11/2019\nSe han lanzado nuevos atuendos veraniegos, vespertinos y del servicio.\nEstos los pueden lucir tanto el protagonista como sus estudiantes. Los atuendos se pueden cambiar en el diario de tus aposentos en el monasterio.\n\nPrimer set\nNuevo atuendo (lentes para el protagonista, ropa c\u00f3moda) ha sido lanzado.\nLa ropa c\u00f3moda es para el protagonista y para los personajes estudiantes. Se pueden cambiar desde Mis aposentos y solo se mostrar\u00e1 en la batalla para ciertas clases. Las clases para las que se mostrar\u00e1 el atuendo en la batalla cambian seg\u00fan el personaje. Adem\u00e1s, el cambio de atuendo no se mostrar\u00e1 para los personajes enviados como viajeros. Las lentes para el protagonista es un accesorio que puede ser combinado con cualquier otro atuendo. Puedes seleccionar el accesorio desde Mis aposentos. Si los equipas, estos se mostrar\u00e1n en tu personaje en el monasterio y en el combate.",
         "languages": null,
-        "size": 49283072
+        "size": 133169152
     },
     "70050000013066": {
         "id": "010055D009F79005",
@@ -14712,9 +14713,9 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1f175f198c11505ff0263aba74ef28bbaf32bff55890a3920f84c69890e51494.jpg",
         "intro": null,
-        "description": "El set que incluye el juego Fire Emblem: Three Houses as\u00ed como el pase de expansi\u00f3n del juego Fire Emblem: Three Houses, te dar\u00e1 acceso a todo el contenido descargable una vez que este sea lanzado. \n\n\u25cfFire Emblem: Three Houses\n\nTres regiones dominan el continente de F\u00f3dlan: Adrestia, Faerghus y Leicester. En la Academia de Oficiales las pol\u00edticas del continente se manejan a menor escala. Tres casas son lideradas por los futuros gobernantes de los tres territorios. En este t\u00e1ctico juego de rol, asumir\u00e1s el papel de un profesor en la Academia de Oficiales, les ense\u00f1ar\u00e1s en el aula y los llevar\u00e1s a la victoria en el campo de batalla. Esta historia dividida en dos partes muestra la evoluci\u00f3n de tus alumnos en tiempos turbulentos, mientras que en todo F\u00f3dlan estalla la guerra. La segunda parte de la historia se ramifica en tres relatos, dependiendo de la casa en la que ense\u00f1as. Tus decisiones formar\u00e1n el futuro de F\u00f3dlan.\n\n\u25cfPase de expansi\u00f3n\n\nSe incluye el siguiente contenido descargable:\n\n-Peticiones adicionales: Fecha de lanzamiento 07/11/2019\nHay peticiones adicionales disponibles. Para obtener m\u00e1s informaci\u00f3n, consulta la p\u00e1gina pertinente a este contenido descargable.\n\n-Nuevos atuendos\nOla 1: Fecha de lanzamiento 10/09/19\nOla 2: Fecha de lanzamiento 07/11/19 \nPara obtener m\u00e1s informaci\u00f3n, consulta la p\u00e1gina pertinente a este contenido descargable.\n\n-Recursos adicionales: Fecha de lanzamiento 07/11/19\nComo parte del pase de expansi\u00f3n es posible reclutar a Anna.\nPara obtener m\u00e1s informaci\u00f3n, consulta la p\u00e1gina pertinente a este contenido descargable.\n\n-Batallas opcionales adicionales: Fecha de lanzamiento 10/09/19\nHay disponibles batallas opcionales adicionales y una nueva canci\u00f3n.\nPara obtener m\u00e1s informaci\u00f3n, consulta la p\u00e1gina pertinente a este contenido descargable.\n\n-Provisiones adicionales: Fecha de lanzamiento 10/09/19 \nEl lote de objetos sacros est\u00e1 disponible.\nPara obtener m\u00e1s informaci\u00f3n, consulta la p\u00e1gina pertinente a este contenido descargable.\n\n-Uniforme de la Academia para el personaje protagonista: Fecha de lanzamiento 26/07/19\nUna nueva opci\u00f3n de atuendo para el personaje protagonista est\u00e1 disponible.\nPara obtener m\u00e1s informaci\u00f3n, consulta la p\u00e1gina pertinente a este contenido descargable.\n\n-Historia adicional: Fecha de lanzamiento:20/04/20 \nUna historia que se desarrolla de manera separada a la historia principal (en varios cap\u00edtulos), incluye nuevos personajes y lugares y batallas. \n-Historia adicional: Fecha de lanzamiento:20/04/20 \nUna historia que se desarrolla de manera separada a la historia principal (en varios cap\u00edtulos), incluye nuevos personajes y lugares y batallas. ",
+        "description": "El set que incluye el juego Fire Emblem: Three Houses as\u00ed como el pase de expansi\u00f3n del juego Fire Emblem: Three Houses, te dar\u00e1 acceso a todo el contenido descargable una vez que este sea lanzado. \n\n\u25cfFire Emblem: Three Houses\n\nTres regiones dominan el continente de F\u00f3dlan: Adrestia, Faerghus y Leicester. En la Academia de Oficiales las pol\u00edticas del continente se manejan a menor escala. Tres casas son lideradas por los futuros gobernantes de los tres territorios. En este t\u00e1ctico juego de rol, asumir\u00e1s el papel de un profesor en la Academia de Oficiales, les ense\u00f1ar\u00e1s en el aula y los llevar\u00e1s a la victoria en el campo de batalla. Esta historia dividida en dos partes muestra la evoluci\u00f3n de tus alumnos en tiempos turbulentos, mientras que en todo F\u00f3dlan estalla la guerra. La segunda parte de la historia se ramifica en tres relatos, dependiendo de la casa en la que ense\u00f1as. Tus decisiones formar\u00e1n el futuro de F\u00f3dlan.\n\n\u25cfPase de expansi\u00f3n\n\nSe incluye el siguiente contenido descargable:\n\n-Historia adicional: En la boca del lobo: Fecha de lanzamiento 12/02/2020\nEsta l\u00ednea argumental incluir\u00e1 nuevos personajes, lugares y campos de batalla. Se dividir\u00e1 en varios cap\u00edtulos separados de la trama principal del juego.\n\n-Peticiones adicionales: Fecha de lanzamiento 07/11/2019\nHay peticiones adicionales disponibles. Para obtener m\u00e1s informaci\u00f3n, consulta la p\u00e1gina pertinente a este contenido descargable.\n\n-Nuevos atuendos\nOla 1: Fecha de lanzamiento 10/09/19\nOla 2: Fecha de lanzamiento 07/11/19 \nPara obtener m\u00e1s informaci\u00f3n, consulta la p\u00e1gina pertinente a este contenido descargable.\n\n-Recursos adicionales: Fecha de lanzamiento 07/11/19\nComo parte del pase de expansi\u00f3n es posible reclutar a Anna.\nPara obtener m\u00e1s informaci\u00f3n, consulta la p\u00e1gina pertinente a este contenido descargable.\n\n-Batallas opcionales adicionales: Fecha de lanzamiento 10/09/19\nHay disponibles batallas opcionales adicionales y una nueva canci\u00f3n.\nPara obtener m\u00e1s informaci\u00f3n, consulta la p\u00e1gina pertinente a este contenido descargable.\n\n-Provisiones adicionales: Fecha de lanzamiento 10/09/19 \nEl lote de objetos sacros est\u00e1 disponible.\nPara obtener m\u00e1s informaci\u00f3n, consulta la p\u00e1gina pertinente a este contenido descargable.\n\n-Uniforme de la Academia para el personaje protagonista: Fecha de lanzamiento 26/07/19\nUna nueva opci\u00f3n de atuendo para el personaje protagonista est\u00e1 disponible.\nPara obtener m\u00e1s informaci\u00f3n, consulta la p\u00e1gina pertinente a este contenido descargable.\n\n-Historia adicional: Fecha de lanzamiento:20/04/20 \nUna historia que se desarrolla de manera separada a la historia principal (en varios cap\u00edtulos), incluye nuevos personajes y lugares y batallas. \n-Historia adicional: Fecha de lanzamiento:20/04/20 \nUna historia que se desarrolla de manera separada a la historia principal (en varios cap\u00edtulos), incluye nuevos personajes y lugares y batallas. ",
         "languages": null,
-        "size": 12268339200
+        "size": 13555990528
     },
     "70070000007061": {
         "id": null,
