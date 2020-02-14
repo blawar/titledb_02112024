@@ -5584,7 +5584,12 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4a320d37cd85f49d6e4a675b6d7b82f5ad13ae10b212d5b220fe4208c7d7c2f8.jpg",
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7fc07891c0afe606c5c26f7d89252798ff2495d45d8d97e91041f38347cd0805.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f6f96d8f546c594ee71baad78f0bc13db7a8cad04096138daff49712b5366c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2f6a5666f8421a74cb4f31d41a91abcb0dd90fc9a9495b985b182358e6ab9c3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/13cbcaf110c837563e279a0361e1f2f07c12d99e301681980a0e11d7937a50ad.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a.jpg",
         "intro": "Beloved franchise Animal Crossing gets ready for its Nintendo Switch debut!",
         "description": "If the hustle and bustle of modern life\u2019s got you down, Tom Nook has a new business venture up his sleeve that he knows you\u2019ll adore: the Nook Inc. Deserted Island Getaway Package! Sure, you\u2019ve crossed paths with colorful characters near and far. Had a grand time as one of the city folk. May\u2019ve even turned over a new leaf and dedicated yourself to public service! But deep down, isn\u2019t there a part of you that longs for\u2026freedom? Then perhaps a long walk on the beach of a deserted island, where a rich wealth of untouched nature awaits, is just what the doctor ordered!\n\nPeaceful creativity and charm await as you roll up your sleeves and make your new life whatever you want it to be. Collect resources and craft everything from creature comforts to handy tools. Embrace your green thumb as you interact with flowers and trees in new ways. Set up a homestead where the rules of what goes indoors and out no longer apply. Make friends with new arrivals, enjoy the seasons, pole-vault across rivers as you explore, and more!\n\nThis new addition to the Animal Crossing series launches March 20, 2020, exclusively for the Nintendo Switch system.\n\nFeatures\n\u2022  Customize your character and home, and decorate the landscape (with furniture, if you like!), as you create your very own island paradise.\n\u2022  Experience a robust new crafting system\u2014collect materials to construct everything from furniture to tools!\n\u2022  Enjoy a variety of relaxing activities like gardening, fishing, decorating, interacting with charming NPCs, and more, as classic Animal Crossing experiences come to life in fun new ways within the deserted-island setting.\n",
@@ -5609,7 +5614,7 @@
             "Other"
         ],
         "ratingContent": [
-            "In-Game Purchases"
+            "In-App Purchases"
         ],
         "numberOfPlayers": 1,
         "rating": 6,
