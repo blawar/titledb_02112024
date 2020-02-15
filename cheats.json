@@ -3133,9 +3133,17 @@
                 "source": "04000000 0067209C 1E2E1008",
                 "title": "[Chance de atualizacao de gema lendaria 100%]"
             },
+            "58d9e317ee30d7f1331fb03622d29bc9b87d3e01bf4dd74bcafc7840aac6994b": {
+                "source": "04000000 00C1F340\n7100027F 04000000\n00C1F344 54000081\n04000000 00C1F348\nD2A00EC0 04000000\n00C1F34C F295BE20\n04000000 00C1F350\nF8296900 04000000\n00C1F354 F8696900\n04000000 00C1F358\nD65F03C0 04000000\n0046B778 941ECEF2",
+                "title": "[Money]"
+            },
             "5f0483e899662f3b5caa74ac4ed7848dbf807f0fd78a9454d6804866c4d372ee": {
                 "source": "04000000 00C419BC 41200000\n04000000 00C419A0 1281F7C2\n04000000 00C419A4 6B02003F\n04000000 00C419A8 54000040\n04000000 00C419AC 17E8B5C5\n04000000 00C419B0 1000000A\n04000000 00C419B4 BD400D40\n04000000 00C419B8 D65F03C0\n04000000 00458A88 141FA3C6",
                 "title": "[Taxa de aquisicao de itens magicos Mais 1000%]"
+            },
+            "638dd00a9c8738baec87a774a877ecd9c8101f94c92a197d261706b7c1b11c8a": {
+                "source": "04000000 00C1E100\nB9403801 04000000\n00C1E104 12800002\n04000000 00C1E108\n6B02003F 04000000\n00C1E10C 54000040\n04000000 00C1E110\nB900071F 04000000\n00C1E114 BD400701\n04000000 00C1E118\nD65F03C0 04000000\n008C0800 940D7640",
+                "title": "[Inf HP]"
             },
             "83238d65fca239cf2c69b424fa0927291364d415d25ceb501a3c7633205da6f5": {
                 "source": "04000000 004D6B3C D503201F",
@@ -3169,6 +3177,10 @@
                 "source": "04000000 00752BEC 2A1F03F9\n04000000 00752E4C 2A1F03F9",
                 "title": "[Fechar Recompensa de atualizacao de gema lendaria]"
             },
+            "b43bd46c9b22d06664ccea94c72478088ef33f9d47c478c6438bcc196fb69bc4": {
+                "source": "04000000 003F6A70\n1E283908",
+                "title": "[Inf Skill Guage]"
+            },
             "b91a8c6590b0e2bb8f2d24383d85570940ccc9421b9ee8f79618b091e4125e99": {
                 "source": "04000000 00458A88 1408598E",
                 "title": "[Desative a taxa de aquisicao de itens magicos]"
@@ -3181,6 +3193,10 @@
                 "source": "04000000 004DF104 5293A509",
                 "title": "[Fecha Estilhaco Pedra Sangrenta 500]"
             },
+            "bfc8f82be325e21b830d874657ea8c39d08fd4f1934c7f745e00d833d020b932": {
+                "source": "04000000 00C1E180\n5293A509 04000000\n00C1E184 7100067F\n04000000 00C1E188\n54000061 04000000\n00C1E18C D2803E80\n04000000 00C1E190\nF8296900 04000000\n00C1E194 D65F03C0\n04000000 0046AFF4\n941ECC63",
+                "title": "[Blood Fragment 500]"
+            },
             "c3e60a2873a42eb3c37b9a2f4d411eed2c919440cc78bc67acd6a7df4bc0a7f2": {
                 "source": "04000000 00776C10 8B010FF4",
                 "title": "[8x Experiencia ]"
@@ -3192,6 +3208,10 @@
             "ce634e63ef63080a604fe8192dd499eb6a9ddc2117d425cb116be6a947fa23a6": {
                 "source": "04000000 00C419BC 461C4000\n04000000 00C419A0 1281F7C2\n04000000 00C419A4 6B02003F\n04000000 00C419A8 54000040\n04000000 00C419AC 17E8B5C5\n04000000 00C419B0 1000000A\n04000000 00C419B4 BD400D40\n04000000 00C419B8 D65F03C0\n04000000 00458A88 141FA3C6",
                 "title": "[Taxa de aquisicao de itens magicos Mais 1000000%]"
+            },
+            "d61bc7b8ee66ff02a8e9851369310a436e017b34f217e0c355d8a5d8d3cc257b": {
+                "source": "04000000 00C1E1A0\n9B280268 04000000\n00C1E1A4 5293A509\n04000000 00C1E1A8\n7100027F 04000000\n00C1E1AC 540000A0\n04000000 00C1E1B0\n7100067F 04000000\n00C1E1B4 54000060\n04000000 00C1E1B8\nD2806120 04000000\n00C1E1BC F8296900\n04000000 00C1E1C0\nD65F03C0 04000000\n0046AFF0 941ECC6C",
+                "title": "[All Material 777]"
             },
             "e03b3478e8f587d046c5383f90708a8da591acfe74e1e2d3380499fa63b17fcb": {
                 "source": "04000000 0085A460 D101C3FF",
@@ -9464,6 +9484,128 @@
             "ffab1abed3d24e4d37931a7b8ae84a8bc14f97bd421780671ce121fccac04952": {
                 "source": "02000000 019FC0BA 0000ADD4",
                 "title": "[Professor Level A+]"
+            }
+        },
+        "89048449BA238C8C": {
+            "0064b0084fd25bc4d4fa09f12f8f459262dc64f25edb65941dfb975854628918": {
+                "source": "04000000 003EAFB8 4B1F014A",
+                "title": "[Unlimited Materials]"
+            },
+            "04c804740e0330bd37b1b0cb5d1c09425603e9b84c3cb6b9fbd0af5340315215": {
+                "source": "04000000 003EAF88 0B02094A",
+                "title": "[Materials x4]"
+            },
+            "12450744b552beac339f13eaf7b81e993ad89d2de45e15896831fe80caafeda2": {
+                "source": "04000000 0041164C 0B02054A\n04000000 00404DB4 0B020529",
+                "title": "[Skill points x2]"
+            },
+            "162eaa62fb2c368249292bfde834e817391a1fdcf3a6f8b1b6447611f265d3cd": {
+                "source": "581F0000 00000010\n780F0000 AE770BF0\n300E0000 00000046\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n310E0000 20000000\n581F0000 000AA010\n780F0000 AE770BF0\n300E0000 00000046\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n310E0000 20000000",
+                "title": "[Unlock All EXTRA On]"
+            },
+            "1988bb384645f9288aa35a2a61c5bad50ee731d9b6318bf951702f76f3506b41": {
+                "source": "80000040\n04000000 000B08C0 1A88B100\n20000000",
+                "title": "[Move Max\u00ef\u00bc\u02c6L on\u00ef\u00bc\u2030]"
+            },
+            "25dcdb06ec4b5e83c4b2d3c2ff5d2d998f9b019e72322152c4d6f081e890c003": {
+                "source": "04000000 00411428 0B011129",
+                "title": "[Exp x16]"
+            },
+            "26075f2f134e05f150e86f6566b1ffe9056fa6a89060a4dcead2e6cc850f3816": {
+                "source": "010A0000 01ABF510 00000007",
+                "title": "[Infinite Divine]"
+            },
+            "296598a194a98e84e780f64b036f74b802a6bcaf42237f6cde6ff82aea27de2d": {
+                "source": "04000000 00411428 0B010529",
+                "title": "[Exp x2]"
+            },
+            "35f3e3e0234c395b61607ed965389cbdbe7607b811b76458799d06383ac20a3a": {
+                "source": "04000000 0041164C 0B02114A\n04000000 00404DB4 0B021129",
+                "title": "[Skill points x16]"
+            },
+            "49761270426a518749be88c5a2c0d94ea3b5919ce562791a3a62fc5eff69cd32": {
+                "source": "04000000 003D4AE4 0B020D29",
+                "title": "[Class Mastery exp x8]"
+            },
+            "5a4e15adf242945006f703cf9cc0792c0fb3005890a7f131039748b98e4adb20": {
+                "source": "04000000 00411428 0B010929",
+                "title": "[Exp x4]"
+            },
+            "5c214afc19e7c9bcad594aa81d319b3002c0609166d3c5dd605699863b652884": {
+                "source": "04000000 0041164C 0B020D4A\n04000000 00404DB4 0B020D29",
+                "title": "[Skill points x8]"
+            },
+            "7194fb9cf3b49ca57b711f192cba6fda63d8d28e93ad1fcf0694f50bdb927406": {
+                "source": "580F0000 01B12190\n780F0000 00000723\n300E0000 0000003C\n620F0000 00000000 00000000\n780F0000 0000024C\n310E0000 20000000",
+                "title": "[Infinite Qualification Exam]"
+            },
+            "7635acf9776f6330207c351524298c450f9ec94d667dd1ed09de7b9fa115e2ab": {
+                "source": "04000000 003DFCB4 1A883108\n04000000 003DFCD4 1A883108\n04000000 003DFCF4 1A883108\n04000000 003DFD14 1A883108\n04000000 003DFD34 1A883108",
+                "title": "[Class Restrictions Lifted]"
+            },
+            "7ab744921dcade20c25e1e47b0c959de298b750c850da609fefb511a53b5a75a": {
+                "source": "04000000 003D4AE4 0B020529",
+                "title": "[Class Mastery exp x2]"
+            },
+            "7e535c7f28feb10cc23b630e52a1c83c9521910f24fbcc5559b5fd5984db4849": {
+                "source": "80000100\n04000000 000B08C0 1A9FB3E0\n20000000",
+                "title": "[Press ZL enemy wont move]"
+            },
+            "8c412463f6bfc021d8d4de23efc60bf77198a5574d3bb9fbc0e5c56826a4218a": {
+                "source": "04000000 003EAF88 0B020D4A",
+                "title": "[Materials x8]"
+            },
+            "9aef3e76f4a92c6829240ee4bc4591467ae03275c80a2d15c91e64cdce48d378": {
+                "source": "800000C0\n58000000 01ACA288\n58001000 00021068\n78000000 000000D6\n61000000 00000000 00000003\n20000000",
+                "title": "[Move again press L+R on Character]"
+            },
+            "aa1208e1caba39e5b0b9fea51ec99a80b15d2daa3d2d9425695dd761ca323a9b": {
+                "source": "58000000 01B12190\n78000000 000250EF\n61001000 00000000 0000000A\n62000000 00000000 00000307",
+                "title": "[Action Points Max]"
+            },
+            "aaa8e21641fa24a3c5428effdb5af719268f8e5e7886525c30f5bb2f2537cf23": {
+                "source": "04000000 003D4AE4 0B020929",
+                "title": "[Class Mastery exp x4]"
+            },
+            "b387b116789bfb1e5070b9c09195f801a862031a4d748399b1b326cf3ed3f842": {
+                "source": "04000000 003D43BC F100251F\n04000000 003D44B8 1A89D539\n04000000 003D4644 1A89D539\n04000000 003D3774 F100271F\n04000000 003D3830 1A93A668\n04000000 003D3A30 1A93A668",
+                "title": "[Level up all stats +1 off]"
+            },
+            "b55ac1ee43476909139d34ca2059392670ea59bf7d9243a2bf66b4dacb477189": {
+                "source": "80000041\n580F0000 01AC0E28\n780F0000 0000004C\n300E0000 00000003\n640F0000 00000000 00000000\n780F0000 00000004\n310E0000\n20000000",
+                "title": "[Critical hit press L+A during battle]"
+            },
+            "b962b30b8453a52eac4cdeb352172ae6725225c31ca79c2c2a7db60324afc813": {
+                "source": "580F0000 01AC0D50\n780F0000 00000002\n300E0000 00000005\n620F0000 00000000 00000064\n780F0000 00000004\n310E0000\n580F0000 01AC0D60\n780F0000 0000000A\n610F0000 00000000 00000000\n580F0000 01AC0D50\n780F0000 00000094\n640F1000 00000000 64646464\n640F1000 00000000 64646464\n640F0000 00000000 00646464",
+                "title": "[Magic Weapon does not diminish]"
+            },
+            "be1b1466a5e3d902487d3ba2355ebea3a7d1f85912ef62248f225543c18518ab": {
+                "source": "04000000 003EE124 6B1F0108",
+                "title": "[Renown/PT]"
+            },
+            "d02b4588fc616acf2bbec8af14377242372fce5e0be962bc335ddd43a9f0bae4": {
+                "source": "04000000 0041164C 0B02094A\n04000000 00404DB4 0B020929",
+                "title": "[Skill points x4]"
+            },
+            "d177ae9f10db8c1718c6aeafde16d9430fa03cafe54ad0cbc2dc3005c5e305d8": {
+                "source": "04000000 003D4AE4 0B021129",
+                "title": "[Class Mastery exp x16]"
+            },
+            "d2532699a8a6f0048e9ff52a5f37dbc4c9c89f4791efa6a5b1fa5d9827945e7b": {
+                "source": "04000000 003EAF20 1A893128",
+                "title": "[Gold Max]"
+            },
+            "d52946c5454c58dcbb23749af377dbfbf8d1bf2197ebb90a96351314a364bc7b": {
+                "source": "04000000 003D43BC F1001D1F\n04000000 003D44B8 11000539\n04000000 003D4644 11000539\n04000000 003D3774 F1001F1F\n04000000 003D3830 11000668\n04000000 003D3A30 11000668",
+                "title": "[Level up all stats +1 on]"
+            },
+            "f044425c7a429079e8d6d9b19c999a9c4466816e72a3cfde3b5b1c1a24349ed0": {
+                "source": "80000080\n04000000 000B08C0 1A88B2E0\n20000000",
+                "title": "[Move Max\u00ef\u00bc\u02c6R off\u00ef\u00bc\u2030]"
+            },
+            "f0d4495026aa618c6b85231961493c96a0c537f58a73201df82aae5aafc2c1e4": {
+                "source": "04000000 00411428 0B010D29",
+                "title": "[Exp x8]"
             }
         },
         "9454F2C47F827602": {
