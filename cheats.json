@@ -4786,6 +4786,32 @@
         }
     },
     "01002BA00D662000": {
+        "324EB3403DD14441": {
+            "0d8d74df7540d35842be488c4d7bc69fca6f00c3f526d5ebe55bdbed45a4f0c8": {
+                "source": "580F0000 04A4D720\n580F1000 00000100\n580F1000 00000020\n580F1000 00000030\n580F1000 000000A8\n580F1000 00000018\n780F0000 00000010\n640F0000 00000000 43480000\n780F0000 00000004\n640F0000 00000000 43480000",
+                "title": "[04# Inf Health]"
+            },
+            "4d8a1b40ad4d0b58cda30650065283135ecefd3f7a6581438f103756044c319f": {
+                "source": "580F0000 049FB760\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000050\n580F1000 000000A8\n580F1000 00000038\n580F1000 00000048\n780F0000 00000010\n640F0000 00000000 449C4000",
+                "title": "[06# Inf Energy]"
+            },
+            "5eb253e0a14c22e3d0bc498a03c59743097500bc5c04608c93e24ee92e3c9307": {
+                "source": "80000008\n580F0000 04A4D720\n580F1000 00000100\n580F1000 00000020\n580F1000 00000030\n580F1000 00000098\n580F1000 00000050\n580F1000 00000050\n780F0000 000000A4\n640F0000 00000000 40800000\n20000000",
+                "title": "[03# Moonjump (press Y)]"
+            },
+            "c9c16b4e902fd0f0ff952acab4be7372ccc9e40a1d76915ca70341ed5696f64b": {
+                "source": "80000002\n580F0000 04A4D720\n580F1000 000000E0\n580F1000 00000020\n580F1000 00000068\n580F1000 00000098\n580F1000 00000050\n580F1000 00000050\n780F0000 0000012C\n640F0000 00000000 42000000\n20000000",
+                "title": "[05# Speed up (pressB)]"
+            },
+            "dfcd9bd92f1e7a6b2f66fdd5518f3744e3d2339c6d98babbdb4a02473785dfa2": {
+                "source": "04000000 0041BABC 1E2E1009",
+                "title": "[02# Affinity - Instant Allied on Update]"
+            },
+            "ec7c21b96b0150834f265d946e7d568888e14949f02ee9d71971fdaec9e263a0": {
+                "source": "04000000 002EA7BC 52800020",
+                "title": "[01# Free Craft]"
+            }
+        },
         "A38595D6DD8F6F4F": {
             "01fad453f2199c906673aa01c24eb3ad405b8af1d02e09b80e3a871215e9702c": {
                 "source": "580F0000 04A4C660\n580F1000 00000100\n580F1000 00000020\n580F1000 00000030\n580F1000 000000A8\n580F1000 00000018\n780F0000 00000010\n640F0000 00000000 43480000\n780F0000 00000004\n640F0000 00000000 43480000",
@@ -10287,6 +10313,146 @@
             }
         }
     },
+    "01005700031AE000": {
+        "CC9ABDFA887F316D": {
+            "075c41d8abbe79c0fd00649f16021f747b5c427e85449da61fc3b64a4c496b30": {
+                "source": "04000000 000240C8 0B161108",
+                "title": "[Weapon Proficiency 16x]"
+            },
+            "0d02e4275886f1111fe7c91dbc67a71e79557951c00ace2588bb725a56c14b78": {
+                "source": "04000000 000240CC 0B171508",
+                "title": "[Skill 32x]"
+            },
+            "0faf5028187931c56927b7318d280aae840f90dd3241b1c0bd276cdf795f3119": {
+                "source": "04000000 000240C8 0B161508",
+                "title": "[Weapon Proficiency 32x]"
+            },
+            "24bbc0ae96c30476464dcadff22285df0af0472ecdcb21e4941e9f283d57f61f": {
+                "source": "04000000 000378D8 8B140108",
+                "title": "[MANA Normal]"
+            },
+            "2a97e918affad3a42904b3eb728c26c54d0e23808168199d9b771b3729480a1e": {
+                "source": "04000000 000B3038 8B000908",
+                "title": "[Money 4x]"
+            },
+            "37e54401c697b0b059ce93946e2343c04266e42d2c97e4eb2e08a814e17e525f": {
+                "source": "04000000 000240CC 0B170D08",
+                "title": "[Skill 8x]"
+            },
+            "396314026b1ef171ade6e2c1f9f5e1c17b7c2fc99643dc43c48a348444edb24c": {
+                "source": "04000000 000B3038 8B000D08",
+                "title": "[Money 8x]"
+            },
+            "4a1442f790d08625a6e0b3a148568f5e2166a52ee5ca3e435f0f5639fe4be91f": {
+                "source": "04000000 000240C8 0B160908",
+                "title": "[Weapon Proficiency 4x]"
+            },
+            "52aa765cb7ea17c631e54837494ec72b0cbec34326c14608b23a34b7631ebdb6": {
+                "source": "04000000 00037BA8 8B130ACA",
+                "title": "[Level Proficiency 4x]"
+            },
+            "5b06ec96b64646969ddff16306721bad5142d60f234787e01b05150ecab0956f": {
+                "source": "04000000 00037BA8 8B1312CA",
+                "title": "[Level Proficiency 16x]"
+            },
+            "5bd86b1fece10fd7be5564f614d38139bff279dc43c44b70e9159103db69b2ef": {
+                "source": "04000000 000377CC 8B141508",
+                "title": "[Experience 32x]"
+            },
+            "5e9e33a98bd2b76171561faa8340ad348ee1fb6724c1dd8ec907f71078f308c2": {
+                "source": "04000000 000377CC 8B141108",
+                "title": "[Experience 16x]"
+            },
+            "6243ac55a68128f62cc31d20da698e6d8da927b6d91ac229a5d4712ba7a46b62": {
+                "source": "04000000 003353D4 8B080948",
+                "title": "[Item Points 4x]"
+            },
+            "68a5d4c8f336721784d11157c56fbb0d39ebb74a580fb966c69f77161c47a229": {
+                "source": "04000000 000D6C40 EB1F0108",
+                "title": "[Inf. SP]"
+            },
+            "78140e1d14212c11b99441ac04c2147865722ab40079ef1b310afd0c335d2cb7": {
+                "source": "04000000 00037BA8 8B130ECA",
+                "title": "[Level Proficiency 8x]"
+            },
+            "a38dfc1bfb1141926367bf76c323be907f4aabe26ada18823d889795574083d4": {
+                "source": "04000000 000B3038 8B001108",
+                "title": "[Money 16x]"
+            },
+            "aa5c07e0f9e9aabf4e91ee3df17bd09170e30568b713e45e4ed6d8038e06b28d": {
+                "source": "04000000 000B1988 D503201F\n04000000 000B1D70 D503201F\n04000000 000B199C D503201F\n04000000 000B1D80 D503201F\n04000000 000B1D90 D503201F",
+                "title": "[Enemies Drop Fragments]"
+            },
+            "ab34d1768637d305ea3539d793baf2574d3a5679e47dcd20a00fd2544399e84f": {
+                "source": "04000000 00024830 0B170908",
+                "title": "[Skill 4x]"
+            },
+            "ba2d92fdf0fcc09295a33b6b75d4382bee2ad4ea6602a3dc0daa991f6249bf01": {
+                "source": "04000000 000378D8 8B141508",
+                "title": "[MANA 32x]"
+            },
+            "bd1c083344aa06865acbcd4b93548ac5ce4b213ccf48a9b1b13810d78b4c6880": {
+                "source": "04000000 003353D4 8B080548",
+                "title": "[Item Points 2x]"
+            },
+            "c3d925f539bdb8e97e6ec451820b25953a75f119f965fc9c24038d595fb19b7f": {
+                "source": "04000000 000B3038 8B001508",
+                "title": "[Money 32x]"
+            },
+            "c5a40f68c6ac25e1cf276165c6b525ecd78abab1d523827d5f4ab3e8650bd951": {
+                "source": "04000000 003F13F0 8B011108\n04000000 003F1418 8B011108\n04000000 003F3B20 0B131129",
+                "title": "[8x Demon Hospital]"
+            },
+            "c819cf823a6bd0f7cb81735bc9941e3da4f4f9559791d84f41b7964a605bbfc4": {
+                "source": "04000000 00037BA8 8B1316CA",
+                "title": "[Level Proficiency 32x]"
+            },
+            "ca2c070eaa4e71fc5478356fa2b5f2ecfac409245876610f09049af985e0f406": {
+                "source": "04000000 000240CC 0B171108",
+                "title": "[Skill 16x]"
+            },
+            "cdb252d5814d76f79141a43b648973cbb6c34527bedca5711986dd8f73488942": {
+                "source": "04000000 00185BA4 52801FE0",
+                "title": "[Maximum Occupancy Limit On]"
+            },
+            "e16a85b18848d04a4f2b999dce8e314e09ca08ae4273ffa4701d8dc28cb837af": {
+                "source": "04000000 0003BB98 1A8AB148",
+                "title": "[Inf. Demonic Revenge]"
+            },
+            "ebb357687794c9ab1ce676e0c33dbb526b1f37d9f40b5ae61a0a8bd8d4007bb9": {
+                "source": "04000000 000377CC 8B140D08",
+                "title": "[Experience 8x]"
+            },
+            "edbd1a7c271c215693e54fd85cfa4d8929e61c231210f614a0f64672c55cdfb3": {
+                "source": "04000000 00185BA4 39451400",
+                "title": "[Maximum Occupancy Limit Off]"
+            },
+            "f407637c18960b0ed293b86cf4367a3993b1e616365dc5b181e30eb8074c7bf9": {
+                "source": "04000000 000377CC 8B140908",
+                "title": "[Experience 4x]"
+            },
+            "f5a246e01568cd63e77488b0c3f38d1b7f954185931272fdf14efe10866aaa99": {
+                "source": "04000000 003353D4 8B080D48",
+                "title": "[Item Points 8x]"
+            },
+            "f81595004ac94dd6d3602d1ab770c614858d453e80d6448373330014c4274911": {
+                "source": "04000000 000240C8 0B160D08",
+                "title": "[Weapon Proficiency 8x]"
+            },
+            "fa37c966d2f38374635d3650da83a01e813ecce449f977712f439bce0e40b1a5": {
+                "source": "04000000 000378D8 8B140908",
+                "title": "[MANA 4x]"
+            },
+            "fc40ce74b18aa36e7610397f0a8e196a369822ca80765559306f199d684bb6a2": {
+                "source": "04000000 000378D8 8B141108",
+                "title": "[MANA 16x]"
+            },
+            "fd9694949ef27de81d1474b9afba80d3cf8f2c456f6e0c82d947baf93d6ff678": {
+                "source": "04000000 000378D8 8B140D08",
+                "title": "[MANA 8x]"
+            }
+        }
+    },
     "0100574002AF4000": {
         "F1546B842FCF9D6C": {
             "09df758dc34cf1af4032e70e431e8f309bfac09c331e5b80aff8ec08b79898d1": {
@@ -12599,9 +12765,21 @@
                 "source": "58000000 21DD0ED8\n58001000 00000028\n58001000 00000018\n58001000 00000040\n58001000 00000018\n78000000 00000044\n64000000 00000000 42C80000",
                 "title": "[Shantae Magic pointer]"
             },
+            "92a59ff26fdbbef2af8299707bcfbb3894d744c7f19af4f0e26cc57b4472711f": {
+                "source": "01020000 009C83FC 0000000C\n04020000 009C840C 00000064\n04020000 009C8410 00000064\n04020000 009C8414 00000064",
+                "title": "[start level - full magic/health - Friends to the end]"
+            },
+            "bb4ca856de447367390316d7632a1001612868a7e62a0a0ed0e3f5339781c55e": {
+                "source": "01010000 009B7CB8 00000096",
+                "title": "[Max Gems - Beach,Ninja,Pj,Officer]"
+            },
             "de50f6ab0a0441659de3c5ee663dda87141ef118ea92b76ebff69f806dc7e46a": {
                 "source": "58000000 21DD0ED8\n58001000 00000028\n58001000 00000018\n58001000 00000008\n58001000 00000470\n78000000 000002E8\n64000000 00000000 42600000",
                 "title": "[Shantae Health Pointer]"
+            },
+            "fce830d961a0ce4e64d210399bf7b0f9a3c8e96d5a911d2e81e7a842aeef8108": {
+                "source": "01010000 009C83E0 00000096\n01010000 009C83E4 00000096\n01010000 009C83E8 00000096",
+                "title": "[Max Gems - Friends to the end]"
             }
         }
     },
@@ -19996,6 +20174,10 @@
             "4e8b82badbe5f89fb6367dda48b266b0c8a0653e8ff3f0dacf14e0d36644f3ca": {
                 "source": "04000000 0078F45C AA0803F5",
                 "title": "[Strike Mode Coin Max after Sell]"
+            },
+            "52ab40c0f8b6801b6c4cebf932f388ef135b102a8516c108a4774eb0c38b8bb7": {
+                "source": "04000000  00B0E190 1E229002",
+                "title": "[hit range 5x grafic bag]"
             },
             "62b2d61dd5f5102b59b476667b0ebfe885639a901d11ac9f0c25e1bec70dfcec": {
                 "source": "04000000 002772B8 D65F03C0",
@@ -29446,6 +29628,18 @@
             }
         }
     },
+    "0100E9A00CB30000": {
+        "0D63B368B4161CAC": {
+            "5530946932a5923d5ce0f8fa4f0f4134180b92de8da930ce50192fbc518b19e1": {
+                "source": "041F0000 195D35D4 0098967F",
+                "title": "[Max Money]"
+            },
+            "5735c1506dbe88de8c209c876056c6e6d0fa8459ed7fd0d9c7d967cadc7b4532": {
+                "source": "041F0000 195D5212 0000270F\n041F0000 1BEBDC04 0000270F",
+                "title": "[Max Gems]"
+            }
+        }
+    },
     "0100EA80032EA00": {
         "AEE6DCCC06D9C05B": {
             "1912aa3309af21a02e19b7c5423d0f19c110c0cbeda492db13c1539ebc1eab01": {
@@ -31480,6 +31674,10 @@
                 "source": "580F0000 059DFED8\n580F1000 00000100\n580F1000 00000030\n580F1000 00000318\n780F0000 0000052C\n640F0000 00000000 00000010",
                 "title": "[No reduction in the use of medicaments]"
             },
+            "513c7b8c9fe157612a6e536838c5e5f2b00b276e32ca855e959985bc83813977": {
+                "source": "580F0000 059D2500\n580F1000 00000030\n580F1000 00000318\n780F0000 00000520\n640F0000 00000000 0098967F",
+                "title": "[Soul points]"
+            },
             "59dd412bbd7bb14052ab4361e4f4d14c3ebf0d16061e3ac54bdc3a1d21cda3c1": {
                 "source": "580F0000 059F24B0\n580F1000 00000670\n580F1000 000000A8\n580F1000 000000D0\n780F0000 0000037C\n640F0000 00000000 44160000",
                 "title": "[Character War Knight HP is not reduced]"
@@ -31488,9 +31686,45 @@
                 "source": "580F0000 059DFED8\n580F1000 00000100\n580F1000 00000030\n580F1000 00000318\n780F0000 00000590\n640F0000 FFFFFFFF B7B1D800",
                 "title": "[No need to wait for the potion]"
             },
+            "6444df756660d28446ad668cf774faca673bdb192d046abc7010588cc0dcc4d3": {
+                "source": "580F0000 059D2500\n580F1000 00000030\n580F1000 00000318\n780F0000 00000528\n640F0000 00000000 000F423F",
+                "title": "[Key of the Fraudster]"
+            },
+            "6ef23476bc6360784c8b4800256be9de6481610b6b3779f863b879ee16161936": {
+                "source": "580F0000 059D2500\n580F1000 00000030\n580F1000 00000318\n780F0000 00000590\n640F0000 00000000 00000000",
+                "title": "[Zero Elixir]"
+            },
+            "7728ed7421fab0162fbbbef8b17fa0a58615b285c3e22d223de556ad229cd6f6": {
+                "source": "580F0000 059D2500\n580F1000 00000030\n580F1000 00000318\n780F0000 00000524\n640F0000 00000000 000F423F",
+                "title": "[Boatman gold coin]"
+            },
+            "77d6cfc1fc91d882da89bd8b309d12e87d9dcdf9ee772ebb2ea7e977edc4ca4b": {
+                "source": "580F0000 059D2500\n580F1000 00000030\n580F1000 00000318\n780F0000 000004AC\n640F0000 00000000 447A0000\n780F0000 00000014\n640F0000 00000000 447A0000",
+                "title": "[Small Assault]"
+            },
+            "893f6d14b308cd199600a77aec0c0498b630165af9043c324682bc3a825ac21d": {
+                "source": "04000000 0051F2D0 1E204020",
+                "title": "[Hat value is not reduced]"
+            },
+            "91a77dec4a4257942583f2a9d4c4ee123efe9aa67199cd32b7b784a0b6f3d5d8": {
+                "source": "04000000 00519428 1E209C00",
+                "title": "[Potion Recovery Max]"
+            },
+            "a2c2575184cd7cba5e1c8c6c91c2bb21728fc715c08417e8a988fb1642b44c0e": {
+                "source": "580F0000 059D2500\n580F1000 00000030\n580F1000 00000318\n780F0000 000004AC\n640F0000 00000000 49742400\n780F0000 00000014\n640F0000 00000000 49742400",
+                "title": "[Extreme promotion]"
+            },
             "beca554902265701ee34201acbe10a39b9beca973df63393c5c7acbde4c2732f": {
                 "source": "580F0000 059F24B0\n580F1000 00000670\n580F1000 000000A8\n580F1000 000000D0\n780F0000 000003A0\n680F0000 461C3C00 461C3C00",
                 "title": "[Character War Knight Infinity Wrath]"
+            },
+            "c2ee6ebd29a1fcf4659e719e3b190db2ccf1ec832906959f05c353014e24c7c5": {
+                "source": "580F0000 059D2500\n580F1000 00000030\n580F1000 00000318\n780F0000 00000494\n640F0000 00000000 00000063\n780F0000 00000098\n640F0000 00000000 00000063",
+                "title": "[Pharmacy 99]"
+            },
+            "f471d37d2cc4af39f8ec6acaf7a6ed1ed103d0e6c27ed4628f200015803de38f": {
+                "source": "04000000 00520B9C 1E204140",
+                "title": "[God anger value is not reduced]"
             }
         }
     },
@@ -31550,9 +31784,17 @@
                 "source": "041F0000 C067B578 0098967F",
                 "title": "[02# GP points MAX]"
             },
+            "221de5abb399917ed19748ef04c78156b85864834437553214a5abe8c88412db": {
+                "source": "04100000 C0648A88 00000063",
+                "title": "[Growth point X99]"
+            },
             "36d45d1b5033f32a52499e8907f6051e8b8e388983acc7a18aa9aacdb38139a8": {
                 "source": "80000010\n02100000 C0648930 0000FFFF\n02100000 C064893C 0000270F\n02100000 C0648940 0000270F\n02100000 C0648944 0000270F\n02100000 C0648948 0000270F\n02100000 C064894C 0000270F\n04100000 C0648964 64646464\n04100000 C0648968 64646464\n04100000 C064896C 00646464\n04100000 C0648970 64646464\n04100000 C0648974 64646464\n20000000",
                 "title": "[03# Status and resistance max (Press LS)]"
+            },
+            "4ec28968755cac04d4fac3175a9e6a9b1dac343e8caf65e940e37205814f88ed": {
+                "source": "041F0000 C066DFE8 0000270F",
+                "title": "[Instant Gelatto PF x9999]"
             },
             "62659b66dbb75c72ce2c763ee921e915ab1a25294cb7592b9ab2b8097b4d4033": {
                 "source": "02100000 C0657060 000003E7\n02100000 C0657078 000003E7\n02100000 C0657090 000003E7\n02100000 C06570A8 000003E7\n02100000 C06570C0 000003E7\n02100000 C06570D8 000003E7\n02100000 C06570F0 000003E7\n02100000 C0657108 000003E7\n02100000 C0657120 000003E7\n02100000 C0657138 000003E7\n02100000 C0657150 000003E7\n02100000 C0657168 000003E7\n02100000 C0657180 000003E7\n02100000 C0657198 000003E7\n02100000 C06571B0 000003E7",
@@ -31561,6 +31803,10 @@
             "63d35946e8a6d7c0818cb2ccb7491922591e4a3d9c8472ebdfa078a02edbab3c": {
                 "source": "041F0000 C0654228 0098967F",
                 "title": "[01# GOLD MAX]"
+            },
+            "89f86916d12f258d3af41253928d33c49b8d9ae6955e34a269e08574be3054f2": {
+                "source": "041F0000 C0654378 05F5E0FF",
+                "title": "[Gold max]"
             },
             "b907ac249aa2a83e1896d426d19c6cc95cfda6c9a60fbc276d2c6385307bb728": {
                 "source": "01100000 C0648938 00000063",
