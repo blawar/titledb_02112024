@@ -2884,7 +2884,7 @@
             "https://img-eshop.cdn.nintendo.net/i/a7665e6bffbb33beee647e4c7008a64a35a34ef0bf781e8375eadaa037609c33.jpg",
             "https://img-eshop.cdn.nintendo.net/i/273a1d5e746e7b9caf2aee225396905b192398f5683e6650d09b90667fdfdecd.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/225a7052c2afa2f9ed685cc316c32ea19bd8a238a967d6e7482820ba5a927512.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d2b9efa7c487e9173ff8121da18bf64dbaff7d83a9c625264180f8e076bab743.jpg",
         "intro": "Become a Pok\u00e9mon. Save the Pok\u00e9mon world.\n",
         "description": "What if you woke up one day, and you were a Pok\u00e9mon? You can meet and recruit Pok\u00e9mon in a dungeon-crawling adventure within their world! Build a rescue team to take on mysterious, changing dungeons and strategically plan your moves as you venture forth to make the Pok\u00e9mon world a safer place\u2026and uncover your true purpose along the way.\n\nAs you recruit Pok\u00e9mon, these trusty teammates will need somewhere to stay, so build rescue team camps to house, manage, and strengthen your Pok\u00e9mon friends. Think hard about who is right for the job and how to approach each mysterious dungeon as you prepare a rescue team. You\u2019ll move a single square at a time or use Auto mode to speed up movement until you engage other Pok\u00e9mon in turn-based battles\u2014but don\u2019t forget about Pok\u00e9mon strengths, weaknesses and potential rare qualities! This version adds Mega Evolved Pok\u00e9mon, gorgeous watercolor-inspired graphics, and more! Get comfortable in your Pok\u00e9mon form, there\u2019s a lot of work to do.\n",
         "languages": [
@@ -3553,7 +3553,7 @@
             "zh",
             "zh"
         ],
-        "size": 24900534272
+        "size": 26536312832
     },
     "70010000015568": {
         "id": "0100E5D00CC0C000",
@@ -4684,6 +4684,51 @@
         ],
         "size": 13724811264
     },
+    "70010000019857": {
+        "id": "010051D00E3A4000",
+        "rightsId": null,
+        "name": "Rune Factory 4 Special",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200225,
+        "nsuId": 70010000019857,
+        "category": [
+            "RPG",
+            "Simulation",
+            "Action"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Marvelous (XSEED)",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6a2b23e3b2ace9cdd6568de72b9eefe923e258aed30e7b30dddaa7196806b478.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dd038091d8057c678bfc73b1c3a55a3e72ed7daed89383aa7b5e4de80f01f22f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/81057310ec6dec2de967b59d87a4c2e22dbd6633e4832d35d0ecb19ee68f1f5c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/72b99a997043dcb901134d04a53cb591a30ff7f1563247da2442dca24162b423.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41df7067ae39b0c021d29978f86863a7adb807f8a8b98bfe13dcaae68e0017f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a0b45ee1f8c7853ecf82594f56da722084b47857b831ab47cc0a481d7da91720.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/47efb6f5aecdb4d89f7f75fff0cad0c761c2b99bbc6b938804d1c9fc1d42d6e8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/39237ea20079a0b7102e59206097d0eaaa830658ad221db4d50f6652244d9f11.jpg",
+        "intro": "Journey to the vibrant world of Rune Factory and experience the legendary fantasy farming adventure like never before!",
+        "description": "Welcome to Selphia, a region ruled by the Native Dragon Ventuswill...and you! Start an exciting new life in the village and embark on a grand adventure!\n\nFeatures:\n-Grow crops, raise monsters, catch fish, cook up tasty dishes, and craft powerful equipment. Live your live however you choose!\n\n-Become friends (or more than friends) with a charming and interactive cast of characters, and breathe life into the village with seasonal festivals and competitions.\n\n-Play though a special story alongside your spouse in the brand-new Newlywed Mode, and fall in love with your favorites all over again!\n\n-If you're a Rune Factory 4 fanatic, challenge yourself with a new difficulty mode.\n\n-Enjoy new in-game cutscenes, colorful CG illustrations, and an updated opening sequence.",
+        "languages": [
+            "en",
+            "fr",
+            "de"
+        ],
+        "size": 5621415936
+    },
     "70010000019989": {
         "id": "010026000E466000",
         "rightsId": null,
@@ -5146,9 +5191,11 @@
             "en",
             "es",
             "pt",
-            "fr"
+            "fr",
+            "de",
+            "ru"
         ],
-        "size": 33549189120
+        "size": 33805041664
     },
     "70010000021364": {
         "id": "01000B900D8B0000",
@@ -13017,6 +13064,36 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000018125": {
+        "id": "010051D00E3A500D",
+        "rightsId": null,
+        "name": "Swimsuit Day",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200225,
+        "nsuId": 70050000018125,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Marvelous (XSEED)",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dd3eb81a970343336b794e1f05833761b2f097d4cf1d20ea012fbdd1af9339ff.jpg",
+        "intro": null,
+        "description": "Who says the beach party has to end when summer does? Visit the Order Symbol and use Prince or Princess Points to change the marriage candidates' default outfits to swimsuits.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000018285": {
         "id": "0100B6400CA5700D",
         "rightsId": null,
@@ -14591,7 +14668,7 @@
         "intro": null,
         "description": "Try Wolfenstein: Youngblood for free. Access to all gameplay and features requires an invitation from a Buddy Pass owner.\n",
         "languages": null,
-        "size": 24900534272
+        "size": 26536312832
     },
     "70070000006482": {
         "id": null,
@@ -14629,7 +14706,7 @@
         "intro": null,
         "description": "\"Wolfenstein: Youngblood is the first modern co-op Wolfenstein adventure.\n\nNineteen years after the events of Wolfenstein II, BJ Blazckowicz has disappeared after a mission into Nazi-occupied Paris. Now, after years of training from their battle-hardened father, BJ\u2019s twin daughters, Jess and Soph Blazkowicz, are forced into action.\n\nTeam up with a friend or play alone. Level up, explore, and complete missions to unlock new abilities, weapons, gadgets, cosmetics, and more to complement your playstyle and customize your appearance.\n\nWolfenstein: Youngblood features the most open-ended Wolfenstein experience to date. From a new base of operations located deep in the heart of the Paris catacombs, plan how and when to attack and dismantle the Nazi regime. \"\n",
         "languages": null,
-        "size": 24900534272
+        "size": 26536312832
     },
     "70070000006483": {
         "id": null,
@@ -14667,7 +14744,7 @@
         "intro": null,
         "description": "\"Wolfenstein: Youngblood is the first modern co-op Wolfenstein adventure.\n\nNineteen years after the events of Wolfenstein II, BJ Blazckowicz has disappeared after a mission into Nazi-occupied Paris. Now, after years of training from their battle-hardened father, BJ\u2019s twin daughters, Jess and Soph Blazkowicz, are forced into action.\n\nTeam up with a friend or play alone. Level up, explore, and complete missions to unlock new abilities, weapons, gadgets, cosmetics, and more to complement your playstyle and customize your appearance.\n\nThe Deluxe Edition includes the Buddy Pass, allowing you and a friend to play the entire game together, even if they don't own the game themselves. \n\nThis edition also features the Cyborg Skin Pack, which includes:\n- Cyborg player skin\n- Titanium alloy skins for all weapons\n- Titanium alloy hatchet\n- Titanium alloy knife \n- Armor-boosting pep signal\"\n",
         "languages": null,
-        "size": 24900534272
+        "size": 26536312832
     },
     "70070000006541": {
         "id": null,
