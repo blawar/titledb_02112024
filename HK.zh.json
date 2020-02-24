@@ -2434,6 +2434,49 @@
         ],
         "size": 15766388736
     },
+    "70010000010816": {
+        "id": "0100E7100B198000",
+        "rightsId": "0100E7100B1980000000000000000005",
+        "name": "Scribblenauts Mega Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200224,
+        "nsuId": 70010000010816,
+        "category": [
+            "\u5192\u96aa",
+            "\u76ca\u667a"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": null,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/649765f732445fefa464bb6829e9f8e6d66fde149525e1b7ed8ab16ad322fcda.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2690984a8bca5de63464e67d10483c2bbf76355d6bc388a6a619d6caccedf852.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40767104de7cd53782364372f6c55e7561789e8d7da394c233154dfb6302acbb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/99a76a3d324e0824a3d1f8cea76801579c745c89e9c2f43edec42e8b86804313.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf9d5e1baf4bd4b343f317779f231276d1bbde01b47e0e663caae9931d893bc0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/56f44c82d9162d5e5a8a354ef0c141ba9e225b041e01ee9efc67ace642f219b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2bf71d56224b6313240d4c65b6821d0214017bbb0abc66250e04f3364fb6094e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/34b0f4186a27b78bf2e85f80a2cfa4db59201c5c4b764b64730e01d7195ecb77.jpg",
+        "intro": null,
+        "description": "\u900f\u904e Scribblenauts Mega Pack \u5168\u9762\u9ad4\u9a57\n\u300aScribblenauts\u300b\uff01\u5169\u6b3e\u7d93\u5178\u904a\u6232\uff0c\u5167\u9644\u5168\u65b0\u5167\u5bb9\u4f9b\u4f60\u63a2\u7d22\uff01\n\u300aScribblenauts Unlimited\u300b- \u9032\u5165 Maxwell \u53ca Lily \u7684\n\u5192\u96aa\u4e16\u754c\u4e26\u904b\u7528\u4f60\u7684\u60f3\u50cf\u529b\uff0c\u4ee5\u5404\u5f0f\u5404\u6a23\u7684\u65b9\u5f0f\u89e3\u958b\u591a\u500b\n\u523a\u6fc0\u8b0e\u984c\u3002\u63a2\u7d22 Maxwell  41 \u500b\u624b\u8db3\u7684\u6545\u4e8b\u3001\u5efa\u7acb\u5c08\u5c6c\n\u81ea\u5df1\u7684\u7368\u7279\u7269\u54c1\uff0c\u4e26\u65bc\u7dda\u4e0a\u8207\u670b\u53cb\u5206\u4eab\uff01\n\u300aScribblenauts Unmasked: A DC Comics Adventure\u300b-\n\u5728\u53f2\u8a69\u5192\u96aa\u4e2d\uff0c\u8207\u5730\u8868\u6700\u5f37\u53cd\u6d3e\u9b25\u667a\u4e00\u756a\uff01\u4f7f\u7528 Hero\nCreator \u5efa\u7acb\u5c08\u5c6c\u81ea\u5df1\u7684\u53e6\u4e00\u500b\u4eba\u683c\u3002\u8207\u4f60\u6700\u611b\u7684 DC\nComics \u8d85\u7d1a\u82f1\u96c4\u651c\u624b\u63a2\u7d22\u7d93\u5178\u7684\u5168\u65b0\u4f4d\u7f6e\uff0c\u5305\u62ec TITANS\nTOWER & BELLE REVE \u4e26\u91cd\u6574\u5b87\u5b99\u7684\u79e9\u5e8f\u3002\n\u300aScribblenauts Unlimited\u300b\u518d\u52a0\u4e0a\u300aScribblenauts\nUnmasked\u300b\uff0c\u8b93\u4f60\u6a02\u8da3\u7121\u7aae\uff01",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt"
+        ],
+        "size": 2057306112
+    },
     "70010000010825": {
         "id": "0100F4C00B1DE000",
         "rightsId": null,
@@ -5121,6 +5164,44 @@
             "zh"
         ],
         "size": 2150629376
+    },
+    "70010000013535": {
+        "id": "010052A00B5D2000",
+        "rightsId": "010052A00B5D20000000000000000005",
+        "name": "LEGO\u00ae Harry Potter\u2122 Collection",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200223,
+        "nsuId": 70010000013535,
+        "category": [
+            "\u5192\u96aa"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": null,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/42cd952d4527f87dcc703566637180d2ca516747517bda3abbde1585c4757e0a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/42155d180cc23cc25e8686b00398ac35952664aff515019bce41a4ce59699ffb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8c5fa4ceb31c934f2040fdf13b4938e7260af65e44745d69e50cf33c74d9c68a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c2e574200a3e1fcff46c89709a8b894bd3f4d7118a5e8e23fd6c074732622eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a275fea61be716f42ca210c6ef511a93f529909fdcd3f4460802e110c3ab91f7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0e9eefbe54aaf87fed6f7b735780144e1f79a4ef8a3301e937f63809e7617e0c.jpg",
+        "intro": "\u300aLEGO\u00ae Harry Potter\u2122 Collection\u300b\u5c07\u300aLEGO\u00ae Harry Potter\u2122:Years 1-4\u300b\u548c\u300aLEGO\u00ae Harry Potter\u2122:Years 5-7\u300b\u5169\u6b3e\u66a2\u92b7\u904a\u6232\u91cd\u88fd\u7248\uff01",
+        "description": "\u300aLEGO\u00ae Harry Potter\u2122 Collection\u300b\u5c07\u300aLEGO\u00ae Harry Potter\u2122:Years 1-4\u300b\u548c\u300aLEGO\u00ae Harry Potter\u2122:Years 5-7\u300b\u91cd\u88fd\u7248\uff01\u5728\u9019\u500b\u7d50\u5408 LEGO \u5353\u8d8a\u5275\u610f\u548c\u54c8\u5229\u6ce2\u7279\u8c50\u5bcc\u4e16\u754c\u7684\u904a\u6232\u4e2d\uff0c\u73a9\u5bb6\u53ef\u4ee5\u4eab\u53d7\u65bd\u5c55\u6cd5\u8853\u3001\u85e5\u5291\u88fd\u4f5c\u3001\u89e3\u8b0e\u3001\u8ab2\u7a0b\u3001\u5c0d\u6230\u548c\u5176\u4ed6\u9069\u5408\u6240\u6709\u5e74\u9f61\u73a9\u5bb6\u7684\u6a02\u8da3\uff0c\u8e0f\u4e0a\u6fc0\u52d5\u4eba\u5fc3\u7684\u65c5\u7a0b\u3002",
+        "languages": [
+            "es",
+            "fr",
+            "en",
+            "de",
+            "it"
+        ],
+        "size": 13024362496
     },
     "70010000013556": {
         "id": "01004C200100E000",
@@ -8105,7 +8186,7 @@
             "zh",
             "zh"
         ],
-        "size": 3397386240
+        "size": 3405774848
     },
     "70010000016881": {
         "id": "01007DF00D420000",
