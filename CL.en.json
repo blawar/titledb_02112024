@@ -4683,7 +4683,7 @@
             "ru",
             "ko"
         ],
-        "size": 13724811264
+        "size": 14211350528
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -5101,7 +5101,7 @@
             "ko",
             "zh"
         ],
-        "size": 6614417408
+        "size": 6671040512
     },
     "70010000020891": {
         "id": "010017700B6C2000",
@@ -5646,9 +5646,17 @@
         "intro": "Escape to Your Personal Island Paradise",
         "description": "Escape to a deserted island and create your own paradise as you explore, create, and customize in the Animal Crossing: New Horizons game. Your island getaway has a wealth of natural resources that can be used to craft everything from tools to creature comforts. You can hunt down insects at the crack of dawn, decorate your paradise throughout the day, or enjoy sunset on the beach while fishing in the ocean. The time of day and season match real life, so each day on your island is a chance to check in and find new surprises all year round. \n\nShow off your island utopia to family and friends\u2014or pack your bags and visit theirs. Whether playing online* or with others beside you**, island living is even better when you can share it. Even without hopping on a flight, you\u2019ll meet a cast of charming animal residents bursting with personality. Friendly faces like Tom Nook and Isabelle will lend their services and happily help you grow your budding community. Escape to your island getaway\u2014however, whenever, and wherever you want.\n\n\u2022\tBuild your community from scratch on a deserted island brimming with possibility\n\u2022\tCreate your personal getaway and customize your character, home, decorations, and even the landscape itself\n\u2022\tCollect materials to construct everything from furniture to tools! Then, use what you create to give your island a personal touch\n\u2022\tWatch as the time of day and seasons match real life\u2014even your hemisphere! Each day holds potential for surprises and discoveries\n\u2022\tGet to know the island residents, garden, fish, decorate, hunt for fossils, and more!\n\u2022\tShow off your paradise \u2013 play on the same system with a total of 4 people**, or play together online* or over local wireless** for fun with up to 8 players\n",
         "languages": [
+            "ja",
             "en",
             "es",
-            "fr"
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
         ],
         "size": 6701449216
     },
@@ -13497,6 +13505,40 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000018560": {
+        "id": "010051D00E3A5001",
+        "rightsId": null,
+        "name": "Another Episode Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200225,
+        "nsuId": 70050000018560,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Marvelous (XSEED)",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b965e572e81a8b790b2bf08e97573e38f0f09c974c05014c77dd62b1a3627884.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5863c334e08ff6148d75394a5dc3a292f54e9a2b586cb9d4a96e4f253681cf4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9514115a4e4bacfd0202838560dd0101c72655018148748fccd7ee47b6fd814.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5182a46e8fef376d934e2c04107d926f41d560e86f9f1def17af76bc21644458.jpg",
+        "intro": null,
+        "description": "This downloadable content adds illustrated stories for all 12 marriage candidates, fully voiced in English and Japanese. View them by selecting Another Episode from the title menu.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000018625": {
         "id": "01006A800016F033",
         "rightsId": null,
@@ -15011,7 +15053,7 @@
         "intro": "The Future Is Now.\u00a0 Are You With Us?",
         "description": "Overwatch: Legendary Edition includes:\n\u2022\tRedeemable code for Nintendo Switch Online Individual Membership 3-month subscription (Terms apply. nintendo.com/switch-online)\n\u2022\tThe full game\n\u2022\t5 Legendary Hero Skins\n\u2022\t5 Epic Hero Skins\n\u2022\t5 Origin Hero Skins\n\nUnlock a Golden Loot Box\nPurchase and log into Overwatch on Nintendo Switch by December 31, 2019 to unlock a Golden Loot Box with at least 1 guaranteed Legendary item!\n\nBegin your Watch\nJoin the fight for the future in the world of Overwatch\u00ae and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash a dizzying array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.\n\nExperience the Extraordinary\nSpeed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers such as Dragonstrike, Transcendence, Graviton Surge, and so much more. Every hero has a unique set of devastating, game-changing abilities.\n\nPlay Heroes, Not Classes\nEvery hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.\n\nFight for the Future...Together\nTeamwork is imperative for survival as you enter the fight with friends and comrades. Careful coordination will prove the difference between victory and defeat as your team combines the formidable powers at your disposal to devastating effect.\n\nShift Your Perspective\nJust when it seems like your team is destined to go down in defeat, switch heroes on the fly and change the course of the battle. But don\u2019t forget that your opponents can do the same. Master the game within the game as both teams shift strategies and change heroes to try to gain the upper hand.\n\nThe World Is Your Battlefield\nProtect the secrets of the mysterious Temple of Anubis in Egypt, safely escort an EMP device through King\u2019s Row in London, and do battle at many other unique locations. Every map has its own distinct feel with unique gameplay and team-based objectives.",
         "languages": null,
-        "size": 13724811264
+        "size": 14211350528
     },
     "70070000009532": {
         "id": null,

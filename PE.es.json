@@ -4683,7 +4683,7 @@
             "ru",
             "ko"
         ],
-        "size": 13724811264
+        "size": 14211350528
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -5101,7 +5101,7 @@
             "ko",
             "zh"
         ],
-        "size": 6614417408
+        "size": 6671040512
     },
     "70010000020891": {
         "id": "010017700B6C2000",
@@ -5646,9 +5646,17 @@
         "intro": "Escapa a tu propia isla paradisiaca",
         "description": "Escapa a una isla desierta y crea tu propio para\u00edso mientras exploras, creas y personalizas en el juego Animal Crossing: New Horizons. Tu isla cuenta con riquezas naturales que podr\u00e1s utilizar para construir de todo, desde herramientas hasta objetos que har\u00e1n tu vida m\u00e1s placentera. Podr\u00e1s cazar insectos al amanecer, decorar tu peque\u00f1o para\u00edso durante el d\u00eda o disfrutar del atardecer en la playa mientras pescas en el oc\u00e9ano. La hora del d\u00eda y la estaci\u00f3n coinciden con las de la vida real, as\u00ed que cada d\u00eda en la isla es una oportunidad para encontrar y descubrir sorpresas. \n\nMuestra tu isla a tu familia y amigos, o empaca tus cosas y visita la de ellos. Ya sea que juegues en l\u00ednea* o con otros a tu lado**, la vida isle\u00f1a es mucho mejor cuando la puedes compartir. Sin necesidad de subirte a un avi\u00f3n podr\u00e1s conocer a un elenco de encantadores residentes llenos de personalidad. Algunas caras conocidas como Tom Nook y Canela brindar\u00e1n sus servicios y con todo gusto te ayudar\u00e1n a construir tu comunidad. Date una escapada a tu isla\u2026 como quieras, cuando quieras y donde quieras.\n\n\u2022\tFa\u00e7onnez votre communaut\u00e9 en partant de z\u00e9ro, sur une \u00eele d\u00e9serte regorgeante de possibilit\u00e9s\n\u2022\tCr\u00e9ez votre propre petit coin de paradis et personnalisez votre personnage, votre maison, vos d\u00e9corations et m\u00eame le paysage\n\u2022\tAmassez des mat\u00e9riaux pour construire des meubles comme des outils! Ensuite, utilisez ce que vous avez cr\u00e9\u00e9 pour donner \u00e0 votre \u00eele une touche personnelle \n\u2022\tPr\u00eatez attention \u00e0 l\u2019heure et aux saisons, car elles sont en synchronisation avec le temps r\u00e9el \u2014 et m\u00eame l\u2019h\u00e9misph\u00e8re dans lequel vous vous situez! Chaque jour est porteur de potentielles surprises et d\u00e9couvertes\n\u2022\tApprenez \u00e0 conna\u00eetre les r\u00e9sidents de l\u2019\u00eele, jardinez, p\u00eachez, d\u00e9corez, partez \u00e0 la chasse aux fossiles, et bien plus encore! \n\u2022\tFaites montre de votre petit bout de paradis \u2013 jouez sur la m\u00eame console jusqu\u2019\u00e0 4 personnes**, ou jouez en ligne* ou encore en communication sans fil locale** pour du fun avec jusqu\u2019\u00e0 8 joueurs.\n",
         "languages": [
+            "ja",
             "en",
             "es",
-            "fr"
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
         ],
         "size": 6701449216
     },
@@ -13497,6 +13505,40 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000018560": {
+        "id": "010051D00E3A5001",
+        "rightsId": null,
+        "name": "Paquete Another Episode",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200225,
+        "nsuId": 70050000018560,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes moderados",
+            "Uso de alcohol"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Marvelous (XSEED)",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b965e572e81a8b790b2bf08e97573e38f0f09c974c05014c77dd62b1a3627884.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5863c334e08ff6148d75394a5dc3a292f54e9a2b586cb9d4a96e4f253681cf4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9514115a4e4bacfd0202838560dd0101c72655018148748fccd7ee47b6fd814.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5182a46e8fef376d934e2c04107d926f41d560e86f9f1def17af76bc21644458.jpg",
+        "intro": null,
+        "description": "Este contenido descargable a\u00f1ade historias ilustradas para los 12 pretendientes, tanto con voces en ingl\u00e9s como en japon\u00e9s. Podr\u00e1s verlas seleccionando \"Another Episode\" en el men\u00fa principal.",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000018625": {
         "id": "01006A800016F033",
         "rightsId": null,
@@ -14961,7 +15003,7 @@
         "intro": "El futuro es ahora. \u00bfEst\u00e1s con nosotros?",
         "description": "Overwatch: Legendary Edition incluye:\n\u2022\tC\u00f3digo para canjear para la suscripci\u00f3n de 3 meses de membres\u00eda individual de Nintendo Switch Online (Se aplican t\u00e9rminos. nintendo.com/switch-online)\n\u2022\tEl juego completo\n\u2022\t5 dise\u00f1os de h\u00e9roe legendarios\n\u2022\t5 dise\u00f1os de h\u00e9roe \u00e9picos\n\u2022\t5 dise\u00f1os de h\u00e9roe Origin\n\nDesbloquea una caja de bot\u00edn dorada\n\u00a1Compra Overwatch en Nintendo Switch e inicia sesi\u00f3n antes del 31 de diciembre de 2019 para desbloquear una caja de bot\u00edn dorada con al menos 1 objeto legendario garantizado!\n\nEmpieza tu guardia\n\u00danete a la lucha por el futuro en el mundo de Overwatch\u00ae y elige a tu h\u00e9roe de entre una diversa lista de soldados, cient\u00edficos, aventureros y superdotados. Manipula el tiempo, desaf\u00eda la f\u00edsica y desata una gran variedad de armas y poderes extraordinarios. Enfr\u00e9ntate a tus enemigos en ubicaciones emblem\u00e1ticas de todas partes del mundo en el juego de disparos por equipos definitivo.\n\nVive lo extraordinario\nAcelera y ralentiza el tiempo. Haz llover destrucci\u00f3n desde lo alto en una armadura experimental con propulsores. Acecha a tu presa como un asesino espectral que puede aparecer en cualquier lugar en cualquier momento. Desata poderes como Golpe drag\u00f3n, Trascendencia, Oleada de gravitones y muchos m\u00e1s. Cada h\u00e9roe tiene un conjunto de habilidades \u00fanicas y devastadoras capaces de alterar el curso de la partida.\n\nJuega con h\u00e9roes, no clases\nCada h\u00e9roe tiene una perspectiva \u00fanica en el campo de batalla y una historia detr\u00e1s de c\u00f3mo lleg\u00f3 hasta all\u00ed. Puedes ser un campe\u00f3n de una era antigua que blande su martillo propulsado en servicio del honor, un monje rob\u00f3tico que tiene como misi\u00f3n sanar las grietas entre la humanidad y las m\u00e1quinas, o un gorila dise\u00f1ado gen\u00e9ticamente que resulta ser tambi\u00e9n un brillante cient\u00edfico, entre muchos otros.\n\nLucha por el futuro... en equipo\nEl trabajo en equipo ser\u00e1 fundamental para la supervivencia cuando ingreses al campo de batalla con amigos y compa\u00f1eros. Una coordinaci\u00f3n minuciosa puede marcar la diferencia entre la victoria y la derrota al momento de combinar en equipo los formidables poderes que tienen a disposici\u00f3n para provocar un efecto devastador.\n\nCambia tu perspectiva\nJusto cuando parece que tu equipo est\u00e1 destinado a sufrir una derrota, cambia de h\u00e9roe en cualquier momento y modifica el curso de la batalla. Pero no olvides que tus oponentes pueden hacer lo mismo. Domina el juego dentro de la partida al tiempo que ambos equipos cambian de estrategia y de h\u00e9roe para obtener una ventaja sobre su rival.\n\nEl mundo es tu campo de batalla\nProtege los secretos del misterioso Templo de Anubis en Egipto, escolta un dispositivo PEM para que llegue a salvo a destino por King\u2019s Row en Londres y libra batallas en muchas m\u00e1s ubicaciones \u00fanicas. Todos los mapas tienen caracter\u00edsticas distintivas propias, con objetivos por equipos y estilos de juego singulares.",
         "languages": null,
-        "size": 13724811264
+        "size": 14211350528
     },
     "70070000009532": {
         "id": null,
