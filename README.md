@@ -30,4 +30,5 @@
 0100647003750800|ドラゴンクエストⅩ ベーシックパック
 0100F8600E21E800|Overwatch Legendary Edition
 0100FEE00A64E800|Warframe
+01005A100D16E800|荒野行動
 ```
