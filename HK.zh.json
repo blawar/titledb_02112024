@@ -725,7 +725,7 @@
             "zh",
             "zh"
         ],
-        "size": 4333764608
+        "size": 4357881856
     },
     "70010000009372": {
         "id": "0100000000010000",
@@ -9733,6 +9733,45 @@
             "zh"
         ],
         "size": 15476981760
+    },
+    "70010000018821": {
+        "id": null,
+        "rightsId": null,
+        "name": "\u6211\u7684\u82f1\u96c4\u5b78\u9662 \u552f\u6211\u6b63\u7fa92",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200312,
+        "nsuId": 70010000018821,
+        "category": [
+            "\u52d5\u4f5c",
+            "\u683c\u9b25"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": null,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ae574172915cc2740896a71dfdb3604f145b8729394e9c638b7098ae4d0badd9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/68b9220126cfe9ee3268c7da257d4304ef019bedcb40f81250a42b793fcdde5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0637f62e17159ef4c606971edf34da2a68159a302afa976777e1c955c8758bdc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3cdcf3ac1e1b0e1ae258a424704b9ccb23bfc60428f6b89d85aa573fe5efcc37.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/57e16547586f03d1451704adca81fba0a403365193236f00888df577ffe86be5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71671f03105e567d777bee0421853212fbc9eb74a7ed4f056c7561879dfe72dd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8819843a6bc2ad9be9ed355aba8d68851f8cd95e919c02e0f5eb4bd2574633d9.jpg",
+        "intro": "\u4ee5\u300c\u500b\u6027\u300d\u76f8\u4e92\u8f03\u52c1\u7684\u300e\u6211\u7684\u82f1\u96c4\u5b78\u9662\u300f\u6b63\u7d71\u5c0d\u6230\u52d5\u4f5c\u904a\u6232\u767b\u5834\uff01",
+        "description": "\u6bd4\u7372\u5f97\u597d\u8a55\u7684\u300c\u6211\u7684\u82f1\u96c4\u5b78\u9662\u300d\u5c0d\u6230\u52d5\u4f5c\u904a\u6232\u524d\u4f5c\u66f4\u52a0\u8c50\u5bcc\u8a31\u591a\uff0c\n\u300c\u6211\u7684\u82f1\u96c4\u5b78\u9662 \u552f\u6211\u6b63\u7fa92\u300d\u5728Nintendo Switch\u767b\u5834\uff01\n\u76e1\u60c5\u5728\u95dc\u5361\u5954\u99b3\uff0c\u4ee5\u4f86\u81ea\u300c\u500b\u6027\u300d\u7684\u8d85\u4eba\u529b\u91cf\u9ad4\u9a57\u5145\u6eff\u9b44\u529b\u7684\u6230\u9b25\u5427\uff01",
+        "languages": [
+            "ja",
+            "ko",
+            "zh"
+        ],
+        "size": 0
     },
     "70010000018834": {
         "id": "0100F7000DC14000",
