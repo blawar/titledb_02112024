@@ -1100,7 +1100,7 @@
             "zh",
             "zh"
         ],
-        "size": 7112491008
+        "size": 7674527744
     },
     "70010000001801": {
         "id": "0100E65002BB8000",
@@ -2556,7 +2556,7 @@
             "ru",
             "ko"
         ],
-        "size": 9318694912
+        "size": 9532604416
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -2798,7 +2798,7 @@
             "zh",
             "zh"
         ],
-        "size": 15342764032
+        "size": 15608053760
     },
     "70010000012332": {
         "id": "01006A800016E000",
@@ -2893,7 +2893,7 @@
             "es",
             "fr"
         ],
-        "size": 2259681280
+        "size": 2327838720
     },
     "70010000012840": {
         "id": "0100DC300AC78000",
@@ -13544,12 +13544,12 @@
     "70050000018551": {
         "id": "0100DCA0064A7001",
         "rightsId": null,
-        "name": "Multiplayer Pack Part 1",
+        "name": "Luigi\u2019s Mansion\u2122 3 Multiplayer Pack 1",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20200430,
+        "releaseDate": 20200303,
         "nsuId": 70050000018551,
         "category": null,
         "ratingContent": [
@@ -13564,12 +13564,19 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b468f9b6bc93cb9eed192b686b044c5a6706aac57fa359944bc03f2735713401.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/378992ccfb1e65c5da822be71d8c16026931db02b33d4eafd2eefc732eadfacf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eacd4a601ba51d899892ab1bb2db513e530ff025c28eea5000bdd23df601d82f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce369384c1aa2a0b132aa95948db7b3cc8e843065f3942279c822ba6c6f0c046.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a512a439edbbaebcf9eb053946221deb52ecb87c5488312b9412a151dba6295f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9555e0c498173e30a89895e74f6b93184f7c2fe40938fde3a826b50d1b14e36.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f883daae1ba2fb0424814c25a41c21ab648a74fda52570799134eabb1827860.jpg",
-        "intro": null,
-        "description": "The creepiness commences when Part 1 of the Luigi\u2019s Mansion 3 Multiplayer Pack arrives in spring 2020 with 3 ScareScraper costumes and floor themes and 3 additional ScreamPark minigames. You and your friends can scale the tower in style and see some unexpected set pieces and exclusive themed ghosts, then head over to ScreamPark to enjoy the 3 new minigames and get in on some Luigi vs. Gooigi action!",
+        "intro": "Scare in Style with New Outfits and Minigames",
+        "description": "Something\u2019s lurking in the halls of the ScareScraper, it\u2019s\u2026Groovigi!? A disco-themed outfit for ScareScraper is joined by the Mummigi and The Green Knight costumes in the Luigi\u2019s Mansion 3 Multiplayer Pack 1, which is the first of two packs in the Luigi\u2019s Mansion 3 Multiplayer Pack DLC. Each of these frighteningly fabulous costumes also comes with a matching Floor Theme and themed ghosts. When you aren\u2019t scaling the ScareScraper in style, go head-to-head in the new Tricky Ghost Brawl, Dodge Brawl, and River Bank minigames for ScreamPark!",
         "languages": null,
-        "size": 4194304
+        "size": 135266304
     },
     "70050000018552": {
         "id": "0100DCA0064A7002",
@@ -15204,7 +15211,7 @@
         "intro": null,
         "description": "Luigi\u2019s invited to the towering Last Resort hotel, but when Mario and friends go missing, our green-clad hero will have to conquer his fears to save them! Slam, blow away, and vacuum up ghosts with the all-new Poltergust G-00, and join forces with Gooigi to overcome the puzzling contraptions and mischievous boss on each themed floor. And that\u2019s just the Last Resort. Enter the ScareScraper for 8-player local wireless or online co-op gameplay. \n\nThe ghost hunt continues into 2020 with the Luigi's Mansion\u2122 3 Multiplayer Pack DLC! This DLC adds chilling-yet-charming costumes that Luigi can sport in the ScareScraper mode and matching themes that transform the look of the tower\u2019s floors! Keep your flashlight close, because new surprises might even be found lurking the halls of this ghoulish gauntlet! When you and your friends aren\u2019t slamming and strobing your way through the ScareScraper, the new minigames this DLC brings to ScreamPark can make for some frightening\u2026er, friendly competition. Pre-purchase now to get access to both Part 1 and Part 2 of the DLC as they are release, plus an adorably spooky Flashlight Type-P that you can use in the game right away\u2026a certain spectral sidekick may even make an appearance!",
         "languages": null,
-        "size": 7120879616
+        "size": 7813988352
     },
     "70070000009666": {
         "id": null,
