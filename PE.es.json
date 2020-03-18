@@ -1698,7 +1698,7 @@
             "zh",
             "zh"
         ],
-        "size": 10984882176
+        "size": 10982785024
     },
     "70010000004496": {
         "id": "0100ABF008968000",
@@ -1747,7 +1747,7 @@
             "zh",
             "zh"
         ],
-        "size": 10984882176
+        "size": 10982785024
     },
     "70010000004606": {
         "id": "0100CD5008D9E000",
@@ -2556,7 +2556,7 @@
             "ru",
             "ko"
         ],
-        "size": 9532604416
+        "size": 9636413440
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -3502,7 +3502,7 @@
             "ru",
             "zh"
         ],
-        "size": 26532118528
+        "size": 27545042944
     },
     "70010000015307": {
         "id": "01003BD00CAAE000",
@@ -5200,6 +5200,49 @@
         ],
         "size": 33805041664
     },
+    "70010000021006": {
+        "id": "0100D7800E9E0000",
+        "rightsId": null,
+        "name": "Trials of Mana",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200424,
+        "nsuId": 70010000021006,
+        "category": [
+            "Juego de rol",
+            "Acci\u00f3n"
+        ],
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "SQUARE ENIX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2af56fc4b490b34f02f63eb94419c426489fd512dfb79c5bcf098d635aeac30f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/961f697fad9d1606f21d34739ae1a4df96f0eb646d477b6b118303c7defa6e8d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/277b714ebc59f1d5fa82fd8c026e94ea7cdeed6d3c0a62ce73eab2afc06c3218.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb255afbcc5a895dcd6db13904d65872b4f3308aa99df6bef7d9b3cdf9422d1c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e584b338cf252463af040090b3d543499b5fb875b4db26a0871761afc88f5029.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9010f02d8ddec1b52de620a01a788a348e1d707461ff94017b915e961a09b528.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/623dc63bedfbc7bb8a5de1a7f7af8bef2c23f4acb0452d4ecc92bb4175cc64ef.jpg",
+        "intro": "Trials of Mana es el remake en 3D del cl\u00e1sico juego de rol Seiken Densetsu 3 lanzado en 1995.",
+        "description": "Trials of Mana es el remake en 3D del cl\u00e1sico juego de rol Seiken Densetsu 3 lanzado en 1995. \n\n\u00a1Pl\u00e1ntale cara al destino en esta emocionante historia que ha vuelto a la vida! Descubre esta inolvidable aventura ahora modernizada con mejoras gr\u00e1ficas, voces para los personajes, una banda sonora remasterizada y un nuevo episodio por descubrir despu\u00e9s del final. Adem\u00e1s de combates m\u00e1s activos, el juego presenta un sistema de habilidades actualizado y una nueva clase que cambian por completo el desarrollo de los personajes. \n\n\u00a1Esta historia de destinos entrecruzados cambia dependiendo del protagonista y los compa\u00f1eros que elijas! \u00bfSer\u00e1n capaces estos j\u00f3venes aventureros de usar el poder de Mana para evitar la destrucci\u00f3n de su mundo? \n\n\u00a1Consigue el accesorio de gazapo (DLC) para aumentar la experiencia conseguida en combate hasta el nivel 10! Disponible hasta el 21 de mayo de 2020.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de"
+        ],
+        "size": 11278483456
+    },
     "70010000021364": {
         "id": "01000B900D8B0000",
         "rightsId": null,
@@ -5477,7 +5520,7 @@
             "zh",
             "zh"
         ],
-        "size": 10984882176
+        "size": 10982785024
     },
     "70010000027060": {
         "id": "01008B20022AA000",
@@ -5581,6 +5624,51 @@
         ],
         "size": 205520896
     },
+    "70010000027201": {
+        "id": "01004F0010A02000",
+        "rightsId": null,
+        "name": "Sky Racket",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200317,
+        "nsuId": 70010000027201,
+        "category": [
+            "Arcade",
+            "Disparos",
+            "Acci\u00f3n",
+            "Multijugador"
+        ],
+        "ratingContent": [
+            "Violencia de fantasia"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Double Dash Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7e23d7d1e721dcd57d1a1eda77d288d8a75c8023159246a7f1215ebc1bb309e0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2ef0c6dd153e55b2026d885f244559a50ebda151a5d7b0a468b4166f244c24b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fb315db4e78aea13496bb5f50b4cc5b4d03e362b73cf6cdf2e80b69779003399.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a0e79bf2a791d3ecdc5eb6f044a9a7eee869cb0999e9ceb481ab0aaeda07f781.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/43f4d58965d03b10c749d91af88c7de0845569af90cbae5d457a2053ce4d11cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/329884b3db3a87a853b067f1404f57f554a904efda2693e28b7f4dca02a265c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a1782818e7a04e40a72a1523df1c4071cef025b93e85c82ac5068a1abcdc5efb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cc221a2b936dbab33ff788a88c1fe1f547eafbccd834780d35456abb5a1dc0fd.jpg",
+        "intro": "El primero Shmup Breaker del mundo!",
+        "description": "Sky Racket es el primero Shmup Breaker del mundo, una mezcla entre los cl\u00e1sicos g\u00e9neros de shoot \u2019em ups y block breakers!\nDevuelve tiros a tus enemigos mientras vuelas por mundos llenos de color y vida! Toma tu raqueta laser, tu bufanda m\u00e1s elegante, junto a tus mejores compa\u00f1eros y combate una horda de enemigos tiernos que intentan derribarte.\nJuega como RacketBoy o RacketGirl, guardianes escogidos por la Diosa Capibara para salvar la galaxia de las garras de un terrible genio tirano, Korrg! Incapaz de atacar solo, t\u00fa debes devolverles los disparos a tus enemigos, transformando el campo de batalla en una explosiva partida de tenis espacial. Causa raquetadas de devastaci\u00f3n a las hordas de patos, gatos-sandwiches, conejos voladores, robots tenistas espaciales y hasta BANANAS en esta sorprendente y singular aventura totalmente realista para salvar la galaxia!\n(Sky Racket es basado en una historia real.)\n\nDESTAQUES\n\u2022 Aparta y avanza por fases llenas de tiros! Devuelve ataques para romper bloques y acabar con los villanos del mapa!\n\u2022 Con un Pixel art maravilloso y animaciones fluidas, tan buenas que pueden hacer las bananas volar.\n\u2022 Multijugador cooperativo para compartir con tus amigos y divertirse al doble!\n\u2022 Haz amistad con los mejores buddies en un universo lleno de colores y locura.\n\u2022 Banda sonora peculiar y pegadiza que seguramente complacer\u00e1 fans de la era 16-bit!\n\u2022 Extra\u00f1as batallas contra jefes chistosos y ca\u00f3ticos! Enserio, ellos son muy raros...\n\u2022 Desaf\u00edos de bullet hell emocionantes y desafiantes!\n\u2022 Dominas las mec\u00e1nicas de devolver ataques y encuentra formas creativas para usar las armas de tus enemigos contra ellos!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "ru"
+        ],
+        "size": 1430257664
+    },
     "70010000027329": {
         "id": null,
         "rightsId": null,
@@ -5646,7 +5734,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a.jpg",
         "intro": "Escapa a tu propia isla paradisiaca",
-        "description": "Escapa a una isla desierta y crea tu propio para\u00edso mientras exploras, creas y personalizas en el juego Animal Crossing: New Horizons. Tu isla cuenta con riquezas naturales que podr\u00e1s utilizar para construir de todo, desde herramientas hasta objetos que har\u00e1n tu vida m\u00e1s placentera. Podr\u00e1s cazar insectos al amanecer, decorar tu peque\u00f1o para\u00edso durante el d\u00eda o disfrutar del atardecer en la playa mientras pescas en el oc\u00e9ano. La hora del d\u00eda y la estaci\u00f3n coinciden con las de la vida real, as\u00ed que cada d\u00eda en la isla es una oportunidad para encontrar y descubrir sorpresas. \n\nMuestra tu isla a tu familia y amigos, o empaca tus cosas y visita la de ellos. Ya sea que juegues en l\u00ednea* o con otros a tu lado**, la vida isle\u00f1a es mucho mejor cuando la puedes compartir. Sin necesidad de subirte a un avi\u00f3n podr\u00e1s conocer a un elenco de encantadores residentes llenos de personalidad. Algunas caras conocidas como Tom Nook y Canela brindar\u00e1n sus servicios y con todo gusto te ayudar\u00e1n a construir tu comunidad. Date una escapada a tu isla\u2026 como quieras, cuando quieras y donde quieras.\n\n\u2022\tFa\u00e7onnez votre communaut\u00e9 en partant de z\u00e9ro, sur une \u00eele d\u00e9serte regorgeante de possibilit\u00e9s\n\u2022\tCr\u00e9ez votre propre petit coin de paradis et personnalisez votre personnage, votre maison, vos d\u00e9corations et m\u00eame le paysage\n\u2022\tAmassez des mat\u00e9riaux pour construire des meubles comme des outils! Ensuite, utilisez ce que vous avez cr\u00e9\u00e9 pour donner \u00e0 votre \u00eele une touche personnelle \n\u2022\tPr\u00eatez attention \u00e0 l\u2019heure et aux saisons, car elles sont en synchronisation avec le temps r\u00e9el \u2014 et m\u00eame l\u2019h\u00e9misph\u00e8re dans lequel vous vous situez! Chaque jour est porteur de potentielles surprises et d\u00e9couvertes\n\u2022\tApprenez \u00e0 conna\u00eetre les r\u00e9sidents de l\u2019\u00eele, jardinez, p\u00eachez, d\u00e9corez, partez \u00e0 la chasse aux fossiles, et bien plus encore! \n\u2022\tFaites montre de votre petit bout de paradis \u2013 jouez sur la m\u00eame console jusqu\u2019\u00e0 4 personnes**, ou jouez en ligne* ou encore en communication sans fil locale** pour du fun avec jusqu\u2019\u00e0 8 joueurs.\n",
+        "description": "Escapa a una isla desierta y crea tu propio para\u00edso mientras exploras, creas y personalizas en el juego Animal Crossing: New Horizons. Tu isla cuenta con riquezas naturales que podr\u00e1s utilizar para construir de todo, desde herramientas hasta objetos que har\u00e1n tu vida m\u00e1s placentera. Podr\u00e1s cazar insectos al amanecer, decorar tu peque\u00f1o para\u00edso durante el d\u00eda o disfrutar del atardecer en la playa mientras pescas en el oc\u00e9ano. La hora del d\u00eda y la estaci\u00f3n coinciden con las de la vida real, as\u00ed que cada d\u00eda en la isla es una oportunidad para encontrar y descubrir sorpresas. \n\nMuestra tu isla a tu familia y amigos, o empaca tus cosas y visita la de ellos. Ya sea que juegues en l\u00ednea* o con otros a tu lado**, la vida isle\u00f1a es mucho mejor cuando la puedes compartir. Sin necesidad de subirte a un avi\u00f3n podr\u00e1s conocer a un elenco de encantadores residentes llenos de personalidad. Algunas caras conocidas como Tom Nook y Canela brindar\u00e1n sus servicios y con todo gusto te ayudar\u00e1n a construir tu comunidad. Date una escapada a tu isla\u2026 como quieras, cuando quieras y donde quieras.\n\n\u2022\tConstruye tu comunidad desde cero en una isla desierta rebosante de oportunidades\n\u2022\tCrea tus propias vacaciones y personaliza a tu personaje, tu hogar, tus decoraciones e incluso el paisaje\n\u2022\t\u00a1Recolecta materiales para construir desde muebles hasta herramientas! Luego, utiliza lo que creaste para darle a tu isla un toque personal\n\u2022\tObserva c\u00f3mo la hora del d\u00eda y las estaciones coinciden con la vida real, \u00a1incluso en tu hemisferio! Cada d\u00eda podr\u00edas sorprenderte realizar descubrimientos\n\u2022\t \u00a1Conoce a los residentes de la isla, realiza algo de jardiner\u00eda, pesca, decoraci\u00f3n, ve en busca de f\u00f3siles y mucho m\u00e1s!\n\u2022\tPresume tu isla, disfruta del juego en la misma consola con otros usuarios para un total de 4 jugadores** o juega en l\u00ednea o a trav\u00e9s de la comunicaci\u00f3n local** para hasta 8 jugadores\n",
         "languages": [
             "ja",
             "en",
@@ -5661,6 +5749,58 @@
             "zh"
         ],
         "size": 6701449216
+    },
+    "70010000027969": {
+        "id": "0100DD30110CC000",
+        "rightsId": null,
+        "name": "Exit the Gungeon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200317,
+        "nsuId": 70010000027969,
+        "category": [
+            "Arcade",
+            "Acci\u00f3n",
+            "Aventura",
+            "Plataformas"
+        ],
+        "ratingContent": [
+            "Violencia moderada de fantasia",
+            "Lenguaje moderado"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Devolver Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5f835fdf6d93fef8f3df9ddf7a79d7a4ab70f956491d0ee60a826d7d1c48a51d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f611cbefae3a91918c78d6c87117a60f16ba1f910fb082a014231a0be44bc33b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4485951d499eb85ac7dce7d2648f209704dada844538d7efe0e62e39ee14bf45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58061701775d16f175c0f0365bc1356017b8de0fbb54776487033f7e220d82d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2515b237001d0a7b100257fb8aa7b2a03d9a5b00870a325dc2c82273e7bffe27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc4fd9f980a1841bd19cb28389bb7524d097f4865d9c7ff17d92ce36adab7a1c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e35bfeffe95573066dbb261a6d46600de97d14fc59eecc22cdf5367b01dfa70e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ae133ae2434bc2197cb98aecd416f04f204f70230e3c775e9e8da427d4568501.jpg",
+        "intro": "Un bullet hell en una mazmorra",
+        "description": "Exit the Gungeon es un juego de g\u00e9nero bullet hell ambientado en una mazmorra que contin\u00faa las aventuras de los marginados armazmorristas y su b\u00fasqueda de la absoluci\u00f3n personal en Enter the Gungeon. \u00a1La Armazmorra se ha convertido en una paradoja y se est\u00e1 colapsando! Armados con armas siempre cambiantes, una insaciable sed de bot\u00edn y la fiable voltereta, nuestros h\u00e9roes deben ascender y escapar cada uno por su ruta exclusiva de elevadores cada vez m\u00e1s peligrosos. Combate a los \u00faltimos y m\u00e1s resentidos armuertos a un ritmo fren\u00e9tico, frenando lo justo para charlar con algunas caras conocidas... y unas cuantas nuevas. Salas cambiantes, enemigos, jefes, extra\u00f1as armas y objetos: todo se combina para garantizar que no hay dos intentos iguales de salir de la Armazmorra.\n\nAdem\u00e1s, puedes llevar sombreros. A todo el mundo le encantan los sombreros y los spin-offs, y este juego es un spin-off... de Enter the Gungeon.",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 524288000
     },
     "70010000028523": {
         "id": "010015F008C54000",
@@ -5704,7 +5844,7 @@
             "zh",
             "zh"
         ],
-        "size": 741343232
+        "size": 767557632
     },
     "70010000028643": {
         "id": null,
@@ -8586,12 +8726,12 @@
     "70050000011733": {
         "id": "0100F2200C985010",
         "rightsId": null,
-        "name": "DLC 7",
+        "name": "Spawn",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20191231,
+        "releaseDate": 20200324,
         "nsuId": 70050000011733,
         "category": null,
         "ratingContent": [
@@ -8608,9 +8748,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b1e006ac3ccb675a12745255f608750fb812ecfd971710add0381fbb88cf3476.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/446537add8a3b4f71a70f593fbd1c4cbe2e1d2eb0d7758c4d023deff39b8b0d7.jpg",
         "intro": null,
-        "description": null,
+        "description": "Al Simmons, antes el mejor soldado y el asesino m\u00e1s eficaz del gobierno de los EE.\u00a0UU., fue ejecutado sin piedad por sus propios hombres. Resucitado de las cenizas de su tumba en un pacto fallido con las fuerzas de la oscuridad, Simmons renaci\u00f3 como una criatura de las profundidades del infierno: un infernal. Ahora ha llegado al mundo de Mortal\u00a0Kombat, donde tendr\u00e1 que luchar por la supremac\u00eda contra todos los kombatientes.",
         "languages": null,
         "size": 4194304
     },
@@ -8772,12 +8912,12 @@
     "70050000011739": {
         "id": "0100F2200C985011",
         "rightsId": null,
-        "name": "DLC 13",
+        "name": "Paquete de Skins Matin\u00e9",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20191231,
+        "releaseDate": 20200324,
         "nsuId": 70050000011739,
         "category": null,
         "ratingContent": [
@@ -8794,9 +8934,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b1e006ac3ccb675a12745255f608750fb812ecfd971710add0381fbb88cf3476.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e801590667ccbc9e79bea560ee7f7668569af33914a3b9830c1499960ab97a1e.jpg",
         "intro": null,
-        "description": null,
+        "description": "Este art\u00edculo ya est\u00e1 incluido en el Paquete\u00a0de\u00a0Kombate.\n\nTres nuevas skins de personaje. El Paquete\u00a0de\u00a0Skins\u00a0Matin\u00e9 incluye las skins de Kotal V\u00e1ndalo\u00a0osh-tekk, Erron Black Aventurero y Jacqui\u00a0Briggs Marine\u00a0espacial.",
         "languages": null,
         "size": 4194304
     },
@@ -13644,6 +13784,34 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000018587": {
+        "id": "0100D7800E9E1001",
+        "rightsId": null,
+        "name": "Accesorio de gazapo",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200424,
+        "nsuId": 70050000018587,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "SQUARE ENIX",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f98355180e95ede30c1a855837f9891838d47f9b150baa922bb33ca1636c596b.jpg",
+        "intro": null,
+        "description": "El accesorio de gazapo es una pieza de equipamiento que aumenta la experiencia conseguida en combate hasta que el personaje alcanza el nivel 10.",
+        "languages": null,
+        "size": 9437184
+    },
     "70050000018625": {
         "id": "01006A800016F033",
         "rightsId": null,
@@ -14624,7 +14792,7 @@
         "intro": null,
         "description": "Mortal\u00a0Kombat\u00a011, la m\u00e1s reciente entrega de la aclamada franquicia, te ofrece una experiencia m\u00e1s profunda y personalizada que nunca. Con las nuevas variantes de personaje tendr\u00e1s un control sin precedentes para personalizar a tus luchadores y hacerlos \u00fanicos.\n\nLa Edici\u00f3n Pr\u00e9mium de Mortal\u00a0Kombat\u00a011 incluye:\n\u2022 Juego principal\n\u2022 Paquete de Kombate\n\nEl Paquete de Kombate incluye:\n\u2022 6\u00a0nuevos personajes complementarios jugables, incluyendo a Shang Tsung, Nightwolf, Terminator T-800, Sindel, el\u00a0Guas\u00f3n y Spawn\n\u2022 Acceso anticipado de 1\u00a0semana a todos los personajes complementarios\n\u2022 Skins y\u00a0conjuntos de equipo con cada personaje complementario\n\u2022 6 paquetes de skins tem\u00e1ticas incluyendo Ninjas de Arcade Kl\u00e1sicos, Luchadores de Arcade Kl\u00e1sicos y m\u00e1s",
         "languages": null,
-        "size": 26586644480
+        "size": 27599568896
     },
     "70070000005704": {
         "id": null,
@@ -15218,7 +15386,7 @@
         "intro": null,
         "description": "Un paquete que incluye el juego Pok\u00e9mon Sword, as\u00ed como el pase de expansi\u00f3n, que te permite acceder a todo el contenido descargable una vez que est\u00e9 disponible.\n\nBonificaci\u00f3n por la compra\nAl comprar el Pok\u00e9mon Sword Expansion Pass, recibir\u00e1s el Uniforme Pikachu y el Uniforme Eevee como bonificaci\u00f3n de compra. \n-  Al comprar el Pok\u00e9mon Sword Expansion Pass, recibir\u00e1s un correo electr\u00f3nico con un c\u00f3digo en la direcci\u00f3n de correo electr\u00f3nico registrada en tu cuenta Nintendo. Selecciona \u201cRegalo misterioso\u201d seguido de \u201cRecibir mediante c\u00f3digo o contrase\u00f1a\u201d en el men\u00fa del juego e introduce el c\u00f3digo.\n-  Cuando visites el primer Centro Pok\u00e9mon del juego (requiere aproximadamente 1 hora de juego), la opci\u00f3n \u201cRegalos misteriosos\u201d se mostrar\u00e1 en el men\u00fa.\n-  No se requiere una suscripci\u00f3n de pago a Nintendo Switch Online.\n-  Solo se puede utilizar un c\u00f3digo para el Uniforme Pikachu y el Uniforme Eevee por datos de guardado. Los trajes no pueden utilizarse en distintos datos de guardado.",
         "languages": null,
-        "size": 10993270784
+        "size": 10991173632
     },
     "70070000009705": {
         "id": null,
@@ -15273,7 +15441,7 @@
         "intro": null,
         "description": "Un paquete que incluye el juego Pok\u00e9mon Shield, as\u00ed como el pase de expansi\u00f3n, que te permite acceder a todo el contenido descargable una vez que est\u00e9 disponible.\n\nBonificaci\u00f3n por la compra\nAl comprar el pase de expansi\u00f3n de Pok\u00e9mon Shield, recibir\u00e1s el Uniforme Pikachu y el Uniforme Eevee como bonificaci\u00f3n de compra. \n-  Al comprar el pase de expansi\u00f3n de Pok\u00e9mon Shield, recibir\u00e1s un correo electr\u00f3nico con un c\u00f3digo en la direcci\u00f3n de correo electr\u00f3nico registrada en tu cuenta Nintendo. Selecciona \u201cRegalo misterioso\u201d seguido de \u201cRecibir mediante c\u00f3digo o contrase\u00f1a\u201d en el men\u00fa del juego e introduce el c\u00f3digo.\n-  Cuando visites el primer Centro Pok\u00e9mon del juego (requiere aproximadamente 1 hora de juego), la opci\u00f3n \u201cRegalos misteriosos\u201d se mostrar\u00e1 en el men\u00fa.\n-  No se requiere una suscripci\u00f3n de pago a Nintendo Switch Online.\n-  Solo se puede utilizar un c\u00f3digo para el Uniforme Pikachu y el Uniforme Eevee por datos de guardado. Los trajes no pueden utilizarse en distintos datos de guardado.",
         "languages": null,
-        "size": 10993270784
+        "size": 10991173632
     },
     "70070000009788": {
         "id": null,

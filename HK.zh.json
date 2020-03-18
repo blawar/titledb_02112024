@@ -4848,10 +4848,10 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e35ac29635124cb47c70f99e77b5f505c958480c9f55053c8d7f309087c0bf7d.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/fdc6d7890ee944cce4371308b2e9d17bb4f9e7f2d40b13bac2272e8336e7638a.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7541adef6c9c5580a04f7f1acfafbc57a18d97513ddfd6b7e1c3406ffeca08c4.jpg",
             "https://img-eshop.cdn.nintendo.net/i/92e7b8eeb01ed4948ebbea4cff4526dc18118a04596df5afcb9f8ade5e94d2e3.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/63e84320d346f30c147a0c1d5ecc8eee26971ffba9e878b574391ff2bf44ae36.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d051e85a3608f96865cc3fc5b23c7895879bb00e2e4d7c005a28d43791998586.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a611e2bd144da311356142bb3efc03f457c5d4d82325832c0876210e4d04b1ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7541adef6c9c5580a04f7f1acfafbc57a18d97513ddfd6b7e1c3406ffeca08c4.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1c3b6d1497cc99354e91158259ad7bdc5a4c8a10d069d09c287a7536fd113dfd.jpg",
             "https://img-eshop.cdn.nintendo.net/i/72ca3957e15181aece36a14db338b9faa8ad849ea3f55a44cac33c56696f5662.jpg"
         ],
@@ -13262,7 +13262,7 @@
             "zh",
             "zh"
         ],
-        "size": 2160066560
+        "size": 2256535552
     },
     "70010000022872": {
         "id": "010008A00F632000",
@@ -14570,6 +14570,45 @@
         ],
         "size": 396361728
     },
+    "70010000025169": {
+        "id": "0100E2D00FE90000",
+        "rightsId": null,
+        "name": "Trials of Mana (\u4e2d\u6587\u7248)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200424,
+        "nsuId": 70010000025169,
+        "category": [
+            "\u89d2\u8272\u626e\u6f14",
+            "\u52d5\u4f5c"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": null,
+        "developer": null,
+        "publisher": "SQUARE ENIX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2af56fc4b490b34f02f63eb94419c426489fd512dfb79c5bcf098d635aeac30f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/81fd0136f68cab1885859c707274b42572a47090c7cd8f0a247a9eb3ba5c61ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/396cf78a7f331892ccd2f8af0a51524c86475a16fc36499feedda7bb3f10554e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f8c31fcbcccc4c1dd899c61353f1c0c0ccfabf9db4c8f3aff496c9c4670e000.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e584b338cf252463af040090b3d543499b5fb875b4db26a0871761afc88f5029.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e261c15e70c3c647f89ef2da65b330fa35d5f4196cce59afc1b50c1f44848ae7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/841459b96ff8b0c39e24bf9fd27785086822d658a425000e89b7af4606dcbc04.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/490ed9d0862e82e01473f753cc40664c932f7cf7b1773f37aa2c3d78367b4ad3.jpg",
+        "intro": "\u5404\u81ea\u7684\u547d\u904b\uff0c\u4e0d\u540c\u7684\u9078\u64c7\u3002\n\u4e09\u7dda\u6545\u4e8b\u5c07\u518d\u6b21\u5c55\u958b\u3002",
+        "description": "\u7368\u7279\u7684\u300c\u4e09\u7dda\u6545\u4e8b\u300d\u8a2d\u8a08\u3002\u53ef\u5f9e6\u4f4d\u89d2\u8272\u4e2d\u9078\u64c7\u4e3b\u89d2\u548c\u5925\u4f34\uff0c\u4e0d\u540c\u7684\u968a\u4f0d\u5c07\u6703\u5e36\u4f86\u4e0d\u540c\u7684\u5192\u96aa\u65c5\u7a0b\u3002\n\n\u300aTRIALS of MANA\u300b\u70ba\u65e5\u672c\u65bc1995\u5e74\u767c\u552e\u7684\u300aTrials of Mana\u300b\u76843D\u91cd\u88fd\u4f5c\u54c1\u3002\n\n\u672c\u4f5c\u9664\u4e86\u63d0\u5347\u756b\u8cea\u3001\u91cd\u88fd\u6230\u9b25\u7cfb\u7d71\u5916\uff0c\u9084\u5c0e\u5165\u4e86\u89d2\u8272\u8a9e\u97f3\u3001\u6536\u9304\u5168\u65b0\u7de8\u66f2\uff0c\u4e26\u4e14\u8ffd\u52a0\u89d2\u8272\u9593\u7684\u652f\u7dda\u5c0d\u8a71\uff0c\u4f7f\u300aTrials of Mana\u300b\u812b\u80ce\u63db\u9aa8\uff0c\u91cd\u751f\u6210\u70ba\u65b0\u6642\u4ee3\u7684\u904a\u6232\uff01\n\n\u4e0d\u5e78\u88ab\u6372\u5165\u4f01\u5716\u5229\u7528\u746a\u90a3\u4e4b\u529b\u5f81\u670d\u4e16\u754c\u7684\u52e2\u529b\u4e4b\u722d\uff0c\u6c7a\u5b9a\u62da\u6b7b\u62b5\u6297\u547d\u904b\u7684\u5e74\u8f15\u4eba\u5011\uff0c\u5c07\u8e0f\u4e0a\u65c5\u9014\u9762\u81e8\u5404\u7a2e\u8a66\u7149\uff0c\u4ed6\u5011\u7684\u6545\u4e8b\u5373\u5c07\u83ef\u9e97\u91cd\u73fe\u3002",
+        "languages": [
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 11277434880
+    },
     "70010000025308": {
         "id": "010024000FF2A000",
         "rightsId": null,
@@ -14783,7 +14822,7 @@
             "zh",
             "zh"
         ],
-        "size": 10984882176
+        "size": 10982785024
     },
     "70010000026111": {
         "id": "01008DB008C2C000",
@@ -14826,7 +14865,7 @@
             "zh",
             "zh"
         ],
-        "size": 10984882176
+        "size": 10982785024
     },
     "70010000026178": {
         "id": "01009C200F45A000",
@@ -15016,6 +15055,46 @@
             "zh"
         ],
         "size": 7948206080
+    },
+    "70010000026878": {
+        "id": "0100D7800E9E0000",
+        "rightsId": null,
+        "name": "Trials of Mana (\u82f1\u6587\u7248)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200424,
+        "nsuId": 70010000026878,
+        "category": [
+            "\u89d2\u8272\u626e\u6f14",
+            "\u52d5\u4f5c"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": null,
+        "developer": null,
+        "publisher": "SQUARE ENIX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2af56fc4b490b34f02f63eb94419c426489fd512dfb79c5bcf098d635aeac30f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/277b714ebc59f1d5fa82fd8c026e94ea7cdeed6d3c0a62ce73eab2afc06c3218.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb255afbcc5a895dcd6db13904d65872b4f3308aa99df6bef7d9b3cdf9422d1c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/961f697fad9d1606f21d34739ae1a4df96f0eb646d477b6b118303c7defa6e8d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e584b338cf252463af040090b3d543499b5fb875b4db26a0871761afc88f5029.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9010f02d8ddec1b52de620a01a788a348e1d707461ff94017b915e961a09b528.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/623dc63bedfbc7bb8a5de1a7f7af8bef2c23f4acb0452d4ecc92bb4175cc64ef.jpg",
+        "intro": "\u5404\u81ea\u7684\u547d\u904b\uff0c\u4e0d\u540c\u7684\u9078\u64c7\u3002\n\u4e09\u7dda\u6545\u4e8b\u5c07\u518d\u6b21\u5c55\u958b\u3002",
+        "description": "\u7368\u7279\u7684\u300c\u4e09\u7dda\u6545\u4e8b\u300d\u8a2d\u8a08\u3002\u53ef\u5f9e6\u4f4d\u89d2\u8272\u4e2d\u9078\u64c7\u4e3b\u89d2\u548c\u5925\u4f34\uff0c\u4e0d\u540c\u7684\u968a\u4f0d\u5c07\u6703\u5e36\u4f86\u4e0d\u540c\u7684\u5192\u96aa\u65c5\u7a0b\u3002\n\n\u300aTRIALS of MANA\u300b\u70ba\u65e5\u672c\u65bc1995\u5e74\u767c\u552e\u7684\u300aTrials of Mana\u300b\u76843D\u91cd\u88fd\u4f5c\u54c1\u3002\n\n\u672c\u4f5c\u9664\u4e86\u63d0\u5347\u756b\u8cea\u3001\u91cd\u88fd\u6230\u9b25\u7cfb\u7d71\u5916\uff0c\u9084\u5c0e\u5165\u4e86\u89d2\u8272\u8a9e\u97f3\u3001\u6536\u9304\u5168\u65b0\u7de8\u66f2\uff0c\u4e26\u4e14\u8ffd\u52a0\u89d2\u8272\u9593\u7684\u652f\u7dda\u5c0d\u8a71\uff0c\u4f7f\u300aTrials of Mana\u300b\u812b\u80ce\u63db\u9aa8\uff0c\u91cd\u751f\u6210\u70ba\u65b0\u6642\u4ee3\u7684\u904a\u6232\uff01\n\n\u4e0d\u5e78\u88ab\u6372\u5165\u4f01\u5716\u5229\u7528\u746a\u90a3\u4e4b\u529b\u5f81\u670d\u4e16\u754c\u7684\u52e2\u529b\u4e4b\u722d\uff0c\u6c7a\u5b9a\u62da\u6b7b\u62b5\u6297\u547d\u904b\u7684\u5e74\u8f15\u4eba\u5011\uff0c\u5c07\u8e0f\u4e0a\u65c5\u9014\u9762\u81e8\u5404\u7a2e\u8a66\u7149\uff0c\u4ed6\u5011\u7684\u6545\u4e8b\u5373\u5c07\u83ef\u9e97\u91cd\u73fe\u3002",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de"
+        ],
+        "size": 11278483456
     },
     "70010000027332": {
         "id": "0100A9400C9C2000",
@@ -16112,7 +16191,7 @@
             "zh",
             "zh"
         ],
-        "size": 741343232
+        "size": 767557632
     },
     "70010000028996": {
         "id": "01001E40041BE000",
@@ -16779,6 +16858,32 @@
         "size": 809500672,
         "parentId": "010025900BE90000"
     },
+    "70030000010463": {
+        "id": null,
+        "rightsId": null,
+        "name": "Trials of Mana Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000010463,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 5105516544,
+        "parentId": "0100D7800E9E0000"
+    },
     "70030000010501": {
         "id": null,
         "rightsId": null,
@@ -16856,6 +16961,32 @@
         "languages": null,
         "size": 3652190208,
         "parentId": "01003E800A102000"
+    },
+    "70030000010987": {
+        "id": null,
+        "rightsId": null,
+        "name": "Trials of Mana Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000010987,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 5105516544,
+        "parentId": "0100E2D00FE90000"
     },
     "70050000004094": {
         "id": "01007EF00011F001",
@@ -37668,6 +37799,56 @@
         "languages": null,
         "size": 8388608
     },
+    "70050000019315": {
+        "id": "0100D7800E9E1001",
+        "rightsId": null,
+        "name": "\u62c9\u6bd4\u5154\u98fe\u54c1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200424,
+        "nsuId": 70050000019315,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": "SQUARE ENIX",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f98355180e95ede30c1a855837f9891838d47f9b150baa922bb33ca1636c596b.jpg",
+        "intro": null,
+        "description": "\u7b49\u7d1a10\u4ee5\u524d\uff0c\n\u6230\u9b25\u4e2d\u7372\u5f97\u7684EXP\u5c07\u6703\u589e\u52a0",
+        "languages": null,
+        "size": 9437184
+    },
+    "70050000019322": {
+        "id": "0100E2D00FE91001",
+        "rightsId": null,
+        "name": "\u62c9\u6bd4\u5154\u98fe\u54c1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200424,
+        "nsuId": 70050000019322,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": "SQUARE ENIX",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f98355180e95ede30c1a855837f9891838d47f9b150baa922bb33ca1636c596b.jpg",
+        "intro": null,
+        "description": "\u7b49\u7d1a10\u4ee5\u524d\uff0c\n\u6230\u9b25\u4e2d\u7372\u5f97\u7684EXP\u5c07\u6703\u589e\u52a0",
+        "languages": null,
+        "size": 9437184
+    },
     "70050000019352": {
         "id": "010070D009FED002",
         "rightsId": "010070D009FED0020000000000000005",
@@ -40271,7 +40452,7 @@
         "intro": "\u300e\u5bf6\u53ef\u5922\u300f\u7cfb\u5217\u5168\u65b0\u4f5c\u767b\u9678Nintendo Switch\uff01",
         "description": "\u9810\u7d04\u8cfc\u8cb7\u300e\u5bf6\u53ef\u5922 \u528d\u300f\u904a\u6232\u672c\u7bc7\u548c\u591a\u500b\u65b0\u589e\u5167\u5bb9\u7684\u300e\u64f4\u5145\u7968\u300f\u4e4b\u7d44\u5408\u3002\n\n\u25cf\u300e\u5bf6\u53ef\u5922 \u528d\u300f\n\u5192\u96aa\u821e\u53f0\u662f\u300c\u4f3d\u52d2\u723e\u5730\u5340\u300d\u2015\u2015\u4e00\u500b\u5f9e\u606c\u975c\u7684\u7530\u5712\u5230\u8fd1\u4ee3\u90fd\u5e02\u3001\u64c1\u6709\u5343\u8b8a\u842c\u5316\u7684\u9762\u8c8c\u7684\u5730\u5340\u3002\n\u904a\u6232\u4e3b\u89d2\u5c07\u9020\u8a2a\u4f3d\u52d2\u723e\u5730\u5340\u7684\u5404\u5ea7\u300c\u9053\u9928\u300d\uff0c\u671d\u6210\u70ba\u61a7\u61ac\u4e2d\u7684\u51a0\u8ecd\u70ba\u76ee\u6a19\u5c55\u958b\u5192\u96aa\u3002\n\u9664\u4e86\u80fd\u9047\u898b\u65b0\u7684\u5bf6\u53ef\u5922\uff0c\u66f4\u53ef\u4ee5\u9ad4\u9a57\u5230\u5bf6\u53ef\u5922\u5de8\u5927\u5316\u7684\u73fe\u8c61\u300c\u6975\u5de8\u5316\u300d\u3001\u5f88\u591a\u5bf6\u53ef\u5922\u68f2\u606f\u7684\u7684\u5ee3\u95ca\u5340\u57df\u300c\u66e0\u91ce\u5730\u5e36\u300d\u3001\u53ca\u8207\u5176\u4ed6\u8a13\u7df4\u5bb6\u4e92\u76f8\u5408\u4f5c\u6311\u6230\u5f37\u5927\u5c0d\u624b\u7684\u300c\u6975\u5de8\u5718\u9ad4\u6230\u300d\u3002\n\n\u25cf\u300e\u5bf6\u53ef\u5922 \u528d\u300f\u7684\u64f4\u5145\u7968\n\u5305\u542b\u300c\u93a7\u4e4b\u5b64\u5cf6\u300d\u548c\u300c\u51a0\u4e4b\u96ea\u539f\u300d2\u500b\u65b0\u589e\u5167\u5bb9\u7684\u64f4\u5145\u7968\u3002\n\n\u53ef\u4ee5\u5230\u8a2a\u5728\u300e\u5bf6\u53ef\u5922 \u528d\uff0f\u76fe\u300f\u7684\u821e\u53f0\u300c\u4f3d\u52d2\u723e\u5730\u5340\u300d\u4e26\u5f9e\u300e\u5bf6\u53ef\u5922 \u528d\u300f\u9023\u63a5\u7684\u65b0\u5730\u5340\u300c\u93a7\u4e4b\u5b64\u5cf6\u300d\u548c\u300c\u51a0\u4e4b\u96ea\u539f\u300d\uff0c\u8207\u65b0\u7684\u5bf6\u53ef\u5922\u548c\u4eba\u7269\u76f8\u9047\u53ca\u5192\u96aa\u3002\n\n\u300c\u93a7\u4e4b\u5b64\u5cf6\u300d\u548c\u300c\u51a0\u4e4b\u96ea\u539f\u300d\u88e1\uff0c\u68f2\u606f\u8457\u773e\u591a\u6c92\u6709\u5728\u300e\u5bf6\u53ef\u5922 \u528d\uff0f\u76fe\u300f\u767b\u5834\u7684\u5bf6\u53ef\u5922\u3002\u65b0\u767c\u73fe\u7684\u5bf6\u53ef\u5922\u3001\u78ba\u8a8d\u5728\u5176\u4ed6\u5730\u65b9\u68f2\u606f\u8457\u7684\u50b3\u8aaa\u5bf6\u53ef\u5922\u548c\u70ba\u4eba\u719f\u6089\u7684\u5bf6\u53ef\u5922\u7b49\uff0c\u5145\u6eff\u4e86\u8a8d\u8b58\u6027\u683c\u5404\u6709\u4e0d\u540c\u7684\u5bf6\u53ef\u5922\u7684\u6a5f\u6703\u3002\n\n\u203b\u60f3\u958b\u59cb\u3010\u93a7\u4e4b\u5b64\u5cf6\u3011\u548c\u3010\u51a0\u4e4b\u96ea\u539f\u3011\u7684\u5192\u96aa\u7684\u8a71\uff0c\u9700\u8981\u5148\u5230\u9054\u300e\u5bf6\u53ef\u5922 \u528d\u300f\u7684\u300c\u66e0\u91ce\u5730\u5e36\u300d\u3002\u5230\u9054\u300c\u66e0\u91ce\u5730\u5e36\u300d\u6240\u9700\u6642\u9593\u5927\u7d04\u70ba2\u5c0f\u6642\u3002(\u56e0\u4eba\u800c\u7570)\n\n<\u8cfc\u8cb7\u7279\u5178>\n\u8cfc\u8cb7\u300e\u5bf6\u53ef\u5922 \u528d\uff0f\u76fe \u64f4\u5145\u7968\u300f\u5f8c\uff0c\u53ef\u63a5\u6536\u300c\u63db\u88dd\u9053\u51775\u4ef6 \u76ae\u5361\u4e18\u7af6\u6280\u670d\u7d44\u5408\u300d\u548c\u300c\u63db\u88dd\u9053\u51775\u4ef6 \u4f0a\u5e03\u7af6\u6280\u670d\u7d44\u5408\u300d\u4f5c\u70ba\u8cfc\u8cb7\u7279\u5178\u3002\n\n\u203b\u8cfc\u8cb7\u300e\u5bf6\u53ef\u5922 \u528d\uff0f\u76fe \u64f4\u5145\u7968\u300f\u5f8c\uff0c\u514c\u63db\u5e8f\u865f\u5c07\u6703\u767c\u9001\u81f3\u767b\u9304\u5230Nintendo Account\u7684\u96fb\u5b50\u90f5\u4ef6\u5730\u5740\u3002\u8acb\u5f9e\u904a\u6232\u5167\u7684\u9078\u55ae\u88e1\u9078\u64c7\u300c\u795e\u79d8\u79ae\u7269>\u900f\u904e\u7db2\u8def\u63a5\u6536\u300d\u4e26\u8f38\u5165\u514c\u63db\u5e8f\u865f\n\u203b\u300c\u795e\u79d8\u79ae\u7269\u300d\u5c07\u6703\u5728\u9996\u6b21\u5230\u8a2a\u904a\u6232\u5167\u7684\u5bf6\u53ef\u5922\u4e2d\u5fc3\u5f8c\uff0c\u5728\u9078\u55ae\u4e0a\u986f\u793a (\u6240\u9700\u6642\u9593\uff1a1\u5c0f\u6642   \u203b\u56e0\u4eba\u800c\u7570)\n\u203b\u63a5\u6536\u300c\u795e\u79d8\u79ae\u7269\u300d\u6642\u7121\u9700\u52a0\u5165Nintendo Switch Online(\u4ed8\u8cbb)\n\u203b\u6bcf1\u7d44\u300c\u63db\u88dd\u9053\u51775\u4ef6 \u76ae\u5361\u4e18\u7af6\u6280\u670d\u7d44\u5408\u300d\u548c\u300c\u63db\u88dd\u9053\u51775\u4ef6 \u4f0a\u5e03\u7af6\u6280\u670d\u7d44\u5408\u300d\u514c\u63db\u5e8f\u865f\u53ea\u4f9b1\u500b\u5132\u5b58\u8cc7\u6599\u4f7f\u7528\u30021\u7d44\u514c\u63db\u5e8f\u865f\u7121\u6cd5\u5728\u591a\u500b\u5132\u5b58\u8cc7\u6599\u88e1\u4f7f\u7528",
         "languages": null,
-        "size": 10993270784
+        "size": 10991173632
     },
     "70070000009703": {
         "id": null,
@@ -40321,7 +40502,7 @@
         "intro": "\u300e\u5bf6\u53ef\u5922\u300f\u7cfb\u5217\u5168\u65b0\u4f5c\u767b\u9678Nintendo Switch\uff01",
         "description": "\u9810\u7d04\u8cfc\u8cb7\u300e\u5bf6\u53ef\u5922 \u76fe\u300f\u904a\u6232\u672c\u7bc7\u548c\u591a\u500b\u65b0\u589e\u5167\u5bb9\u7684\u300e\u64f4\u5145\u7968\u300f\u4e4b\u7d44\u5408\u3002\n\n\u25cf\u300e\u5bf6\u53ef\u5922 \u76fe\u300f\n\u5192\u96aa\u821e\u53f0\u662f\u300c\u4f3d\u52d2\u723e\u5730\u5340\u300d\u2015\u2015\u4e00\u500b\u5f9e\u606c\u975c\u7684\u7530\u5712\u5230\u8fd1\u4ee3\u90fd\u5e02\u3001\u64c1\u6709\u5343\u8b8a\u842c\u5316\u7684\u9762\u8c8c\u7684\u5730\u5340\u3002\n\u904a\u6232\u4e3b\u89d2\u5c07\u9020\u8a2a\u4f3d\u52d2\u723e\u5730\u5340\u7684\u5404\u5ea7\u300c\u9053\u9928\u300d\uff0c\u671d\u6210\u70ba\u61a7\u61ac\u4e2d\u7684\u51a0\u8ecd\u70ba\u76ee\u6a19\u5c55\u958b\u5192\u96aa\u3002\n\u9664\u4e86\u80fd\u9047\u898b\u65b0\u7684\u5bf6\u53ef\u5922\uff0c\u66f4\u53ef\u4ee5\u9ad4\u9a57\u5230\u5bf6\u53ef\u5922\u5de8\u5927\u5316\u7684\u73fe\u8c61\u300c\u6975\u5de8\u5316\u300d\u3001\u5f88\u591a\u5bf6\u53ef\u5922\u68f2\u606f\u7684\u7684\u5ee3\u95ca\u5340\u57df\u300c\u66e0\u91ce\u5730\u5e36\u300d\u3001\u53ca\u8207\u5176\u4ed6\u8a13\u7df4\u5bb6\u4e92\u76f8\u5408\u4f5c\u6311\u6230\u5f37\u5927\u5c0d\u624b\u7684\u300c\u6975\u5de8\u5718\u9ad4\u6230\u300d\u3002\n\n\u25cf\u300e\u5bf6\u53ef\u5922 \u76fe\u300f\u7684\u64f4\u5145\u7968\n\u5305\u542b\u300c\u93a7\u4e4b\u5b64\u5cf6\u300d\u548c\u300c\u51a0\u4e4b\u96ea\u539f\u300d2\u500b\u65b0\u589e\u5167\u5bb9\u7684\u64f4\u5145\u7968\u3002\n\n\u53ef\u4ee5\u5230\u8a2a\u5728\u300e\u5bf6\u53ef\u5922 \u528d\uff0f\u76fe\u300f\u7684\u821e\u53f0\u300c\u4f3d\u52d2\u723e\u5730\u5340\u300d\u4e26\u5f9e\u300e\u5bf6\u53ef\u5922 \u76fe\u300f\u9023\u63a5\u7684\u65b0\u5730\u5340\u300c\u93a7\u4e4b\u5b64\u5cf6\u300d\u548c\u300c\u51a0\u4e4b\u96ea\u539f\u300d\uff0c\u8207\u65b0\u7684\u5bf6\u53ef\u5922\u548c\u4eba\u7269\u76f8\u9047\u53ca\u5192\u96aa\u3002\n\n\u300c\u93a7\u4e4b\u5b64\u5cf6\u300d\u548c\u300c\u51a0\u4e4b\u96ea\u539f\u300d\u88e1\uff0c\u68f2\u606f\u8457\u773e\u591a\u6c92\u6709\u5728\u300e\u5bf6\u53ef\u5922 \u528d\uff0f\u76fe\u300f\u767b\u5834\u7684\u5bf6\u53ef\u5922\u3002\u65b0\u767c\u73fe\u7684\u5bf6\u53ef\u5922\u3001\u78ba\u8a8d\u5728\u5176\u4ed6\u5730\u65b9\u68f2\u606f\u8457\u7684\u50b3\u8aaa\u5bf6\u53ef\u5922\u548c\u70ba\u4eba\u719f\u6089\u7684\u5bf6\u53ef\u5922\u7b49\uff0c\u5145\u6eff\u4e86\u8a8d\u8b58\u6027\u683c\u5404\u6709\u4e0d\u540c\u7684\u5bf6\u53ef\u5922\u7684\u6a5f\u6703\u3002\n\n\u203b\u60f3\u958b\u59cb\u3010\u93a7\u4e4b\u5b64\u5cf6\u3011\u548c\u3010\u51a0\u4e4b\u96ea\u539f\u3011\u7684\u5192\u96aa\u7684\u8a71\uff0c\u9700\u8981\u5148\u5230\u9054\u300e\u5bf6\u53ef\u5922 \u76fe\u300f\u7684\u300c\u66e0\u91ce\u5730\u5e36\u300d\u3002\u5230\u9054\u300c\u66e0\u91ce\u5730\u5e36\u300d\u6240\u9700\u6642\u9593\u5927\u7d04\u70ba2\u5c0f\u6642\u3002(\u56e0\u4eba\u800c\u7570)\n\n<\u8cfc\u8cb7\u7279\u5178>\n\u8cfc\u8cb7\u300e\u5bf6\u53ef\u5922 \u528d\uff0f\u76fe \u64f4\u5145\u7968\u300f\u5f8c\uff0c\u53ef\u63a5\u6536\u300c\u63db\u88dd\u9053\u51775\u4ef6 \u76ae\u5361\u4e18\u7af6\u6280\u670d\u7d44\u5408\u300d\u548c\u300c\u63db\u88dd\u9053\u51775\u4ef6 \u4f0a\u5e03\u7af6\u6280\u670d\u7d44\u5408\u300d\u4f5c\u70ba\u8cfc\u8cb7\u7279\u5178\u3002\n\n\u203b\u8cfc\u8cb7\u300e\u5bf6\u53ef\u5922 \u528d\uff0f\u76fe \u64f4\u5145\u7968\u300f\u5f8c\uff0c\u514c\u63db\u5e8f\u865f\u5c07\u6703\u767c\u9001\u81f3\u767b\u9304\u5230Nintendo Account\u7684\u96fb\u5b50\u90f5\u4ef6\u5730\u5740\u3002\u8acb\u5f9e\u904a\u6232\u5167\u7684\u9078\u55ae\u88e1\u9078\u64c7\u300c\u795e\u79d8\u79ae\u7269>\u900f\u904e\u7db2\u8def\u63a5\u6536\u300d\u4e26\u8f38\u5165\u514c\u63db\u5e8f\u865f\n\u203b\u300c\u795e\u79d8\u79ae\u7269\u300d\u5c07\u6703\u5728\u9996\u6b21\u5230\u8a2a\u904a\u6232\u5167\u7684\u5bf6\u53ef\u5922\u4e2d\u5fc3\u5f8c\uff0c\u5728\u9078\u55ae\u4e0a\u986f\u793a (\u6240\u9700\u6642\u9593\uff1a1\u5c0f\u6642   \u203b\u56e0\u4eba\u800c\u7570)\n\u203b\u63a5\u6536\u300c\u795e\u79d8\u79ae\u7269\u300d\u6642\u7121\u9700\u52a0\u5165Nintendo Switch Online(\u4ed8\u8cbb)\n\u203b\u6bcf1\u7d44\u300c\u63db\u88dd\u9053\u51775\u4ef6 \u76ae\u5361\u4e18\u7af6\u6280\u670d\u7d44\u5408\u300d\u548c\u300c\u63db\u88dd\u9053\u51775\u4ef6 \u4f0a\u5e03\u7af6\u6280\u670d\u7d44\u5408\u300d\u514c\u63db\u5e8f\u865f\u53ea\u4f9b1\u500b\u5132\u5b58\u8cc7\u6599\u4f7f\u7528\u30021\u7d44\u514c\u63db\u5e8f\u865f\u7121\u6cd5\u5728\u591a\u500b\u5132\u5b58\u8cc7\u6599\u88e1\u4f7f\u7528",
         "languages": null,
-        "size": 10993270784
+        "size": 10991173632
     },
     "70070000009712": {
         "id": null,
