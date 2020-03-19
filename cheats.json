@@ -8465,6 +8465,34 @@
             "version": 65536
         },
         "A6B07FF854883072": {
+            "00dce57d2c93641e17315449e43ecb11dc6275cfddc04fc671b334c0307eda0a": {
+                "source": "400E0000 00000000 00B88120\n620F01E0 00000000 000003AF",
+                "title": "[Itemslot 00 - Builder's Workbench (Lv5)]"
+            },
+            "0103983ad5b9283c37f8e80aec61dfc4037dd006f7a48549509a41803a973276": {
+                "source": "400E0000 00000000 000954D4\n640F01E0 00000000 42C80000",
+                "title": "[05#Stamina Gauge 100%]"
+            },
+            "0561feed641a377dc19a26c7e56c981d9419f0e98f9fcfa018a5331f31554e03": {
+                "source": "400E0000 00000000 00B88120\n620F01E0 00000000 0000031A",
+                "title": "[Itemslot 00 - Thermalwater]"
+            },
+            "0f72d114cf586e1e9b0b1f8a391f1785c9ad78383899589ec2dadf72bd455029": {
+                "source": "400E0000 00000000 007E5744\n640F01E0 00000000 00000000",
+                "title": "[06# 0 Gratitude Points]"
+            },
+            "106aa61b1e3683683fd7ee34942189ff227e3ffbbf1665f30d6a58cdc1c26940": {
+                "source": "400E0000 00000000 00B88126\n620F01E0 00000000 00000063",
+                "title": "[Itemslot 01 x99]"
+            },
+            "247fa8d60b05bca9c0a06eac1d8ccc29a862e983768ee9fcba001b3e3a42ecb1": {
+                "source": "400E0000 00000000 007E5744\n640F01E0 00000000 0001869F",
+                "title": "[99999 Gratitude Points]"
+            },
+            "293e1dbb1f617b27a1425a2bc9932b690239aeadb68d2e1a2229337df84e6e5f": {
+                "source": "400E0000 00000000 000954D4\n640F01E0 00000000 432F0000",
+                "title": "[Stamina Gauge 175%]"
+            },
             "299bb29f5e7560703aeed6cc930cd8a7658d9cb143fd7c155fa3b95a067e06ec": {
                 "source": "021F0000 41C84AE6 00000063",
                 "title": "[Hand Item Slot 14 x99]"
@@ -8472,6 +8500,10 @@
             "3ababc3fe3cd3f718999e4f0673728befcceae8ede1c55eafa11a9a53bbc5bc5": {
                 "source": "021F0000 41C84ABA 00000063",
                 "title": "[Hand Item Slot 3 x99]"
+            },
+            "415890a5a3ea4aa40984c70004d3b87f485a523b8f8cde16caa5c9f01eae2b35": {
+                "source": "400E0000 00000000 000954CC\n620F01E0 00000000 00002710",
+                "title": "[04# Hunger Always 100%]"
             },
             "43125abd4256a7752df01352f24ef256a5ff750e177d985e6dd6b0a73d5bcc93": {
                 "source": "021F0000 41C84AEA 00000063",
@@ -8481,21 +8513,61 @@
                 "source": "021F0000 41C84AE2 00000063",
                 "title": "[Hand Item Slot 13 x99]"
             },
+            "68c8e108bd53ed0a6c2d73850bb4ae903e25efdc5d42c07fb8e53f405056af23": {
+                "source": "400E0000 00000000 00B8812A\n620F01E0 00000000 00000001",
+                "title": "[Itemslot 02 x01]"
+            },
+            "6b82b4efd224b14784321de129ae0fc4527f4f8152a0e62c66400b4a09dd98ef": {
+                "source": "400E0000 00000000 007E5744\n640F01E0 00000000 0000270F",
+                "title": "[9999 Gratitude Points]"
+            },
+            "6e0ea7001effc1f08ee621e2eab5de15a90fc27b5648d81aaf5597182f1dac84": {
+                "source": "400E0000 00000000 00B88120\n620F01E0 00000000 00000140",
+                "title": "[Itemslot 00 - Ultimallet]"
+            },
             "72606877c40ccf1b7957911e87c8344d58ee5e6c0295c387cd7633c040288ab2": {
                 "source": "021F0000 41C84ADA 00000063",
                 "title": "[Hand Item Slot 11 x99]"
+            },
+            "73a550783f1ca9cdcf0994779aa2ded14960f7841c16e9074f2ec946e4aa1ba6": {
+                "source": "400E0000 00000000 000954D4\n640F01E0 00000000 42FA0000",
+                "title": "[Stamina Gauge 125%]"
             },
             "7798c6d8cb5efb9242ce0594243439f8ea30cbd803db0f551ee83473840445fe": {
                 "source": "021F0000 41C84ABE 00000063",
                 "title": "[Hand Item Slot 4 x99]"
             },
+            "7aefe74a391c68a905d53e4c75f6fc92d2b821afa9145e0ff16bde145bfe3a10": {
+                "source": "400E0000 00000000 000954D4\n640F01E0 00000000 43160000",
+                "title": "[Stamina Gauge 150%]"
+            },
             "83359408325944465fc5866346f23a7040349076f76d21658dfca514aedcfd15": {
                 "source": "021F0000 41C84ACA 00000063",
                 "title": "[Hand Item Slot 7 x99]"
             },
+            "846e6ccb1284f04ec422a3c4c344a79a21ca5aabd1909e1f0a05962874c29087": {
+                "source": "400E0000 00000000 00B88122\n620F01E0 00000000 00000063",
+                "title": "[07# Itemslot 00 x99]"
+            },
             "899dd7cbf4f54f03cba5a55799770b8bea3e7a71e3e913f865755b9337a9fee9": {
                 "source": "021F0000 41C84AC2 00000063",
                 "title": "[Hand Item Slot 5 x99]"
+            },
+            "960fbfa57170c864223dae49663a9cff2a02c0ccddbd181ad8348004d089f36c": {
+                "source": "400E0000 00000000 00B88120\n620F01E0 00000000 0000031B",
+                "title": "[Itemslot 00 - Lava]"
+            },
+            "a193642491b54d2877119a704da3ad9030ab1772db003de85d318fd5a1997cae": {
+                "source": "580F0000 013E1F88\n581F1000 00000060",
+                "title": "[#Mastercode#]"
+            },
+            "aed2c2144ab2f588a334129d2e7f789543a999baffd86d99cfbbdf2f52b7ed28": {
+                "source": "400E0000 00000000 00B88120\n620F01E0 00000000 0000000D",
+                "title": "[08# Itemslot 00 - Life Seed]"
+            },
+            "b4375732423032f4316ee057e090f76ab55f5d14d6f2151c80cb84c57b34574f": {
+                "source": "400E0000 00000000 00B88120\n620F01E0 00000000 0000080A",
+                "title": "[Itemslot 00 - Falcon Blade (3 Stars)]"
             },
             "bdc7d956a874623d729609a0f69f444daa6530df2ce5ffa3298cd4e1d39b9076": {
                 "source": "021F0000 41C84AD2 00000063",
@@ -8509,13 +8581,41 @@
                 "source": "021F0000 41C84AB2 00000063",
                 "title": "[Hand Item Slot 1 x99]"
             },
+            "d0dd00d002874762a285b55ce0fe31eb58c2ffcdbfaa329bbf154289972411bf": {
+                "source": "400E0000 00000000 00B88120\n620F01E0 00000000 0000013E",
+                "title": "[Itemslot 00 - War Hammer]"
+            },
+            "d22f0253ca0c0dbe0cd9d02f9c9e3680487da3b3042aba536592dbe0f5cd01f5": {
+                "source": "400E0000 00000000 00B88120\n620F01E0 00000000 00000079",
+                "title": "[Itemslot 00 - Storage Bay]"
+            },
+            "d8d3dd07bc723126630fb23eb44a86542d399c56b636c7e554bbc02894f1050b": {
+                "source": "400E0000 00000000 00B88120\n620F01E0 00000000 00000138",
+                "title": "[Itemslot 00 - Erdrick's Sword]"
+            },
+            "dc543244e22520cc982c1883d7e75569579440339f61d5b999cebf7865f9580e": {
+                "source": "400E0000 00000000 000954C4\n620F01E0 00000000 000003E7",
+                "title": "[02# Infinite HP]"
+            },
             "e0eb53fa955826f7a3ee85d6f32a5b001231676b0f1491eecd39886cf6a1b6af": {
                 "source": "021F0000 41C84ACE 00000063",
                 "title": "[Hand Item Slot 8 x99]"
             },
+            "eb6c800dfeb1daac17fcad8be1f53d44c7a437fbbb8ea86e5a851e933b29cced": {
+                "source": "400E0000 00000000 000954C6\n620F01E0 00000000 000003E7",
+                "title": "[03# Max HP]"
+            },
             "ec41399410601ec0c810cd0da9cc2cf759f6949782448d8de8715158b192bebc": {
                 "source": "021F0000 41C84AB6 00000063",
                 "title": "[Hand Item Slot 2 x99]"
+            },
+            "ef4b6eb42186e0071f2363c1ff8f5e6bf8a83c2bd28a2037181c22b524ef9ea9": {
+                "source": "400E0000 00000000 00B88120\n620F01E0 00000000 00000575",
+                "title": "[Itemslot 00 - Wrecking Ball]"
+            },
+            "ef84044bc2acb7187f3b2971bf04fb50e3a645882ce75369e574e37320052a0f": {
+                "source": "80000002\n580F0000 013800D8\n580F1000 00000058\n580F1000 00000190\n580F1000 00000138\n780F0000 0000010C\n640F0000 00000000 3E800000\n20000000",
+                "title": "[01# Moon Jump (Press B)]"
             },
             "f3fcdf005b976ce2bd95442c5531f5d9f23f811dc790fa4c8515f4454c2fe76e": {
                 "source": "021F0000 41C84AD6 00000063",
@@ -8524,6 +8624,10 @@
             "f64f23d58452482402838900be22301d2e77d04326037bc78dfe8c70e9694cbb": {
                 "source": "021F0000 41C84AC6 00000063",
                 "title": "[Hand Item Slot 6 x99]"
+            },
+            "f7314e2f290d3b8fa1d5f64753f9ab698b066dd15fc1502f73ca887d4714f1e9": {
+                "source": "400E0000 00000000 00B88120\n620F01E0 00000000 00000316",
+                "title": "[Itemslot 00 - Freshwater]"
             },
             "version": 262144
         },
@@ -14334,6 +14438,64 @@
             },
             "version": 327680
         },
+        "5474C91B733D8621": {
+            "0059900c00a806d9079c9bf49ae155dddaaed7831390d5ee86ac6b4a3f463073": {
+                "source": "580F0000 01990320\n580F1000 00000030\n580F1000 00000090\n780F0000 00000150\n300E0000 00000003\n640F0000 00000000 00000032\n780F0000 00000004\n310E0000 20000000",
+                "title": "[Power Max]"
+            },
+            "23840817fb62531cb811a7834dfe370f80df0e71393621ca444a1da63c86f12c": {
+                "source": "04000000 002C93E8 0B140D29\n04000000 002C9678 0B140D01",
+                "title": "[Money/cell x8]"
+            },
+            "2dae3c14ce2507ddad5f9b99713b33c37d6e50d874dc460af35026270e4de107": {
+                "source": "580F0000 01990320\n580F1000 00000030\n580F1000 00000090\n580F1000 00000438\n580F1000 00000010\n580F1000 00000018\n580F1000 00000020\n780F0000 000000A4\n640F0000 00000000 00000000\n580F0000 01990320\n580F1000 00000030\n580F1000 00000090\n580F1000 00000438\n580F1000 00000010\n580F1000 00000020\n580F1000 00000020\n780F0000 000000A4\n640F0000 00000000 00000000",
+                "title": "[No Cooldown on Items]"
+            },
+            "3cf212807ce6640cab642efc289c4326f3ce8406c602037e723c6b2ba3e3146b": {
+                "source": "04000000 002C97AC 4B1F0101",
+                "title": "[Cells remain open]"
+            },
+            "4da7686a4f870e62f25c2a97556e53ed6f65a8d3158236d524e3775ad675b27e": {
+                "source": "04000000 00F7A500 B9404261\n04000000 00F7A504 7100203F\n04000000 00F7A508 54000041\n04000000 00F7A50C 52800008\n04000000 00F7A510 4B0802C8\n04000000 00F7A514 D65F03C0\n04000000 000B9CC4 943B020F",
+                "title": "[Inf Hp]"
+            },
+            "588fd6e1f815a62e0968d7c2c92134711ee6ceab3eb6f2636039224e4a2cf601": {
+                "source": "04000000 00F7A520 B9404261\n04000000 00F7A524 7100203F\n04000000 00F7A528 54000040\n04000000 00F7A52C 52800008\n04000000 00F7A530 B9012A68\n04000000 00F7A534 D65F03C0\n04000000 000B9CCC 943B0215",
+                "title": "[Seckill on]"
+            },
+            "7644bd2b59d40a0dd6b08d333bbd610703b6b69a3769802e9719751088967214": {
+                "source": "04000000 002C93E8 0B140929\n04000000 002C9678 0B140901",
+                "title": "[Money/cell x4]"
+            },
+            "87d9fed305e770ce4aa043b9ece789063f4bc2e4c83c5b44f5aa10c23614ec09": {
+                "source": "04000000 00362160 4B1F0108\n04000000 00362194 4B1F0137",
+                "title": "[Attack Vampire Effect]"
+            },
+            "8e6331f872694e356b52c2a5e34f4fe241d0615389c2113c1bc0be4491263e62": {
+                "source": "04000000 002C97AC 4B150101",
+                "title": "[Cells are not reduced close]"
+            },
+            "97fde0a04397d07e40bf8fb80fe83961258072f3d5e875046568c13bebd3af11": {
+                "source": "04000000 002C93E8 0B141129\n04000000 002C9678 0B141101",
+                "title": "[Money/cell x16]"
+            },
+            "ab7ef92c89c5e7441b184970c73abf63e174655ecdcb132d854b116e414f40f7": {
+                "source": "80000082\n580F0000 01990320\n580F1000 00000030\n580F1000 00000090\n780F0000 000000B4\n640F0000 00000000 BFE00000\n20000000",
+                "title": "[Inf Jump R+B]"
+            },
+            "b8895f850586002e4b8985ddd05948622a81e110647082752032d450e016ea74": {
+                "source": "04000000 000B9CCC B9012A68",
+                "title": "[Second Close]"
+            },
+            "ec8b875eb6119d326c8dba62360c4bd4c18eef4af533cc623fc3c967aded061b": {
+                "source": "04000000 002C9530 6B1F0129",
+                "title": "[Inf Money]"
+            },
+            "f81153cbdb59187ce7daa7e38bdd6d1e0fc71341bf7cf01eb235be76f64764f6": {
+                "source": "04000000 000B9170 1A89B128\n04000000 0032D1B4 1A89B12B",
+                "title": "[Max Hp Recovery]"
+            }
+        },
         "62F7F1E54F9353F8": {
             "11e3a7a345f6683a587bd557dc631ca1b5ebb69f595e9c84f6ac6646e9d924f2": {
                 "source": "580F0000 014680C8\n580F1000 00000030\n580F1000 00000090\n780F0000 00000118\n640F0000 00000000 0001869F\n780F0000 00000004\n640F0000 00000000 0001869F",
@@ -17363,6 +17525,58 @@
                 "title": "[Have All Boots]"
             },
             "version": 262144
+        }
+    },
+    "01006F8002326000": {
+        "7FC1BAFF976AECA4": {
+            "1ac59477ef645731ab31042e946ff8f783cceed011e14f61b0e4b3f0db776f2c": {
+                "source": "04000000 02211F00 10000000\n04000000 02211F04 B9401403\n04000000 02211F08 1B037C21\n04000000 02211F0C 8B214115\n04000000 02211F10 D65F03C0\n04000000 02211F14 00000010\n04000000 00FC2648 94493E2E",
+                "title": "[money/milesx16]"
+            },
+            "3e986790ffe21b4c0df71dade284ca31ed988f13e45d737b98c2af6a5ece8d90": {
+                "source": "04000000 02211F00 10000000\n04000000 02211F04 B9401403\n04000000 02211F08 1B037C21\n04000000 02211F0C 8B214115\n04000000 02211F10 D65F03C0\n04000000 02211F14 00000008\n04000000 00FC2648 94493E2E",
+                "title": "[mney/milesx8]"
+            },
+            "4d5c4731a77e1ce226b6e48f66799925bb82486d8d0fba9e54f88090a4442bca": {
+                "source": "04000000 00FC2648 8B214115\n04000000 00FC27A0 6B010114\n04000000 00FC27F0 6B010114",
+                "title": "[money miles return]"
+            },
+            "585519784456df1dcea1420ee50b22eab6b0408f5caede66114c1b7e1bcbb409": {
+                "source": "04000000 02211F00 10000000\n04000000 02211F04 B9401403\n04000000 02211F08 1B037C21\n04000000 02211F0C 8B214115\n04000000 02211F10 D65F03C0\n04000000 02211F14 00000064\n04000000 00FC2648 94493E2E",
+                "title": "[# money/miles x100]"
+            },
+            "67a2a5dcf482788c516070a91bc0de46c895d3ee2efa5505047394f7fabae6f3": {
+                "source": "580F0000 033441F8\n580F1000 00000118\n580F1000 00000008\n580F1000 000007E0\n780F0000 000005C0\n640F0000 00000000 40800000",
+                "title": "[Speed Up]"
+            },
+            "79a55086de23bbb784998e75b964ce4da859120966f709da3e8d5b03d099401f": {
+                "source": "04000000 02211F00 10000000\n04000000 02211F04 B9401403\n04000000 02211F08 1B037C21\n04000000 02211F0C 8B214115\n04000000 02211F10 D65F03C0\n04000000 02211F14 00000020\n04000000 00FC2648 94493E2E",
+                "title": "[money/miles x32]"
+            },
+            "b447afb26d233595fff0bb4063518201dc12b4631a1e10af8f34da2a38697eef": {
+                "source": "04000000 00FC2648 8B214115",
+                "title": "[Ring money / miles rate reduction]"
+            },
+            "bb640e09c34a973889c3e90117ea42cc0a2e4b042cfe2c417a19304303867a42": {
+                "source": "04000000 00FC27A0 6B1F0114",
+                "title": "[bells don't decrease]"
+            },
+            "cb2b6c1ef0b56a7b36d7cff4d170338f379b3cf745575d5d2efbb8b1d3ad89ff": {
+                "source": "580F0000 033441F8\n580F1000 00000118\n580F1000 00000008\n580F1000 000007E0\n780F0000 000009D4\n640F0000 00000000 00000000\n80000040\n640F0000 00000000 FFFFFFFF\n20000000",
+                "title": "[Walk through Walls (Hold L)]"
+            },
+            "e7d39fedad5bfc222352fee5fafbad7d114fe39ea54c3ac66ea77bdff054e06b": {
+                "source": "04000000 02211F00 10000000\n04000000 02211F04 B9401403\n04000000 02211F08 1B037C21\n04000000 02211F0C 8B214115\n04000000 02211F10 D65F03C0\n04000000 02211F14 00000004\n04000000 00FC2648 94493E2E",
+                "title": "[money/milesx4]"
+            },
+            "f9c8f2345158de36a1f273158b6ec6782ed19fc4a3ec7d90e484b10232c7de5b": {
+                "source": "80000200\n580F0000 033441F8\n580F1000 00000118\n580F1000 00000008\n580F1000 000007E0\n780F0000 00001640\n640F0000 00000000 42500000\n20000000",
+                "title": "[Jump (Hold ZR)]"
+            },
+            "fa221bed3bdf1326660208a4e48d389a1e055c96b6f5c6f6248434ba6e0f75b8": {
+                "source": "04000000 00FC27F0 6B1F0114",
+                "title": "[miles not decreased]"
+            }
         }
     },
     "01006FE005B6E000": {
@@ -28356,9 +28570,17 @@
     },
     "0100BAB00E8C0000": {
         "06B9D4461DC8A442": {
+            "0d4e5d85db006fe461d2c1760af59ed381e79d74d6eb4ca9f6eefcf25cd85832": {
+                "source": "580F0000 0210F840\n580F1000 000000B8\n580F1000 00000050\n580F1000 000000D8\n780F0000 000000D0\n300E0000 0000001D\n640F0000 00000000 0000000A\n780F0000 00000004\n310E0000",
+                "title": "[11# All Shields]"
+            },
             "22b852c2bbac2ce542c3bae8b483905efa680e3d4d4371829094e42d8665751e": {
                 "source": "580F0000 02130D08\n580F1000 000003C0\n580F1000 000000F8\n780F0000 00000158\n640F0000 00000000 000003E7",
                 "title": "[07# Volkoff Max HP]"
+            },
+            "2faddb59619893f0d1b73de1519b58468eae8d7677521f0de72ab31d0b87e65f": {
+                "source": "580F0000 0210F840\n580F1000 000000B8\n580F1000 00000050\n580F1000 000000D8\n780F0000 00000024\n300E0000 00000028\n640F0000 00000000 0000000A\n780F0000 00000004\n310E0000",
+                "title": "[10# All Weapons]"
             },
             "30f943ce54521b73c530a0a02e86a726f06f2e9de4ad02181a72a36915b7dd9a": {
                 "source": "58000000 0210F840\n58001000 000000B8\n58001000 00000050\n58001000 000000D8\n78000000 00000024\n300E0000 00000028\n64000000 00000000 0000000A\n78000000 00000004\n310E0000\n20000000",
@@ -28371,6 +28593,10 @@
             "5151d86a9678641c6ace98d8f5944da7c065eee7104748550bd3a4c786337939": {
                 "source": "580F0000 02130D08\n580F1000 000003C0\n580F1000 00000168\n780F0000 0000039C\n640F0000 00000000 000003E7",
                 "title": "[04# Ledlin Inf MP]"
+            },
+            "6fd8994301a09887dee45beab567215341a6f65874dfb05ad92621824c9fc57b": {
+                "source": "580F0000 0210F840\n580F1000 000000B8\n580F1000 00000050\n580F1000 000000D8\n780F0000 00000150\n300E0000 0000002B\n640F0000 00000000 0000000A\n780F0000 00000004\n310E0000",
+                "title": "[12# All Others]"
             },
             "985f393a4b97efb00ade64587571446793d451e1c4066342924b7aa1ab630b86": {
                 "source": "580F0000 02130D08\n580F1000 000003C0\n580F1000 00000168\n780F0000 000003A0\n640F0000 00000000 00000186",
@@ -31152,6 +31378,36 @@
             "fc207e1aa3a741d485901295a1fa181dfc2e0620ea285209efeb79748f2eb922": {
                 "source": "580F0000 019272D0\n580F1000 00000018\n580F1000 00000020\n580F1000 00001130\n780F0000 00001EF8\n640F0000 00000000 00000063",
                 "title": "[02# 99 hearts]"
+            }
+        },
+        "788DD38AD97F1D12": {
+            "1ad4c6e470185db201cdcde98ce8ffd21d40ee8b8d6b509dd488f77356b683f8": {
+                "source": "580F0000 01937C40\n580F1000 00000568\n780F0000 00001B9C\n640F0000 00000000 00001838",
+                "title": "[02# Invincible]"
+            },
+            "20416dad017af9dd0d7a08834e768d3cc7b5ab29b9e785b10a24be24ce3fea4a": {
+                "source": "80000002\n580F0000 01937C40\n580F1000 00000568\n780F0000 00000908\n640F0000 00000000 41000000\n20000000",
+                "title": "[03# Moonjump (Press B)]"
+            },
+            "214dd16bb62b779bef08db4e8dfa4a6e51f69836444ba3dbc4e8cd84250c1a65": {
+                "source": "580F0000 01937C40\n580F1000 00000568\n780F0000 00001B00\n640F0000 00000000 0000270F",
+                "title": "[06# Max Value of hearts]"
+            },
+            "3edb66f1fa35e2658531a33c06f90a9e9e414ef8b538ab5915f4fa8bf0cb3d69": {
+                "source": "580F0000 01937C40\n580F1000 00000568\n780F0000 00000830\n640F0000 00000000 40800000",
+                "title": "[04# Speed Up]"
+            },
+            "4eebe86517e8af6ccf4149073d826ae4ffa1aa8106b36ad05cdf107cac17a686": {
+                "source": "580F0000 01937C40\n580F1000 00000568\n780F0000 00001BA0\n640F0000 00000000 00000063",
+                "title": "[01# Max hearts]"
+            },
+            "eeb549c6fdf2fb831c17f35930935f819cd72f8ea6ab96bc0ec9bb9c17f2e0ee": {
+                "source": "580F0000 019B6610\n780F0000 000038E8\n640F0000 00000000 000F423F",
+                "title": "[07# 999999 Money]"
+            },
+            "fa6f9e17cf397fdde6e5a3687523240e81e604bdba311d5a90678023124ac547": {
+                "source": "580F0000 01937C40\n580F1000 00000568\n780F0000 000007E4\n640F0000 00000000 40000000",
+                "title": "[05# Big Luigi]"
             }
         },
         "A27C9BA72927796A": {
@@ -35118,6 +35374,52 @@
                 "title": "[Inf Health P1]"
             },
             "version": 0
+        },
+        "DBF3CF1A67412D92": {
+            "03ad92dc5da793c84106290a87dbfa703abc9131116d7af32a99c35d08b1d8c1": {
+                "source": "580F0000 0B01B990\n580F1000 00000158\n780F0000 00000194\n640F0000 00000000 00000000",
+                "title": "[09# CPU NO Fatal Blows]"
+            },
+            "0fe92ad54ac679d04ca69694fda0b4b9a511bb2a2176c547b3bb786f78f0597b": {
+                "source": "580F0000 0B01B990\n780F0000 00000194\n640F0000 00000000 42C80000",
+                "title": "[04# Inf Enhanced Moves]"
+            },
+            "19a2da825c060839cd7666e3306bcb54e97f8846eae5dcf5600de708b43e72f4": {
+                "source": "580F0000 0B01B990\n780F0000 00000194\n640F0000 00000000 44FA0000",
+                "title": "[04# Inf Enhanced Moves]"
+            },
+            "2301ef3cd02ff8abf89a7af28358f6844333416cce0a6e2b8390002c10795239": {
+                "source": "580F0000 0B01B990\n580F1000 00000158\n780F0000 00000184\n640F0000 00000000 00000000",
+                "title": "[06# CPU NO Interactions Alt]"
+            },
+            "284b94957b84566bc650cfa1ab588a2b0c9dcdd79f0d85c5b256d6e30abcac3a": {
+                "source": "580F0000 0B01B990\n780F0000 00000184\n640F0000 00000000 42C80000",
+                "title": "[03# Inf Interactions]"
+            },
+            "36aa5e6feb60dd47baffb31acc736f429d207d2839100e5ce89393ef388e1fca": {
+                "source": "580F0000 0B01B990\n780F0000 00000184\n640F0000 00000000 44FA0000",
+                "title": "[03# Inf Interactions]"
+            },
+            "3829abba39c1dd64d35abbc6dbe716d633ed717e32c3c8802b97660c56a7e3c5": {
+                "source": "580F0000 0B713C78\n580F1000 00000000\n780F0000 00000C18\n640F0000 00000000 3F800000",
+                "title": "[02# P1 Inf health]"
+            },
+            "5d2563ec9f1e55dae9c436afe89186d4125aedb3a25bd068dae41a85baed288f": {
+                "source": "80000020\n580F0000 0B713C78\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000",
+                "title": "[08# CPU 1 Hit Death Press R3]"
+            },
+            "9aeeb8c5f70d5c9aaf47e1db687287b400d9641a13a95faceb8119220a71e628": {
+                "source": "08000000 02CEF840 D65F03C0 320003E0",
+                "title": "[10# Unlock Collection Chars Stages ON]"
+            },
+            "d14a558aac6b66f792c44b988cf0e0688d4ceb91fcccdfd9e5be36271d0ecaf5": {
+                "source": "580F0000 0A487EE8\n780F1000 000005B0\n610F0000 00000000 000000F0",
+                "title": "[01# Inf Time]"
+            },
+            "dd4a43d2a2003c99eb5acd202d86473d34480ebe427466875a95c58392ff0c08": {
+                "source": "580F0000 0B01B990\n780F0000 000003DC\n640F0000 00000000 00000001",
+                "title": "[05# Inf Fatal Blows]"
+            }
         },
         "DFE3C7C2880CE91D": {
             "a0da8ca6f11eb084c211bd7f094bcce033fa48adc7c98748fc46daa932d74c38": {

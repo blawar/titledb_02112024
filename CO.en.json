@@ -5587,7 +5587,7 @@
             "zh",
             "zh"
         ],
-        "size": 6701449216
+        "size": 6975127552
     },
     "70010000027969": {
         "id": "0100DD30110CC000",
@@ -11035,6 +11035,37 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e557f20cf7d46af43ab43737af58bac18a23acc17dbe91b04ef6ff0ab0ec265e.jpg",
         "intro": null,
         "description": "\"You will be able to use \"\"Wood Grain\"\" as a Surface for your Arsenals.\n\n\u203bYou will need the production version of DAEMON X MACHINA to use this content.\n\u203bThis content is not equipment, and is purely cosmetic. There are no status changes when using this content.\"\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000015312": {
+        "id": "0100B6400CA57001",
+        "rightsId": null,
+        "name": "Arsenal \"Prototype Arsenal\"\nSuit for Outer: \"Prototype Suit\" (Male & Female)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200318,
+        "nsuId": 70050000015312,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood",
+            "Mild Language",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a75e3dc57f7df8453ef9bf699aa1530a69d718deaff3f9f86e02d6aa311071df.jpg",
+        "intro": null,
+        "description": "This is a set that includes the Arsenal \"Prototype Arsenal\", which allows you to change the appearance of your Arsenal, and the Outer Suit\"Prototype Suit\" that can be equipped by an Outer.\n\n\u203bThese items are the same as the early purchase bonus content, \"Prototype Arsenal\" and \"Prototype Suit\".\n\n\u203bA copy of \"DAEMON X MACHINA\" is required to use this content.\n\n\u203bThis content is not equipment, but items that change the appearance. There are no status changes associated with the use of these items.\n",
         "languages": null,
         "size": 4194304
     },

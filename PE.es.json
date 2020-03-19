@@ -5748,7 +5748,7 @@
             "zh",
             "zh"
         ],
-        "size": 6701449216
+        "size": 6975127552
     },
     "70010000027969": {
         "id": "0100DD30110CC000",
@@ -11196,6 +11196,37 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e557f20cf7d46af43ab43737af58bac18a23acc17dbe91b04ef6ff0ab0ec265e.jpg",
         "intro": null,
         "description": "\"Podr\u00e1s utilizar \"\"Wood Grain\"\" como un patr\u00f3n para tus Arsenales.\n\n\u203bSe requiere la versi\u00f3n completa del juego DAEMON X MACHINA para utilizar este contenido.\n\u203bEste contenido no es equipo y es totalmente cosm\u00e9tico. No habr\u00e1 cambios en los estados al usar este contenido.\"\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000015312": {
+        "id": "0100B6400CA57001",
+        "rightsId": null,
+        "name": "Arsenal \"Prototype Arsenal\"\nTraje para Outer: \"Prototype Suit\" (masculino y femenino)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200318,
+        "nsuId": 70050000015312,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a75e3dc57f7df8453ef9bf699aa1530a69d718deaff3f9f86e02d6aa311071df.jpg",
+        "intro": null,
+        "description": "Este es un set que incluye el Arsenal \"Prototype Arsenal\", el cual te permite cambiar la apariencia de tu Arsenal, y el traje para Outer \"Prototype Suit\" que puede ser equipado por un Outer.\n\n\u203bEstos objetos son los mismos de la bonificaci\u00f3n por compra temprana, \"Prototype Arsenal\" y \"Prototype Suit\".\n\n\u203bSe requiere el juego DAEMON X MACHINA para disfrutar de este contenido.\n\n\u203bEste contenido no es equipamiento, son objetos que cambian la apariencia. No habr\u00e1 cambios en los estados al usar este contenido.\n",
         "languages": null,
         "size": 4194304
     },
