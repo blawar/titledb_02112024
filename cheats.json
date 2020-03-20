@@ -4951,6 +4951,34 @@
             "version": 196608
         }
     },
+    "010026000F662000": {
+        "5160D10088BB2289": {
+            "01028ad1955df7fde794b48fd39e9edfd2901b8c192385d41d4194439611ebac": {
+                "source": "580F0000 0EE99710\n780F0000 000000D4\n640F0000 00000000 000003E7",
+                "title": "[Coin MAX]"
+            },
+            "1c69e680b3279f4c7af6d0a7041e561afdb7bf42d6b1420fecb22186760afc8b": {
+                "source": "580F0000 0EE9A160\n780F0000 000001D8\n640F0000 00000000 40800000",
+                "title": "[Speed Up]"
+            },
+            "27b8e802870b644e4dcfe1d2bc166f8c15c326034aaf97d59aa5641ad21fac12": {
+                "source": "580F0000 0EE9A160\n780F0000 00000264\n640F0000 00000000 00000190",
+                "title": "[Inf HP]"
+            },
+            "b12a9b7f48e3bec3d6fd40b8fb849f148360a43632dfc0c6721f2b80e36892e2": {
+                "source": "580F0000 0EE99710\n780F0000 000000D0\n640F0000 00000000 00640000",
+                "title": "[brown things MAX]"
+            },
+            "f82e291f528cb9ec3f4ffaaa6eb28d37d5fbe4f01d0b1e0192e11b0a1fe4fde6": {
+                "source": "580F0000 0028AAE0\n780F0000 00000020\n640F0000 00000000 000000FF",
+                "title": "[Invincible]"
+            },
+            "fd2f765ca9436cc01ea75bc482e77a65423a21a66fa3c26cf153f04d898c51a9": {
+                "source": "80000002\n580F0000 0EE9A160\n780F0000 000001C4\n640F0000 00000000 C0A00000\n20000000",
+                "title": "[Moon Jump]"
+            }
+        }
+    },
     "010026300BA4A000": {
         "0F3B375B8E9518C9": {
             "832a11bd354e7850e948d85cb488c0d75fd1c4edce819d285ca9668f419776b7": {
@@ -7531,6 +7559,34 @@
                 "title": "[\u91d1\u94b1\u6700\u5927]"
             },
             "version": 262144
+        }
+    },
+    "010038000F644000": {
+        "582B12EA6FC34845": {
+            "2241e35a481d94c9450304476239b9166c5d370c9cb1a96752d65a69b4d93c4e": {
+                "source": "580F0000 04CD7AE0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000048\n780F0000 000000C0\n640F0000 00000000 000003E7",
+                "title": "[Weight MAX]"
+            },
+            "60e7bb09fea1eb2aee44144aafbf5b1985db810b7317a40a2102fb81e5a72c38": {
+                "source": "580F0000 04CD7AE0\n580F1000 000000A0\n580F1000 00000000\n580F1000 000000A0\n780F0000 000000E8\n640F0000 00000000 40400000",
+                "title": "[Speed Up]"
+            },
+            "6b09d37f2910cfb3aac3f0917463ab893b86abfb7eeca0dc0875272a1ec5b5c4": {
+                "source": "580F0000 04CD7AE0\n580F1000 000000A0\n580F1000 00000000\n580F1000 000000A0\n780F0000 00000100\n640F0000 00000000 41A00000\n80000200\n640F0000 00000000 C1A00000\n20000000",
+                "title": "[Walk through Walls (Hold ZR)]"
+            },
+            "8319487e4a23ba39e3affcf3f0f1a09d46304f4d89bf7ca33718f7cb3261dcc6": {
+                "source": "580F0000 04CD7AE0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000048\n780F0000 000000BC\n640F0000 00000000 000003E7",
+                "title": "[Coin MAX]"
+            },
+            "e864841fb6fa0563b3510b8d30f83f5cd011cc2b17bb75c8a31d329b1b551ad4": {
+                "source": "80000002\n580F0000 04CD7AE0\n580F1000 000000A0\n580F1000 00000000\n580F1000 000000A0\n780F0000 0000019C\n640F0000 00000000 40300000\n20000000",
+                "title": "[Moon Jump]"
+            },
+            "eb42fb973587a5c0a171124b3577a5e393a2f2c08af3d8db9d9b1152a458a165": {
+                "source": "580F0000 04CD7AE0\n580F1000 000000A0\n580F1000 00000000\n580F1000 000000A0\n780F0000 00000270\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n640F0000 00000000 000000FF",
+                "title": "[Invincible]"
+            }
         }
     },
     "0100384009344000": {
@@ -13034,6 +13090,42 @@
             "version": 0
         }
     },
+    "01005D700E742000": {
+        "1F45F195FB7468C5": {
+            "0986590901f9f1d1fb3d4b5eb36e8a63263c26512457b79a4a33e1dc9c5e810d": {
+                "source": "04000000 010B9FA8 00000063",
+                "title": "[04# Infinite Infinite Gun/Chain Ammo]"
+            },
+            "2b81be5e86322dc410222301352a45bfb573d30c64ff8bbc2b6387e073b8d7b0": {
+                "source": "04000000 010B9F9C 01010101\n04000000 010B9FA0 01010101\n04000000 010B9FA4 00000101",
+                "title": "[03# All Weapons]"
+            },
+            "2bbf95b2387120054160ccdbbdf49378b63e4ed30d3ffd97ef2fc33ba7c17a56": {
+                "source": "040F0000 010B9F84 01010101\n040F0000 010B9F88 01010101",
+                "title": "[08# All Key Cards]"
+            },
+            "343731a52ec165f01fa199317e105ca19756f87ee5bd363b409b319dbb635376": {
+                "source": "04000000 010B9FB0 00000063",
+                "title": "[05# Infinite Plasma/BFG/Laser Weapons Ammo]"
+            },
+            "4afeb4591356f9da6fd25b751ebec3df35230b472d88f4590d0c2ef46542a677": {
+                "source": "580F0000 00FEC4C8\n580F1000 00000018\n780F0000 000000A8\n640F0000 00000000 000000C8\n04000000 010B9F60 000000C8",
+                "title": "[01# Max Health]"
+            },
+            "731501c22c05beece9d7efe723e1c8c714547dcd510486e4d0a3754a5e97a8a7": {
+                "source": "04000000 010B9FB4 00000063",
+                "title": "[07# Infinite rocket ammo]"
+            },
+            "e56bccb001c826c5347f23a2b954262922e70f4e59fa7009e19cb3ce04298dca": {
+                "source": "04000000 010B9F64 000000C8",
+                "title": "[02# Max Armor]"
+            },
+            "eb84ad51a863b210087311a7854c9ef9475b42457977c3389a8c4babcddb9cae": {
+                "source": "04000000 010B9FAC 00000063",
+                "title": "[06# Infinite Shotgun Ammo]"
+            }
+        }
+    },
     "01005DF00DC26000": {
         "029C2837B0EEE8A9": {
             "04a78d45cec62adb5e085ddfd58506e402490dda42b20d392e8717f9e3a10e60": {
@@ -13215,6 +13307,34 @@
                 "title": "[999999999 Money]"
             },
             "version": 65536
+        }
+    },
+    "01005E000D3D8000": {
+        "C22C6B213D9F9C40": {
+            "3dfabf54a83c1fcf968257724b37cdf6f0cf0ca3ec8b1d4f1cb3c1e670d0a640": {
+                "source": "580F0000 04BC76E0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000048\n780F0000 000000C0\n640F0000 00000000 000003E7",
+                "title": "[Weight MAX]"
+            },
+            "8b2eb7eb277fed05da3ecffda679dd4d8539e92a6960b3ba531d551403e162f3": {
+                "source": "580F0000 04BC76E0\n580F1000 000000A0\n580F1000 00000000\n580F1000 000000A0\n780F0000 00000270\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n640F0000 00000000 000000FF",
+                "title": "[Invincible]"
+            },
+            "94401baee48a4c72a8bb30d233f274d5db145c37948339c715afcb34026ace48": {
+                "source": "580F0000 04BC76E0\n580F1000 000000A0\n580F1000 00000000\n580F1000 000000A0\n780F0000 00000100\n640F0000 00000000 41A00000\n80000200\n640F0000 00000000 C1A00000\n20000000",
+                "title": "[Walk through Walls (Hold ZR)]"
+            },
+            "aa9f5fdc885a1bb91460dd1f55700628cfbfe30cd67b02e89ad249aaaf8c7151": {
+                "source": "580F0000 04BC76E0\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000048\n780F0000 000000BC\n640F0000 00000000 000003E7",
+                "title": "[Coin MAX]"
+            },
+            "ad20326b0b804ced5eefa823c79883e23734920b94ba89eda2e028762902744c": {
+                "source": "80000002\n580F0000 04BC76E0\n580F1000 000000A0\n580F1000 00000000\n580F1000 000000A0\n780F0000 0000019C\n640F0000 00000000 40300000\n20000000",
+                "title": "[Moon Jump]"
+            },
+            "b721e887adff308cdddd9be03cdcabe6ef9f6482f4c8040469f98ea717d39a47": {
+                "source": "580F0000 04BC76E0\n580F1000 000000A0\n580F1000 00000000\n580F1000 000000A0\n780F0000 000000E8\n640F0000 00000000 40400000",
+                "title": "[Speed Up]"
+            }
         }
     },
     "01005EF00CFDA000": {
@@ -17576,6 +17696,64 @@
             "fa221bed3bdf1326660208a4e48d389a1e055c96b6f5c6f6248434ba6e0f75b8": {
                 "source": "04000000 00FC27F0 6B1F0114",
                 "title": "[miles not decreased]"
+            }
+        },
+        "B0D6D16556B61BF5": {
+            "049cb047ff72f51afd5ab8c555e6f92aa59d215da200b42fefb9e19ddcfc507b": {
+                "source": "04000000 01036B28 8B214115\n04000000 00E7BD50 1E221001",
+                "title": "[money/miles (off)]"
+            },
+            "2b8a63e1cb68eff265602e015af0aaaca1040b95fafd1209dd314dd079f8e784": {
+                "source": "04000000 022863E0 52800411\n04000000 022863E4 1B117C21\n04000000 022863E8 8B214115\n04000000 022863EC D65F03C0\n04000000 01036B28 94493E2E",
+                "title": "[32x Bell/Miles multiplier]"
+            },
+            "33b2176ebc2e7e6c4527e96964be1e9c81164567ab274e3b3129bf76db297c5f": {
+                "source": "04000000 022863E0 52800091\n04000000 022863E4 1B117C21\n04000000 022863E8 8B214115\n04000000 022863EC D65F03C0\n04000000 01036B28 94493E2E",
+                "title": "[4x Bell/Miles multiplier]"
+            },
+            "33fe65b444aa4a60385d65f8dce7191920b360c6cf64abf132705f55e4a783ec": {
+                "source": "04000000 01036CD0 6B1F0114",
+                "title": "[04# miles does not decreased]"
+            },
+            "4c809073eb2ff529d9bea96cad66c2ad9e6adddc8b30693594b682ee30afa44e": {
+                "source": "04000000 022C4F00 10000000\n04000000 022C4F04 B9401403\n04000000 022C4F08 1B037C21\n04000000 022C4F0C 8B214115\n04000000 022C4F10 D65F03C0\n04000000 022C4F14 00000064\n04000000 01036B28 944A38F6",
+                "title": "[05# money/miles x100]"
+            },
+            "748e3f64ecc715e6ffa6c3355ed2556ab1493e096a6723d15d1d039c1853c572": {
+                "source": "04000000 01036C80 6B1F0114",
+                "title": "[03# money does not decrease]"
+            },
+            "7fe5b6327696481b7262f75fb264f9b55644f62b30ca0b7a2d82c38163fe9a10": {
+                "source": "04000000 022863E0 52800211\n04000000 022863E4 1B117C21\n04000000 022863E8 8B214115\n04000000 022863EC D65F03C0\n04000000 01036B28 94493E2E",
+                "title": "[16x Bell/Miles multiplier]"
+            },
+            "82def6c09dc2894b2fc02d16b91c86b0fc2fccea6474a3e07a512f2b330933b8": {
+                "source": "04000000 00E0C700 B9530814\n80000040\n04000000 00E0C700 12800014\n20000000",
+                "title": "[02# Walk through Walls (Hold L)]"
+            },
+            "9113451bdb91ce0335def0520a98eeaea559398be0180767f3ffb6e756b881f0": {
+                "source": "04000000 022863E0 52800111\n04000000 022863E4 1B117C21\n04000000 022863E8 8B214115\n04000000 022863EC D65F03C0\n04000000 01036B28 94493E2E",
+                "title": "[8x Bell/Miles multiplier]"
+            },
+            "a94ad7a1d2b6e286602336e866176039097486cb43026500878c5e66437fc6ed": {
+                "source": "04000000 01036CD0 6B010114",
+                "title": "[miles does not decreased (off)]"
+            },
+            "c09006fdb8dd3ef505bac454128561fbe38e4fa9c8f69891635e6044379e8bc4": {
+                "source": "04000000 022863E0 10000000\n04000000 022863E4 B9401403\n04000000 022863E8 1B037C21\n04000000 022863EC 8B214115\n04000000 022863F0 D65F03C0\n04000000 022863F4 0000270F\n04000000 01036B28 94493E2E",
+                "title": "[9999x Bell/Miles multiplier]"
+            },
+            "da05df4cf40e3d4c5102b415b54fcf675a28cad539762cadb7e73308da1ed207": {
+                "source": "04000000 022863E0 10000000\n04000000 022863E4 B9401403\n04000000 022863E8 1B037C21\n04000000 022863EC 8B214115\n04000000 022863F0 D65F03C0\n04000000 022863F4 00000064\n04000000 01036B28 94493E2E",
+                "title": "[100x Bell/Miles multiplier]"
+            },
+            "dd2347f9f5d52125433888c6535c5197f50e71da3e34d948be509f989dc3d2ea": {
+                "source": "04000000 00E7BD50 BD4F1E61\n80000002\n04000000 00E7BD50 1E221001\n20000000",
+                "title": "[01# Speed Up (Press B)]"
+            },
+            "e41ec7c646eca17f4cb3c44a4f47bce0fa76314b6ac34d359d2b9ab98a6ad011": {
+                "source": "04000000 01036C80 6B010114",
+                "title": "[money does not decrease (off)]"
             }
         }
     },
@@ -32415,6 +32593,16 @@
                 "title": "[One Hit Kill (On)]"
             },
             "version": 131072
+        },
+        "A85426058506934F": {
+            "350da8b6da35b53d62b7163dd2561d9f567bc871853628d87a715717f60642bf": {
+                "source": "58000000 056F7BE8\n58001000 000000B0\n58001000 00000068\n78000000 000005CC\n64000000 00000000 000001F4",
+                "title": "[HP]"
+            },
+            "57e2165e1929861462453af3c389cfcd201f2d9a8f797546baced4f7e7bb7c6f": {
+                "source": "58000000 056F7BE8\n58001000 000000B0\n58001000 00000068\n78000000 000005D0\n64000000 00000000 000000C8",
+                "title": "[Mana]"
+            }
         }
     },
     "0100E5400BE64000": {
@@ -35410,6 +35598,10 @@
             },
             "9aeeb8c5f70d5c9aaf47e1db687287b400d9641a13a95faceb8119220a71e628": {
                 "source": "08000000 02CEF840 D65F03C0 320003E0",
+                "title": "[10# Unlock Collection Chars Stages ON]"
+            },
+            "9d347bad71463d92b36b5f64645b92a1545c4adf4063d8b4b182c0d3e00a865e": {
+                "source": "08000000 02CEF840 D65F03C0 320003E0\nCREDIT TO PATJENOVA DABLACKDEATH AND SMOKER1",
                 "title": "[10# Unlock Collection Chars Stages ON]"
             },
             "d14a558aac6b66f792c44b988cf0e0688d4ceb91fcccdfd9e5be36271d0ecaf5": {

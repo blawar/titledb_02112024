@@ -12201,7 +12201,7 @@
             "it",
             "ru"
         ],
-        "size": 19043188736
+        "size": 19069403136
     },
     "70010000020843": {
         "id": "01009B90006DC000",
@@ -16822,7 +16822,7 @@
         "languages": [
             "en"
         ],
-        "size": 76546048
+        "size": 112197632
     },
     "70010000028883": {
         "id": "0100D82011688000",
@@ -39718,6 +39718,31 @@
         "description": "\u7279\u5225\u81ea\u8a02\u9053\u5177\u7d44\u5408\uff08\u7206\u8c6a\u52dd\u5df1\u3001\u9e97\u65e5\u5fa1\u8336\u5b50\u3001\u8f5f\u7126\u51cd\u3001\u86d9\u5439\u6885\u96e8\uff09\u3002",
         "languages": null,
         "size": 16777216
+    },
+    "70050000020022": {
+        "id": "01006F800232712D",
+        "rightsId": null,
+        "name": "Nook Inc.\u6b63\u65b9\u5f62\u5730\u6bef",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200320,
+        "nsuId": 70050000020022,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ba68fff396bc7fb819339f1c9d6bcbfa04663173f511d27794536a8175afd368.jpg",
+        "intro": null,
+        "description": "\u300cNintendo Switch Online\u300d\u52a0\u5165\u8005\u9650\u5b9a\u7279\u5178\u3002\n\u4e0b\u8f09\u4e86\u9019\u500b\u7279\u5178\u7684\u73a9\u5bb6\u5728\u5cf6\u5dbc\u4e0a\u7684\u6642\u5019\uff0c\u5cf6\u5dbc\u4e0a\u7684\u6240\u6709\u73a9\u5bb6\u5747\u53ef\u65bc\u670d\u52d9\u8655\u7684\u300c\u72f8\u7aef\u6a5f\u300d\u63db\u53d6\u300cNook Inc.\u6b63\u65b9\u5f62\u5730\u6bef\u300d\u3002\n\u203b\u9700\u8981\u4f7f\u7528\u300c\u54e9\u6578\u300d\u63db\u53d6\u3002\n\u203b\u9700\u8981\u4e00\u5b9a\u7684\u904a\u6232\u9032\u5ea6\u624d\u80fd\u4f7f\u7528\u72f8\u7aef\u6a5f\u4ee5\u54e9\u6578\u63db\u53d6\u7279\u5178\u3002\n\u203b\u5c45\u4f4f\u65bc\u540c\u4e00\u500b\u5cf6\u5dbc\u4e0a\u7684\u73a9\u5bb6\u4e0d\u9700\u52a0\u5165Nintendo Switch Online\u4e5f\u80fd\u7528\u54e9\u6578\u63db\u53d6\u7279\u5178\u3002\u5176\u4ed6\u73a9\u5bb6\u82e5\u7121\u6cd5\u63db\u53d6\uff0c\u8acb\u4f7f\u7528\u4e0b\u8f09\u9019\u500b\u7279\u5178\u7684\u73a9\u5bb6\u5e33\u865f\u958b\u555f\u904a\u6232\uff0c\u518d\u8a66\u4e00\u6b21\u3002",
+        "languages": null,
+        "size": 4194304
     },
     "70070000001521": {
         "id": null,

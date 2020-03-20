@@ -12045,7 +12045,7 @@
         "developer": null,
         "publisher": "CFK",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/618232074c6c65ff62b6bce912ec424a2e12e786f5e67bc831188c7b39c539e0.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1700987fa85f1f891ee27a40fd2a5be749ffa6b3f55354f8a04a510c1f122b43.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/05ee8ff83fd490e68b0c9ac44a7fe6d72b12366cc7ae23bd1847e6a1c8b15bef.jpg",
             "https://img-eshop.cdn.nintendo.net/i/8d6a3b26c4244c058b32b541615faa1db0764470cfee56daaaed03e6870733a9.jpg",
@@ -12061,7 +12061,7 @@
             "ko",
             "zh"
         ],
-        "size": 1147142144
+        "size": 1154482176
     },
     "70010000026931": {
         "id": "01003F30106D8000",
@@ -38368,6 +38368,31 @@
         "description": "\uc2a4\ud398\uc15c \ucee4\uc2a4\ud130\ub9c8\uc774\uc988 \uc544\uc774\ud15c \uc138\ud2b8(\ubc14\ucfe0\uace0 \uce74\uce20\ud0a4, \uc6b0\ub77c\ub77c\uce74 \uc624\ucc60\ucf54, \ud1a0\ub3c4\ub85c\ud0a4 \uc1fc\ud1a0, \uc544\uc2a4\uc774 \uce20\uc720).",
         "languages": null,
         "size": 16777216
+    },
+    "70050000020042": {
+        "id": "01006F800232712D",
+        "rightsId": null,
+        "name": "Nook Inc. \uc0ac\uac01 \ub7ec\uadf8",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200320,
+        "nsuId": 70050000020042,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aba65a54f141d987119f26b5579bb3be1a65d289a98630b6f25f8d7a949befa9.jpg",
+        "intro": null,
+        "description": "\u300cNintendo Switch Online\u300d\uac00\uc785\uc790 \ud55c\uc815 \ud2b9\uc804\uc785\ub2c8\ub2e4.\n\uc774 \ud2b9\uc804\uc744 \ub2e4\uc6b4\ub85c\ub4dc \ubc1b\uc740 \uc720\uc800\uac00 \uc12c\uc5d0 \uc788\ub2e4\uba74 \uadf8 \uc12c\uc758 \uc720\uc800\ub294\n\uc548\ub0b4\uc18c\uc758 \u300c\ub108\uad74\ud3ec\ud2b8\u300d\uc5d0\uc11c \u300cNook Inc. \uc0ac\uac01 \ub7ec\uadf8\u300d\ub97c \uad50\ud658\ud560 \uc218 \uc788\uac8c \ub429\ub2c8\ub2e4.\n\u203b\uad50\ud658\uc5d0\ub294 \u300c\ub9c8\uc77c\u300d\uc774 \ud544\uc694\ud569\ub2c8\ub2e4.\n\u300c\ub108\uad74\ud3ec\ud2b8\u300d\uc5d0\uc11c \ub9c8\uc77c \uad50\ud658\uc744 \ud558\ub824\uba74 \uc5b4\ub290 \uc815\ub3c4 \uac8c\uc784\uc744 \uc9c4\ud589\uc2dc\ucf1c\uc57c \ud569\ub2c8\ub2e4. \uac19\uc740 \uc12c\uc5d0 \uc0ac\ub294 \ub2e4\ub978 \uc720\uc800\ub294 Nintendo Switch Online\uc5d0 \uac00\uc785\ud558\uc9c0 \uc54a\uc544\ub3c4 \uad50\ud658\uc774 \uac00\ub2a5\ud569\ub2c8\ub2e4. \ub2e4\ub978 \uc720\uc800\ub85c \uad50\ud658\uc774 \ubd88\uac00\ud55c \uacbd\uc6b0 \uc774 \ud2b9\uc804\uc744 \ub2e4\uc6b4\ub85c\ub4dc\ud55c \uc720\uc800\ub85c \uc18c\ud504\ud2b8\ub97c \uc7ac\uae30\ub3d9\ud558\uc5ec \ub2e4\uc2dc \uc774\uc6a9\ud574 \uc8fc\uc138\uc694.",
+        "languages": null,
+        "size": 4194304
     },
     "70070000001521": {
         "id": null,
