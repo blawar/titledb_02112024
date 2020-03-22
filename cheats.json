@@ -17707,29 +17707,125 @@
                 "source": "04100000 AC3B9118 000009C9\n04100000 AC3B911C 0000001D",
                 "title": "[Itemslot 12 Max Gold Lomps]"
             },
+            "01014b9a92269df465042d93e9cd84e1d54856a63cfc5be8b5948a827a6f4e8e": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000012CD",
+                "title": "[Itemslot 1 Rustic WP]"
+            },
+            "024f35c15dee088b9dbc5ddc86435f0d0be079dc0cd303496da85415b87061e5": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002A3",
+                "title": "[Slot 1: Bunny DIY Recipe 2]"
+            },
+            "0280fae482a15bda52664ea45c57c88c71cfd517f85de6dde817465c158a756b": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000016DB",
+                "title": "[Slot 1: nook miles ticket]"
+            },
+            "034d57f0e57f6c83951d1098cf4808b403a36bb79cd7d0d4211e5defe55f4302": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000EBF",
+                "title": "[Itemslot 1 Hang Terrarium]"
+            },
             "049cb047ff72f51afd5ab8c555e6f92aa59d215da200b42fefb9e19ddcfc507b": {
                 "source": "04000000 01036B28 8B214115\n04000000 00E7BD50 1E221001",
-                "title": "[money/miles (off)]"
+                "title": "[Money/Miles x100 (off)]"
+            },
+            "04a04b4f39ec434b42e8c100b78c77f207641403f0bda287daa1c256b021b420": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000E06",
+                "title": "[Itemslot 1 PC]"
+            },
+            "04a2c895e23194b9cad00f7dc33d7a0b49ca2ff7ac2b484674cb7f3ca6205ebe": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001CC6",
+                "title": "[Itemslot 1 Fossil Rug]"
+            },
+            "07304fda4e9f512f69bd1c6ceb68e70659759f001fe76e95bd3506424c308997": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B2",
+                "title": "[Slot 1: Bunny DIY Recipe 11]"
             },
             "08a5235d69f1ff7cceee464bbe14c3a8f49c6b028aecbd75bd3a946d656f547c": {
                 "source": "04100000 AC3B90E0 0000094B\n04100000 AC3B90E4 00000000",
                 "title": "[Itemslot 05 Watering Can unbreakable]"
             },
+            "0bb217821db018ff5138b2499489627dfee8cea984e635dff029fa6b9507a2f7": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C3",
+                "title": "[Slot 1: Bunny DIY Recipe 22]"
+            },
+            "0cd332f6f40a87616f017f69e58005712e86a5306c471823f2a2f6750feb9e88": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000C7C",
+                "title": "[Itemslot 1 IRW Dresser]"
+            },
+            "0eca12cb3b69554f4250c257e877a0a100fc50b3e6869ba34c60fd3d7ff3b2d5": {
+                "source": "80000041\n04100000 AC3B90D0 0000",
+                "title": "[3rd slot modifier L + A]"
+            },
             "10b7e23de1c973513376a2829ebd09b8ecc119cfc420424a5a18b98bc0058505": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000009CF",
                 "title": "[Itemslot 1 Iron]"
+            },
+            "10d735ba960a316aa28018ad4df99254e80f3da4c4203b830ffed890906bd858": {
+                "source": "80000041\n04100000 AC3B90C0 0000",
+                "title": "[1st slot modifier L + A (goto https://pastebin.com/B8N5KKsh for xxxx Item ids)]"
+            },
+            "119f808ffd8419b838c0b5aa644f3372ce76c5d42b8379ddc8a163f19557a9fe": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001FF3",
+                "title": "[Slot 1: Gold net]"
             },
             "11d618d8d345d69147cef4c793cd5dc3bb0d62368bd752f2e947694ece236b09": {
                 "source": "04100000 AC3B9100 00000AD1\n04100000 AC3B9104 0000001D",
                 "title": "[Itemslot 09 Max Hard Wood]"
             },
+            "12a64b09948c16010fcc395c382094dcfb4ae18b89897b9a261938c1fbb5d5e7": {
+                "source": "04000000 00E7BD50 1E201001",
+                "title": "[Set speed 2x]"
+            },
+            "143a01593300c75a2c4591e5a13ec1eeda2c3cde2a20bb32381f729a77a9c2a9": {
+                "source": "80000041\n04100000 AC3B9128 0000",
+                "title": "[14th slot modifier L + A]"
+            },
+            "146b8a1eccab205961386c44b066a946b107129fe294369e5499ac16700fe1fb": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000012FD",
+                "title": "[Itemslot 1 Stately WP]"
+            },
+            "14de579611b52728ca037698ddd6cdae1b424af66ecb3d1cd602aee6b894a45f": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C0",
+                "title": "[Slot 1: Bunny DIY Recipe 19]"
+            },
+            "1c4733f3e57a6c902372ef04c57983a7b62d50c6eff362fc057de37e95b36e3b": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001370",
+                "title": "[Itemslot 1 BlackBrick FLR]"
+            },
+            "1d4d73d0268edb77cb5a269cc33976bdb7f50be2ae33de490cc12d2aff8c93da": {
+                "source": "04100000 AC3B90DC 0000001D",
+                "title": "[Slot 4: Item x30]"
+            },
+            "1e32e15d8c9d24618cb60924764c2bd9c0cf56d1790e8b8044047cf37fa9fabd": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 00000296",
+                "title": "[Slot 1: Golden Rod]"
+            },
+            "21d10303e8c69f0a909b9dca4bbacd394ec694d1de2fc3b0a0d25000b8a51777": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 00000295",
+                "title": "[Slot 1: Golden Slingshot]"
+            },
             "296a7ffe70af230360f65eb38c46ebf497895d8c129a6d6ea47539b1dce637cd": {
                 "source": "04100000 AC3B90C8 00000949\n04100000 AC3B90CC 00000000",
                 "title": "[Itemslot 02 Fishing Rod unbreakable]"
             },
+            "297196d1b90d8871c7212e337fb1df8813983ead6fe615cc2aa26fcdfe6c9bd2": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001345",
+                "title": "[Itemslot 1 WhiteChoc WP]"
+            },
+            "2aa26551bfe3d13dbebab99511ef73b16df4c92d501c13d9ff27face8a545081": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000A37",
+                "title": "[Itemslot 1 Ladder]"
+            },
             "2b8a63e1cb68eff265602e015af0aaaca1040b95fafd1209dd314dd079f8e784": {
                 "source": "04000000 022863E0 52800411\n04000000 022863E4 1B117C21\n04000000 022863E8 8B214115\n04000000 022863EC D65F03C0\n04000000 01036B28 94493E2E",
                 "title": "[32x Bell/Miles multiplier]"
+            },
+            "2edf86083365aae2ddc76f3a64e229162536f30bc4c755a5eb9378151ab39e9c": {
+                "source": "04100000 AC3B90C4 0000001D",
+                "title": "[Slot 1: Item x30]"
+            },
+            "2fad5866a19b159c02b75928a416047385d313dbc03ead7bc2eea72de5f585c2": {
+                "source": "80000041\n04100000 AC3B90C8 0000",
+                "title": "[2nd slot modifier L + A (xx is quantity 01=1 09=10 1D=30 31=50)]"
             },
             "33b2176ebc2e7e6c4527e96964be1e9c81164567ab274e3b3129bf76db297c5f": {
                 "source": "04000000 022863E0 52800091\n04000000 022863E4 1B117C21\n04000000 022863E8 8B214115\n04000000 022863EC D65F03C0\n04000000 01036B28 94493E2E",
@@ -17737,15 +17833,51 @@
             },
             "33fe65b444aa4a60385d65f8dce7191920b360c6cf64abf132705f55e4a783ec": {
                 "source": "04000000 01036CD0 6B1F0114",
-                "title": "[04# miles does not decreased]"
+                "title": "[Miles does not decreased]"
+            },
+            "35b979f7a969025007fbc96d75762aaa091cdf536f8f1ce3e437fdfadf628694": {
+                "source": "04100000 AC3B90D4 0000001D",
+                "title": "[Slot 3: Item x30]"
             },
             "38269c65d3fcad9dd0a143314279bb72e122c100458e6aba26dc1f355aee8e04": {
                 "source": "04100000 AC3B9110 000009C6\n04100000 AC3B9114 0000001D",
                 "title": "[Itemslot 11 Max Stone]"
             },
+            "3931bce839b967adc8c156c896ff60affc934bf8d624ae8c567fd596afcd9b4f": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 00000292",
+                "title": "[Slot 1: Golden Net Recipe]"
+            },
+            "3aa61d2a425913c114e901b60bccf7b9579a4405e5dccc64a25a872662a0bd2b": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001082",
+                "title": "[Itemslot 1 Basket Hoop]"
+            },
+            "3aec7145369d6b1fea3549b360eff105b921a90426cbf1232d0df81711481be1": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000114A",
+                "title": "[Slot 1: money tree]"
+            },
+            "3b5360e8eea94438ce6726e9ad50646aa11bdbea719a2987b7027954f50764ea": {
+                "source": "80000041\n04100000 AC3B9108 0000",
+                "title": "[10th slot modifier L + A]"
+            },
             "3e54142bfbc054fe0f58d691d046013e7ed436bc1f7ad5e884f1fe0f751f9a28": {
                 "source": "04100000 AC3B90F8 00000ACF\n04100000 AC3B90FC 0000001D",
                 "title": "[Itemslot 08 Max Soft Wood]"
+            },
+            "40c2169d51899e55dfed7e9c935d3c2ab3b136d928490e5fbc637852aeec7669": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000004D9",
+                "title": "[Itemslot 1 DIY Workbench]"
+            },
+            "40e4ff4f6ba836085b7bfa33af04305ba6859a9fb922d3c8df675fc52a7fe44f": {
+                "source": "04000000 00E7BD50 1E211001",
+                "title": "[Set speed 3x]"
+            },
+            "426e00e382838bb14fe72b3b71aeaee931ccc34d15700219cfcddc9b6715ce88": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B5",
+                "title": "[Slot 1: Bunny DIY Recipe 14]"
+            },
+            "4576a75f5b6cfa5a3baca9e99f651301a175ab6b09fe73de69ee85bb0a654ea4": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000013B4",
+                "title": "[Itemslot 1 ModernWood FLR]"
             },
             "477303f9d1032290bf7feca89162b9a7de6cca43de9e41fa15dd77c775bda13a": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000C12",
@@ -17755,29 +17887,141 @@
                 "source": "04100000 AC3B90E8 00001698\n04100000 AC3B90EC 00000000",
                 "title": "[Itemslot 06 Net unbreakable]"
             },
+            "4c03acbf54d34980e9958aa5701c7f12656aee054878631e968cfb86c2af9b75": {
+                "source": "04000000 00E7BD50 BD4F1E61",
+                "title": "[Set speed normal]"
+            },
+            "4c3571f51995abb5874f3449b0636b57115ef83f7b9fa44de93506394099779a": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 00000293",
+                "title": "[Slot 1: Golden Water Can]"
+            },
             "4c809073eb2ff529d9bea96cad66c2ad9e6adddc8b30693594b682ee30afa44e": {
                 "source": "04000000 022C4F00 10000000\n04000000 022C4F04 B9401403\n04000000 022C4F08 1B037C21\n04000000 022C4F0C 8B214115\n04000000 022C4F10 D65F03C0\n04000000 022C4F14 00000064\n04000000 01036B28 944A38F6",
-                "title": "[05# money/miles x100]"
+                "title": "[Money/Miles x100]"
+            },
+            "4cddc1bfb8ab0adee3493296feff98cbba30e1b8b325a5c405326903883dc992": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002A6",
+                "title": "[Slot 1: Bunny DIY Recipe 5]"
+            },
+            "4f3a10377b8670a50a990e37a4aeca457906af17dc9099879abc535ccfbfb2b0": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B9",
+                "title": "[Slot 1: Bunny DIY Recipe 18]"
+            },
+            "50a8c1b5a6ac6f8c52444fe67710392ce2bad6858391ea47da02a35747c66446": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001394",
+                "title": "[Itemslot 1 Imperial FLR]"
+            },
+            "535a25e512dd01b4d39f195164665912889e42521552da16ad6141ae36a31e59": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 00000294",
+                "title": "[Slot 1: Golden Shovel]"
+            },
+            "5506ffad10fc4def1b223166f60628a3ef10638dcd604892c66fe663b95f61a2": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000C79",
+                "title": "[Itemslot 1 IRW Chair]"
+            },
+            "56f9a7771f9a4779c090ff8c809e323d86c1e7d992697e94775408cce531544d": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000139E",
+                "title": "[Itemslot 1 Light Parkett]"
             },
             "5b5a9f5b602563cfdaa9aed4fd608b01ba3ad6c1596d7de55ada9147a661cddd": {
                 "source": "04100000 AC3B9118 000009CF\n04100000 AC3B911C 0000001D",
                 "title": "[Itemslot 12 Max Iron Lomps]"
             },
+            "5c15abef55b158e49dfae98b43e2c0b8e9a862ab326e989c48c930404ca78791": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000073A",
+                "title": "[Itemslot 1 Laptop]"
+            },
             "5e7ca30d4901199b62c5cee5c8876b7a748abd3307705228bfc212ba10aa399b": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000AD0",
                 "title": "[Itemslot 1 wood ]"
             },
+            "5e9eacbdd14acc9740f0f7dac8ee4f2355be1b8320bdff4254e2c4309a82e22c": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 00000297",
+                "title": "[Slot 1: Golden Axe]"
+            },
+            "602647e0f4c76b7402d2457af237d6e5733785c6074841bac38c99501c0faeb8": {
+                "source": "80000041\n04100000 AC3B9100 0000",
+                "title": "[9th slot modifier L + A]"
+            },
+            "603e36211ffc0210b7b65e5e326f4af7975a2f9c9778a74c0fb148f203947bee": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B8",
+                "title": "[Slot 1: Bunny DIY Recipe 17]"
+            },
+            "616212b965c14fcd778bfabad2d726c98c0f026615bab3f0544536fa7a651ed3": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B0",
+                "title": "[Slot 1: Bunny DIY Recipe 9]"
+            },
+            "62d4d0140741390f44f74373cfd1e61bad9f58abafc3b5ab6e3dcffc9a76fd28": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000D64",
+                "title": "[Itemslot 1 Wall TV 50]"
+            },
+            "6324954f9befd05264f8f3cb538b23e34ce7665c50ef7c6a2285ee651ec364dd": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000006D0",
+                "title": "[Itemslot 1 Wallclock]"
+            },
+            "6494d3e092834b9fffee3539354b294be51d2e7572d472df9efe04583cb47142": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C2",
+                "title": "[Slot 1: Bunny DIY Recipe 21]"
+            },
+            "65ad83dc28fa24b86c7b59fce23f70fcd4e938cd24a4c334fe93d1caf78dc1e3": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001380",
+                "title": "[Itemslot 1 DarkWood FLR]"
+            },
+            "670170ff289c69288d714d1b1a1cd89df62a0fa59d4bf12acf34a3439e62232f": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C5",
+                "title": "[Slot 1: Bunny DIY Recipe 24]"
+            },
+            "68178ec835c80a698467be1f7590be9fc635c4c87e337c758f46cced6855607d": {
+                "source": "80000041\n04100000 AC3B9120 0000",
+                "title": "[13th slot modifier L + A]"
+            },
+            "68531755247582b76b0843b09c3835c3d71ad6c43a54bec1fba58e750d8c94d5": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000CB4",
+                "title": "[Itemslot 1 50in TV]"
+            },
+            "6b13bf254623a1394feda069e15faeac18ed6a41fd8c5cfb7615a5f7fd909d05": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000316",
+                "title": "[Itemslot 1 Hi-Fi]"
+            },
             "6c19a0c88d4bcce9235e8ab56b9ecef47bf26bff625fe51f5ccbd6aa64683a41": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000009C9",
-                "title": "[Itemslot 1 Gold Lumps]"
+                "title": "[Slot 1: Gold nugget]"
+            },
+            "6f1eff2ba0b662f549e0f859f2001bc9725f86ce414ee5ead974f1f783b41f79": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002A9",
+                "title": "[Slot 1: Bunny DIY Recipe 8]"
             },
             "748e3f64ecc715e6ffa6c3355ed2556ab1493e096a6723d15d1d039c1853c572": {
                 "source": "04000000 01036C80 6B1F0114",
-                "title": "[03# money does not decrease]"
+                "title": "[Money does not decrease]"
+            },
+            "75d345042a77ac6ab9bc0f616d490589684c52c4c97adc98a23f00e073aacaf0": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000C80",
+                "title": "[Itemslot 1 IRW Bed]"
             },
             "77315b2b318b39f3c5d2ddd6baef7fa0c7156ea4d44139d8a407eff0003cba42": {
                 "source": "04100000 AC3B90D8 00000B06\n04100000 AC3B90DC 00000000",
                 "title": "[Itemslot 04 Slingshot unbreakable]"
+            },
+            "77fc3dd0bd5b97a390b7f52c5f6732b0f66dfa75e650318547df1f7b4f77a894": {
+                "source": "80000041\n04100000 AC3B9118 0000",
+                "title": "[12th slot modifier L + A]"
+            },
+            "792f158dd2cda9a3a9e7d491bb326c8f7a38dfa3233b89b2eca7c79ee5801ff4": {
+                "source": "80000041\n04100000 AC3B9110 0000",
+                "title": "[11th slot modifier L + A]"
+            },
+            "7a8c7d33e0055f8134ca958d8ec00d622f2489d95adfcff0dd0929d2adf274cc": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000137F",
+                "title": "[Itemslot 1 LightWood FLR]"
+            },
+            "7fac62624318f7c6d9360f8b9098acb86fddb864c94fd4e4478e36499017a825": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000008A4",
+                "title": "[Slot 1: 99000 bells]"
+            },
+            "7fd5567c329ecd5b2be59637e75971d762752e8d60ad3eb842b68eb4aa57e6d8": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000C03",
+                "title": "[Itemslot 1 Path Permit]"
             },
             "7fe5b6327696481b7262f75fb264f9b55644f62b30ca0b7a2d82c38163fe9a10": {
                 "source": "04000000 022863E0 52800211\n04000000 022863E4 1B117C21\n04000000 022863E8 8B214115\n04000000 022863EC D65F03C0\n04000000 01036B28 94493E2E",
@@ -17787,25 +18031,105 @@
                 "source": "04100000 AC3B9108 00000C12\n04100000 AC3B910C 0000001D",
                 "title": "[Itemslot 10 Max Clay Lomps]"
             },
+            "814af87f5a73b77029c7f4d14e59e6819fd6b92eeccb81d4b0ff7ab836622a3f": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001CD4",
+                "title": "[Itemslot 1 NatWood Rug]"
+            },
             "824a453a489470848ed25c0c317e1a622bc33a44eb140bde0c622af3ef3b111f": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000D4\n640F0000 00000000 0000001D",
                 "title": "[Itemslot 2 x30 ]"
             },
             "82def6c09dc2894b2fc02d16b91c86b0fc2fccea6474a3e07a512f2b330933b8": {
                 "source": "04000000 00E0C700 B9530814\n80000040\n04000000 00E0C700 12800014\n20000000",
-                "title": "[02# Walk through Walls (Hold L)]"
+                "title": "[Walk through Walls (Hold L)]"
+            },
+            "833c835d6ab7c7586019e7fc3aec4bd242fde24c835247bfdf3514bbf6cd85af": {
+                "source": "80000041\n04100000 AC3B90D8 0000",
+                "title": "[4th slot modifier L + A]"
+            },
+            "836a18da5b520a47b32269341b57f59c18ed055fcd6a9b7717424d2a43a45ee5": {
+                "source": "80000041\n04100000 AC3B9150 0000",
+                "title": "[19th slot modifier L + A]"
+            },
+            "843a41cd81ff7516996834277e96bcb788d0a15f7b23c4979403b1e76c580a4e": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B6",
+                "title": "[Slot 1: Bunny DIY Recipe 15]"
+            },
+            "85ef441c94ca9ad7d9eb88f506778d9f11e304ad0d4171d8a3fe5e6742349f21": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C8",
+                "title": "[Slot 1: Bunny DIY Recipe 27]"
+            },
+            "890deb8dd7143c8b563d5aa3905f17abbbef4f3e6e1b201eb7be89dc2b3dc2fe": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000CC9",
+                "title": "[Itemslot 1 IRW Kitchen]"
+            },
+            "8b30ca382b694a145dd5270ba83f8f1bd41e6e87e97e9076b58bae71b32a0531": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C7",
+                "title": "[Slot 1: Bunny DIY Recipe 26]"
+            },
+            "8c8562f64f4b2ecf7c5dd660fea458ee52ec6fa9db3d7a37f2e58d97d7788a06": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000047D",
+                "title": "[Itemslot 1 Soccer Goal]"
             },
             "8e9fd690ef2bc22a65636eeefea5a85eadcdd07a24a1b0b06dae491fc3a5eca0": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000009C6",
                 "title": "[Itemslot 1 Stone]"
             },
+            "8f9fa055fb828de21d8696208319a33b550a258657647268b2627e5ecdb3893c": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000CCB",
+                "title": "[Itemslot 1 IRW Clock]"
+            },
             "9113451bdb91ce0335def0520a98eeaea559398be0180767f3ffb6e756b881f0": {
                 "source": "04000000 022863E0 52800111\n04000000 022863E4 1B117C21\n04000000 022863E8 8B214115\n04000000 022863EC D65F03C0\n04000000 01036B28 94493E2E",
                 "title": "[8x Bell/Miles multiplier]"
             },
+            "91919943ddd90e1e6a7c68ac0ff363bffb8fc4cb86f93f89f19187c813955041": {
+                "source": "80000041\n04100000 AC3B9130 0000",
+                "title": "[15th slot modifier L + A]"
+            },
+            "927a5bf8eefd1286189cf32669f370ee0fb0bafe26a9db1612e33a5c7e65bad0": {
+                "source": "80000041\n04100000 AC3B90E8 0000",
+                "title": "[6th slot modifier L + A]"
+            },
+            "94c650dbc26c2763d57eee5d04241a3cf2b6e72d1aabe78c3a5cb80544f35e67": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001348",
+                "title": "[Itemslot 1 Ancient WP]"
+            },
+            "959eff9defe42b19e8f83643e07a942880d2e159540b3af56b7a366646cbbe66": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C1",
+                "title": "[Slot 1: Bunny DIY Recipe 20]"
+            },
             "966b20a3a0534d108b36d614a3ae4a584e53aa557cebaec2305aed1c10b02d80": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000D8\n640F0000 00000000 00000ACF",
                 "title": "[Itemslot 3 Soft wood ]"
+            },
+            "983fb8ecd32ebb3dcec1773edae4b2934c29bbf53dce7a8c22c76aedeec023eb": {
+                "source": "80000041\n04100000 AC3B90E0 0000",
+                "title": "[5th slot modifier L + A]"
+            },
+            "99fcff87fcfb163162bca50c16241796326aa60b30a624525618db168a99e926": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000133F",
+                "title": "[Itemslot 1 WhiteBrick WP]"
+            },
+            "9cca29ac8f37ff07b3679c1858818340a4d3991a23c4e112949b2f18a47fd085": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B4",
+                "title": "[Slot 1: Bunny DIY Recipe 13]"
+            },
+            "9e6b1614b405ae8baf87ba8c720765d601a069e177c027393d3b248e6575ed67": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000021D4",
+                "title": "[Slot 1: Gold rod]"
+            },
+            "9ff425f2de22e263f16d658ec31eade68bc47e6556c976cd31adaa64c6d8a18b": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002A5",
+                "title": "[Slot 1: Bunny DIY Recipe 4]"
+            },
+            "a0a4c5d4ceadefad1acfd68f42455720c896ce97e4d6ba375c15f9949dc4abed": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002A2",
+                "title": "[Slot 1: Bunny DIY Recipe 1]"
+            },
+            "a1891001a6e16660e6e86d7ff795fb7c21f8fcf64bdf958dc4b842374f53403a": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001356",
+                "title": "[Itemslot 1 ShipDeck FLR]"
             },
             "a54a786e457bebf39620974164cc00db1c4025622cf98ca5604156c70011fc93": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000D0\n640F0000 00000000 00000AD1",
@@ -17813,7 +18137,23 @@
             },
             "a94ad7a1d2b6e286602336e866176039097486cb43026500878c5e66437fc6ed": {
                 "source": "04000000 01036CD0 6B010114",
-                "title": "[miles does not decreased (off)]"
+                "title": "[Miles does not decreased (off)]"
+            },
+            "abece8fc204f8859da059cf25e169309ddc5eac21060dc866174baa8f0ac442e": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001CD5",
+                "title": "[Itemslot 1 WhiteWood Rug]"
+            },
+            "af12d5eafecccbaaebc102090fcc495fc30bd0332e0dd08cd6cb74ac499f6daa": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B7",
+                "title": "[Slot 1: Bunny DIY Recipe 16]"
+            },
+            "b1d9406518d168372dc4c356e847cf304f83afb1a7c58fdb54d1c325904ad0c1": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000457",
+                "title": "[Itemslot 1 Out Bath]"
+            },
+            "b3cba57073458723b952220600fe5a4387a2609951a58d3c3fe3fc2b888bcd4b": {
+                "source": "80000041\n04100000 AC3B9140 0000",
+                "title": "[17th slot modifier L + A]"
             },
             "b4158316202e369880333f5934745799593b85df516b8e6f1ca56d5524a08e69": {
                 "source": "04100000 AC3B90F0 00000AD0\n04100000 AC3B90F4 0000001D",
@@ -17831,41 +18171,169 @@
                 "source": "04100000 AC3B90D0 00000833\n04100000 AC3B90D4 00000000",
                 "title": "[Itemslot 03 Shove unbreakablel]"
             },
+            "babd6d34f6b50a45e086d3430a099f73ef548bcffc7751acbf7e4d933382f5a9": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000013CD",
+                "title": "[Itemslot 1 StoneTile FLR]"
+            },
+            "bbaaec068514bce26fa26d5079404d6c8f2561cd76f298b8bd57127eb55fc278": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000217E",
+                "title": "[Slot 1: Gold shovel]"
+            },
+            "bbd32cc5137ae99cb67af4b72dec5a0faa250e49217aac7511b47233ea7c1bec": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000A12",
+                "title": "[Slot 1: pitfall seed]"
+            },
             "c09006fdb8dd3ef505bac454128561fbe38e4fa9c8f69891635e6044379e8bc4": {
                 "source": "04000000 022863E0 10000000\n04000000 022863E4 B9401403\n04000000 022863E8 1B037C21\n04000000 022863EC 8B214115\n04000000 022863F0 D65F03C0\n04000000 022863F4 0000270F\n04000000 01036B28 94493E2E",
-                "title": "[9999x Bell/Miles multiplier]"
+                "title": "[9999x Bell/Miles]"
+            },
+            "c1b22760fdc79b51dc578be14aea473803adfa1d6b67dfbdf22384c3d0a1fc46": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000013A8",
+                "title": "[Itemslot 1 Birch FLR]"
             },
             "c5ece96ec94f4c9b557e7ddb8391abdd0afff3d80499877cefc33091227b12de": {
                 "source": "04100000 AC3B9118 000009C4\n04100000 AC3B911C 0000001D",
                 "title": "[Itemslot 12 Max Branches]"
             },
+            "c93c2a2bba88ce3c740ca174a2ca8119949bec7f830ab291ba277c15698e41ad": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00002155",
+                "title": "[Slot 1: Gold watering can]"
+            },
+            "c952d71c91a02b290a075bd884c436fcdb00464d0fea74469da69186d534b383": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000013BB",
+                "title": "[Itemslot 1 PalaceTile FLR]"
+            },
+            "c9ca80c4f0a07d30e1b68eeaebcfa909039324543b2c03cbe962d95ddedb6a88": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000002E6",
+                "title": "[Itemslot 1 Fireplace]"
+            },
+            "ca9b60226b1f97f8d3b9b34a5a0d37056abe314b71af65f876ec28ec4b80955d": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000031C",
+                "title": "[Itemslot 1 Retro Hi-Fi]"
+            },
+            "d07f7d63f5fcd3eca0fec5e3278caaf065196eee09a8a5f9dde79e718b88dd9b": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B3",
+                "title": "[Slot 1: Bunny DIY Recipe 12]"
+            },
+            "d228e2c931f220931492ea61c9dde98c3dcfae8440b8ca77d7fd7c99aeadd938": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000CC7",
+                "title": "[Itemslot 1 IRW CB]"
+            },
+            "d23b9ee1fb4039d5a2df2e4c322bbcb1901fd7fb3aa988d10a1727f2076f0e68": {
+                "source": "80000048\n04000000 00E0C700 12800014\n20000000",
+                "title": "[Walk through walls L + Y]"
+            },
+            "d335bdcc32deacb0bb96359b9dafcd9bc058e62155ceb1926a70120d71289cae": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00002591",
+                "title": "[Slot 1: Gold axe]"
+            },
+            "d7b8057442ab2236897e4c4628878773a35bfe95b674cb6a4609fe62621d181d": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002A8",
+                "title": "[Slot 1: Bunny DIY Recipe 7]"
+            },
             "d873a9378cde1836a35691d788f2b5c3f7417b2820953ea2ab31eb0789610503": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000CC\n640F0000 00000000 0000001D",
                 "title": "[Itemslot 1 x30 ]"
+            },
+            "d9cbc26b5f786997662f4a3cfae765b14a33044b8005b6fee12226ef187b849e": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000E03",
+                "title": "[Itemslot 1 FishingRod Stand]"
             },
             "da05df4cf40e3d4c5102b415b54fcf675a28cad539762cadb7e73308da1ed207": {
                 "source": "04000000 022863E0 10000000\n04000000 022863E4 B9401403\n04000000 022863E8 1B037C21\n04000000 022863EC 8B214115\n04000000 022863F0 D65F03C0\n04000000 022863F4 00000064\n04000000 01036B28 94493E2E",
                 "title": "[100x Bell/Miles multiplier]"
             },
+            "dbf11acc7086fa670375f6f1bcf8682f75600fce054d1733ea7d363d9abebbdf": {
+                "source": "80000041\n04100000 AC3B9138 0000",
+                "title": "[16th slot modifier L + A]"
+            },
+            "dce79fa7eca638c3bbac4f32c4e555f36a04556033f18a4ac6d82ca5fbe49f3b": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000F67",
+                "title": "[Itemslot 1 IRW DIY Bench]"
+            },
             "dd2347f9f5d52125433888c6535c5197f50e71da3e34d948be509f989dc3d2ea": {
                 "source": "04000000 00E7BD50 BD4F1E61\n80000002\n04000000 00E7BD50 1E221001\n20000000",
-                "title": "[01# Speed Up (Press B)]"
+                "title": "[Speed Up (Press B)]"
+            },
+            "dffb3ba9571f418ae45068ce412130c187aa54ca5b6e1c75d73e9759a3e19c57": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002A7",
+                "title": "[Slot 1: Bunny DIY Recipe 6]"
+            },
+            "e0d72d8c1e16d4c5a2ee42988a80bc804a1c0a8f74564da62e92470d03f6d08d": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000",
+                "title": "[Slot 1: Custom ItemID - (Go to https://pastebin.com/raw/B8N5KKsh)]"
+            },
+            "e3e53f073e93490ce0d9646f494a55bc520b9b05c60a975c4d49a2411ed0d027": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C4",
+                "title": "[Slot 1: Bunny DIY Recipe 23]"
             },
             "e41ec7c646eca17f4cb3c44a4f47bce0fa76314b6ac34d359d2b9ab98a6ad011": {
                 "source": "04000000 01036C80 6B010114",
-                "title": "[money does not decrease (off)]"
+                "title": "[Money does not decrease (off)]"
             },
             "e767a1b7e5c26acc748e4012ec1841464d656cd61246279dcafe2b6fa64f8b3c": {
                 "source": "04100000 AC3B911C 0000001D",
                 "title": "[Itemslot 12 x30]"
             },
+            "e815e790db1f804167ce8ed1fa3b9b9890c9e4d973a6fc5d039acdcdb04f55c6": {
+                "source": "80000041\n04100000 AC3B90F0 0000",
+                "title": "[7th slot modifier L + A]"
+            },
             "e843f028967068702c55c5d2cabbc68418b76802b2ea256005e6f4e822b29b05": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000DC\n640F0000 00000000 0000001D",
                 "title": "[Itemslot 3 x30]"
             },
+            "e95b652d502808fb3ff78cd2f83a9c8e5c7722db2094546d34d995d834617b6c": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000C77",
+                "title": "[Itemslot 1 Ironwood Table]"
+            },
+            "ef75331da7fb6252fe2a88ff4f25fb3eb4cf7b4963419ac0be7e3598407cdd79": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00002182",
+                "title": "[Slot 1: Gold slingshot]"
+            },
+            "f072f0ea4d6e9a597e725a8ecb5d37bbcaa8adb97dbcac1ce5f7b7bdb69a2508": {
+                "source": "80000041\n04100000 AC3B9148 0000",
+                "title": "[18th slot modifier L + A]"
+            },
+            "f27f2dd021a2efa98c0a84d6fa332b135c52432087d2fd6a8bcef92c2ff6b709": {
+                "source": "04100000 AC3B90CC 0000001D",
+                "title": "[Slot 2: Item x30]"
+            },
+            "f305ee234b7ded1584ea7167d8127ead92ed6be9167805a8ebc3510c53921ce2": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001CD6",
+                "title": "[Itemslot 1 BLKWood Rug]"
+            },
             "f37ecc6509b56ab9bb6b043ae5eebd5accca8fcca9fe84c22430537f53aaeecd": {
                 "source": "04000000 00E7BD50 1E2E1001\n80000002\n04000000 00E7BD50 1E221001\n20000000",
-                "title": "[01# Speed Up (Press B)]"
+                "title": "[Speed Up (Press B)]"
+            },
+            "f55b5d0611bf97d41ef03b1c5ea48aadd057a84881a6aa8aaec5ff4fad0aeb28": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002A4",
+                "title": "[Slot 1: Bunny DIY Recipe 3]"
+            },
+            "f5e2342af2d64d30d040f42ce7c0680442648015fac642c9e33cd2e9745fb86a": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000499",
+                "title": "[Itemslot 1 Foosball Table]"
+            },
+            "f66ea86914fdd518b769305cfe1082a632fdf5cf68fd017cf64a6953c950075a": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B1",
+                "title": "[Slot 1: Bunny DIY Recipe 10]"
+            },
+            "f7117e098db86e76cffdc6dd207dd740f69dc4046474702c15f9c74ee6bb5899": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000319",
+                "title": "[Itemslot 1 HE Hi-Fi]"
+            },
+            "f7e156baf6f02b27e1daf8c4cded3f3d4310b8934cae47354ced75ce539a1af9": {
+                "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C6",
+                "title": "[Slot 1: Bunny DIY Recipe 25]"
+            },
+            "f819f3622e70dea502295aaec7079879a51e80a5c250c50965303a493171abe9": {
+                "source": "04000000 00E7BD50 1E221001",
+                "title": "[Set speed 4x]"
+            },
+            "f9367a644b0eb80e36ac5e61aa9b088532224bfbff61a7055c896d0c769031f2": {
+                "source": "80000041\n04100000 AC3B90F8 0000",
+                "title": "[8th slot modifier L + A]"
             },
             "fd4623068a4b1aac20ffa80c34a63cfc41469a347d45ba71ac525bd5566d71b1": {
                 "source": "04100000 AC3B911C 00000009",
@@ -17874,6 +18342,14 @@
             "fe5ec6d9a417d743337aba5d400a75c84f7846f10ab81bb096cf4f64c53f77db": {
                 "source": "04100000 AC3B90C0 00000834\n04100000 AC3B90C4 00000000",
                 "title": "[Itemslot 01 Axe unbreakable]"
+            },
+            "fe9522c1ac2440c7a39ff36638657ffe8281984a435127fa30bb511693b81831": {
+                "source": "80000041\n04100000 AC3B9158 0000",
+                "title": "[20th slot modifier L + A]"
+            },
+            "ffca69369fef66e8b7e7e32ef8a39dc38dad6c530538c0b307e4f6f5d3618ea3": {
+                "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001460",
+                "title": "[Itemslot 1 Stone WP]"
             }
         }
     },
