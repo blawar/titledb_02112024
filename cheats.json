@@ -1913,6 +1913,224 @@
                 "title": "[Billionaire's Military Division 4x]"
             },
             "version": 131072
+        },
+        "BEDAE701DD8565CD": {
+            "035290a9d95bf3c50e523d406231e8fdc40847c880a8ae771cf045b1f5ebfbdb": {
+                "source": "04000000 000543E4 1A88C128",
+                "title": "[Friendship maximum after change]"
+            },
+            "092f0efb7516602d54400a60146a9e7f161c21e763dc793711b1f38f5144df34": {
+                "source": "04000000 0005EB18 52807D08",
+                "title": "[CRT maximum after equipping any chip]"
+            },
+            "097d7e90f2d53e39e102068cb009711520207ced4438d09471bb25b7f0c105b9": {
+                "source": "04000000 0005EB94 52800C88",
+                "title": "[No property injury-free after equipping any chip]"
+            },
+            "0b0c402d62e29547f54e41307c15b639d90303ada1b7871e007c8d816b64e98f": {
+                "source": "04000000 0005EB50 52800C88",
+                "title": "[Mine-free properties after equipping any chip]"
+            },
+            "0bc0ea3693bc5d31d196ec60ccf625a8cc574e8684e7c5a05ce5efcee0df31db": {
+                "source": "04000000 0006540C 4B03014A",
+                "title": "[Items are not reduced (off)]"
+            },
+            "16b345513dc8a3be6eed84ba289876f8c8a84a864e29c38bec21eaf8ca74bda7": {
+                "source": "04000000 0005EAFC 52807D08",
+                "title": "[HIT Max after equipping any chip]"
+            },
+            "175b6f47ae620702b61016b17bd357400eb29a62ab4a4ef4190d3a09a243e4e6": {
+                "source": "04000000 0005EC5C 52801908",
+                "title": "[200% scan rate after equipping any chip]"
+            },
+            "1ccad7d6995da9f453ccfcd860a9f181ef96078d161b8b048e474d371361001d": {
+                "source": "04000000 0005EC30 0B090908",
+                "title": "[4x USB effect for military division]"
+            },
+            "26d5c135ecdcb000599a1b08bea5e63d89880407452368038d099f8f166de0d6": {
+                "source": "04000000 00069010 1A89B128",
+                "title": "[Maximum after team cap increase]"
+            },
+            "318ec0230153c4c3f90fd2021faa8eb9a424e795f727c7e07a8a4cb7a769bf9b": {
+                "source": "04000000 0005E574 1A89B120",
+                "title": "[Level cap 99]"
+            },
+            "3c870e79346a9915c617ce6a8f3e2112ae3c00d7ac83e5a73cd738a4a116d574": {
+                "source": "04000000 0005EB5C 52800C88",
+                "title": "[Equipped with any chip rear soil property injury-free]"
+            },
+            "41f31793ddfa2e38b5994af4c33690d84acd8fe2ec4666cd74dfb42b0a57ca6e": {
+                "source": "04000000 0005EC68 52800C88",
+                "title": "[Equipped with any chip after through the damage relief]"
+            },
+            "4227198767ef36c9aa614ede67b16d1faae3ea68a50961dc71999ddc4119dbb8": {
+                "source": "04000000 0005EB88 52800C88",
+                "title": "[Dark properties free of injury after equipping any chip]"
+            },
+            "43c968c7a963d591c684e313c911b94fd8e389a8bedcfc6c85f9a71e3a4a941f": {
+                "source": "04000000 0005EC30 0B090D08",
+                "title": "[8x USB effect for military division]"
+            },
+            "45a75a96874b4c4813b22c9e72686774e1305d07324c526d8eeecca40b80dead": {
+                "source": "04000000 00067F54 1A89B128",
+                "title": "[Max Money after change]"
+            },
+            "47b941d675e735b6ccdf3875e965fcc97a5068ff81a9194a4175f4e19162525c": {
+                "source": "04000000 00005478 4B1F0129",
+                "title": "[Inf Sp]"
+            },
+            "48594d305054743ace8d0e0eb2978adc5339afbabb9b5300939c8664ec9e508e": {
+                "source": "04000000 0005EC14 52800C88",
+                "title": "[100% connectivity rate after equipping any chip]"
+            },
+            "4c7184654d2d9343ecbbb29083b463af9a3c82bd8d2376bed455776d6f71dd69": {
+                "source": "04000000 0005EB40 52800C88",
+                "title": "[Equipped with any chip rear wood property injury-free]"
+            },
+            "4d4d305e607885bd2457e4d4c20fdb358d4da3a13ac628efe5f029c6ba237d17": {
+                "source": "04000000 0005EC4C 52800C88",
+                "title": "[100% drop rate after any chip is equipped]"
+            },
+            "4f0a9d5b1e0bdddd8b266d7e50e947519e5d12aaff4f0ae7d8a1f98ac089874e": {
+                "source": "04000000 0005EAEC 52807D08",
+                "title": "[SPD max after equipping any chip]"
+            },
+            "607d3a16204a6034c8f6c456062abc31808323789301762cf8fe4d19462ba378": {
+                "source": "04000000 0000EEF8 0B090D08\n04000000 0000EF04 0B080E88",
+                "title": "[8x increase in hit slots]"
+            },
+            "609dc9fb6775c4d6a3b73e19afd2321d2911bd5c7b082baf23f4a46b07162678": {
+                "source": "04000000 0005EB24 52800C88",
+                "title": "[Fire property free of injury after equipping any chip]"
+            },
+            "618743eab979dba247e34280eaaadd3b377f954bef982a17b559d6db8f8cb01c": {
+                "source": "04000000 0006540C 4B1F014A",
+                "title": "[Items are not reduced (on)]"
+            },
+            "660eaeaa7da920740cc303f2ad444513b184732907a084248b5a878e1167ddb8": {
+                "source": "04000000 0000EEF8 0B090908\n04000000 0000EF04 0B080A88",
+                "title": "[4x increase in hit slots]"
+            },
+            "6c0c06bc6eb5225738ed17aab32916e9f508556015507eadfebc76991b83ac0c": {
+                "source": "04000000 0005EAA8 0B090108\n04000000 0005EAB4 0B0A0108\n04000000 0005EAC4 0B090108\n04000000 0005EAD0 0B0A0108\n04000000 0005EAE0 0B090108\n04000000 0005EAEC 0B0A0108\n04000000 0005EAFC 0B090108\n04000000 0005EB08 0B0A0108\n04000000 0005EB18 0B090108\n04000000 0005EB24 0B0A0108\n04000000 0005EB34 0B090108\n04000000 0005EB40 0B0A0108\n04000000 0005EB50 0B090108\n04000000 0005EB5C 0B0A0108\n04000000 0005EB6C 0B090108\n04000000 0005EB78 0B0A0108\n04000000 0005EB88 0B090108\n04000000 0005EB94 0B0A0108\n04000000 0005EBA4 0B090108\n04000000 0005EBB0 0B0A0108\n04000000 0005EBC0 0B090108\n04000000 0005EBCC 0B0A0108\n04000000 0005EBDC 0B090108\n04000000 0005EBE8 0B0A0108\n04000000 0005EBF8 0B090108\n04000000 0005EC04 0B0A0108\n04000000 0005EC14 0B090108\n04000000 0005EC20 0B0A0108\n04000000 0005EC30 0B090108\n04000000 0005EC3C 0B0A0108\n04000000 0005EC4C 0B090108\n04000000 0005EC5C 0B0A0108\n04000000 0005EC68 0B090108",
+                "title": "[Max Item Equipment effect]"
+            },
+            "6e2ef74a15b1ecfb379dc90059b1baccb17f375af276599ab433773448a0bbcc": {
+                "source": "04000000 0005EBA4 52800C88",
+                "title": "[Highly toxic immunity after equipping any chip]"
+            },
+            "755aa05ee36c7f662242cafb86d78721dc073c4afe9780bdc53a8df0e870445e": {
+                "source": "04000000 0005EBE8 52800C88",
+                "title": "[Liquidization immunity after equipping any chip]"
+            },
+            "78b66371d49b47ae8e558233a7d5663ef09233e63175ad042bddbaf25ff5062d": {
+                "source": "04000000 0005EBC0 52800C88",
+                "title": "[Paralyzed immunity after equipping any chip]"
+            },
+            "7f9e69ff7902ec3c8ffabdeb445a95ad03241d79f520e237be6492d80fb88952": {
+                "source": "04000000 0005EF1C 1A89B128\n04000000 0005EF28 1A89B120\n04000000 0005EFD4 1A89B128\n04000000 0005EFE0 1A89B120\n04000000 0005F084 1A89B128\n04000000 0005F090 1A89B120\n04000000 0005F134 1A89B128\n04000000 0005F140 1A89B120\n04000000 0005F1E4 1A89B128\n04000000 0005F1F0 1A89B120\n04000000 0005F294 1A89B128\n04000000 0005F2A0 1A89B120",
+                "title": "[Maximum after full property promotion]"
+            },
+            "834637ab4ebcf48e9a2b530c811ed30d58aa251fd35473d6b8dc69904dccb9de": {
+                "source": "04000000 0000EEF8 0B091108\n04000000 0000EF04 0B081288",
+                "title": "[16x increase in hit slots]"
+            },
+            "87e87802f70959b735aef6eb5ed8b40ba465926f232747c2359a62dbd61c245a": {
+                "source": "04000000 0005EAD0 52807D08",
+                "title": "[DEF maximum after equipping any chip]"
+            },
+            "89d4bdc2898efe226fc959857b7e0af53b582a3f1e8826c93eb2a45c1f12c49f": {
+                "source": "04000000 0005EC3C 0B0A0D08",
+                "title": "[Billionaire's Military Division 8x]"
+            },
+            "8b21820ffc711dd96568cb8a4cfd29fa66595cc737ee7853d42b0de4ddd17f9c": {
+                "source": "04000000 000652EC 1A8BB12B",
+                "title": "[Max item when acquired(off)]"
+            },
+            "8d1dac93501505fd1ccf6a186b239eb0742cde2e98b10559c65a4395352b53e9": {
+                "source": "04000000 00054658 1A88C108",
+                "title": "[Can the maximum after the change]"
+            },
+            "9fa0512e4ab0a3e68547e197e3f7830ef23e2d1630769c62440c7fc6168b83f2": {
+                "source": "04000000 0004FFF8 52801909",
+                "title": "[scan rate after battle Max]"
+            },
+            "a19ddbebd4a747a5aec92318634f8185c294fcf674a625cd71b610bbf9bf8c18": {
+                "source": "04000000 0005EBB0 52800C88",
+                "title": "[Chaotic immunity after equipping any chip]"
+            },
+            "ae2dba0a58fcc2b47f13c79dbc462ee322f994723a15a4705fde0020cc8038af": {
+                "source": "04000000 0005EB08 52807D08",
+                "title": "[AGL maximum after equipping any chip]"
+            },
+            "b664953b42818ee108ec847a87cfdb173dfc02f04379c09f8fc73f72148256e7": {
+                "source": "04000000 0005EC3C 0B0A0908",
+                "title": "[Billionaire's Military Division 4x]"
+            },
+            "b6b1d26eb634bf18ae3b09d3cb26e3e7f098b1fcbd235e6b3fcb1e1b72e50f07": {
+                "source": "04000000 0005EC30 0B090508",
+                "title": "[2x the USB effect of the military division]"
+            },
+            "b905a10b71e3962114a29d6935e6737265bb2edfe88ff45a2a4396097a58cfe2": {
+                "source": "04000000 0005EC20 52800C88",
+                "title": "[100% escape rate after equipping any chip]"
+            },
+            "b9452e3b3e8520b5e0f721c3a9412ecc3df3553d7724d65ba077890d7ab1b3ce": {
+                "source": "04000000 0005EBF8 52800C88",
+                "title": "[BUG Immunity After Any Chip]"
+            },
+            "bbb00c93349d43d4ff12742ae63cda0e8d86086cc8330282997da6b41b061883": {
+                "source": "04000000 0005EB78 52800C88",
+                "title": "[Light properties are injury-free after equipping any chip]"
+            },
+            "bca39bda5a8b3392f5bc0c7c9738dc1e61bd112c92ff566f5d9254a3f09f512f": {
+                "source": "04000000 0005EAE0 52807D08",
+                "title": "[INT max after equipping any chip]"
+            },
+            "c1762a1eacf480bd849378c74b993dc954bfee212c6ae5b245f05b9b9dfe5ea3": {
+                "source": "04000000 0005EC3C 0B0A0508",
+                "title": "[Billionaire's Military Division 2x]"
+            },
+            "c397236365fe611544cad675f84567f2d2c6eeb63a4db73e19e20307fd5e27a1": {
+                "source": "04000000 0005EBDC 52800C88",
+                "title": "[Dizziness immunity after equipping any chip]"
+            },
+            "c62779ea30e4434aa3741b4b552a616bfa8b59f7843723738439110b1b53a937": {
+                "source": "04000000 0005EC2C 52993FE8\n04000000 0005EC30 72877348",
+                "title": "[Full level after increased experience after equipping chips]"
+            },
+            "c7ce20685431b99fa7995f2c85d751dbb7d28bd182a76013bc6b99863afe97f5": {
+                "source": "04000000 000652EC 1A8BB16B",
+                "title": "[Max item when acquired(on)]"
+            },
+            "c82094bb8f4220bcff5138dd3575eb0ce44d573b8aed2d847993e2a9a4115f1d": {
+                "source": "04000000 0005EB34 52800C88",
+                "title": "[Water properties free of injury after equipping any chip]"
+            },
+            "c9f3bd9e50b7de802b4dc8ffad4f4d72fd78e52b15cc5c56b0fa919747534c64": {
+                "source": "04000000 0005EB6C 52800C88",
+                "title": "[Equipped with any chip rear wind property injury-free]"
+            },
+            "cfcd3e6905cf34c2cb154f16ea457e03113d4a8a637a1ed2cd88c7bc4e8af3ee": {
+                "source": "04000000 0005EAA8 5284E1E8",
+                "title": "[HP Max after equipping any chip]"
+            },
+            "d2870b7d7d75c9edd37146c8094492dee8fa0f7f5e864411bb47cf6782e122bb": {
+                "source": "04000000 0005EAC4 52807D08",
+                "title": "[ATK max after any chip]"
+            },
+            "d63803f7a4b52601d13930b431109252c30cb99f79e39ff26cb735febe412a81": {
+                "source": "04000000 0005EBCC 52800C88",
+                "title": "[Sleep Immunity After Equipping Any Chip]"
+            },
+            "dce9ff11064d78592356df9c4b0654f8fe94d4da086bb942c0717b4adfc751f1": {
+                "source": "04000000 0005EAB4 52807D08",
+                "title": "[Maximum SP after equipping any chip]"
+            },
+            "fea0c25bb79b29bd7ff6a1de6e93a791b6361b81d68f9fec50d614ba9cc99f58": {
+                "source": "04000000 0005EC04 52800C88",
+                "title": "[Dead immunity when equipped with any chip]"
+            }
         }
     },
     "0100152000022000": {
@@ -8003,6 +8221,68 @@
         }
     },
     "01003D200BAA2000": {
+        "3AB632DEE82D5944": {
+            "1af7799ae0bb42782cc141989e7830935e55fd6fc4507cb3c0994e6d6f808570": {
+                "source": "04000000 02949F00 B9403682\n04000000 02949F04 51001842\n04000000 02949F08 7100005F\n04000000 02949F0C 5400004A\n04000000 02949F10 2A0003E8\n04000000 02949F14 B9000A88\n04000000 02949F18 D65F03C0\n04000000 026CC394 9409F6DB",
+                "title": "[HP is not reduced]"
+            },
+            "1f4ba5daf273349e8753bb1a7280345c89c11b395ad8361345223296d0bfa7c1": {
+                "source": "04000000 02949F20 7100027F\n04000000 02949F24 5400004A\n04000000 02949F28 52800013\n04000000 02949F2C 0B130001\n04000000 02949F30 D65F03C0\n04000000 0261ADFC 940CBC49",
+                "title": "[Money is not reduced]"
+            },
+            "20af134c711d7bd2a9ed120fd21b792fabdf7d329681770ce16f91a280051393": {
+                "source": "04000000 0281D3BC 1A88B108",
+                "title": "[Pocket Bank Money Max]"
+            },
+            "41d0f2d8f43e4bcda0eb0ed399a6596796cc0bc3ff1e0b63a4a0b46481478889": {
+                "source": "04000000 026CC750 1A80B008\n04000000 026CC7A8 1A80B008",
+                "title": "[Will not be hungry]"
+            },
+            "4942e28ceeac2ece2a9432685bfba0ea50cf44836b30acea54aa506f8bda78aa": {
+                "source": "04000000 026CC568 0B140AA8",
+                "title": "[4x HP growth rate (when upgrading)]"
+            },
+            "5641684c4166171ec2190946d926dc5eea0c17db50fd1a63b80029b41015bcfa": {
+                "source": "04000000 02949F40 52800091\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF",
+                "title": "[Rescue team experience 4x]"
+            },
+            "58b5740419a82fccc8b6befe3d1dfffbe3414e8b5877b03430fd0a693957a021": {
+                "source": "04000000 026CC394 B9000A88",
+                "title": "[HP is not reduced Close]"
+            },
+            "5bde5b838a6983b0c107f08dff89dcc146a65a06de81fec4659bce956a48bb47": {
+                "source": "04000000 026CC568 0B1406A8",
+                "title": "[2x HP growth rate (when upgrading)]"
+            },
+            "a4717a96023710d37be204551711e6755668e6c30bde99413647bf5c9d2e7d1b": {
+                "source": "04000000 026CC990 12BFE000",
+                "title": "[PM Experience Max On]"
+            },
+            "ae55bf12289d8c06b2a77651b10bb35138f58dc4f435efc75b13af5e5096bc0c": {
+                "source": "04000000 026CC568 0B140EA8",
+                "title": "[HP growth rate 8 times (when upgrading)\uff09]"
+            },
+            "c9be16ad59a5e38bd209c5332c706ab99b8c5dda0816bf9fb567746de91a3984": {
+                "source": "04000000 02949F40 52800111\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF",
+                "title": "[Rescue Team Experience 8x]"
+            },
+            "d1f51559b8ab5b4fc027e85de0d02f9b0696fe7a7799000e40bd7302ae027628": {
+                "source": "04000000 026CC990 B9401C00",
+                "title": "[PM Experience Max Close]"
+            },
+            "d3333ddbc693e5438c66d09342b3fc3e29b9fe59b5ebda8a9acbc9d4be330dd2": {
+                "source": "04000000 0262D394 1A80C008\n04000000 0262D428 1A80C008",
+                "title": "[PP is not reduced]"
+            },
+            "ed8e05f9762363d30000fd6b1ca1e1bc5d96d62c148279f986e7483610a15b86": {
+                "source": "04000000 02949F40 52800211\n04000000 02949F44 1B117C21\n04000000 02949F48 2A0103F4\n04000000 02949F4C D65F03C0\n04000000 0281A804 9404BDCF",
+                "title": "[Rescue Team Experience 16x]"
+            },
+            "ee87aa40929ca263b00bddd9ba6161206cfaf4cb335b258e14e81a7dfc176f17": {
+                "source": "04000000 0281D65C 6B1F02E1",
+                "title": "[Warehouse items are not reduced]"
+            }
+        },
         "9DDA1EFEEF70DE46": {
             "00e0f43abb8d6d7cb00a5b5d5fbd69e28041a12c8ed711df45112b8a36d9027f": {
                 "source": "04000000 055622A4 0098967F",
@@ -17727,6 +18007,14 @@
                 "source": "04100000 AC3B9118 000009C9\n04100000 AC3B911C 0000001D",
                 "title": "[Itemslot 12 Max Gold Lomps]"
             },
+            "005a06c16e287e05dc05ba195c25381385587e82c9640d3341881ed40b8eb4b3": {
+                "source": "04100000 AC3B9090 0000026D\n04100000 AC3B9094 00000001",
+                "title": "[38 - robust cicada]"
+            },
+            "00ed96038d504fd622d3c6a5c558e8dd4830a61ce182af142d70c9e48e0241ba": {
+                "source": "04100000 AC3B9010 000008BB\n04100000 AC3B9014 00000001",
+                "title": "[22]"
+            },
             "01014b9a92269df465042d93e9cd84e1d54856a63cfc5be8b5948a827a6f4e8e": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000012CD",
                 "title": "[Itemslot 1 Rustic WP]"
@@ -17743,6 +18031,18 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000EBF",
                 "title": "[Itemslot 1 Hang Terrarium]"
             },
+            "03526be2cd765c3d84cf1ff62727d5deb4411b80db2f1d923fd36a45c267e02d": {
+                "source": "04100000 AC3B9040 000008C2\n04100000 AC3B9044 00000001",
+                "title": "[28]"
+            },
+            "039bd3daa192f941c44b0cb2d937521d524ec55d3d271d8ef81a3e1d6ded59fb": {
+                "source": "04100000 AC3B9088 0000026C\n04100000 AC3B908C 00000001",
+                "title": "[37 - agrias butterfly]"
+            },
+            "03b5f6b9f8659a1c081bb30fd63941cf5bad57d9444f885ddb7482a24f1b56b1": {
+                "source": "04100000 AC3B90C0 000000A9\n04100000 AC3B90C4 00000001",
+                "title": "[1- (Fossil part 1)]"
+            },
             "049cb047ff72f51afd5ab8c555e6f92aa59d215da200b42fefb9e19ddcfc507b": {
                 "source": "04000000 01036B28 8B214115\n04000000 00E7BD50 1E221001",
                 "title": "[Money/Miles x100 (off)]"
@@ -17755,13 +18055,33 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001CC6",
                 "title": "[Itemslot 1 Fossil Rug]"
             },
+            "04a5d29b98ca76a2ced8f256f926ea5482383d17d5092e1c16d533ffe21efad3": {
+                "source": "04100000 AC3B9008 000008E3\n04100000 AC3B900C 00000001",
+                "title": "[21]"
+            },
+            "053d6a03ed7a1008de662379d57610d1fa3a588ba4d2ec9fc011bb9ff2a67684": {
+                "source": "04100000 AC3B90E8 00000276\n04100000 AC3B90EC 00000001",
+                "title": "[6 - walking stick]"
+            },
             "058b528971b6772addf1f3a0484b777dac3f4bb09357186b34e601cf2c45914c": {
                 "source": "04100000 AC3B9068 00003100\n04100000 AC3B906C 00000000",
                 "title": "[33 - Egg Message Bottle]"
             },
+            "05d86b95aebfa77e7356e9f95f7a2d44af20b2d1e56e0a10583c38a0b615d936": {
+                "source": "04100000 AC3B9110 000008B0\n04100000 AC3B9114 00000001",
+                "title": "[11]"
+            },
             "062a5748c32975a72ff989bd2607a9fc1b151544f152dfb42b145fcf0192421f": {
                 "source": "04100000 AC3B9048 00000AFA\n04100000 AC3B904C 00000000",
                 "title": "[29 - Coconut Trees (Infinite)]"
+            },
+            "06350931477773118bcc77368a620af5a916f23693766b89e585270b6358c86e": {
+                "source": "04100000 AC3B9128 000000C0\n04100000 AC3B912C 00000001",
+                "title": "[14]"
+            },
+            "066af63d204b79f215263384f0386d140c933c815cca857aa32bf56fa2d7cfa5": {
+                "source": "04100000 AC3B9158 000000CA\n04100000 AC3B915C 00000001",
+                "title": "[20]"
             },
             "07304fda4e9f512f69bd1c6ceb68e70659759f001fe76e95bd3506424c308997": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B2",
@@ -17771,9 +18091,25 @@
                 "source": "04100000 AC3B9110 00000D03\n04100000 AC3B9114 00000000",
                 "title": "[11 - Timer]"
             },
+            "07897108e82d5bc5e2a807f27eeba7f6ef5ee12e3bf9a057e9240266e9a193f0": {
+                "source": "04100000 AC3B9140 000008DF\n04100000 AC3B9144 00000001",
+                "title": "[17]"
+            },
+            "0844df65efc414ab5850d4dac011f40a21c5ca2c84a3ffc04704c29f493a9b2e": {
+                "source": "04100000 AC3B9058 00000266\n04100000 AC3B905C 00000001",
+                "title": "[31 - earth-boring dung beetle]"
+            },
+            "08a2f6e342631dff81cf948df136065c53d48c573f9f2a41b46c22b344ac7c0a": {
+                "source": "04100000 AC3B90D8 00000249\n04100000 AC3B90DC 00000001",
+                "title": "[4 - red dragonfly]"
+            },
             "08a5235d69f1ff7cceee464bbe14c3a8f49c6b028aecbd75bd3a946d656f547c": {
                 "source": "04100000 AC3B90E0 0000094B\n04100000 AC3B90E4 00000000",
                 "title": "[Itemslot 05 Watering Can unbreakable]"
+            },
+            "091ddb371cf0943e91e8a1d34a6792c1e88fcea7bb75666c3178caf478946f1c": {
+                "source": "04100000 AC3B9120 000008B2\n04100000 AC3B9124 00000001",
+                "title": "[13]"
             },
             "0afc5771f363a44ded0fd370b13127a12d293b04c059491fdc96e8de130d590f": {
                 "source": "04100000 AC3B90A0 0000097B\n04100000 AC3B90A4 00000000",
@@ -17783,17 +18119,49 @@
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C3",
                 "title": "[Slot 1: Bunny DIY Recipe 22]"
             },
+            "0bdd74949ebda2b45822d0ef6ccb99786369912c4514ac3f2daae46262e68f0c": {
+                "source": "04100000 AC3B9030 0000028A\n04100000 AC3B9034 00000001",
+                "title": "[26 - violin beetle]"
+            },
+            "0c39cc2ae70a2e7732f4505b46573a3372cb0adb959e7e2a7135340df1c39038": {
+                "source": "04100000 AC3B90D0 000008D1\n04100000 AC3B90D4 00000001",
+                "title": "[3]"
+            },
+            "0c5b9b9b5fc48fc648e84524e43ea6dc07ff4b22318e84421d718c1d0864d665": {
+                "source": "04100000 AC3B9088 00000D9D\n04100000 AC3B908C 00000001",
+                "title": "[37 - blue weevil beetle]"
+            },
+            "0c8f7c206b09f01c5deb730dcfad7af42ccb11daf2ddf7b71f08cb40f77f7e8a": {
+                "source": "04100000 AC3B9008 000000CB\n04100000 AC3B900C 00000001",
+                "title": "[21]"
+            },
             "0cd332f6f40a87616f017f69e58005712e86a5306c471823f2a2f6750feb9e88": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000C7C",
                 "title": "[Itemslot 1 IRW Dresser]"
+            },
+            "0dea1796043fb0d7e2c10e3b171f773bdbd1782d545667237a48ff615d0448e1": {
+                "source": "04100000 AC3B90D0 000008A7\n04100000 AC3B90D4 00000001",
+                "title": "[3]"
             },
             "0eca12cb3b69554f4250c257e877a0a100fc50b3e6869ba34c60fd3d7ff3b2d5": {
                 "source": "80000041\n04100000 AC3B90D0 0000",
                 "title": "[3rd slot modifier L + A]"
             },
+            "0f5378f9b6bb8b3f386b2773aaa432bf234e23d3882e10b54e7e8cd81178ba43": {
+                "source": "04100000 AC3B90D8 000000B1\n04100000 AC3B90DC 00000001",
+                "title": "[4]"
+            },
+            "0f57d4d5e6496051959d648e9210a09f8597af328052214947b174320be9d7ee": {
+                "source": "04100000 AC3B9068 00000268\n04100000 AC3B906C 00000001",
+                "title": "[33 - walking leaf]"
+            },
             "0f87b304e377d5e6dc52b5f510a29cedef77d6361385efa1f68a19a2fc288e67": {
                 "source": "04100000 AC3B9100 0000125F\n04100000 AC3B9104 00000000",
                 "title": "[9 - Vaulting Pole]"
+            },
+            "0fa44c3f7129035bc5459967b7088059d75faf8f6ca10736d5c9a0f07ce708be": {
+                "source": "04100000 AC3B9148 000008E0\n04100000 AC3B914C 00000001",
+                "title": "[18]"
             },
             "10b7e23de1c973513376a2829ebd09b8ecc119cfc420424a5a18b98bc0058505": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000009CF",
@@ -17802,6 +18170,10 @@
             "10d735ba960a316aa28018ad4df99254e80f3da4c4203b830ffed890906bd858": {
                 "source": "80000041\n04100000 AC3B90C0 0000",
                 "title": "[1st slot modifier L + A (goto https://pastebin.com/B8N5KKsh for xxxx Item ids)]"
+            },
+            "112ec24b1849f498df20e8bc8c2e43429b1914dbbe60f5863b924d1584b77936": {
+                "source": "04100000 AC3B9008 0000025C\n04100000 AC3B900C 00000001",
+                "title": "[21 - dung beetle]"
             },
             "119f808ffd8419b838c0b5aa644f3372ce76c5d42b8379ddc8a163f19557a9fe": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001FF3",
@@ -17815,6 +18187,10 @@
                 "source": "04000000 00E7BD50 1E201001",
                 "title": "[Set speed 2x]"
             },
+            "12ef0498850515c754839cdda20011beea37d6de3b0305b7c579a2ca74b81abd": {
+                "source": "04100000 AC3B9058 0000105E\n04100000 AC3B905C 00000001",
+                "title": "[31]"
+            },
             "143a01593300c75a2c4591e5a13ec1eeda2c3cde2a20bb32381f729a77a9c2a9": {
                 "source": "80000041\n04100000 AC3B9128 0000",
                 "title": "[14th slot modifier L + A]"
@@ -17823,9 +18199,49 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000012FD",
                 "title": "[Itemslot 1 Stately WP]"
             },
+            "1482deac3b792d24bfdb77ad62824ab176910ce645e1af678569fe4048e7a982": {
+                "source": "04100000 AC3B90A0 000000E4\n04100000 AC3B90A4 00000001",
+                "title": "[40]"
+            },
             "14de579611b52728ca037698ddd6cdae1b424af66ecb3d1cd602aee6b894a45f": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C0",
                 "title": "[Slot 1: Bunny DIY Recipe 19]"
+            },
+            "1623226bdff20721ed5d4b22a2879dfdc7c6f703392c8148475fdca8026c5959": {
+                "source": "04100000 AC3B9020 000008BD\n04100000 AC3B9024 00000001",
+                "title": "[24]"
+            },
+            "16f77e55f625ce0fa0802670ff44ed085c00ce05a29c2cebf1eed288da26faf8": {
+                "source": "04100000 AC3B9118 00000253\n04100000 AC3B911C 00000001",
+                "title": "[12 - darner dragonfly]"
+            },
+            "17e4b5a6cc6e7554c2fa8bb9bf0dec047580a7487b6ba3331bef97b7a2ecf40b": {
+                "source": "04100000 AC3B9150 0000025A\n04100000 AC3B9154 00000001",
+                "title": "[19 - cyclommatus stag]"
+            },
+            "19a421823be9bf27780a4fdf1b6eb94b7b003fc50558f27afff28d432cfaa76c": {
+                "source": "04100000 AC3B9020 000008E6\n04100000 AC3B9024 00000001",
+                "title": "[24]"
+            },
+            "1a0e2d7879167869402ad866c544e2133dc2a74a5a7ce311c94018ca9b917583": {
+                "source": "04100000 AC3B9038 00000262\n04100000 AC3B903C 00000001",
+                "title": "[27 - peacock butterfly]"
+            },
+            "1a2848baa99eb133b2098b80c4dc7c328ab016eb61c2331cab8f2b354f0c0fde": {
+                "source": "04100000 AC3B9078 00000D9B\n04100000 AC3B907C 00000001",
+                "title": "[35 - man-faced stink bug]"
+            },
+            "1af2b2c556f48b285b5b937b05129cbe8718a5d4dbc092a48b9b86caac4ba9ff": {
+                "source": "04100000 AC3B9048 0000028D\n04100000 AC3B904C 00000001",
+                "title": "[29 - horned elepant]"
+            },
+            "1b837277d6831969e18264d13c1116bc2cfcc8d671d697e017342b5d454ac0a2": {
+                "source": "04100000 AC3B9070 00000D9A\n04100000 AC3B9074 00000001",
+                "title": "[34 - giraffe stag]"
+            },
+            "1c19476e1eb2521f75871d47c75770a2321a3c0d46859b8333e9aad5f4c3d227": {
+                "source": "04100000 AC3B90E8 0000024B\n04100000 AC3B90EC 00000001",
+                "title": "[6 - pondskater]"
             },
             "1c4733f3e57a6c902372ef04c57983a7b62d50c6eff362fc057de37e95b36e3b": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001370",
@@ -17834,6 +18250,14 @@
             "1d4d73d0268edb77cb5a269cc33976bdb7f50be2ae33de490cc12d2aff8c93da": {
                 "source": "04100000 AC3B90DC 0000001D",
                 "title": "[Slot 4: Item x30]"
+            },
+            "1dcebe4427f9b36137b6e9095943f19cdbe73c3b793ea2f4bb028d35e1eae62d": {
+                "source": "04100000 AC3B90F8 000008D6\n04100000 AC3B90FC 00000001",
+                "title": "[8]"
+            },
+            "1de70869158fc189b39315f4370f71c1fab541f54a563f72670b3fa0dd98ac11": {
+                "source": "04100000 AC3B9008 000008BA\n04100000 AC3B900C 00000001",
+                "title": "[21]"
             },
             "1e32e15d8c9d24618cb60924764c2bd9c0cf56d1790e8b8044047cf37fa9fabd": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 00000296",
@@ -17847,13 +18271,61 @@
                 "source": "04100000 AC3B9158 000009C9\n04100000 AC3B915C 0000001D",
                 "title": "[20 - Gold Nuggets (Infinite)]"
             },
+            "2008fdfcaa667ce625bc60ba7d8d16088314e5aaf8ed7b39edb575a2a831d3fc": {
+                "source": "04100000 AC3B9090 000008CC\n04100000 AC3B9094 00000001",
+                "title": "[38]"
+            },
+            "21328a2cabde28bbdd387a840eda61edeac28425e0c5099c826c4c9d637f50a5": {
+                "source": "04100000 AC3B9100 0000024F\n04100000 AC3B9104 00000001",
+                "title": "[9 - wharf roach]"
+            },
             "21d10303e8c69f0a909b9dca4bbacd394ec694d1de2fc3b0a0d25000b8a51777": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 00000295",
                 "title": "[Slot 1: Golden Slingshot]"
             },
+            "2263d09055b53420c3ec623993288bc842c4174d8c40b1bb01c0d222ca514ea5": {
+                "source": "04100000 AC3B9040 000000D5\n04100000 AC3B9044 00000001",
+                "title": "[28]"
+            },
+            "228bc3c418a12586fe4b4d1238c9d61117d199383e4f817261a459e2f923fa4f": {
+                "source": "04100000 AC3B90F8 000008AD\n04100000 AC3B90FC 00000001",
+                "title": "[8]"
+            },
+            "22cd5f46670988c1dc4c0de5cec12b26734affcfe2f47d1b13918960f4372b44": {
+                "source": "04100000 AC3B9158 000008B9\n04100000 AC3B915C 00000001",
+                "title": "[20]"
+            },
+            "22fb5649ced556718991c8f8c5a8e2fb0daa8f8063b41517a2324e3bc95a3287": {
+                "source": "04100000 AC3B9058 0000125A\n04100000 AC3B905C 00000001",
+                "title": "[31]"
+            },
+            "23c0adcbbb0941e96472feeeae9d567535408a971e47953f75757ec4191ee5f8": {
+                "source": "04100000 AC3B9150 000008E1\n04100000 AC3B9154 00000001",
+                "title": "[19]"
+            },
             "24823a8cf201c2ed96b0e7ac3cc4bda1d1cd60303a2ee6b5574d313d059337a8": {
                 "source": "04100000 AC3B9120 000009C4\n04100000 AC3B9124 0000001D",
                 "title": "[13 - Tree Branches (Infinite)]"
+            },
+            "24be5f1e1ad85243c55950ea4f5806d336351aa0c882e9308570deedca0a4b8c": {
+                "source": "04100000 AC3B9038 000008C1\n04100000 AC3B903C 00000001",
+                "title": "[27]"
+            },
+            "25fb0b293164244074e4156e55ff18797f5db82bf68a323ec73f7a0bb764837c": {
+                "source": "04100000 AC3B9028 000008E7\n04100000 AC3B902C 00000001",
+                "title": "[25]"
+            },
+            "268b8a1ecd196c65e30a3b536d434778aa87eb2c6f492530a74de84bbbbad2e7": {
+                "source": "04100000 AC3B9120 00000254\n04100000 AC3B9124 00000001",
+                "title": "[13 - goliath beetle]"
+            },
+            "2884aa41287a00119e2ed8b287c9b6b49549fef52df0162dd670481153386354": {
+                "source": "04100000 AC3B9078 000008C9\n04100000 AC3B907C 00000001",
+                "title": "[35]"
+            },
+            "2959560cb3fe013cdf414608abd9e3550c481d2495ebc7a2e6f79ca9d7cd29e7": {
+                "source": "04100000 AC3B90F8 00000278\n04100000 AC3B90FC 00000001",
+                "title": "[8 - saw stag]"
             },
             "296a7ffe70af230360f65eb38c46ebf497895d8c129a6d6ea47539b1dce637cd": {
                 "source": "04100000 AC3B90C8 00000949\n04100000 AC3B90CC 00000000",
@@ -17862,6 +18334,10 @@
             "297196d1b90d8871c7212e337fb1df8813983ead6fe615cc2aa26fcdfe6c9bd2": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001345",
                 "title": "[Itemslot 1 WhiteChoc WP]"
+            },
+            "2a6225f330c1608935b8282022a9d22da4183fc945530608c0343ddf3c5370c3": {
+                "source": "04100000 AC3B9048 00001253\n04100000 AC3B904C 00000001",
+                "title": "[29]"
             },
             "2aa26551bfe3d13dbebab99511ef73b16df4c92d501c13d9ff27face8a545081": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000A37",
@@ -17879,6 +18355,14 @@
                 "source": "80000041\n04100000 AC3B90C8 0000",
                 "title": "[2nd slot modifier L + A (xx is quantity 01=1 09=10 1D=30 31=50)]"
             },
+            "315b7c7a581ed6638a70abfbd70427e9279356f919e87402593f1e6da2c9877c": {
+                "source": "04100000 AC3B9140 0000012F\n04100000 AC3B9144 00000001",
+                "title": "[17]"
+            },
+            "31e0fc8e3140d9cef30bd33f591c16ff8f92d9e8c185e8c77b1b6b84ce713311": {
+                "source": "04100000 AC3B9058 00000D96\n04100000 AC3B905C 00000001",
+                "title": "[31 - paper kite butterfly]"
+            },
             "33b2176ebc2e7e6c4527e96964be1e9c81164567ab274e3b3129bf76db297c5f": {
                 "source": "04000000 022863E0 52800091\n04000000 022863E4 1B117C21\n04000000 022863E8 8B214115\n04000000 022863EC D65F03C0\n04000000 01036B28 94493E2E",
                 "title": "[4x Bell/Miles multiplier]"
@@ -17887,21 +18371,57 @@
                 "source": "04000000 01036CD0 6B1F0114",
                 "title": "[ON - Miles Don't Decrease]"
             },
+            "3497ffe490c031c1a22232f846b4ca16d3bf5931dee8c3ddbcc6dece036d008a": {
+                "source": "04100000 AC3B90E8 000008D4\n04100000 AC3B90EC 00000001",
+                "title": "[6]"
+            },
+            "354cf5282f9f009f7703840022e77092f4570aec41934ef1b455fbfb0f2c36e0": {
+                "source": "04100000 AC3B90D8 00000273\n04100000 AC3B90DC 00000001",
+                "title": "[4 - emperor butterfly]"
+            },
+            "359cbc6395a611300f2e3c95eb8a6f260d8aba58526fda1169fc2ea9bb52c75a": {
+                "source": "04100000 AC3B9020 000000CF\n04100000 AC3B9024 00000001",
+                "title": "[24]"
+            },
             "35b979f7a969025007fbc96d75762aaa091cdf536f8f1ce3e437fdfadf628694": {
                 "source": "04100000 AC3B90D4 0000001D",
                 "title": "[Slot 3: Item x30]"
+            },
+            "374ad1deb36c3e18b69232687d971ffcd694f92434010f2db15c627bec3923a6": {
+                "source": "04100000 AC3B9110 000000BC\n04100000 AC3B9114 00000001",
+                "title": "[11]"
+            },
+            "3805475e73da3ce1de5180bd90504f6558845dd485df62ccc7dbdf24430968cc": {
+                "source": "04100000 AC3B9140 00000258\n04100000 AC3B9144 00000001",
+                "title": "[17 - horned hercules]"
+            },
+            "380bad6b686fcd99c4d84029e63e2948a47d9d4cdb6bb5d09e6f3df8a33cd081": {
+                "source": "04100000 AC3B9048 000008C3\n04100000 AC3B904C 00000001",
+                "title": "[29]"
             },
             "38269c65d3fcad9dd0a143314279bb72e122c100458e6aba26dc1f355aee8e04": {
                 "source": "04100000 AC3B9110 000009C6\n04100000 AC3B9114 0000001D",
                 "title": "[Itemslot 11 Max Stone]"
             },
+            "3843e577b1b105d255e0193962aa6ef2882c7573143f265ed587bd46bd1314fb": {
+                "source": "04100000 AC3B9158 0000025B\n04100000 AC3B915C 00000001",
+                "title": "[20 - firefly]"
+            },
             "3931bce839b967adc8c156c896ff60affc934bf8d624ae8c567fd596afcd9b4f": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 00000292",
                 "title": "[Slot 1: Golden Net Recipe]"
             },
+            "396c9b870ba3e045a89ca646d998c2f3781004fa9a7e14148d578f6aa6d2eda4": {
+                "source": "04100000 AC3B9110 000008D9\n04100000 AC3B9114 00000001",
+                "title": "[11]"
+            },
             "39e7e26f2ae67f953fffbf70b0a4190ac93f3069e478d455ad39f24ce3a20ba9": {
                 "source": "04100000 AC3B9028 00000D20\n04100000 AC3B902C 00000000",
                 "title": "[25 - Apple Trees (Infinite)]"
+            },
+            "39eeb64aea23147dd4cfd9e117973fd6c4294491a15276901b914faa251c5e2b": {
+                "source": "04100000 AC3B9018 0000025E\n04100000 AC3B901C 00000001",
+                "title": "[23 - mosquito]"
             },
             "3aa61d2a425913c114e901b60bccf7b9579a4405e5dccc64a25a872662a0bd2b": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001082",
@@ -17919,9 +18439,29 @@
                 "source": "04100000 AC3B9018 000008EE\n04100000 AC3B901C 00000009",
                 "title": "[23 - Peaches (Infinite)]"
             },
+            "3d0d446c58cb58326419338624af2ce52cd9bcf8e439e0c48520645df66ffb27": {
+                "source": "04100000 AC3B9020 0000025F\n04100000 AC3B9024 00000001",
+                "title": "[24 - mantis]"
+            },
+            "3d66c5696ed56bd635aa8083e6af16038da41e280edd762ab9001930541371ab": {
+                "source": "04100000 AC3B9038 000008E9\n04100000 AC3B903C 00000001",
+                "title": "[27]"
+            },
+            "3d80c8267ce8a4d9bc971dbe3edd041fb5212a02d46ec537546886fc4aef7928": {
+                "source": "04100000 AC3B9148 00000259\n04100000 AC3B914C 00000001",
+                "title": "[18 - evening cicada]"
+            },
             "3e54142bfbc054fe0f58d691d046013e7ed436bc1f7ad5e884f1fe0f751f9a28": {
                 "source": "04100000 AC3B90F8 00000ACF\n04100000 AC3B90FC 0000001D",
                 "title": "[Itemslot 08 Max Soft Wood]"
+            },
+            "3ea56f9d2a4fa35c0cd7e4760fd0635fa47ad475f23c5f65f25608e8ad32138a": {
+                "source": "04100000 AC3B9150 00000283\n04100000 AC3B9154 00000001",
+                "title": "[19 - wasp]"
+            },
+            "3ec86214f5b0c07c8bd882975849a4ab1d574050d93871edeab817632e3cf1ff": {
+                "source": "04100000 AC3B9080 0000026B\n04100000 AC3B9084 00000001",
+                "title": "[36 - spider]"
             },
             "40c2169d51899e55dfed7e9c935d3c2ab3b136d928490e5fbc637852aeec7669": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000004D9",
@@ -17931,6 +18471,10 @@
                 "source": "04000000 00E7BD50 1E211001",
                 "title": "[Set speed 3x]"
             },
+            "418875a6246d3a51e92f72fa881009e1599d59876e4a525437f0cda693e3a8f9": {
+                "source": "04100000 AC3B9048 000000D6\n04100000 AC3B904C 00000001",
+                "title": "[29]"
+            },
             "41968a5a0864b9802bf264324dcb014a534ffee9eee4a68bae1f5af944fa04c9": {
                 "source": "04100000 AC3B9118 000016DB\n04100000 AC3B911C 00000000",
                 "title": "[12 - Nook Miles Ticket (Infinite)]"
@@ -17938,6 +18482,18 @@
             "426e00e382838bb14fe72b3b71aeaee931ccc34d15700219cfcddc9b6715ce88": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B5",
                 "title": "[Slot 1: Bunny DIY Recipe 14]"
+            },
+            "448cc84ec663608f1a9c806b262be3dbd8c71398510b7b27a8ac3702f349fc4d": {
+                "source": "04100000 AC3B90F0 000000B5\n04100000 AC3B90F4 00000001",
+                "title": "[7]"
+            },
+            "44dc017d33454f42fe64721263ab712bb030b2d800345f1a32d7df190b4632b7": {
+                "source": "04100000 AC3B9060 0000105F\n04100000 AC3B9064 00000001",
+                "title": "[32]"
+            },
+            "44eeacca85fd7230967d8d0aad3f9e9d6e93d7a291f01b5c090d797c11636792": {
+                "source": "04100000 AC3B90D0 00000272\n04100000 AC3B90D4 00000001",
+                "title": "[3 - common butterfly]"
             },
             "4576a75f5b6cfa5a3baca9e99f651301a175ab6b09fe73de69ee85bb0a654ea4": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000013B4",
@@ -17947,6 +18503,14 @@
                 "source": "04100000 AC3B9078 00000955\n04100000 AC3B907C 0000001D",
                 "title": "[35 - Rusted Parts]"
             },
+            "45e06bda7361057bfbfef41919363ce77196e74e81207d64b625b5ea239cd9dd": {
+                "source": "04100000 AC3B9028 00000289\n04100000 AC3B902C 00000001",
+                "title": "[25 - walker cicada]"
+            },
+            "46bfba72e193fba5a4293d0d49ae40bd611b4a4da573bd22103909b8af2bf04e": {
+                "source": "04100000 AC3B9108 00000126\n04100000 AC3B910C 00000001",
+                "title": "[10]"
+            },
             "474cb31cde8af18a9e1c21778f7b02983634f405f5e8bac459f44be86c369259": {
                 "source": "04100000 AC3B90D0 0000217E\n04100000 AC3B90D4 00000000",
                 "title": "[3 - Gold Shovel (Unbreakable)]"
@@ -17955,13 +18519,29 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000C12",
                 "title": "[Itemslot 1 Claylomps]"
             },
+            "48406394d99974b1f1e71a01a88a71c0c723f804ec49bd38d7ccaee4f1630e7d": {
+                "source": "04100000 AC3B9118 0000027C\n04100000 AC3B911C 00000001",
+                "title": "[12 - monarch butterfly]"
+            },
             "491f03fbde6eb16a5643653129bba163b8a47690ec3a7a3a972071882832844d": {
                 "source": "04100000 AC3B90E8 00001698\n04100000 AC3B90EC 00000000",
                 "title": "[Itemslot 06 Net unbreakable]"
             },
+            "4925537e6daffe963b204374c6af95aa170abea912d4b0220199a7ea69a0718d": {
+                "source": "04100000 AC3B9118 000008B1\n04100000 AC3B911C 00000001",
+                "title": "[12]"
+            },
+            "494ccb76e561aad0eff115a8b34f83401eb888463d7fab32801c6537431da567": {
+                "source": "04100000 AC3B9070 00000269\n04100000 AC3B9074 00000001",
+                "title": "[34 - cricket]"
+            },
             "4a06a13c4473f1c966b3cd6dd7f105e36e59c6de923929ce677dec5f64086c46": {
                 "source": "04100000 AC3B9098 00001247\n04100000 AC3B909C 00000000",
                 "title": "[39 - Rounded Beard]"
+            },
+            "4bf115d8d844e1670df500cad13bc99ff3d7f636dd8f57981d8303f0b3c49ed1": {
+                "source": "04100000 AC3B9050 0000105D\n04100000 AC3B9054 00000001",
+                "title": "[30]"
             },
             "4c03acbf54d34980e9958aa5701c7f12656aee054878631e968cfb86c2af9b75": {
                 "source": "04000000 00E7BD50 BD4F1E61",
@@ -17983,33 +18563,85 @@
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002A6",
                 "title": "[Slot 1: Bunny DIY Recipe 5]"
             },
+            "4d707c643d4ec0d948cc69a63e6fea8a06fb7a80b0e0cbaab05e9d06d7dcaff6": {
+                "source": "04100000 AC3B9040 0000028C\n04100000 AC3B9044 00000001",
+                "title": "[28 - atlas moth]"
+            },
             "4f3a10377b8670a50a990e37a4aeca457906af17dc9099879abc535ccfbfb2b0": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B9",
                 "title": "[Slot 1: Bunny DIY Recipe 18]"
+            },
+            "4f51767f58cd669f98f8133f8fb42ca50c768cf5245efe44b12d8225b367abab": {
+                "source": "04100000 AC3B9118 000000BD\n04100000 AC3B911C 00000001",
+                "title": "[12]"
+            },
+            "4f636e581f4ff858f262b758c36967009ac8980fe741d11c65222c735edab145": {
+                "source": "04100000 AC3B9060 00000267\n04100000 AC3B9064 00000001",
+                "title": "[32 - horned atlas]"
             },
             "50a8c1b5a6ac6f8c52444fe67710392ce2bad6858391ea47da02a35747c66446": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001394",
                 "title": "[Itemslot 1 Imperial FLR]"
             },
+            "50c8d1a0e4d32105119f60b7d02d5e189cfa76eeffd90b7d441a545fa39e16c1": {
+                "source": "04100000 AC3B9060 0000125B\n04100000 AC3B9064 00000001",
+                "title": "[32]"
+            },
+            "52c962abffc2e403802faf167df808ec215c28699adc89382611aacf85068811": {
+                "source": "04100000 AC3B9088 000000E0\n04100000 AC3B908C 00000001",
+                "title": "[37]"
+            },
+            "52ceb00ff2d39f98a840006be995825ea3b47dd627c1f0038e5e8b50d297782b": {
+                "source": "04100000 AC3B90A0 000014DB\n04100000 AC3B90A4 00000001",
+                "title": "[40 - damselfly]"
+            },
+            "53118f7a27385bbe210bf0565cbe16db1f4b7c5db40c5dce89ff1422b9d3857a": {
+                "source": "04100000 AC3B9100 000000F4\n04100000 AC3B9104 00000001",
+                "title": "[9]"
+            },
             "535a25e512dd01b4d39f195164665912889e42521552da16ad6141ae36a31e59": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 00000294",
                 "title": "[Slot 1: Golden Shovel]"
+            },
+            "53d28dfdc2b9c51a4b338a1f73952b6ecbb5e52921eadb87df73ee3f92dbb108": {
+                "source": "04100000 AC3B90C0 00000270\n04100000 AC3B90C4 00000001",
+                "title": "[1 - miyama stag]"
             },
             "5506ffad10fc4def1b223166f60628a3ef10638dcd604892c66fe663b95f61a2": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000C79",
                 "title": "[Itemslot 1 IRW Chair]"
             },
+            "556440ad065501d24f9942db4ba0fd5a0f97c074b6d229f85c3b1242899c1ce7": {
+                "source": "04100000 AC3B9128 000008B3\n04100000 AC3B912C 00000001",
+                "title": "[14]"
+            },
             "56f9a7771f9a4779c090ff8c809e323d86c1e7d992697e94775408cce531544d": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000139E",
                 "title": "[Itemslot 1 Light Parkett]"
+            },
+            "579c8250e9b1b9a0b8df86a42ce82d635c1c58d797c52ec1e3ea859bba44820e": {
+                "source": "04100000 AC3B90E0 000000EF\n04100000 AC3B90E4 00000001",
+                "title": "[5]"
             },
             "58be0548eef1f4779c9ca158f6ffc21159d2ca0c4912eab6198c447659f74385": {
                 "source": "04100000 AC3B90E0 000016E0\n04100000 AC3B90E4 00000000",
                 "title": "[5 - Stone Axe (Unbreakable)]"
             },
+            "58fc8d361ff308665dbdf3e1e9ef774bfce7447c78b60986f8aeda82280329f5": {
+                "source": "04100000 AC3B9078 00001062\n04100000 AC3B907C 00000001",
+                "title": "[35]"
+            },
             "59352dc7b1301343ecc91ed1440e0926133567bf2b59b1787d902108fa6f9a31": {
                 "source": "04100000 AC3B9008 000009D1\n04100000 AC3B900C 00000031",
                 "title": "[21 - Customization Kits (Infinite)]"
+            },
+            "596594b677ea8bfc12e07d3abdf32292a7d701bea160deadc54c84f46731c283": {
+                "source": "04100000 AC3B9098 000008CD\n04100000 AC3B909C 00000001",
+                "title": "[39]"
+            },
+            "59be4ef349e07ff30339aac8e2d6ca689bf56f7aaec394f97aead46a51fa5d2c": {
+                "source": "04100000 AC3B9108 000008D8\n04100000 AC3B910C 00000001",
+                "title": "[10]"
             },
             "5b5a9f5b602563cfdaa9aed4fd608b01ba3ad6c1596d7de55ada9147a661cddd": {
                 "source": "04100000 AC3B9118 000009CF\n04100000 AC3B911C 0000001D",
@@ -18019,6 +18651,22 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000073A",
                 "title": "[Itemslot 1 Laptop]"
             },
+            "5c633ad953f916c1d20dd685d9931bb6388728141e116cea74fb9cc64819b7d0": {
+                "source": "04100000 AC3B9150 00001232\n04100000 AC3B9154 00000001",
+                "title": "[19]"
+            },
+            "5cba4710a12a2f19f8db74d4d5cf68efaf0075791ea6134dbd8c4d5594a7153a": {
+                "source": "04100000 AC3B90F0 000008AC\n04100000 AC3B90F4 00000001",
+                "title": "[7]"
+            },
+            "5d83dde16f47b71b9176f0994f3f49764ef3d2cb8bdc9d5c4be286edcc62f07e": {
+                "source": "04100000 AC3B90F0 00000277\n04100000 AC3B90F4 00000001",
+                "title": "[7 - rainbow stag]"
+            },
+            "5e2901705bfa745ed6d1a43770083339352a4dc5349cb3399d95f907c23f8a0f": {
+                "source": "04100000 AC3B9060 000000DA\n04100000 AC3B9064 00000001",
+                "title": "[32]"
+            },
             "5e7ca30d4901199b62c5cee5c8876b7a748abd3307705228bfc212ba10aa399b": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000AD0",
                 "title": "[Itemslot 1 wood ]"
@@ -18026,6 +18674,14 @@
             "5e9eacbdd14acc9740f0f7dac8ee4f2355be1b8320bdff4254e2c4309a82e22c": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 00000297",
                 "title": "[Slot 1: Golden Axe]"
+            },
+            "5f3448dbaed9663ae6b2849cee4570d3df51237c804227695d579b4a99957939": {
+                "source": "04100000 AC3B9050 00000265\n04100000 AC3B9054 00000001",
+                "title": "[30 - grasshopper]"
+            },
+            "5ffa2dd4431052d519c23046b9dc063b8e516bbcf82e10cae7fbcfd7b4745086": {
+                "source": "04100000 AC3B90D0 00000248\n04100000 AC3B90D4 00000001",
+                "title": "[3 - Rajah Brooke's birdwing]"
             },
             "602647e0f4c76b7402d2457af237d6e5733785c6074841bac38c99501c0faeb8": {
                 "source": "80000041\n04100000 AC3B9100 0000",
@@ -18035,9 +18691,33 @@
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B8",
                 "title": "[Slot 1: Bunny DIY Recipe 17]"
             },
+            "608d617e5bcfc0960f5a0b296787526eb888cc04464f746cfec468df1b4d528c": {
+                "source": "04100000 AC3B9080 000000DF\n04100000 AC3B9084 00000001",
+                "title": "[36]"
+            },
+            "609f8b96f8889bbd7a611b9325cfa3a7b2d1dbbbb312ba9d57d022b82d2b5e1d": {
+                "source": "04100000 AC3B90E0 000008D3\n04100000 AC3B90E4 00000001",
+                "title": "[5]"
+            },
+            "60a49df7736a911f684e8a6a0581e4d59bf120b9f4b6f50113500dfbd35917bb": {
+                "source": "04100000 AC3B90C8 00000149\n04100000 AC3B90CC 00000001",
+                "title": "[2]"
+            },
+            "60e114821a0863878e408c51ba5fef1a2fd6f5117eb372704fa23f33d3081f12": {
+                "source": "04100000 AC3B9128 0000012C\n04100000 AC3B912C 00000001",
+                "title": "[14]"
+            },
+            "60f5c6efadb3d825bef62c2fae82400566f80f8bf61a10909b6b77978f4a2042": {
+                "source": "04100000 AC3B90D0 000000EC\n04100000 AC3B90D4 00000001",
+                "title": "[3]"
+            },
             "616212b965c14fcd778bfabad2d726c98c0f026615bab3f0544536fa7a651ed3": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B0",
                 "title": "[Slot 1: Bunny DIY Recipe 9]"
+            },
+            "61728538a461893eb9e3b0379354d5123f4f04996c357efe2668b81f45ed4129": {
+                "source": "04100000 AC3B9098 0000026E\n04100000 AC3B909C 00000001",
+                "title": "[39 - bag worm]"
             },
             "62d4d0140741390f44f74373cfd1e61bad9f58abafc3b5ab6e3dcffc9a76fd28": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000D64",
@@ -18055,13 +18735,33 @@
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C2",
                 "title": "[Slot 1: Bunny DIY Recipe 21]"
             },
+            "64adbcc7550a94a0fcdc50390edfed8e4e0ac578e8d00f204833697612f6e5bf": {
+                "source": "04100000 AC3B9070 000000DC\n04100000 AC3B9074 00000001",
+                "title": "[34]"
+            },
+            "64ff15c6cd52bd6e5f553a60184aaaf07a47c958c3491abc5f6b80baa992f578": {
+                "source": "04100000 AC3B9088 0000106A\n04100000 AC3B908C 00000001",
+                "title": "[37]"
+            },
             "65ad83dc28fa24b86c7b59fce23f70fcd4e938cd24a4c334fe93d1caf78dc1e3": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001380",
                 "title": "[Itemslot 1 DarkWood FLR]"
             },
+            "669e3852e28908f5b34a27b52b0bc6dcd07f0e04fc653ece8e958c71377f8d3f": {
+                "source": "04100000 AC3B9150 000000C7\n04100000 AC3B9154 00000001",
+                "title": "[19]"
+            },
             "670170ff289c69288d714d1b1a1cd89df62a0fa59d4bf12acf34a3439e62232f": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C5",
                 "title": "[Slot 1: Bunny DIY Recipe 24]"
+            },
+            "673f89e01f896d19d6f67e919613815351d088954420855ee885c2c06c5ee484": {
+                "source": "04100000 AC3B9108 000000B9\n04100000 AC3B910C 00000001",
+                "title": "[10]"
+            },
+            "67d7caf64be9e00c8fed4527ad1d336ce7dcc40d9037e53a2818090174703ec4": {
+                "source": "04100000 AC3B90D8 000008A8\n04100000 AC3B90DC 00000001",
+                "title": "[4]"
             },
             "68178ec835c80a698467be1f7590be9fc635c4c87e337c758f46cced6855607d": {
                 "source": "80000041\n04100000 AC3B9120 0000",
@@ -18071,6 +18771,14 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000CB4",
                 "title": "[Itemslot 1 50in TV]"
             },
+            "6864ccd95a9a93a7b06895a42f3f29771c1c051f5a9cbd87d838f8782bd0988e": {
+                "source": "04100000 AC3B9008 00001234\n04100000 AC3B900C 00000001",
+                "title": "[21]"
+            },
+            "69e9926b666956cd37c86f3a60749f7220b438d53dda67f7ceaf3ae16d4d3c81": {
+                "source": "04100000 AC3B9068 000000DB\n04100000 AC3B906C 00000001",
+                "title": "[33]"
+            },
             "6b13bf254623a1394feda069e15faeac18ed6a41fd8c5cfb7615a5f7fd909d05": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000316",
                 "title": "[Itemslot 1 Hi-Fi]"
@@ -18079,21 +18787,85 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000009C9",
                 "title": "[Slot 1: Gold nugget]"
             },
+            "6c24d3f56feda7f13961f732dc2494a22a0596cf98217fb11316a169e39c3ccd": {
+                "source": "04100000 AC3B9030 00001250\n04100000 AC3B9034 00000001",
+                "title": "[26]"
+            },
+            "6d26aa10f8d32b3d6e2244c4bbd2bbee108a4238778abe68d6173bafa4d2caaf": {
+                "source": "04100000 AC3B9138 00000280\n04100000 AC3B913C 00000001",
+                "title": "[16 - scorpion]"
+            },
+            "6dd022650d73590b676d5aa3463e6656bf0a8a51ed7e1d6281cf1e5e8dd521f2": {
+                "source": "04100000 AC3B90C8 00000247\n04100000 AC3B90CC 00000001",
+                "title": "[2 - tiger butterfly]"
+            },
+            "6e3eb1a4bd80faa4048d57d6bfe5d7a41c0460c5f89d231e9f519cbf513fc068": {
+                "source": "04100000 AC3B9148 000000C6\n04100000 AC3B914C 00000001",
+                "title": "[18]"
+            },
+            "6e6e6d7bf527a8ee470d2b52856afd3d2bdcc24340c75933238858c13284d291": {
+                "source": "04100000 AC3B9130 0000012D\n04100000 AC3B9134 00000001",
+                "title": "[15]"
+            },
             "6f1eff2ba0b662f549e0f859f2001bc9725f86ce414ee5ead974f1f783b41f79": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002A9",
                 "title": "[Slot 1: Bunny DIY Recipe 8]"
+            },
+            "6fa3d34576fc01714a1cadae53e0f91f68300c1c555c6e5d1565bed28a736027": {
+                "source": "04100000 AC3B9018 000000CE\n04100000 AC3B901C 00000001",
+                "title": "[23]"
+            },
+            "70579bac5a1056f5988db96416d549611f056e45f4ba019c58abf8a627ee5c70": {
+                "source": "04100000 AC3B90A0 000008CE\n04100000 AC3B90A4 00000001",
+                "title": "[40]"
+            },
+            "705cdd19f04b13f748119d8ae6c7a94b8fc63ef62fd7099b31efe4328d8f3e4e": {
+                "source": "04100000 AC3B90C0 00000148\n04100000 AC3B90C4 00000001",
+                "title": "[1- (fish part 1)]"
+            },
+            "71d583461a4075967831aca6bb07c9f782b8fe21f8eb8bbab4cf15eee7f91ad0": {
+                "source": "04100000 AC3B9158 00000284\n04100000 AC3B915C 00000001",
+                "title": "[20 - long locust]"
+            },
+            "73e4595ef31d15332eaf2e55aaa38d85978f1ac9f492840ad82d9eca5a1a9373": {
+                "source": "04100000 AC3B90E0 000008A9\n04100000 AC3B90E4 00000001",
+                "title": "[5]"
             },
             "748e3f64ecc715e6ffa6c3355ed2556ab1493e096a6723d15d1d039c1853c572": {
                 "source": "04000000 01036C80 6B1F0114",
                 "title": "[ON - Bell's Don't Decrease]"
             },
+            "75297e2424a517fe962b8d5659264e5f448b6556f4c1be78fdde79f4aa0788b9": {
+                "source": "04100000 AC3B9040 00000263\n04100000 AC3B9044 00000001",
+                "title": "[28 - snail]"
+            },
+            "755d0bf780c08ca69e87820a6df5436f1873621ebb6bdca555a5d8edd2f6ace2": {
+                "source": "04100000 AC3B9058 000000D9\n04100000 AC3B905C 00000001",
+                "title": "[31]"
+            },
+            "757e5334c21b014c5d8715ffa5718696b05271f75eb33472c59989d6f88c8712": {
+                "source": "04100000 AC3B9010 000008E4\n04100000 AC3B9014 00000001",
+                "title": "[22]"
+            },
             "75d345042a77ac6ab9bc0f616d490589684c52c4c97adc98a23f00e073aacaf0": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000C80",
                 "title": "[Itemslot 1 IRW Bed]"
             },
+            "75fc0c1516e32b288f6038ffd267dcf33803c5009915fe10b09d8dc33970be1d": {
+                "source": "04100000 AC3B9130 00000256\n04100000 AC3B9134 00000001",
+                "title": "[15 - orchid mantis]"
+            },
+            "767824e8566eb434ea28136161ab1b7f1a189a7623f392e1f2dd087e0d9c7f54": {
+                "source": "04100000 AC3B9158 00001233\n04100000 AC3B915C 00000001",
+                "title": "[20]"
+            },
             "77315b2b318b39f3c5d2ddd6baef7fa0c7156ea4d44139d8a407eff0003cba42": {
                 "source": "04100000 AC3B90D8 00000B06\n04100000 AC3B90DC 00000000",
                 "title": "[Itemslot 04 Slingshot unbreakable]"
+            },
+            "776e8598b975053ea1e4821fc48b1553cc73a354dec82e72d4d681417951f34d": {
+                "source": "04100000 AC3B9010 00001236\n04100000 AC3B9014 00000001",
+                "title": "[22]"
             },
             "77fc3dd0bd5b97a390b7f52c5f6732b0f66dfa75e650318547df1f7b4f77a894": {
                 "source": "80000041\n04100000 AC3B9118 0000",
@@ -18103,9 +18875,21 @@
                 "source": "80000041\n04100000 AC3B9110 0000",
                 "title": "[11th slot modifier L + A]"
             },
+            "796fadd11002c1250b598dc8ab47ffd22ea5926ced837421c47b55be874815b6": {
+                "source": "04100000 AC3B9020 00000288\n04100000 AC3B9024 00000001",
+                "title": "[24 - migratory locust]"
+            },
+            "79d03f178acca5f5cc7d3b1d32689fd4af3b0993f1040c531443493d751ffdef": {
+                "source": "04100000 AC3B90F0 000000F2\n04100000 AC3B90F4 00000001",
+                "title": "[7]"
+            },
             "7a8c7d33e0055f8134ca958d8ec00d622f2489d95adfcff0dd0929d2adf274cc": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000137F",
                 "title": "[Itemslot 1 LightWood FLR]"
+            },
+            "7efd2ddfaa98e21e18a17ff0a524be138cffaf197b0c79198faddcc06dc824f6": {
+                "source": "04100000 AC3B9110 0000027B\n04100000 AC3B9114 00000001",
+                "title": "[11 - banded dragonfly]"
             },
             "7f0bdd42030da4e76f387bc19f892770b57e832aeb6337d1256c9683d2c00217": {
                 "source": "04100000 AC3B9050 0000114A\n04100000 AC3B9054 00000000",
@@ -18131,6 +18915,10 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001CD4",
                 "title": "[Itemslot 1 NatWood Rug]"
             },
+            "81fba973ffdb068c7d86744ad617257f674583bf4759cfa7b4e2de76ff603605": {
+                "source": "04100000 AC3B9110 00000252\n04100000 AC3B9114 00000001",
+                "title": "[11 - diving beetle]"
+            },
             "824a453a489470848ed25c0c317e1a622bc33a44eb140bde0c622af3ef3b111f": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000D4\n640F0000 00000000 0000001D",
                 "title": "[Itemslot 2 x30 ]"
@@ -18147,6 +18935,10 @@
                 "source": "80000041\n04100000 AC3B9150 0000",
                 "title": "[19th slot modifier L + A]"
             },
+            "8428e569bc14482f0ae20e7730e797bbfba76cda456700f52c0c50148d98f931": {
+                "source": "04100000 AC3B90E8 000000B4\n04100000 AC3B90EC 00000001",
+                "title": "[6]"
+            },
             "843a41cd81ff7516996834277e96bcb788d0a15f7b23c4979403b1e76c580a4e": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B6",
                 "title": "[Slot 1: Bunny DIY Recipe 15]"
@@ -18159,9 +18951,29 @@
                 "source": "04100000 AC3B9058 00000AFF\n04100000 AC3B905C 00000000",
                 "title": "[31 - Bamboo (Infinite)]"
             },
+            "87a222f71a0d2819a613a1b04c3dc94b4e41b929c416def4d297470f3cca59c3": {
+                "source": "04100000 AC3B9080 00001069\n04100000 AC3B9084 00000001",
+                "title": "[36]"
+            },
+            "87bd1d52f8db554fdd168e395362a01a5a7559a0f1cf47e118c10d7509f9e7b7": {
+                "source": "04100000 AC3B9080 000008CA\n04100000 AC3B9084 00000001",
+                "title": "[36]"
+            },
+            "880958f70eab189587b3f0feccbad56d9750f5801f2fb4840177026fd8503fe7": {
+                "source": "04100000 AC3B9040 00001252\n04100000 AC3B9044 00000001",
+                "title": "[28]"
+            },
+            "88a98ea8778878ad44ac4a9b11319b5366b61197e27df5a3d5c9d75580003882": {
+                "source": "04100000 AC3B9108 000008AF\n04100000 AC3B910C 00000001",
+                "title": "[10]"
+            },
             "890deb8dd7143c8b563d5aa3905f17abbbef4f3e6e1b201eb7be89dc2b3dc2fe": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000CC9",
                 "title": "[Itemslot 1 IRW Kitchen]"
+            },
+            "8a42c89669a8b1414fd8474cd9c883c28d161e7d0945497e71974d369b10585f": {
+                "source": "04100000 AC3B9070 000008C8\n04100000 AC3B9074 00000001",
+                "title": "[34]"
             },
             "8b30ca382b694a145dd5270ba83f8f1bd41e6e87e97e9076b58bae71b32a0531": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C7",
@@ -18171,9 +18983,17 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000047D",
                 "title": "[Itemslot 1 Soccer Goal]"
             },
+            "8d17328b790af2e723fa22772ac4eb59119a8952f93d73ba65fd205f9dca1c4e": {
+                "source": "04100000 AC3B9040 000008EB\n04100000 AC3B9044 00000001",
+                "title": "[28]"
+            },
             "8e9fd690ef2bc22a65636eeefea5a85eadcdd07a24a1b0b06dae491fc3a5eca0": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000009C6",
                 "title": "[Itemslot 1 Stone]"
+            },
+            "8f34af4b99f93fddb105750c365ff03bf91bfbf15e3fe09d62d2e2afe5cd12c8": {
+                "source": "04100000 AC3B9148 0000122B\n04100000 AC3B914C 00000001",
+                "title": "[18]"
             },
             "8f561723a20cfd0e510b8258665660ba9777347cf725b4295874e54b1ffdb081": {
                 "source": "04100000 AC3B9138 00000AD1\n04100000 AC3B913C 0000001D",
@@ -18195,9 +19015,33 @@
                 "source": "80000041\n04100000 AC3B90E8 0000",
                 "title": "[6th slot modifier L + A]"
             },
+            "929ce9e32afb8717be69f8837a88788e869731676fe64b54dcee885a77551bc9": {
+                "source": "04100000 AC3B90F0 000008D5\n04100000 AC3B90F4 00000001",
+                "title": "[7]"
+            },
+            "92e13460986ccde60af3678c3f2061c3bceeb3b6aaf890410697f070a14613af": {
+                "source": "04100000 AC3B90C8 000000EB\n04100000 AC3B90CC 00000001",
+                "title": "[2]"
+            },
+            "93084e5a5bedc053cfe0741f77dbcf09fb71b61b20355cf975ca8090c0255ade": {
+                "source": "04100000 AC3B90E8 000008AB\n04100000 AC3B90EC 00000001",
+                "title": "[6]"
+            },
+            "93287270ad64457201119e511d9ccbe27b437f3cb94408ac67dee9ec45575666": {
+                "source": "04100000 AC3B90D0 000000AB\n04100000 AC3B90D4 00000001",
+                "title": "[3]"
+            },
+            "934386d7fe52686cd61d5ca6eddbcd5cbb64ff67b5469eeda9fd62513a0f2389": {
+                "source": "04100000 AC3B9090 0000106B\n04100000 AC3B9094 00000001",
+                "title": "[38]"
+            },
             "94c650dbc26c2763d57eee5d04241a3cf2b6e72d1aabe78c3a5cb80544f35e67": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001348",
                 "title": "[Itemslot 1 Ancient WP]"
+            },
+            "952c350df8ec2fd15cc0a4735568f58283173d8fbfefddcc6e21136f57bcff3e": {
+                "source": "04100000 AC3B9078 0000026A\n04100000 AC3B907C 00000001",
+                "title": "[35 - giant cicada]"
             },
             "959eff9defe42b19e8f83643e07a942880d2e159540b3af56b7a366646cbbe66": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C1",
@@ -18215,9 +19059,41 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000133F",
                 "title": "[Itemslot 1 WhiteBrick WP]"
             },
+            "9bcd5a323ea4847a33c3c2e843f4cc78bf6f01b0b61a821beddad5ff2c5c1117": {
+                "source": "04100000 AC3B90C8 00000271\n04100000 AC3B90CC 00000001",
+                "title": "[2 - yellow butterfly]"
+            },
+            "9bf574808a8d04f2b09fd6463c743fa3515d73b5287c3cc79e62fc9f396956af": {
+                "source": "04100000 AC3B9020 00001238\n04100000 AC3B9024 00000001",
+                "title": "[24]"
+            },
+            "9c9357b76b56a62d3623b01749a7e0bcde73ffe38bfb08bad352e197cb558dff": {
+                "source": "04100000 AC3B9010 000000CC\n04100000 AC3B9014 00000001",
+                "title": "[22]"
+            },
             "9cca29ac8f37ff07b3679c1858818340a4d3991a23c4e112949b2f18a47fd085": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B4",
                 "title": "[Slot 1: Bunny DIY Recipe 13]"
+            },
+            "9d1cc846daf980e7a147e94f894be728c20a75d02dff39e227195e4feab6ed86": {
+                "source": "04100000 AC3B90C0 000000EA\n04100000 AC3B90C4 00000001",
+                "title": "[1- (Fossil part 2)]"
+            },
+            "9d825d90f181dddcbf2bb4860317e1b5c29dec109f541af1d8de3bca9b3657dc": {
+                "source": "04100000 AC3B9098 0000106C\n04100000 AC3B909C 00000001",
+                "title": "[39]"
+            },
+            "9db64f4dda1fab1c5d283803cc23067bc05966a29ea504a362a098382d2d0808": {
+                "source": "04100000 AC3B90C8 000008D0\n04100000 AC3B90CC 00000001",
+                "title": "[2]"
+            },
+            "9e12eb65a2e665ea10a6d250e8076386075e026b603af17d5bab29f78f5b2449": {
+                "source": "04100000 AC3B9010 0000025D\n04100000 AC3B9014 00000001",
+                "title": "[22 - rice grasshopper]"
+            },
+            "9e5c375beb287d91cd68070a004f915e49061b2507377671fa3653791dc75db3": {
+                "source": "04100000 AC3B9038 0000028B\n04100000 AC3B903C 00000001",
+                "title": "[27 - hermit crab]"
             },
             "9e6b1614b405ae8baf87ba8c720765d601a069e177c027393d3b248e6575ed67": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000021D4",
@@ -18227,21 +19103,61 @@
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002A5",
                 "title": "[Slot 1: Bunny DIY Recipe 4]"
             },
+            "a0045bbc642414a87aeb64bbcc3c43587bd6d690622453d97df645794c0e9872": {
+                "source": "04100000 AC3B9028 000008BE\n04100000 AC3B902C 00000001",
+                "title": "[25]"
+            },
+            "a054359be7ae944cd463b61fb161a0099cd1b803398e1b88673b9c3c45cb4458": {
+                "source": "04100000 AC3B9128 0000027E\n04100000 AC3B912C 00000001",
+                "title": "[14 - golden stag]"
+            },
             "a0a4c5d4ceadefad1acfd68f42455720c896ce97e4d6ba375c15f9949dc4abed": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002A2",
                 "title": "[Slot 1: Bunny DIY Recipe 1]"
+            },
+            "a0b5a847a27fc666b1bb6fc29516f56135506a3699f68188c34a846cfaa65380": {
+                "source": "04100000 AC3B90E0 0000024A\n04100000 AC3B90E4 00000001",
+                "title": "[5 - Queen Alexandra's birdwing]"
+            },
+            "a16abc0bef5c2b7f811235295d7b6362c59ebe1e121f14b5ced8681c3a25b94b": {
+                "source": "04100000 AC3B90D8 000000EE\n04100000 AC3B90DC 00000001",
+                "title": "[4]"
             },
             "a1891001a6e16660e6e86d7ff795fb7c21f8fcf64bdf958dc4b842374f53403a": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001356",
                 "title": "[Itemslot 1 ShipDeck FLR]"
             },
+            "a1fd972a934f9b24a15c46434672479763dfbea61b3063869b8cbcbb113694b1": {
+                "source": "04100000 AC3B9140 00001486\n04100000 AC3B9144 00000001",
+                "title": "[17]"
+            },
+            "a248f6cf93f22407919aae9ea07f6cb7da94659812274a73fad7c344a1f2a221": {
+                "source": "04100000 AC3B9150 000008B8\n04100000 AC3B9154 00000001",
+                "title": "[19]"
+            },
+            "a2a18a3187c177c0c0c4dd63f881d6fa3d63200bb36acdc4a09945aa37677203": {
+                "source": "04100000 AC3B9028 00000260\n04100000 AC3B902C 00000001",
+                "title": "[25 - stinkbug]"
+            },
+            "a4dc91ba91181f9916127b04305d6856cd764d6a79df42e7122ab1da44fc28b6": {
+                "source": "04100000 AC3B9148 000008B7\n04100000 AC3B914C 00000001",
+                "title": "[18]"
+            },
             "a54a786e457bebf39620974164cc00db1c4025622cf98ca5604156c70011fc93": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000D0\n640F0000 00000000 00000AD1",
                 "title": "[Itemslot 2 Hard wood ]"
             },
+            "a6432a03b916cb81664008e064dfd8392f135685d1921a097a0ead95525d8147": {
+                "source": "04100000 AC3B9078 000000DE\n04100000 AC3B907C 00000001",
+                "title": "[35]"
+            },
             "a94ad7a1d2b6e286602336e866176039097486cb43026500878c5e66437fc6ed": {
                 "source": "04000000 01036CD0 6B010114",
                 "title": "[OFF - Miles Don't Decrease]"
+            },
+            "ab36c23cc26a4923cbd96380d6dcf0efc84974f284131e97d295430ded87b855": {
+                "source": "04100000 AC3B9130 0000027F\n04100000 AC3B9134 00000001",
+                "title": "[15 - scrab beetle]"
             },
             "ab7630237319f5339ec2d417d395381eafeb22d0c7634f3fb4bf574de1877625": {
                 "source": "04100000 AC3B9148 00000C12\n04100000 AC3B914C 0000001D",
@@ -18251,17 +19167,41 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00001CD5",
                 "title": "[Itemslot 1 WhiteWood Rug]"
             },
+            "ac38a32f57ce9a5a8fa1bb1528828c6d6a1f126c02b3dd697d72cec1790d3367": {
+                "source": "04100000 AC3B9050 000008C4\n04100000 AC3B9054 00000001",
+                "title": "[30]"
+            },
+            "ad182ee52cbd327d5308cc4ba12d32506f9938d69778e76e6bd0343001af46a0": {
+                "source": "04100000 AC3B9048 000008EC\n04100000 AC3B904C 00000001",
+                "title": "[29]"
+            },
+            "ad8b9fd02a438d4a0822abb431d33d63934f1242a4a6ea374e9057483cc85c7e": {
+                "source": "04100000 AC3B9110 00000127\n04100000 AC3B9114 00000001",
+                "title": "[11]"
+            },
             "af12d5eafecccbaaebc102090fcc495fc30bd0332e0dd08cd6cb74ac499f6daa": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B7",
                 "title": "[Slot 1: Bunny DIY Recipe 16]"
+            },
+            "af665af5a6cc59d6e897cd5453573e977b5d96b84526c41297c6bcd45024c25a": {
+                "source": "04100000 AC3B9130 000000C1\n04100000 AC3B9134 00000001",
+                "title": "[15]"
             },
             "b07ed138f450cc14ed7e38fd95bc42900785327666c70175cf51548e5a91b827": {
                 "source": "04100000 AC3B9080 0000125E\n04100000 AC3B9084 00000004",
                 "title": "[36 - Wisp Spirit Pieces]"
             },
+            "b0a7b61d75e5c80b799a6ee614c2614e1fb35227949b1e16a7b7d04b47d20e4b": {
+                "source": "04100000 AC3B90C0 00000246\n04100000 AC3B90C4 00000001",
+                "title": "[1 - brown cicada]"
+            },
             "b1d9406518d168372dc4c356e847cf304f83afb1a7c58fdb54d1c325904ad0c1": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000457",
                 "title": "[Itemslot 1 Out Bath]"
+            },
+            "b1ff3b270168c6650c72356df1dcc1ff339983de94385b052180fa0ed75b8e44": {
+                "source": "04100000 AC3B9030 000000D2\n04100000 AC3B9034 00000001",
+                "title": "[26]"
             },
             "b3cba57073458723b952220600fe5a4387a2609951a58d3c3fe3fc2b888bcd4b": {
                 "source": "80000041\n04100000 AC3B9140 0000",
@@ -18271,6 +19211,38 @@
                 "source": "04100000 AC3B90F0 00000AD0\n04100000 AC3B90F4 0000001D",
                 "title": "[Itemslot 07 Max Wood]"
             },
+            "b41bd4558a599ac0cec718f95d149c24893c34243ecceb646cd48a0d47a5170b": {
+                "source": "04100000 AC3B9090 00000D9F\n04100000 AC3B9094 00000001",
+                "title": "[38 - rosalia batesi beetle]"
+            },
+            "b43287eaa37b75395e743cac675cd1888f458960823dce1816737b17500028dd": {
+                "source": "04100000 AC3B9130 000008DD\n04100000 AC3B9134 00000001",
+                "title": "[15]"
+            },
+            "b54abcdb9ca4434135c532857fcce4f874789f38e778169e1bac57461874c5b8": {
+                "source": "04100000 AC3B90F8 000000F3\n04100000 AC3B90FC 00000001",
+                "title": "[8]"
+            },
+            "b59eec64111b267e693e583407c8e5fc9b69aad3f70c412f0fa24ae180bde68a": {
+                "source": "04100000 AC3B9138 000008B5\n04100000 AC3B913C 00000001",
+                "title": "[16]"
+            },
+            "b60b31f8c16bc4f1f34b70ec06a14c857818f0880d2cdfc9de3f70b5786e0d1f": {
+                "source": "04100000 AC3B9010 00000286\n04100000 AC3B9014 00000001",
+                "title": "[22 - tarantula]"
+            },
+            "b6f84c27efb97c8bc97e410df7627a44037a75e141341e9dfdd9ece35d1565b1": {
+                "source": "04100000 AC3B9068 00000D98\n04100000 AC3B906C 00000001",
+                "title": "[33 - drone beetle]"
+            },
+            "b7bd3af50b0a552938201d515a0a9853b0ffe99ef2e4c8e1bab3040cefc38965": {
+                "source": "04100000 AC3B9060 00000D97\n04100000 AC3B9064 00000001",
+                "title": "[32 - great purple emperor]"
+            },
+            "b8751c1eec548260709f846c4d4f1ed83fbd5b383222d9830c7aa57cc4482274": {
+                "source": "04100000 AC3B9118 000008DA\n04100000 AC3B911C 00000001",
+                "title": "[12]"
+            },
             "b8cd3e8d2c9896edb8d64ad39107a2172db8aa18c501f69c8602aefabdbc3183": {
                 "source": "04100000 AC3B9140 000009C6\n04100000 AC3B9144 0000001D",
                 "title": "[17 - Stone (Infinite)]"
@@ -18279,9 +19251,17 @@
                 "source": "04100000 AC3B911C 00000031",
                 "title": "[Itemslot 12 x50]"
             },
+            "b994a6807728b24daedcad936872635441bc4dc0f04a974d07722b2d77d16905": {
+                "source": "04100000 AC3B9008 00000285\n04100000 AC3B900C 00000001",
+                "title": "[21 - jewel beetle]"
+            },
             "b9ebab89c0ca9830afbb76d260aa77eca5aec29464ecde0780fb83334e8900d8": {
                 "source": "04100000 AC3B90C0 000016E0\n04100000 AC3B90C4 00000000",
                 "title": "[Itemslot 01 Stone Axe unbreakable]"
+            },
+            "ba0b5db5fdb0bfd4b0b3d5aaa3c3fa589080ec2445614669e4f0cbad30da00ce": {
+                "source": "04100000 AC3B9100 00000279\n04100000 AC3B9104 00000001",
+                "title": "[9 - flea]"
             },
             "ba0d48ebb75f31e44f387c5d93d044106de974e9c8af6594078ac52a9cfcdb33": {
                 "source": "04100000 AC3B90D0 00000833\n04100000 AC3B90D4 00000000",
@@ -18299,6 +19279,34 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000A12",
                 "title": "[Slot 1: pitfall seed]"
             },
+            "bc32393175ce9a75be0fff75ae7fd224627bc37782588605d284035dca87ee76": {
+                "source": "04100000 AC3B9050 000000D8\n04100000 AC3B9054 00000001",
+                "title": "[30]"
+            },
+            "bc94634a4963bb15027d4e494a857638f8eeba28264457e3c65b1ac514e87af9": {
+                "source": "04100000 AC3B9108 0000027A\n04100000 AC3B910C 00000001",
+                "title": "[10 - mole cricket]"
+            },
+            "be979265fe94e5bebd0494b7f761a7da2c2863ccb081f75936ecf81f3b229e71": {
+                "source": "04100000 AC3B9130 000008B4\n04100000 AC3B9134 00000001",
+                "title": "[15]"
+            },
+            "bf886599734e8bc4e54accfa2595bb98c49980262114d793ae56928c43d60e36": {
+                "source": "04100000 AC3B9068 000008C7\n04100000 AC3B906C 00000001",
+                "title": "[33]"
+            },
+            "c01192e483eca7bf5b445c2b3ca3e2364c1314640fccff7f3a8ad5f0f4658720": {
+                "source": "04100000 AC3B9070 00001061\n04100000 AC3B9074 00000001",
+                "title": "[34]"
+            },
+            "c01ec61f8c9dd137167aeff4028ee628c3bb0ea511a6131ab4c91fc46050c61c": {
+                "source": "04100000 AC3B9088 000008CB\n04100000 AC3B908C 00000001",
+                "title": "[37]"
+            },
+            "c08d78d15a77ce90bcb674940106aadb3a84ebf0d2550012119bab5af65ad31f": {
+                "source": "04100000 AC3B9058 000008C5\n04100000 AC3B905C 00000001",
+                "title": "[31]"
+            },
             "c09006fdb8dd3ef505bac454128561fbe38e4fa9c8f69891635e6044379e8bc4": {
                 "source": "04000000 022863E0 10000000\n04000000 022863E4 B9401403\n04000000 022863E8 1B037C21\n04000000 022863EC 8B214115\n04000000 022863F0 D65F03C0\n04000000 022863F4 0000270F\n04000000 01036B28 94493E2E",
                 "title": "[9999x Bell/Miles multiplier]"
@@ -18307,13 +19315,49 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 000013A8",
                 "title": "[Itemslot 1 Birch FLR]"
             },
+            "c1db5b1414111ef99ce074011bd4a42de981a2396de6be3e5223cba892a63aae": {
+                "source": "04100000 AC3B90C0 000008CF\n04100000 AC3B90C4 00000001",
+                "title": "[1- (fish part 2)]"
+            },
+            "c2663b9bba14fa249f860486568cba60c6b9d1a5cb319b53161290c82fc1ec58": {
+                "source": "04100000 AC3B9148 00000282\n04100000 AC3B914C 00000001",
+                "title": "[18 - bell cricket]"
+            },
+            "c34703f5311a36902eaffafeeb6659b23ec457c4c27705839a4189faf4b6ec5c": {
+                "source": "04100000 AC3B90F0 0000024C\n04100000 AC3B90F4 00000001",
+                "title": "[7 - ant]"
+            },
+            "c3e724b64018f40694df1699638a757f4bf289eddb354bb8ffe6ff978c7f2edb": {
+                "source": "04100000 AC3B9068 00001060\n04100000 AC3B906C 00000001",
+                "title": "[33]"
+            },
+            "c44d7b0bf056e43d026cc053bf9001e1c915c891c675f03506ec8921382a0795": {
+                "source": "04100000 AC3B9140 00000281\n04100000 AC3B9144 00000001",
+                "title": "[17 - cicada shell]"
+            },
+            "c5b1d5e04c39edd77c2596d455fecf936c42ac00d8756bbeeb5881be0ef69230": {
+                "source": "04100000 AC3B9128 00000255\n04100000 AC3B912C 00000001",
+                "title": "[14 - fly]"
+            },
             "c5ece96ec94f4c9b557e7ddb8391abdd0afff3d80499877cefc33091227b12de": {
                 "source": "04100000 AC3B9118 000009C4\n04100000 AC3B911C 0000001D",
                 "title": "[Itemslot 12 Max Branches]"
             },
+            "c751d9f2e0c2cb9702d30d924fb5add85b0f6bd5e087e78ae3dc45f333b8d702": {
+                "source": "04100000 AC3B9050 00000D95\n04100000 AC3B9054 00000001",
+                "title": "[30 - common bluebottal]"
+            },
+            "c77a4a64052005fc8301b051b112f11a5165174cb1c933578dcf62466c7454a7": {
+                "source": "04100000 AC3B9018 00001237\n04100000 AC3B901C 00000001",
+                "title": "[23]"
+            },
             "c7eee2b14ad25d91c4601cb42c59dba0e58624b1c413ecdb1532456ff9d11a42": {
                 "source": "04100000 AC3B9060 00000A12\n04100000 AC3B9064 0000001D",
                 "title": "[32 - Pitfall Seed]"
+            },
+            "c8b77549dfd7722bffb380ff8fdddea0dc1aef7d0d8b6a394f84355a9ea01360": {
+                "source": "04100000 AC3B9140 000000C4\n04100000 AC3B9144 00000001",
+                "title": "[17]"
             },
             "c93c2a2bba88ce3c740ca174a2ca8119949bec7f830ab291ba277c15698e41ad": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00002155",
@@ -18331,9 +19375,25 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000031C",
                 "title": "[Itemslot 1 Retro Hi-Fi]"
             },
+            "cc00b08a6fb0c4fc1a9a1371c4c7040462a230c8ce5f2ecebf85eb37f33adbd7": {
+                "source": "04100000 AC3B9128 000008DC\n04100000 AC3B912C 00000001",
+                "title": "[14]"
+            },
+            "cf838fe358cb43933e38ffae24e69add6e75f80b48c71a125f986e90f2a2e1de": {
+                "source": "04100000 AC3B9098 000000E3\n04100000 AC3B909C 00000001",
+                "title": "[39]"
+            },
+            "cfea08cd0192138d931784be3ea663a346d054084e2f265b86ecacf3b90f9acf": {
+                "source": "04100000 AC3B9138 0000012E\n04100000 AC3B913C 00000001",
+                "title": "[16]"
+            },
             "d07f7d63f5fcd3eca0fec5e3278caaf065196eee09a8a5f9dde79e718b88dd9b": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002B3",
                 "title": "[Slot 1: Bunny DIY Recipe 12]"
+            },
+            "d10feb5fc9822e7c0830560ece099eb4e8a19c1c5d3f3159daa6eb9996c2ab9c": {
+                "source": "04100000 AC3B9100 000000B8\n04100000 AC3B9104 00000001",
+                "title": "[9]"
             },
             "d1735f8868f9ff10cb8dbc5aad7fa0915cfb810c9c037860d318bdebe3858ce6": {
                 "source": "04100000 AC3B90C0 00001FF3\n04100000 AC3B90C4 00000000",
@@ -18342,6 +19402,14 @@
             "d185c50030c5947329083b000bb2b954fda7d193b4ccb41a0779d2d28a9f46cd": {
                 "source": "04100000 AC3B90F8 00001DA0\n04100000 AC3B90FC 00000000",
                 "title": "[8 - Wand]"
+            },
+            "d1ab6ed89a848e70b72058b9c38239a7cfd08935abc35d0567856be6e3da07ea": {
+                "source": "04100000 AC3B90E0 000000B2\n04100000 AC3B90E4 00000001",
+                "title": "[5]"
+            },
+            "d201d09cbe40165f0a0e339b70349c2259085907763da2c2be3d0dfd58a25eb8": {
+                "source": "04100000 AC3B90E0 00000274\n04100000 AC3B90E4 00000001",
+                "title": "[5 - centipede]"
             },
             "d228e2c931f220931492ea61c9dde98c3dcfae8440b8ca77d7fd7c99aeadd938": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000CC7",
@@ -18355,9 +19423,29 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00002591",
                 "title": "[Slot 1: Gold axe]"
             },
+            "d3c9306d1f09cbd02290e13915ad2e11f1f79988fb9c5c8eba95d48e1b541a22": {
+                "source": "04100000 AC3B9070 00000A13\n04100000 AC3B9074 00000001",
+                "title": "[34]"
+            },
             "d46927a77ce0ce03d4b5b0e804a189b3f2d03a829c55d8df1b7e70c831b4b0d4": {
                 "source": "04100000 AC3B90E8 00002182\n04100000 AC3B90EC 00000000",
                 "title": "[6 - Gold Slingshot (Unbreakable)]"
+            },
+            "d4ac8e0e35b19e184bcc6f3f83fef110e344c21bc4480d26ddf27baa4f4066e9": {
+                "source": "04100000 AC3B9038 00001251\n04100000 AC3B903C 00000001",
+                "title": "[27]"
+            },
+            "d5bb8c3346f2d515cc56baa62423e44b84e971e6158e9a5cd1f1026bd8dd85f5": {
+                "source": "04100000 AC3B9100 000008AE\n04100000 AC3B9104 00000001",
+                "title": "[9]"
+            },
+            "d79717122bd9b0721ab9970629768add2d09550831e8304cd80ef71604d8174d": {
+                "source": "04100000 AC3B9098 00001425\n04100000 AC3B909C 00000001",
+                "title": "[39 - giant water bug]"
+            },
+            "d79ac27b6fb01adcab2aa6e4ab81d840b72ad3b7eafa93f5954c55970a01b24a": {
+                "source": "04100000 AC3B90D8 000008D2\n04100000 AC3B90DC 00000001",
+                "title": "[4]"
             },
             "d7b8057442ab2236897e4c4628878773a35bfe95b674cb6a4609fe62621d181d": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002A8",
@@ -18366,6 +19454,10 @@
             "d873a9378cde1836a35691d788f2b5c3f7417b2820953ea2ab31eb0789610503": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000CC\n640F0000 00000000 0000001D",
                 "title": "[Itemslot 1 x30 ]"
+            },
+            "d9451dbaa9d117f95c2e21de0fc75bb782e3ec1c0d7077213be144084a8e9264": {
+                "source": "04100000 AC3B9048 00000264\n04100000 AC3B904C 00000001",
+                "title": "[29 - horned dynastid]"
             },
             "d9cbc26b5f786997662f4a3cfae765b14a33044b8005b6fee12226ef187b849e": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000E03",
@@ -18383,6 +19475,10 @@
                 "source": "80000041\n04100000 AC3B9138 0000",
                 "title": "[16th slot modifier L + A]"
             },
+            "dc1dec7c8a8b4adf1fca133e1304e832db904612cb4b55ceffdc0df0599f26de": {
+                "source": "04100000 AC3B9018 00000287\n04100000 AC3B901C 00000001",
+                "title": "[23 - ladybug]"
+            },
             "dce79fa7eca638c3bbac4f32c4e555f36a04556033f18a4ac6d82ca5fbe49f3b": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000F67",
                 "title": "[Itemslot 1 IRW DIY Bench]"
@@ -18390,6 +19486,14 @@
             "dd2347f9f5d52125433888c6535c5197f50e71da3e34d948be509f989dc3d2ea": {
                 "source": "04000000 00E7BD50 BD4F1E61\n80000002\n04000000 00E7BD50 1E221001\n20000000",
                 "title": "[Speed Up (B)]"
+            },
+            "deba47b589657fa0631a424b5622aa26333d120822df0d524d99c1692eb3b348": {
+                "source": "04100000 AC3B9138 00000257\n04100000 AC3B913C 00000001",
+                "title": "[16 - tiger beetle]"
+            },
+            "df48831679bf72c9f1131dd8332a39898ff8dc940358f97b05d5f56e3fb90c0c": {
+                "source": "04100000 AC3B9018 000008E5\n04100000 AC3B901C 00000001",
+                "title": "[23]"
             },
             "dff2e4d48f7d17209bac71841276cf51734e0b2bb847fda0f46cbd8af0cb922b": {
                 "source": "04100000 AC3B9010 00000A40\n04100000 AC3B9014 00000062",
@@ -18403,17 +19507,61 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 0000",
                 "title": "[Slot 1: Custom ItemID - (Go to https://pastebin.com/raw/B8N5KKsh)]"
             },
+            "e29189de64dccb9c83156d796c0b58b2108d96bf9c4416433454bb328fba34ec": {
+                "source": "04100000 AC3B9050 00001259\n04100000 AC3B9054 00000001",
+                "title": "[30]"
+            },
+            "e3520551aa3abd9827cbc9d79d7c84324b7753844bf6b1d0907167104948a013": {
+                "source": "04100000 AC3B90A0 0000026F\n04100000 AC3B90A4 00000001",
+                "title": "[40 - honeybee]"
+            },
             "e3e53f073e93490ce0d9646f494a55bc520b9b05c60a975c4d49a2411ed0d027": {
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002C4",
                 "title": "[Slot 1: Bunny DIY Recipe 23]"
+            },
+            "e40d7b60cd2afc9ed2cf43143fe029b0e807d06ad7562abf521a98a765f8ae42": {
+                "source": "04100000 AC3B9038 000000D3\n04100000 AC3B903C 00000001",
+                "title": "[27]"
             },
             "e41ec7c646eca17f4cb3c44a4f47bce0fa76314b6ac34d359d2b9ab98a6ad011": {
                 "source": "04000000 01036C80 6B010114",
                 "title": "[OFF - Bells Don't Decrease]"
             },
+            "e45c15a89778ab25f51ff8948f6d9492d2dfaefd36a3a64b29c91233ec04ee6d": {
+                "source": "04100000 AC3B9028 00001239\n04100000 AC3B902C 00000001",
+                "title": "[25]"
+            },
+            "e4e77346e02cfc9f00a7524d89a0e2bdbb284064dc5a75592fdc74e7f5a4a025": {
+                "source": "04100000 AC3B9120 000000BE\n04100000 AC3B9124 00000001",
+                "title": "[13]"
+            },
+            "e6692e5ce1d8708728e89e2325362fccb0e93d1747b9bbdfb130a8ed54c5b9b0": {
+                "source": "04100000 AC3B9120 0000012A\n04100000 AC3B9124 00000001",
+                "title": "[13]"
+            },
+            "e66a285f7ca43352212041482ebee9adb324689bf959972d7c42cbe2d15dbed2": {
+                "source": "04100000 AC3B9118 00000128\n04100000 AC3B911C 00000001",
+                "title": "[12]"
+            },
+            "e73b37cba69ec6159fb12a0093f829e5b5f825e1f9a5cdde2a0a1bbf1dbb92d8": {
+                "source": "04100000 AC3B9120 000008DB\n04100000 AC3B9124 00000001",
+                "title": "[13]"
+            },
+            "e74379bad19c6f1a8a61c4f8c5d9d2f0c4f39390412d93d56dcb44cff6f2b250": {
+                "source": "04100000 AC3B90F8 0000024E\n04100000 AC3B90FC 00000001",
+                "title": "[8 - pill bug]"
+            },
             "e767a1b7e5c26acc748e4012ec1841464d656cd61246279dcafe2b6fa64f8b3c": {
                 "source": "04100000 AC3B911C 0000001D",
                 "title": "[Itemslot 12 x30]"
+            },
+            "e778347cfa9e051066ec062ea2ce5f74762cc2eb70e4cbd7989c4ce3e835ea53": {
+                "source": "04100000 AC3B9060 000008C6\n04100000 AC3B9064 00000001",
+                "title": "[32]"
+            },
+            "e7b59642c453e8235768f507e6d7d6c5bfb9cf33e01a746f26ee626cc7015c3e": {
+                "source": "04100000 AC3B9138 000008DE\n04100000 AC3B913C 00000001",
+                "title": "[16]"
             },
             "e815e790db1f804167ce8ed1fa3b9b9890c9e4d973a6fc5d039acdcdb04f55c6": {
                 "source": "80000041\n04100000 AC3B90F0 0000",
@@ -18427,9 +19575,17 @@
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000DC\n640F0000 00000000 0000001D",
                 "title": "[Itemslot 3 x30]"
             },
+            "e8f4a7ed24b630f7477a9f96c798c1808e86dc0dce03693b2d1bea36d9a8cf14": {
+                "source": "04100000 AC3B9028 000000D0\n04100000 AC3B902C 00000001",
+                "title": "[25]"
+            },
             "e95b652d502808fb3ff78cd2f83a9c8e5c7722db2094546d34d995d834617b6c": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000C77",
                 "title": "[Itemslot 1 Ironwood Table]"
+            },
+            "ea7ae1bba1cde3e15a947034e1b674a3fd4680f04e42d7eb7ed09df5087a8d2a": {
+                "source": "04100000 AC3B9068 00001C53\n04100000 AC3B906C 00000001",
+                "title": "[33]"
             },
             "ea827433ce3b5828f72fad2da12b3fd6f4054d3fd84d6b394559704d170a8d83": {
                 "source": "04100000 AC3B9088 00001536\n04100000 AC3B908C 00000000",
@@ -18439,9 +19595,37 @@
                 "source": "04100000 AC3B9030 00000D2A\n04100000 AC3B9034 00000000",
                 "title": "[26 - Pear Trees (Infinite)]"
             },
+            "ec5ceef2f1c8730e8d2e96a8f14421bad50b1bc89ffa85fd0eb5c243461f2fb8": {
+                "source": "04100000 AC3B90F8 000000B6\n04100000 AC3B90FC 00000001",
+                "title": "[8]"
+            },
+            "ec897a33b3e64cb56dec2b38768103b9186c181d79045508f361bc344c1e9479": {
+                "source": "04100000 AC3B9090 000000E2\n04100000 AC3B9094 00000001",
+                "title": "[38]"
+            },
+            "ecf5bade7de1122cb20b5523d214b5675d0069e757d89c40478b2d43412c8898": {
+                "source": "04100000 AC3B9138 000000C3\n04100000 AC3B913C 00000001",
+                "title": "[16]"
+            },
+            "edd98447d8c80ed9aa3fa94f16d51f0e6e6fcda8629ee1856d647c32bc50518a": {
+                "source": "04100000 AC3B9030 00000261\n04100000 AC3B9034 00000001",
+                "title": "[26 - citrus long horned beetle]"
+            },
+            "ee5315536d559005719f0bc6f7a2dece64ff73ff11fe2bc85a6947da8b90558f": {
+                "source": "04100000 AC3B9030 000008BF\n04100000 AC3B9034 00000001",
+                "title": "[26]"
+            },
+            "ef5921e19f52bd6631c0df2f974ec53decc36bf10ace4bf357b65a10df7e576c": {
+                "source": "04100000 AC3B90E8 000000F0\n04100000 AC3B90EC 00000001",
+                "title": "[6]"
+            },
             "ef75331da7fb6252fe2a88ff4f25fb3eb4cf7b4963419ac0be7e3598407cdd79": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00002182",
                 "title": "[Slot 1: Gold slingshot]"
+            },
+            "efcacee3ae2d6e11b35843f73de159f68c50e58bf25f18b1ddf20954aee7b336": {
+                "source": "04100000 AC3B9018 000008BC\n04100000 AC3B901C 00000001",
+                "title": "[23]"
             },
             "f02564df708b1c86d48734faed22bc0eb38237fee9a71a90fd8691ea0724772d": {
                 "source": "04100000 AC3B9038 00000D25\n04100000 AC3B903C 00000000",
@@ -18450,6 +19634,10 @@
             "f072f0ea4d6e9a597e725a8ecb5d37bbcaa8adb97dbcac1ce5f7b7bdb69a2508": {
                 "source": "80000041\n04100000 AC3B9148 0000",
                 "title": "[18th slot modifier L + A]"
+            },
+            "f152caeeaa5ad1add772b798ec3c93eabebecbbc219b7d4014f4676f29a06cac": {
+                "source": "04100000 AC3B9030 000008E8\n04100000 AC3B9034 00000001",
+                "title": "[26]"
             },
             "f27f2dd021a2efa98c0a84d6fa332b135c52432087d2fd6a8bcef92c2ff6b709": {
                 "source": "04100000 AC3B90CC 0000001D",
@@ -18463,6 +19651,10 @@
                 "source": "04000000 00E7BD50 1E2E1001\n80000002\n04000000 00E7BD50 1E221001\n20000000",
                 "title": "[Speed Up (Press B)]"
             },
+            "f4a6d6f6aed22c0c8ac616bd222ea2c60b94abf35db7cbf94f5b567bcdc4522e": {
+                "source": "04100000 AC3B9108 00000250\n04100000 AC3B910C 00000001",
+                "title": "[10 - moth]"
+            },
             "f539b2061aaae8f94df1e1c27883733cb7441022c37dea1974003a8f5923e8ff": {
                 "source": "04100000 AC3B9070 0000094D\n04100000 AC3B9074 00000004",
                 "title": "[34 - Communicator Parts]"
@@ -18471,9 +19663,17 @@
                 "source": "04100000 AC3B90C0 000016A2\n04100000 AC3B90C4 000002A4",
                 "title": "[Slot 1: Bunny DIY Recipe 3]"
             },
+            "f5a30a7431b3159813d40272f9079a4749cd9d420d0cea967dd8e076ea5852cc": {
+                "source": "04100000 AC3B9100 000008D7\n04100000 AC3B9104 00000001",
+                "title": "[9]"
+            },
             "f5e2342af2d64d30d040f42ce7c0680442648015fac642c9e33cd2e9745fb86a": {
                 "source": "580F0000 0373A1F0\n580F1000 000000E0\n580F1000 00000018\n580F1000 00000040\n780F0000 000000C8\n640F0000 00000000 00000499",
                 "title": "[Itemslot 1 Foosball Table]"
+            },
+            "f658227b8be43aa1ebab198a0c83fa1aeceb0baa1ba21d2a654a7e48e4162cad": {
+                "source": "04100000 AC3B9158 000008E2\n04100000 AC3B915C 00000001",
+                "title": "[20]"
             },
             "f6695887d3d97dbd53544e4e511dd3e8e2ec020fbdf53c98badebbe8fef1b3bf": {
                 "source": "04100000 AC3B90F0 00002155\n04100000 AC3B90F4 00000000",
@@ -18503,9 +19703,21 @@
                 "source": "04000000 00E7BD50 1E221001",
                 "title": "[Set speed 4x]"
             },
+            "f88cb336e6ef875a9a6ce378b53b48f69cc2ceacf4112c5460416f1d89eb781a": {
+                "source": "04100000 AC3B9120 0000027D\n04100000 AC3B9124 00000001",
+                "title": "[13 - giant stag]"
+            },
             "f9367a644b0eb80e36ac5e61aa9b088532224bfbff61a7055c896d0c769031f2": {
                 "source": "80000041\n04100000 AC3B90F8 0000",
                 "title": "[8th slot modifier L + A]"
+            },
+            "fa8d96892302577de7a40908f9332f9b87942e4ebfb0e4c7d291c9c8c0631dbb": {
+                "source": "04100000 AC3B90C8 000000AA\n04100000 AC3B90CC 00000001",
+                "title": "[2]"
+            },
+            "faa5b78ed3dd89599c3ed9a9e80fbea2e7a499d0d1094da32d2bad74f4a4b614": {
+                "source": "04100000 AC3B9080 00000D9C\n04100000 AC3B9084 00000001",
+                "title": "[36 - Madagascan sunset moth]"
             },
             "fc34e46de7e2f7b7a4b1bd1281714fd73fbe0c797a7da4d5aed0e673a76d5bc3": {
                 "source": "04100000 AC3B9130 00000ACF\n04100000 AC3B9134 0000001D",
