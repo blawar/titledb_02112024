@@ -97,7 +97,7 @@
             "zh",
             "zh"
         ],
-        "size": 200278016
+        "size": 206569472
     },
     "70010000000121": {
         "id": "010057D0021E8000",
@@ -5105,6 +5105,53 @@
         ],
         "size": 6671040512
     },
+    "70010000020855": {
+        "id": "0100C6A00E94A000",
+        "rightsId": null,
+        "name": "Panzer Dragoon: Remake",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200326,
+        "nsuId": 70010000020855,
+        "category": [
+            "Arcade",
+            "Disparos"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Forever Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1d57efa123f350ba9909a3edaaf40b60457da68b6acca53f464add8e883a3be4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7587fc829244dcdc23e14ada4275c01fe4077605e487074528325ec00780358e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b0a9469e99f6d2abfa6e5ff5316563641efd279218d6fb790adf28eb9e3933e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7773c763640b7f9ec376dfd216d0c31837ef28b8fdb97512bf3ca92ef1f3d6de.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09645307a9a429c0087150170699b0a4296f69ccabf81f711481dafbcbb8046e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/853c396b9c4394b9a600e2eaca95bb7d80d1fa754dfdd7cba1eaa57d36e29073.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/45a0590e618203321738757a15e24ef165c4fe81218379d655d0707169302785.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/490758a7b6b0ed38769c36f7bd0475b9d45ea04677a64996fac8162db6b8ea37.jpg",
+        "intro": "\u00a1Una nueva versi\u00f3n remozada del juego Panzer Dragoon fiel al original, con controles y gr\u00e1ficos mejorados que se adec\u00faan a los est\u00e1ndares de los juegos modernos!",
+        "description": "En un planeta lejano y solitario, encontrar\u00e1s a dos dragones de la antig\u00fcedad despiertos. Armado con un arma letal del pasado y vali\u00e9ndote de la gu\u00eda de tu drag\u00f3n azul blindado, deber\u00e1s cumplir con tu destino y evitar que el drag\u00f3n prototipo llegue a la torre o, al menos, morir intent\u00e1ndolo.\n\nCaracter\u00edsticas principales\n    \u2022 Pilota por siete niveles incre\u00edblemente realistas, desde ciudades tropicales de mar azul a complejas ruinas subterr\u00e1neas.\n    \u2022 Enfr\u00e9ntate al drag\u00f3n prototipo que aparecer\u00e1 acompa\u00f1ado de malvadas lib\u00e9lulas gigantescas, avispas de tama\u00f1o humano aterradoras, gusanos de arena colosales y acorazados voladores letales.\n    \u2022 Ataca a los enemigos desde todos los \u00e1ngulos r\u00e1pidamente y sin piedad, con controles de 360\u00ba mejorados y la opci\u00f3n de fijar el blanco.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 7541358592
+    },
     "70010000020891": {
         "id": "010017700B6C2000",
         "rightsId": null,
@@ -5876,6 +5923,185 @@
             "ja"
         ],
         "size": 0
+    },
+    "70010000029711": {
+        "id": "0100FF500E34A000",
+        "rightsId": null,
+        "name": "Xenoblade Chronicles\u2122: Definitive Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200529,
+        "nsuId": 70010000029711,
+        "category": [
+            "Juego de rol"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Lenguaje moderado",
+            "Desnudez parcial",
+            "Uso de Alcohol y Tabaco",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3b9eb62296e2835cc177bb44c360edcc6eac5d70b6abd6eacf3bb7c7d6ddf9e5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/49efd052a4d8778d98a0337b86a9c89408f5fc6453e35cd0cdf91d8734e6ea35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84970b80dc13a98cd389cf0e68ed1ed1dae571b7adbafa58588f0438a4202708.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37173d7f0b5b5fe1c586aaf9572510daf25292b7427a274e2760c08b3b433f72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6bbe3b7eaddadc827d994fc79dda65c1556e4dc7b97f8001373f175012f5564.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7021497da254503844e542fe2ec9d276ce33694da4a4d729f417a43e2a590f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7d32fd2c563cdc060e7dd7e81c64a1768e4dae499964878f8dd157569d5fc32.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d55f4d73ad88beed1ea061aaaacbe772e40f46b598db513f3f85369d3455aa82.jpg",
+        "intro": "\u00danete a la batalla entre humanos y m\u00e1quinas en la edici\u00f3n definitiva de este aclamado juego de rol",
+        "description": "Descubre los or\u00edgenes de Shulk mientras \u00e9l y sus aliados combaten una amenaza mec\u00e1nica aparentemente imparable. Empu\u00f1a una espada con tecnolog\u00eda avanzada, posiciona estrat\u00e9gicamente a tu equipo y encadena sus ataques. Combate en tiempo real en una traves\u00eda por un inmenso mundo.\n\nDurante un ataque por parte de los mekon, un ej\u00e9rcito invasor de m\u00e1quinas met\u00e1licas, Shulk descubre la fuerza de una misteriosa espada conocida como Monado. Con el poder de Monado, Shulk emprender\u00e1 una haza\u00f1a para frenar a los mekon de una vez por todas.\n\nAdem\u00e1s de los mekon, en tu camino encontrar\u00e1s seres d\u00f3ciles y otros de lo m\u00e1s letales. Mantente alerta y descifra qu\u00e9 atrae a los monstruos para evitar conflictos\u2026 o prueba tu destreza y enfr\u00e9ntate a poderosos monstruos.\n\nHaz mejoras a tu grupo conforme avances en la aventura y cambia el equipamiento, los poderes de las armas y utiliza poderes de gemas. Encomienda a tus aliados m\u00e1s confiables a mantener la barra de grupo llena para accionar un ataque en cadena contra los enemigos.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 14670626816
+    },
+    "70010000029716": {
+        "id": "010047700D540000",
+        "rightsId": null,
+        "name": "Clubhouse Games\u2122: 51 Worldwide Classics",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200605,
+        "nsuId": 70010000029716,
+        "category": [
+            "Fiesta",
+            "Multijugador"
+        ],
+        "ratingContent": [
+            "Violencia moderada en caricaturas",
+            "Apuestas simuladas",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0cd1e319225b46271de1a164d30bb4a3ee63048c65141b3f33960c51a6a0a4a8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e6f1c56bae41e1bee50dae2cd701bf31b188ccff4968ddbad7a95bdfa08f0e11.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b73183e4ab8c7d0d6d2db754ce7c135db50b3a5e50b64302eab6bbe22a905507.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2068063d9b08d889c418d88136aa904f2100812b9c284fea47d5723bdc65e0b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/455ee9ac9fd79f43c651266a9a285c4f3b6897a2b28c9e39340b150cb30de046.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ebc0fefe60247a9bb249ccebb73ebd2f26add2c7f39178ff5c35d129c022264.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c0596d1489ec253b0dc65c0991f76bea4e959ef3364fddfc3a7974393c522c1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6d0cf8758e634a00d201ce0784e48f13c643b1b935f286d82689bf0a56a1f5e6.jpg",
+        "intro": "\u00a1Descubre y juega 51 juegos de tablero de alrededor del mundo!",
+        "description": "\u00a1Juega y descubre 51 juegos de mesa, de tablero y m\u00e1s, en un solo paquete! Esta diversa colecci\u00f3n incluye juegos de alrededor del mundo pertenecientes a diferentes g\u00e9neros, desde populares juegos familiares como el ajedrez, hasta \u00e9xitos internacionales -como el mancala-, que han existido por cientos a\u00f1os.\n\n\u00a1Divi\u00e9rtete con juegos populares y descubre joyas ocultas de alrededor del mundo en esta colecci\u00f3n de 51 juegos de mesa y m\u00e1s! Ya sea que te guste planear cada movimiento o que prefieras confiar en tus reflejos, esta colecci\u00f3n contiene juegos de una diversa gama de g\u00e9neros para conocer y disfrutar. Cada juego est\u00e1 presentado con impecable atenci\u00f3n al detalle, como el sonido de los dados al agitarlos, y los reflejos en las canicas.\n\nLos jugadores que disfrutan del g\u00e9nero de estrategia la pasar\u00e1n en grande jugando cuatro en raya o renegado; mientras que aquellos que prefieren usar sus reflejos podr\u00e1n divertirse con juegos como carreras de coches y boxeo.\n\nCon juegos de mesa, cartas, deportes, diferentes tipos de solitario y m\u00e1s, esta es una colecci\u00f3n ecl\u00e9ctica para jugar y descubrir en tu consola Nintendo Switch.\n\n\u30fbDisfruta de 51 juegos de mesa y m\u00e1s de alrededor del mundo desde la comodidad de tu consola Nintendo Switch.\n\n\u30fbDisfruta de tus juegos favoritos o explora y aprende juegos nuevos.\n\n\u30fbJuega por tu cuenta o con amigos en modo local* o en l\u00ednea**, hasta cuatro jugadores.\n\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "zh",
+            "zh"
+        ],
+        "size": 2184183808
+    },
+    "70010000029721": {
+        "id": "0100B0500FE4E000",
+        "rightsId": null,
+        "name": "Good Job!\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200326,
+        "nsuId": 70010000029721,
+        "category": [
+            "Rompecabezas",
+            "Acci\u00f3n"
+        ],
+        "ratingContent": [
+            "Violencia moderada de fantasia"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bfa2af93d02bdb8e79ed222bcbc5dfdd3386434bda08a7bdc431a9aef9341377.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4dde179a0a3e699437f70113d5309ffa4d43bde309cad54cc0a0ceb21ab27417.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4595c50bcc435feea39e645a526a7adbf5f9981053b6106c7a43ba35f719873d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8679f571dbb93085023a9bb0d37be77c2071f30b7bc0f57504fa42349a25b38.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d7c8a838155ea10dd422dfa94ee818fe5df61e3d37a373d7e2427911f314a0bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de5fa61b6d65a4a515f698120d33b298f60916ed050b2279be5002540d7f3b72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d09de4b69485d685d9e8ae4ece831514693fc78c3699d949e68b371cdd4e5e95.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9164bffd7430328a007d9fa1db59b331bcaea8a8c9b6fcc176f089a909a9da21.jpg",
+        "intro": "Un torpe empleado debe lidiar con rompecabezas tem\u00e1ticos de oficina. El resultado es hilarante.",
+        "description": "\u00a1Como el hijo torpe de un director ejecutivo, deber\u00e1s ascender el escalaf\u00f3n de la empresa resolviendo cada uno de los rompecabezas a la vez! Compl\u00e9talos de diferentes maneras mientras experimentas con los ambientes interactivos, como por ejemplo, moviendo lentamente un proyector a trav\u00e9s de una puerta el\u00e9ctrica o catapult\u00e1ndolo sobre la pared. \u00a1As\u00ed que avanza poco a poco (o haz lo que puedas) para llegar a la cima y lograr que tu padre se sienta orgulloso de ti!\n\nTus labores en la oficina pueden variar, desde arreglar la conexi\u00f3n a internet de la oficina, hasta limpiar una sustancia viscosa experimental. Puede que te encuentres con compa\u00f1eros de trabajo o que derribes uno que otro objeto invaluable, pero mientras cumplas con tu labor, \u00a1estar\u00e1s m\u00e1s cerca de la oficina ejecutiva! Los empleados estrella podr\u00e1n repetir niveles para obtener puntuaciones m\u00e1s altas al maximizar la velocidad y minimizar los da\u00f1os.\n\nComparte con un amigo (o compa\u00f1ero de trabajo) un control Joy-Con\u2122 para que con un poco de ayuda resuelvan los rompecabezas, se dividan las tareas o recolecten los atuendos del juego. Bien sea que juegues solo o con un amigo, Good Job! transforma la cotidianidad de las tareas corporativas en una divertida competencia de rompecabezas para subir el escalaf\u00f3n de la empresa.\n\nEl c\u00f3digo de vestimenta en la compa\u00f1\u00eda de tu padre es\u2026 flexible, por as\u00ed decirlo. Al explorar los departamentos de la oficina, podr\u00e1s encontrar m\u00e1s de 100 atuendos ocultos en el juego. Estos var\u00edan desde conjuntos casuales de oficina hasta trajes vikingos bien estilizados, \u00a1as\u00ed que deja tu traje en casa y demuestra tu verdadera esencia!\n",
+        "languages": [
+            "en",
+            "es",
+            "fr"
+        ],
+        "size": 440401920
+    },
+    "70010000030293": {
+        "id": "0100B6801137E000",
+        "rightsId": null,
+        "name": "Bravely Default\u2122 II Demo",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200326,
+        "nsuId": 70010000030293,
+        "category": [
+            "Juego de rol"
+        ],
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Referencia al tabaco"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9cf199ab6432ec0469e43acb02f6dea123cf027ff2a23fc464b3a3d152454faf.jpg",
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/334ac4321378c97a50a1ed46553dac8a0a4865262a1401da7f925e9c1176a8f9.jpg",
+        "intro": null,
+        "description": "\u00a1Ya est\u00e1 disponible la versi\u00f3n de prueba gratuita de Bravely Default\u2122 II!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh",
+            "zh"
+        ],
+        "size": 2519728128
     },
     "70030000005101": {
         "id": "0100ED800CBFC000",

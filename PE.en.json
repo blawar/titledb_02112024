@@ -97,7 +97,7 @@
             "zh",
             "zh"
         ],
-        "size": 200278016
+        "size": 206569472
     },
     "70010000000121": {
         "id": "010057D0021E8000",
@@ -5105,6 +5105,53 @@
         ],
         "size": 6671040512
     },
+    "70010000020855": {
+        "id": "0100C6A00E94A000",
+        "rightsId": null,
+        "name": "Panzer Dragoon: Remake",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200326,
+        "nsuId": 70010000020855,
+        "category": [
+            "Arcade",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Forever Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1d57efa123f350ba9909a3edaaf40b60457da68b6acca53f464add8e883a3be4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7587fc829244dcdc23e14ada4275c01fe4077605e487074528325ec00780358e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b0a9469e99f6d2abfa6e5ff5316563641efd279218d6fb790adf28eb9e3933e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7773c763640b7f9ec376dfd216d0c31837ef28b8fdb97512bf3ca92ef1f3d6de.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09645307a9a429c0087150170699b0a4296f69ccabf81f711481dafbcbb8046e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/853c396b9c4394b9a600e2eaca95bb7d80d1fa754dfdd7cba1eaa57d36e29073.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/45a0590e618203321738757a15e24ef165c4fe81218379d655d0707169302785.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/490758a7b6b0ed38769c36f7bd0475b9d45ea04677a64996fac8162db6b8ea37.jpg",
+        "intro": "A new, remade version of the Panzer Dragoon game \u2013 true to the original, with improved graphics and controls, that suit modern gaming standards! ",
+        "description": "On a far, lone planet, you encounter two dragons awaken from the ancient times. Armed with a deadly gun from the past, and the guidance of your armored blue dragon, you must fulfill your destiny and keep the Prototype Dragon from reaching the Tower or die trying.\n\nKey Features\n    \u2022 Pilot through seven unbelievably realistic levels ranging from tropical blue ocean cities to intricate subterranean ruins.\n    \u2022 Fight the Prototype Dragon who appears together with evil giant dragonflies, frightening man-sized wasps, giant sandworms, and lethal flying battleships.\n    \u2022 Attack approaching from all sides enemies quickly and without mercy, with improved 360-degree controls and lock-on targeting.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 7541358592
+    },
     "70010000020891": {
         "id": "010017700B6C2000",
         "rightsId": null,
@@ -5876,6 +5923,185 @@
             "ja"
         ],
         "size": 0
+    },
+    "70010000029711": {
+        "id": "0100FF500E34A000",
+        "rightsId": null,
+        "name": "Xenoblade Chronicles\u2122: Definitive Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200529,
+        "nsuId": 70010000029711,
+        "category": [
+            "RPG"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Mild Language",
+            "Partial Nudity",
+            "Use of Alcohol and Tobacco",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3b9eb62296e2835cc177bb44c360edcc6eac5d70b6abd6eacf3bb7c7d6ddf9e5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/49efd052a4d8778d98a0337b86a9c89408f5fc6453e35cd0cdf91d8734e6ea35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84970b80dc13a98cd389cf0e68ed1ed1dae571b7adbafa58588f0438a4202708.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37173d7f0b5b5fe1c586aaf9572510daf25292b7427a274e2760c08b3b433f72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6bbe3b7eaddadc827d994fc79dda65c1556e4dc7b97f8001373f175012f5564.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7021497da254503844e542fe2ec9d276ce33694da4a4d729f417a43e2a590f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7d32fd2c563cdc060e7dd7e81c64a1768e4dae499964878f8dd157569d5fc32.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d55f4d73ad88beed1ea061aaaacbe772e40f46b598db513f3f85369d3455aa82.jpg",
+        "intro": "Join the fight between man and machine in the definitive edition of this critically-acclaimed RPG",
+        "description": "Discover the origins of Shulk as he and his companions clash against a seemingly-unstoppable mechanical menace. Wield a future-seeing blade, chain together attacks, and carefully position your party members in strategic, real-time combat as you journey across a massive world.\n\nDuring an attack from the mechanical invaders known as the Mechon, Shulk discovers that he can tap into the full power of a mysterious blade known as the Monado. With the mighty Monado in hand, Shulk sets out to defeat the Mechon once and for all.\n\nIn addition to the Mechon, you\u2019ll run into wildlife that ranges from docile to deadly. Keep an eye on what attracts monsters\u2019 attention to avoid unwanted conflict\u2026or try your hand at bringing down an ultra-powerful Unique Monster.\n\nUpgrade your party as you progress through the adventure by selecting equipment, enhancing weapon skills, and using benefit-granting gems. Put your dependable companions to work by filling the party gauge to trigger a Chain Attack and attack enemies in quick succession!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 14670626816
+    },
+    "70010000029716": {
+        "id": "010047700D540000",
+        "rightsId": null,
+        "name": "Clubhouse Games\u2122: 51 Worldwide Classics",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200605,
+        "nsuId": 70010000029716,
+        "category": [
+            "Party",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Mild Cartoon Violence",
+            "Simulated Gambling",
+            "Users Interact"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0cd1e319225b46271de1a164d30bb4a3ee63048c65141b3f33960c51a6a0a4a8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e6f1c56bae41e1bee50dae2cd701bf31b188ccff4968ddbad7a95bdfa08f0e11.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b73183e4ab8c7d0d6d2db754ce7c135db50b3a5e50b64302eab6bbe22a905507.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2068063d9b08d889c418d88136aa904f2100812b9c284fea47d5723bdc65e0b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/455ee9ac9fd79f43c651266a9a285c4f3b6897a2b28c9e39340b150cb30de046.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ebc0fefe60247a9bb249ccebb73ebd2f26add2c7f39178ff5c35d129c022264.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c0596d1489ec253b0dc65c0991f76bea4e959ef3364fddfc3a7974393c522c1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6d0cf8758e634a00d201ce0784e48f13c643b1b935f286d82689bf0a56a1f5e6.jpg",
+        "intro": "Discover and play 51 tabletop games from around the world!",
+        "description": "Play and discover 51 board games, tabletop games, and more all in one package\u2014Clubhouse Games\u2122: 51 Worldwide Classics. This diverse collection includes games from all over the world across multiple genres, from familiar favorites like Chess to international hits like Mancala that have been around for 100s of years!\n\nEnjoy familiar favorites and learn hidden gems from around the world in this collection of 51 board games, tabletop games and more! Whether you like to sit and strategize or rely on reflexes, Clubhouse Games: 51 Worldwide Classics contains games from across an array of genres for you to play and discover. Each game is presented with stunning detail as dice clack and marbles glimmer.\n\nStrategic players will feel right at home with games like Four-in-a-row and Renegade, while those who prefer to use their reflexes can enjoy games like Slot Cars and Toy Boxing!\n\nWith board games, card games, sports, solitaires and more, Clubhouse Games: 51 Worldwide Classics is an eclectic collection of games to play and discover on your Nintendo Switch.\n\n\u30fbEnjoy 51 tabletop games and more from all over the world from the convenience of your Nintendo Switch\u2122 system\n\n\u30fbPlay your favorite games or explore and learn new ones\n\n\u30fbPlay alone or with friends locally* and online** up to four players",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "zh",
+            "zh"
+        ],
+        "size": 2184183808
+    },
+    "70010000029721": {
+        "id": "0100B0500FE4E000",
+        "rightsId": null,
+        "name": "Good Job!\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200326,
+        "nsuId": 70010000029721,
+        "category": [
+            "Puzzle",
+            "Action"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bfa2af93d02bdb8e79ed222bcbc5dfdd3386434bda08a7bdc431a9aef9341377.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4dde179a0a3e699437f70113d5309ffa4d43bde309cad54cc0a0ceb21ab27417.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4595c50bcc435feea39e645a526a7adbf5f9981053b6106c7a43ba35f719873d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8679f571dbb93085023a9bb0d37be77c2071f30b7bc0f57504fa42349a25b38.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d7c8a838155ea10dd422dfa94ee818fe5df61e3d37a373d7e2427911f314a0bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de5fa61b6d65a4a515f698120d33b298f60916ed050b2279be5002540d7f3b72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d09de4b69485d685d9e8ae4ece831514693fc78c3699d949e68b371cdd4e5e95.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9164bffd7430328a007d9fa1db59b331bcaea8a8c9b6fcc176f089a909a9da21.jpg",
+        "intro": "A Bumbling Employee Meets Office-Themed Puzzles. Hilarity Ensues.",
+        "description": "As the clumsy child of a CEO, you must climb the corporate ladder one office-themed puzzle at a time! Complete puzzles in multiple ways as you experiment with the interactive environments\u2014a projector can be wheeled gently through an electric door\u2026or catapulted through the wall. So toil (or tumble) your way to the top and make your father proud!\n\nYour job duties can vary from fixing the office\u2019s internet connection to cleaning up experimental goo. You may bump into your coworkers or knock over a priceless item or two in the process, but as long as you get the job done you\u2019re one step closer to the executive suite! True star employees can also replay stages to try to earn a higher score by maximizing speed while minimizing damages.\n\nPass a Joy-Con\u2122 controller to a friend (or coworker) for some help solving puzzles, divvying up tasks, or collecting in-game outfits. Whether you\u2019re playing alone or with a friend, Good Job! turns sometimes-mundane office dealings into a puzzling and hilarious take on climbing the corporate ladder.  \n\nThe dress code at your father\u2019s company is\u2026flexible to say the least. By exploring the office\u2019s many departments, you can find over 100 in-game outfits hidden throughout. These looks range from business casual to Viking chic, so you can leave the suit at home and let your true colors show!\n",
+        "languages": [
+            "en",
+            "es",
+            "fr"
+        ],
+        "size": 440401920
+    },
+    "70010000030293": {
+        "id": "0100B6801137E000",
+        "rightsId": null,
+        "name": "Bravely Default\u2122 II Demo",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200326,
+        "nsuId": 70010000030293,
+        "category": [
+            "RPG"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Tobacco Reference"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9cf199ab6432ec0469e43acb02f6dea123cf027ff2a23fc464b3a3d152454faf.jpg",
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e4fc7d68975b99e67f730553646f65e842d0fe843ef28cdc9716a56afcad4c9a.jpg",
+        "intro": null,
+        "description": "A free demo of Bravely Default\u2122 II is now available!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh",
+            "zh"
+        ],
+        "size": 2519728128
     },
     "70030000005101": {
         "id": "0100ED800CBFC000",
