@@ -24870,6 +24870,133 @@
                 "title": "[Itemslot 1 Stone WP]"
             },
             "version": 65536
+        },
+        "F829A27213D46F9F": {
+            "0ed4a32dddaa3d8c26d79350c653757ec6334b558371ca7002208f681b011d7f": {
+                "source": "04000000 01036D58 8B214115",
+                "title": "[money/miles (off)]"
+            },
+            "10a3358e7fa3b62984ac551f1f904412c8b21c94c878d486ba6fb94f1962e72b": {
+                "source": "04100000 AC3B9118 000008ED\n04100000 AC3B911C 00000009",
+                "title": "[22# Itemslot 12 Max Pear]"
+            },
+            "126fea65a4b8b4348fd15bf227679f0ceff01d8c42a6850378b5a8ae4fd77acd": {
+                "source": "04100000 AC3B9118 000009D1\n04100000 AC3B911C 0000001D",
+                "title": "[19# Itemslot 12 Max Diy Packing]"
+            },
+            "1596eb9d7a308979e62408d3cda0e06c94dfe19a7df21a08336f5d2fa9a3ca39": {
+                "source": "04100000 AC3B9118 000008EE\n04100000 AC3B911C 00000009",
+                "title": "[23# Itemslot 12 Max Peach]"
+            },
+            "1a0ec0f2c017cf1145b6fe32dd592b4b36f74242e133e0f5703f7d2e19bad8ce": {
+                "source": "04100000 AC3B9110 000009C6\n04100000 AC3B9114 0000001D",
+                "title": "[15# Itemslot 11 Max Stone]"
+            },
+            "3d77280805a07c26ae541aef7f0e17d75deccddcf047145516ec73a67ca391cb": {
+                "source": "04100000 AC3B911C 00000031",
+                "title": "[28# Itemslot 12 x50]"
+            },
+            "464d70b890a81f29cc155286fb01b06177a4c3f155a8da80280a2b7c5b7f60dc": {
+                "source": "04100000 AC3B90E0 0000094B\n04100000 AC3B90E4 00000000",
+                "title": "[09# Itemslot 05 Watering Can unbreakable]"
+            },
+            "49e3821997faf70f750e51827d6d95e19f5bb8fdee3ec76f235360460c6ee374": {
+                "source": "04100000 AC3B90F8 00000ACF\n04100000 AC3B90FC 0000001D",
+                "title": "[12# Itemslot 08 Max Soft Wood]"
+            },
+            "4a568fc0adb1d679f319a55ad1d5c133b9f0fced2d1d6530e887b7cdede589e3": {
+                "source": "04100000 AC3B9118 000009C4\n04100000 AC3B911C 0000001D",
+                "title": "[18# Itemslot 12 Max Branches]"
+            },
+            "523b727ce1863eba2c50e173171ffd1ca88c01ac3a21dc500efa323ce3259be4": {
+                "source": "04000000 01036EB0 6B1F0114\n04000000 01036F00 6B1F0114",
+                "title": "[03# Bell money / miles are not reduced]"
+            },
+            "5325eac2c29dce9a1ce645a03ef8251d712837b682e9d47222801d3a43fc20c8": {
+                "source": "04100000 AC3B90C8 00000949\n04100000 AC3B90CC 00000000",
+                "title": "[06# Itemslot 02 Fishing Rod unbreakable]"
+            },
+            "545dd55bff31ce7f4c80b7abe85ebd245f7727846982a6db012b6eda6acea834": {
+                "source": "04100000 AC3B9118 000008EF\n04100000 AC3B911C 00000009",
+                "title": "[24# Itemslot 12 Max Cherry]"
+            },
+            "5700521ab3a23022e35d00e7153bb9c64332e961749ed6a91e9c0cc4eeec6f72": {
+                "source": "04100000 AC3B911C 00000009",
+                "title": "[26# Itemslot 12 x10]"
+            },
+            "6a015386bc6dd1f6a3477f2ce8333056417076e11c14bd149d12938f398d788b": {
+                "source": "04100000 AC3B9118 000011C5\n04100000 AC3B911C 00000009",
+                "title": "[25# Itemslot 12 Max Bait]"
+            },
+            "730133658300b83a24da779038fa4a179a0f45c7886f112bdccd4fafc9b22f03": {
+                "source": "04100000 AC3B9118 000008A6\n04100000 AC3B911C 00000009",
+                "title": "[21# Itemslot 12 Max Orange]"
+            },
+            "7a25a1b34c2573ca5bfa89596ca8f3d4a8c8cb291be685e11d59f717b99c7c27": {
+                "source": "04000000 00E7BF80 BD4F1E61\n80000002\n04000000 00E7BF80 1E221001\n20000000",
+                "title": "[01# Speed Up (Press B)]"
+            },
+            "8819ea187cd2a98534c3be30debe12ed1497d74d4842ebf7747005f4cc5b2cca": {
+                "source": "04100000 AC3B90D0 00000833\n04100000 AC3B90D4 00000000",
+                "title": "[07# Itemslot 03 Shove unbreakablel]"
+            },
+            "97b22469997ee56766025a12fdd50ffa6e370317e398d24d23d94cf99533ccac": {
+                "source": "04100000 AC3B9108 00000C12\n04100000 AC3B910C 0000001D",
+                "title": "[14# Itemslot 10 Max Clay Lomps]"
+            },
+            "a9e3c8aac686f047b2db8b800a913c969f196a780d631209644a3df11eec936f": {
+                "source": "04000000 00E0C930 B9530814\n80000040\n04000000 00E0C930 12800014\n20000000",
+                "title": "[02# Walk through Walls (Hold L)]"
+            },
+            "b44e523ec0c834ec1dccbe4984115ca3b1312cb3ddcf21f00348960937dff918": {
+                "source": "04100000 AC3B9118 000008A5\n04100000 AC3B911C 00000009",
+                "title": "[20# Itemslot 12 Max Apples]"
+            },
+            "b71978b4caa27bf943dd872f6fa80660c2b31fd5fbc77bb9f3d9e329fe51b6f4": {
+                "source": "04100000 AC3B90D8 00000B06\n04100000 AC3B90DC 00000000",
+                "title": "[08# Itemslot 04 Slingshot unbreakable]"
+            },
+            "bb27e832b73e19b44edba6fd35e9d368fd2d5461ef47d3729527c10784c0ef33": {
+                "source": "04100000 AC3B90F0 00000AD0\n04100000 AC3B90F4 0000001D",
+                "title": "[11# Itemslot 07 Max Wood]"
+            },
+            "c692dcd5cbff7fa6b857b363ff66c2db60edbda30c0defae34a968384175cc84": {
+                "source": "04100000 AC3B90E8 00001698\n04100000 AC3B90EC 00000000",
+                "title": "[10# Itemslot 06 Net unbreakable]"
+            },
+            "c84930b39e047098f6fe955d445259184f49a2bbb2d1520922576ee82ccc4ba1": {
+                "source": "04000000 01036EB0 6B010114\n04000000 01036F00 6B010114",
+                "title": "[Bell money / miles are not reduced (off)]"
+            },
+            "d831db5d02a4a569c00af448977e13623d05446a4c70670fbb4680cce1b59bb4": {
+                "source": "04100000 AC3B9100 00000AD1\n04100000 AC3B9104 0000001D",
+                "title": "[13# Itemslot 09 Max Hard Wood]"
+            },
+            "e00e17a57a298bd11878a128618acf2ce05f220c5391f3dcc64cf05ee99108ea": {
+                "source": "04000000 022C4F00 10000000\n04000000 022C4F04 B9401403\n04000000 022C4F08 1B037C21\n04000000 022C4F0C 8B214115\n04000000 022C4F10 D65F03C0\n04000000 022C4F14 00000064\n04000000 01036D58 944A386A",
+                "title": "[04# money/miles x100]"
+            },
+            "ee90ade6068625530e8d21461066e893e418cb11b9174bf018cfa8b708058e4f": {
+                "source": "04100000 AC3B9118 000009CF\n04100000 AC3B911C 0000001D",
+                "title": "[16# Itemslot 12 Max Iron Lomps]"
+            },
+            "ef50a32f02f1bede580828f2a45a1b1f5b1c4bddf635d40296d0c8f42aa0b76c": {
+                "source": "04100000 AC3B90C0 00000834\n04100000 AC3B90C4 00000000",
+                "title": "[05# Itemslot 01 Axe unbreakable]"
+            },
+            "f087c313d9b89220df179763b820356ecb861eceed09fa26cf8a749bafad67d0": {
+                "source": "04100000 AC3B9118 000009C9\n04100000 AC3B911C 0000001D",
+                "title": "[17# Itemslot 12 Max Gold Lomps]"
+            },
+            "fcb5b963c21f3ec2bf8d94ea034f440b3f0eff890bf1ea3bc26cc5843e7d5428": {
+                "source": "04100000 AC3B90C0 000016E0\n04100000 AC3B90C4 00000000",
+                "title": "[Itemslot 01 Stone Axe unbreakable]"
+            },
+            "fe09d5b6f9f1d06976afbf6649c18fcc1e312c1625c3b45e73e0c2174bd8eb6b": {
+                "source": "04100000 AC3B911C 0000001D",
+                "title": "[27# Itemslot 12 x30]"
+            },
+            "version": 131072
         }
     },
     "01006FE005B6E000": {
