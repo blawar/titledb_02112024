@@ -725,7 +725,7 @@
             "zh",
             "zh"
         ],
-        "size": 4357881856
+        "size": 4376756224
     },
     "70010000009372": {
         "id": "0100000000010000",
@@ -14520,10 +14520,16 @@
         "description": "\u8a72\u904a\u6232\u662f\u4e00\u6b3e\u5728\u7dda\u591a\u4eba\u904a\u6232\uff0c\u6700\u591a\u53ef\u4ee5\u75318\u500b\u4eba\u73a9\uff0c\u73a9\u5bb6\u5206\u5225\u626e\u6f14\u6bba\u624b\u5091\u68ee\u548c\u9732\u71df\u5730\u89c0\u5bdf\u54e1\u7684\u9752\u5e74\u5011\u3002\u50b3\u8aaa\u4e2d\u7684\u6bba\u4eba\u9b54\u5091\u68ee\u7684\u76ee\u7684\u662f\u8ffd\u6355\u4e26\u6bba\u6b7b\u6240\u6709\u5e74\u8f15\u7684\u8f14\u5c0e\u54e1\u3002\u800c7\u4f4d\u4e0d\u5e78\u7684\u9752\u5e74\u64c1\u6709\u5404\u7a2e\u5404\u6a23\u5de5\u5177\u548c\u6b66\u5668\uff0c\u76ee\u7684\u662f\u5728\u5091\u68ee\u7684\u9b54\u722a\u4e0b\u9003\u751f\u81f3\u6642\u9593\u7d50\u675f\uff0c\u6216\u8005\u5f9e\u9732\u71df\u5730\u9003\u812b\u3002\u548c\u5176\u4ed6\u9752\u5e74\u5408\u4f5c\u4e00\u8d77\u6c42\u751f\uff1f\u6216\u662f\u81ea\u5df1\u7368\u81ea\u4e00\u4eba\u9003\u812b\uff1f\u600e\u6a23\u53d6\u52dd\u662f\u73a9\u5bb6\u7684\u9078\u64c7\uff01\n\u6bcf\u6b21\u73a9\u904a\u6232\u6642\uff0c\u8f14\u5c0e\u54e1\u548c\u7269\u54c1\u7684\u4f4d\u7f6e\u90fd\u6703\u6709\u6240\u4e0d\u540c\uff0c\u56e0\u6b64\u5927\u5bb6\u7684\u73a9\u6cd5\u6703\u56e0\u904a\u6232\u800c\u7570\u3002\u201c\u7d42\u6975\u6bba\u624b\u7248\u201d\u5305\u62ec\u4e86\u5230\u76ee\u524d\u70ba\u6b62\u7684DLC\uff0c\u7121\u9700\u984d\u5916\u8cfc\u8cb7\u5373\u53ef\u4eab\u53d7\u5091\u68ee\u7684\u65b0\u6280\u80fd\u4ee5\u53ca\u9752\u5e74\u7684\u65b0\u670d\u88dd\u3002\n",
         "languages": [
             "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
             "zh",
             "zh"
         ],
-        "size": 3812622336
+        "size": 4329570304
     },
     "70010000024516": {
         "id": "0100B8400FBD4000",
@@ -42909,6 +42915,37 @@
         "description": null,
         "languages": null,
         "size": 0
+    },
+    "70070000010245": {
+        "id": null,
+        "rightsId": null,
+        "name": "\u300a\u72c2\u91ce\u98c6\u8eca9\uff1a\u7af6\u901f\u50b3\u5947\u300b\u9ad8\u901f\u7d44\u5408\u5305",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200330,
+        "nsuId": 70070000010245,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": null,
+        "developer": null,
+        "publisher": "Gameloft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/84c2565cd1f570e2f85872e2fdbe85f064d7f477b521239546014f918e486351.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e383114d04901664a606a81a753bcb34e69cd702496c5f760b916d8548bd9ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3c1dce823b6a11e525f44a76398237044f239ef737fafcc6e2dae15261fdd579.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11fabddc5c38fbfa161ebbcdd53b66e37073bc20c1cd0ab615e708a4e1559d5f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ff8b6bdadaa9ba5166422668a1a174ce1e7435e8b7c1a120509201e3b77839b0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b78179ee108b8f83191d82e294fe18b08d075a2158eb03e9c4430e16064baa1.jpg",
+        "intro": null,
+        "description": "\u5f15\u64ce\u50ac\u4e0b\u53bb\uff01\u5feb\u4f86\u89e3\u9396\u300a\u72c2\u91ce\u98c6\u8eca\u300b\u4e2d\u4e94\u8f1b\u5f37\u5927\u7684\u91ce\u7378\u7d1a\u8eca\u6b3e\uff01\u53e6\u5916\u9084\u6709\u5927\u91cf\u8cc7\u6e90\uff0c\u80fd\u52a9\u4f60\u6210\u70baNintendo Switch\u2122\u7684\u50b3\u5947\u4eba\u7269\uff01\n\u6b64\u5546\u54c1\u5305\u542b\u6709\uff1a\n\u2022         \u300a\u72c2\u91ce\u98c6\u8eca9\uff1a\u7af6\u901f\u50b3\u5947\u300b\u904a\u6232\n\u2022         30\u5f35\u8a2d\u8a08\u5716\u7528\u4f86\u89e3\u9396Ferrari F12tdf\n\u2022         45\u5f35\u8a2d\u8a08\u5716\u7528\u4f86\u89e3\u9396Aston Martin Vulcan\n\u2022         40\u5f35\u8a2d\u8a08\u5716\u7528\u4f86\u89e3\u9396SCG 003S\n\u2022         30\u5f35\u8a2d\u8a08\u5716\u7528\u4f86\u89e3\u9396SIN R1 550\n\u2022         45\u5f35\u8a2d\u8a08\u5716\u7528\u4f86\u89e3\u9396Dodge Viper GTS\n\u2022         300,000\u9ede\u984d\u5ea6 \n\u2022         200\u679a\u4ee3\u5e63",
+        "languages": null,
+        "size": 2727346176
     },
     "70070000010257": {
         "id": null,
