@@ -30166,7 +30166,8 @@
             "fd0e40d4a90f2397f8adb3e2c719f09f6464b32c53f7657ab3c4cd5f50997b55": {
                 "source": "041F0000 5AF9A940 44A70000",
                 "title": "[Infinite health]"
-            }
+            },
+            "version": 0
         },
         "E601D29108935CBA": {
             "1a46d63fe6dcae9e4f5fa988a7cae249ec0f92c268169f2d5d7aa5d3c30c9cfa": {
@@ -40543,7 +40544,8 @@
             "7bc4fcfe93de40811009d10a1b02b1f870c475676f1f04ce49cfcad4a26eb09e": {
                 "source": "58000000 0378FF10\n58001000 000000B8\n58001000 00000000\n78000000 0000005C\n64000000 00000000 00000DAC",
                 "title": "[Inf Life]"
-            }
+            },
+            "version": 0
         }
     },
     "0100C7600F654000": {
