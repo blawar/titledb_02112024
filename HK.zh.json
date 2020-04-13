@@ -8162,7 +8162,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c7662b39186ab54fecb71774f025b2a04ac4418cd051962747fc0098f2b4a918.jpg",
         "intro": "\u81ea\u6240\u6709\u9ed1\u6697\u4e2d\u751f\u9084",
-        "description": "\u751f\u5316\u5371\u6a5f\u7684\u300c\u6050\u6016\u300d\u5c07\u518d\u9032\u4e00\u6b65\u6607\u83ef\u3002\u751f\u5316\u6050\u6016\u8972\u64ca\u5df2\u8513\u5ef6\u5230\u5317\u6b50\u3001\u7f8e\u570b\u3001\u4ee5\u53ca\u4e2d\u570b\uff0c\u672c\u4f5c\u5206\u5225\u4ee57\u540d\u4e3b\u89d2\u548c4\u500b\u6545\u4e8b\u53bb\u63cf\u5beb\u9019\u5834\u5df2\u767c\u5c55\u5230\u4e16\u754c\u898f\u6a21\u7684\u751f\u5316\u707d\u96e3\u3002\u5145\u6eff\u8457\u300c\u6050\u6016\u300d\u3001\u300c\u8208\u596e\u300d\u548c\u300c\u611f\u52d5\u300d\u7684\u6545\u4e8b\u5c07\u6232\u5287\u6027\u5730\u4e92\u76f8\u4ea4\u932f\u3002\n\n\u672c\u4f5c\u4ee5\u300c\u5b8c\u5168\u7248\u300d\u7684\u5f62\u5f0f\u767b\u5834\uff0c\u9664\u4e86\u53ef\u6700\u591a4\u4eba\u904a\u73a9\u7684CO-OP\uff08\u5354\u529b\u904a\u73a9\uff09\u5916\uff0c\u66f4\u7db2\u7f85\u4e86\u6240\u6709\u984d\u5916\u5167\u5bb9\uff0c\u5305\u62ec\u6700\u591a\u53ef6\u4eba\u904a\u73a9\u7684\u300cSurvivor\u300d\u6a21\u5f0f\u3002",
+        "description": "\u751f\u5316\u5371\u6a5f\u7684\u300c\u6050\u6016\u300d\u5c07\u518d\u9032\u4e00\u6b65\u6607\u83ef\u3002\u751f\u5316\u6050\u6016\u8972\u64ca\u5df2\u8513\u5ef6\u5230\u5317\u6b50\u3001\u7f8e\u570b\u3001\u4ee5\u53ca\u4e2d\u570b\uff0c\u672c\u4f5c\u5206\u5225\u4ee57\u540d\u4e3b\u89d2\u548c4\u500b\u6545\u4e8b\u53bb\u63cf\u5beb\u9019\u5834\u5df2\u767c\u5c55\u5230\u4e16\u754c\u898f\u6a21\u7684\u751f\u5316\u707d\u96e3\u3002\u5145\u6eff\u8457\u300c\u6050\u6016\u300d\u3001\u300c\u8208\u596e\u300d\u548c\u300c\u611f\u52d5\u300d\u7684\u6545\u4e8b\u5c07\u6232\u5287\u6027\u5730\u4e92\u76f8\u4ea4\u932f\u3002\n\n\u672c\u4f5c\u4ee5\u300c\u5b8c\u5168\u7248\u300d\u7684\u5f62\u5f0f\u767b\u5834\uff0c\u5354\u529b\u904a\u73a9\u65b9\u9762\u53ef\u8207\u4e00\u540d\u670b\u53cbCO-OP\u5408\u4f5c\u904a\u73a9\uff0c\u800c\u7279\u5b9a\u5834\u9762\u4e2d\u66f4\u53ef\u8207\u7d20\u672a\u8b00\u9762\u7684\u73a9\u5bb6(\u6700\u591a4\u540d)\u4e00\u540c\u904a\u73a9\u3002\u540c\u6642\u7db2\u7f85\u6700\u591a\u53ef6\u4eba\u5408\u4f5c\u7684\u300cSurvivor\u300d\u6a21\u5f0f\u7b49\u984d\u5916\u5167\u5bb9\u3002\u5287\u60c5\u8207\u904a\u6232\u7684\u898f\u6a21\u5747\u70ba\u7cfb\u5217\u6700\u5927\u3002",
         "languages": [
             "ja",
             "en",
@@ -40018,12 +40018,19 @@
         "publisher": "SEGA",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0c076ca445a7cb76ee7af052840396b3593f6fdc66d800bb3cb022cc91d57883.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b04dc7b7a3d808f96b2c1938c2b94dc8ec8ca40ef77d8ba4007966b4af6bd3c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c337ac96abc0f72f98cec4e00090a43d945512345f148583eba90f867c5a80c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/875dc45c6573ebfe80e23bc7fd2d41cd2eeffb0e042065d1e0e246e40e668bec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09bbecdaf91b9896fe84b5baf97bf2e5ce73d99ed8485fa99ee5a2f0dcccc6d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69157f90b9d792e16f03cd37321aa40614fe78cf9510ee221d4e718f55ff6e26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7822ffd94266f5e14f145fb2ec329a072ca4ad16a2f5b29baef8b9f86d4b14b5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c472b6dd442f2ae0434653bc86ac6d042a25bf6dd30b4d1e06caa9b8678c3112.jpg",
         "intro": null,
-        "description": "\u53ef\u5728\u300e\u521d\u97f3\u672a\u4f86 Project DIVA MEGA39's\u300f\u904a\u73a9\u8ffd\u52a0\u6a02\u66f2\u7684\u4e0b\u8f09\u5167\u5bb9\u3002",
+        "description": "\u53ef\u5728\u300e\u521d\u97f3\u672a\u4f86 Project DIVA MEGA39's\u300f\u904a\u73a9\u300cWORLD'S END UMBRELLA\u300d\u3001\u300c\u604b\u30b9\u30eb\uff36\uff2f\uff23\uff20\uff2c\uff2f\uff29\uff24\u300d\u3001\u300c\u795e\u66f2\u300d\u3001\u300cYellow\u300d\u3001\u300c\u30cd\u30ac\u30dd\u30b8\uff0a\u30b3\u30f3\u30c6\u30a3\u30cb\u30e5\u30fc\u30ba\u300d\u4ee5\u53ca\u300cSING\uff06SMILE\u300d\u51716\u9996\u6a02\u66f2\u7684\u8ffd\u52a0\u6a02\u66f2\u5305\u3002",
         "languages": null,
-        "size": 4194304
+        "size": 828375040
     },
     "70050000019287": {
         "id": "0100F3100DA47006",
@@ -40043,12 +40050,19 @@
         "publisher": "SEGA",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa0443c9c63f4bca25b66864174b8fd57b7a6ce2eb286f926c47700934f9ca57.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1bcd4cb5d4d6b4b7f649be1d80fac71590da966bd18e78d8bdd2f71f376eb3a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74c32461d596534753dd403226974be4a3176914cf9d2011d561aa96ae35a507.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8b8f1939644fcdb82261d8b672eebf041fc3697d03618505959a8de7c2a5a62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7e21a5e115c76e55b2daa9e017623924457e1c4a2ac81d6bcaf7d16d2d79578.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e9ed219bdd0f906bdbe351e2cd84e1e18217fa57314bee797f0c7a949a232144.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d25a01fb52f1f6bc4cd1670c9aed6ef725a2ce2d8969bd9b7a448724ee036fe8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bad256e320fd468f701991911390dd4117c6fe667c004ce0b8fcfbec7ba062e8.jpg",
         "intro": null,
-        "description": "\u53ef\u5728\u300e\u521d\u97f3\u672a\u4f86 Project DIVA MEGA39's\u300f\u904a\u73a9\u8ffd\u52a0\u6a02\u66f2\u7684\u4e0b\u8f09\u5167\u5bb9\u3002",
+        "description": "\u53ef\u5728\u300e\u521d\u97f3\u672a\u4f86 Project DIVA MEGA39's\u300f\u904a\u73a9\u300c\u6b4c\u306b\u5f62\u306f\u306a\u3044\u3051\u308c\u3069\u300d\u3001\u300cDear\u300d\u3001\u300c\u3069\u3046\u3044\u3046\u3053\u3068\u306a\u306e\uff01\uff1f\u300d\u3001\u300c\u30af\u30ed\u30fc\u30d0\u30fc\u30fb\u30af\u30e9\u30d6\u300d\u3001\u300c\u30ea\u30f3\u3061\u3083\u3093\u306a\u3046\uff01\u300d\u4ee5\u53ca\u300c\u6df1\u6d77\u30b7\u30c6\u30a3\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9\u300d\u51716\u9996\u6a02\u66f2\u7684\u8ffd\u52a0\u6a02\u66f2\u5305\u3002",
         "languages": null,
-        "size": 4194304
+        "size": 402653184
     },
     "70050000019289": {
         "id": "0100F3100DA47003",
