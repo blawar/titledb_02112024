@@ -8,19 +8,14 @@
 
 [`cnmts.json`](cnmts.json) - Mapped by titleId
 
-[`demos.txt`](demos.txt) - titleId|region|nsuId
-
-[`ncas.json`](ncas.json) - Mapped by NCA id
+[`ncas.json`](ncas.json) - Mapped by NCA
 
 [`titles.US.en.json`](titles.US.en.json) - Mapped by titleId, used for [Tinfoil](https://tinfoil.io/Download#download)
 
 [`versions.json`](versions.json) - Mapped by titleId, includes version history
 
-[`versions.txt`](versions.txt) - titleId|rightsId|version (legacy)
 
-
-
-### Blacklisted Titles
+### Online-only titles
 
 ```
 010023900AEE0800|Paladins
