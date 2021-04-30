@@ -8145,9 +8145,8 @@
             "Rompecabezas"
         ],
         "ratingContent": [
-            "Sangre",
-            "Uso de alcohol",
-            "Violencia"
+            "Derramamiento de sangre",
+            "Violencia de fantasia"
         ],
         "numberOfPlayers": 1,
         "rating": 13,
@@ -23939,6 +23938,66 @@
         "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abpi de lim\u00f3n\u00bb de ximena! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
         "languages": null,
         "size": 33554432
+    },
+    "70050000026643": {
+        "id": "0100E1F01367506D",
+        "rightsId": null,
+        "name": "Anthrax - \"Among The Living\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210429,
+        "nsuId": 70050000026643,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fca987e19455897fdcab2658f6dc9f5939d150305c8955fd79ffbc82f692a9f8.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abAmong The Living\u00bb de Anthrax! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 8388608
+    },
+    "70050000026644": {
+        "id": "0100E1F01367506E",
+        "rightsId": null,
+        "name": "The Offspring - \"Self Esteem\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210429,
+        "nsuId": 70050000026644,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eaaa35864bb8716e382c2f0a5f7aaa52608ea4875807af03561ef0e52f589b29.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abSelf Esteem\u00bb de The Offspring! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 10485760
     },
     "70070000000041": {
         "id": null,
