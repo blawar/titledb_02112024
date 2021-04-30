@@ -8145,9 +8145,8 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Blood",
-            "Use of Alcohol",
-            "Violence"
+            "Blood and Gore",
+            "Fantasy Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 13,
@@ -23939,6 +23938,66 @@
         "description": "Expand your FUSER\u2122 library with \"pi de lim\u00f3n\" by ximena! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
         "languages": null,
         "size": 33554432
+    },
+    "70050000026643": {
+        "id": "0100E1F01367506D",
+        "rightsId": null,
+        "name": "Anthrax - \"Among The Living\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210429,
+        "nsuId": 70050000026643,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fca987e19455897fdcab2658f6dc9f5939d150305c8955fd79ffbc82f692a9f8.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Among The Living\" by Anthrax! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 8388608
+    },
+    "70050000026644": {
+        "id": "0100E1F01367506E",
+        "rightsId": null,
+        "name": "The Offspring - \"Self Esteem\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210429,
+        "nsuId": 70050000026644,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eaaa35864bb8716e382c2f0a5f7aaa52608ea4875807af03561ef0e52f589b29.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Self Esteem\" by The Offspring! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 10485760
     },
     "70070000000041": {
         "id": null,
