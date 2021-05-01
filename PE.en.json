@@ -7266,6 +7266,50 @@
         ],
         "size": 4155506688
     },
+    "70010000028811": {
+        "id": "0100FA10115F8000",
+        "rightsId": null,
+        "name": "STAR WARS\u2122 Republic Commando\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210430,
+        "nsuId": 70010000028811,
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Aspyr",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f1ca819bfcebaf47dd5915853e061419c0ed36c205c480e573af043270b04b8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d7fda5e66dae5909cfdd8147c242fe7df00afefc84f97eb6b370a1e217b2ba48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/47022dfd7f1ce602ecd7c4a211efa2d3ec914fd68d05d277638754bd55f66d25.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d99c5dd5a57acc3ecf5a913627d170dc6f108cf356d8cbbd4c47609087782b76.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ba73c92e7bcdc0f41e690f331417bbcb78bf5773415e149501409539432ed7b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5cff95af467de5748f727f7fe98aa93512db0b67b6035fc24ae7848a2c7941bd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fab1f19dc8fff23549c8650e11b9f3f3758e4cfbb470b76481982d685fda830d.jpg",
+        "intro": "The squad is your weapon",
+        "description": "Boss, Fixer, Scorch, and Sev, better known as Delta Squad, are back on Nintendo Switch\u2122! Relive the legendary campaign.\n\nWelcome to the Clone Wars: Chaos has erupted throughout the galaxy. As leader of an elite squad of Republic Commandos, your mission is to infiltrate, dominate, and ultimately annihilate the enemy. \n\nBattle Relentless Enemies: Battle a variety of highly intelligent and deadly enemies\u2014from brutal Trandoshan mercenaries to the flying insectoid warriors of Geonosis.\n\nThe Squad is Your Weapon: Your squad will follow your orders, performing complex commands and strategic maneuvers. You are their leader. They are your weapon.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "zh"
+        ],
+        "size": 2703228928
+    },
     "70010000028872": {
         "id": "0100626011656000",
         "rightsId": null,
@@ -8676,7 +8720,7 @@
             "zh",
             "zh"
         ],
-        "size": 953155584
+        "size": 961544192
     },
     "70010000035838": {
         "id": "0100A12011CC8000",
@@ -22765,7 +22809,7 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c7d3b01fd6df2486a1fd1f45e9314b2d1a29cc52594cc790a36507cccde0ec3.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9386b75975a6343595972d812cc952e12a5e9acc3efd1596fe27ab4e4e56ee19.jpg",
         "intro": null,
         "description": "Expand your FUSER\u2122 library with \"Numb\" by Linkin Park! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
         "languages": null,
