@@ -3959,6 +3959,53 @@
         ],
         "size": 12700352512
     },
+    "70010000016211": {
+        "id": "0100F9F00C696000",
+        "rightsId": null,
+        "name": "Crash\u2122 Team Racing Nitro-Fueled",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210504,
+        "nsuId": 70010000016211,
+        "category": [
+            "Racing",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d5c9d185a4a4aeab98c00f06f018db41f48ccd02d257ec99cc9873eefb5572ea.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4709ce1e511743e910f42d51bdf44c3ebbaeb08417d618c0d41e544f2a7d6869.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c09a921bfa3f9aeaf267192ca59524ef5a60959da9b54a9eaed77cf2a090af4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/420ff4cbb9ff456c938156a9bd776a234a1801808a38da9c2667c3f249b9a4f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bef3a359091d1fe023384cd517140533cdb822d7ce59906af21c2f9119d8a47a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/598411952ca3ba3d24aa3a473331a3f644ff9bd6d136a2abd989e1c083658930.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7b20b8d5ca0ce8cd0818fa574798e2a2f1bc9d0d97910541fcac1ae315d0b8f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/54604e9a2dfd69c7cacef0faf07b2189b9f31c746655590e011a533eb7f79b8d.jpg",
+        "intro": "Crash is back in the driver's seat in Crash\u2122 Team Racing Nitro-Fueled!",
+        "description": "Crash is back in the driver\u2019s seat! Get ready to go fur-throttle with Crash\u2122 Team Racing Nitro-Fueled. It\u2019s the authentic CTR experience plus a whole lot more, now fully-remastered and revved up to the max:\n\n- Start your engines with the original game modes, characters, tracks, power-ups, weapons and controls\n- Power slide to glory in additional karts, tracks and arenas from Crash\u2122 Nitro Kart\n- Race online with friends and Crash the competition with online leaderboards\n- Customize your ride and swag out your racer with n. sane kart items and skins\n\nWith Crash\u2122 Team Racing Nitro-Fueled, the stakes are high and the competition is fierce. It's the CTR you love, now kicked into the highest gear.\n\nINTERNET REQUIRED for Wumpa Coins, Grand Prix, online Multiplayer and other features.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it"
+        ],
+        "size": 9953083392
+    },
     "70010000016330": {
         "id": "0100A5C00D162000",
         "rightsId": null,
@@ -5826,7 +5873,7 @@
             "nl",
             "ru"
         ],
-        "size": 17328766976
+        "size": 17619222528
     },
     "70010000022226": {
         "id": "01002C000E35E000",
@@ -12245,6 +12292,64 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/58c62ee1c33ffd40d81b3ba3e35ff29c6b71cb1dc60e250724993ef3cd694129.jpg",
         "intro": null,
         "description": "Players who purchase the Mortal Kombat\u00a011 Kombat Pack receive this exclusive playable Johnny Cage Skin. Ninja Mime, one of actor Johnny Cage's most iconic roles, is legendary in the Mortal Kombat Universe. Ninja Mime Johnny Cage - Silent. But Deadly!",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000011701": {
+        "id": "0100F9F00C697002",
+        "rightsId": null,
+        "name": "Crash\u2122 Team Racing Nitro-Fueled - Electron Skins Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210504,
+        "nsuId": 70050000011701,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2cd50aa5fb601fa46626ff2c5796702fbee7a58be3ffe398e4cc89a5b355bdcf.jpg",
+        "intro": "Crash is back in the driver's seat in Crash\u2122 Team Racing Nitro-Fueled!",
+        "description": "Includes:\n\n- Electron Skins Pack - - consists of the Crash, Coco & Cortex Electron Skins, each with a unique podium animation",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000011704": {
+        "id": "0100F9F00C697001",
+        "rightsId": null,
+        "name": "Crash\u2122 Team Racing Nitro-Fueled - Nitros Oxide Edition Content",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210504,
+        "nsuId": 70050000011704,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f9d653bf331016b3d0a2a7fe31533eba83b36466810a9dc7071a1c510f9e4d21.jpg",
+        "intro": "Crash is back in the driver's seat in Crash\u2122 Team Racing Nitro-Fueled!",
+        "description": "The Crash\u2122 Team Racing Nitro-Fueled - Nitros Oxide Edition content includes:\n\n- Nitros Oxide, Crunch, Zem and Zam characters*\n- Nitros Oxide Hovercraft kart*\n- Exclusive Star Skins Pack: Nitros Oxide, Crash, Coco, Cortex Star Skins with unique podium animations\n- Exclusive Crunch Robot Skin with unique podium animation\n- Exclusive kart paintjob\n- Exclusive kart sticker pack\n- Exclusive Hovercraft kart decal\n\n*Also able to be unlocked in standard version of game through in-game challenges and rewards.",
         "languages": null,
         "size": 4194304
     },
@@ -24491,6 +24596,42 @@
         "languages": null,
         "size": 54525952
     },
+    "70070000005723": {
+        "id": null,
+        "rightsId": null,
+        "name": "Crash\u2122 Team Racing Nitro-Fueled - Nitros Oxide Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210504,
+        "nsuId": 70070000005723,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4709ce1e511743e910f42d51bdf44c3ebbaeb08417d618c0d41e544f2a7d6869.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c09a921bfa3f9aeaf267192ca59524ef5a60959da9b54a9eaed77cf2a090af4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/420ff4cbb9ff456c938156a9bd776a234a1801808a38da9c2667c3f249b9a4f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bef3a359091d1fe023384cd517140533cdb822d7ce59906af21c2f9119d8a47a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/598411952ca3ba3d24aa3a473331a3f644ff9bd6d136a2abd989e1c083658930.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7b20b8d5ca0ce8cd0818fa574798e2a2f1bc9d0d97910541fcac1ae315d0b8f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/da8fbfdb0b8106223e51bb6dd8dafe7c1836fac4e3458106a7ca2a8a9644acae.jpg",
+        "intro": "Crash is back in the driver's seat in Crash\u2122 Team Racing Nitro-Fueled!",
+        "description": "Purchase the Nitros Oxide Edition and play as the infamous Nitros Oxide from day one in all game modes. Includes:\n\n- Crash\u2122 Team Racing Nitro-Fueled - Full Game\n- Nitros Oxide, Crunch, Zem and Zam characters*\n- Hovercraft kart*\n- Exclusive Nitros Oxide, Crash, Coco and Cortex Star Skins with unique podium animations\n- Exclusive Crunch Robot Skin with unique podium animation\n- Exclusive kart paintjob, kart sticker pack, Hovercraft kart decal\n- Crash, Coco and Cortex Electron Skins\n\n*Also able to be unlocked in standard version of game through in-game challenges and rewards.\n\nINTERNET REQUIRED for Wumpa Coins, online Multiplayer, access to the Pit Stop, the Wumpa Challenge system and other features.",
+        "languages": null,
+        "size": 9961472000
+    },
     "70070000006021": {
         "id": null,
         "rightsId": null,
@@ -26132,7 +26273,7 @@
         "intro": null,
         "description": "Receive the game, season pass, and exclusive in-game content with the Gold Edition. \n\nImmortals Fenyx Rising\u2122 brings grand mythological adventure to life. Play as Fenyx, a new, winged demigod, on a quest to save the Greek gods. \n\n- Wield the powers of the gods like Achilles' sword and Daidalos' wings to battle powerful enemies and solve ancient puzzles.\n- Fight iconic mythological beasts like Cyclops and Medusa in dynamic combat in the air and on the ground. \n- Use your skills and diverse weapons, including self-guided arrows, telekinesis, and more, for devastating damage.  \n- Discover a stylized open world across seven unique regions, each inspired by the gods.",
         "languages": null,
-        "size": 17328766976
+        "size": 17619222528
     },
     "70070000011395": {
         "id": null,

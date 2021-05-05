@@ -4010,6 +4010,53 @@
         ],
         "size": 12700352512
     },
+    "70010000016211": {
+        "id": "0100F9F00C696000",
+        "rightsId": null,
+        "name": "Crash\u2122 Team Racing Nitro-Fueled",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210504,
+        "nsuId": 70010000016211,
+        "category": [
+            "Carreras",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d5c9d185a4a4aeab98c00f06f018db41f48ccd02d257ec99cc9873eefb5572ea.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4709ce1e511743e910f42d51bdf44c3ebbaeb08417d618c0d41e544f2a7d6869.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c09a921bfa3f9aeaf267192ca59524ef5a60959da9b54a9eaed77cf2a090af4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/420ff4cbb9ff456c938156a9bd776a234a1801808a38da9c2667c3f249b9a4f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bef3a359091d1fe023384cd517140533cdb822d7ce59906af21c2f9119d8a47a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/598411952ca3ba3d24aa3a473331a3f644ff9bd6d136a2abd989e1c083658930.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7b20b8d5ca0ce8cd0818fa574798e2a2f1bc9d0d97910541fcac1ae315d0b8f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42e19e54236ae4dd4acde38bc7f4c4d229c8bb0599b7ad07f92245fcf1fd7e1a.jpg",
+        "intro": "\u00a1Crash regresa al volante en Crash\u2122 Team Racing Nitro-Fueled!",
+        "description": "\u00a1Crash vuelve al volante! Prep\u00e1rate para desmelenarte con Crash\u2122 Team Racing Nitro-Fueled. La aut\u00e9ntica experiencia de CTR y mucho m\u00e1s contenido remasterizado al m\u00e1ximo de revoluciones:\n\n- Calienta motores con los modos de juego, personajes, circuitos, potenciadores, armas y controles originales\n- Superderrapa hacia la gloria con karts, arenas y circuitos adicionales de Crash\u2122 Nitro Kart\n- Compite online con tus amigos y arrasa con la competencia en las clasificaciones online\n- Personaliza tu veh\u00edculo y tu personaje con objetos para karts y aspectos de locura\n\nEn Crash\u2122 Team Racing Nitro-Fueled, el riesgo es elevado y los rivales muy duros. Es el CTR de siempre pero a toda potencia.\n\nSE NECESITA INTERNET para las monedas Wumpa, el Gran Premio, el multijugador online y otras funciones.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it"
+        ],
+        "size": 9953083392
+    },
     "70010000016330": {
         "id": "0100A5C00D162000",
         "rightsId": null,
@@ -5989,7 +6036,7 @@
             "nl",
             "ru"
         ],
-        "size": 17328766976
+        "size": 17619222528
     },
     "70010000022226": {
         "id": "01002C000E35E000",
@@ -12408,6 +12455,64 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/58c62ee1c33ffd40d81b3ba3e35ff29c6b71cb1dc60e250724993ef3cd694129.jpg",
         "intro": null,
         "description": "Los jugadores que adquieran el Paquete de Kombate recibir\u00e1n esta skin jugable exclusiva de Johnny Cage. El Mimo ninja, uno de los papeles m\u00e1s emblem\u00e1ticos del actor Johnny Cage, es legendario en el universo de Mortal Kombat. Johnny Cage Mimo ninja: silencioso pero mortal.\n\n",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000011701": {
+        "id": "0100F9F00C697002",
+        "rightsId": null,
+        "name": "Crash\u2122 Team Racing Nitro-Fueled - Paquete de aspectos electr\u00f3n",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210504,
+        "nsuId": 70050000011701,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2cd50aa5fb601fa46626ff2c5796702fbee7a58be3ffe398e4cc89a5b355bdcf.jpg",
+        "intro": "\u00a1Crash regresa al volante en Crash\u2122 Team Racing Nitro-Fueled!",
+        "description": "Incluye:\n\n- Paquete de aspectos electr\u00f3n: aspectos electr\u00f3n de Crash, Coco y Cortex, cada uno con una animaci\u00f3n de podio \u00fanica",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000011704": {
+        "id": "0100F9F00C697001",
+        "rightsId": null,
+        "name": "Crash\u2122 Team Racing Nitro-Fueled - Contenido de la edici\u00f3n Nitros Oxide",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210504,
+        "nsuId": 70050000011704,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f9d653bf331016b3d0a2a7fe31533eba83b36466810a9dc7071a1c510f9e4d21.jpg",
+        "intro": "\u00a1Crash regresa al volante en Crash\u2122 Team Racing Nitro-Fueled!",
+        "description": "El contenido de Crash\u2122 Team Racing Nitro-Fueled - Edici\u00f3n Nitros Oxide incluye:\n\n- Personajes Nitros Oxide, Crunch, Zem y Zam*\n- Kart aerodeslizador de Nitros Oxide*\n- Paquete de aspectos estrella exclusivos: Aspectos estrella de Nitros Oxide, Crash, Coco y Cortex con animaciones de podio \u00fanicas\n- Aspecto Crunch robot exclusivo con animaci\u00f3n de podio \u00fanica\n- Dise\u00f1o de pintura de kart exclusivo\n- Paquete de calcoman\u00edas para kart exclusivo\n- Dise\u00f1o de kart aerodeslizador exclusivo\n\n*Tambi\u00e9n se puede desbloquear en la versi\u00f3n est\u00e1ndar mediante desaf\u00edos y recompensas del juego.",
         "languages": null,
         "size": 4194304
     },
@@ -24690,6 +24795,42 @@
         "languages": null,
         "size": 54525952
     },
+    "70070000005723": {
+        "id": null,
+        "rightsId": null,
+        "name": "Crash\u2122 Team Racing Nitro-Fueled - Edici\u00f3n Nitros Oxide",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210504,
+        "nsuId": 70070000005723,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4709ce1e511743e910f42d51bdf44c3ebbaeb08417d618c0d41e544f2a7d6869.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c09a921bfa3f9aeaf267192ca59524ef5a60959da9b54a9eaed77cf2a090af4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/420ff4cbb9ff456c938156a9bd776a234a1801808a38da9c2667c3f249b9a4f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bef3a359091d1fe023384cd517140533cdb822d7ce59906af21c2f9119d8a47a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/598411952ca3ba3d24aa3a473331a3f644ff9bd6d136a2abd989e1c083658930.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7b20b8d5ca0ce8cd0818fa574798e2a2f1bc9d0d97910541fcac1ae315d0b8f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/da8fbfdb0b8106223e51bb6dd8dafe7c1836fac4e3458106a7ca2a8a9644acae.jpg",
+        "intro": "\u00a1Crash regresa al volante en Crash\u2122 Team Racing Nitro-Fueled!",
+        "description": "Compra Crash\u2122 Team Racing Nitro-Fueled - Nitros Oxide Edition y juega con el infame Nitros Oxide desde el primer d\u00eda en todos los modos de juego. Incluye:\n\n- Juego completo de Crash\u2122 Team Racing Nitro-Fueled\n- Personajes Nitros Oxide, Crunch, Zem y Zam*\n- Kart aerodeslizador*\n- Aspectos gal\u00e1cticos exclusivos de Nitros Oxide, Crash, Coco y Cortex con animaciones de podio \u00fanicas\n- Aspecto de robot exclusivo de Crunch con una animaci\u00f3n de podio \u00fanica\n- Pintura y calcoman\u00edas exclusivas para kart, dise\u00f1o para el kart aerodeslizador\n- Aspectos electr\u00f3n de Crash, Coco y Cortex\n\n*Tambi\u00e9n se puede desbloquear en la versi\u00f3n est\u00e1ndar mediante desaf\u00edos y recompensas del juego.\n\nSE NECESITA INTERNET para las monedas Wumpa, el Gran Premio, el Multijugador online y otras funciones.",
+        "languages": null,
+        "size": 9961472000
+    },
     "70070000006021": {
         "id": null,
         "rightsId": null,
@@ -26331,7 +26472,7 @@
         "intro": null,
         "description": "Receive the game, season pass, and exclusive in-game content with the Gold Edition. \n\nImmortals Fenyx Rising\u2122 brings grand mythological adventure to life. Play as Fenyx, a new, winged demigod, on a quest to save the Greek gods. \n\n- Wield the powers of the gods like Achilles' sword and Daidalos' wings to battle powerful enemies and solve ancient puzzles.\n- Fight iconic mythological beasts like Cyclops and Medusa in dynamic combat in the air and on the ground. \n- Use your skills and diverse weapons, including self-guided arrows, telekinesis, and more, for devastating damage.  \n- Discover a stylized open world across seven unique regions, each inspired by the gods.",
         "languages": null,
-        "size": 17328766976
+        "size": 17619222528
     },
     "70070000011395": {
         "id": null,
