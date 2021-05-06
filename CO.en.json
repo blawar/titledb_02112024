@@ -5723,7 +5723,7 @@
             "ru",
             "ko"
         ],
-        "size": 5575278592
+        "size": 5595201536
     },
     "70010000021451": {
         "id": "01006C300E9F0000",
@@ -8210,6 +8210,52 @@
         ],
         "size": 6182404096
     },
+    "70010000033855": {
+        "id": "01003B0012DC2000",
+        "rightsId": null,
+        "name": "Shin Megami Tensei III Nocturne HD Remaster",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210524,
+        "nsuId": 70010000033855,
+        "category": [
+            "RPG"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Partial Nudity",
+            "Sexual Themes",
+            "Strong Language",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8974a86b34c8a46f018f10cfb3cf3588e613b7ee835776f699f136bbfbab239f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b5e8b03913fe28dd633d755629eab3c75f96aee05f9a2a100cd51ef39d8d6938.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/614fa72b90d992ab067eda022e1f0c231c8b03737336190c0b6a3e97d80eafd5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14bcaaf4915b912b60b775c7d2e5a96e6d8a5db728b2235a4c5928da5a98933e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5909112608cc95aba5aa4142e458c7ec15b35988ab4939a39025fcf7f45ce3bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/59f2bb6211080a62f3479b83751fb3e4f47e01dd70b331d077e90c0788e2144a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b49bc6b392920a3656f8a658e347efa3c82026ab4e65736bab68b1a2828a0588.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f3ff5471e4a8bad77719046a37d2c144013bca985808f30d30a3ae1b20e6fa10.jpg",
+        "intro": "Reawaken your inner demon in a modernized version of the acclaimed ATLUS classic, Shin Megami Tensei III Nocturne HD Remaster.",
+        "description": "What begins as a normal day in Tokyo turns out to be everything but, when the Conception \u2013 an ethereal apocalypse \u2013 is invoked.  The remains of the world are swallowed by chaos, as a demonic revolution descends into a broken city.  Caught between a battle of Gods and demons, the choices you make can bring life, rebirth, or death, and determine who triumphs.  \n\nThis genre-defining, infamously punishing RPG is back and now includes: \nRemastered 3D models and backgrounds \nAdditional difficulty settings for players of all skill levels \nSuspend save -- save your progress whenever you need!  \nVoiced audio -- choose between Japanese and English VO ",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 9074376704
+    },
     "70010000034439": {
         "id": "010028600EBDA000",
         "rightsId": null,
@@ -8878,7 +8924,7 @@
             "zh",
             "zh"
         ],
-        "size": 3255828480
+        "size": 3276800000
     },
     "70010000038622": {
         "id": null,
@@ -9103,6 +9149,56 @@
             "zh"
         ],
         "size": 1733296128
+    },
+    "70010000041267": {
+        "id": "0100FA5010788000",
+        "rightsId": null,
+        "name": "Game Builder Garage\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210611,
+        "nsuId": 70010000041267,
+        "category": [
+            "Education",
+            "Training"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a2a960a0dcb94c28147c9d08aa320d74bb6d65fa8bc63d02857477c58ff05c51.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a638f5cafe20bc2869d8275a3a7a2260c1ae4792d146b02a66a19049711ead3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d557f603e9098e20a084ff6dbfa4f91a7705af376aebe71a8ea617b8e7e76a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0fd4c04e722c7783001d63675b65e93294abcade1c68dffb7f1b79eb61235aa3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/82d6969223bb03fb0df9e8f3e9e3f910c0fbe1aac8b69f2ad0b24556177ccb82.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e9ee697d666907757275b430c0cb3b0fb23a1aa962a13e4441cf5ba7a6169d0d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa690b301ea0e717977a39585d7f17796f57ab1b92e65c5b8a24aa95ca70b23d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/653a5c2486d798cfd89f240063f920736ba7fb9a71847c3feb54d601e61d304e.jpg",
+        "intro": "Programming made fun with help from the minds at Nintendo",
+        "description": "Turn gaming time into learning time with the Game Builder Garage software. Kids can learn how to make their own games with guided lessons created by Nintendo. From a simple game of tag to a run-and-jump obstacle course, each lesson is broken down into multiple, manageable segments that let kids go at their own pace\u2014and have fun in the process.\n\nLearn the basics of visual game programming \n\nBy playing through interactive lessons, kids will learn the basics of visual game programming. Nodon, colorful creatures with distinct personalities, keep kids engaged through lessons with tips and motivating messages. With a simple press of a button, swap between the programming screen and the game screen\u2014watch how programming changes the game on the fly.\n\nTrack progress and build confidence\n\nAfter completing each lesson and building a game, kids will test their knowledge by completing Checkpoints\u2014small puzzles or tasks to solve with programming. Master these skills and head to Free Programming mode to let your imagination (and programming chops) run wild.\n\nThe Nodon you meet each have distinct personalities that complement their functions. Have fun connecting them together to see how they interact and bring your game to life. The in-game Nodopedia lets you quickly check what each Nodon does as you create. There\u2019s also a guide that recaps important skills! Easily swap between the Programming and Game screens to see the hard-working Nodon in action.\n\nTake advantage of the Nintendo Switch system\u2019s many features. Instead of the control stick, program motion controls to control your game. Want to create some competition? Add in a multiplayer function and pass a Joy-Con\u2122 controller to a friend. It\u2019s up to you (and your Nodon friends) to decide what type of game you want to make.\n\nLooking for inspiration? Exchange codes and download* games from friends. You can even go into Free Programming mode to look at those downloaded games\u2019 programming and put your own twist on it. Upload your own creations and share them with other Game Builder Garage players*. Learn programming, build games, and share with friends!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1043333120
     },
     "70030000000341": {
         "id": null,
@@ -25396,7 +25492,7 @@
         "intro": null,
         "description": "\"Fight your way through an all-new action-adventure game, inspired by classic dungeon crawlers and set in the Minecraft universe! Brave the dungeons alone, or team up with friends! Up to four players can battle together through action-packed, treasure-stuffed, wildly varied levels \u2013 all in an epic quest to save the villagers and take down the evil Arch-Illager!.\n\nThe Hero Edition includes the Jungle Awakens DLC, Creeping Winter DLC, a Hero Cape, two player skins, and a chicken pet.\n\n\u2022\tUNITE - Up to four players can team up and fight together in co-op mode. \n\u2022\tFIGHT - Personalize your character, then fight up-close and personal with melee swings, hang back with ranged attacks, or tank your way through swarms of mobs, shielded by heavy armour! Unlock dozens of unique items and weapon enchantments for devastating special attacks. \n\u2022\tSURVIVE - Explore action-packed, treasure-stuffed levels in a quest to save the villagers and take down the evil Arch-Illager!. \"\n",
         "languages": null,
-        "size": 5587861504
+        "size": 5607784448
     },
     "70070000008805": {
         "id": null,

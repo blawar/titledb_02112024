@@ -5886,7 +5886,7 @@
             "ru",
             "ko"
         ],
-        "size": 5575278592
+        "size": 5595201536
     },
     "70010000021451": {
         "id": "01006C300E9F0000",
@@ -8373,6 +8373,52 @@
         ],
         "size": 6182404096
     },
+    "70010000033855": {
+        "id": "01003B0012DC2000",
+        "rightsId": null,
+        "name": "Shin Megami Tensei III Nocturne HD Remaster",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210524,
+        "nsuId": 70010000033855,
+        "category": [
+            "Juego de rol"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Desnudez parcial",
+            "Temas sexuales",
+            "Lenguaje fuerte",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8974a86b34c8a46f018f10cfb3cf3588e613b7ee835776f699f136bbfbab239f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b5e8b03913fe28dd633d755629eab3c75f96aee05f9a2a100cd51ef39d8d6938.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/614fa72b90d992ab067eda022e1f0c231c8b03737336190c0b6a3e97d80eafd5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14bcaaf4915b912b60b775c7d2e5a96e6d8a5db728b2235a4c5928da5a98933e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5909112608cc95aba5aa4142e458c7ec15b35988ab4939a39025fcf7f45ce3bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/59f2bb6211080a62f3479b83751fb3e4f47e01dd70b331d077e90c0788e2144a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b49bc6b392920a3656f8a658e347efa3c82026ab4e65736bab68b1a2828a0588.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f3ff5471e4a8bad77719046a37d2c144013bca985808f30d30a3ae1b20e6fa10.jpg",
+        "intro": "Vuelve a despertar tu demonio interior en una versi\u00f3n actualizada del aclamado cl\u00e1sico de ATLUS, Shin Megami Tensei III Nocturne HD Remaster.  ",
+        "description": "Lo que empieza como un d\u00eda normal en Tokio, resulta ser todo menos eso cuando se invoca la Concepci\u00f3n, un apocalipsis et\u00e9reo.  Lo que queda del mundo termina sumido en el caos, mientras una revoluci\u00f3n demon\u00edaca desciende sobre una ciudad en ruinas.  En medio de una batalla entre dioses y demonios, las decisiones que tomes pueden traer vida, renacimiento o muerte, y determinar qui\u00e9n sale triunfante.  \n\nEste famoso y despiadado RPG est\u00e1 de regreso y ahora incluye: \nModelos 3D y fondos remasterizados \nConfiguraciones de dificultad adicionales para jugadores de todos los niveles \nGuardado suspendido: \u00a1guarda tu progreso cuando lo necesites!  \nAudio de voz: elige entre voces en japon\u00e9s e ingl\u00e9s ",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 9074376704
+    },
     "70010000034439": {
         "id": "010028600EBDA000",
         "rightsId": null,
@@ -9041,7 +9087,7 @@
             "zh",
             "zh"
         ],
-        "size": 3255828480
+        "size": 3276800000
     },
     "70010000038622": {
         "id": null,
@@ -9266,6 +9312,56 @@
             "zh"
         ],
         "size": 1733296128
+    },
+    "70010000041267": {
+        "id": "0100FA5010788000",
+        "rightsId": null,
+        "name": "Game Builder Garage\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210611,
+        "nsuId": 70010000041267,
+        "category": [
+            "Educativo",
+            "Entrenamiento"
+        ],
+        "ratingContent": [
+            "Violencia moderada de fantasia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a2a960a0dcb94c28147c9d08aa320d74bb6d65fa8bc63d02857477c58ff05c51.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a638f5cafe20bc2869d8275a3a7a2260c1ae4792d146b02a66a19049711ead3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d557f603e9098e20a084ff6dbfa4f91a7705af376aebe71a8ea617b8e7e76a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0fd4c04e722c7783001d63675b65e93294abcade1c68dffb7f1b79eb61235aa3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/82d6969223bb03fb0df9e8f3e9e3f910c0fbe1aac8b69f2ad0b24556177ccb82.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e9ee697d666907757275b430c0cb3b0fb23a1aa962a13e4441cf5ba7a6169d0d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa690b301ea0e717977a39585d7f17796f57ab1b92e65c5b8a24aa95ca70b23d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/653a5c2486d798cfd89f240063f920736ba7fb9a71847c3feb54d601e61d304e.jpg",
+        "intro": "Disfruta programando en compa\u00f1\u00eda con la ayuda de las mentes de Nintendo",
+        "description": "Transforma el tiempo de juego en tiempo de aprendizaje con el programa Game Builder Garage. Los ni\u00f1os podr\u00e1n aprender a crear sus propios juegos con las lecciones guiadas y creadas por Nintendo. Desde un simple juego de huida hasta una carrera de obst\u00e1culos, cada lecci\u00f3n se divide en m\u00faltiples segmentos que les permitir\u00e1 a los ni\u00f1os avanzar a su propio ritmo y divertirse en el proceso.\n\nConoce la base de la programaci\u00f3n visual de los juegos\n\nAl jugar a trav\u00e9s de las lecciones interactivas, los ni\u00f1os aprender\u00e1n los conceptos b\u00e1sicos de la programaci\u00f3n visual de juegos. Los nodon son coloridas criaturas con personalidades distintas que mantienen a los ni\u00f1os interesados con consejos y mensajes motivadores a trav\u00e9s de las lecciones. Con tan solo oprimir un bot\u00f3n, salta de la pantalla de programaci\u00f3n a la pantalla del juego, y observa como la programaci\u00f3n cambia el juego en un instante\n\nControla tu progreso y programa con confianza\n\nDespu\u00e9s de completar cada lecci\u00f3n y programar un juego, los ni\u00f1os podr\u00e1n poner a prueba sus conocimientos al completar los puntos control, peque\u00f1os rompecabezas o tareas para resolver programando. Domina estas habilidades, visita el modo de programaci\u00f3n libre y deja volar tu imaginaci\u00f3n (y tus habilidades de programaci\u00f3n).\n\nLos nodon tienen distintas personalidades que complementan sus funciones. Divi\u00e9rtete conect\u00e1ndolos para ver c\u00f3mo interact\u00faan y le dan vida a tu juego. La Nodopedia del juego te permite verificar r\u00e1pidamente la funci\u00f3n de cada nodon a medida que vayas creando. \u00a1Y tambi\u00e9n hay una gu\u00eda que ofrece un resumen de habilidades importantes! Salta de la pantalla de edici\u00f3n a la pantalla de juego para ver a los laboriosos nodon en acci\u00f3n.\n\nAprovecha la variedad de funciones de tu consola Nintendo Switch. En vez de utilizar la palanca de control, programa los controles de movimiento para maniobrar tu juego. \u00bfQuieres crear algo de competencia? A\u00f1ade la funci\u00f3n multijugador y comparte un control Joy-Con\u2122 con un amigo. T\u00fa decides (con la ayuda de tus amigos nodon) qu\u00e9 tipo de juego deseas crear.\n\n\u00bfBuscas inspiraci\u00f3n? Intercambia c\u00f3digos y descarga* los juegos de tus amigos. Puedes incluso dirigirte al modo de libre programaci\u00f3n para ver la programaci\u00f3n detr\u00e1s de los juegos que descargaste y agregarles tu toque personal. Sube tus propias creaciones y comp\u00e1rtelas con otros jugadores de Game Builder Garage. \u00a1Aprende a programar, crea juegos y comparte con tus amigos!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1043333120
     },
     "70030000000341": {
         "id": null,
@@ -25595,7 +25691,7 @@
         "intro": null,
         "description": "\"\u00a1Disfruta un juego de acci\u00f3n y aventura, inspirado en los cl\u00e1sicos de mazmorras y basado en el universo de Minecraft! \u00a1Recorre las mazmorras por tu cuenta o con tus amigos! Hasta cuatro jugadores pueden recorrer los diferentes niveles llenos de acci\u00f3n y tesoros para salvar a los aldeanos y derrotar al malvado Archillano.\n\nLa edici\u00f3n de h\u00e9roe incluye el contenido descargable La jungla se despierta, el contenido descargable El Invierno Rastrero, una capa de h\u00e9roe, dos aspectos de jugador y una gallina mascota.\n\n\u2022\tARMA TU EQUIPO: Hasta cuatro jugadores pueden combatir juntos en modo cooperativo. \n\u2022\tPREP\u00c1RATE PARA EL COMBATE: \u00a1Personaliza tu personaje y pelea con las armas cuerpo a cuerpo, utiliza los ataques a distancia o arremete contra las hordas de criaturas con armaduras pesadas! Desbloquea varias docenas de objetos \u00fanicos y encantamientos de armas para hacer ataques especiales devastadores. \n\u2022\tSOBREVIVE: \u00a1Explora los niveles llenos de acci\u00f3n y tesoros para salvar a los aldeanos y derrotar al malvado Archillano!\"\n",
         "languages": null,
-        "size": 5587861504
+        "size": 5607784448
     },
     "70070000008805": {
         "id": null,
