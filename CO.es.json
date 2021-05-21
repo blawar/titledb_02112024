@@ -8663,7 +8663,7 @@
             "zh",
             "zh"
         ],
-        "size": 11700011008
+        "size": 11759779840
     },
     "70010000035030": {
         "id": "0100073011382000",
@@ -10339,7 +10339,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 1435500544,
+        "size": 1457520640,
         "parentId": "01003DA010E8A000"
     },
     "70050000000183": {
@@ -25234,6 +25234,66 @@
         "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abLatch\u00bb de Disclosure ft. Sam Smith! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
         "languages": null,
         "size": 9437184
+    },
+    "70050000026958": {
+        "id": "0100E1F013675073",
+        "rightsId": null,
+        "name": "The Cure - \"Friday I'm In Love\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70050000026958,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/35a292cdc15c9ecc14fb62c32b71cbd3b0ff0e9daca370bcf296bd859f1a427c.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abFriday I'm In Love\u00bb de The Cure! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 8388608
+    },
+    "70050000026959": {
+        "id": "0100E1F013675074",
+        "rightsId": null,
+        "name": "Soft Cell - \"Tainted Love\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70050000026959,
+        "category": null,
+        "ratingContent": [
+            "Letras moderadas",
+            "Temas insinuantes moderados",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e938ebee0d5fe317d1441ae43fabc63856884dd50d054b75dc24512cc55ab007.jpg",
+        "intro": null,
+        "description": "\u00a1Ampl\u00eda tu biblioteca de FUSER\u2122 con \u00abTainted Love\u00bb de Soft Cell! A\u00f1ade algo nuevo a tus mezclas con esta pista adicional para reproducir, que est\u00e1 disponible de inmediato en el juego. Requiere el juego principal FUSER\u2122. Para ver los cr\u00e9ditos musicales, visita\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 7340032
     },
     "70070000000041": {
         "id": null,
