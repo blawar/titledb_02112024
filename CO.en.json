@@ -23440,7 +23440,7 @@
     "70050000025866": {
         "id": null,
         "rightsId": null,
-        "name": "Wave 1",
+        "name": "Pulse of the Ancients",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -23449,7 +23449,8 @@
         "nsuId": 70050000025866,
         "category": null,
         "ratingContent": [
-            "Fantasy Violence"
+            "Fantasy Violence",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": null,
         "rating": 13,
@@ -23460,7 +23461,7 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2e5fdbc08c17f30edbd986fc89b6ab7b3a6db6072fac882301f4432cdda19a3.jpg",
         "intro": null,
-        "description": "Wave 1 (Available June 2021)\n\nThe Hyrule Warriors: Age of Calamity Expansion Pass kicks off in June with an expanded roster, newly added weapon types, and challenging enemies. You can also stop by the Royal Ancient Tech Lab to test yourself with new challenges!\n\n ",
+        "description": "Pulse of the Ancients (Available June 2021)\n\nThe Hyrule Warriors: Age of Calamity Expansion Pass kicks off in June with an expanded roster, newly added weapon types, and challenging enemies. You can also stop by the Royal Ancient Tech Lab to test yourself with new challenges!\n\n ",
         "languages": null,
         "size": 0
     },
@@ -23607,7 +23608,7 @@
     "70050000025934": {
         "id": null,
         "rightsId": null,
-        "name": "Wave 2",
+        "name": "Guardian of Remembrance",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -23627,12 +23628,12 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2e5fdbc08c17f30edbd986fc89b6ab7b3a6db6072fac882301f4432cdda19a3.jpg",
         "intro": null,
-        "description": "Wave 2 (Available November 2021)\n\nThis wave of the Hyrule Warriors: Age of Calamity Expansion Pass will bring new character vignettes, added stages, an expanded roster, and new battle skills for existing characters. \n",
+        "description": "Guardian of Remembrance (Available November 2021)\n\nThis wave of the Hyrule Warriors: Age of Calamity Expansion Pass will bring new character vignettes, added stages, an expanded roster, and new battle skills for existing characters. \n",
         "languages": null,
         "size": 0
     },
     "70050000025935": {
-        "id": null,
+        "id": "01002B00111A3002",
         "rightsId": null,
         "name": "Hyrule Warriors: Age of Calamity Expansion Pass - Purchase Bonus",
         "version": null,
@@ -23643,7 +23644,8 @@
         "nsuId": 70050000025935,
         "category": null,
         "ratingContent": [
-            "Fantasy Violence"
+            "Fantasy Violence",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": null,
         "rating": 13,
@@ -23651,12 +23653,15 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/520340c1cf7c662c146a7180f1ad77b3e997a9f811c671d8761e9d1d3c867b36.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/556127d770a221858be4f7df15dcab8bb6f97c3fcfeeef5da5a6fe71c9b2e749.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2e5fdbc08c17f30edbd986fc89b6ab7b3a6db6072fac882301f4432cdda19a3.jpg",
         "intro": null,
         "description": "Purchase Bonus (Available May 28, 2021)\n\n\u30fbNewly added weapon for Link\n\u30fbNewly added costume for Link\n",
         "languages": null,
-        "size": 0
+        "size": 95420416
     },
     "70050000026189": {
         "id": "0100E1F013675062",
@@ -27540,9 +27545,9 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2e5fdbc08c17f30edbd986fc89b6ab7b3a6db6072fac882301f4432cdda19a3.jpg",
         "intro": "Expand your quest to save Hyrule with DLC",
-        "description": "Two waves of downloadable content are coming in the Hyrule Warriors: Age of Calamity Expansion Pass DLC. Newly added characters, stages, and more are all on their way! Purchase this expansion pass to get both waves of DLC as they are released. You\u2019ll also get an additional in-game weapon and costume for Link starting May 28, 2021!\n\nWave 1 (Available June 2021)\n\nThe Hyrule Warriors: Age of Calamity Expansion Pass kicks off in June with an expanded roster, newly added weapon types, and challenging enemies. You can also stop by the Royal Ancient Tech Lab to test yourself with new challenges!\n\nWave 2 (Available November 2021)\n\nThis wave of the Hyrule Warriors: Age of Calamity Expansion Pass will bring new character vignettes, added stages, an expanded roster, and new battle skills for existing characters. \n",
+        "description": "Two waves of downloadable content are coming in the Hyrule Warriors: Age of Calamity Expansion Pass DLC. Newly added characters, stages, and more are all on their way! Purchase this expansion pass to get both waves of DLC as they are released. You\u2019ll also get an additional in-game weapon and costume for Link starting May 28, 2021!\n\nPulse of the Ancients (Available June 2021)\n\nThe Hyrule Warriors: Age of Calamity Expansion Pass kicks off in June with an expanded roster, newly added weapon types, and challenging enemies. You can also stop by the Royal Ancient Tech Lab to test yourself with new challenges!\n\nGuardian of Remembrance (Available November 2021)\n\nThis wave of the Hyrule Warriors: Age of Calamity Expansion Pass will bring new character vignettes, added stages, an expanded roster, and new battle skills for existing characters. \n",
         "languages": null,
-        "size": 0
+        "size": 95420416
     },
     "70070000012266": {
         "id": null,
