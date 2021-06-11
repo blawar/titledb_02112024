@@ -3536,16 +3536,13 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f823e3aa145c520923a84c85aa8a71d67272d9af4013fc4d667582c3ad737d79.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/8c6a50d71afd028367f0f92c0157bd57f81bb41d599564b65855ffe7712a7bce.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/c39c5a90993ab46fdfbef95c2583c50e2857a64443d66109ec136d2801f04ef7.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/6f5fd648ef8cf9807035e67a8ccf0226ec4cf8f3fafc31336bed631527aaaa41.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/6a71876cef571f3d4051dc8b2cf3861a7f0fa3a95ded3aacf95d5600d3eb2e4f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/8c3269e0b0dc2a7554b83a001820637080b9f8a3fce53a306c2c0251fb14a8c1.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/953a7c57902a7576ad658f450ad9347b868b72e0d9d41b38a24d8f9e5557f10a.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/79397aef6e7a70ba4e5ce8f51c7d05eb536e6c2af936a2d8259a7123a7909ff7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c29660c626c80efa97064471624ec2151d8e348956037fea63a0c2fcdae581e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c99f4939ee88b4181c88b316385e19640128da98f7081436e38b87f345fbc8a9.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/13ab52d526ec8f98d3084eadc51d29665010c8eb9a3035aa0b04dbd6fdb8d50b.jpg",
         "intro": null,
-        "description": "Kick back and relax with YouTube on your Nintendo Switch\u2122 system. Enjoy entertainment like music videos and shows, plus gaming livestreams, how-tos and much more. Explore a world of videos with recommendations and easy access to your channel subscriptions. So grab your friends, family, and your Nintendo Switch controller, and enjoy YouTube together.",
+        "description": "See what the world is watching -- from the hottest music videos to what\u2019s popular in gaming, fitness, movies, shows, news, learning and more. Subscribe to channels you love and browse personal recommendations. ",
         "languages": [
             "ja",
             "en",
@@ -9319,7 +9316,7 @@
             "https://img-eshop.cdn.nintendo.net/i/e9ee697d666907757275b430c0cb3b0fb23a1aa962a13e4441cf5ba7a6169d0d.jpg",
             "https://img-eshop.cdn.nintendo.net/i/fa690b301ea0e717977a39585d7f17796f57ab1b92e65c5b8a24aa95ca70b23d.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/653a5c2486d798cfd89f240063f920736ba7fb9a71847c3feb54d601e61d304e.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5b083ee1bf52512ff0aaa70ec0a8f3a367210374c26f173df863ed60690de821.jpg",
         "intro": "Programming made fun with help from the minds at Nintendo",
         "description": "Kids can learn how to make their own games with guided lessons created by Nintendo. From a simple game of tag to a run-and-jump obstacle course, each lesson is broken down into multiple, manageable segments that let kids go at their own pace\u2014and have fun in the process.\n\nLearn the basics of visual game programming \n\nBy playing through interactive lessons, kids will learn the basics of visual game programming. Nodon, colorful creatures with distinct personalities, keep kids engaged through lessons with tips and motivating messages. With a simple press of a button, swap between the programming screen and the game screen\u2014watch how programming changes the game on the fly.\n\nTrack progress and build confidence\n\nAfter completing each lesson and building a game, kids will test their knowledge by completing Checkpoints\u2014small puzzles or tasks to solve with programming. Master these skills and head to Free Programming mode to let your imagination (and programming chops) run wild.\n\nThe Nodon you meet each have distinct personalities that complement their functions. Have fun connecting them together to see how they interact and bring your game to life. The in-game Nodopedia lets you quickly check what each Nodon does as you create. There\u2019s also a guide that recaps important skills! Easily swap between the Programming and Game screens to see the hard-working Nodon in action.\n\nTake advantage of the Nintendo Switch system\u2019s many features. Instead of the control stick, program motion controls to control your game. Want to create some competition? Add in a multiplayer function and pass a Joy-Con\u2122 controller to a friend. It\u2019s up to you (and your Nodon friends) to decide what type of game you want to make.\n\nLooking for inspiration? Exchange codes and download* games from friends. You can even go into Free Programming mode to look at those downloaded games\u2019 programming and put your own twist on it. Upload your own creations and share them with other Game Builder Garage players*. Learn programming, build games, and share with friends!",
         "languages": [
@@ -10313,6 +10310,36 @@
         "languages": null,
         "size": 1457520640,
         "parentId": "01003DA010E8A000"
+    },
+    "70030000013883": {
+        "id": null,
+        "rightsId": null,
+        "name": "Game Builder Garage\u2122 Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000013883,
+        "category": null,
+        "ratingContent": [
+            "Mild Fantasy Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 684720128,
+        "parentId": "0100FA5010788000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
@@ -25452,6 +25479,66 @@
         "description": "Thanks for signing up for our newsletter! Get foxy and comfortable with this FREE Look Pack for your DJ which contains:\n\nReactive Glow Baggy Sweatshirt\nReactive Glow Fox Head\n\nRequires FUSER\u2122 base game to play. For music credits, visit www.fuser.com.",
         "languages": null,
         "size": 3145728
+    },
+    "70050000027322": {
+        "id": "0100E1F01367507C",
+        "rightsId": null,
+        "name": "Zara Larsson - \"Look What You've Done\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210610,
+        "nsuId": 70050000027322,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b8ffb419ed56cca2e6d083bc9b8466363a5009a8990e325034d74d5aa214d719.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Look What You've Done\" by Zara Larsson! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 9437184
+    },
+    "70050000027323": {
+        "id": "0100E1F01367507D",
+        "rightsId": null,
+        "name": "Alesso & Armin van Buuren - \"Leave A Little Love\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210610,
+        "nsuId": 70050000027323,
+        "category": null,
+        "ratingContent": [
+            "Mild Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2687785b39290f0957d53f21c08d3f5ae7c5ae3e09cf75955ec7012720192b82.jpg",
+        "intro": null,
+        "description": "Expand your FUSER\u2122 library with \"Leave A Little Love\" by Alesso & Armin van Buuren! Bring something new to your mixes with this additional playable track, available immediately in game. Requires FUSER base game to play. For music credits, visit\u00a0www.fuser.com.",
+        "languages": null,
+        "size": 10485760
     },
     "70050000027495": {
         "id": "0100B04011743055",
