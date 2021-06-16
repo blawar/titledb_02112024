@@ -4994,7 +4994,7 @@
             "zh",
             "zh"
         ],
-        "size": 341835776
+        "size": 330301440
     },
     "70010000019616": {
         "id": "010003000E146000",
@@ -6466,6 +6466,52 @@
             "it"
         ],
         "size": 23493345280
+    },
+    "70010000026221": {
+        "id": "0100CC00102B4000",
+        "rightsId": null,
+        "name": "Tony Hawk's\u2122 Pro Skater\u2122 1 + 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210625,
+        "nsuId": 70010000026221,
+        "category": [
+            "Deportes",
+            "Acci\u00f3n",
+            "Multijugador",
+            "Otros"
+        ],
+        "ratingContent": [
+            "Letras de canciones",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e29ff36a3889657926c61687cc6191e7521a971efa7ad78e15674e8bb19d38a0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4df241f4930cec8faabd800e955c0cb13f1aee9b48b7df4ecd86add2144e0647.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aeee7df21f8c757fb757b863bd1b7ec550c28c94e50d235f24dc641c4a9e68f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6382752c2bcd020beed2265f478131c8296ea37cf6cb0b298759bace36b2bcac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f6f3cfdcfa98cc0c238692dfe537a07c3ed40a5f01bf5dfaeb59af1cc0d986d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/118037085bd3dbeca6655d13a4182e32ee107fa2dd5276deb9130b915bc4b3f7.jpg",
+        "intro": "Vuelve a jugar a los juegos de skate m\u00e1s ic\u00f3nicos de la historia.",
+        "description": "Juega a Tony Hawk\u2019s\u2122 Pro Skater\u2122 y Tony Hawk\u2019s\u2122 Pro Skater\u2122 2 con una colecci\u00f3n \u00e9pica, remodelados en HD. Todos los skaters profesionales, niveles, trucos y m\u00e1s vuelven remasterizados.\n\n- Juega con el legendario Tony Hawk, la alineaci\u00f3n original y nuevos pros\n- Juega con canciones de la banda sonora que definieron la era y con nueva m\u00fasica\n- Realiza combos de trucos incre\u00edbles con el ic\u00f3nico manejo de la saga de Tony Hawk's\u2122 Pro Skater\u2122\n- Juega a todos los modos de juego originales y a los cara a cara entre dos jugadores\n- Muestra tu estilo y creatividad con un Crear parque y Crear un skater mejorados\n- Compite en l\u00ednea contra jugadores de todo el mundo en el modo Multijugador y en los marcadores\n\nRompe los l\u00edmites del skate, luce tu estilo y forma parte de la nueva generaci\u00f3n de skaters y creadores con Tony Hawk\u2019s\u2122 Pro Skater\u2122 1 + 2.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 13152288768
     },
     "70010000026231": {
         "id": "01002620102C6000",
@@ -9176,7 +9222,7 @@
             "de",
             "it"
         ],
-        "size": 1996488704
+        "size": 2148532224
     },
     "70010000039214": {
         "id": "0100D670126F6000",
@@ -9495,6 +9541,195 @@
             "zh"
         ],
         "size": 1078984704
+    },
+    "70010000042924": {
+        "id": null,
+        "rightsId": null,
+        "name": "Metroid\u2122 Dread",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211008,
+        "nsuId": 70010000042924,
+        "category": [
+            "Acci\u00f3n",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Animacion de sangre",
+            "Violencia de fantasia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/afd6050096ab1d1bf3cdc536526f632cd401e64f419ac8d0ed55bd96debd7452.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be72265a9fe9acc84abb3d97d79e6d638c479485d06548d49390e2f5046d305b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d455074ebe87ba989306dc1c66135374cbe299ef6dc05da90dccb2dfd08e8e35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bdc2640a9a0f85bb3fc730e3c26cf97bcb0890b009eab91a0b39ce7ebb672f9d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7cbc2ef35d7d782f0570c9a506c6432eaac258187cb4fa539b155d1fe54f00e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4ffb6e6db4487a1b4c923993b6e16d1d07674c95f0d84036b3415dd1c61adf49.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d2ab6aefbc004d6314376e540a3ab5b99fd6caa764919b56493b793bbbd3413a.jpg",
+        "intro": "\u00danete a la cazarrecompensas intergal\u00e1ctica Samus Aran en la nueva aventura en 2D de Metroid\u2122: la primera en los \u00faltimos 19 a\u00f1os",
+        "description": "La aventura contin\u00faa despu\u00e9s de los acontecimientos del juego Metroid\u2122 Fusion cuando Samus aterriza en el planeta ZDR para investigar una misteriosa transmisi\u00f3n detectada por  la Federaci\u00f3n Gal\u00e1ctica. El remoto planeta se encuentra infestado de feroces formas de vida alien\u00edgenas y m\u00e1quinas aterradoras. Samus es m\u00e1s \u00e1gil y h\u00e1bil que nunca, pero \u00bfpodr\u00e1 superar la amenaza inhumana que acecha en las profundidades de ZDR?\n\nEnfr\u00e9ntate a los implacables robots conocidos como E.M.M.I.\n\nDise\u00f1ados para extraer ADN con fines de investigaci\u00f3n, los imponentes E.M.M.I. ahora persiguen a Samus. La tensi\u00f3n aumenta al intentar evitar una muerte cruel a manos de los E.M.M.I. y buscar la manera de destruirlos. Descubre por qu\u00e9 estas maravillas rob\u00f3ticas ahora asedian ZDR e intenta escapar con vida.\n\nAumenta el poder de Samus al conseguir nuevas t\u00e9cnicas y habilidades\n\nAdquiere habilidades nuevas, entre otras ya conocidas, mientras atraviesas los distintos entornos de este peligroso planeta. Sortea obst\u00e1culos, desl\u00edzate a trav\u00e9s de pasadizos estrechos y haz frente a los ataques enemigos  para abrirte camino por el planeta. Regresa a las zonas que ya visitaste para usar tus nuevas habilidades y encontrar mejoras, rutas alternativas y un camino que te permita seguir avanzando. Explora un amplio mundo, evade y destruye a los E.M.M.I., y vence al terror que asola  ZDR.\n\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 0
+    },
+    "70010000042929": {
+        "id": null,
+        "rightsId": null,
+        "name": "WarioWare\u2122: Get It Together!",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210910,
+        "nsuId": 70010000042929,
+        "category": [
+            "Acci\u00f3n",
+            "Fiesta"
+        ],
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Humor vulgar"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/29b8c8e0bf7aed161b2e3fd365c78bdba80fe8a2362071970b73f9c5f11c6d07.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f76dcdfcaee212e8444a0fea1e78fa0541f874e12c03c8e75f1f231118a9d538.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad8ea9f38d8c0f31ca90f34d98bf643c040ea143a7dda438633b21263a925382.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/131984cdae5cd509b2b4db1cc59d30ee87a0198ef9eb66291627294b3c538d2f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2ad05d9f2e8f9a59d3598c50d525cc874dd9d043a89d5f60047d934b3e24fd7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cbaa8e447a8c185b7e11588d8f274408f2025a5722e1801857f09aaf9ff7f12.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/35dae967aea92da1c5600c9d581fc27b7ea937c457312d5f6e44f05c37a3a892.jpg",
+        "intro": "Una locura de juego llega a la consola Nintendo Switch\u2122 ",
+        "description": "Enfr\u00e9ntate a m\u00e1s de 200 juegos ultrarr\u00e1pidos, extravagantes y llenos de diversi\u00f3n, \u00a1solo o con un amigo! Cuando su \u00faltimo y descabellado plan de negocios sale mal, Wario deber\u00e1 usar su peculiar estilo (y olor) para remediarlo. \u00bfC\u00f3mo? Por supuesto, \u00a1jugando a una disparatada colecci\u00f3n de juegos! Bien sea que debas ensamblar un robot o arrancar el vello de la axila de una estatua, el juego WarioWare\u2122: Get It Together! es una mezcla de comedia y juego cooperativo.\n\nEncuentra divertidos combates en una monta\u00f1a de juegos\n\nEn el modo Historia deber\u00e1s ayudar a Wario, el infame dise\u00f1ador de juegos, despu\u00e9s de que es absorbido por su \u00faltima creaci\u00f3n. Disfruta esta aventura solo o con un amigo en el modo cooperativo para 2 jugadores, \u00a1es toda una novedad para la serie! Podr\u00e1n jugar en la misma consola* o a trav\u00e9s de la comunicaci\u00f3n inal\u00e1mbrica local**.\n\nJuega como Wario y su colorido equipo\n\nPor primera vez en la serie T\u00da podr\u00e1s controlar a Wario y sus amigos dentro de sus propios ca\u00f3ticos juegos. Utiliza sus absurdas habilidades para enfrentarte a una gran cantidad de juegos. Voltea a una tortuga con la ayuda de Wario o elige a Ashley para lanzarle un hechizo. \u00a1Mezcla y combina a personajes y juegos en WarioWare: Get It Together! para divertirte al m\u00e1ximo!\n\nWario est\u00e1 poniendo a prueba su suerte nuevamente en los videojuegos, pero esta vez s\u00ed se est\u00e1 metiendo de lleno, \u00a1literalmente! Ayuda a Wario y sus amigos a salir de un mundo muy singular al enfrentarte a m\u00e1s de 200 fren\u00e9ticos juegos.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 0
+    },
+    "70010000042934": {
+        "id": null,
+        "rightsId": null,
+        "name": "Mario Party\u2122 Superstars",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211029,
+        "nsuId": 70010000042934,
+        "category": [
+            "Fiesta",
+            "Multijugador"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7a5794b6e6ba1d583e0c90e5fc503103dfb321db553de7160f39c13d8b6a26d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/debb546f111e7f7a59f9e7827329908f52c9cba5b4b5713a6297ead6418841d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70e487d188c282a02eeafd629ece49d1a4fdf94e5aacf3acb9edfee6a6189daf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20fef0658d01b386d9d1604e343037f34ace89adab2f1a706ca9dd511c61e52f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3149e3f9f6868cb01aed739e57bd266195061f374992fb8f19feca8b5216c39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0dfae50fe5743f18cfaa3d39310a5e4ea7abd64cf66311abaa22a27b500d286e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304.jpg",
+        "intro": "Una colecci\u00f3n superestrella de tableros cl\u00e1sicos para Nintendo 64\u2122",
+        "description": "\u00a1Llamando a todos los seguidores! Mario Party\u2122 est\u00e1 de regreso con cinco tableros cl\u00e1sicos del juego de fiesta para la consola Nintendo 64. El glaseado y las flores estar\u00e1n presentes mientras compites por obtener el mayor n\u00famero de estrellas (y saboteas a tus oponentes) en el tablero de El pastel de cumplea\u00f1os de Peach del juego original de Mario Party. Mira la cuenta regresiva que desata el Rayo de monedas de Bowser y guarda las monedas en el tablero de La estaci\u00f3n espacial. Tu suerte podr\u00eda cambiar r\u00e1pidamente en Mario Party, as\u00ed que mantente alerta. \u00a1Adem\u00e1s, este y todos los otros modos tambi\u00e9n se podr\u00e1n jugar en l\u00ednea*!\n\n\u00a1Regresan 100 minijuegos cl\u00e1sicos de los juegos para las consolas Nintendo 64 y Nintendo GameCube\u2122 y m\u00e1s!\n\nPrueba una colecci\u00f3n estelar de minijuegos de la serie de Mario Party. No importa si est\u00e1s guardando tus monedas para adquirir estrellas en el modo tablero o practicando en el modo juego libre, no hay nada mejor que ser el \u00faltimo en pie en Champi\u00f1ones coloridos o Shy Guy dice\u2026 Todos los minijuegos se pueden jugar con los botones de los controles, as\u00ed que puedes usar el control Joy-Con\u2122, el control Pro de Nintendo Switch\u2122 o una consola Nintendo Switch Lite.\n\n\u00danete a la fiesta con las superestrellas que se encuentran lejos o cerca de ti\n\nPrep\u00e1rate para la fiesta en cualquier momento y en cualquier lugar con la misma consola** de forma local** o en l\u00ednea*. Las partidas con amigos en el modo tablero se guardan en cada turno, as\u00ed podr\u00e1s tomar descansos y regresar al juego sin ning\u00fan problema. Usa reacciones para elogiar o enfadar a tus compa\u00f1eros de juego mientras compites a trav\u00e9s del tablero recolectando estrellas. Todos los modos son compatibles con el modo multijugador, as\u00ed que puedes reunirte con tus amigos para disfrutar de algunos minijuegos o de un marat\u00f3n de 30 turnos. La victoria es dulce (y el robo de estrellas tambi\u00e9n lo es) desde cualquier lugar del mundo.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 0
+    },
+    "70010000042938": {
+        "id": null,
+        "rightsId": null,
+        "name": "Advance Wars\u2122 1+2: Re-Boot Camp",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211203,
+        "nsuId": 70010000042938,
+        "category": [
+            "Estrategia"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b1396b6df591119d3e90f80966c9f05f3599a725a9cd627340c9dcb5f42c9f2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c0869466f24aa66dd5bcc7d6c25c69ef10c6d1f7f39ad785f11aa1410fb5f62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dec00c1715b116a428b65bf6c5e7d0a329cdc2437d951182f419c28b0e80cca2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b5329eb052003fd932fa2fcdd490dabc9e722f2e31734907d068f6174aaed8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b526383417a0ad1e0075a72a4f988da65f042eebd1c4dfae0f5585f3f352d354.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e3bed190803c87309a1c679b4c0f5fb445ca14d323cee367e5ec1f763fe5db5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d6677746c4532219e45a5cec8f6e9b837f352699008915c1516336aff3775740.jpg",
+        "intro": "\u00a1Re\u00fane las tropas! Advance Wars llega marchando a la consola Nintendo Switch",
+        "description": "Dirige a un ej\u00e9rcito en un estrat\u00e9gico combate por turnos en tu rol como asesor t\u00e1ctico del ej\u00e9rcito Orange Star. Necesitan de tu experiencia a medida que movilices las unidades terrestres, a\u00e9reas y navales por el campo de batalla. Derriba a los escuadrones enemigos y toma ciudades y bases para asegurar la victoria y mantener la paz. Mantente al tanto del terreno y el clima del juego mientras lideras una variedad de unidades a trav\u00e9s de m\u00faltiples mapas. \u00a1Esta versi\u00f3n incluye dos campa\u00f1as que cubren los eventos de los juegos Advance Wars\u2122 y Advance Wars 2: Black Hole Rising!\n\nLucha en compa\u00f1\u00eda de los oficiales en jefe\n\nDefiende tu tierra junto a Andy, Max y Sami y otros oficiales al mando, cada uno cuenta con sus propias especialidades y poderes OJ. Andy puede reparar unidades, mientras que Sami puede incrementar las habilidades de las tropas. \u00a1Tus oponentes tambi\u00e9n podr\u00e1n utilizar sus poderes OJ! A lo largo de ambas campa\u00f1as, los OJ que conozcas juegan un papel importante tanto en el campo de batalla como en la historia.\n\nRecluta a algunos de tus amigos y descubre qui\u00e9n es el estratega superior\n\nCuando no est\u00e9s ocupado manteniendo la paz en una de las dos campa\u00f1as, presume tus habilidades de mando de ej\u00e9rcito en el modo Combate* Vs. Hasta cuatro jugadores podr\u00e1n luchar en docenas de mapas. Cada jugador podr\u00e1 elegir un OJ de cualquiera de las campa\u00f1as y usar estrat\u00e9gicamente sus poderes de OJ para cambiar el rumbo de la batalla. Personaliza tu combate con opciones como la cantidad de fondos en cada base aliada y la neblina de la guerra.\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl"
+        ],
+        "size": 0
     },
     "70030000000341": {
         "id": null,
@@ -23806,14 +24041,14 @@
         "size": 9437184
     },
     "70050000025866": {
-        "id": null,
+        "id": "01002B00111A3003",
         "rightsId": null,
         "name": "El latido ancestral",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20210630,
+        "releaseDate": 20210618,
         "nsuId": 70050000025866,
         "category": null,
         "ratingContent": [
@@ -23826,12 +24061,18 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c154d606043f168b05a6857d64ecdd7954ba766f66b546e89d831621b687783.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a3544753b2961c7bb1dd8e726c4164ee925a5c23a19edc5b70841a6fa7373f5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03905d0dfa02b1d01232d5c7a4521d254ec68c2dc9ae61561e06806fbfb98869.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f42707dad763a8df928b364ec825a5b79b456755987e362e0b70dc0493f0658.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea261da404bcbd81fb91684f762f6386b39768c854d0b73be958173c1d92ccda.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b1b03ce1fad7868857a90abd8051fa80829bce24494222074b6e0e7fd649fac.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d414c9628b721f11bbbd5344d69a40738322bde16b95259bfd7092e7321ffc72.jpg",
         "intro": null,
-        "description": "El latido ancestral (Disponible en junio de 2021)\n\nEn junio estar\u00e1 disponible la suscripci\u00f3n de expansi\u00f3n de Hyrule Warriors: Age of Calamity, que incluye un amplio reparto de personajes, nuevos tipos de armas y desafiantes enemigos. \u00a1Visita tambi\u00e9n el Laboratorio Real de Tecnolog\u00eda Ancestral y ponte a prueba con los nuevos desaf\u00edos!\n",
+        "description": "Ola 1: El latido ancestral (Disponible el 18 de junio de 2021)\n\nEl pase de expansi\u00f3n de Hyrule Warriors: Age of Calamity inicia el mes de junio con un elenco de personajes ampliado, nuevos tipos de armas y nuevos enemigos desafiantes. \u00a1Visita el Laboratorio Real de Tecnolog\u00eda Ancestral y pon a prueba los nuevos desaf\u00edos para desbloquear nuevas armas y funciones! Luego, domina el campo de batalla como el nuevo guardi\u00e1n de batalla o pon a prueba los nuevos tipos de armas: las garras entrelazadas para Link y la Moto Hyliana para Zelda. Estos nuevos estilos de combate ser\u00e1n \u00fatiles en el nuevo modo de dificultad, Apocalipsis, y contra los enemigos agregados como un moblin que lanza bombas y un chuchu gigante.\n\n\u30fbPersonajes adicional, guardi\u00e1n de batalla\n\u30fbNuevos tipos de armas, garras entrelazadas de Link y Moto Hyliana para Zelda\n\u30fbNuevos enemigos desafiantes, incluyendo un moblin que lanza bombas y poderosas variantes de wizzrobe\n\u30fbNuevos desaf\u00edos en el Laboratorio Real de Tecnolog\u00eda Ancestral\n\u30fbNuevo modo de dificultad, Apocalipsis",
         "languages": null,
-        "size": 0
+        "size": 231735296
     },
     "70050000025914": {
         "id": "01006A800016F048",
@@ -23994,9 +24235,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c154d606043f168b05a6857d64ecdd7954ba766f66b546e89d831621b687783.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/53f1eb042b562225c91d15c8b5373af0da9f589508cfaf3567e26ad70bfd2ac7.jpg",
         "intro": null,
-        "description": "El guardi\u00e1n de los recuerdos (Disponible en noviembre de 2021)\n\nEsta ola de la suscripci\u00f3n de expansi\u00f3n de Hyrule Warriors: Age of Calamity traer\u00e1 nuevas vi\u00f1etas de personajes, m\u00e1s niveles, m\u00e1s personajes y nuevas habilidades de combate para los personajes existentes.  \n",
+        "description": "Ola 2: El guardi\u00e1n de los recuerdos (Disponible en noviembre de 2021)\n\nEsta ola del pase de expansi\u00f3n de Hyrule Warriors: Age of Calamity traer\u00e1 nuevas vi\u00f1etas de personajes, m\u00e1s escenarios, m\u00e1s personajes y nuevas habilidades de combate para los personajes existentes. \n\n\u30fbNuevas vi\u00f1etas de personajes\n\u30fbNuevos escenarios\n\u30fbPersonajes adicionales\n\u30fbNuevas habilidades de combate para personajes existentes",
         "languages": null,
         "size": 0
     },
@@ -24022,14 +24263,41 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/520340c1cf7c662c146a7180f1ad77b3e997a9f811c671d8761e9d1d3c867b36.jpg",
             "https://img-eshop.cdn.nintendo.net/i/556127d770a221858be4f7df15dcab8bb6f97c3fcfeeef5da5a6fe71c9b2e749.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c154d606043f168b05a6857d64ecdd7954ba766f66b546e89d831621b687783.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/461e635a2c405d2683ff497693183aa2b96d4850577da23849e7f91b1e7b337f.jpg",
         "intro": null,
-        "description": "Bonificaci\u00f3n de compra (Disponible el 28 de mayo de 2021)\n\n\u30fbNueva arma para Link\n\u30fbNuevo atuendo para Link\n",
+        "description": "Bonificaci\u00f3n de compra\n\n\u30fbPrototipo de espada ancestral para Link\n\u30fbCasco ancestral de prueba, coraza ancestral de prueba y grebas ancestrales de prueba para Link\n",
         "languages": null,
         "size": 95420416
+    },
+    "70050000025989": {
+        "id": "0100CC00102B5001",
+        "rightsId": null,
+        "name": "Tony Hawk's\u2122 Pro Skater\u2122 1 + 2 - Contenido Digital Deluxe",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210625,
+        "nsuId": 70050000025989,
+        "category": null,
+        "ratingContent": [
+            "Letras de canciones",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ac17f287f9fdc6ef3ec67b3ade013cde277e3d836587d0ce4c58598cb201231.jpg",
+        "intro": "Vuelve a jugar a los juegos de skate m\u00e1s ic\u00f3nicos de la historia.",
+        "description": "Incluye:\n\n- El personaje 'The Ripper' de Powell-Peralta\u00ae: el emblem\u00e1tico esqueleto debuta en Tony Hawk's\u2122 Pro Skater\u2122 con sus propios trucos y patinetas secretas\n- Atuendos retro \u00fanicos de los 80 para Tony Hawk, Steve Caballero y Rodney Mullen\n- Contenido retro \u00fanico para el modo Crear skater: patinetas, ropa, calzado y equipamiento",
+        "languages": null,
+        "size": 3145728
     },
     "70050000026189": {
         "id": "0100E1F013675062",
@@ -28722,6 +28990,39 @@
         "languages": null,
         "size": 96468992
     },
+    "70070000011465": {
+        "id": null,
+        "rightsId": null,
+        "name": "Tony Hawk's\u2122 Pro Skater\u2122 1 + 2 - Edici\u00f3n Digital Deluxe",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210625,
+        "nsuId": 70070000011465,
+        "category": null,
+        "ratingContent": [
+            "Letras de canciones",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4df241f4930cec8faabd800e955c0cb13f1aee9b48b7df4ecd86add2144e0647.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aeee7df21f8c757fb757b863bd1b7ec550c28c94e50d235f24dc641c4a9e68f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6382752c2bcd020beed2265f478131c8296ea37cf6cb0b298759bace36b2bcac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f6f3cfdcfa98cc0c238692dfe537a07c3ed40a5f01bf5dfaeb59af1cc0d986d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b3eeb358f3252f7e970dbc4a195e47fd809fea28784a9f3c524cfa72d53ee87d.jpg",
+        "intro": "Vuelve a jugar a los juegos de skate m\u00e1s ic\u00f3nicos de la historia.",
+        "description": "Compra la Edici\u00f3n Digital Deluxe y patina al estilo de la vieja escuela de la \u00e9poca Pro Skater original.\n\nIncluye:\n\n- Los juegos Tony Hawk's\u2122 Pro Skater\u2122 1 + 2\n- El personaje 'The Ripper' de Powell-Peralta\u00ae: el emblem\u00e1tico esqueleto debuta en Tony Hawk's\u2122 Pro Skater\u2122 con sus propios trucos y patinetas secretas\n- Atuendos retro \u00fanicos de los 80 para Tony Hawk, Steve Caballero y Rodney Mullen\n- Contenido retro \u00fanico para el modo Crear skater: patinetas, ropa, calzado y equipamiento\n\nRegresa a los juegos de patineta m\u00e1s emblem\u00e1ticos que se hayan hecho nunca. Juega a Tony Hawk\u2019s\u2122 Pro Skater\u2122 y Tony Hawk\u2019s\u2122 Pro Skater\u2122 2 en una colecci\u00f3n \u00e9pica reconstruida desde cero en incre\u00edble HD. Todos los skaters profesionales, los niveles, los trucos y mucho m\u00e1s est\u00e1n de vuelta totalmente remasterizados.",
+        "languages": null,
+        "size": 13155434496
+    },
     "70070000011679": {
         "id": null,
         "rightsId": null,
@@ -28770,11 +29071,11 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2c154d606043f168b05a6857d64ecdd7954ba766f66b546e89d831621b687783.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ae6aabd1177fe8fb1d3c37decb184d32eff46123a298de06a8932d4d33a0639b.jpg",
         "intro": "Expande tu misi\u00f3n para salvar a Hyrule con el contenido descargable",
-        "description": "Dos olas de contenido descargable llegan a la suscripci\u00f3n de expansi\u00f3n de Hyrule Warriors: Age of Calamity. \u00a1Nuevos personajes, niveles y m\u00e1s vienen en camino! Adquiere esta suscripci\u00f3n de expansi\u00f3n para recibir las dos olas de contenido descargable conforme sean lanzadas. Adem\u00e1s, \u00a1en el juego recibir\u00e1s un arma adicional y un atuendo para Link a partir del 28 de mayo de 2021!\n\nEl latido ancestral (Disponible en junio de 2021)\n\nEn junio estar\u00e1 disponible la suscripci\u00f3n de expansi\u00f3n de Hyrule Warriors: Age of Calamity, que incluye un amplio reparto de personajes, nuevos tipos de armas y desafiantes enemigos. \u00a1Visita tambi\u00e9n el Laboratorio Real de Tecnolog\u00eda Ancestral y ponte a prueba con los nuevos desaf\u00edos!\n\nEl guardi\u00e1n de los recuerdos (Disponible en noviembre de 2021)\n\nEsta ola de la suscripci\u00f3n de expansi\u00f3n de Hyrule Warriors: Age of Calamity traer\u00e1 nuevas vi\u00f1etas de personajes, m\u00e1s niveles, m\u00e1s personajes y nuevas habilidades de combate para los personajes existentes. \n",
+        "description": "Dos olas de contenido descargable llegan al pase de expansi\u00f3n de Hyrule Warriors: Age of Calamity. \u00a1Nuevos personajes, niveles y m\u00e1s vienen en camino! Adquiere este pase de expansi\u00f3n para recibir las dos olas de contenido descargable conforme sean lanzadas. Como bonificaci\u00f3n por la compra, tambi\u00e9n recibir\u00e1s un arma nueva, el prototipo de espada ancestral y equipo ancestral de prueba para Link.\n\nOla 1: El latido ancestral (Disponible el 18 de junio de 2021)\n\nEl pase de expansi\u00f3n de Hyrule Warriors: Age of Calamity inicia el mes de junio con un elenco de personajes ampliado, nuevos tipos de armas y nuevos enemigos desafiantes. \u00a1Visita el Laboratorio Real de Tecnolog\u00eda Ancestral y pon a prueba los nuevos desaf\u00edos para desbloquear nuevas armas y funciones! Luego, domina el campo de batalla como el nuevo guardi\u00e1n de batalla o pon a prueba los nuevos tipos de armas: las garras entrelazadas para Link y la Moto Hyliana para Zelda. Estos nuevos estilos de combate ser\u00e1n \u00fatiles en el nuevo modo de dificultad, Apocalipsis, y contra los enemigos agregados como un moblin que lanza bombas y un chuchu gigante.\n\nOla 2: El guardi\u00e1n de los recuerdos (Disponible en noviembre de 2021)\n\nEsta ola del pase de expansi\u00f3n de Hyrule Warriors: Age of Calamity traer\u00e1 nuevas vi\u00f1etas de personajes, m\u00e1s escenarios, m\u00e1s personajes y nuevas habilidades de combate para los personajes existentes.",
         "languages": null,
-        "size": 95420416
+        "size": 327155712
     },
     "70070000012266": {
         "id": null,
@@ -28837,11 +29138,11 @@
             "https://img-eshop.cdn.nintendo.net/i/f0710337ef0b440c79c48154b5415d24d014e9506b9f481f2f3da8db1d5485fd.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e8f59a854b1958750ca8c20cd6f1bd64335e2cff1ba09177803646264ee42361.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3d171129f5021d6d72471e649b62d1a9558ccb0fcc6c8b459eab62aff5c2ad0b.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/97641280de213b7e8ba21f8c73e6bd40a67a5352c2e56a8d31ce7471f7786cbf.jpg",
         "intro": null,
-        "description": "Este paquete incluye el juego Hyrule Warriors: Age of Calamity para la consola Nintendo Switch\u2122, junto con la suscripci\u00f3n de expansi\u00f3n que ofrece dos oleadas de contenido descargable.\n\nDescubre el Hyrule de 100 a\u00f1os antes del juego The Legend of Zelda\u2122: Breath of the Wild\u2122 y experimenta los eventos del gran cataclismo. \u00danete a la lucha que puso a Hyrule de rodillas. Lucha contra las hordas m\u00e1s formidables de Hyrule Desde los barb\u00e1ricos bokoblin hasta los imponentes centale\u00f3n, las tropas de Ganon han emergido en manadas. Los personajes jugables como Link, Zelda y otros m\u00e1s deber\u00e1n usar sus distintas habilidades para atravesar cientos de enemigos y as\u00ed salvar Hyrule del inminente cataclismo.\n\nComo bonificaci\u00f3n por la compra de la suscripci\u00f3n de expansi\u00f3n, \u00a1obtendr\u00e1s un arma y un disfraz para Link a partir del 28 de mayo de 2021! Y si tienes datos de guardado para el juego The Legend of Zelda: Breath of the Wild, podr\u00e1s obtener la espada de principiante en el juego.\n\nEsta compra te dar\u00e1 acceso a las dos oleadas de contenido descargable que forman parte de la suscripci\u00f3n de expansi\u00f3n conforme se vayan lanzando.\n\nEl latido ancestral (Disponible en junio de 2021)\n\nLa primera ola comienza en junio, incluye una alineaci\u00f3n de personajes ampliada, nuevos tipos de armas y desafiantes enemigos. \u00a1Tambi\u00e9n puedes pasar por el Laboratorio Real de Tecnolog\u00eda Ancestral para poner a prueba tus habilidades en los desaf\u00edos!\n\nEl guardi\u00e1n de los recuerdos (Disponible en noviembre de 2021)\n\nEsta ola traer\u00e1 nuevos niveles, vi\u00f1etas de personajes, una alineaci\u00f3n de personajes ampliada y habilidades de batalla para los personajes existentes.",
+        "description": "Este paquete incluye el juego Hyrule Warriors: Age of Calamity para la consola Nintendo Switch\u2122, junto con la suscripci\u00f3n de expansi\u00f3n que ofrece dos oleadas de contenido descargable.\n\nDescubre el Hyrule de 100 a\u00f1os antes del juego The Legend of Zelda\u2122: Breath of the Wild\u2122 y experimenta los eventos del gran cataclismo. \u00danete a la lucha que puso a Hyrule de rodillas. Lucha contra las hordas m\u00e1s formidables de Hyrule Desde los barb\u00e1ricos bokoblin hasta los imponentes centale\u00f3n, las tropas de Ganon han emergido en manadas. Los personajes jugables como Link, Zelda y otros m\u00e1s deber\u00e1n usar sus distintas habilidades para atravesar cientos de enemigos y as\u00ed salvar Hyrule del inminente cataclismo.\n\nComo bonificaci\u00f3n por la compra, tambi\u00e9n recibir\u00e1s un arma nueva, el prototipo de espada ancestral y equipo ancestral de prueba para Link. Y si tienes datos de guardado para el juego The Legend of Zelda: Breath of the Wild, podr\u00e1s obtener la espada de principiante en el juego.\n\nEsta compra te dar\u00e1 acceso a las dos oleadas de contenido descargable que forman parte de la suscripci\u00f3n de expansi\u00f3n conforme se vayan lanzando.\n\nOla 1: El latido ancestral (Disponible el 18 de junio de 2021)\n\nEl pase de expansi\u00f3n de Hyrule Warriors: Age of Calamity inicia el mes de junio con un elenco de personajes ampliado, nuevos tipos de armas y nuevos enemigos desafiantes. \u00a1Visita el Laboratorio Real de Tecnolog\u00eda Ancestral y pon a prueba los nuevos desaf\u00edos para desbloquear nuevas armas y funciones! Luego, domina el campo de batalla como el nuevo guardi\u00e1n de batalla o pon a prueba los nuevos tipos de armas: las garras entrelazadas para Link y la Moto Hyliana para Zelda. Estos nuevos estilos de combate ser\u00e1n \u00fatiles en el nuevo modo de dificultad, Apocalipsis, y contra los enemigos agregados como un moblin que lanza bombas y un chuchu gigante.\n\nOla 2: El guardi\u00e1n de los recuerdos (Disponible en noviembre de 2021)\n\nEsta ola del pase de expansi\u00f3n de Hyrule Warriors: Age of Calamity traer\u00e1 nuevas vi\u00f1etas de personajes, m\u00e1s escenarios, m\u00e1s personajes y nuevas habilidades de combate para los personajes existentes. ",
         "languages": null,
-        "size": 11855200256
+        "size": 12086935552
     },
     "70070000012398": {
         "id": null,

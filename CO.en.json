@@ -4865,7 +4865,7 @@
             "zh",
             "zh"
         ],
-        "size": 341835776
+        "size": 330301440
     },
     "70010000019616": {
         "id": "010003000E146000",
@@ -6303,6 +6303,52 @@
             "it"
         ],
         "size": 23493345280
+    },
+    "70010000026221": {
+        "id": "0100CC00102B4000",
+        "rightsId": null,
+        "name": "Tony Hawk's\u2122 Pro Skater\u2122 1 + 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210625,
+        "nsuId": 70010000026221,
+        "category": [
+            "Sports",
+            "Action",
+            "Multiplayer",
+            "Other"
+        ],
+        "ratingContent": [
+            "Lyrics",
+            "Users Interact"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e29ff36a3889657926c61687cc6191e7521a971efa7ad78e15674e8bb19d38a0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4df241f4930cec8faabd800e955c0cb13f1aee9b48b7df4ecd86add2144e0647.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aeee7df21f8c757fb757b863bd1b7ec550c28c94e50d235f24dc641c4a9e68f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6382752c2bcd020beed2265f478131c8296ea37cf6cb0b298759bace36b2bcac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f6f3cfdcfa98cc0c238692dfe537a07c3ed40a5f01bf5dfaeb59af1cc0d986d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/118037085bd3dbeca6655d13a4182e32ee107fa2dd5276deb9130b915bc4b3f7.jpg",
+        "intro": "Drop back in with the most iconic skateboarding games ever made.",
+        "description": "Play Tony Hawk\u2019s\u2122 Pro Skater\u2122 & Tony Hawk\u2019s\u2122 Pro Skater\u2122 2 in one epic collection, rebuilt from the ground up in incredible HD. All the pro skaters, levels and tricks are back and fully-remastered, plus more.\n\n- Skate as the legendary Tony Hawk and the original pro roster, plus new pros\n- Skate to songs from the era-defining soundtrack along with new music\n- Hit insane trick combos with the iconic handling of the Tony Hawk\u2019s\u2122 Pro Skater\u2122 series\n- Play all the original game modes and go head-to-head with local 2-Player modes\n- Show off your style and creativity with upgraded Create-A-Park and Create-A-Skater features\n- Take your sessions online and compete against players from around the world in Multiplayer modes and leaderboards\n\nBreak skateboarding boundaries, show off your own style and be part of the next generation of skaters and creators with Tony Hawk\u2019s\u2122 Pro Skater\u2122 1 + 2.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 13152288768
     },
     "70010000026231": {
         "id": "01002620102C6000",
@@ -9013,7 +9059,7 @@
             "de",
             "it"
         ],
-        "size": 1996488704
+        "size": 2148532224
     },
     "70010000039214": {
         "id": "0100D670126F6000",
@@ -9332,6 +9378,195 @@
             "zh"
         ],
         "size": 1078984704
+    },
+    "70010000042924": {
+        "id": null,
+        "rightsId": null,
+        "name": "Metroid\u2122 Dread",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211008,
+        "nsuId": 70010000042924,
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Animated Blood",
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/afd6050096ab1d1bf3cdc536526f632cd401e64f419ac8d0ed55bd96debd7452.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be72265a9fe9acc84abb3d97d79e6d638c479485d06548d49390e2f5046d305b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d455074ebe87ba989306dc1c66135374cbe299ef6dc05da90dccb2dfd08e8e35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bdc2640a9a0f85bb3fc730e3c26cf97bcb0890b009eab91a0b39ce7ebb672f9d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7cbc2ef35d7d782f0570c9a506c6432eaac258187cb4fa539b155d1fe54f00e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4ffb6e6db4487a1b4c923993b6e16d1d07674c95f0d84036b3415dd1c61adf49.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d2ab6aefbc004d6314376e540a3ab5b99fd6caa764919b56493b793bbbd3413a.jpg",
+        "intro": "Join intergalactic bounty hunter Samus Aran in her first new 2D Metroid\u2122 story in 19 years",
+        "description": "Samus\u2019 story continues after the events of the Metroid\u2122 Fusion game when she descends upon planet ZDR to investigate a mysterious transmission sent to the Galactic Federation. The remote planet has become overrun by vicious alien lifeforms and chilling mechanical menaces. Samus is more agile and capable than ever, but can she overcome the inhuman threat stalking the depths of ZDR?\n\nFace off against unrelenting E.M.M.I. robots\n\nOnce DNA-extracting research machines, the imposing E.M.M.I. are now hunting Samus down. Tensions are high as you evade these E.M.M.I. to avoid a cruel death while finding a way to take them down. Find out what turned these robotic wonders into the scourge of ZDR and escape with your life.\n\nFeel Samus\u2019 power grow as you gain maneuvers and abilities\n\nAcquire new and familiar abilities as you traverse the many environments of this dangerous world. Parkour over obstacles, slide through tight spaces, counter enemies, and battle your way through the planet. Return to areas and use your new abilities to find upgrades, alternate paths, and a way forward. Explore the sprawling map, evade and destroy E.M.M.I. robots, and overcome the dread plaguing ZDR.\n\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 0
+    },
+    "70010000042929": {
+        "id": null,
+        "rightsId": null,
+        "name": "WarioWare\u2122: Get It Together!",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210910,
+        "nsuId": 70010000042929,
+        "category": [
+            "Action",
+            "Party"
+        ],
+        "ratingContent": [
+            "Cartoon Violence",
+            "Crude Humor"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/29b8c8e0bf7aed161b2e3fd365c78bdba80fe8a2362071970b73f9c5f11c6d07.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f76dcdfcaee212e8444a0fea1e78fa0541f874e12c03c8e75f1f231118a9d538.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad8ea9f38d8c0f31ca90f34d98bf643c040ea143a7dda438633b21263a925382.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/131984cdae5cd509b2b4db1cc59d30ee87a0198ef9eb66291627294b3c538d2f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2ad05d9f2e8f9a59d3598c50d525cc874dd9d043a89d5f60047d934b3e24fd7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cbaa8e447a8c185b7e11588d8f274408f2025a5722e1801857f09aaf9ff7f12.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/35dae967aea92da1c5600c9d581fc27b7ea937c457312d5f6e44f05c37a3a892.jpg",
+        "intro": "Microgame mayhem comes to the Nintendo Switch\u2122  system",
+        "description": "Take on over 200 quick and quirky microgames\u2014lightning-fast minigames filled with frantic fun\u2014solo or with a friend! When his latest harebrained business scheme goes awry, Wario must use his signature style (and smell) to fix it. How? By playing a twisted collection microgames of course! From assembling a robot to pulling out a statue\u2019s armpit hair, the WarioWare\u2122: Get It Together! game is a comedic, cooperative microgame mashup.\n\nFind a friendly frenzy with a mountain of microgames\n\nHelp out infamous game designer, Wario, after he gets sucked into his latest creation in Story Mode. Go it alone or with a friend in 2-player cooperative play\u2014a first for the series! You can either play on the same system* or via local wireless**.\n\nPlay as Wario and his colorful crew\n\nFor the first time, YOU control Wario and friends inside their own chaotic games. Use their distinctly absurd abilities to take on a rush of microgames. Tip a turtle with the help of Wario\u2019s dash or choose Ashley and hurl a spell at it. In WarioWare: Get It Together!, mix and match characters and microgames for maximum fun!\n\nWario is trying his luck at video games again, but this time he\u2019s really getting into it\u2014literally! Help Wario and friends play their way out of a microworld of microgames by taking on over 200 madcap microgames.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 0
+    },
+    "70010000042934": {
+        "id": null,
+        "rightsId": null,
+        "name": "Mario Party\u2122 Superstars",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211029,
+        "nsuId": 70010000042934,
+        "category": [
+            "Party",
+            "Multiplayer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7a5794b6e6ba1d583e0c90e5fc503103dfb321db553de7160f39c13d8b6a26d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/debb546f111e7f7a59f9e7827329908f52c9cba5b4b5713a6297ead6418841d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70e487d188c282a02eeafd629ece49d1a4fdf94e5aacf3acb9edfee6a6189daf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20fef0658d01b386d9d1604e343037f34ace89adab2f1a706ca9dd511c61e52f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3149e3f9f6868cb01aed739e57bd266195061f374992fb8f19feca8b5216c39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0dfae50fe5743f18cfaa3d39310a5e4ea7abd64cf66311abaa22a27b500d286e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ae43ce2e25afbc4c069c2920075ead01a84f02dfe55b87876268409f6ccc0304.jpg",
+        "intro": "A Superstar collection of classic Nintendo 64\u2122 boards",
+        "description": "Calling all Superstars! Mario Party\u2122 is back with 5 classic boards from the Nintendo 64 Mario Party games. Frosting meets flowers as you race to get the most stars (and sabotage your opponents) on the Peach\u2019s Birthday Cake board from the original Mario Party game. Or watch the countdown that unleashes Bowser Coin Beam and hold onto those coins on the Space Land board. The tides can turn quickly in Mario Party, so stay vigilant, partygoers. This and all other modes can be played online*, too!\n\n100 classic minigames return from the Nintendo 64 and Nintendo GameCube\u2122 games and more!\n\nTry your hand at a Superstar collection of minigames from throughout the Mario Party series. Whether you are saving up coins for stars in board game mode or practicing in free play, there is nothing quite like being the last one standing in Mushroom Mix-Up or Shy Guy Says. All minigames are played with button controls, so you can stick to the Joy-Con\u2122 controller or bust out the Nintendo Switch\u2122 Pro Controller or a Nintendo Switch Lite system.\n\nParty with superstars near or far\n\nBring the party anytime, anywhere with same-system**, local wireless**, or online* play. Matches with friends in board game mode save each turn, so feel free to take a break and pick up where you left off. Use stickers to praise or pester fellow players as you race across the board collecting stars. All modes support online multiplayer, so you can hop in with friends for a few minigames or a marathon 30-turn match. Victory is just as sweet (and stealing stars is just as satisfying) from anywhere across the globe.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 0
+    },
+    "70010000042938": {
+        "id": null,
+        "rightsId": null,
+        "name": "Advance Wars\u2122 1+2: Re-Boot Camp",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211203,
+        "nsuId": 70010000042938,
+        "category": [
+            "Strategy"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b1396b6df591119d3e90f80966c9f05f3599a725a9cd627340c9dcb5f42c9f2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c0869466f24aa66dd5bcc7d6c25c69ef10c6d1f7f39ad785f11aa1410fb5f62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dec00c1715b116a428b65bf6c5e7d0a329cdc2437d951182f419c28b0e80cca2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b5329eb052003fd932fa2fcdd490dabc9e722f2e31734907d068f6174aaed8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b526383417a0ad1e0075a72a4f988da65f042eebd1c4dfae0f5585f3f352d354.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e3bed190803c87309a1c679b4c0f5fb445ca14d323cee367e5ec1f763fe5db5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d6677746c4532219e45a5cec8f6e9b837f352699008915c1516336aff3775740.jpg",
+        "intro": "Rally the troops! Advance Wars is marching to Nintendo Switch",
+        "description": "Command an army in strategic, turn-based combat as a tactical adviser for the Orange Star Army. Your expertise is needed as you move land, air, and naval units across the battlefield. Take down enemy squads and capture towns and bases to secure victory and keep the peace.  Keep an eye on the game-changing terrain and weather as you lead a variety of units across multiple maps. This remake features two campaigns that cover the events of Advance Wars and Advance Wars 2: Black Hole Rising!\n\nFight alongside capable Commanding Officers\n\nDefend your land with the help of Andy, Max, Sami, and other Commanding Officers, each with their own specialties and CO Powers. Andy can repair units, while Sami can boost the abilities of troops. Your opponents can use CO abilities of their own too! Throughout both campaigns, the COs you meet play a critical role both on the battlefield and in the story.\n\nRecruit some friends and see who the superior strategist is\n\nWhen you aren\u2019t busy keeping the peace in one of the two campaign stories, flex your army-commanding chops in Versus Mode*. Up to four players can battle on dozens of maps. Each player chooses a CO from either campaign and can strategically use their CO Powers to turn the tides of battle. Customize your combat with options like funds per allied base and fog of war.\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl"
+        ],
+        "size": 0
     },
     "70030000000341": {
         "id": null,
@@ -23607,14 +23842,14 @@
         "size": 9437184
     },
     "70050000025866": {
-        "id": null,
+        "id": "01002B00111A3003",
         "rightsId": null,
         "name": "Pulse of the Ancients",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20210630,
+        "releaseDate": 20210618,
         "nsuId": 70050000025866,
         "category": null,
         "ratingContent": [
@@ -23627,12 +23862,18 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2e5fdbc08c17f30edbd986fc89b6ab7b3a6db6072fac882301f4432cdda19a3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a3544753b2961c7bb1dd8e726c4164ee925a5c23a19edc5b70841a6fa7373f5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03905d0dfa02b1d01232d5c7a4521d254ec68c2dc9ae61561e06806fbfb98869.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f42707dad763a8df928b364ec825a5b79b456755987e362e0b70dc0493f0658.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea261da404bcbd81fb91684f762f6386b39768c854d0b73be958173c1d92ccda.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b1b03ce1fad7868857a90abd8051fa80829bce24494222074b6e0e7fd649fac.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3823c7a80ba52c108fd162f9d7a2bc0ae448e4bda31189d17a63c4ddca2e9647.jpg",
         "intro": null,
-        "description": "Pulse of the Ancients (Available June 2021)\n\nThe Hyrule Warriors: Age of Calamity Expansion Pass kicks off in June with an expanded roster, newly added weapon types, and challenging enemies. You can also stop by the Royal Ancient Tech Lab to test yourself with new challenges!\n\n ",
+        "description": "Wave 1: Pulse of the Ancients (Available June 18, 2021)\n\nThe Hyrule Warriors: Age of Calamity Expansion Pass kicks off in June with an expanded roster, newly added weapon types, and challenging enemies. Stop by the Royal Ancient Tech Lab to test yourself with new challenges to unlock weapons and new helpful features! Then, dominate the battlefield as the new playable Battle-Tested Guardian or try out the added weapon types\u2014the Flail for Link and Master Cycle for Zelda. These new combat styles will come in handy in the new Apocalyptic difficulty and against added enemies like the bomb-throwing Moblin and a Giant Chuchu.\n\n\u30fbAdded character Battle-Tested Guardian\n\u30fbAdded weapon types\u2014Flail for Link and Master Cycle for Zelda\n\u30fbNewly added challenging enemies, including bomb-wielding Moblins and powerful Wizzrobe variants\n\u30fbNew challenges in the Royal Ancient Lab\n\u30fbApocalyptic difficulty",
         "languages": null,
-        "size": 0
+        "size": 231735296
     },
     "70050000025914": {
         "id": "01006A800016F048",
@@ -23795,9 +24036,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2e5fdbc08c17f30edbd986fc89b6ab7b3a6db6072fac882301f4432cdda19a3.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/be023ac31fa7f1de75fd5e8c0a35d6bafe5f2b2626c1cdc42b6cefe3d27fab64.jpg",
         "intro": null,
-        "description": "Guardian of Remembrance (Available November 2021)\n\nThis wave of the Hyrule Warriors: Age of Calamity Expansion Pass will bring new character vignettes, added stages, an expanded roster, and new battle skills for existing characters. \n",
+        "description": "Wave 2: Guardian of Remembrance (Available November 2021)\n\nThis wave of the Hyrule Warriors: Age of Calamity Expansion Pass will bring new character vignettes, added stages, an expanded roster, and new battle skills for existing characters. \n\n\u30fbNew character vignettes\n\u30fbNewly added stages\n\u30fbExpanded roster\n\u30fbNew battle skills for existing characters \n",
         "languages": null,
         "size": 0
     },
@@ -23823,14 +24064,41 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/520340c1cf7c662c146a7180f1ad77b3e997a9f811c671d8761e9d1d3c867b36.jpg",
             "https://img-eshop.cdn.nintendo.net/i/556127d770a221858be4f7df15dcab8bb6f97c3fcfeeef5da5a6fe71c9b2e749.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2e5fdbc08c17f30edbd986fc89b6ab7b3a6db6072fac882301f4432cdda19a3.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/461e635a2c405d2683ff497693183aa2b96d4850577da23849e7f91b1e7b337f.jpg",
         "intro": null,
-        "description": "Purchase Bonus (Available May 28, 2021)\n\n\u30fbNewly added weapon for Link\n\u30fbNewly added costume for Link\n",
+        "description": "Purchase Bonus\n\n\u30fbPrototype Ancient Short Sword for Link\n\u30fbPrototype Ancient Helm, Cuirass, and Greaves for Link\n",
         "languages": null,
         "size": 95420416
+    },
+    "70050000025989": {
+        "id": "0100CC00102B5001",
+        "rightsId": null,
+        "name": "Tony Hawk's\u2122 Pro Skater\u2122 1 + 2 - Digital Deluxe Content",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210625,
+        "nsuId": 70050000025989,
+        "category": null,
+        "ratingContent": [
+            "Lyrics",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ac17f287f9fdc6ef3ec67b3ade013cde277e3d836587d0ce4c58598cb201231.jpg",
+        "intro": "Drop back in with the most iconic skateboarding games ever made.",
+        "description": "Includes:\n\n- \u2018The Ripper\u2019 character from Powell-Peralta\u00ae - the iconic skeleton makes its debut in Tony Hawk's\u2122 Pro Skater\u2122 and comes with its own secret tricks and boards\n- Unique retro 80s-era outfits for Tony Hawk, Steve Caballero and Rodney Mullen\n- Unique retro content for the Create-A-Skater mode - boards, clothes, shoes and gear",
+        "languages": null,
+        "size": 3145728
     },
     "70050000026189": {
         "id": "0100E1F013675062",
@@ -28523,6 +28791,39 @@
         "languages": null,
         "size": 96468992
     },
+    "70070000011465": {
+        "id": null,
+        "rightsId": null,
+        "name": "Tony Hawk's\u2122 Pro Skater\u2122 1 + 2 - Digital Deluxe Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210625,
+        "nsuId": 70070000011465,
+        "category": null,
+        "ratingContent": [
+            "Lyrics",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Activision",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4df241f4930cec8faabd800e955c0cb13f1aee9b48b7df4ecd86add2144e0647.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aeee7df21f8c757fb757b863bd1b7ec550c28c94e50d235f24dc641c4a9e68f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6382752c2bcd020beed2265f478131c8296ea37cf6cb0b298759bace36b2bcac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f6f3cfdcfa98cc0c238692dfe537a07c3ed40a5f01bf5dfaeb59af1cc0d986d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b3eeb358f3252f7e970dbc4a195e47fd809fea28784a9f3c524cfa72d53ee87d.jpg",
+        "intro": "Drop back in with the most iconic skateboarding games ever made.",
+        "description": "Purchase the Digital Deluxe Edition and skate with the old school style of the original pro era.\n\nIncludes:\n\n- Tony Hawk's\u2122 Pro Skater\u2122 1 + 2 Game\n- \u2018The Ripper\u2019 character from Powell-Peralta\u00ae - the iconic skeleton makes its debut in Tony Hawk's\u2122 Pro Skater\u2122 and comes with its own secret tricks and boards\n- Unique retro 80s-era outfits for Tony Hawk, Steve Caballero and Rodney Mullen\n- Unique retro content for the Create-A-Skater mode - boards, clothes, shoes and gear\n\nDrop back in with the most iconic skateboarding games ever made. Play Tony Hawk\u2019s\u2122 Pro Skater\u2122 & Tony Hawk\u2019s\u2122 Pro Skater\u2122 2 in one epic collection, rebuilt from the ground up in incredible HD. All the pro skaters, levels and tricks are back and fully-remastered, plus more.",
+        "languages": null,
+        "size": 13155434496
+    },
     "70070000011679": {
         "id": null,
         "rightsId": null,
@@ -28571,11 +28872,11 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2e5fdbc08c17f30edbd986fc89b6ab7b3a6db6072fac882301f4432cdda19a3.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0017eb26beb938c184201772081241742c14a0190c6b09c253e1a9d7dcf207c4.jpg",
         "intro": "Expand your quest to save Hyrule with DLC",
-        "description": "Two waves of downloadable content are coming in the Hyrule Warriors: Age of Calamity Expansion Pass DLC. Newly added characters, stages, and more are all on their way! Purchase this expansion pass to get both waves of DLC as they are released. You\u2019ll also get an additional in-game weapon and costume for Link starting May 28, 2021!\n\nPulse of the Ancients (Available June 2021)\n\nThe Hyrule Warriors: Age of Calamity Expansion Pass kicks off in June with an expanded roster, newly added weapon types, and challenging enemies. You can also stop by the Royal Ancient Tech Lab to test yourself with new challenges!\n\nGuardian of Remembrance (Available November 2021)\n\nThis wave of the Hyrule Warriors: Age of Calamity Expansion Pass will bring new character vignettes, added stages, an expanded roster, and new battle skills for existing characters. \n",
+        "description": "Two waves of downloadable content are coming in the Hyrule Warriors: Age of Calamity Expansion Pass DLC. Newly added characters, stages, and more are all on their way! Purchase this expansion pass to get both waves of DLC as they are released. As a purchase bonus, you\u2019ll also get a new weapon, the Prototype Ancient Sword, and Prototype Ancient equipment for Link to wear. \n\nWave 1: Pulse of the Ancients (Available June 18, 2021)\n\nThe Hyrule Warriors: Age of Calamity Expansion Pass kicks off in June with an expanded roster, newly added weapon types, and challenging enemies. Stop by the Royal Ancient Tech Lab to test yourself with new challenges to unlock weapons and new helpful features! Then, dominate the battlefield as the new playable Battle-Tested Guardian or try out the added weapon types\u2014the Flail for Link and Master Cycle for Zelda. These new combat styles will come in handy in the new Apocalyptic difficulty and against added enemies like the bomb-throwing Moblin and a Giant Chuchu.\n\nWave 2: Guardian of Remembrance (Available November 2021)\n\nThis wave of the Hyrule Warriors: Age of Calamity Expansion Pass will bring new character vignettes, added stages, an expanded roster, and new battle skills for existing characters.\n",
         "languages": null,
-        "size": 95420416
+        "size": 327155712
     },
     "70070000012266": {
         "id": null,
@@ -28638,11 +28939,11 @@
             "https://img-eshop.cdn.nintendo.net/i/f0710337ef0b440c79c48154b5415d24d014e9506b9f481f2f3da8db1d5485fd.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e8f59a854b1958750ca8c20cd6f1bd64335e2cff1ba09177803646264ee42361.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/419ae6bdcd0299cf6bc23acbf875cd3f05285bbeade27fe2d7167dc238769f93.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/82b6828558ab837e09d129e96e1a2a40f08e887488e7a4c41829c67ca122677e.jpg",
         "intro": null,
-        "description": "This bundle includes the Hyrule Warriors: Age of Calamity game for the Nintendo Switch\u2122 system, along with the Expansion Pass DLC that offers two waves of downloadable content. \n\nIn Hyrule Warriors: Age of Calamity, you\u2019ll see Hyrule 100 years before the Legend of Zelda\u2122: Breath of the Wild\u2122 game and experience the events of the Great Calamity. Join the struggle that brought Hyrule to its knees. Battle hordes of Hyrule\u2019s most formidable foes, from barbaric Bokoblins to towering Lynels. In addition to Link and Zelda, take control of characters like the four Champions and a young Impa. Use their distinct abilities to carve through hundreds of enemies to save Hyrule from the impending Calamity.\n\nAs a purchase bonus for the Expansion Pass, you\u2019ll get an additional in-game weapon and costume for Link starting May 28, 2021! And if you have save data for the Legend of Zelda: Breath of the Wild game, you can get the in-game Training Sword bonus item. \n\nThis purchase will give you access to both waves of the Expansion Pass DLC as they are released.\n\nPulse of the Ancients (Available June 2021)\n\nThe first wave kicks off in June with an expanded roster, newly-added weapon types, and challenging enemies. You can also stop by the Royal Ancient Lab to test yourself with new challenges!\n\nGuardian of Remembrance (Available November 2021)\n\nThis wave will bring newly-added stages, character vignettes, an expanded roster, and battle skills for existing characters.\n",
+        "description": "This bundle includes the Hyrule Warriors: Age of Calamity game for the Nintendo Switch\u2122 system, along with the Expansion Pass DLC that offers two waves of downloadable content. \n\nIn Hyrule Warriors: Age of Calamity, you\u2019ll see Hyrule 100 years before the Legend of Zelda\u2122: Breath of the Wild\u2122 game and experience the events of the Great Calamity. Join the struggle that brought Hyrule to its knees. Battle hordes of Hyrule\u2019s most formidable foes, from barbaric Bokoblins to towering Lynels. In addition to Link and Zelda, take control of characters like the four Champions and a young Impa. Use their distinct abilities to carve through hundreds of enemies to save Hyrule from the impending Calamity.\n\nAs a purchase bonus, you\u2019ll also get a new weapon, the Prototype Ancient Sword, and Prototype Ancient equipment for Link to wear. And if you have save data for the Legend of Zelda: Breath of the Wild game, you can get the in-game Training Sword bonus item. \n\nThis purchase will give you access to both waves of the Expansion Pass DLC as they are released.\n\nWave 1: Pulse of the Ancients (Available June 18, 2021)\n\nThe Hyrule Warriors: Age of Calamity Expansion Pass kicks off in June with an expanded roster, newly added weapon types, and challenging enemies. Stop by the Royal Ancient Tech Lab to test yourself with new challenges to unlock weapons and new helpful features! Then, dominate the battlefield as the new playable Battle-Tested Guardian or try out the added weapon types\u2014the Flail for Link and Master Cycle for Zelda. These new combat styles will come in handy in the new Apocalyptic difficulty and against added enemies like the bomb-throwing Moblin and a Giant Chuchu.\n\nWave 2: Guardian of Remembrance (Available November 2021)\n\nThis wave of the Hyrule Warriors: Age of Calamity Expansion Pass will bring new character vignettes, added stages, an expanded roster, and new battle skills for existing characters.\n",
         "languages": null,
-        "size": 11855200256
+        "size": 12086935552
     },
     "70070000012398": {
         "id": null,
