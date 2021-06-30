@@ -3054,7 +3054,7 @@
             "zh",
             "zh"
         ],
-        "size": 17922260992
+        "size": 18233688064
     },
     "70010000012523": {
         "id": "01003D200BAA2000",
@@ -8991,6 +8991,55 @@
             "zh"
         ],
         "size": 204472320
+    },
+    "70010000037072": {
+        "id": "0100E9B013D4A000",
+        "rightsId": null,
+        "name": "Aerial_Knight's Never Yield",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210629,
+        "nsuId": 70010000037072,
+        "category": [
+            "Acci\u00f3n",
+            "Plataformas",
+            "M\u00fasica"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Headup Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b087f271533ef3cbc0e111f5bc76cdbaa22bf50ae40d08062c38f4f97fcd5080.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b22e712e9a9d82763555cd7b9291f1721fc5d5af2cfbf5b68280e8ea9b78d155.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3acaf7c15d5fb102e58dadef225abf2a258ecde362bc5b30b2e7703a84d75dba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db684d6163024deab4eb79ebef2794f2703661219648b9fb753a466c7c82cd35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52275d8399ed8bb21a813d0aebf3a9876df602ab99924ef2b7aa461881dd7b36.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e9cf070f0a62302e3989da36c137c0598e2b076745a28ab33111ae6b5c4b9f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51b2d4385e70d25a106c24615b40860e31f3b73e5fcf55cd5c5555d2d242f7fc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/41e1790651b99dd52c9db6e98cf8ad35e0ef9b3ca1f60b8c06ab958c570b5d50.jpg",
+        "intro": null,
+        "description": "Sobrevive a una Detroit de estilo Tokio futurista en este juego de correr en 3D. Vive la historia de Wally, que halla pruebas capaces de cambiar su ciudad para siempre. Explora un mundo con una banda sonora brutal y sonidos de un artista de Detroit.\n\nHISTORIA\nEncarnar\u00e1s a Wally, un misterioso personaje que ha recuperado lo que le hab\u00edan arrebatado. Con suerte, ser\u00e1s lo suficientemente r\u00e1pido para dejar atr\u00e1s a tus enemigos. Revela la verdad e intenta resolver el misterio de lo que les ha ocurrido.\n\nJUGABILIDAD\nAerial_Knight's Never Yield es un juego de desplazamiento lateral en 3D muy similar a los cl\u00e1sicos juegos de correr sin parar. El juego dispone de una historia interesante que mantendr\u00e1 en constante movimiento a los jugadores. Corre, salta, desl\u00edzate o \u00abimp\u00falsate\u00bb para realizar variantes de las acrobacias con las que podr\u00e1s hacer combinaciones alucinantes y esquivar los desaf\u00edos que te aguardan. Aerial_Knight's Never Yield es un juego creado para aquellos jugadores a los que les encanta pasarse los juegos en el menor tiempo posible, pero que tambi\u00e9n podr\u00e1n disfrutar los jugadores m\u00e1s casuales.\n\nBANDA SONORA\nEl autor de la banda sonora de Aerial_Knight's Never Yield es \u00abDanime-Sama\u00bb, un artista de Detroit que incluye voces de artistas de todo el mundo.\n\nNOTA DEL DESARROLLADOR\nEmpec\u00e9 este proyecto simplemente por amor al arte y por cuenta propia con la intenci\u00f3n de crear algo familiar y a la par que nuevo para esta generaci\u00f3n de jugadores a la vez que destacaba aspectos de una cultura que a menudo se pasa por alto. Espero de todo coraz\u00f3n que disfrut\u00e9is de este juego cuando se lance y que me acompa\u00f1\u00e9is en mi viaje para crear juegos nuevos e interesantes.\n\n- Aerial_Knight",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 731906048
     },
     "70010000037986": {
         "id": "0100BC701417A000",
@@ -18871,12 +18920,12 @@
     "70050000018965": {
         "id": "01006A800016F00B",
         "rightsId": null,
-        "name": "Paquete de aspirante 10",
+        "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 10",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20210629,
         "nsuId": 70050000018965,
         "category": null,
         "ratingContent": [
@@ -18892,12 +18941,19 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/49c0946c35c56a4c9a2d04732461f04f76404ea6f350b79fdce48b752bb726a0.jpg",
-        "intro": null,
-        "description": "Este paquete de contenido descargable incluye:\n\u3000- Un combatiente nuevo\n\u3000- Un escenario nuevo\n\u3000- Varios temas nuevos\n\nSe ofrecer\u00e1 informaci\u00f3n adicional en una fecha posterior.",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c466e172bdadcd415e892937efde993e9df2a7da43fb352ec90bdc58dda58b9a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea2dda964b9c33d82646d6d1e64e221659011238f4095ac81bde7f9756e9ddf8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca2da96ee039fdbc920000a4df19987550f02c5fdddbdbc827f65a852a2b8412.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/96a5b96edb6951b4b1834052c181d4cfd0a73e143cc8542d8282cf7258869ad3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c55ad67adc917741ebb3a4bac8414effc256baa1fea1238273ce04526485dcf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/352fae56d3c5cd098969e16aee1969f23cb6e21af6aa25adc64714bfdf868cc8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/669f86b52a285c2eebe813bcaf78f7978c8b43f475eabd7f0fd508746f8a1eb5.jpg",
+        "intro": "Kazuya se une al combate!",
+        "description": "Proveniente de la serie Tekken, Kazuya Mishima usa su Devil Gene para unirse al combate en el juego Super Smash Bros.\u2122 como contenido descargable*. El estilo de pelea de Kazuya captura la esencia de la serie Tekken utilizando potentes t\u00e9cnicas de corto alcance y una incre\u00edble capacidad de remontar. Su Devil Gene le permite realizar ataques como Devil Blaster, un rayo de largo alcance, y desplegar alas conocidas como Devil Wings. Kazuya es hijo de Heihachi Mishima, un \u00edcono de la serie Tekken, que tiene un impresionante poder destructivo y muchas ganas de demostrarlo.\n\nLos ataques normales de Kazuya Mishima pueden realizarse en 8 direcciones en lugar de 4 y esto, adem\u00e1s de hacerlo \u00fanico e impredecible, le permite replicar habilidades de los juegos de Tekken. Tambi\u00e9n le da una variedad de opciones para ejecutar combos. El escenario que acompa\u00f1a a este personaje es Mishima Dojo, tanto el techo y las paredes del dojo impiden que los combatientes sean noqueados, pero se rompen al ser golpeadas o lanzando a un combatiente contra ellas. \n\nLA SERIE TEKKEN HA SIDO CLASIFICADA PARA ADOLSCENTS POR LA ESRB. \n\n",
         "languages": null,
-        "size": 4194304
+        "size": 3145728
     },
     "70050000018966": {
         "id": "01006A800016F00C",
@@ -26738,6 +26794,146 @@
         "languages": null,
         "size": 3145728
     },
+    "70050000027885": {
+        "id": "01006A800016F04C",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Peluca y traje de Dante",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210629,
+        "nsuId": 70050000027885,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2e90174b3c872503e2bebc9d24b9bb5368aafe33b6a40991fb43ab1d6fcb9e7f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/538ab00d2001a5395ee1cd31da082997ebbb45cb803b50cb0bf6526769acaf9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c6f6c87edbe88500cc7f5bfc9065abe2e55b7c4b390f2dd4e520ddce22fdb4c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b26c5d2a86907187cb80e884ba575432fe89d7e311f5f37de080746fdebd5e6.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye la peluca y el traje de Dante.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000027886": {
+        "id": "01006A800016F04D",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Traje, peluca y tema musical de Shantae",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210629,
+        "nsuId": 70050000027886,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f10d9c101020add290fed721d00c70aeda4420a88d4469481069890f46f2c2cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a2b09e827c56cfbdf9d6f9684c84f1c37a069b7be0e6afb3bbe0e1f28c53797b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70887aa8032d8b1921a0ba42ea9e0c8a46bfb2634fdb2f82f64060ae42a56b45.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3d50f9cf56f9d89108c13006c1e93e416aa5dc1ed88a8fe15028a8cb39d933f6.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye el traje y la peluca de Shantae, as\u00ed como un tema musical del juego original.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000027887": {
+        "id": "01006A800016F04E",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Casco y vestimenta del Sangre de Drag\u00f3n",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210629,
+        "nsuId": 70050000027887,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4563825e62ae7d394036eb84f80f918e8c18a1908b08d9555fca7a46b260bd6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/321e3a59f74b5c55fdcbe4f00f63b872d82aa48c5c488c24a19604ac24abc431.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7817d2cccb8c2301392ec3a18c1f98112b4195b16741812e0a02e90ee340311.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/166f2a2f705fc25923fb39f691c7a6534068cbe5a0d6bb6e9a7a213f17bbe26e.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye el casco y la vestimenta del Sangre de Drag\u00f3n.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000027888": {
+        "id": "01006A800016F04F",
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Peluca y traje de Lloyd",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210629,
+        "nsuId": 70050000027888,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8e7eec6e754e584b9155b0da96bbef60f1f88a9eebc05deafdcd192b800c1a71.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5629870a82945504106145a8c1adc1c92e452e9aac5c4c5b1dd9d60298268dd0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ed82f3d4f9d3615632d8983c9d55e0345b9cadc5f3f035c79ddbf3a79813c3d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2101991d05013b773a74dd36540baacf3a565351cdf788663f8dd5adccf4faf6.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye la peluca y traje de Lloyd.",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000028299": {
         "id": "0100B04011743067",
         "rightsId": null,
@@ -28958,13 +29154,14 @@
             "https://img-eshop.cdn.nintendo.net/i/8ba126dea2c82f92aa1388284624485fecf0c598a8a80836ac41b4efcea94ddd.jpg",
             "https://img-eshop.cdn.nintendo.net/i/39a117ef0605dc18f879d73d2736e210e61f690e607083d3e0de7f30e6661521.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f63ea055ccf19501e56551404e741e1836bc62b4370649ccf12a12095823c5f9.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/fe60ad1279f447393159cc3c512b263935dcc0bd69aa503004ab45beb52c55e2.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/fe60ad1279f447393159cc3c512b263935dcc0bd69aa503004ab45beb52c55e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c466e172bdadcd415e892937efde993e9df2a7da43fb352ec90bdc58dda58b9a.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd2b31900908fa299444d35836d4ae468c0462160e35d36cf218482ac4ffca9b.jpg",
         "intro": "\u00a1Expande tu elenco de combatientes con el pase de combatientes VOL. 2 de Super Smash Bros.\u2122 Ultimate!",
-        "description": "\u00a1Expande tu elenco de combatientes con el pase de combatientes VOL. 2 de Super Smash Bros.\u2122 Ultimate para el juego Super Smash Bros.\u2122 Ultimate. Tras adquirir el pase de combatientes tendr\u00e1s acceso a contenido adicional que incluye seis combatientes jugables, m\u00e1s escenarios y temas musicales una vez que est\u00e9n disponibles. \u00a1Los combatientes adicionales incluyen a Min Min del juego ARMS\u2122, Steve y Alex de Minecraft\u2122, Sephiroth de la serie Final Fantasy, as\u00ed como Pyra / Mythra de Xenoblade Chronicles\u2122 2 *! \n\nEl pase de combatientes vol. 2 de Super Smash Bros. Ultimate es un set que incluye seis paquetes de combatientes.\n\nEl contenido de los paquetes de combatiente 10 y 11 a\u00fan no han sido anunciado, pero se incluye con la compra de este pase de combatientes.\n\nEl paquete de combatiente 6 incluye a Min Min como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 7 incluye a Steve y Alex como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 8 incluye a Sephiroth como combatiente jugable, un escenario y varias melod\u00edas. \n\nEl paquete de combatiente 9 incluye a Pyra / Mythra como combatiente jugable, un escenario y varias melod\u00edas.\n\nEn la compra de este pase de combatientes VOL. 2 no se incluye el contenido del paquete de combatiente 1 hasta el paquete de combatiente 5 del anterior pase de combatientes para Super Smash Bros. Ultimate que se vende por separado.\n\n\n\n\n",
+        "description": "\u00a1Expande tu elenco de combatientes con el pase de combatientes VOL. 2 de Super Smash Bros.\u2122 Ultimate para el juego Super Smash Bros.\u2122 Ultimate. Tras adquirir el pase de combatientes tendr\u00e1s acceso a contenido adicional que incluye seis combatientes jugables, m\u00e1s escenarios y temas musicales una vez que est\u00e9n disponibles. \u00a1Los combatientes adicionales incluyen a Min Min del juego ARMS\u2122, Steve y Alex de Minecraft\u2122, Sephiroth de la serie Final Fantasy, Pyra / Mythra de Xenoblade Chronicles\u2122 2  y Kazuya Mishima de TEKKEN! \n\nFINAL FANTASY 7 FUE CLASIFICADO PARA ADOLESCENTES POR LA ESRB\nXENOBLADE CHRONICLES 2 FUE CLASIFICADO PARA ADOLESCENTES POR LA ESRB\nLA SERIE TEKKEN HA SIDO CLASIFICADA PARA ADOLESCENTES POR LA ESRB \n\n\nEl pase de combatientes vol. 2 de Super Smash Bros. Ultimate es un set que incluye seis paquetes de combatientes.\n\nEl contenido del paquete de combatiente 11 a\u00fan no han sido anunciado, pero se incluye con la compra de este pase de combatientes.\n\nEl paquete de combatiente 6 incluye a Min Min como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 7 incluye a Steve y Alex como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 8 incluye a Sephiroth como combatiente jugable, un escenario y varias melod\u00edas. \n\nEl paquete de combatiente 9 incluye a Pyra / Mythra como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 10 incluye a Kazuya Mishima como combatiente jugable, un escenario y varias melod\u00edas.\n\nEn la compra de este pase de combatientes VOL. 2 no se incluye el contenido del paquete de combatiente 1 hasta el paquete de combatiente 5 del anterior pase de combatientes para Super Smash Bros. Ultimate que se vende por separado.\n\n\n\n",
         "languages": null,
-        "size": 27262976
+        "size": 26214400
     },
     "70070000010144": {
         "id": null,
