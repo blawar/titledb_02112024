@@ -10441,7 +10441,7 @@
         "languages": [
             "en"
         ],
-        "size": 11478761472
+        "size": 11561598976
     },
     "70010000037835": {
         "id": "0100EC30140B6000",
@@ -14774,6 +14774,47 @@
             "en"
         ],
         "size": 1145044992
+    },
+    "70010000039587": {
+        "id": "01004050148C4000",
+        "rightsId": null,
+        "name": "Dungeon of Crawl",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210730,
+        "nsuId": 70010000039587,
+        "category": [
+            "RPG",
+            "Arcade",
+            "Adventure",
+            "Action"
+        ],
+        "ratingContent": [
+            "Moderate Gewalt"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "IceTorch",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4bfed4f8efe7864812c843a819b37f49cf2d1364282e0ab2529a8db188a53b86.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b934db5ede04f235e00a2342be7c8f16422a31d10cc03f587ca2fdebdd07c5c5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9723676eafe4de993d0b6f21ffe76dd5f3571c5b7cc9d0915842d8035b356a48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c79d8e42bafb8e156a958a982d6216a3011b202514fd00640e56ed2284bbc04c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3db6d13fd23dde147dc609b8f242927d7a049f3a455d713590dec3ff27ece955.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f501e475e41dcaea1694d62e265ea9d9be00dfa8c99f099d94a1892b5ffc970.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41e71ad35a23ea3a42f8d1cb11e6a4f6e12a8020d01ddfd283318f24a22c941c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c282efc728c70e4b3c602087c7ed54131157386f9772ec79c8f10f4fbd385480.jpg",
+        "intro": "Erobern Sie den Dungeon of Crawl, beanspruchen Sie seine Reicht\u00fcmer und baden Sie im Ruhm wahrer Helden!",
+        "description": "Tauchen Sie ein in die uralten Kerker, die sowohl mit Sch\u00e4tzen als auch mit Gefahren gef\u00fcllt sind. Schlitzen Sie Ihre Feinde mit \u00fcbergro\u00dfen \u00c4xten auf, r\u00f6sten Sie sie mit Feuerb\u00e4llen, die von magischen Zauberst\u00e4ben geschleudert werden, oder verwandeln Sie sie mit d\u00e4monischen Dolchen in Schweizer K\u00e4se.\n\nDungeon of Crawl ist eine moderne Variante eines klassischen Subgenres von RPG-Spielen: Dungeon Crawler. Dank vieler Spielerklassen, verschiedener Arten und Wege der Charakterentwicklung sowie der Ausr\u00fcstungskonfiguration wird gew\u00e4hrleistet, dass das Spiel mehrmalige und kurzweilige Unterhaltung bietet.\n\nJede Herausforderung erfordert m\u00f6glicherweise eine andere Herangehensweise und manchmal sollte der direkte Sprung in die Schlacht durch eine sorgf\u00e4ltige Planung Ihrer Schritte ersetzt werden. Lassen Sie Ihre Wachsamkeit nicht ruhen und h\u00fcten Sie sich vor Monstern, da jede Horde einen m\u00e4chtigen Anf\u00fchrer hat, der die Sch\u00e4tze der Region bewacht. \n\nFeatures:\n- \u00dcber 15 abwechslungsreiche Levels\n- 5 einzigartige Regionen \n- Jede Region hat einzigartige Gegner und Waffen\n- Jede Region hat ihren eigenen Monsteranf\u00fchrer\n- \u00dcber 30 Arten von Gegnern\n- \u00dcber 15 Arten von glorreichen Waffen\n- 4 Charakterklassen (Krieger, Magier, Schurke und J\u00e4gerin)\n- Arena-Modus!\n\nDunkle Korridore erwarten Sie...",
+        "languages": [
+            "en"
+        ],
+        "size": 362807296
     },
     "70010000039593": {
         "id": "01008D80148C8000",
@@ -20443,6 +20484,7 @@
         "nsuId": 70010000041212,
         "category": [
             "Action",
+            "Shooter",
             "Arcade"
         ],
         "ratingContent": [
@@ -20464,7 +20506,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/feabf54bed81a822b5accb144349fca064616348d0c188ac35c34e1db1933f38.jpg",
         "intro": "Ride out on your water scooter and save your friends!",
-        "description": "\"SEA FIGHTER POSEIDON\" is an action game released by TAITO in 1984.\nThe player fights against enemy divers and enemy leaders to save their captured friends.\nIf the player's water scooter runs out of fuel, it will explode, so be sure to defeat enemy divers with torpedoes and steal it from them.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+        "description": "\u201cSEA FIGHTER POSEIDON\u201d is an action shooting game released by TAITO in 1984.\nThe player fights against enemy divers and enemy\u2019s battleships to save his captured friends.\nIf the player's water scooter runs out of fuel, it will explode, so be sure to defeat enemy divers with torpedoes\nand steal it from them.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
         "languages": [
             "ja",
             "en",
@@ -23668,12 +23710,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/893c6697683cf3630dd2967edd7ab920e18ed46d52cf13293f5d7d5df8fc2b94.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/3a37c9a39522ddb8186aca273df195651cb8302bf61c1e5b2fcfc9a076c01b4e.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f4e5b00e9b97f6fc074fe2059b1ac011379a3b2defa830fd45a0aceadd0f72a3.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/dddec228f8b822ee3b422210d0a80dd991726eeca857d9bee24a3b276ff1aab3.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/b10f22c98ab6b6acc5d782af74e03fcf638477b44bdeb115f31cc996b84431d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6763255e5b19cbf1f8a7aa337df04d928e472341b06dc199334a71fe75331df3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a1c15b40c5658bd9ee8dc7f3b2c3d795174c74871d5faafd2b106a00a9cd10a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c516ad88264425062dce04385ce7966dcfcdb86cc667a6fd106d2caa9c3a7ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ea47645e04d154d0456672628af5cd4973d7a52ce50c7da76d00a4ba4bf0107.jpg",
             "https://img-eshop.cdn.nintendo.net/i/67578b5705abe49b14a6cecaeba8cf654b264b0a1b66da95c26c0a749c20eed5.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/bb00ca277d3b59a8fa431d262f679292df22e36ec35e193c5588246de2903bb1.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/f34a24d59ed44d6fb641c277815c8dcc4757e85005244099ff5f275ae54ffd01.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3949a5b2ff5509129c684b75b2266293db0e948375600d026b576debd2228080.jpg",
         "intro": "Rubix Roller - 3D puzzle strategy colour game requires thinking and planning ahead. ",
@@ -25604,6 +25646,45 @@
             "en"
         ],
         "size": 70254592
+    },
+    "70010000043922": {
+        "id": "010058E015B10000",
+        "rightsId": null,
+        "name": "Dungeon Bricker",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210716,
+        "nsuId": 70010000043922,
+        "category": [
+            "Puzzle",
+            "Platformer",
+            "Arcade",
+            "Lernspiel"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Piotr Skalski",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dbbf8cc944ff6cd2cbcc677f46ca6adbfa139bb25ef612595a01ee545b035780.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9211ba294cf8a0281b6a42352cde87bffbf3063b5d76ad8bda6b30fdab6502ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/846c9393147f6c26835d0b135b746847fd229024a49b298664730c4780eb032e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00058669b7489fdc6bea3ba09789c5c64d67540423deba4f989b02bc43ceb955.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebce3da575c3cafc1ff5d747968dd74dba2bca3aed3375023423e3281a25d336.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/009fa2b5c57006d060fd5b72fe59ffa677dce82e65668725b38ed7fd66ef8cbf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/59e3a4881f69ea74b2b15b87fe6fff3950d44ce3be83834cf3b45089894c4979.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0eb180655499c7b9d51477bf530c3f1053df9d29e752a90606ae48e755ef394c.jpg",
+        "intro": null,
+        "description": "Dungeon Bricker is an intense and exciting maze game. It\u2019s a unique and interesting title where your focus is to try to move the player from wall to all or corner to corner in order to create a path of bricks and complete the level. Once the level is full of bricks, you can reach the next level. There are more than 150 levels to go through, and you will have a lot of fun enjoying every moment, while also testing your skills. Do you have what it takes to complete all levels?\nFeatures:\n- 150+ levels to play through\n- Test your skills and have fun\n- Fun game mechanics\n- Cool pixel art",
+        "languages": [
+            "en"
+        ],
+        "size": 75497472
     },
     "70030000011669": {
         "id": null,
