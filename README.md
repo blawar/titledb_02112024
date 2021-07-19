@@ -1,5 +1,27 @@
 # titledb
 
+## titles.US.en.json
+If you are looking for titles.US.en.json, this file was deleted because it was blowing up the size of this repository.  titledb/titles.json is the exact same file as titles.US.en.json, and can be generated with https://github.com/blawar/nut using one of two ways:
+
+### Easy method
+```
+rm titledb/titles.json
+nut.py --import-region US --language en
+```
+
+### Harder method
+do a one time setup of:
+```
+rm titledb
+git clone https://github.com/blawar/titledb titledb
+```
+
+then every day run the following to update:
+```
+git -C titledb pull
+nut.py -U --import-region US --language en
+```
+
 
 ### Files
 `{region}.{language}.json` - Mapped by nsuId
