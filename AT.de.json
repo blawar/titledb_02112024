@@ -575,7 +575,7 @@
         "developer": null,
         "publisher": "Tripwire Interactive",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1475558634f8079e608b0764472bbe7185880a082d334173eae1cd8418197b9d.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/82b9634aec1dffa4cf4ac7ea3672f46d20fee1a6c7e66fa360f93cda2cb83ee7.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/095764d640155313e381bb3c1f9f6876342ce84acb82dfa0abed542e3cd29bd8.jpg",
             "https://img-eshop.cdn.nintendo.net/i/9811afad45ec7a90ae02af28c5513a69038f670bf926ce1f708ab73c52cdf189.jpg",
@@ -600,7 +600,7 @@
             "zh",
             "zh"
         ],
-        "size": 4932501504
+        "size": 4934598656
     },
     "70010000015529": {
         "id": null,
@@ -5751,6 +5751,56 @@
         ],
         "size": 4389339136
     },
+    "70010000034102": {
+        "id": "010045E012ECE000",
+        "rightsId": null,
+        "name": "Greak: Memories of Azur",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210817,
+        "nsuId": 70010000034102,
+        "category": [
+            "Action",
+            "Puzzle",
+            "Platformer",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Team17",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5b3440ab234854055a8f6f1c0d7936d4df87ac76cc5bba7cb63573f0643c51cc.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5f74961074fe161d5d2e483bd797580855826f81f45f1808e19fabe5a528984c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c76d3510c8da2ae33cdf99f7a32d4059788cf35d13e9d5cf37ef9684969f787e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7ea397a6a1af8615b4ea215039b35af49343d310d70630abe7334515e463fc7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af02ec552d2ee1b7f223b215bfe35ec7a6dc187d82399488c358e7014510b0a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d17fc812a4690f144074c358fa94853ac9a6e77ff11bbd00b1623d40f3fb339d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4170f7e335f12fed9d574bac461ec62bd45f3579eee165f376b19086a55c6aef.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b8ff3c1ca8e5f05ec840035a0b8423a1ffc5db77980c53e9e5b97dda44c4c2e3.jpg",
+        "intro": "\u00dcbernimm in diesem handgezeichneten 2D-Abenteuer die Kontrolle \u00fcber drei Geschwister und gehe mit ihnen auf eine epische Reise, um die Courines vor der Invasion der Ulag zu rett",
+        "description": "Greak: Memories of Azur ist ein Einzelspieler-Sidescroller mit handgezeichneten Animationen. Der Spieler \u00fcbernimmt die Rolle der drei Geschwister Greak, Adara und Raydel und leitet sie durch das Land Azur. Dabei muss geschickt zwischen den dreien gewechselt werden, um mit ihren einzigartigen F\u00e4higkeiten vor der Urlag-Invasion zu entkommen.\n\nGreak ist der Name des Hauptcharakters und des kleinsten Bruders von dreien. Er geh\u00f6rt zum magischen Volk der Courine, die gerade von einer Fraktion namens Urlag angegriffen werden.\u00a0\n\nDer Kampf hat sich schon lange abgezeichnet, und die Courine beginnen, aus ihrem eigenen Land zu fliehen. Greaks Ziel ist es, seinen Bruder Raydel und seine Schwester Adara zu finden und dann aus Azur zu entkommen, indem die drei St\u00fcck f\u00fcr St\u00fcck ein Luftschiff bauen.\n\nIm Laufe des Spiels findet der Spieler die Geschwister in eigenen Leveln und wird dann im weiteren Spielverlauf von ihnen begleitet und erh\u00e4lt ihre Hilfe.\n\nHandgezeichnete Grafik und Animationen: Es wartet eine fesselnde Geschichte \u00fcber Familie, Zuhause und Gemeinschaft in schweren Zeiten mit farbenfrohen und ausdrucksvollen Szenarien. \n\nLiebevoll entworfene R\u00e4tsel: Durch eigens entwickelte R\u00e4tsel gilt es, die fehlenden Teile des Luftschiffs in einer in sich verbundenen Welt zu finden.\n\nEinzigartiges Gameplay: Die magischen Lande von Azur k\u00f6nnen nur durch geschickten Wechsel der drei Charaktere und die Nutzung ihrer verschiedenen F\u00e4higkeiten vollst\u00e4ndig erforscht werden. \n\nRasante K\u00e4mpfe: Azur und seine verborgenen Winkel, die es noch zu entdecken gilt, sind von abwechslungsreichen Gegnern \u00fcberrannt. K\u00f6nnen es Greak, Adara und Raydel schaffen, diese zu besiegen und die Courine vor der Urlag-Invasion zu retten?\n\nLive-Orchester-Soundtrack: Die ausdrucksvolle und atmosph\u00e4rische Musik wurde eigens komponiert, um ein einzigartiges Abenteuer zu begleiten.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 1667235840
+    },
     "70010000034205": {
         "id": "010020C012F48000",
         "rightsId": null,
@@ -8054,7 +8104,7 @@
             "ko",
             "zh"
         ],
-        "size": 291504128
+        "size": 293601280
     },
     "70010000036091": {
         "id": "0100E21013908000",
@@ -12433,7 +12483,7 @@
             "de",
             "it"
         ],
-        "size": 99614720
+        "size": 243269632
     },
     "70010000038734": {
         "id": "01003200144CA000",
@@ -12957,6 +13007,56 @@
             "zh"
         ],
         "size": 346030080
+    },
+    "70010000039003": {
+        "id": "010031B0145B4000",
+        "rightsId": null,
+        "name": "Road 96",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210816,
+        "nsuId": 70010000039003,
+        "category": [
+            "Adventure",
+            "Action",
+            "Puzzle",
+            "Andere"
+        ],
+        "ratingContent": [
+            "Intensive Gewalt"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "DIGIXART ENTERTAINMENT",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/618430b568d89531b0c98bdffa2c40952005c25ebfda335007454c8377b818ed.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/79b69199458419c2fe1ccc04072c7c83f42358bdfefc6e8315ea2f69452944ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e45d2cce808e3e50e5a53c454ceb164562c85ae22e695f70767615d16c9e88a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98448da639e92a5c2614461d242e6eb138df310e893aed6eea2fd63aa6accb00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b22cb3eeafcbc76a199d45c0b5937c17e31e792e24c56eaceffe2e0328f6257.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0309b9ed682332c0e77e2c0861020af33e3df4468b99922637d0b377871341a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c1957f571fc63f2687367cb9991c811f81cadc670524b3883430fe6c063a260.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/88316667e5877aec512dd29ebcda9c7deb5d3a8dbe410a39886800be310edc91.jpg",
+        "intro": "Erk\u00e4mpfe dir in diesem irren, von renommierten Indie-Machern entwickelten Roadtrip, per Anhalter den Weg in die Freiheit.\nKein Weg ist wie der andere!",
+        "description": "Sommer 1996. Heute ist es soweit!\n\nDu machst dich auf den Weg.\nAbenteuer. Freiheit. Fliehe. Entkomme.\nEntkomme dem Regime.\nVersuche, zu \u00fcberleben.\n\nAuf dieser riskanten Reise zur Grenze wirst du unglaublichen Charakteren begegnen und in einem sich fortlaufend weiterentwickelnden Abenteuer ihre miteinander verflochtenen Geschichten und Geheimnisse entdecken.\nJede Meile, die du zur\u00fccklegst, bietet dir neue M\u00f6glichkeiten.\nDeine Entscheidungen werden dein Abenteuer und die Menschen, denen du begegnest, ver\u00e4ndern \u2013 vielleicht sogar die Welt.\n\nEs gibt Tausende von Stra\u00dfen, die durch das autorit\u00e4re Land Petria f\u00fchren.\nWelche wirst du w\u00e4hlen?\n\n\nRoad 96 ist ein verr\u00fcckter, wunderbarer Roadtrip.\nEntdecke aufregende Orte und ungew\u00f6hnliche Menschen auf deiner ganz pers\u00f6nlichen Reise in die Freiheit.\n\nAction-geladene Momente, Entdeckungen, nachdenkliche Melancholie, menschliche Begegnungen und verr\u00fcckte Situationen. Vor dem Hintergrund von autorit\u00e4rer Herrschaft und Unterdr\u00fcckung.\n\nEin atemberaubender visueller Stil, ein Soundtrack voller Hits aus den 90er Jahren und Tausende von Routen durch das Spiel werden kombiniert, sodass jeder Spieler bei Road 96 seine eigene, einzigartige Geschichte kreieren kann.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 3077570560
     },
     "70010000039007": {
         "id": "010000E0145BA000",
@@ -25024,6 +25124,50 @@
         ],
         "size": 462422016
     },
+    "70010000042910": {
+        "id": "01009E8015704000",
+        "rightsId": null,
+        "name": "Bone Marrow",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210806,
+        "nsuId": 70010000042910,
+        "category": [
+            "Puzzle",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Intensive Gewalt"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5a35daa4c7ed0ad6dbb4fb61856ce8e1076d8a6635e6ecf76eacce8f49f267ec.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4d03eacdf6b5afdfd118eda486995905b52826b998634989513537279968db4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2c5b72ea3c0d79d2ff6f717157cd5849a3d0475ae2edb18321d4175bfbe54ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63b9c2f898c1cbc55a106c646b3b913b841aa3e4cdecfbb0293136be8fd67694.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32e26d21bbfe6643c2351ba52c7230990158e5ac83e5f651a9eae5b7884901e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b6c9c9adc79aa799f31f07e45ae9a596ee511e89d587b1aba1c9d3522e44343.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a36e9ba3bd1d444250f397f8d46cde02e6a2bf82666d3b4cc00730af7b15135.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c78c93e8fcf242f7694d4350f892627158db4f08ad94cafcfb155a55642d91ce.jpg",
+        "intro": "Eine epische Fantasy-Variante eines klassischen Puzzlespiels.",
+        "description": "Bone Marrow ist zum Teil Rollenspiel, zum Teil Logikpuzzle.\n\nZahlen m\u00fcssen zu Paaren kombiniert werden, sind aber auch mit Gegenst\u00e4nden gekoppelt. Durch das Kombinieren kannst du bessere Waffen, Schilde und Tr\u00e4nke herstellen, die deinen Angriff oder deine Verteidigung gegen dunkle Monster verst\u00e4rken.\n\nDoch ein falscher Zug hat Konsequenzen!\nWenn du ein Fan von Puzzles, mittelalterlicher \u00c4sthetik und elegantem, simplem Gameplay bist, dann ist Bone Marrow genau das Richtige f\u00fcr dich!\n\nFeatures:\n* Eine neue Variante eines klassischen Puzzlespiels\n* Freischaltbare Charaktere\n* 4 spielbare Karten\n* 2-Spieler-Modus\n* D\u00fcsterer mittelalterlicher Look und Sound",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru"
+        ],
+        "size": 70254592
+    },
     "70010000042925": {
         "id": null,
         "rightsId": null,
@@ -26983,6 +27127,35 @@
         "languages": null,
         "size": 860880896,
         "parentId": "01004FA01391A000"
+    },
+    "70030000013945": {
+        "id": null,
+        "rightsId": null,
+        "name": "Greak: Memories of Azur Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000013945,
+        "category": null,
+        "ratingContent": [
+            "Fear",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 623902720,
+        "parentId": "010045E012ECE000"
     },
     "70030000014064": {
         "id": null,
@@ -41403,6 +41576,38 @@
         "description": "Was w\u00fcrdest du tun, um jemanden zur\u00fcckzubringen, den du liebst?\n\nSword of the Necromancer ist ein Dungeon-Crawler Action-RPG mit Rogue-\u00e4hnlichen Elementen, in dem du deine besiegten Feinde wiederbeleben kannst, um sie an deiner Seite k\u00e4mpfen zu lassen.\n\nMach deine Feinde zu Verb\u00fcndeten, indem du die verbotenen Kr\u00e4fte des Schwert des Nekromanten einsetzt und Tama dabei hilfst, in die Tiefen des Dungeons zu gelangen, um genug Macht zu erlangen, um Koko von den Toten zur\u00fcckzuholen.\n\nVersammle eine kleine Armee von Monstern, r\u00fcste dich mit Waffen und Reliquien aus und levele hoch, um es mit den W\u00e4chtern aufzunehmen, die zwischen dir und deinem Ziel stehen.\n\n- Verwandle deine Feinde in Verb\u00fcndete: Benutze das Schwert des Nekromanten, um besiegte Monster wiederzubeleben und sie an deiner Seite k\u00e4mpfen zu lassen.\n- Sammle Waffen und Relikte: Jede Waffe unterscheidet sich von den anderen dank des prozeduralen Waffengenerierungssystems, das ihnen verschiedene Effekte und Attribute verleiht.\n- K\u00e4mpfe mit all deiner Kraft: Besiege deine Feinde mit einer Vielzahl von Waffen und Gegenst\u00e4nden und meistere das reibungslose Kopf-an-Kopf-Kampfsystem.\n- Level aufsteigen: Verbessere deinen Charakter durch den Kampf gegen Feinde und steigere deine Fertigkeiten. Verbessere deine beschworenen Monster, indem du an ihrer Seite k\u00e4mpfst. \n- Der Tod ist nicht das Ende: Jeder Versuch bringt dich n\u00e4her an den Nekromanten heran. Du verlierst alle deine ausger\u00fcsteten Waffen und Monster, beh\u00e4ltst aber einen Teil der Stufe, die du in deinem Lauf erreicht hast. \n- Entdecke die Vergangenheit von Tama und Koko, w\u00e4hrend du durch das Dungeon voranschreitest. \n- Lokales Co-op-Spiel: Verwende die Flasche des Homunkulus, um eine Kopie des spielbaren Charakters zu erstellen und spiele mit einem Freund im lokalen Co-op-Spiel.\n- IR-Code: Lies die IR-Code ein, um das Spiel zu erleichtern. Oder schwieriger zu machen!\n\n\"Die Legende besagt, dass tief in diesen Bergen ein H\u00e4retiker den Willen der G\u00f6tter gebrochen hat, um ewiges Leben zu erlangen.\n\nDer H\u00e4retiker hatte Erfolg mit diesem abartigen Versuch und schuf ein Werkzeug f\u00fcr verbotene Rituale, die Unsterblichkeit gew\u00e4hren sollten...\n\n...und vielleicht sogar die Toten zur\u00fcckbringen.\n\nIm Laufe der Jahrhunderte haben viele versucht, diese Macht f\u00fcr sich zu beanspruchen, aber alles, was sie in der Krypta des Nekromanten fanden, war ihr Verderben.\n\nSie sagen, dass das vom Nekromanten geschaffene Instrument auch eine Waffe ist...\n\nSie nennen es das 'Schwert des Nekromanten'\"\n\nTama ist ein ehemaliger Schurke, der den Auftrag hat, die Priesterin Koko auf ihrer Pilgerreise durch den Kontinent zu besch\u00fctzen. W\u00e4hrend ihrer Reise stirbt Koko, und Tama tr\u00e4gt ihren K\u00f6rper in die Krypta des Nekromanten, wo der Legende nach eine Macht wohnt, die die Toten auferstehen lassen kann.\n\nErf\u00fcllt von Verzweiflung betritt Tama den Dungeon mit dem Ziel, die verbotene Macht der Nekromanten zu erlangen, und beachtet dabei nicht die Gefahren, die in den Schatten lauern.",
         "languages": null,
         "size": 1280311296
+    },
+    "70070000012577": {
+        "id": null,
+        "rightsId": null,
+        "name": "Escape Game Fort Boyard - New Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210721,
+        "nsuId": 70070000012577,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Microids",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/11caa914fadd836e28ecff08195f83a497dd2b9fd642ba6c24cf3ce650fbd47f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2db669944f24d01e18cd7bea43291e8f6382ea7033ce8acdc7e16a788a0bb3d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8745cde0aad3ca34fe7e94e5fe771d31c49fef347b3998bcb8f3ff6bf9c8b82f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df3cb5c437a700de48bb043879c3f69426f5f5d79a9d9c40e70456501b511d70.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b807e2bf392cc28b0a9b9eb91bd03a9653a8f69891d06040c407ce1237d53e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4bab6a0b04026d3a130e54e176852430ce7a392b18185bf9b105e12d25090d45.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e1d0b173def0053405ff938d12483433e2fa9bad51cf1679560b220e97182ff6.jpg",
+        "intro": "Meistern Sie alle Bew\u00e4hrungsproben, treten Sie gegen Ihre Freunde an und fliehen Sie aus dem Fort mit dem Schatz!",
+        "description": "\"Wie w\u00e4re es mit neuen Einzel- und Multiplayer-Bew\u00e4hrungsproben?\n\nBereiten Sie sich gut vor, trainieren Sie Ihre grauen Zellen und w\u00e4rmen Sie Ihre Muskeln auf f\u00fcr die neue Ausgabe von \u201eEscape Game Fort Boyard\u201c!\nAuf Ihr Team warten erbarmungslose Bew\u00e4hrungsproben! Stellen Sie sich denen allein oder mit Freunden oder Familie. Sie werden all Ihr Energie f\u00fcr die Flucht aus dem Fort mit dem Schatz brauchen...\n\nUnd denken Sie daran: Sollten Sie bei einer Bew\u00e4hrungsprobe scheitern\u00a0... m\u00fcssen Sie ganz allein aus Ihrer Gef\u00e4ngniszelle entkommen!\"\n\nBESONDERE FUNKTIONEN\n\n- Passen Sie Ihre Charaktere und Ihr Team an und personalisieren Sie so Ihr ganz eigenes Spielvergn\u00fcgen.\n- Stellen Sie sich in 31\u00a0anspruchsvollen und gnadenlosen Bew\u00e4hrungsproben den kniffligen Denkaufgaben, lassen Sie Ihre Muskeln spielen und beweisen Sie Ihre Geschicklichkeit.\n- Abwechslungsreiche Spielmodi f\u00fcr jeden Spieler: Sie k\u00f6nnen Ihre Schwierigkeitsstufe an Ihre Fertigkeiten anpassen und dabei entweder einzeln im Abenteuer-Modus oder mit Freunden im Multiplayer-Boyard-Party-Modus spielen. \n- Der Versus-Modus ist jetzt noch intensiver: Treten Sie in 1-versus-1-Bew\u00e4hrungsproben wie \u201eDoppel-Sensenmann\u201c, \u201eVon der Erde zum Mond\u201c oder \u201eFormen\u201c gegen Ihre Freunde und Familie an.\n\n",
+        "languages": null,
+        "size": 2797600768
     },
     "70070000012579": {
         "id": null,
