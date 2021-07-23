@@ -2880,6 +2880,46 @@
         ],
         "size": 14573109248
     },
+    "70010000028513": {
+        "id": "01009B901145C000",
+        "rightsId": null,
+        "name": "B.ARK",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210729,
+        "nsuId": 70010000028513,
+        "category": [
+            "Mehrspieler",
+            "Party",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Gem\u00e4\u00dfigte Gewalt"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 7,
+        "developer": null,
+        "publisher": "TicToc Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/25921818a49e0370d22379be4b7700e636fd08af2791bac755a19063a65f1d35.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/225aee73b2dea37d67a3083bf7855350815796b1147520f6691a2256c28ff53b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/625472c4e2602c1ed9634ab8366928329a80132140c9de40de2387a3a5e02358.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6269925c12247091e7bf7388bb1422020f1019e260a25563c8f049a0b8aed377.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/442cc5407e114984d82863b7c41b594b2d93cdf726c3c9060258cf6be9a3acf1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40a394c5bd5dd87d428af3c76dbe7443d02dc599658fd9458e887a3b1a552e30.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8755259b0e9809a9de209905271e5680d21dcf7d3d5928fcf48d969cdf17fc99.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/315b87c083aa7aa09bb907932d07e8fb4a4a47ce1255c60c586e324df36aed01.jpg",
+        "intro": "Steuere im familienfreundlichen CouchKoop-Weltraumshooter B.ARK mit Familie und Freunden eine Gruppe Tierhelden, w\u00e4hrend du dir einen Weg durch b\u00f6se Wasserbewohner schie\u00dft",
+        "description": "Unsere einzige Hoffnung auf \u00dcberleben ruht in den Pfoten der pelzigen, aber kampflustigen Mitglieder von Team B.ARK. Die kybernetische Fischarmada, die unter dem Namen Dunkelwelle (\u201eDark Tide\u201c) bekannt ist, hat die Erde \u00fcbernommen und schickt ihre aquatische Flotte ins All.\n\nBereise und verteidige unser Sonnensystem, w\u00e4hrend sich der Hund Barker, die Katze Felicity, der B\u00e4r Lucio und der Hase Marv ihren Weg durch Wellen von rachs\u00fcchtigen Aqua-Mechs tauchen, tunken, ausweichen und schie\u00dfen. Spiele mit deiner Familie und deinen Freunden. Arbeitet als Team, um die Dunkelwelle zu besiegen und eure Heimat zur\u00fcckzuerobern!\n\nSpielmerkmale:\n\u2022 FLIEGE EINEN M\u00c4CHTIGEN TIERHELDEN \u2013 Jeder Pilot hat seine eigene Geschichte und seinen eigenen Spezialangriff, der zu seinem Charakter passt.\n\u2022 ERKUNDE EIN VON HAND ANIMIERTES SONNENSYSTEM \u2013 Die Welt von B.ARK ist vollst\u00e4ndig von Hand gezeichnet und animiert, was schrullige Figuren zum Treffen, Feinde zum Besiegen und Planeten zum Erkunden bietet.\n\u2022 SPIELT ZUSAMMEN, UM EINZIGARTIGE KOMBINATIONSANGRIFFE DURCHZUF\u00dcHREN \u2013 Wenn du mit deinen Teammitgliedern zusammenarbeitest, k\u00f6nnt ihr eure Superangriffe zu Kombinationen von einem anderen Stern verschmelzen lassen.\n\nK\u00f6nnt ihr die Dunkelwelle besiegen, bevor ihre Tiefseetruppen das Sonnensystem \u00fcbernehmen?! Halte in B.ARK den Robotergegner in Schach und erobere die Erde zur\u00fcck!",
+        "languages": [
+            "en"
+        ],
+        "size": 1087373312
+    },
     "70010000028550": {
         "id": "0100BE5011486000",
         "rightsId": null,
@@ -3841,6 +3881,50 @@
             "ru"
         ],
         "size": 413138944
+    },
+    "70010000031178": {
+        "id": null,
+        "rightsId": null,
+        "name": "Tennis World Tour 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20201015,
+        "nsuId": 70010000031178,
+        "category": [
+            "Sport",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Nacon",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/689ee5698dc717f2b270997bed604ceadc804b2f6112ea329a05aa73b5082e0e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/66129d7538751da184ab54354f08642c3b2a3f55f5acf56bf5b3c4c094159e9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a4b94d11e6432d1940eb8147b244ad6b88a5833ee45b97f7ffae6c15b5f61a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70fcda868f0c5307ef68fdee535d94cdd1945c22c9eafd8854e6a4be1e49c197.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b033dc7031c0807baaf61f079dd21af58e7f57f130290209d16fccbe9a683c4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/920d863ad53a7daa4ea2323709f419d968300d96f02db101e58140a33b2833da.jpg",
+        "intro": null,
+        "description": "Spiele in der Rolle der weltbesten Spieler oder erschaffe deinen eigenen und versuche, die Spitze der Weltrangliste zu erklimmen. Noch schneller, noch mehr Animationen und noch mehr Realismus: Du erlebst authentisches Tennis im Einzel oder Doppel und du kannst deine Freunde vor Ort oder online herausfordern.\n\nDAS WAHRE LEBEN EINES TENNISPROFIS\nDein Spieler, deine Entscheidungen. Im Karrieremodus verwaltest du deine Saison, deine Mitarbeiter, deine Ausr\u00fcstung und deine Sponsoren. Und wenn du der Sache gewachsen bist, wird aus dir vielleicht der neue Star im Welttennis.\n\nSPEZIELL F\u00dcR TENNISFANS\nBeherrsche das Timing deiner Schl\u00e4ge, das neue Aufschlagsystem und all die Spielz\u00fcge, die deine Gegner in die Knie zwingen\u00a0\u2013 f\u00fcr ein Spiel rein zum Vergn\u00fcgen oder f\u00fcr den Sieg im Ranglistenmodus.\n\nDER NERVENKITZEL AUF DEM PLATZ\nMehr Animationen, mehr Schl\u00e4ge, h\u00f6heres Tempo\u00a0\u2026 Du erlebst ein dynamisches, \u00fcberaus realistisches und pr\u00e4zises Spiel, das dich mitten hinein in legend\u00e4re Ballwechsel f\u00fchrt.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 5765070848
     },
     "70010000031448": {
         "id": "01008DE0121F4000",
@@ -5848,6 +5932,43 @@
             "zh"
         ],
         "size": 760217600
+    },
+    "70010000034221": {
+        "id": "01003E0012F5A000",
+        "rightsId": null,
+        "name": "Alfonzo's Arctic Adventure",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210730,
+        "nsuId": 70010000034221,
+        "category": [
+            "Platformer",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Limited Run Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9d3631ad0f428cb69376a29f4184db2d25bf5a1f0e4e193b99f7a93bfc70ac34.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ad41302c114e3fb31ea4d341f22b1e87d7941cd1e19a440250fa666a48f1b719.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca8cc60dc0bd11f24f31f62acab56dfe28652bb2380e861c4b3fd553ae311411.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15419b61144c07c2a0a683ddc080c39cc43eb13bf226e5452258c82ddc52fc53.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e307b44145c73cc80854ba7398ab040aae8d0f2b195d4927208853c0684bf8c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db2e2ac168c1e6d952a1a334774924caf16d7c904b0fcc546dfe1c11e43aba7e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/876c492cc13a0e53c18670aabb086472c3e204e3bea8de2894d84cfdeb5284b8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3ccdbbb2cfed1e4723a2736c5bdce32793989f41f11494427a9b434af8c0d6ca.jpg",
+        "intro": null,
+        "description": "Let's go poke the walrus with a stick!\n\nBased on the beloved noughties Flash cartoon, you take the role of Alfonzo on a quest to find your missing best friend, Bob. Because Bob\u2019s favorite food is fish, you decide to collect as many fish as you can while searching for him! With your trusty stick at your side, travel through over 90 levels filled with crafty puzzles, terrifying traps, and dangerous enemies. Luckily, you aren\u2019t alone on your adventure! Your friends are here to help, including the power-punching Magnus, the near-invulnerable Fenwood, and the sword-wielding Girl. Collect fish, find Bob, and maybe even save the world along the way!\n\nAlfonzo\u2019s Arctic Adventure is packed with tons of features and content!\n\n* Four different playable characters\n* Over 90 levels split into 6 episodes\n* More than 30 types of enemies to encounter\n* Seven unique boss battles\n* World map for level selection\n* Secret exits and branching paths\n* Two-player melee mode\n* And so much more...",
+        "languages": [
+            "en"
+        ],
+        "size": 174063616
     },
     "70010000034227": {
         "id": null,
@@ -9000,7 +9121,7 @@
             "ru",
             "zh"
         ],
-        "size": 694157312
+        "size": 1169162240
     },
     "70010000036846": {
         "id": "010026F013B3A000",
@@ -11506,7 +11627,7 @@
             "en",
             "fr"
         ],
-        "size": 380633088
+        "size": 378535936
     },
     "70010000038285": {
         "id": "0100ACB014104000",
@@ -14990,7 +15111,7 @@
         "developer": null,
         "publisher": "IceTorch",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4bfed4f8efe7864812c843a819b37f49cf2d1364282e0ab2529a8db188a53b86.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f7a0b108fa4f504a91a84ed70ce7d6b2000c18e8bffcf4d74b7fe3916f7aa767.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/b934db5ede04f235e00a2342be7c8f16422a31d10cc03f587ca2fdebdd07c5c5.jpg",
             "https://img-eshop.cdn.nintendo.net/i/9723676eafe4de993d0b6f21ffe76dd5f3571c5b7cc9d0915842d8035b356a48.jpg",
@@ -15005,7 +15126,7 @@
         "languages": [
             "en"
         ],
-        "size": 362807296
+        "size": 403701760
     },
     "70010000039593": {
         "id": "01008D80148C8000",
@@ -16437,6 +16558,50 @@
             "zh"
         ],
         "size": 3914334208
+    },
+    "70010000040066": {
+        "id": "0100DD1014AB8000",
+        "rightsId": null,
+        "name": "Black Book",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210810,
+        "nsuId": 70010000040066,
+        "category": [
+            "Adventure",
+            "RPG",
+            "Strategie",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Angst",
+            "Gem\u00e4\u00dfigte Gewalt"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "HYPETRAIN DIGITAL",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8926f33ab408b596e90b452f4b598aecfcc6b3c1ab9da4d21ad05bedfadcdfe1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/177bd8191390551268988728293c276088c4c1a68df3782a4362cbbc212b7504.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bfddfaef3883025d579be999fe8753e0d909f6a7485800e9b0802ed43df69622.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee514f52931d2ac7d9bb8744793b00b0aa0140859d5c613f018376c45e72c6f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f6558df458acb3c148f659c94ce4f90e4fad96ae53705c3ba166676d7879696.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c13164e2cbddb67f07420d0ed192a941df886dfd7766c0c67629140d3791a226.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6464a52489be22e6cc5a7881a1d91b98251f2a014888ef3474a797e2b66a5dc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4045344fb515c05e971f67e67e3fa994c4dd37f47e210a90c4046de9ed4aaa45.jpg",
+        "intro": "Fight evil forces in card-based battles and explore the world, where humans live alongside mythological creatures.",
+        "description": "A fusion of card-based RPGs and Adventure games, \u201cBlack Book\u201d is a haunting tale of a young sorceress, who gave her life to serve the dark forces. Dive into the cold, yet alluring world of Slavic folktales - and uncover the secrets that hide in the darkness.\n\nA young girl named Vasilisa, destined to become a witch, decides to throw her fate away and marry her beloved - but that dream is shattered when her betrothed dies under mysterious circumstances.\n\nAching for her lost love, Vasilisa seeks out the Black Book - a demonic artifact said to be powerful enough to grant any wish to the one who uncovers all 7 of its seals. Join Vasilisa in her adventures across the rural countryside, as she solves the woes of the common folk by confronting demons and performing exorcisms.\n\n- Uncover the seals of Black Book\nUnleash hellish spells on your enemies! Collect spell cards and new skills as you progress.\n\n- A Historic Adventure\nSolve riddles and complete side-quests as you learn more about life in the Slavic countryside.\n\n- Lead a Demonic Flock\nSend demons to do your bidding, but be careful - idle demons will torture you if you don\u2019t find them something to do!\n\n- Myths and legends\nExplore a world based on Northern Slavic mythology. Learn from an in-game encyclopedia, created with the help of expert anthropologists - and find all folk tales hidden within the game!",
+        "languages": [
+            "en",
+            "ru",
+            "zh"
+        ],
+        "size": 1728053248
     },
     "70010000040079": {
         "id": "0100F18014AC2000",
@@ -20897,6 +21062,42 @@
         ],
         "size": 683671552
     },
+    "70010000041219": {
+        "id": "0100C4E015078000",
+        "rightsId": null,
+        "name": "Gaps by POWGI",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210722,
+        "nsuId": 70010000041219,
+        "category": [
+            "Puzzle",
+            "Lernspiel",
+            "Training",
+            "Study"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Lightwood Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9f437221cf7f63ddad108b0f008f282d46e054935f586ddb0a0fac50df5b65e5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2c9af1953effc85cab52a8646cc5956b162cccf0abe337c039a8277735633d68.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/172150ee587901a9cb857a7cc6e1613b88a0c2fb4f1ca4fcbe0c18418673b144.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e40df3d64a7bfefb0aaaa9c020416eb65e14435d01812d1ac5c7bd0e3f39647b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/76462600ec817e31156dd274b48605695cb0165b587b1c64b71e9d8fb95003ce.jpg",
+        "intro": null,
+        "description": "These words have one letter missing. Deduce the correct letters to fill the gaps and spell a new word, but watch out for red herrings!\n\nThere are 150 puzzles to solve - and 150 terrible jokes.",
+        "languages": [
+            "en"
+        ],
+        "size": 79691776
+    },
     "70010000041223": {
         "id": "01006F701507A000",
         "rightsId": null,
@@ -21697,6 +21898,42 @@
         ],
         "size": 62914560
     },
+    "70010000041493": {
+        "id": "01003840151F8000",
+        "rightsId": null,
+        "name": "Memory Lane 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210803,
+        "nsuId": 70010000041493,
+        "category": [
+            "Puzzle",
+            "Lernspiel",
+            "Training"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Playstige Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16a6e8ca3c6f02487bc94f97a0f102eebaa40ce154f15e483d85bbe537dfb13c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5dd45ea92edad0055aa8b8eb8f20a93aac3f09d7a71b8752545f3944732deda1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1c108fd931d814e80be8efc57b51a87f5046ea05331e65359290aef5eaabfd0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d037bdeb64dc1d956dad3a1c8454f465f5e4576f2cfd6d27125a6be009bab70.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0442be5d6c15d3a933d0877f0e3e8d054fe53b57ed7c10352e9cccc020a2aa80.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bf76b5db8ad3a084708cdb2d7bd0984bbcdfce6b11210948cacecc2a0d330ebf.jpg",
+        "intro": null,
+        "description": "Dein Lieblings-Ged\u00e4chtnistrainingsspiel ist zur\u00fcck!\nJetzt mit mehr Kartens\u00e4tzen und mit mehr Musik!\nW\u00e4hlen Sie aus 8 verschiedenen Kartens\u00e4tzen\nH\u00f6ren Sie mehr als 30 entspannende und inspirierende Musiktitel.\nSchalte neue Faktoide frei und lerne, wie das menschliche Gehirn funktioniert und wie unser Ged\u00e4chtnis funktioniert.",
+        "languages": [
+            "en"
+        ],
+        "size": 451936256
+    },
     "70010000041498": {
         "id": "01000810151FA000",
         "rightsId": null,
@@ -22456,6 +22693,46 @@
             "zh"
         ],
         "size": 174063616
+    },
+    "70010000041734": {
+        "id": "010098E0148D6000",
+        "rightsId": null,
+        "name": "Dragon Question",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210701,
+        "nsuId": 70010000041734,
+        "category": [
+            "Study",
+            "Training",
+            "Puzzle",
+            "RPG"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Game Museum",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9d3e35c0dd4fd98a5adeb18ece28f1600caa64e734c09e68492819c5f144e662.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/11740b54b651e8e445cdd33c44707a6d8cc9496a5a2125dcbc6726edf170a067.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d621cc720382944276f2f2a224b41ab881f0b95917b4a9bd9e6ce0bdfa30f0fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5cbdaac765eb4110ed31929663b1da7aa9dda56b61bdc087e0431b5e58bad3d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e2109367b99c32ba9236d3bc77ebe42ba8a0677294468ea10579c1df482ad5e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be3329b6fe4a0d65f2d5c9d276d674d6f152c3a58b86a38eb5ba0df914444113.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f9a0a9f00bbb314f9dce6ade2f9c850271b738d16abb6ff0505368ec87493525.jpg",
+        "intro": "The best 'Edu-tainment' game which helps you improve your math skills!",
+        "description": "Dragon Question is an edutainment software that combines mathematical exercises with the defense genre.\n\nYou are Archmage Ryn, tasked with guarding the millennial kingdom of Mathateria.\nDefend the gates by solving math problems from hordes of monsters.\nDefend all four gates before a showdown with Isaac, the dragon of doom, and the main culprit behind the chaos.\n\nYou will come across math problems in three forms.\n1. Simple problem solving - General Battle\n2. Quick-fire questions where you have to guess the right answer - Special Magic Time\n3. Solve three questions and enter them in order of numbers - Final Boss Battle\n\nRyn uses three  types of magic.\nEarth magic deals physical shock.\nIce magic blocks enemies behind you.\nFire magic deals damage to enemies in front of and behind you.\nMagics can be upgraded to Level 3, switch between them according to situation.\n\nEven the explanation looks difficult, huh?\nThere are three levels of difficulty in Dragon Question.\nThe lowest difficulty level was created easy enough even for elementary school students to enjoy.\nBut just because it's called 'easy' doesn't mean it is a piece of cake.\nEach wave and stage will have ever-changing difficulty, so you can feel a great sense of achievement when you complete it.\nIt has been designed to improve math skills while providing a challenge with a sense of achievement.\nThere are also normal and hard difficulties, for users who have general mental arithmetic skills and those who are skilled in mental arithmetic respectively.\nIn addition, there are also modes where you can practice addition, subtraction, multiplication and division.\n\nWe hope you enjoy getting to know math with Dragon Question.",
+        "languages": [
+            "ja",
+            "en",
+            "ko"
+        ],
+        "size": 180355072
     },
     "70010000041774": {
         "id": "01002AF014F4C000",
@@ -23812,6 +24089,47 @@
         ],
         "size": 786432000
     },
+    "70010000042141": {
+        "id": "01005A8015436000",
+        "rightsId": null,
+        "name": "OS Omega",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210729,
+        "nsuId": 70010000042141,
+        "category": [
+            "Action",
+            "RPG",
+            "Shooter",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Gem\u00e4\u00dfigte Gewalt"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "RockGame",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/409c30ff3035340a9ece0a6eb5c7043d3a0dbd60722f80a76dc2b938536935d7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/74b5180f8e841baeacc4fcf6fd3d63b470c09a62d05aeb65e368fa34c7d90f12.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c0a4dc81ad009a07adf9c362b1e041ba0f914a01a9e0a9215251d2f31a271da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3be5f88bb018a08b3b992e06acaabe92f16cd562e88ed76c45b54a6294d936a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75d06727a7c085cf190c1d0637e7ad5cb76ef1e26de14a04d6b3fa3c8ca17fd3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22b46adc93772beddd570c2d77e8e60833263bc8c0497a04c89a7ea2d155a3bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/acba74688df9ed1822b70a43fd9c285316a1f99f724f75902fc1523be0a85ed7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/de21dca65502221a37c9f6f8e26149c9685499037713c7924f889fdaea23e84b.jpg",
+        "intro": "You are Binary Boy, an agent of OS Omega and your goal is to defeat the virus that wants to format the C drive of the computer you must protect.",
+        "description": "OS OMEGA is an action-adventure game set in a hostile operating system environment. You are Binary Boy, an agent of OS Omega and your goal is to defeat the virus that wants to format the C drive of the computer you must protect.\n\nThe game mixes perma-death twin-stick shooter with RPG-style quest fullfilling.\n\nThe gameplay consists mostly of fighting and exploring, but there's also talking, puzzle-solving and quests fullfilling.\n\nGet the computer rid of the virus minions named Mega Evil Chip, Uber Generic Villain, Hyper Elastic Eliminator or Ultra Creepy Cursor. \nFight the statues of an ancient device known as Joystick and defeat bosses like Random Cube Mega-Lith, Electro Exterminator or Monolith Eye Of Slow And Painful Death.\n\nThe game features \n- 76 original weapones (Split Ricochet Gun, Homing Crawlers Gun, Random Floater Gun, Rope Jumper Gun, Spill Disc Gun, Big Bullet Blaster, Electro Laser SMG, ...)\n- dozen of abilities (Turbo Mode, Power Save Mode, Force Field Absorb CPU, Dash Random, Pain Wave Ultra, ...)\n- and many quests",
+        "languages": [
+            "en"
+        ],
+        "size": 463470592
+    },
     "70010000042152": {
         "id": "010086901543E000",
         "rightsId": null,
@@ -24808,6 +25126,45 @@
             "en"
         ],
         "size": 59768832
+    },
+    "70010000042625": {
+        "id": "01005E3008452000",
+        "rightsId": null,
+        "name": "Hindsight 20/20 - Wrath of the Raakshasa",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210909,
+        "nsuId": 70010000042625,
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Intensive Gewalt"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Triple-I Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6a7c035d026ba6a4b1f285655ea4e844fae1a6a87278d55087d2397f68e7059a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d4c0cf667b1d2373293cbf27abf2a085819e0e207f8718bc5dca1d9232240071.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce5f34464cf8f0f1b34262251050821d8f3a87bbb36e554227ad0a720c990922.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/54d9a415049b025589a22edee92bca8cc4d5f2f8780fbe32c8b4d00881c643d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2bfdad0ea1f9af3db743ba11288c4e7234babde08728792008d219ccc5d723ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0631f52f1a9bbff2840d5b0724d80d6127b192f620293e8d7cf6b1ae6413531.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08c7832a40756167ac5c249b4ea442f7148b0223478b860f5ce6fe6139addc48.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2553c4f427d806f6affde27b5222ebf94499be94f361d4f8958ba2c2401a90b1.jpg",
+        "intro": "Hindsight 20/20 is a 3D third-person action RPG with morality decisions. Discover the power of your morality with choices and actions that truly matter.",
+        "description": "Hindsight 20/20 - Wrath of the Raakshasa is a 3D third-person action RPG where players can fix mistakes from past playthroughs and relive them for vastly different gameplay and story experiences. Discover the power of morality in each journey where choices and actions have meaningful consequences. \n\nHindsight 20/20 is founded on five pillars:\n\n1. Choice in Combat: \nDecide the fate of two kingdoms as one-armed warrior Jehan. Will he choose to respect the values of his former home by respecting life in all forms? Or will he choose the path of conflict and violence? Before every battle, make the conscious decision to wield a non-lethal stun rod to pacify enemies or a ruthless sword to put them down for good. \n\n2. A Malleable World: \nChampaner and its inhabitants switch between several states of disdain or acceptance for Jehan. Each playthrough shows only one version of the world as both the town and its inhabitants experience the effects of Jehan\u2019s choices and actions.\n\n3. Interesting AI and Bosses: \nAll NPCs react to the world Jehan shapes. Dialogue options and weapon choice are only two factors in how the AI behaves. Hindsight 20/20\u2019s bosses exhibit emotion, making them more relatable. Nuances in their personality come to light as Jehan continues on his journey. The line between good and evil blurs as they react to Jehan. \n\n4. The Experience Engine: \nThe Experience Engine is a hand-crafted, in-house gameplay engine driven by player choice. This engine is solely responsible for creating the dynamic gameplay and story experiences Jehan witnesses. Every action and choice made is observed and recorded by the Experience Engine leading to a high level of replayability. This feedback loop of choices, actions, and reactions affect the flow of the story and drives the gameplay of Hindsight 20/20.\n\n5. Ten different endings:\nHindsight 20/20 has 10 different endings and four of those endings have absolutely no overlap. Each ending is carefully tailored to the choices and actions made in that journey.",
+        "languages": [
+            "en"
+        ],
+        "size": 15787360256
     },
     "70010000042640": {
         "id": "0100F41015614000",
@@ -25955,6 +26312,56 @@
         ],
         "size": 203423744
     },
+    "70010000043396": {
+        "id": "01007E9015750000",
+        "rightsId": null,
+        "name": "Have a Blast",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210826,
+        "nsuId": 70010000043396,
+        "category": [
+            "Mehrspieler",
+            "Party",
+            "Shooter",
+            "Action"
+        ],
+        "ratingContent": [
+            "Moderate Gewalt"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Firenut",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f563948a6adfc55a87716185b2cb40521dbeefeaafaedb738d16867998d24c8d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3f0470cc1d68a221e7835c2721d83ba3bae60694b6777888eeb95d0ee5e1f0bf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/290432ddd533d5d4b9de583b7f06db91d60b299b1affb2089fa2a688c5ac8061.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e20abe1862629b758767f4bcd324a56b5cfe93a43ccd0280806e3a2c86dc226.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/50f028730c8ee36c350f349069acef2bc180ff8c96d6f3ba7ed41356c1b01ce7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c81d62b6cc3c0de86c90f9be5e09cdd130eb0eeda2ba79c34c4f6e1d8cddab8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95964f1c3c274f94a442362a41013236572d0b7c1943df2456155454afb07962.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/59ce4d407edff9a54dcdb69af679378b5be9ddcdaddca69dea3b33ef1e41b4df.jpg",
+        "intro": "Have a Blast ist in Action-geladenes, super rasantes Multiplayer-Party-Spiel.",
+        "description": "INTRODUCTION\nK\u00e4mpfe dich durch die brandgef\u00e4hrlichsten Orte der Galaxy und  nutze deine Umgebung zum eigenen Vorteil.  Entkomme deinen Lieblingsgegnern und zerschmettere  sie in ihre buntesten Einzelteile.   \n\nARENEN\nK\u00e4mpfe dich durch die Galaxis in f\u00fcnfzehn Arenen, und neue kommen noch hinzu. Klassische Asteroiden, eisige Kometen, mythische Monster, kuriose Welten, alles ist da, damit du vor dem Spiel deine Route planen kannst. Jede Arena bringt dich in Gefahren, die du in Chancen verwandeln und zu deinem Vorteil nutzen kannst. \n  \nRAUMSCHIFFE\nAlle Raumschiffe in HAVE A BLAST sind klein und wendig, sodass du sie durch die action-geladenen Arenen navigieren kannst. Jedes der f\u00fcnf Raumschiffe hat eine einzigartige, m\u00e4chtige F\u00e4higkeit, die verschiedene Strategien von dir erfordern. Aber selbst die st\u00e4rksten Angriffe k\u00f6nnen abgewehrt werden, und es ist nie zu sp\u00e4t, den Kampf f\u00fcr dich zu entscheiden. \n\nGAME MODES\n- Deathmatch \u2013 Der zuletzt \u00fcberlebende Pilot gewinnt die Runde bei diesem Klassiker. Sei der Erste, der f\u00fcnf Runden gewinnt, und du gewinnst das Spiel. \n\n- Team-Match \u2013 Jede Kombination von Spielern ist in einem Team-gegen-Team-Spiel m\u00f6glich. Eine tolle Gelegenheit, um einige Freundschaften zu festigen und andere zu ruinieren. \n\n- Mothership \u2013 Verteidige dein Mutterschiff und es wird dich heilen, dich mit Munition versorgen und dir Schutz bieten. Verlierst du dein Mutterschiff, wirst du bald ausgeliefert sein. \n\n- Challenges - Teste jedes Schiff und jede Umgebung aus, indem du spezifische Herausforderungen gegen den Computer meisterst. \n  \nBOTS\nF\u00fcge zu jedem Spiel BOTS hinzu. Angetrieben von einer cleveren AI k\u00f6nnen sie eine Herausforderung bieten, wenn keine Freunde in der N\u00e4he sind; oder du kannst sie verwenden, um das Spiel noch action-reicher zu machen. Wenn die adaptive AI frustrierend oder zu einfach wird, kannst du die Herausforderung jederzeit \u00fcber das Men\u00fc anpassen. \n  \nWIR HOFFEN, DASS DICH UNSERE RETRO-INSPIRIERTE, MODERNE ARCADE BEGEISTERN WIRD!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "zh"
+        ],
+        "size": 73400320
+    },
     "70010000043405": {
         "id": "01004D6015950000",
         "rightsId": null,
@@ -26304,6 +26711,42 @@
             "en"
         ],
         "size": 75497472
+    },
+    "70010000044243": {
+        "id": "010031F015C98000",
+        "rightsId": null,
+        "name": "Easy Flight Simulator",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210731,
+        "nsuId": 70010000044243,
+        "category": [
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Gem\u00e4\u00dfigte Gewalt"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/aaf9ea661c868721873cc633e1bc7972acbb7051a6ed7d3fa392465ad34cf6ac.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1c2a628820ba5b6b7c9a1f3bc7c47d09870e5a5df35bcbd3b451a80080ccff6e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cbaf1d97797243953038f14d4868bcb3ae835af15996c4a21bb05ea46875d378.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/13f7330d1055dc41ff3d2d7607bc05f070c6ad78e2f2ed6f79da6dd3872cdff5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1abc5b6beb65678476d4ccdb9d55bd4ca6ef90a934250d58d96d67192e097127.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c8312edfaa69cbf34ae4f8986bba4ee491b2bd08e3316a31672b5e52f83cabf.jpg",
+        "intro": null,
+        "description": "Haben Sie jemals davon getr\u00e4umt, Befehle von fantastischen Flugzeugen wie Jet, Super-Jumbo, Fracht oder Stuntflugzeug zu \u00fcbernehmen?\nDieses Spiel ist ein echter Flugsimulator mit Befehlen entwickelt, um leicht in jedem Alter \u00fcbernommen werden.\nFliegen Sie von Checkpoints zu Checkpoints und zeigen Sie Ihre Pilotenf\u00e4higkeiten bei verschiedenen Wetter- und Tageszeitbedingungen und schlie\u00dfen Sie alle Level ab.\nWenn Sie schon immer fliegen wollte, aber dachte, es war zu kompliziert, wird dieses Spiel beweisen, dass Sie es tun k\u00f6nnen!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 141557760
     },
     "70030000011669": {
         "id": null,
@@ -26840,7 +27283,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 2273312768,
+        "size": 2312110080,
         "parentId": "0100ABC013136000"
     },
     "70030000013349": {
@@ -28698,6 +29141,31 @@
         "languages": null,
         "size": 3145728
     },
+    "70050000025439": {
+        "id": null,
+        "rightsId": null,
+        "name": "Tennis World Tour 2 - Juan Martin Del Potro & Victoria Azarenka",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210722,
+        "nsuId": 70050000025439,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Nacon",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3ec8e225e61a1bdc597adc6935c16fd0a46bb331f94f4d69b6baccd7abe26f44.jpg",
+        "intro": null,
+        "description": "Dieser DLC umfasst zwei zus\u00e4tzliche Spieler:\n- Juan Martin Del Potro\n- Victoria Azarenka",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000025835": {
         "id": "010043B013C5D001",
         "rightsId": null,
@@ -28937,6 +29405,31 @@
         "description": "F\u00fcgt die Schwierigkeit GN\u00c4DIG hinzu.\nGeeignet f\u00fcr Einsteiger oder allein an der Story Interessierte.\nBei \u201eNeues Spiel\u201c ausw\u00e4hlbar. Kann jederzeit im Konfig-Men\u00fc ge\u00e4ndert werden.",
         "languages": null,
         "size": 3145728
+    },
+    "70050000025978": {
+        "id": null,
+        "rightsId": null,
+        "name": "Tennis World Tour 2 - Champions Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210722,
+        "nsuId": 70050000025978,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Nacon",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/407df50866ed29ecab7920b07c34243590f98c9614b105ec67dda8a8070fbf51.jpg",
+        "intro": null,
+        "description": "Das CHAMPIONS Pack enth\u00e4lt:\n- Den ATP Cup\n- 6 zus\u00e4tzliche Spieler: Andy Murray, Donna Vekic, Marin Cilic, Justine Henin, Maria Sharapova und Diego Schwartzman\n- 4 zus\u00e4tzliche Stadien in London und Melbourne\n- Zus\u00e4tzliche offizielle Outfits und Ausr\u00fcstung",
+        "languages": null,
+        "size": 4194304
     },
     "70050000025981": {
         "id": null,
@@ -39402,6 +39895,33 @@
         "languages": null,
         "size": 3145728
     },
+    "70050000028704": {
+        "id": null,
+        "rightsId": null,
+        "name": "Island Breeze Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210722,
+        "nsuId": 70050000028704,
+        "category": null,
+        "ratingContent": [
+            "Gem\u00e4\u00dfigte Kraftausdr\u00fccke"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "althi",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/312f02bd5e4e8b0bdea8f9a58cffae1611e3c61b08fabed85224395232ea4f1c.jpg",
+        "intro": null,
+        "description": "Contents:\n - Island Breeze \"Breezy clothes based on the traditional farming attire of the Hamoa Islands.\"\n - Kid's Island Breeze \"Breezy kid's clothes based on the traditional farming attire of the Hamoa Islands.\"\n *You can buy it at any time in the game shop( Clothing Store in Castle St. ) when you purchase it.",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000028760": {
         "id": null,
         "rightsId": null,
@@ -39666,6 +40186,62 @@
         "description": "Erweitere deine FUSER\u2122-Songbibliothek mit \u201eRoyce Please\u201c von Beast Business! Frisch deine Mixe mit diesem zus\u00e4tzlichen Song auf, der sofort im Spiel verf\u00fcgbar ist. Zum Spielen ist das FUSER-Basisspiel erforderlich. Musik-Credits findest du auf www.fuser.com.",
         "languages": null,
         "size": 6291456
+    },
+    "70050000028850": {
+        "id": null,
+        "rightsId": null,
+        "name": "Katrina and the Waves - \"Walking On Sunshine\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210722,
+        "nsuId": 70050000028850,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "K\u00e4ufe im Spiel"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/17b4c3bd25ca4d987e458c4bab8d70043f42c502689cde1f24d176f209a797cd.jpg",
+        "intro": null,
+        "description": "Erweitere deine FUSER\u2122-Songbibliothek mit \u201eWalking On Sunshine\u201c von Katrina and the Waves! Frisch deine Mixe mit diesem zus\u00e4tzlichen Song auf, der sofort im Spiel verf\u00fcgbar ist. Zum Spielen ist das FUSER-Basisspiel erforderlich. Musik-Credits findest du auf www.fuser.com.",
+        "languages": null,
+        "size": 8388608
+    },
+    "70050000028851": {
+        "id": null,
+        "rightsId": null,
+        "name": "Faint Shadow - \"Loop Pack 07\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210722,
+        "nsuId": 70050000028851,
+        "category": null,
+        "ratingContent": [
+            "Bad Language",
+            "K\u00e4ufe im Spiel"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NCSOFT",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0dc5860b8b29cc28189d414f149617841dba6472f4da5fa908a2f097aec177db.jpg",
+        "intro": null,
+        "description": "Erweitere deine FUSER\u2122-Songbibliothek mit \u201eLoop Pack 07\u201c von Faint Shadow! Frisch deine Mixe mit diesem zus\u00e4tzlichen Song auf, der sofort im Spiel verf\u00fcgbar ist. Zum Spielen ist das FUSER-Basisspiel erforderlich. Musik-Credits findest du auf www.fuser.com.",
+        "languages": null,
+        "size": 5242880
     },
     "70050000028857": {
         "id": null,
@@ -40010,6 +40586,33 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1bfb76dd83dd8654100cc01db38950a18ce179aa67f62e23bac190337692c641.jpg",
         "intro": "Introducing the original story pack, \"Touhou Fujinroku Arrangements Pack\"!",
         "description": "This \u201cTouhou Fujinroku Arrangements Pack\u201d contains brand new arrangements of six popular Touhou Fujinroku songs and six challenge stages go to with each song!\nThe new artists added to this set are Shuzou Sekkenya in his solo act, ZEKKENYA, and the beloved melodic metal band Unlucky Morpheus, aka Ankimo!\n\nThis pack contains the following:\n\n\u25a06 Songs\n\u30fbThe flower of love dyed red / Yuuhei Satellite\n\u30fbYAKUPURI / ZEKKENYA\n\u30fbKamigami ga Koishita Gensoukyou / Unlucky Morpheus\n\u30fbHatate's Bakkoi Murder Case / IOSYS\n\u30fbHands(feat. AO, Rapbit) / TamaOnSen\n\u30fbRitual Sign \"Song of the Divine Play\" / Diao ye zong\n\n\u25a0Six challenge stages total\n\u30fbLv. 4: Eyes Burning With Love? (The flower of love dyed red)\n\u30fbLv. 5: There You Go (YAKUPURI)\n\u30fbLv. 6: Been Waiting for You! (Kamigami ga Koishita Gensoukyou)\n\u30fbLv. 7: Paparazzi Papparazzi (Hatate's Bakkoi Murder Case)\n\u30fbLv. 8: Now Throw Your Hands Up in the Air! (Hands(feat. AO, Rapbit))\n\u30fbLv. 10: The Pride of a Pro? (Ritual Sign \"Song of the Divine Play\")\n\n* Internet connection required for purchase.\n* Game must be restarted after songs are purchased in order to use them.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000029197": {
+        "id": "0100D6F012AE7003",
+        "rightsId": null,
+        "name": "Desert island in summer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210722,
+        "nsuId": 70050000029197,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "SUCCESS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6d02dbd4cb7de7ead57923fcc374ba9409d8b2bde3294a3964fc96b258a5762d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5283c56e7ae30994dac99d9da7a79a08e7b1c0b6b79b08f5c9b6cb2b3bf6ef9a.jpg",
+        "intro": "Hamsters spend their summer vacation on a deserted island!",
+        "description": "included contents.\n\u25a0floor\nDesert island\n\u25a0Huts\nCottage\n\u25a0Room Decorations\nShaved ice\nPalm tree\nSunburn goods\nSea turtle",
         "languages": null,
         "size": 3145728
     },
