@@ -58,4 +58,5 @@ nut.py -U --import-region US --language en
 0100CC400DDE8800|Realm Royale
 01008C80122BE800|Skyforge
 0100D9500FC66800|Apex Legends
+010076C01015C800|Spellbreak
 ```
