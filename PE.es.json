@@ -5882,7 +5882,9 @@
             "de",
             "it",
             "ru",
-            "ko"
+            "ko",
+            "zh",
+            "zh"
         ],
         "size": 6239027200
     },
@@ -7505,6 +7507,52 @@
         ],
         "size": 16720592896
     },
+    "70010000028905": {
+        "id": "010040E0116B8000",
+        "rightsId": null,
+        "name": "Sonic Colors: Ultimate",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210907,
+        "nsuId": 70010000028905,
+        "category": [
+            "Plataformas",
+            "Acci\u00f3n",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Violencia de caricatura"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1a5fa7a185f52060e57f62cb861862175148c1f243966125d61f45d3509ca1aa.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/961a5b9a8abde0ba42d3f191833afbe7b084d6f9a49fbfcc4301446a4f465953.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65404b98523be572090179b2529853f722f166ef82979184e94288d016610861.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70506ef964b0826737c50225d602d5cc84c2051e52ffe84b20d84fb803d3d8f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/689826b01ba0dc4982cd3a5d89e11ec224d75f795f202bd3f19ee3c942358be9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7d27b785e6e8f834f7616c059b2f7af12e1ea728487dfa3dc2a66b8a998ca55.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/826224f6813060efc72e5e0d6318919401f162d82cb9a8af1d11b2cfad57df16.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3a8b223c09ca06f2688fad65a2d12d60760c06e869955486760321c31204fa42.jpg",
+        "intro": "Velocidad imparable de Sonic. Colorea el universo.",
+        "description": "\u00a1\u00danete a Sonic en la aventura de alta velocidad de toda una vida! El malvado Dr. Eggman construy\u00f3 un gigantesco parque de atracciones interestelar con incre\u00edbles y coloridas atracciones... \u00a1pero funciona con una raza alien\u00edgena llamada \"Wisps\"! Usa la velocidad de Sonic para liberar las Wisps y conocer los secretos de sus poderes al explorar seis mundos \u00fanicos llenos de colores, cada uno lleno de enemigos peligrosos y obst\u00e1culos. Ahora con impactantes gr\u00e1ficos mejorados, caracter\u00edsticas adicionales, nuevos modos de juego y un juego aumentado: la experiencia definitiva de Sonic Colors. Sonic se pondr\u00e1 a prueba en este emocionante viaje para liberar las Wisps, pero con su ayuda y con la tuya, \u00a1es una prueba que pasar\u00e1 brillantemente!\n\nReserva ahora para obtener objetos de bonificaci\u00f3n:  \nTurbo de Sonic, la pel\u00edcula: Aprovecha el poder de Sonic y obt\u00e9n un aura y un turbo el\u00e9ctricos exclusivos.\n\u00cdconos de jugador exclusivos: destaca entre la multitud con tus propios \u00edconos de jugador",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 7757365248
+    },
     "70010000029016": {
         "id": "0100B04011742000",
         "rightsId": null,
@@ -8366,7 +8414,7 @@
             "zh",
             "zh"
         ],
-        "size": 2233466880
+        "size": 2238709760
     },
     "70010000033019": {
         "id": "010014C011146000",
@@ -20143,6 +20191,60 @@
         "languages": null,
         "size": 4194304
     },
+    "70050000021698": {
+        "id": "010040E0116B9001",
+        "rightsId": null,
+        "name": "\u00cdconos de jugador exclusivos",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210903,
+        "nsuId": 70050000021698,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/856a667fc74110df92d4d6a27dbe8c2db9802eb96d876f3c507d3227432dc953.jpg",
+        "intro": null,
+        "description": "Dest\u00e1cate entre la multitud con tus propios \u00edconos.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000021702": {
+        "id": "010040E0116B9005",
+        "rightsId": null,
+        "name": "Sonic Colors: Ultimate - Paquete Remix",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210907,
+        "nsuId": 70050000021702,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/867aad78cc4024578e6cb153081f2f96905d12b05e0963560b63eaf7f3f4542f.jpg",
+        "intro": null,
+        "description": "3 exclusivos remixes originales del juego para marcar el paso mientras acabas con Dr. Eggman.",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000021739": {
         "id": "0100C56010FD9001",
         "rightsId": null,
@@ -20737,6 +20839,33 @@
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/75ad3a42601cc0181fce11b1a2197d03c93a15822f0c150c4c3d63ccbe35bcb3.jpg",
         "intro": null,
         "description": "Taichi Nakanishi est\u00e1 disponible como personaje nuevo para jugar en Captain Tsubasa: Rise of New Champions.\n\nUn portero enorme y capit\u00e1n del Naniwa.\nLo invitaron a la Liga de H\u00e9roes Juveniles por sus actuaciones y habilidades en el Campeonato Nacional dos a\u00f1os consecutivos.\nDefiende la porter\u00eda con su tremendo f\u00edsico y una gran agilidad.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000022290": {
+        "id": "010040E0116B9007",
+        "rightsId": null,
+        "name": "Iconos exclusivos de tiendas minoristas",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210907,
+        "nsuId": 70050000022290,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f423ee7ca078f1b49d0e2f62a969f70cdecb652a6ca4918023d38b173db749c3.jpg",
+        "intro": null,
+        "description": "Dest\u00e1cate entre la multitud con estos 4 \u00edconos exclusivos.",
         "languages": null,
         "size": 3145728
     },
@@ -28205,6 +28334,33 @@
         "languages": null,
         "size": 216006656
     },
+    "70050000029093": {
+        "id": "010040E0116B9006",
+        "rightsId": null,
+        "name": "Sonic Colors: Ultimate - Paquete cosm\u00e9tico definitivo",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210907,
+        "nsuId": 70050000029093,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f6568fa8463f32dab23026439064b866260d1c628dfd54154ec1bad7d2ab7cd5.jpg",
+        "intro": null,
+        "description": "Personaliza a Sonic y dest\u00e1cate con guantes y zapatos de oro y plata, un aura y un turbo de rayo el\u00e9ctricos de Sonic, la pel\u00edcula e \u00edconos exclusivos de jugadores tem\u00e1ticos de pel\u00edculas de Sonic",
+        "languages": null,
+        "size": 3145728
+    },
     "70070000000041": {
         "id": null,
         "rightsId": null,
@@ -30364,6 +30520,40 @@
         "languages": null,
         "size": 1816133632
     },
+    "70070000011027": {
+        "id": null,
+        "rightsId": null,
+        "name": "Sonic Colors: Ultimate - Digital Deluxe",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210903,
+        "nsuId": 70070000011027,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/961a5b9a8abde0ba42d3f191833afbe7b084d6f9a49fbfcc4301446a4f465953.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65404b98523be572090179b2529853f722f166ef82979184e94288d016610861.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70506ef964b0826737c50225d602d5cc84c2051e52ffe84b20d84fb803d3d8f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/689826b01ba0dc4982cd3a5d89e11ec224d75f795f202bd3f19ee3c942358be9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7d27b785e6e8f834f7616c059b2f7af12e1ea728487dfa3dc2a66b8a998ca55.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/826224f6813060efc72e5e0d6318919401f162d82cb9a8af1d11b2cfad57df16.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/526838ae85f6bb7a876cb79079590343bcc5618e793fa5d282e0e5729840c2a6.jpg",
+        "intro": "Velocidad imparable de Sonic. Colorea el universo.",
+        "description": "El malvado Dr. Eggman construy\u00f3 un parque de atracciones interestelar... \u00a1pero funciona con una raza alien\u00edgena capturada llamada \"Wisps\"! Usa la velocidad de Sonic para liberar las Wisps y obtener sus poderes al explorar seis mundos llenos de obst\u00e1culos que superar. Ahora con impactantes gr\u00e1ficos mejorados, caracter\u00edsticas adicionales, nuevos modos de juego y un juego aumentado: es la experiencia definitiva de Sonic Colors.\n\nSonic Colors: Ultimate Digital Deluxe incluye el paquete cosm\u00e9tico definitivo (Personaliza a Sonic y dest\u00e1cate con guantes y zapatos de oro y plata, un aura y un turbo el\u00e9ctricos de Sonic, la pel\u00edcula e \u00edconos exclusivos de jugadores tem\u00e1ticos de pel\u00edculas de Sonic), el paquete musical definitivo (tres exclusivos remixes originales del juego para marcar el paso mientras acabas con Dr. Eggman), acceso anticipado y tus propios \u00edconos de jugador.\n\nReserva ahora para obtener objetos de bonificaci\u00f3n:   \n- Acceso anticipado: empieza a experimentar Sonic Colors: Ultimate antes\n- \u00cdconos de jugador exclusivos: destaca entre la multitud con tus propios \u00edconos de jugador.\n",
+        "languages": null,
+        "size": 7763656704
+    },
     "70070000011064": {
         "id": null,
         "rightsId": null,
@@ -30721,7 +30911,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5642d395322120d3a717d80d6bb0b0911504fdabef93b6945eb23a074634b35e.jpg",
         "intro": "\u00a1Vuelve la serie de RPG por turnos de Monster Hunter en esta segunda parte! \u00bfTu lazo especial con estos monstruos traer\u00e1 esperanza o destrucci\u00f3n?",
-        "description": "La Deluxe Edition de Monster Hunter Stories 2: Wings of Ruin posee una variedad de contenido adicional para mejorar tu experiencia de juego:\n\n \u30fb Atuendo de Ena: Abrigo de Kuan\n \u30fb Armadura superpuesta de Rider: Armadura Ratha Kalapteron Alfa y Beta\n \u30fb Peinado de Rider: Nergal de punta\n \u30fb Ropas de Navirou: Trajes de Nergigante y Pukei-Pukei\n \u30fb Sets de pegatinas: Compis de andanzas 2 y 3\n\nNota: Este es el mismo contenido adicional de Monster Hunter Stories 2: Wings of Ruin Deluxe Kit. Parte del contenido solo ser\u00e1 utilizable tras progresar en el juego.\n\nUna nueva aventura te espera en esta segunda parte de la serie de RPG por turnos ambientada en el mundo de Monster Hunter. Convi\u00e9rtete en un Rider y forma v\u00ednculos con monstruos amistosos llamados Monsties para luchar junto a ellos en una historia \u00e9pica.\n\nT\u00fa eres el nieto de Red, un Rider legendario. La historia comienza con un encuentro trascendental con Ena, una chica wyveriana responsable de un huevo del que podr\u00eda nacer un legendario Rathalos, el cual podr\u00eda traer el caos si se despertara su poder destructivo.\n\nEmb\u00e1rcate en una traves\u00eda que pondr\u00e1 a prueba tus lazos de amistad en un mundo cambiante y descubre la verdad detr\u00e1s de las leyendas ancestrales.",
+        "description": "La Deluxe Edition de Monster Hunter Stories 2: Wings of Ruin posee una variedad de contenido adicional para mejorar tu experiencia de juego:\n\n \u30fb Atuendo de Ena: Abrigo de Kuan\n \u30fb Armadura superpuesta de Rider: Armadura Ratha Kalapteron Alfa y Beta\n \u30fb Peinado de Rider: Nergal de punta\n \u30fb Ropas de Navirou: Trajes de Nergigante y Pukei-Pukei\n \u30fb Sets de pegatinas: Compis de andanzas 2 y 3\n\nNota: Este es el mismo contenido adicional de Monster Hunter Stories 2: Wings of Ruin Deluxe Kit. Parte del contenido solo ser\u00e1 utilizable tras progresar en el juego.\n\nUna nueva aventura te espera en esta segunda parte de la serie de RPG por turnos ambientada en el mundo de Monster Hunter. Convi\u00e9rtete en un Rider y forma v\u00ednculos con monstruos amistosos llamados Monsties para luchar junto a ellos en una historia \u00e9pica.\n\nT\u00fa eres descendiente de Red, un Rider legendario. La historia comienza con un encuentro trascendental con Ena, una chica wyveriana responsable de un huevo del que podr\u00eda nacer un legendario Rathalos, el cual podr\u00eda traer el caos si se despertara su poder destructivo.\n\nEmb\u00e1rcate en una traves\u00eda que pondr\u00e1 a prueba tus lazos de amistad en un mundo cambiante y descubre la verdad detr\u00e1s de las leyendas ancestrales.",
         "languages": null,
         "size": 14599323648
     },
