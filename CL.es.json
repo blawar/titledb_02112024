@@ -546,7 +546,7 @@
             "zh",
             "zh"
         ],
-        "size": 17573085184
+        "size": 17755537408
     },
     "70010000000705": {
         "id": "010095A004040000",
@@ -9091,6 +9091,54 @@
             "zh"
         ],
         "size": 204472320
+    },
+    "70010000036326": {
+        "id": "0100379013A62000",
+        "rightsId": null,
+        "name": "Very Very Valet",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70010000036326,
+        "category": [
+            "Acci\u00f3n",
+            "Fiesta",
+            "Multijugador",
+            "Simulaci\u00f3n"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Toyful",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c893179cdc61502e4133fff3dadce00b20e0eb047d886d6f7e5027f2f15a78da.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ad7c2fc5a286eba2706b34e1636c0531dfedcc7a3d246c8d74167a0c806d0b2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0837524d99650ce3371b2ea32556558a94a8eecd31d4c27482b52bf483d1b331.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/533b40d30fa66020767ad9173f45d1d066b8bcd7818635fa483a6e9f449ff2ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af4100d8bcc43cbba1921d73360f9115a32c373ec0c65fe87a597abb065bb988.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a3b3edbc28c2ad9fc1ed561fa45205e1f3a923f4addb812b6563b3b36f61501b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6740ceffd4da2303793a5270436366fca02c7ca2b933fc7efbbb37d2268e6855.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67a8c6cfaf100b512b2b4bdcbb930335a9469d0b10677780aa890cb10a077bfd.jpg",
+        "intro": "\u00a1Very Very Valet es un alocado juego cooperativo local para todo tipo de conductores!",
+        "description": "De 1 a 4 jugadores controlan un equipo de \"\u00e9lite\" de monigotes aparcacoches que colaboran para superar cualquier desaf\u00edo relacionado con su trabajo. \u00a1Har\u00e1 falta trabajar en equipo y tener claro que hay que aparcar donde sea para salvar el mundo de una grave crisis de aparcamiento! En VERY VERY VALET, no basta con ser un aparcacoches corriente.\n\nAlocado cooperativo local\n\u00a1Aparca solo o con amigos! Hasta cuatro jugadores pueden colaborar para resolver esta grave escasez de aparcamiento. Ayudaos unos a otros o sembrad el caos lanz\u00e1ndoos por todas partes: \u00a1la elecci\u00f3n es vuestra!\n\nNo hace falta carnet\nConducir nunca ha sido tan f\u00e1cil: \u00a1apunta y avanza! Los accesibles controles de conducci\u00f3n permiten que cualquiera pueda convertirse en aparcacoches r\u00e1pidamente, y hay muchas t\u00e9cnicas ocultas para que domines tu t\u00e9cnica de aparcacoches y revientes el mercado.\n\nEl mundo es tu aparcamiento\n\u00a1Demuestra tu habilidad para colocar coches en m\u00e1s de 20 niveles \u00fanicos! Ayudar\u00e1s a los clientes en una gran variedad de ubicaciones y escenarios: calles de la ciudad, acantilados, boleras, aeropuertos y hasta dep\u00f3sitos de trenes.\n\nDisfruta de Very Very Valet\n\u00a1\u00danete a este equipo de aparcacoches de \u00e9lite! Da igual el tipo de aparcamiento, porque los aparcacoches de Very Very Valet est\u00e1n listos para aceptar el desaf\u00edo. \u00a1Re\u00fane a tus amigos y no dejes ning\u00fan coche desatendido!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 814743552
     },
     "70010000037072": {
         "id": "0100E9B013D4A000",
@@ -32841,5 +32889,36 @@
         "languages": null,
         "size": 3146776576,
         "ids": []
+    },
+    "70070000012610": {
+        "id": null,
+        "rightsId": null,
+        "name": "Sid Meier's Civilization\u00ae VI Platinum Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210727,
+        "nsuId": 70070000012610,
+        "category": null,
+        "ratingContent": [
+            "Referencia a drogas",
+            "Lenguaje",
+            "Violencia moderada",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4863be847908de4dc0b5f82c0c5b6369bb72e85c40359caaecc74acc819efd82.jpg",
+        "intro": "Levanta tu mejor imperio en Nintendo Switch\u2122\n",
+        "description": "Este lote est\u00e1 pensado para reci\u00e9n llegados a Civilization VI e incluye Civilization VI, seis packs de contenido adicional y las expansiones Rise and Fall y Gathering Storm. El New Frontier Pass no est\u00e1 incluido en la Platinum Edition. \n\nHAZ HISTORIA en uno de los juegos de estrategia m\u00e1s aclamados e influyentes de la historia. Elige a un l\u00edder y completa agendas inspiradas en sus contrapartidas de la vida real. Explora nuevos territorios, investiga tecnolog\u00edas y enfr\u00e9ntate a l\u00edderes de la historia para que tu civilizaci\u00f3n pase de ser un grano de arena a una monta\u00f1a. Ampl\u00eda ciudades por todo el mapa y crea nuevas posibilidades estrat\u00e9gicas a lo largo del juego mientras luchas por alzarte con la victoria y crear un imperio que resista el paso del tiempo. \n\nSid Meier's Civilization VI Platinum Edition es la colecci\u00f3n cl\u00e1sica de contenido de Civilization VI, con el juego Sid Meier's Civilization VI, seis packs de contenido adicional y las expansiones Rise and Fall y Gathering Storm.\n\nLa Sid Meier's Civilization VI Platinum Edition incluye las dos enormes expansiones: \n\u2022\tCIVILIZATION VI: RISE AND FALL - Disfruta de nuevas mec\u00e1nicas de juego como grandes eras y Gobernadores, mejoras en los sistemas de gobierno y diplomacia, as\u00ed como de 8 civilizaciones y 9 l\u00edderes nuevos, y una gran variedad de nuevas unidades, distritos, maravillas y edificios.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM - Explora un planeta activo en una expansi\u00f3n que introduce cambios de clima por primera vez en la historia de la saga. Enfr\u00e9ntate a desastres naturales y a otros efectos medioambientales, completa incre\u00edbles proyectos de ingenier\u00eda y gestiona energ\u00eda el\u00e9ctrica. Nuevas caracter\u00edsticas, como el World Congress, una nueva condici\u00f3n de victoria diplom\u00e1tica y una nueva \u00e9poca a\u00f1adida al \u00e1rbol tecnol\u00f3gico y de principios. Tambi\u00e9n incluye nuevas civilizaciones, l\u00edderes, unidades y edificios.",
+        "languages": null,
+        "size": 9070182400
     }
 }
