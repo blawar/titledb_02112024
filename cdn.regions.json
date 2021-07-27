@@ -1,0 +1,62 @@
+{
+    "EUR": [
+        "BG",
+        "CH",
+        "CY",
+        "EE",
+        "HR",
+        "IE",
+        "LT",
+        "LU",
+        "LV",
+        "MT",
+        "RO",
+        "SI",
+        "SK",
+        "AT",
+        "BE",
+        "CZ",
+        "DK",
+        "ES",
+        "FI",
+        "GR",
+        "HU",
+        "NL",
+        "NO",
+        "PL",
+        "PT",
+        "RU",
+        "ZA",
+        "SE",
+        "IT",
+        "FR",
+        "DE",
+        "GB"
+    ],
+    "USA": [
+        "BR",
+        "CO",
+        "AR",
+        "CL",
+        "PE",
+        "MX",
+        "CA",
+        "US"
+    ],
+    "KOR": [
+        "KR"
+    ],
+    "TWN": [
+        "HK"
+    ],
+    "CHN": [
+        "CN"
+    ],
+    "AUS": [
+        "NZ",
+        "AU"
+    ],
+    "JPN": [
+        "JP"
+    ]
+}
