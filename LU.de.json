@@ -9506,6 +9506,51 @@
         ],
         "size": 584056832
     },
+    "70010000037379": {
+        "id": "01001BB013EAA000",
+        "rightsId": null,
+        "name": "Tetragon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210812,
+        "nsuId": 70010000037379,
+        "category": [
+            "Platformer",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BUKA Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/43ed9304d3f7dce3473ba910ef17151203fb86aacd04b1a03d386d6866edf4fb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/733811478da1cbabee87f3275bee926dbcac66791c6fd5c97832ea7e7d17e1aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/744cd816a34d45008d9367335fdc48dba518045035c50be6f12d4ea854b06379.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d795ca544e784d003434b39b1d1c1a039441310e8c20afea540b750709bdcfae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9824578395a769bd6d2217c96f40696536022e8303097a5e30caaef7d0da3c55.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e5f0ca51f77d13c91323400aa2a94513a8f390872cb4d401523d70a0ef4eb9b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f26bcb83ebadee4a7da553c233ead7c0959ffbf7e9df5e4ba0e49ff4e6d25ae4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bec2518ac41fb61f32932dd5bf3bfec18e938b2ea302574da155508d5a286fe9.jpg",
+        "intro": null,
+        "description": "Willkommen bei Tetragon - einem riesigen mysteri\u00f6sen Universum einzigartiger Spielmechaniken, R\u00e4tsel, magischer Labyrinthe und Herausforderungen!\n\nDein Ziel ist, Ebenen mit einer sich drehenden Anziehungskraft einer Welt zu bewegen. Mit der Kraft von TetraGen werden der Boden und die T\u00fcrme bewegt, um den tapferen Holzf\u00e4ller Lucios durch die zerstreuten Welten zu f\u00fchren und seinen verlorenen Sohn zu finden!\n\n\u00dcber Tetragon:\nIrgendwo im Paralleluniversum gibt es eine Welt, die aus den Ebenen-Realit\u00e4ten besteht. Diese Ebenen schweben um das heilige Juwel - TetraGen. Seit Anbeginn der Zeit war es eine aufstrebende Welt gewesen, in der nichts B\u00f6ses Platz hatte... bis aus dem Nichts eine mysteri\u00f6se dunkle Energie in Tetragon zu wachsen begann. Nach einer Weile hatte es die bizarrste Kreatur hervorgebracht, die beabsichtigte, das TetraGen zu zerst\u00f6ren und die Welt von Tetragon ins Chaos zu st\u00fcrzen! Schlie\u00dflich hatte diese Kreatur ihr Ziel erreicht und das TetraGen-Juwel wurde in St\u00fccke zerbrochen. Nur mit all seinen Kr\u00e4ften gelang es dem Willen von Tetragon, die dunkle Kreatur einzusperren, aber es war zu sp\u00e4t. Jetzt muss ein Mutiger diese zerbrochene Welt reparieren, indem er die Teile von TetraGen zur\u00fcckholt...\n\nEs liegt nun an dir, die R\u00e4tsel zu l\u00f6sen und St\u00fcck f\u00fcr St\u00fcck das endg\u00fcltige Ziel deiner Reise zu erreichen.\n\nMit der Kraft von TetraGen kannst du die Position der Ebenen und T\u00fcrme \u00e4ndern, die Plattformen und Treppen erzeugen und sogar die Welt um ihre Achse drehen!\n\nHauptmerkmale:\n\u2022 Hunderte von R\u00e4tseln, Labyrinthen und Herausforderungen, basierend auf der Welt, die sich dreht und den Turm bewegt. Pflastere deinen Weg in diesem Labyrinth der Realit\u00e4ten, aus denen die Welt von Tetragon besteht!\n\u2022 Einzigartige Spielmechanik, die selbst f\u00fcr erfahrene R\u00e4tselspiel-Fans eine echte Herausforderung sein kann!\n\u2022 \u00dcber 40 verschiedene Level in den drei magischen Welten. W\u00e4hrend der Spieler tiefer in die Tunnel dieser Realit\u00e4t eintaucht, bietet die Welt von Tetragon herausforderndere und aufregendere R\u00e4tsel!\n\u2022 Epische Schlachten und eine fesselnde herzerw\u00e4rmende Geschichte \u00fcber den Vater auf der Suche nach seinem verlorenen Sohn. Auf seiner Reise muss Lucios alle Herausforderungen meistern und sich dem gef\u00e4hrlichen und m\u00e4chtigen Feind stellen, um endlich seinen Sohn Jerry zu finden und das Universum von Tetragon zu retten!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "zh"
+        ],
+        "size": 708837376
+    },
     "70010000037394": {
         "id": "0100B87013EBE000",
         "rightsId": null,
@@ -10555,6 +10600,45 @@
             "zh"
         ],
         "size": 1325400064
+    },
+    "70010000038077": {
+        "id": "01006B8014020000",
+        "rightsId": null,
+        "name": "Fhtagn! - Tales of the Creeping Madness",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210812,
+        "nsuId": 70010000038077,
+        "category": [
+            "Adventure",
+            "Party",
+            "Brettspiel",
+            "Mehrspieler"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/acf75eae5a300677dc3cc9f05b8afff622628910b8f988faf81dfb5739b0a09e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c5de15136f927fc6e9d5332b9b8e85f203dafe9332a8a6bd58306ed6854c77f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8de05c493f41402f6a2e086502ede34b4a24a06faae935134ffbf498f1e9e759.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65367c87b66809d97b59d1f22594697f126cae74c41371cc2cc21169c58fe831.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0107a94e56e385ec37fe6007c6ffde9b4266bd31f4b1dfbd980c5003bb623077.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de89f3db9d717178d92734afb91e2d38da335a2a50739a32c4bc55867310c814.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ac725a63d8643c4461fcc5f86131d4968ca8c547aa6709c247501f0e4073a23.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/35ac11bec9e7b9e25c5d8fe5c8a2cfbe08e12b6d357c16ed32afad95cdf43056.jpg",
+        "intro": "Dubbed the \"funniest take on mystic doomsday cults in years\", Fhtagn! is a text based adventure game, where choices matter! ",
+        "description": "Play as one of four cultists intent on destroying the world by summoning an Ancient Horror. \n\nDecide how you will be preparing for the final ritual by visiting various locations in the unsuspecting town of Arkham and navigating iconic Lovecraftian events. \n\nBattle investigators, gangs, corrupt cops and horrors from the Depths to bring about the end of the world!\n\nThis text-based adventure game boasts:\n- 93 000 words.\n- Across 113 events with 370 potential story outcomes.\n- Fulfil 1 of 24 roles with 56 ritual feedback stories.\n- 142 different character endings.\n- Short and silly events in a Lovecraftian universe.\n- Randomized stories based on location.\n- Short gameplay, ideal for those downtime moments or while in a queue for another game.\n- Non-linear gameplay.\n\nPlay cooperatively or be a backstabbing traitor.\n\nThis boardgame-esque game shines in local co-op with friends and it is a casual game that will provide loads of entertainment. \n\nWith snazzy graphics, betrayal is best served with a jazzy/swing soundtrack and neo-noir visuals.\n\nGameplay in a nutshell:\n- You are a cultist intent on destroying the universe by summoning the Ancient One. \n- You can play on your own or with up to 3 friends in couch co-op.\n- You have 6 rounds to build up the required stats needed to use the ritual items, but you will need to figure out which stats those are through some trial and error.\n- You can visit 1 location per round and attempt the Lovecraftian stories at that location, to improve your stats.\n- Finally, put your stats to the test as you try to summon the Ancient One.\n- Will everyone pass or fail or will one of you betray the rest and grab all the glory? ",
+        "languages": [
+            "en"
+        ],
+        "size": 418381824
     },
     "70010000038084": {
         "id": "010081F00F75C000",
