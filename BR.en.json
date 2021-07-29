@@ -6352,7 +6352,7 @@
             "ko",
             "zh"
         ],
-        "size": 5165285376
+        "size": 5233442816
     },
     "70010000024294": {
         "id": "010036E00FB20000",
@@ -6944,7 +6944,7 @@
             "nl",
             "ru"
         ],
-        "size": 1315962880
+        "size": 1547698176
     },
     "70010000028503": {
         "id": "0100E21011446000",
@@ -9224,7 +9224,7 @@
             "en",
             "pt"
         ],
-        "size": 3035627520
+        "size": 3039821824
     },
     "70010000034020": {
         "id": "01001DC012E7E000",
@@ -9824,7 +9824,7 @@
             "fr",
             "de"
         ],
-        "size": 154140672
+        "size": 285212672
     },
     "70010000034678": {
         "id": "0100DDD0131D6000",
@@ -13753,7 +13753,7 @@
             "en",
             "fr"
         ],
-        "size": 378535936
+        "size": 380633088
     },
     "70010000038284": {
         "id": "0100ACB014104000",
@@ -14180,7 +14180,7 @@
             "ko",
             "zh"
         ],
-        "size": 162529280
+        "size": 220200960
     },
     "70010000038506": {
         "id": "0100AC60143F4000",
@@ -14294,12 +14294,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7e575dbcd62ff138066bd6276afda8770f8c91c80ea99d13ab7480aed91b1ae1.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/40fa3ebba6f46b3e26fc33d1627387276ed742840b39a684d973e573d85b2996.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/d138646c94844dea3e2c4229827b5b11916b0ce443f4385763b511a6d7995f83.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2e77df1ec769fc34da77ddc1ac3a171aa1baa7ba152a9c8f2a2ec2d81c9aa6c2.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/a6b5776ca65b315126e392f47f42c4e6dc71c5f52a841a7abf11aacbde4b1b3d.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/d4dd693c2f21c7f2843166caf6652103544cbf4d30bc87637f21691da5e8e796.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7dad0487cfd5138379fb628ec1083eeb3b2a6aae368f6bfe347d4cb389f0631a.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/f2225747f45191a16c08304e34afdcdf6330f8c7ee414f3bd59134c247742b95.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e975f34d626a32be8ac27b1852d62f5f36eb027b3b0e22f25da9f34c3d1d1a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c8e35dbc00b64f07d307163e213fe9f4145f6e92e9c22b78882d8d842354ce3f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b32f3358c60fd83314954e442e64dc656c14def36929ca50a1b0d386a4360b59.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/43227f3422232ad8b1efc6342fbcecb22e5b31b8e34c048bb7b627a233f245aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a0542834732fbef398a8ed17167aff447e95dc768f59ddb323ea94a75aa73ad.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/63595b0826bb6ece7b95e4eb2a33e5ad0559224b350a5e2974a44f772963ae59.jpg",
         "intro": "The Legend of Zelda: Skyward Sword game soars onto Nintendo Switch!",
@@ -14976,6 +14976,58 @@
             "zh"
         ],
         "size": 346030080
+    },
+    "70010000039002": {
+        "id": "010031B0145B4000",
+        "rightsId": null,
+        "name": "Road 96",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210816,
+        "nsuId": 70010000039002,
+        "category": [
+            "Adventure",
+            "Action",
+            "Other",
+            "Music"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Drogas L\u00edcitas",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "DIGIXART ENTERTAINMENT",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/618430b568d89531b0c98bdffa2c40952005c25ebfda335007454c8377b818ed.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/79b69199458419c2fe1ccc04072c7c83f42358bdfefc6e8315ea2f69452944ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e45d2cce808e3e50e5a53c454ceb164562c85ae22e695f70767615d16c9e88a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b22cb3eeafcbc76a199d45c0b5937c17e31e792e24c56eaceffe2e0328f6257.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c1957f571fc63f2687367cb9991c811f81cadc670524b3883430fe6c063a260.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98448da639e92a5c2614461d242e6eb138df310e893aed6eea2fd63aa6accb00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0309b9ed682332c0e77e2c0861020af33e3df4468b99922637d0b377871341a2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/800d2e77583a675d3f5dba03905d256bbf1842a71712fca07401150e6e416824.jpg",
+        "intro": "Hitchhike your way to freedom in this crazy procedurally generated road trip made by renowned indie creators.\nNo one's road is the same!",
+        "description": "Summer 1996, Today is the day!\n\nYou hit the road. Adventure. Freedom. Escape. Run. Flee the Regime. Try to survive.\n\nOn this risky road trip to the border, you\u2019ll meet incredible characters, and discover their intertwined stories and secrets in an ever-evolving adventure.\nBut every mile opens up a choice to make. Your decisions will change your adventure, change the people you meet, maybe even change the world.\n\nThere are thousands of roads across the authoritarian nation of Petria.\nWhich one will you take?\n\nRoad 96 is a crazy, beautiful road-trip. The discovery of exciting places, and unusual people on your own personal journey to freedom.\n\n\nMoments of action, exploration, contemplative melancholy, human encounters and wacky situations. Set against a backdrop of authoritarian rule and oppression.\n\nA stunning visual style, a soundtrack filled with 90s hits, and a thousand routes through the game combine so each player can create their own unique stories on Road 96.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 3077570560
     },
     "70010000039006": {
         "id": "010000E0145BA000",
@@ -16559,10 +16611,11 @@
         ],
         "ratingContent": [
             "Viol\u00eancia",
-            "Conte\u00fado Sexual"
+            "Linguagem Impr\u00f3pria",
+            "Medo"
         ],
         "numberOfPlayers": 1,
-        "rating": 10,
+        "rating": 12,
         "developer": null,
         "publisher": "Sungrand",
         "frontBoxArt": null,
@@ -19910,7 +19963,7 @@
             "de",
             "ru"
         ],
-        "size": 3965714432
+        "size": 4008706048
     },
     "70010000040857": {
         "id": "010000A014E5A000",
@@ -21598,6 +21651,52 @@
         ],
         "size": 274726912
     },
+    "70010000041333": {
+        "id": "0100F59014E8C000",
+        "rightsId": null,
+        "name": "hexceed",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70010000041333,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "ToastieLabs",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0d91a02b11982d6e0d2361d50ab1014d02826a35191bdc92cb26f465f9ff2fac.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/46f961eedaa5d00a103cc773d7d277705334ea9425bd5bad8e548da3ea818777.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ed542735488674fe00c4b1aef995ec4f9a71543dd6706214a7204a78d28b6a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bbc32394faeee27762f3d20f698e543fcded354c2cbf961fde2d32d2cb064e75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2875cd6a55da051105b182617b6d409c12f2deacb231a7cb811a9f5855bc45e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e63fe97c0de837cf246f64d67698404891c2ccccbfb4f29b906c9f4905473dfb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/822fcc39e722d0d6631acba3ed9b36b4b93be6941268d2f353bd606c0261f8c9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c42d41f496b1db14edd2b065b9ae0d8ced4f9f04bb84d37ac067811fcf9c43b9.jpg",
+        "intro": "A relaxing, hexagon based, puzzle game. An exciting new twist on a classic game without the element of guesswork! Use your critical thinking to progress through hundreds of levels!",
+        "description": "A modern twist on a classic puzzle game! Progress through hexes to uncover which spaces are safe and which spaces hide danger! \nRelax and be rewarded!\n\nNumbers show you how many dangers lie around the hexagon! \nPlay with just your mouse! Each click reveals even more information for you to progress through the level!\n\nLearn about the special tiles that give you knowledge in new and intriguing ways!\nLines for directions, walls for blocking, and more for you to discover!\nFind out what each mechanic gives you, as well as what it takes away!\n\nEvery single tile has an answer!\nUse your own critical thinking combined with the revealed information to correctly place each and every click!\nWatch out if you click in the wrong hex!\n\n100s of levels! \nEach level has its own unique layout, bringing a fresh puzzle for you to complete!\nAs you progress you will map out the world!\nEither race to the end by collecting all the milestones, or take the scenic route to visit each and every one of the side levels along your way!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 849346560
+    },
     "70010000041449": {
         "id": "01003E00151AE000",
         "rightsId": null,
@@ -21932,6 +22031,51 @@
             "de"
         ],
         "size": 294649856
+    },
+    "70010000041569": {
+        "id": "0100A3D015232000",
+        "rightsId": null,
+        "name": "123 Dots",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70010000041569,
+        "category": [
+            "Education",
+            "Puzzle",
+            "Utility",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Artax Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/129289f19bc814515b4a6e6a7db6874190efc5947b1de7dafc86d5ae41da7089.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f06a36555fd263bb7b035b7c3905230983f484d92773ebd83685e2befbeb6aa4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52599a11df8758563617cc2b90a30d62e65fdf2b3f7cb74624eee4a89cecf3a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/758034b64d672fbd03290e109c9ee85a5c568f2c06b79d7a696613846a6b53a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fed48acae05f787655b65018ac0b3308e2c174fca9941aa4e9909c977214115f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c354f848a187df94cac5addcb788e6bf02f0b6213608f67ce1a7bb5a7fb4e316.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebca520e0bb50e0e05b39ece9d0e95e0bd83cbeac0c44969f269d047a7b43fdf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0b29f4f6673a3776786bbaa228291944eaa7923abdd6f294b75fa65c3f6f0e6b.jpg",
+        "intro": "Learn to count the numbers, basic skills and sequences for preschool children.",
+        "description": "\u2605 Learning games for preschoolers from ages 2 to 6 years old \u2605\n\nThe game includes more than 150 educational activities for your child to learn while having fun. 123 Dots also helps children develop important basic skills such as creativity, basic skills, attention span and memory.\n\n123 Dots entertains toddlers while they learn numbers from 1 to 20 with itrs fun and friendly Dots.\n\nIn addition to teaching numbers and counting, your children can learn geometric shapes, basic skills, the alphabet and sequences. All in one!\n\nThe game is fully translated to 8 different languages: English, German, Spanish, French, Portuguese, Italian, Russian and Swedish. Preschoolers can also learn colors, geometric shapes and numbers, animals in other languages!\n\n\n\u2605 EDUCATIONAL GOALS\n\n\u2714 Learn the numbers.\n\u2714 Learn to count up to 20.\n\u2714 Remember numerical order: sequences.\n\u2714 Develop basic skills.\n\u2714 Expand vocabulary with: animals, geometric shapes, colors and professions.\n\u2714 Develop literacy.\n\u2714 Learn the letters of the alphabet\n\n\n\u2605 DETAILED DESCRIPTION\n\n123 Dots has learning games for kids from ages 2 to 6 years old. With spectacular results, the games help toddlers learn how to count numbers, as well as improve their basic skills by expanding their vocabulary.\nThe menu interface is attractive and simple so that kids can play alone without the need of an adult.\nThe fun Dots will lead the way and teach kids by creating an exciting and diverse interactive experience that mixes gameplay with learning at all times. Kids will stay engaged as they interact with the Dots and make them jump and play.\nAnd, in order to unlock them, the child simply has to complete educational activities such as counting forward, counting backward, solving logical series and sorting the letters of the alphabet.\n\n\n\n\u2605 EDUCATIONAL GAMES\n\n\u2714 COUNTING FORWARD\nIn this educational game, the Dots must be ordered from smallest to largest. With this activity, toddlers will learn to count and strengthen his knowledge of numbers.\n\n\u2714 COUNTING BACKWARD\nIn this activity, preschool children should count backward until the image is completed to help them develop their most basic skills.\n\n\u2714 PUZZLES\nPut the pieces in their place discriminating between the shapes and colors of each piece.\n\n\u2714 JIGSAW\nMore than 25 jigsaw puzzle with three levels of difficulties for preschool children or first and second grade.\n\n\u2714 MEMORYS\nAssociate pairs of elements that will require improving your memory and your ability to count and recognize numbers up to 10.\n\n\u2714 LOGICAL SERIES\nKids will develop their logical thinking by joining the Dots according to the simplest logical series: odd and even numbers.\n\n\u2714 THE ALPHABET\nIn those learning games, preschoolers must complete the image by ordering the sections according to the letters of the alphabet in capital letters.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru"
+        ],
+        "size": 159383552
     },
     "70010000041571": {
         "id": "0100518015236000",
@@ -24811,6 +24955,49 @@
             "en"
         ],
         "size": 263192576
+    },
+    "70010000043034": {
+        "id": "0100358015762000",
+        "rightsId": null,
+        "name": "CLOSER",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210729,
+        "nsuId": 70010000043034,
+        "category": [
+            "Action",
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "2P Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/76221b5e545a015bd6d4abc997a46a535b437098ad998a35ddb94f151bc73361.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5a03cf211db1b53221897685595465f45a6cac7a17a3a7f8847e1416c31a902a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71fa7c2131c522131e78a8365ac7ccc87c10ffcc1a9f1f1903fb590e613691a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48cec19fe412b30fe79c4efc3afd277e8e3f12c4bbc653fb3dfbcb215844dac2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce7ccf36ff1cd3342d4fae21f7afe1b80102a0a91cb7bb3f3843c7cc6ed7696c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e5b10a83d1cbc19f5dab930e6ff5cfd637e6bd5399025d24aded76a1835f29e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/204d53d1cfaab0e04b4371715fe234f42aa81d5aac96676f8fc09eab156acbd1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cc0b9833f8a43d7025434711677bad05a491cf202328106b90fdc7eea3b1dc8b.jpg",
+        "intro": "CLOSER is a game with distinctive art and gameplay. It contains a lot of creative designs. Here you will feel the spiritual experience.",
+        "description": "CLOSER is a creative adventure game.\n\nThis is a game with distinctive art and gameplay. It contains a lot of creative designs.\n\nThe game tries to make it interesting without fighting. Players need to think about how to accomplish by \"winning by cleverness\".\n\nEach section of the game will have a different experience and gameplay, so that players can experience freshness in every part, and can think about emotional cues of the current mood of the character.\n\nThroughout the game, players need to avoid crisis brought by the enemy, and use some knowledge to deal with the challenges of solving puzzles.\n\nI hope that through this game, everyone will care for those people whose hearts have been traumatized.",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 337641472
     },
     "70010000043076": {
         "id": "010084F0157AE000",
@@ -32155,12 +32342,12 @@
     "70050000022554": {
         "id": "01006C100EC09007",
         "rightsId": null,
-        "name": "Minecraft Dungeons DLC 6",
+        "name": "Minecraft Dungeons: Echoing Void",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20210728,
         "nsuId": 70050000022554,
         "category": null,
         "ratingContent": [
@@ -32172,10 +32359,17 @@
         "publisher": "Mojang",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c6fd91a39186aabfff6f65298d8a9463d8116cb1930e20f21b10a9eb868c47d.jpg",
-        "intro": null,
-        "description": "Minecraft Dungeons DLC 6",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/660d65e4148cdb239db5e1f44791ef62af2a5398d639ff4ebb39f35644b2aee4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a4882799d354b359fb26b9de814c2353b7d392a99c3640c4bcbf24fded8f2c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ada00bcdf47b211770cdae60e15a1c86cc7906e04c54bad2dac32fd9c5ea861.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cbbcc1873c0ce4a5ca5fae96e9f78960399290590e73dea9afec6154e51ada33.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/995b2cfc0a14ef86b4cbda328f4fac966cd104398117eb6f0bd43e86bf73ee3e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/161daf9ef40da2c2aa328e28d75d186c088c48ff7d171a7d734e3e9fe0ab2c8f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af4231471303a1227ffa377736a255b9fdec6fb8bde147a6b6a88a1835e8d2c8.jpg",
+        "intro": "To the End\n",
+        "description": "\"You\u2019ve followed the story of the Arch-Illager and found the shards from the Orb of Dominance, and now it\u2019s time to get to the End. Reach the conclusion of the Minecraft Dungeons story with the newest DLC \u2013 Echoing Void! Face new enemies, collect gear, and make your way through challenging missions to end this fight for good. It can be scary to go into the unknown and face the End, but remember the real treasure is the friends you make along the way! The actual treasure is great too though.\n- Three new missions\n- All-new mobs and enemies\n- New weapons, gear, and artifacts \n- Two new skins and a pet\"\n",
         "languages": null,
         "size": 4194304,
         "ids": [
@@ -46820,6 +47014,111 @@
             "0100B04011743057"
         ]
     },
+    "70050000028372": {
+        "id": "0100F59014E8D001",
+        "rightsId": null,
+        "name": "Stella",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70050000028372,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "ToastieLabs",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/32ed20beada4e2b5ff4ea7f70d2aec7051e3c3082648ea9a9974b0483594e3ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb31ab7362b4ac7fc4d3563d6f541006cea0e32830b864445fd2626447baed24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac7e8e5733c81f9788d4c27721d95d69129e02316906f242c15ddcf80a9a55ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e62d06f634582c43a7fcf8add3948e75b8bc41262d199ee1856ef500151f0343.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ca71684caf72fe6216873ceb66378afbc7bf08ada3702c0ce32ff6dc83cf384.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/307bf47f50fd1bb1ac01b1b2a9f9fbda75550c2b30f16f0c17615be03d4be865.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d364975418160cfeb6825d38806720d8cb316baf0ad86614fac389ebf6ef308d.jpg",
+        "intro": "The first DLC world for hexceed, unlocking the exciting new world: Stella! Enjoy a new world filled with new puzzles to complete!",
+        "description": "The first DLC world for hexceed, unlocking the exciting new world: Stella!\n\nEnjoy a new world filled with new puzzles to complete!\n\nWith 110 new levels to complete, and thousands of hexes to solve, this world promises to bring you hours of relaxing puzzle solving!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100F59014E8D001"
+        ]
+    },
+    "70050000028374": {
+        "id": "0100F59014E8D002",
+        "rightsId": null,
+        "name": "Animo",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211125,
+        "nsuId": 70050000028374,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "ToastieLabs",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c5441b8836e00f2c5de9180a6b42e69e5b4b3bc1d6b0abf148d547d833ce4dfc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d67ca9e716434169609a784ba206a8abbce8dfbd8f82fc3d32ab01c4de045c5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e19aadef763ec15ea8f318f0423ae66a9f4582d978f4be798a338744b3c0505.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b299c3eb81553b2ca2ece2e25cde5ecb0984cc6319cd84223de28b945d0ce51.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f9175f7589f198f3fb96cd7ac1a4e3f54ae19f81037ab272b66653c09f4a0a3d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1534f3a802a43166240d16968503d6d95a0b5c1f15c2f7cedd0749ffaa5d25e8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/839fa79e32f7b0b390d057491ecb47df34b8d8ed3391e2a41dbe0737fa7e3f88.jpg",
+        "intro": "Unlocks a new world for hexceed: Amino brings 122 new puzzles with a brand new mechanic to shake things up!",
+        "description": "This DLC unlocks a brand new world for hexceed: Animo! \nPuzzle your way through 122 brand new levels - each with an exciting new mechanic!\n\nIntroducing the Rotating Tile mechanic!\nThis DLC brings with it tutorial levels for various applications of the Rotating Tile as it can be used with walls, red arrows and blue arrows!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100F59014E8D002"
+        ]
+    },
+    "70050000028375": {
+        "id": "0100F59014E8D003",
+        "rightsId": null,
+        "name": "Iter",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211230,
+        "nsuId": 70050000028375,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "ToastieLabs",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d36b0aaf29888ecc00352dbb14674d55beca9ecacce96cb07cdf36cd67b09e7b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c50436724b072f7fa904e3b4bfedd55d4ca243726d1cfcf1b0de1bd4f888d6d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/794a2ab6c1bc6f1e2b55d31759be32b8c5a92702dfdb29efc06092ac0e0eb2a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ab0e26907a8c0b53a23d726815be6e31bb7e6515ea45c372f5dc4536abc533d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7edd6dd8bfc5e4cf23a42d0d7d5d854f017c4fc4a82b1c2b224cfaad517f3a44.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73b03906cf7d7eaf4f93a2ead92813d7b9effefa1b38fdacf04d69e89704c665.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4b9d0eb94abcc868874c4302a113cb807c476d9b259b79c81ce478b0b913e7a7.jpg",
+        "intro": "The third addition to hexceed, bringing 160 exciting new levels! This world includes the Rotating Tile mechanic that was introduced in the previous world, Animo! ",
+        "description": "This DLC unlocks a brand new world for hexceed: Iter! \n\nThe third addition to hexceed, bringing 160 exciting new levels! \nThis world includes the Rotating Tile mechanic that was introduced in the previous world, Animo!\n\nWhich path will you take?",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100F59014E8D003"
+        ]
+    },
     "70050000028592": {
         "id": "0100E680149DD001",
         "rightsId": null,
@@ -47097,6 +47396,70 @@
         "ids": [
             "010040E0116B9006"
         ]
+    },
+    "70050000029130": {
+        "id": null,
+        "rightsId": null,
+        "name": "\"Special Stickers 4\" sticker set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210728,
+        "nsuId": 70050000029130,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Drogas L\u00edcitas"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a2823a134bde4094a74262f5f9c259b2f16bd4897a34bdc6451f81a1f96c904.jpg",
+        "intro": null,
+        "description": "Have fun communicating with other players using stickers!\n\nThis add-on contains:\n\n- \"Special Stickers 4\" Sticker Set\nThese stickers depict cute versions of your favourite characters from Kamura Village!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Chat menu.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000029157": {
+        "id": null,
+        "rightsId": null,
+        "name": "Nijisanji VTubers: \"Kuzuha, Sister Claire, and Debidebi Debiru\" Collaboration Officer Data",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210729,
+        "nsuId": 70050000029157,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Linguagem Impr\u00f3pria",
+            "Compras on-line"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a328b2dbdb509971247a81ee73caef734a805c83cbd51e5608446047da6fd196.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5adfc9c075d47310bec2db220cf2642c1870e4a1c7cb6da6de73a464c77bd959.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e68161a74aa4828e5163382ef4aa894f19206eea32bae96b16cccbb6a0b16417.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bfa86eee10202a37513b37cf90cbd247d75d8ab0e34a75c84bf1cf3dcadda688.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1759f967ac69517284b84c542f6e00da45e69aec0e290d16c34f1f395428d393.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f70ea7b73581f3c2048d4930857aa316ebf881659e95c7349583c49f94310f24.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2395d65805ca09a1578d53bbdd42ccaf2299d2d551362cb9ba17773b1522b9ce.jpg",
+        "intro": null,
+        "description": "New officers appear in scenarios for the  \"ROMANCE OF THE THREE KINGDOMS XIV: Diplomacy and Strategy Expansion Pack Bundle\".\n\nNote: Officer data added with this DLC cannot be edited.\n\nThis is a collaboration with the Nijisanji VTubers, namely Kuzuha, Sister Claire, and Debidebi Debiru.\nHere is a brief profile of them: Kuzuha is an unemployed vampire who plays video games all day long while sponging on his parents; Sister Claire takes care of the sick, the poor, and orphans; and Debidebi Debiru aims to doom the mankind to corruption.\nPlease enjoy the unique newcomers joining the scene.\n\n\u25bcAdded officers\nKuzuha, Sister Claire, and Debidebi Debiru\n\n\u25bcHow to use\nSelect a scenario from Start New - Select Scenario screen, then select an officer from \"Have Orig. Officers Appear\" on the Officer Settings screen to have them appear in-game.\nFrom \"Position Orig. Officers\", by placing the officer on a base, or having them serve a force, they will appear in-game.\n\n\u00a9ANYCOLOR, Inc.",
+        "languages": null,
+        "size": 3145728
     },
     "70070000002241": {
         "id": null,
@@ -47751,7 +48114,7 @@
         "intro": null,
         "description": "*PRE-ORDER BONUS*\n\n- Receive 3 DLC songs when you pre-order FUSER!\n- Receive the \"\"Crystal Void\"\" Theme Pack when you pre-order.\n\n(*Digital content offer. Time-limited to pre-orders only, while supplies last.)\n\nFrom the creators of Rock Band\u2122 and Dance Central\u2122 comes FUSER\u2122 - a non-stop digital music festival where you control the music! Combine elements of the world\u2019s most popular songs to create your own sound or partner with friends on epic collaborations, then share your amazing mixes and headlining performances with the world! #PlayFUSER\n\nVIP Edition (Digital) includes:\n\n- FUSER game\n- 25 additional launch DLC songs\n- Gilded Rabbit Helmet\n- FUSER Fest Outfit\n- Remix Runner Outfit\n- Shatterfall Video Wall Pack\n\nFUSER Features\n\n- Play with a library of over 100 songs including tracks from the world\u2019s top artists\n- Complete challenges to unlock new skills and content in Campaign play\n- Explore, discover and create incredible mixes and custom effects in Freestyle play\n- Collaborate or Compete in Multiplayer with players from around the world\n- Customization options to tailor the look and feel to your unique individual style\n- Share your inspired mixes and mind-blowing performances in-game and online",
         "languages": null,
-        "size": 7392460800
+        "size": 7419723776
     },
     "70070000011451": {
         "id": null,

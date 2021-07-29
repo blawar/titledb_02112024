@@ -642,6 +642,52 @@
         ],
         "size": 3191865344
     },
+    "70010000015327": {
+        "id": null,
+        "rightsId": null,
+        "name": "CrossCode",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200709,
+        "nsuId": 70010000015327,
+        "category": [
+            "RPG",
+            "Action",
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Bad Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Deck 13",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/46ca6ae623deb428f999e26676f130b4dbbfb0fe6bbb067e7ff905037e0eaa76.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/71c0b4c0bd4c83ca9d5aefaf09eae6f6da268242b1e1e0286f87db240ae35aff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9a124a91547e8e9067e947c905a904fd93e0e84e408e088ce8606fb1eac02a4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/533e48f3fc36e7def82c0caa340260d328bc90a3643e8357d1937e3e9dcdb413.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e577154bf9ddf4071e4b809925875258b6505cf476744c19541e110f50e790b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e823637a0baddf2a28bbe85140bbf7d9d759219ea84b5bb6e8e18580a2c84514.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bef411a99abd2ac2acc2adcda861f0686c6ccd3965a6d7f01b9780bd30cff6eb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/09c767ac66a33316042ff344ae78e7c966a8fc83ab7ebe0f012292dd0a39c3b8.jpg",
+        "intro": "A retro-inspired 2D Action RPG. CrossCode combines 16-bit style graphics with smooth physics, fast combat , and engaging puzzle mechanics, served with a gripping sci-fi story.",
+        "description": "This retro-inspired 2D Action RPG might outright surprise you. CrossCode combines 16-bit graphics with butter-smooth physics, a fast-paced combat system, and engaging puzzle mechanics, served with a gripping sci-fi story.\n\nCrossCode is all about how it plays! Take the best out of two popular genres, find a good balance between them and make a great game. That\u2019s what CrossCode does. You get the puzzles of oldschool Action Adventure dungeons and are rewarded with the great variety of equipment you know and love from RPGs. During the fast-paced battles you will use the tools you find on your journey to reveal and exploit the enemies' weaknesses and at the same time will be able to choose equipment and skills for a more in-depth approach in fighting your enemies.\n\n*Dive into a massive adventure with a playtime of around 30-80 hours\n*Explore a large world with 7 unique areas and hidden secrets all over the place\n*Fight over 120 enemy types including 30+ boss fights\n*Enter 7 expansive dungeons, all with with unique themes and puzzle mechanics\n*Master over 90 combat arts and even more passive skills\n*Solve over 100 quests with a great variety of tasks and unique challenges\n*60+ music tracks made by a rice ball (yes)",
+        "languages": [
+            "ja",
+            "en",
+            "de",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2671771648
+    },
     "70010000015367": {
         "id": "010093D00CB22000",
         "rightsId": null,
@@ -2010,7 +2056,7 @@
             "ko",
             "zh"
         ],
-        "size": 5165285376
+        "size": 5233442816
     },
     "70010000024293": {
         "id": "010036E00FB20000",
@@ -2902,7 +2948,7 @@
             "pt",
             "ru"
         ],
-        "size": 1315962880
+        "size": 1547698176
     },
     "70010000028502": {
         "id": "0100E21011446000",
@@ -3791,6 +3837,50 @@
         ],
         "size": 817889280
     },
+    "70010000030528": {
+        "id": "0100057011E50000",
+        "rightsId": null,
+        "name": "Zengeon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210806,
+        "nsuId": 70010000030528,
+        "category": [
+            "Action",
+            "RPG",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/740f13bd9c7e0ec12c1a787965faf301bc0d6de630b56eb7bc08038d84d2f5a9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9b38bcbca4ea70bea5f3f9180fb4b4f7e6c5878b4e209739069b3c676022b682.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b08aa66830c8db63365dd51e4f8f639446504e6c13077f4787c86910d94344e3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/92cbdf4c5bcf3a00c7c8cc417f9ca7198a72e211dab75717d6729dc7fe42bd94.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9ef9517410d78703bbee7190178cae86f6808e7bc09adae1a64c3bf8bdd7769.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae720b531728bc5f34b5597ea03649d3d848d64fdeb43a11e9cf9ce597780be0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ee1016cc24a8dbeb3c98cedec5e2600e03f0fdc404611e2a69874fff67edcaa.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bb721b25475faa474b8f340f13d157d4995f1da567854120af11c6b577bcc3a9.jpg",
+        "intro": "Slaughter your way through demonic hordes and mighty bosses!",
+        "description": "Zengeon is an anime-infused action RPG rogue-lite with a selection of characters with unique playstyles. Slaughter your way through demonic hordes and colossal bosses with hundreds of combination and skill possibilities!\n\nFor centuries, the Celestial Academy has protected a seal within the Blessed Land, keeping the Dark Emptiness from entering this realm. But... everything must eventually come to an end.\n\nDuring the Lunar Eclipse, a great power tore through the seal\u2019s enchantments, unleashing the Dark Emptiness upon the world.\n\nNow, the Demon God makes his return... Choose from six playable characters, each with their own attacks, skills, and items.\n\nIt is up to you, as one of the students of the Celestial Academy, to repel the Dark Emptiness and repair the seal in the Blessed Land!\n\nFEATURES\n- Six unique characters to choose from - Each with their own skills, abilities, and vastly differing play styles. \n- No two playthroughs are the same - Enjoy endless replayability with an ever-changing map layout and enemy placement. Adapt your strategy to the situation, combined hundreds of skills, and battle your way to the warp points. \n- Dynamically build your characters on the fly - Make tough decisions as you determine between uniquely generated power-ups and create a build that is perfect for your playstyle, all in-game. \n- Play with up to three friends \u2013 Team up with your friends and take down the infernal hordes together. The more players that join your game, the harder Zengeon gets with automatic difficulty scaling.",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1022361600
+    },
     "70010000030534": {
         "id": "0100B9400FA38000",
         "rightsId": null,
@@ -3839,6 +3929,56 @@
             "zh"
         ],
         "size": 9881780224
+    },
+    "70010000030752": {
+        "id": "0100A4C011F2C000",
+        "rightsId": null,
+        "name": "Pile Up! Box by Box",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210817,
+        "nsuId": 70010000030752,
+        "category": [
+            "Adventure",
+            "Arcade",
+            "Puzzle",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "HandyGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/38abc58fffc27c00567d620eda571090d35888d6e3f611ce6e15d2d35beca0f0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6b13033b8ea2a17a21fc56a9bd0030c78446d9c0636abbf07d7387752497f733.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62bad391c3996c4a304022bf2c37980b1ba4ec38e89f1fb17c44a3a5e8e466ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b57ae37beebb560366eab67ace50113bc92705ff4b1d67dbced434d41bbb6389.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ba6a9de19e5b6c6d0d4d1b8e54afb0b7d413e746509a8108fdb6ef82bed2f0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62bad391c3996c4a304022bf2c37980b1ba4ec38e89f1fb17c44a3a5e8e466ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db1f57d87d79f218b32c110a8f49841f998b8059bce5fdba7af0ac060668f258.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/10a61716d01935c8ba012750f1a5e7c4a04072d72ef6f9a3a9b5f1084bbc0d40.jpg",
+        "intro": "Pile Up! Box by Box ticks all the right boxes as a family-friendly cooperative 3D platformer! Jump up, slide down, play together and carry the load!",
+        "description": "Coordinate with your friends or rely on your own creativity to navigate cardboard worlds full of uniquely joyful levels. Unfold mysteries, solve puzzles and quests as a team and visit the friendly citizens of sun-baked islands, amber forests, and vibrant caves. Or maybe just kick-back and challenge your friends in action-packed rounds of Boxball, Pile of Dunk or Tic Pile Toe?\n\nPlay together, stick together, think together \u2013 and pile up!\n\nFEATURES\n\nGO ON AN ADVENTURE\nExplore colorful cardboard worlds in this cute 3D platformer. Find your way through open-ended levels, uncover mysteries and bring joy to the cardboard inhabitants of these places.\n\nLOCAL MULTIPLAYER\nPlay with your friends up to 4 players! Drop-in and out at any time with dynamic challenge rescaling.\n\nA GAME FOR EVERYONE\nAnybody can play Pile Up! The game has simple controls, no punishment for failure, a chill-pacing, very few time pressure and remember that teammates can always help each others!\n\nTEAM WORK\nCooperate to progress! It is all about communication and organisation. Share the tasks, synchronize your moves and carry each other to overcome the challenges.\n\nMINIGAME FRENZY\nFace your friends in frantic mini-games, and lead hilariously chaotic battles. For party-game lovers!\n\nCREATIVITY IS THE KEY\nThink outside the box and solve the puzzles your way. There is no unique solution, creativity is the key! Reach to anywhere by building stairs and structures with the boxes you collected.\n\nOPTIMIZE YOUR WAY\nUnlock the timer mode and test your skills at piling up boxes. Find the best path and the quickest way to progress through the worlds.\n\nOverview\n\n- Pile-up on each other!\n- A joyful adventure for 1 to 4 players\n- Cute colorful cardboard worlds and creatures to discover\n- Open-ended puzzles that foster creativity\n- Mini-games to challenge your friends!\n- Drop-in and out at any time with dynamic challenge rescaling.\n- Customize your own Boxling with individual skins",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1398800384
     },
     "70010000030828": {
         "id": "0100187011F8E000",
@@ -3961,6 +4101,50 @@
             "ru"
         ],
         "size": 413138944
+    },
+    "70010000031130": {
+        "id": "01000130120EE000",
+        "rightsId": null,
+        "name": "Fuga: Melodies of Steel",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210729,
+        "nsuId": 70010000031130,
+        "category": [
+            "RPG"
+        ],
+        "ratingContent": [
+            "Strong Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "CyberConnect2",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/56d4db299cb3382c2d612c54a271234f276332c4ae277a3aba3e912a52734daf.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a9e64d2085a9c4e3465fb93fd96c0a564a4d80050cc5bf27c3c6856c4fc2e171.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea54529c6fdb23d25ef354e6fc56f9d4d6b010c46e889e71194f523cf4edd599.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b26ac49f90af87a84d10938e5b50a3541d6e4be61b58d29918c394083d2567db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d42b2f1287624fb7854d7f0ec350b80d68e3a8d206e60384beaaaa00bf812c04.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2bf1b94a89587ae68dfcfad8bc6d4f115343d67a7267bdcc96d327c11982e2a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f16a9bf5e6e2e71bbd70450e00d7c223fa9a7e18012ae6458d09bb3319937bad.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dd937e42ca2924d03a092b88db7effc427137aecdaf83714190d09ebf49bc790.jpg",
+        "intro": "A dramatic action strategy RPG depicting hope and despair.",
+        "description": "\"We have to fight! If we don't, everyone we love will be taken away!\"\n\nOn a fateful night a peaceful village is thrown into the flames of war. Determined to save their families, a group of children gets aboard a giant tank and begins an offensive charge!\n\nFuga: Melodies of Steel is a RPG where you place children on the different gun turrets in a tank, each with their own characteristics and skills, to stand up and fight against the enemy.\n\nWhile living inside the tank, the children show emotions, and affinity between each other. Manage those emotions and affinities to change the outcome of their journey!\n\n-A mysterious ancient weapon: The Taranis\nTaranis, the giant tank sheltering the children, conceals many mysteries and somehow seems to have its own will. In situations of crisis, it can release a forbidden weapon, the dreadful Soul Canon.\n\n-Your adventure. Your choices.\nWill you make sacrifices for victory? Or will you seek for other ways?\nIn this RPG, many choices have to be made in order to progress... but taking the safest road may not always be the best option.\nFaced with a desperate situation, what course of action will you choose?",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "it",
+            "zh",
+            "zh"
+        ],
+        "size": 1314914304
     },
     "70010000031178": {
         "id": "01002AF011D14000",
@@ -5643,7 +5827,7 @@
             "en",
             "pt"
         ],
-        "size": 3035627520
+        "size": 3039821824
     },
     "70010000034021": {
         "id": "01001DC012E7E000",
@@ -6002,7 +6186,7 @@
             "ja",
             "en"
         ],
-        "size": 2408579072
+        "size": 2479882240
     },
     "70010000034421": {
         "id": "010031201307A000",
@@ -6299,7 +6483,7 @@
             "fr",
             "de"
         ],
-        "size": 154140672
+        "size": 285212672
     },
     "70010000034655": {
         "id": "010025E0131A6000",
@@ -10973,7 +11157,7 @@
             "en",
             "fr"
         ],
-        "size": 378535936
+        "size": 380633088
     },
     "70010000038285": {
         "id": "0100ACB014104000",
@@ -11388,7 +11572,7 @@
             "ko",
             "zh"
         ],
-        "size": 162529280
+        "size": 220200960
     },
     "70010000038507": {
         "id": "0100AC60143F4000",
@@ -11516,6 +11700,48 @@
             "zh"
         ],
         "size": 1236271104
+    },
+    "70010000038567": {
+        "id": "0100BE9014420000",
+        "rightsId": null,
+        "name": "Dream House Days DX",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210729,
+        "nsuId": 70010000038567,
+        "category": [
+            "Simulation",
+            "RPG",
+            "Puzzle",
+            "Strategy"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Kairosoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3f5af14c8caf1c2858a3d4586eca91893fcb8962990640bba38acdada969803d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4a34cfb322f83082b2f6870a3e0265e75469b70dfa9105a8085a2aca01148d35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fdd0e05f9e865014e65bc3e1adc5d132885b395981b77c0a03a11c39bf1386c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a634e8fdaac1cd87ec5bcbdde6db9f5fbb36651200b0476338069c3c9168701b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/144676cc264c81c610475a5ffbd1626bac09b9b4cc05f2bbb7d3ddaece85dd35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b8e85b3fc8193f4c77626a1a7e8f4e468ba5f8a8bc9c885a510cea3530c37af.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/79bf1a413e8ef84cb0c4cc3aa23bcf040198c2ef39f280f022330129690e7c14.jpg",
+        "intro": "Make the dwelling of your dreams a reality in this apartment management sim!",
+        "description": "The house of your dreams is a dream no more!\n\nYou play both architect and landlord in this fanciful new sim, and it's up to you to furnish your ideal abode with anything from arcade games to saunas to convenience stores. Certain combinations can power up your rooms...and their rent. Put an HDTV and game console together to make a game room, or a grand piano and painting together to make a fine arts room!\n\nRise up the rankings of real estate fame and you might reel in some celebrity tenants, ranging from hit singers to soccer stars!\n\nBut there's more than just business at stake. Tenants will look to you for guidance on everything from romance to career choices. With your help, they just might tie the knot or land that dream job!\n\nBuild a dream home where dreams come true!\n\nTry searching for \"Kairosoft\" to see all of our games!!",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 202375168
     },
     "70010000038613": {
         "id": "01002DA013484000",
@@ -13884,8 +14110,9 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Moderate Violence",
-            "Sexual Innuendo"
+            "Horror",
+            "Mild Swearing",
+            "Moderate Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 12,
@@ -18265,7 +18492,7 @@
             "de",
             "ru"
         ],
-        "size": 3965714432
+        "size": 4008706048
     },
     "70010000040858": {
         "id": "010000A014E5A000",
@@ -20451,6 +20678,52 @@
         ],
         "size": 274726912
     },
+    "70010000041334": {
+        "id": "0100F59014E8C000",
+        "rightsId": null,
+        "name": "hexceed",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70010000041334,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "ToastieLabs",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0d91a02b11982d6e0d2361d50ab1014d02826a35191bdc92cb26f465f9ff2fac.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/46f961eedaa5d00a103cc773d7d277705334ea9425bd5bad8e548da3ea818777.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ed542735488674fe00c4b1aef995ec4f9a71543dd6706214a7204a78d28b6a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bbc32394faeee27762f3d20f698e543fcded354c2cbf961fde2d32d2cb064e75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2875cd6a55da051105b182617b6d409c12f2deacb231a7cb811a9f5855bc45e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e63fe97c0de837cf246f64d67698404891c2ccccbfb4f29b906c9f4905473dfb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/822fcc39e722d0d6631acba3ed9b36b4b93be6941268d2f353bd606c0261f8c9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c42d41f496b1db14edd2b065b9ae0d8ced4f9f04bb84d37ac067811fcf9c43b9.jpg",
+        "intro": "A relaxing, hexagon based, puzzle game. An exciting new twist on a classic game without the element of guesswork! Use your critical thinking to progress through hundreds of levels!",
+        "description": "A modern twist on a classic puzzle game! Progress through hexes to uncover which spaces are safe and which spaces hide danger! \nRelax and be rewarded!\n\nNumbers show you how many dangers lie around the hexagon! \nPlay with just your mouse! Each click reveals even more information for you to progress through the level!\n\nLearn about the special tiles that give you knowledge in new and intriguing ways!\nLines for directions, walls for blocking, and more for you to discover!\nFind out what each mechanic gives you, as well as what it takes away!\n\nEvery single tile has an answer!\nUse your own critical thinking combined with the revealed information to correctly place each and every click!\nWatch out if you click in the wrong hex!\n\n100s of levels! \nEach level has its own unique layout, bringing a fresh puzzle for you to complete!\nAs you progress you will map out the world!\nEither race to the end by collecting all the milestones, or take the scenic route to visit each and every one of the side levels along your way!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 849346560
+    },
     "70010000041374": {
         "id": "0100BD401493A000",
         "rightsId": null,
@@ -21000,6 +21273,51 @@
         ],
         "size": 294649856
     },
+    "70010000041570": {
+        "id": "0100A3D015232000",
+        "rightsId": null,
+        "name": "123 Dots",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70010000041570,
+        "category": [
+            "Education",
+            "Puzzle",
+            "Utility",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Artax Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/129289f19bc814515b4a6e6a7db6874190efc5947b1de7dafc86d5ae41da7089.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f06a36555fd263bb7b035b7c3905230983f484d92773ebd83685e2befbeb6aa4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52599a11df8758563617cc2b90a30d62e65fdf2b3f7cb74624eee4a89cecf3a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/758034b64d672fbd03290e109c9ee85a5c568f2c06b79d7a696613846a6b53a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fed48acae05f787655b65018ac0b3308e2c174fca9941aa4e9909c977214115f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c354f848a187df94cac5addcb788e6bf02f0b6213608f67ce1a7bb5a7fb4e316.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebca520e0bb50e0e05b39ece9d0e95e0bd83cbeac0c44969f269d047a7b43fdf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0b29f4f6673a3776786bbaa228291944eaa7923abdd6f294b75fa65c3f6f0e6b.jpg",
+        "intro": "Learn to count the numbers, basic skills and sequences for preschool children.",
+        "description": "\u2605 Learning games for preschoolers from ages 2 to 6 years old \u2605\n\nThe game includes more than 150 educational activities for your child to learn while having fun. 123 Dots also helps children develop important basic skills such as creativity, basic skills, attention span and memory.\n\n123 Dots entertains toddlers while they learn numbers from 1 to 20 with itrs fun and friendly Dots.\n\nIn addition to teaching numbers and counting, your children can learn geometric shapes, basic skills, the alphabet and sequences. All in one!\n\nThe game is fully translated to 8 different languages: English, German, Spanish, French, Portuguese, Italian, Russian and Swedish. Preschoolers can also learn colors, geometric shapes and numbers, animals in other languages!\n\n\n\u2605 EDUCATIONAL GOALS\n\n\u2714 Learn the numbers.\n\u2714 Learn to count up to 20.\n\u2714 Remember numerical order: sequences.\n\u2714 Develop basic skills.\n\u2714 Expand vocabulary with: animals, geometric shapes, colors and professions.\n\u2714 Develop literacy.\n\u2714 Learn the letters of the alphabet\n\n\n\u2605 DETAILED DESCRIPTION\n\n123 Dots has learning games for kids from ages 2 to 6 years old. With spectacular results, the games help toddlers learn how to count numbers, as well as improve their basic skills by expanding their vocabulary.\nThe menu interface is attractive and simple so that kids can play alone without the need of an adult.\nThe fun Dots will lead the way and teach kids by creating an exciting and diverse interactive experience that mixes gameplay with learning at all times. Kids will stay engaged as they interact with the Dots and make them jump and play.\nAnd, in order to unlock them, the child simply has to complete educational activities such as counting forward, counting backward, solving logical series and sorting the letters of the alphabet.\n\n\n\n\u2605 EDUCATIONAL GAMES\n\n\u2714 COUNTING FORWARD\nIn this educational game, the Dots must be ordered from smallest to largest. With this activity, toddlers will learn to count and strengthen his knowledge of numbers.\n\n\u2714 COUNTING BACKWARD\nIn this activity, preschool children should count backward until the image is completed to help them develop their most basic skills.\n\n\u2714 PUZZLES\nPut the pieces in their place discriminating between the shapes and colors of each piece.\n\n\u2714 JIGSAW\nMore than 25 jigsaw puzzle with three levels of difficulties for preschool children or first and second grade.\n\n\u2714 MEMORYS\nAssociate pairs of elements that will require improving your memory and your ability to count and recognize numbers up to 10.\n\n\u2714 LOGICAL SERIES\nKids will develop their logical thinking by joining the Dots according to the simplest logical series: odd and even numbers.\n\n\u2714 THE ALPHABET\nIn those learning games, preschoolers must complete the image by ordering the sections according to the letters of the alphabet in capital letters.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru"
+        ],
+        "size": 159383552
+    },
     "70010000041572": {
         "id": "0100518015236000",
         "rightsId": null,
@@ -21542,6 +21860,48 @@
             "ko"
         ],
         "size": 180355072
+    },
+    "70010000041767": {
+        "id": "01009170152E8000",
+        "rightsId": null,
+        "name": "Star Hunter DX",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70010000041767,
+        "category": [
+            "Shooter",
+            "Arcade",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Chorus Worldwide Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ad1a40b2b08ca00ba2a938de50b17f3d4f8b7555049ded2c988e2bd1702ca593.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0ec79b9fb41241e964079b631cf2b20a2daac7ec69ee244445f42ef7d60407be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b32034c83a7718f1583076c6c7166c3f9737f597994a0121f1d253141323a0d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/33e81a1c50e31f8eaf18525c1dfedac318026db69e20265fe2b5b0bde894e30c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0e2d8d0effe0acf8b0070a7f4bff11bf95c97dd5ba1e74ddfd381e5adead9b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cdc0ae5e48ad8bedd743d85d81793ab977dc2f4e86817ce28231440be70d529e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce6714bf78cad0d6569cebe358bb9872f1f8d6efc6570c75893587e79578f120.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/61e9f7732c13b2e2a2b4d1d401d20df0ebaabfaf5cc805fbec022f254a813a2f.jpg",
+        "intro": "Hunt space pirates and shoot to score in this accessible, retro-infused shmup.",
+        "description": "Betrayed by her cut-throat crew, Luna Starr - former Space Pirate Captain turned bounty hunter - has a score to settle. As Luna, travel to 5 exotic planets to track down your mutinous mates, and face them in Bullet Hell dogfights to the death!\n\n\n~ Return of the Bullet Hell Bounty Hunter ~\n\n- The Story so Far\nBetrayed by her cut-throat crew, Luna Starr - former Space Pirate captain turned Bounty Hunter - has a score to settle. As Luna, travel to 5 exotic planets to track down your mutinous mates, and face them in Bullet Hell dogfights to the death!\n\n- Stop! Bullet Time\nOutnumbered and outgunned, it's a good thing Luna has an ace up her sleeve: a space fighter craft that can alter the flow of time itself! Power up the Bullet Time gauge by destroying enemies or catching their attacks in a bomb blast, then enter Bullet Time! Enemies and their projectiles will move in slow motion, while you can still fly and shoot at normal speed.\n\n- Galactic Gold Rush\nWhy eat lead when you could turn lead into gold? During Bullet Time, the bullets from any enemies you destroy will be converted into gold cubes to collect! Will you play it safe and quickly cash in bullets for survival, or take a risk and allow bad guys to flood the screen with fire for a massive score boost?\n\n- Eye of the Tiger\nStar Hunter DX is old school hard, but wants you to succeed: the extensive practice mode will help beginners to survive, and allow pros to perfect their runs. Push it to the limit and rise to the top of the leaderboards!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de"
+        ],
+        "size": 155189248
     },
     "70010000041774": {
         "id": "01002AF014F4C000",
@@ -23941,6 +24301,54 @@
         ],
         "size": 59768832
     },
+    "70010000042596": {
+        "id": "0100E390155E4000",
+        "rightsId": null,
+        "name": "Haven Park",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70010000042596,
+        "category": [
+            "Adventure",
+            "RPG",
+            "Puzzle",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Mooneye Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0d91e48d904f3e935ae8877f35e2650d52c1874fe2195553eb92701b30dc49bd.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/df758960eee135eeb3f99bd34fdbe1205cc4e07dca6010406dab47c862a462f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7af097d74a5fd079d47e844bd46527db8a8a32dde30bda808cbd9c565239889f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0319b113caf426dcf36e975bbf912491095b2eba7ee65063b454838f2b3f3772.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8aa7a5df16df91827810a2a51757d07b222e1b24f8494159bb1251a6c62da72c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/902ccd4d5dc9b9598c6e581335fbaf4a06b517b27f8cedf849542d75bba680f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1aff71de3ad8f75f2d0aaddd7196285a03389e92e71bc668cd7040b0fc3ab871.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7a3d90bef887edd4b070895664540b2c406e7bf90e656dff380445bab7fda990.jpg",
+        "intro": "a tiny exploration game",
+        "description": "\"I'm getting older, my dear, and I'm not able to take care of the park any longer... Will you help me bring the life back into this place?\"\n\nBe Flint, who is doing his very best to keep his grandma's park up and running and make it a place for the campers to enjoy. Learn the camper's wishes and build whatever their hearts desire to attract even more quirky characters and look forward to whimsical conversations and quests.\n\nGet to know the campers and and learn more about the old stories surrounding the forest. Did someone mention a lost treasure?\n\nHaven Park is a place to relax, to enjoy and to make your own!\n\nKey Features\n- Explore a tiny and peaceful open world and build cozy campsites at your own pace\n- Plenty of quests and a heartfelt story keep you busy for 2-4 hours with many little secrets to uncover\n- Learn new skills that help you make the campers even happier\n- Meet lots of charming characters and learn their needs to make them fall in love with Haven Park",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 434110464
+    },
     "70010000042625": {
         "id": "01005E3008452000",
         "rightsId": null,
@@ -24664,6 +25072,49 @@
             "en"
         ],
         "size": 263192576
+    },
+    "70010000043035": {
+        "id": "0100358015762000",
+        "rightsId": null,
+        "name": "CLOSER - anagnorisis",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210729,
+        "nsuId": 70010000043035,
+        "category": [
+            "Action",
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "2P Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/76221b5e545a015bd6d4abc997a46a535b437098ad998a35ddb94f151bc73361.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5a03cf211db1b53221897685595465f45a6cac7a17a3a7f8847e1416c31a902a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71fa7c2131c522131e78a8365ac7ccc87c10ffcc1a9f1f1903fb590e613691a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48cec19fe412b30fe79c4efc3afd277e8e3f12c4bbc653fb3dfbcb215844dac2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce7ccf36ff1cd3342d4fae21f7afe1b80102a0a91cb7bb3f3843c7cc6ed7696c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e5b10a83d1cbc19f5dab930e6ff5cfd637e6bd5399025d24aded76a1835f29e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/204d53d1cfaab0e04b4371715fe234f42aa81d5aac96676f8fc09eab156acbd1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cc0b9833f8a43d7025434711677bad05a491cf202328106b90fdc7eea3b1dc8b.jpg",
+        "intro": null,
+        "description": "CLOSER - anagnorisis is a creative adventure game.\n\nThis is a game with distinctive art and gameplay. It contains a lot of creative designs.\n\nThe game tries to make it interesting without fighting. Players need to think about how to accomplish by \"winning by cleverness\".\n\nEach section of the game will have a different experience and gameplay, so that players can experience freshness in every part, and can think about emotional cues of the current mood of the character.\n\nThroughout the game, players need to avoid crisis brought by the enemy, and use some knowledge to deal with the challenges of solving puzzles.\n\nI hope that through this game, everyone will care for those people whose hearts have been traumatized.",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 337641472
     },
     "70010000043045": {
         "id": "0100D82015774000",
@@ -49804,7 +50255,7 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff9c52f50a6fd5313fb658a33f00bd95476286550a50ea6ab9148e8568935f7b.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d21a382dd6bfa51614489111a0709319687a7f02cd620c9c178cf2e1df9d4a67.jpg",
         "intro": null,
         "description": "The legendary Earth Sprite dance is revived!\n\n* The sub-scenarios are small sets of quests, events, and outfits that are separate from the main game's scenario.\n\n[Summary]\nThanks to your efforts, the Earth Sprite Village is livelier than ever! Now, the Earth Sprites are determined to revive their legendary dance and hold a feast...with or without Boss Sprite's permission!",
         "languages": null,
@@ -49916,7 +50367,7 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12a32d222ade2cfa4cfd0647287af118c9f969a2e4631d243f20fa1db64892d7.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/440ad3adf5cfdd46ab3e16e6b7388dd93c64680cbc51157552b3e9dcdce93de4.jpg",
         "intro": null,
         "description": "A festive set of yukata decorated with ornate patterns.\nThis set adds 2 new outfits to the game.\n\n* The protagonist outfits will become available once you have completed the town development request to build the salon. You may then commission the outfits from Karina.\n* All protagonist outfits can be worn regardless of gender chosen.",
         "languages": null,
@@ -49944,7 +50395,7 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d220f335d7d98d43770def5dc11cb4666635544d4f5ea5507eec1b2aa0393978.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e3196ab7a4edc4d92e6f8b7a5acc8951f8ee4f9c69303fa4f8e4dff21f03579.jpg",
         "intro": null,
         "description": "Ever wonder what Olive Town's eligible bachelors and bachelorettes would look like dolled up in luxurious yukata? Wonder no longer! This set allows you to dress up all 10 marriage candidates to make your town feel like it's a festival every day.\n\n* To change the marriage candidates' outfits, select \"Downloadable Content\" from the title screen, then enable the outfits in the \"Apply Downloadable Content\" menu.\n* Marriage candidate outfit sets are not available for marriage candidates added in the Expansion Packs.",
         "languages": null,
@@ -62785,6 +63236,41 @@
         "languages": null,
         "size": 0
     },
+    "70050000027880": {
+        "id": "0100F59014E8D001",
+        "rightsId": null,
+        "name": "Stella",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70050000027880,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "ToastieLabs",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/32ed20beada4e2b5ff4ea7f70d2aec7051e3c3082648ea9a9974b0483594e3ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb31ab7362b4ac7fc4d3563d6f541006cea0e32830b864445fd2626447baed24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac7e8e5733c81f9788d4c27721d95d69129e02316906f242c15ddcf80a9a55ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e62d06f634582c43a7fcf8add3948e75b8bc41262d199ee1856ef500151f0343.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ca71684caf72fe6216873ceb66378afbc7bf08ada3702c0ce32ff6dc83cf384.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/307bf47f50fd1bb1ac01b1b2a9f9fbda75550c2b30f16f0c17615be03d4be865.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d364975418160cfeb6825d38806720d8cb316baf0ad86614fac389ebf6ef308d.jpg",
+        "intro": "The first DLC world for hexceed, unlocking the exciting new world: Stella! Enjoy a new world filled with new puzzles to complete!",
+        "description": "The first DLC world for hexceed, unlocking the exciting new world: Stella!\n\nEnjoy a new world filled with new puzzles to complete!\n\nWith 110 new levels to complete, and thousands of hexes to solve, this world promises to bring you hours of relaxing puzzle solving!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100F59014E8D001"
+        ]
+    },
     "70050000027892": {
         "id": "01006A800016F04C",
         "rightsId": null,
@@ -62943,6 +63429,41 @@
         "size": 3145728,
         "ids": [
             "0100BAB01113B002"
+        ]
+    },
+    "70050000027964": {
+        "id": "0100F59014E8D002",
+        "rightsId": null,
+        "name": "Animo",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211125,
+        "nsuId": 70050000027964,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "ToastieLabs",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c5441b8836e00f2c5de9180a6b42e69e5b4b3bc1d6b0abf148d547d833ce4dfc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d67ca9e716434169609a784ba206a8abbce8dfbd8f82fc3d32ab01c4de045c5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e19aadef763ec15ea8f318f0423ae66a9f4582d978f4be798a338744b3c0505.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b299c3eb81553b2ca2ece2e25cde5ecb0984cc6319cd84223de28b945d0ce51.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f9175f7589f198f3fb96cd7ac1a4e3f54ae19f81037ab272b66653c09f4a0a3d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1534f3a802a43166240d16968503d6d95a0b5c1f15c2f7cedd0749ffaa5d25e8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/839fa79e32f7b0b390d057491ecb47df34b8d8ed3391e2a41dbe0737fa7e3f88.jpg",
+        "intro": "Unlocks a new world for hexceed: Amino brings 122 new puzzles with a brand new mechanic to shake things up!",
+        "description": "This DLC unlocks a brand new world for hexceed: Animo! \nPuzzle your way through 122 brand new levels - each with an exciting new mechanic!\n\nIntroducing the Rotating Tile mechanic!\nThis DLC brings with it tutorial levels for various applications of the Rotating Tile as it can be used with walls, red arrows and blue arrows!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100F59014E8D002"
         ]
     },
     "70050000027969": {
@@ -63393,6 +63914,41 @@
         "size": 3145728,
         "ids": [
             "0100B28014133008"
+        ]
+    },
+    "70050000028042": {
+        "id": "0100F59014E8D003",
+        "rightsId": null,
+        "name": "Iter",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211230,
+        "nsuId": 70050000028042,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "ToastieLabs",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d36b0aaf29888ecc00352dbb14674d55beca9ecacce96cb07cdf36cd67b09e7b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c50436724b072f7fa904e3b4bfedd55d4ca243726d1cfcf1b0de1bd4f888d6d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/794a2ab6c1bc6f1e2b55d31759be32b8c5a92702dfdb29efc06092ac0e0eb2a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ab0e26907a8c0b53a23d726815be6e31bb7e6515ea45c372f5dc4536abc533d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7edd6dd8bfc5e4cf23a42d0d7d5d854f017c4fc4a82b1c2b224cfaad517f3a44.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73b03906cf7d7eaf4f93a2ead92813d7b9effefa1b38fdacf04d69e89704c665.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4b9d0eb94abcc868874c4302a113cb807c476d9b259b79c81ce478b0b913e7a7.jpg",
+        "intro": "The third addition to hexceed, bringing 160 exciting new levels! This world includes the Rotating Tile mechanic that was introduced in the previous world, Animo! ",
+        "description": "This DLC unlocks a brand new world for hexceed: Iter! \n\nThe third addition to hexceed, bringing 160 exciting new levels! \nThis world includes the Rotating Tile mechanic that was introduced in the previous world, Animo!\n\nWhich path will you take?",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100F59014E8D003"
         ]
     },
     "70050000028045": {
@@ -65872,6 +66428,39 @@
             "0100B04011743057"
         ]
     },
+    "70050000028376": {
+        "id": null,
+        "rightsId": null,
+        "name": "CrossCode: A New Home",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70050000028376,
+        "category": null,
+        "ratingContent": [
+            "Bad Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Deck 13",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/36531730466ad1b61c84bf19c806af4aee1fe5111b3bc43e16188aac0ad5c93f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4350747e8167fffc8fa3969b68ce091a04db1524181f25457b26292704cc2076.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7dd43b3d6b03c72353205c9d459b64239fb3e213284ff88f8ccdf8d9cf885e39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f851488249249c3dd81d502b0b49639de04f240d86778a3b8f365bb976bdb551.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0017df9e14bfdb1b5622edcb13f9877729ffeb72a5dea0e46c8f9993bace311b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a5bce00f2b5f4c7b983b6e7938521e4141ac74abeb9444be193b5e975caa7a3e.jpg",
+        "intro": "Time to find a new home!",
+        "description": "A new chapter of Leas story awaits. The CrossWorlds just got bigger and that means there are new things to explore. But before you enjoy these, make sure to meet old friends, learn new words and throw an uncountable amount of balls at your enemies.\n\n\"A New Home\" continues right after the Events of CrossCode and offers more of what you learned to love already: A story rich experience filled up with tons of enemies, bosses and puzzles. Follow Lea on her journey figuring out the truth, use your elements like never before and don't forget to finish the raid. This time for real.\n\nWhat's included in the DLC:\n\n- Fresh content which will entertain you for about 8-10 hours\n- Explore the probably biggest dungeon we've ever created\n- Fight against new enemies and bosses\n- Run over water for the very first time\n- Listen to some fresh music tracks\n- And of course: Finish The Raid",
+        "languages": null,
+        "size": 0
+    },
     "70050000028553": {
         "id": "0100D6F012AE7002",
         "rightsId": null,
@@ -67001,6 +67590,68 @@
             "0100BB800E0D3029"
         ]
     },
+    "70050000029131": {
+        "id": null,
+        "rightsId": null,
+        "name": "\"Special Stickers 4\" sticker set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210729,
+        "nsuId": 70050000029131,
+        "category": null,
+        "ratingContent": [
+            "Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a2823a134bde4094a74262f5f9c259b2f16bd4897a34bdc6451f81a1f96c904.jpg",
+        "intro": null,
+        "description": "Have fun communicating with other players using stickers!\n\nThis add-on contains:\n\n- \"Special Stickers 4\" Sticker Set\nThese stickers depict cute versions of your favourite characters from Kamura Village!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Chat menu.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000029133": {
+        "id": "01000130120EF001",
+        "rightsId": null,
+        "name": "Fuga: Melodies of Steel - Deluxe Edition - In-Game Bonuses",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210729,
+        "nsuId": 70050000029133,
+        "category": null,
+        "ratingContent": [
+            "Strong Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "CyberConnect2",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/64710794f432bf855d4f283eb6ff30650cb3963a16cd57c480c2281f32a6ae4b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24c964c352495ef23e8ddc00400be55ff35b8f1b33644645e9d7fad9d0ab9c79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c46c86d98be718973f4f9ec23b7cc388971c6ada80d1063cd7d48c6a1e28216c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eefc1317bbab3aa1286f9eb7f5a7f83c1a66690acca8451a6d9d9fbea7fcb99b.jpg",
+        "intro": "A dramatic action strategy RPG depicting hope and despair.",
+        "description": "-Fuga: Melodies of Steel - Deluxe Edition\n\u30fbFuga: Melodies of Steel - In-Game Bonuses:\n \u2460Swimwear costumes for all characters (can be used during intermission and expedition)\n \u2461Dummy Soul for the Soul Cannon (can use the Soul Cannon 1 time without sacrificing a character)\n \u2462Set of items",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01000130120EF001"
+        ]
+    },
     "70050000029134": {
         "id": "0100E9D00D6C300F",
         "rightsId": null,
@@ -67035,6 +67686,42 @@
         "ids": [
             "0100E9D00D6C300F"
         ]
+    },
+    "70050000029156": {
+        "id": null,
+        "rightsId": null,
+        "name": "Nijisanji VTubers: \"Kuzuha, Sister Claire, and Debidebi Debiru\" Collaboration Officer Data",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210729,
+        "nsuId": 70050000029156,
+        "category": null,
+        "ratingContent": [
+            "Mild Swearing",
+            "Moderate Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "KOEI TECMO EUROPE",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a328b2dbdb509971247a81ee73caef734a805c83cbd51e5608446047da6fd196.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5adfc9c075d47310bec2db220cf2642c1870e4a1c7cb6da6de73a464c77bd959.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e68161a74aa4828e5163382ef4aa894f19206eea32bae96b16cccbb6a0b16417.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bfa86eee10202a37513b37cf90cbd247d75d8ab0e34a75c84bf1cf3dcadda688.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1759f967ac69517284b84c542f6e00da45e69aec0e290d16c34f1f395428d393.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f70ea7b73581f3c2048d4930857aa316ebf881659e95c7349583c49f94310f24.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2395d65805ca09a1578d53bbdd42ccaf2299d2d551362cb9ba17773b1522b9ce.jpg",
+        "intro": null,
+        "description": "New officers appear in scenarios for the  \"ROMANCE OF THE THREE KINGDOMS XIV: Diplomacy and Strategy Expansion Pack Bundle\".\n\nNote: Officer data added with this DLC cannot be edited.\n\nThis is a collaboration with the Nijisanji VTubers, namely Kuzuha, Sister Claire, and Debidebi Debiru.\nHere is a brief profile of them: Kuzuha is an unemployed vampire who plays video games all day long while sponging on his parents; Sister Claire takes care of the sick, the poor, and orphans; and Debidebi Debiru aims to doom the mankind to corruption.\nPlease enjoy the unique newcomers joining the scene.\n\n\u25bcAdded officers\nKuzuha, Sister Claire, and Debidebi Debiru\n\n\u25bcHow to use\nSelect a scenario from Start New - Select Scenario screen, then select an officer from \"Have Orig. Officers Appear\" on the Officer Settings screen to have them appear in-game.\nFrom \"Position Orig. Officers\", by placing the officer on a base, or having them serve a force, they will appear in-game.\n\n\u00a9ANYCOLOR, Inc.",
+        "languages": null,
+        "size": 3145728
     },
     "70050000029197": {
         "id": "0100D6F012AE7003",
@@ -67095,6 +67782,105 @@
         "ids": [
             "010040E0116B9006"
         ]
+    },
+    "70050000029308": {
+        "id": null,
+        "rightsId": null,
+        "name": "Original Pack 4 (10th Anniversary)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210729,
+        "nsuId": 70050000029308,
+        "category": null,
+        "ratingContent": [
+            "Mild Swearing",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "TAITO",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f1410b9d7c700b58a3a0d8838bf6e8532539eee462b81310fe29cdc161ecc859.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c5c700313baa06b6b29231a60fd8b2d0ca6a99f5ecccfe44d4bc9758c076e35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fc6897846f59da4f26b25f466c2429a9931eb7652a846a54366a8d0043e58862.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bf66e186c60515b60968b5f6c4bd67c9200a55bd04f75abae45be478176bc4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/427f1b0a67ea4e430c215abee794ed1bf743f0c4a5b3333c7f28345824c9a0d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c1a40bb7bdd4fcd61f0281427d86b07305b178a3d2e4904471f48dde5bba53c7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0c9c6de443ecbca13b42b1f6896ab1efde4a39c97747afe2a9adef09caece0ef.jpg",
+        "intro": "10 original songs, including Grated songs composed by Tatsh and COSIO are now available! With navigators and avatars!",
+        "description": "A DLC pack for GROOVE COASTER WAI WAI PARTY!!!! that includes 10 songs, navigators, and avatars!\n\nThis pack includes the following content.\n\n\u25a0Song Pack (10 songs)\n\u30fb1llusion 0f the FAIRYtALE hARMONY / LINKA (CV: Moe Toyota)\u30fbYUME (CV: Nanami Takahashi)\u30fbSEINE (CV: Eriko Kawakami)\n\u30fbPlay merrily NEO / Shohei Tsuchiya (ZUNTATA) feat. Aimee B\n\u30fbInvader OnDo / COSIO\n\u30fbSeija no Kigan / Tatsh\n\u30fbDX Choyasei! Survival Zundoko Chan / IOSYS TRAX with Chiyoko\n\u30fbkoinegau / technoplanet feat. Shun [RIGEL]\n\u30fbValkyrja Requiem / iTIC\n\u30fbCOSMOSTART / D-D-Dice\n\u30fbHappy 10th anniversary / Shohei Tsuchiya(ZUNTATA) feat. Huddleston Gary Scott\n\u30fb???(Secret)\n\n\u25a0Navigator\n\u30fbLinka (Fairy) *with voice\n\u30fbYume (Fairy) *with voice\n\u30fbSeine (Fairy) *with voice\n\u30fbFull Metal Zundoko Chan *with voice\n\u30fbSurvival Zundoko Chan *with voice\n\n\u25a0Avatar\n\u30fbLINKA(Fairy, 2D)\n\u30fbYUME(Fairy, 2D)\n\u30fbSEINE(Fairy, 2D)\n\u30fbSurvival Zundoko Chan(2D)\n\n*Some content will be unlocked via missions after downloading.",
+        "languages": null,
+        "size": 78643200
+    },
+    "70050000029373": {
+        "id": null,
+        "rightsId": null,
+        "name": "CrossCode: Manlea Skin",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70050000029373,
+        "category": null,
+        "ratingContent": [
+            "Bad Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Deck 13",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fab5dfb452312405879a81b597acf2a562e1f3189da41d42e4fb789a606c4366.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6ba469beda673e51ada3ac1b3af9130e6a85ce9978b604639897e37f5995429.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b79ec9e8b76724ad3fe77adcc6e36269867fc0e90bee22902f1c8c7455242350.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51ad1f7ea09213d99c5bcf2b5fa2d8f58524b41ecea1bd537bec3202ba1727ae.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d98140aa497f13a70c4b0cd574e20b038510bed3982f460181be7ff35ed4e1db.jpg",
+        "intro": "Be Manlier!",
+        "description": "Finally, after years of uncertainty, the joke has become a reality. Manlea is real. Manlea is mighty. Manlea is powerful. And Manlea can finally be experienced in the CrossWorlds. Be strong, be full of muscles. We heard you. You wanted to play as a male character in your fictious MMORPG, role-play as a gallant and manly hero who saves the world. Be manlier. Be Manlea. Alright. Now we're out of jokes.\n\nWarning: Buy this DLC at your own risk. It does not change the gameplay. It just unlocks Manlea as a possible Skin. That's it. It might make you manly. It might not. If you buy it, it's your own fault. It does not change the gameplay or dialogues.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000029375": {
+        "id": null,
+        "rightsId": null,
+        "name": "CrossCode: Ninja Skin",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70050000029375,
+        "category": null,
+        "ratingContent": [
+            "Bad Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Deck 13",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/97e8725e24c15167d88c18c570240f9a13c9f0f428767670f0b07a60dafbdce7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94ea2b649b2a2c71b8b92837c65a5726d8c84b8a87a9a2d3d99e9d0a00b2cf7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69ca864ce9e1b0027ba7b98e446d8f600133d0585fcc69a93b9c773124accb62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58896254717707782d7910a588009cfeb9c3736c022c3b3be95a6256e12089fe.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d98140aa497f13a70c4b0cd574e20b038510bed3982f460181be7ff35ed4e1db.jpg",
+        "intro": "Ninja time!",
+        "description": "This downloadable content is a cosmetic change for the protagonist of the game, Lea. It offers no specific benefits besides looking rather cool. It has been a reward for Indiegogo backers and is now also available for purchase. The Ninja Skin is cool. And that's it.",
+        "languages": null,
+        "size": 0
     },
     "70070000003681": {
         "id": null,
@@ -68763,7 +69549,7 @@
         "intro": "Become a pizza magnate! Create the best pizza in town!",
         "description": "Look out, this pizzeria will soon become the best one in town! \n\nWell... at least that's your plan. \n\nThe clients are already standing in line, and you have to serve them as soon as you can. It's harder than it sounds though! \n\nEveryone's in a hurry, and you have to prepare each order exactly - otherwise people will get angry!\n\nGive it your best and you will make it!\n\nIN PIZZA BAR TYCOON YOU WILL FIND:\n\n* 60 levels to explore, 70+ dishes to serve.\n* Great cartoonish graphics, music and sound effects.\n* Countless upgrades you can apply to ingredients and bar decorations.\n* 47 Achievements to complete.\n* Easy to play and hard to master.\n\nCOMPLETE EDITION INCLUDES BOTH PIZZA BAR TYCOON EXPANSION PACKS #1 AND #2 WITH 40 NEW LEVELS IN TOTAL!\n",
         "languages": null,
-        "size": 266338304
+        "size": 265289728
     },
     "70070000012415": {
         "id": null,
@@ -69785,5 +70571,39 @@
         "description": "This bundle is intended for people new to Civilization VI and contains Civilization VI, six add-on content packs as well as the Rise and Fall and Gathering Storm expansions. The New Frontier Pass is not included in the Platinum Edition. \n\nMAKE HISTORY in one of the most critically acclaimed and influential game franchises in strategy game history. Choose a leader and pursue agendas inspired by their real-life counterparts. Explore new land, research technology, and go head-to-head with historical leaders as you lead your civilization from rocks to rockets. Cities expand physically across the map, create new strategic possibilities through the game as you pursue multiple ways to achieve victory and build an empire to stand the test of time. \n\nSid Meier\u2019s Civilization VI: Platinum Edition is the classic collection of Civilization VI content, including the Sid Meier\u2019s Civilization VI game, six add-on content packs as well as the Rise and Fall and Gathering Storm expansions.\n\nThe Sid Meier\u2019s Civilization VI Platinum Edition contains both major expansion packs: \n\u2022\tCIVILIZATION VI: RISE AND FALL: Experience new game mechanics including Great Ages and Governors, upgrades to the Diplomacy and Government systems, and an additional 8 civilizations, 9 leaders, and several units, districts, wonders, and buildings.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM: Explore an active planet in an expansion that introduces climate changes for the first time in series history. Contend with natural disasters and other new Environmental Effects, complete great Engineering Projects, and manage electrical power. New features including a World Congress, new Diplomatic Victory condition, and an all-new era added to the Technology and Civics tree. Also includes new civilizations, leaders, units, and buildings.",
         "languages": null,
         "size": 9070182400
+    },
+    "70070000012635": {
+        "id": null,
+        "rightsId": null,
+        "name": "Fuga: Melodies of Steel - Deluxe Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210729,
+        "nsuId": 70070000012635,
+        "category": null,
+        "ratingContent": [
+            "Strong Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "CyberConnect2",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ea54529c6fdb23d25ef354e6fc56f9d4d6b010c46e889e71194f523cf4edd599.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b26ac49f90af87a84d10938e5b50a3541d6e4be61b58d29918c394083d2567db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d42b2f1287624fb7854d7f0ec350b80d68e3a8d206e60384beaaaa00bf812c04.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2bf1b94a89587ae68dfcfad8bc6d4f115343d67a7267bdcc96d327c11982e2a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24c964c352495ef23e8ddc00400be55ff35b8f1b33644645e9d7fad9d0ab9c79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c46c86d98be718973f4f9ec23b7cc388971c6ada80d1063cd7d48c6a1e28216c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eefc1317bbab3aa1286f9eb7f5a7f83c1a66690acca8451a6d9d9fbea7fcb99b.jpg",
+        "intro": "A dramatic action strategy RPG depicting hope and despair.",
+        "description": "\"We have to fight! If we don't, everyone we love will be taken away!\"\n\nOne fateful night, a peaceful village is thrown into the flames of war. Determined to save their families, a group of children boards a giant tank and begins an offensive charge!\n\nFuga: Melodies of Steel is an RPG where you place children, each with their own unique characteristics and skills, at different gun turrets in a tank to fight against the enemy.\n\nLiving inside the tank, the children show emotion and gain affinity amongst each other. Manage these both to change the outcome of their journey!\n\n-A mysterious ancient weapon: The Taranis\nTaranis, the giant tank sheltering the children, conceals many mysteries and somehow seems to have its own will. In situations of crisis, it can release a forbidden weapon, the dreadful Soul Cannon.\n\n-Your adventure. Your choices.\nWill you make sacrifices for victory? Or will you seek another path?\nIn this RPG, many choices have to be made in order to progress... but taking the safest road may not always be the best option.\nFaced with a desperate situation, what course of action will you choose?\n\n-Fuga: Melodies of Steel - Deluxe Edition\nThe Deluxe Edition features a digital art book, a mini-soundtrack, and other bonuses that can be used in-game.\n\nContent:\n\u30fbFuga: Melodies of Steel - Full Game\n\u30fbFuga: Melodies of Steel - Digital Art Book (80 pages)\n\u30fbFuga: Melodies of Steel - Digital Soundtrack (15 tracks)\n\u30fbFuga: Melodies of Steel - In-Game Bonuses:\n \u2460Swimwear costumes for all characters (can be used during intermission and expedition)\n \u2461Dummy Soul for the Soul Cannon (can use the Soul Cannon 1 time without sacrificing a character)\n \u2462Set of items\n\n*You may download your copy of the Fuga: Melodies of Steel - Digital Art Book & Digital Soundtrack by accessing the download page from the official website (https://www.cc2.co.jp/fuga/en).",
+        "languages": null,
+        "size": 1318060032
     }
 }
