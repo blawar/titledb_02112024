@@ -3940,7 +3940,7 @@
             "ko",
             "zh"
         ],
-        "size": 942669824
+        "size": 946864128
     },
     "70010000013404": {
         "id": "010079400BEE0000",
@@ -5001,6 +5001,52 @@
             "zh"
         ],
         "size": 3405774848
+    },
+    "70010000016925": {
+        "id": "010022400BE5A000",
+        "rightsId": null,
+        "name": "Yu-Gi-Oh! Legacy of the Duelist : Link Evolution",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210730,
+        "nsuId": 70010000016925,
+        "category": [
+            "Strategy",
+            "Simulation",
+            "Board Game",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "KONAMI",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6dbc78e8f38d0cdcd6bec868efd85c430566e378ee0f2778b5be21588d3b8fce.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9a745081a4ba69c732fdb1baeb4a3f61de56b9fc238c2dd9669fbfe3c949d34e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4154746228bce0ce83a02b759f9821b9376e30cf22d110f03fd8b9bad593e75b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22d23026b18a842f9498eb23ebd5a767b892a7de2af360e025b8136fd7f0d5c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af5ac3ccd41894ca25b7d6faf5f19b59c555aeff0d90ca5704f395bece65490e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0381ddcbdb6deadc639dc6c8d9e835ac35a9a0d9bd6c632be9f80c94e3b78d22.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d0094348180d7df25650747150cca96374b0d27e12198c14fe9060c28342e822.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4831a1ca7c021e6a5f9a902bc74c1ee36676149c87e2ebb7ea35d260d4bffc32.jpg",
+        "intro": "It's Time to Duel! Believe in the Heart of the Cards and Create Your Legacy!",
+        "description": "It\u2019s Time to Duel! \n\nExperience over 20 years of Yu-Gi-Oh! history with Yu-Gi-Oh! Legacy of the Duelist: Link Evolution!\nBuild your Deck from over 10,000 cards and take on the most iconic Duelists from the Yu-Gi-Oh! universe. Relive the stories from the original animated Yu-Gi-Oh! series through Yu-Gi-Oh! ARC-V and challenge the newest generation of Duelists from the virtual world of Yu-Gi-Oh! VRAINS!\n\n\u2022 New Link Monster cards, not only changing the way how seasoned Duelists play their cards, but where they play them\n\u2022 Faithful to the TV show, relive moments and Duels from every version of the animated series\n\u2022 New Duelists can learn the Yu-Gi-Oh! TRADING CARD GAME with the beginner\u2019s tutorial\n\u2022 Take on the roles of the animated series villains with Reverse Duels \n\u2022 Compete in Battle Pack Sealed Pack and Draft play!\n\u2022 Includes all the downloadable content from the previously released Yu-Gi-Oh! Legacy of the Duelist",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 1838153728
     },
     "70010000017211": {
         "id": "01007B600D5BC000",
@@ -6341,7 +6387,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/968d59a1d98fe69d0213b51fe40a3f4527e3d0a15b450bbbc4778e5a13d3d5ed.jpg",
         "intro": "By night, delve into your subconscious and discover powerful artifacts to conquer your nightmares. By day, explore Redhaven and build relationships to unlock dream powers.",
-        "description": "DREAM. DIE. WAKE. REPEAT.\n\nDreamscaper is a Roguelite blending elements from brawlers, top-down shooters, and dungeon crawlers. Every slumber is a different dungeon in an ever-changing world with a multitude of unique events and challenges. Play as Cassidy, dive into her subconscious and take on the surreal nightmares she wrestles with in order to save her from a dark fate.\n\n- Features - \n\nLean into the nightmares and make the rush of permadeath your ally.\n\nUse lucid powers to manipulate the elements, warp space, and even control time itself.\n\nBattle bosses that embody Isolation, Fear, Negativity, Loss, and more.\n\nUpgrade a multitude of surreal items and discover powerful artifacts.\n\n Live Cassidy's waking life and uncover the mystery of her story.\n\n- MASTER DEEP COMBAT SYSTEMS -   \n\nA rich, expansive combat system that rewards skilled play. Use careful positioning, exact timing and quick reflexes to defeat foes with an abundance of combat options.\n\nEach weapon class in Dreamscaper is unique, from rending the earth below your nightmares to whipping a yo-yo into their faces. You\u2019ll have a myriad of ways to approach combat.\nEnemies and bosses in Dreamscaper are representations of Cassidy's most negative emotions. Vanquish those deadly foes to clear the dark miasma surrounding her.\n\n - OVERCOME THE NIGHTMARE - \n\nAdventure through beautiful, haunting dreams to discover untold secrets, vanquish nightmares, and upgrade your gear all while uncovering Cassidy\u2019s story as you plunge through her subconscious. Each dream is another peek into Cassidy\u2019s memories and experiences.\n\nLive Cassidy's waking life and forge friendships with the people around her. Empower Cassidy with their hopes and memories to dispel the darkness of her nightmares.",
+        "description": "DREAM. DIE. WAKE. REPEAT.\n\nDreamscaper is an endlessly replayable Action Roguelike with a waking/dreaming gameplay cycle. By night, delve deep into your subconscious, facing nightmares in an ever-changing world filled with unique items, abilities, and challenges. By day, explore the city of Redhaven, build relationships and unlock permanent upgrades in order to take on the next dream stronger than ever.\n\n\n- Features - \n\nLean into the nightmares and make the rush of permadeath your ally.\n\nUse lucid powers to manipulate the elements, warp space, and even control time itself.\n\nBattle bosses that embody Isolation, Fear, Negativity, Loss, and more.\n\nUpgrade a multitude of surreal items and discover powerful artifacts.\n\n Live Cassidy's waking life and uncover the mystery of her story.\n\n- MASTER DEEP COMBAT SYSTEMS -   \n\nA rich, expansive combat system that rewards skilled play. Use careful positioning, exact timing and quick reflexes to defeat foes with an abundance of combat options.\n\nEach weapon class in Dreamscaper is unique, from rending the earth below your nightmares to whipping a yo-yo into their faces. You\u2019ll have a myriad of ways to approach combat.\nEnemies and bosses in Dreamscaper are representations of Cassidy's most negative emotions. Vanquish those deadly foes to clear the dark miasma surrounding her.\n\n - OVERCOME THE NIGHTMARE - \n\nAdventure through beautiful, haunting dreams to discover untold secrets, vanquish nightmares, and upgrade your gear all while uncovering Cassidy\u2019s story as you plunge through her subconscious. Each dream is another peek into Cassidy\u2019s memories and experiences.\n\nLive Cassidy's waking life and forge friendships with the people around her. Empower Cassidy with their hopes and memories to dispel the darkness of her nightmares.",
         "languages": [
             "ja",
             "en",
@@ -6918,7 +6964,7 @@
             "Temas Sens\u00edveis"
         ],
         "numberOfPlayers": 1,
-        "rating": 14,
+        "rating": 12,
         "developer": null,
         "publisher": "United Label",
         "frontBoxArt": null,
@@ -7679,6 +7725,56 @@
             "zh"
         ],
         "size": 1022361600
+    },
+    "70010000030751": {
+        "id": "0100A4C011F2C000",
+        "rightsId": null,
+        "name": "Pile Up! Box by Box",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210817,
+        "nsuId": 70010000030751,
+        "category": [
+            "Adventure",
+            "Arcade",
+            "Puzzle",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 0,
+        "developer": null,
+        "publisher": "HandyGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/38abc58fffc27c00567d620eda571090d35888d6e3f611ce6e15d2d35beca0f0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6b13033b8ea2a17a21fc56a9bd0030c78446d9c0636abbf07d7387752497f733.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62bad391c3996c4a304022bf2c37980b1ba4ec38e89f1fb17c44a3a5e8e466ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b57ae37beebb560366eab67ace50113bc92705ff4b1d67dbced434d41bbb6389.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ba6a9de19e5b6c6d0d4d1b8e54afb0b7d413e746509a8108fdb6ef82bed2f0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62bad391c3996c4a304022bf2c37980b1ba4ec38e89f1fb17c44a3a5e8e466ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db1f57d87d79f218b32c110a8f49841f998b8059bce5fdba7af0ac060668f258.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/10a61716d01935c8ba012750f1a5e7c4a04072d72ef6f9a3a9b5f1084bbc0d40.jpg",
+        "intro": "Pile Up! Box by Box ticks all the right boxes as a family-friendly cooperative 3D platformer! Jump up, slide down, play together and carry the load!",
+        "description": "Pile Up! ticks all the right boxes as a family-friendly cooperative 3D platformer!\nJump up, slide down, play together and carry the load!\n\nCoordinate with your friends or rely on your own creativity to navigate cardboard worlds full of uniquely joyful levels. Unfold mysteries, solve puzzles and quests as a team and visit the friendly citizens of sun-baked islands, amber forests, and vibrant caves. Or maybe just kick-back and challenge your friends in action-packed rounds of Boxball, Pile of Dunk or Tic Pile Toe?\n\nPlay together, stick together, think together \u2013 and pile up!\n\nFEATURES\n\nGO ON AN ADVENTURE\nExplore colorful cardboard worlds in this cute 3D platformer. Find your way through open-ended levels, uncover mysteries and bring joy to the cardboard inhabitants of these places.\n\nLOCAL MULTIPLAYER\nPlay with your friends up to 4 players! Drop-in and out at any time with dynamic challenge rescaling.\n\nA GAME FOR EVERYONE\nAnybody can play Pile Up! The game has simple controls, no punishment for failure, a chill-pacing, very few time pressure and remember that teammates can always help each others!\n\nTEAM WORK\nCooperate to progress! It is all about communication and organisation. Share the tasks, synchronize your moves and carry each other to overcome the challenges.\n\nMINIGAME FRENZY\nFace your friends in frantic mini-games, and lead hilariously chaotic battles. For party-game lovers!\n\nCREATIVITY IS THE KEY\nThink outside the box and solve the puzzles your way. There is no unique solution, creativity is the key! Reach to anywhere by building stairs and structures with the boxes you collected.\n\nOPTIMIZE YOUR WAY\nUnlock the timer mode and test your skills at piling up boxes. Find the best path and the quickest way to progress through the worlds.\n\nOverview\n\n- Pile-up on each other!\n- A joyful adventure for 1 to 4 players\n- Cute colorful cardboard worlds and creatures to discover\n- Open-ended puzzles that foster creativity\n- Mini-games to challenge your friends!\n- Drop-in and out at any time with dynamic challenge rescaling.\n- Customize your own Boxling with individual skins",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1398800384
     },
     "70010000030827": {
         "id": "0100187011F8E000",
@@ -9748,7 +9844,7 @@
             "en",
             "fr"
         ],
-        "size": 6795821056
+        "size": 6836715520
     },
     "70010000034581": {
         "id": "0100FE9013182000",
@@ -10199,6 +10295,54 @@
             "zh"
         ],
         "size": 2662334464
+    },
+    "70010000034954": {
+        "id": "0100C01013302000",
+        "rightsId": null,
+        "name": "A Monster's Expedition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70010000034954,
+        "category": [
+            "Puzzle",
+            "Adventure",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Draknek",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b64e6db6dfa9ab77ffa54e8e6936c667bbb4e14626e1c3ecb5413e369d3b3ff9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e1b95713617fd9b8dfb8607e0283e4ca185a62762841b9b2ae8076eef2760dec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4718137d978ab4a451c1f51044905b0096e53e9f056c63bd5c06f4b265954251.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c36f71fb2a9db54e34faedf34f801f8b4c9baa48150c27613b4657ce9fe50d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3abf7a028156ca6f82d4bbf6437cbc57c64a69ea51d4a027794b779325d12133.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b70479d779de61580cf7ff5023a163f5ff2c4ab323f99af6ca77f809e74b8541.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b5cd72ba0254472b8e51fa43afab855e48b5e2020f76a30b34e06559e73d2d4.jpg",
+        "intro": "(Through Puzzling Exhibitions)",
+        "description": "From some of the best puzzle designers in the world comes A Monster's Expedition, an adorable and relaxing open world puzzle adventure for monsters who love to learn about humans.\n\nBy pushing trees over to create pathways, you\u2019ll explore hundreds of islands near and far to learn about the history of \u201chumanity\u201d.\n\nImmerse yourself in human culture with all-new exhibits from the \"Human Englandland\" dig site, each accompanied with expert insights*!\n*Insights is not a legally binding term and may or may not include idle speculation, rumour and hearsay.\n\n\u2022 Adorable open world puzzle game from the creators of A Good Snowman is Hard to Build and Cosmic Express\n\u2022 Simple but deep mechanics packed with possibilities to discover\n\u2022 Hundreds of islands to visit \u2013 some right in front of you, others well off the beaten track for true puzzle lovers\n\u2022 Learn about the mythical humans from the perspective of curious monsters\n\n\u201cIt's pretty much glorious. I love A Monster's Expedition. I have fallen for it rather hard.\u201d\nEurogamer\n\n\u201c[A Monster's Expedition] never forces an answer out of you, and that's its greatest strength. If you're stuck, simply head in another direction.\u201d\nUSGamer\n\n\u201cIt\u2019s a warm and cosy puzzle game with brain-teasers that will sooth your synapses rather than fry them\u201d\nPC Gamer",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "pt",
+            "es",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 685768704
     },
     "70010000035014": {
         "id": "0100700013364000",
@@ -12649,7 +12793,7 @@
             "ru",
             "zh"
         ],
-        "size": 1318060032
+        "size": 1321205760
     },
     "70010000037460": {
         "id": "0100267013F04000",
@@ -12783,6 +12927,55 @@
             "zh"
         ],
         "size": 855638016
+    },
+    "70010000037532": {
+        "id": "0100EF3013F60000",
+        "rightsId": null,
+        "name": "Tails Of Iron",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210917,
+        "nsuId": 70010000037532,
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Temas Sens\u00edveis"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "United Label",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8bb21b3f54e796ad21b0dd2272b6dfdb4956c6c44bec65595d2f39a6f808e4b6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f09a24b6cb27547113a5e64820e2d13d78723b9c595131f424c5fb846f4b1af6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/317747007f2d7e4fe51e2185e23e7c36a0efebc680c01e20da2acacd70fb598d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fe195c238019045797cd309ec6ee40e7f2692af46c6280b3bdb6104e70d0286c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/33eb8ee01e3443bf3b757cb11fa0e9e0eda86df8ca1b8b804671b8a0f81e1623.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2fe802a1ffaee0b6be632dbc7c4cb6286d3c53681acead0b48fe2bfe1570b174.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/057ba829aa917b3889dc50d9df3c356c9be97a67947718cf34fbcdddbde29571.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/deccf0571c35430d18991bb9c2955e6f7e4530bdfb3923840cd6c5afc7adf7c4.jpg",
+        "intro": null,
+        "description": "Set in a grim land plagued by war, Tails of Iron is a hand-drawn RPG Adventure with punishingly brutal combat. As Redgi, heir to the Rat Throne, you must restore your broken Kingdom by banishing the merciless Frog Clan and their ferocious leader, Greenwart.\nAs you explore the deceivingly charming world, you\u2019ll encounter a cast of unique companions, ready to aid you in your adventure. And you\u2019ll need all the help you can get, whether that\u2019s new meal recipes, blueprints to forge deadly weapons and armour, or even a land-chugging, armour-plated mole mobile!\nOvercome your fears. Rescue your brothers. Restore Your Kingdom.\nYour tail has begun\u2026\n\nMaster Brutal Combat\nFrom frog zombies to gargantuan grubs - and everything in-between - the Kingdom is awash with danger. To overcome each perilous encounter, you\u2019ll need to study your opponent\u2019s attacks and react accordingly! Thankfully, there\u2019s a range of deadly abilities at your disposal, including parry bashes and fatal executions, not to mention ranged attacks with your nifty bow and arrow.\n\nExplore a Treacherous Kingdom\nFully accompanied by the deep, raspy narrations of Doug Cockle (voice of Geralt of Rivia from The Witcher), prepare to embark on an epic adventure across the mediaeval-fantasy Rat Kingdom. Complete side quests and faction hunts for some additional gold-on-the-side, or join forces with a sharp-eyed companion to help even the playing field.\n\nCustomise your Attack\nAdapt Redgi\u2019s combat style to the task at hand. Heavy armour may provide better protection but can you really afford to slow down your dodge-roll? And then there\u2019s the question of weapon; axes pack a punch, while spears are quick and nimble. Perhaps you\u2019d prefer the all-round performance of a trusty broadsword?\n\nOvercome Savage Boss Fights\nWhile danger lurks around every toadstool, you\u2019ll need to keep your wits sharp and your blade sharper when it comes to the devastating boss fights. Cold-blooded in every sense of the word, these oversized amphibians each present their own unique combat challenge, and you\u2019ll need more than a good set of armour to come out on top.\n\nBrew Recipes, Craft Weapons, Forge Armour\nRedgi\u2019s keep is also home to his brothers, Rem-Rem, Bam-Bam and Dug. Rem can cook up a health-boosting feast with ingredients found throughout the world, while Bam can craft new weapons and armors from special blueprints you\u2019ll uncover\u2026 if you look hard enough. And then there\u2019s Dug, who\u2019ll update you about new quests available throughout the Kingdom.\n\nFeatures:\nMaster brutal combat, inspired by the souls-like genre, featuring dodge-rolls, parry bashes, and fatal executions!\nExplore a vast and treacherous Kingdom, comprising six distinct biomes, each with its own hidden paths and secrets\nImmerse yourself in the compelling story, narrated by the deep, raspy Doug Cockle (voice of Geralt of Rivia from The Witcher)\nCustomise your attack style with a vast array of distinct weapons and armour\nAssemble a band of brave companions, ready to aid you on select missions\nComplete side quests to earn additional gold-on-the-side\nUnearth special blueprints to forge new and powerful weapons\nCollect rare ingredients to cook up health-boosting feasts\nOvercome savage boss fights against the Frog Clan\u2019s deadly, oversized generals\nLose yourself in the gorgeous and lovingly-crafted 2D hand-drawn art style.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 1284505600
     },
     "70010000037563": {
         "id": "01008AE013F82000",
@@ -20089,7 +20282,7 @@
             "https://img-eshop.cdn.nintendo.net/i/2d3edcc8144503ee1dd1dfe6e0dc05478241ea57c6dd96ca4aedb4292786fb16.jpg",
             "https://img-eshop.cdn.nintendo.net/i/c6edcf5020da477270d164b9519fbb2da88c20765161cbfdaabc59ee60bc329d.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4ae5b11198a06db54257687fea64d3220350d68e6871b205b4cc0ed76ab0d64e.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dcec649506072a3d46d767910f15d23f3f5c9c8d9a5d7dff1d05e23055f41f09.jpg",
         "intro": "Help Kittey find his parents! They're lost in a dream, but dreaming is what young Kittey does best.",
         "description": "A heart-shaped stranger has arrived on Kitty Island! And he brings news of his parents. Of course Kittey has to go on a journey to find them now. Deep below the world, Darkside awaits. And possibly a nightmare or two. But Kittey will be fine - he'll just have to find more of these mysterious hearts. Hearts are love, and love gives us strength.\n\nHeart Chain Kitty is a 3d platformer with big and surreal levels. Kittey learns new abilities as he progresses through his adventure. Putting these to good use, he'll surely find his parents soon.\n\nFeatures:\n\n\u25cfA smooth and shiny voxel world\n\u25cfA little chubby kitty as a protagonist\n\u25cfSpace hippos!\n\u25cfTwo secret bosses and optional levels & challenges\n\u25cfQuests\n\u25cfA robot mom!\n\u25cfLittle nerds (plural because there's more than one)\n\u25cfOver 50 levels\n\u25cf2.5d Levels - hidden 2d levels in a 3d platformer\n\u25cfTwo and a half endings (and one non-ending)\n\u25cfA very big 3d platform adventure",
         "languages": [
@@ -24335,7 +24528,7 @@
         "developer": null,
         "publisher": "Neofid Technology",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/58b2485e4e52a1a76999a68f4ac8a6dce14cd1c7fca5d2a7b0e570f5748bbe0a.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/46dacdf9e8c8e77734f65cbff3790776706ed70cd0e15c478ab6178d94d91398.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/f65b583f51fef94a838eeb6453c1c4afc07eca1039f7b390404bd04e9f8e1a7d.jpg",
             "https://img-eshop.cdn.nintendo.net/i/136ddd5f2fec4ae1bd4e21061403bab5027e63d1bdd9a0cc9606b05659a8d83e.jpg",
@@ -24355,7 +24548,7 @@
             "de",
             "it"
         ],
-        "size": 46137344
+        "size": 80740352
     },
     "70010000042497": {
         "id": "01008F50155A6000",
@@ -25572,11 +25765,9 @@
             "Action",
             "Adventure"
         ],
-        "ratingContent": [
-            "Medo"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 10,
+        "rating": 0,
         "developer": null,
         "publisher": "LLC KURENTER",
         "frontBoxArt": null,
@@ -27093,6 +27284,35 @@
         "size": 1457520640,
         "parentId": "01003DA010E8A000"
     },
+    "70030000013726": {
+        "id": null,
+        "rightsId": null,
+        "name": "LOVE - A Puzzle Box Filled With Stories Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000013726,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Drogas L\u00edcitas"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 778043392,
+        "parentId": "01004F0013BAA000"
+    },
     "70030000013875": {
         "id": null,
         "rightsId": null,
@@ -27188,11 +27408,9 @@
         "releaseDate": null,
         "nsuId": 70030000013890,
         "category": null,
-        "ratingContent": [
-            "Medo"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": null,
-        "rating": 10,
+        "rating": 0,
         "developer": null,
         "publisher": null,
         "frontBoxArt": null,
@@ -49461,7 +49679,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fdb3771601665d20f20a0a12adddb5cdaa623912a5c80cb7e35731114f8f144d.jpg",
         "intro": "The stories of Phoenix Wright\nand his ancestor Ryunosuke\nNaruhodo together in one set.",
-        "description": "Get ready to yell \"Objection!\" across 5 individual games in the courtrooms of the past and present in \"The Great Ace Attorney Chronicles\" and the 2019 release \"Phoenix Wright: Ace Attorney Trilogy\".\n\nPlay the original 14 episodes of the trilogy that started it all as Phoenix Wright and go back in time to experience the 10 episodes of his ancestor Ryunosuke Naruhodo's duology.\n\nIndividual titles included:\nThe Great Ace Attorney: Adventures\nThe Great Ace Attorney 2: Resolve\nPhoenix Wright: Ace Attorney\nPhoenix Wright: Ace Attorney - Justice For All\nPhoenix Wright: Ace Attorney - Trials and Tribulations\n\n*The contents of \"Phoenix Wright: Ace Attorney Trilogy\" is the same as in its previous release.",
+        "description": "Get ready to yell \"Objection!\" across 5 individual games in the courtrooms of the past and present in \"The Great Ace Attorney Chronicles\" and the 2019 release \"Phoenix Wright: Ace Attorney Trilogy\".\n\nPlay the original 14 episodes of the trilogy that started it all as Phoenix Wright and go back in time to experience the 10 episodes of his ancestor Ryunosuke Naruhodo's duology.\n\nIndividual titles included:\nThe Great Ace Attorney: Adventures\nThe Great Ace Attorney 2: Resolve\nPhoenix Wright: Ace Attorney\nPhoenix Wright: Ace Attorney - Justice For All\nPhoenix Wright: Ace Attorney - Trials and Tribulations\n\n*The contents of \"Phoenix Wright: Ace Attorney Trilogy\" is the same as in its previous release.\n\n-The Great Ace Attorney Chronicles:\n\nVoice:\nEnglish, Japanese\n\nScreen Languages:\nEnglish\n\n-Phoenix Wright: Ace Attorney Trilogy:\n\nVoice:\nChinese, English, French (France), German, Japanese, Korean\n\nScreen Languages:\nChinese (Simplified), Chinese (Traditional), English, French (France), German, Japanese, Korean",
         "languages": null,
         "size": 6121586688
     },
@@ -49684,7 +49902,7 @@
         "intro": null,
         "description": "Graveyard Keeper is the most inaccurate medieval cemetery management sim of the year. Build & manage your own graveyard while finding shortcuts to cut costs, expand into entertainment with witch-burning festivals, and scare nearby villagers into attending church. This is a game of capitalism and doing whatever it takes to build a thriving business. \n\nFace ethical dilemmas. Do you really want to spend money on that proper hotdog meat for the festival when you have so many resources lying around? \nGather valuable resources & craft new items. Expand your Graveyard into a thriving business, go ahead and gather valuable resources scattered in the surrounding areas, and explore what this land has to offer. \nMake business alliances. These dead bodies don't need all that blood, do they? Why not sell it to someone who can put it to good use. Same for body parts. Hey, it's being efficient with recycling! \nExplore mysterious dungeons. No medieval game would be complete without these. Take a trip into the unknown and find useful new ingredients which may or may not poison a whole bunch of nearby villagers. Capitalism.",
         "languages": null,
-        "size": 954204160
+        "size": 958398464
     },
     "70070000012473": {
         "id": null,
