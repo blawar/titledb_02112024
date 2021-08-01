@@ -6630,7 +6630,7 @@
             "en",
             "fr"
         ],
-        "size": 6795821056
+        "size": 6836715520
     },
     "70010000034582": {
         "id": "0100FE9013182000",
@@ -6725,9 +6725,11 @@
             "Strategia",
             "Avventura"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violenza moderata"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Spellbind Studios",
         "frontBoxArt": null,
@@ -10092,7 +10094,7 @@
             "ru",
             "zh"
         ],
-        "size": 1318060032
+        "size": 1321205760
     },
     "70010000037461": {
         "id": "0100267013F04000",
@@ -10680,10 +10682,11 @@
             "Altro"
         ],
         "ratingContent": [
-            "Violenza estrema"
+            "Linguaggio volgare",
+            "Violenza intensa"
         ],
         "numberOfPlayers": 1,
-        "rating": 18,
+        "rating": 16,
         "developer": null,
         "publisher": "Wales Interactive",
         "frontBoxArt": null,
@@ -18801,7 +18804,7 @@
     "70010000040860": {
         "id": "010091F014E5C000",
         "rightsId": null,
-        "name": "WitchSpring3 [Re:Fine] The Story of Eirudy",
+        "name": "WitchSpring3 [Re:Fine] - The Story of Eirudy",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -22483,7 +22486,7 @@
         "languages": [
             "en"
         ],
-        "size": 66060288
+        "size": 108003328
     },
     "70010000041868": {
         "id": "01002EE0151C0000",
@@ -24374,9 +24377,9 @@
         "numberOfPlayers": 1,
         "rating": 7,
         "developer": null,
-        "publisher": "Neofid Technology",
+        "publisher": "Neofid Studios",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/58b2485e4e52a1a76999a68f4ac8a6dce14cd1c7fca5d2a7b0e570f5748bbe0a.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/46dacdf9e8c8e77734f65cbff3790776706ed70cd0e15c478ab6178d94d91398.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/f65b583f51fef94a838eeb6453c1c4afc07eca1039f7b390404bd04e9f8e1a7d.jpg",
             "https://img-eshop.cdn.nintendo.net/i/136ddd5f2fec4ae1bd4e21061403bab5027e63d1bdd9a0cc9606b05659a8d83e.jpg",
@@ -24396,7 +24399,7 @@
             "de",
             "it"
         ],
-        "size": 46137344
+        "size": 80740352
     },
     "70010000042498": {
         "id": "01008F50155A6000",
@@ -26637,7 +26640,7 @@
             "Arcade"
         ],
         "ratingContent": [
-            "Violenza moderata"
+            "Violenza implicita"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -57709,7 +57712,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 202108,
+        "releaseDate": 20210909,
         "nsuId": 70050000026852,
         "category": null,
         "ratingContent": [],
@@ -67210,7 +67213,7 @@
         "intro": null,
         "description": "Un nuovo capitolo della storia di Lea ti aspetta. CrossWorlds \u00e8 appena diventato pi\u00f9 grande e questo significa che ci sono nuove cose da esplorare. Ma prima di farlo, assicurati di incontrare vecchi amici, imparare nuove parole e lanciare una quantit\u00e0 innumerevole di sfere ai tuoi nemici.\n\n\"A New Home\" \u00e8 il segito dell'avventura dopo gli eventi di CrossCode e offre tutto quello che hai imparato ad amare: un'esperienza con una storia elaborata e infarcita di nemici, boss e puzzle. Segui Lea nel suo viaggio alla scoperta della verit\u00e0, usa i tuoi elementi come mai prima e non dimenticare di completare il raid. Questa volta per davvero.\n\nCosa include il contenuto scaricabile:\n\n- Nuovo contenuto che ti intratterr\u00e0 per circa 8-10 ore\n- Esplora le segrete pi\u00f9 grandi che abbiamo mai creato\n- Combatti contro nuovi nemici e boss\n- Corri sull'acqua per la prima volta\n- Ascolta alcuni nuovi brani musicali\n- E naturalmente: completa il raid",
         "languages": null,
-        "size": 0
+        "size": 3145728
     },
     "70050000028553": {
         "id": "0100D6F012AE7002",
@@ -70779,7 +70782,7 @@
         "intro": null,
         "description": "Graveyard Keeper \u00e8 la simulazione di gestione di un cimitero medievale pi\u00f9 folle dell'anno. Costruisci e gestisci il tuo cimitero personale trovando delle scorciatoie per tagliare i costi, espandendoti nel mondo dell'intrattenimento con eventi come il festival del rogo delle streghe e scoraggiando gli abitanti dei villaggi vicini a frequentare la chiesa. Questo \u00e8 un gioco che parla di capitalismo e di come si debba fare tutto ci\u00f2 che deve essere fatto in nome del business. \n\nPreparati ad affrontare feroci dilemmi etici. Davvero vuoi spendere dei soldi per acquistare la carne per gli hot dog per il festival quando hai gi\u00e0 a disposizione tutto quello che ti serve? \nRaccogli risorse preziose e crea nuovi oggetti. Espandi il tuo cimitero per trasformarlo in un business fiorente, vai avanti e raccogli le risorse preziose sparse nelle aree circostanti e scopri tutto quello che questa terra \u00e8 in grado di offrire. \nStabilisci alleanze commerciali. Questi cadaveri non hanno bisogno di tutto questo sangue, giusto? Allora perch\u00e9 non venderlo a qualcuno che pu\u00f2 farne buon uso. Lo stesso vale per le diverse parti del corpo. Ehi, quando si ricicla bisogna essere efficienti! \nEsplora misteriosi dungeon. Nessun gioco medievale pu\u00f2 farne a meno. Viaggia verso l'ignoto alla ricerca di nuovi utili ingredienti che potrebbero o non potrebbero avvelenare gli abitanti dei villaggi vicini. \u00c8 il capitalismo, bellezza.",
         "languages": null,
-        "size": 954204160
+        "size": 958398464
     },
     "70070000012474": {
         "id": null,
