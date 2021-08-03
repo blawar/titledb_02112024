@@ -9336,7 +9336,7 @@
             "zh",
             "zh"
         ],
-        "size": 9385803776
+        "size": 9460252672
     },
     "70010000036851": {
         "id": "0100691013C46000",
@@ -21041,6 +21041,57 @@
         ],
         "size": 530579456
     },
+    "70010000041376": {
+        "id": "0100BC5014D68000",
+        "rightsId": null,
+        "name": "Zombo Buster Advance",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210819,
+        "nsuId": 70010000041376,
+        "category": [
+            "Strategy",
+            "Action",
+            "Arcade",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/30b638b0f34f479e39491ae1cfb7edf229179c97d3feff4e6b75a803f17aa15c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c1eb87871a2fa084b50f7042c3d1d8ed106dc2c251787e8c672e2d08225ce180.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b6ba181c14a93a78ad87424b1920049550d1ee7e93ba71f5051a0b8540ebdc2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09752429eada4072404e8f4daaa4eaca3ce9535dc6992a8ae5883065803e3d9f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2f8ce091ec114b5165bc87f1d9f2093abc51ebdc44f48299cef690a82dcd2beb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/88fcf851f2e4e5dd596c7527711fee0bcbcae08215d258bc59efda89092fed82.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/288dc4bd3ebe6e79052af5c8cd1084cbd24be478951c71ac8472a862a632b611.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3f8072126483ae41c6fec9318be40f53a313a4dfadef501467e4cd10f8b494dd.jpg",
+        "intro": "Zombo Buster Advance is a tower defense game taking place inside buildings with interchangeable elevators. \nDeploy, swap and shoot like a boss!",
+        "description": "Key Features:\n- Lead a team of 12+ anti zombie shooters into the operation.\n- Craft and equip power up badges to your units, create your own super soldiers.\n- Fight against 30+ kinds of zombies and engage in epic boss battles.\n- Make good use of various supportive gadgets in the war zone, from dynamites to the Kill-with-snap gauntlets!\n- Use your tactics to counter the in-game flow changer such as the escalator, travelators, passages and many others.\n- Forge ahead a total of 50 fun and challenging stages worth of hours playing.\n- Examine your units, enemies, gadgets and others with the in-game game journal.\n- Complete a series of missions and claim the rewards.\n- As always, a bunch of upgrades!\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1078984704
+    },
     "70010000041448": {
         "id": "0100F490151AA000",
         "rightsId": null,
@@ -21366,6 +21417,51 @@
             "en"
         ],
         "size": 80740352
+    },
+    "70010000041530": {
+        "id": "0100D730151C8000",
+        "rightsId": null,
+        "name": "Badland: Game of the Year Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210806,
+        "nsuId": 70010000041530,
+        "category": [
+            "Action",
+            "Adventure",
+            "Puzzle",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 7,
+        "developer": null,
+        "publisher": "QubicGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0341dff0af436df3911197ea09f9706ba908e8b11c55092a3ffb6620cacf56d4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e0c3b2eaa22f5fea0be0010c1c61e4dc53cb5dc14118091237c074da73d616d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e0c4db00cac94378b72f33c7c9dce21dd243fd661661b611b0a06dfa65868a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fac86d7b56e50f084ef5dcbc93c6d21eb7ebe2d019a9f2bbb482cb9dcfdf97a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/683e05dc769ac6637c25bad9592d52412b676ff463cf961d869772d200c20239.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b5be461f6f088950d7885010989cf01c2ff6200fc3a3747700df49283549327.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a091692c49e7907a923ac4a85c72ad2831b1e4e3b50903246d5078662ed72866.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ee5d7fa23c81131ef9d202e3c71efd548a8fa506f66a43cca61e029b9720d726.jpg",
+        "intro": "Fly and survive through the Game-of-the-Year- winning world of BADLAND and discover an astonishing number of imaginative traps, puzzles and obstacles on the way.",
+        "description": "9.5 / 10 - Games969 \u2013 \u201cChallenging, fun and darn addictive\u201d\n9 / 10 - IGN Hungary \u2013 \u201cImpressive\u201d\n9 / 10 - Gaming-age - \"Shines brightly\"\n8.5 / 10 & the Joystick Award - SpieleTipps \u2013 \u201cHighly recommendable\u201d \n8.5 / 10 - WhatsYourTagBlog \u2013 \u201cAwesome!\u201d\n8 / 10 - GamingTrend - \u201cThe multiplayer mode is fantastic\u201d\n8 / 10 - WeGotThisCovered - \u201cDeliciously difficult\u201d\n8 / 10 - TrueAchievements \u2013 \u201cHours of fun\u201d\n\nWith BADLAND: Game of the Year Edition, you get to experience the multi-award-winning action adventure like never before. BADLAND: GOTY Edition builds on the stunningly atmospheric, hand-painted graphics of the original BADLAND with enhanced, above visuals, completely redesigned controls, over 15 hours of single player campaign and awesome multiplayer fun for up-to-four players with both local co-op & battle modes.\n\nBADLAND is an atmospheric side-scrolling action adventure platformer set in a gorgeous forest full of various inhabitants, trees and flowers. Although the forest appears to be right out of a beautiful fairy tale, there\u2019s something terribly wrong. The player controls one of the forest dwellers to find out what\u2019s going on, and discovers an astonishing number of imaginative traps and obstacles on the way.\n\nFeatures:\n\n- Side-scrolling action adventure platformer with innovative physics-based gameplay\n- Local multiplayer awesomeness for up-to-4 players with co-op and battle modes.\n- Single player campaign with 100 truly unique levels\n- 100 multiplayer co-op levels and 23 battle levels\n- 78 Achievements\n",
+        "languages": [
+            "en",
+            "pt",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 905969664
     },
     "70010000041535": {
         "id": "01009B4013C00000",
@@ -24701,7 +24797,7 @@
             "zh",
             "zh"
         ],
-        "size": 434110464
+        "size": 448790528
     },
     "70010000042625": {
         "id": "01005E3008452000",
@@ -26046,7 +26142,7 @@
             "es",
             "pt"
         ],
-        "size": 176160768
+        "size": 210763776
     },
     "70010000043293": {
         "id": "0100939011ED4000",
@@ -26373,6 +26469,46 @@
         ],
         "size": 319815680
     },
+    "70010000043507": {
+        "id": "0100F490159A2000",
+        "rightsId": null,
+        "name": "Magnus Failure",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210809,
+        "nsuId": 70010000043507,
+        "category": [
+            "Arcade",
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Fear"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fadcc9c505a17ec55d109388ff3f06811bcb006a315ba8d61efd96a9db13d08c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/02de2c86c86a6d869a10682a95586dbf244330af3aed626f34180606750324e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/90757812f65af239ed4d9a9734cbf293ac5f3d579b832e8e5273ed76c5d7c062.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25e009241434f1a53fe0e8cd11ecc97f9c94d8f3e31084b2d243a84086126fab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af6308d8b79e06970c351f3d1f8ccace2269340937aca6da3cc7381ebb88a7f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fb6b9b74194005c8ba542e3adc7b7ffa1ea6018e633d333e8d69ec09bc2dd082.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fe2b35b9b230cbac290bc2c2dacf7ac3046f6929c63b2a79d298e4b34fe6ec86.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0c74d8a00f0e23b6de1fd04ba230087f3e7aa120b51cb22bfdafbe2e11f4e4b.jpg",
+        "intro": "Magnus Failure is an isometric exploration and adventure game with logical elements.",
+        "description": "The protagonist of the game is a person who, for unknown reasons, finds himself in the isolation of other people and scans the radio in search of a signal. The appearance of a seemingly incomprehensible message makes you want to find the sender. So you set off on a journey through the unique world of Magnus Failure! Solve puzzles using the right combination of items, find them in the surrounding world and solve mini-logic games. The world is full of mechanisms that open up new locations for the player.\n\nMagnus Failure is an atmospheric journey through the mysterious world of signs, symbols and clues that make up the plot of the game. What surrounds the player is ambiguous. He can freely interpret what happened to the world and why the hero was left alone. The unique graphic aesthetics of the game deepens the overwhelming impression of being in a different reality. The protagonist himself is quite an unusual character because he wears a huge helmet with an attached mask straight from the Japanese kabuki theatre. The game is no shortage of other similar references and symbols that give it its character.\n\nMagnus Failure has ambitions to deepen the player's willingness to ask himself philosophical questions about who he is and what his place in the world is. Will you try to find answers to these questions and plunge into the mysterious world of Magnus Failure? Will you open up to the unknown and find the sender of the signal?",
+        "languages": [
+            "en"
+        ],
+        "size": 232783872
+    },
     "70010000043561": {
         "id": "0100C890159AA000",
         "rightsId": null,
@@ -26569,6 +26705,48 @@
         ],
         "size": 70254592
     },
+    "70010000043776": {
+        "id": "0100C46015AA0000",
+        "rightsId": null,
+        "name": "Barry the Bunny",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210813,
+        "nsuId": 70010000043776,
+        "category": [
+            "Arcade",
+            "Platformer",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d1fe0da199d5173ef276193957f2bf742038413671934c63933e94eb0f6cb1a8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1ac101a27870eaeca3e63c8562feba2261c91c013b471d8d54fa72eacdc5e4a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb59c64b7fe45397f620ba15a2b25a9a4d8919dcbc2bd69dfde5ac081c6a406f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9dd68a36c75a6195bb4ef506e75649012a90b784da5d387d9ed19c5d9f752cda.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/476c13199c1ae6a878236c52c3669559f285c0b1204cbbdd6f504f340e285930.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cef53ffeb884b0ba11bdbafedea476d54c1ff08a214cdbef7babbdec95057237.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b1a2957b1e216acf20b8c59a444db37aac23c8b6f4d3826942c8045098a4396.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3dc6ed40cc16f57f49b5efffc8cd07b459cbda366845fa54bd09d79d32a5583d.jpg",
+        "intro": "Move, hop, and rebuild bridges to aid your fellow bunnies.",
+        "description": "Barry the Bunny is a challenging 2D platformer about a Bunny who likes carrots and loves building bridges!\n\nExplore lush 2D landscapes, and help Barry walk, jump, collect or throw items to progress through each level. Barry will travel through 4 different worlds, defeating enemies, facing dangerous traps, conquering challenging platforming levels and getting enough wood to build new bridges!\n\nCan Barry repair all the bridges so that the little bunnies can return home?\nHop into platform action fun with Barry the Bunny.\n\n\nFeatures:\n* Classic 2D platformer gameplay\n* Visit 4 different unique areas\n* Colorful 8-bit style graphics\n* Vibrant chiptune music\n* Increasingly challenging levels",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru"
+        ],
+        "size": 40894464
+    },
     "70010000043786": {
         "id": "0100BB5015AA8000",
         "rightsId": null,
@@ -26731,6 +26909,48 @@
             "ru"
         ],
         "size": 426770432
+    },
+    "70010000044070": {
+        "id": "010029D015BD2000",
+        "rightsId": null,
+        "name": "Sakura Succubus 4",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210819,
+        "nsuId": 70010000044070,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Strong Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Gamuzumi",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/07ec75c44ab37a8e37186c89eed9357fb10ed44c1a99b4b12b51ae5510d7dc81.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/98d9f83a0607a5fa8dc0e406f442e7188be2d843f6aec7ab82cfa254167ad9f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97085afe1f6502b33a0208714445c6c12d1253d29a5f372189f4ee83482eafb1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22c6737b57ca63ec0c55d465369fdf4a331721934caffeba1f0672160a0fe3d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db5f1852b6b5332d9436a0abaa800224d2597422569071647cc192cc155693f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8855854ad51e8848041490d715c3d3e069d4e88ecc5bd1d1dc70f1eb1e3aceb6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b1d2727fca1be713a2c0abf16e9e12f23007486801b981c9c1126060e870468.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12e45456f66d07fe1513ae864eef1032c89085bcd36c04b0cfa80af4d4c3ae21.jpg",
+        "intro": "A dream summer vacation paradise surrounded by adoring Japan\u2019s most beautiful women.",
+        "description": "Ogasawara Hiroki was once an ordinary man, until numerous beautiful succubi fell for him in droves, and soon he obtained quite the harem! After narrowly escaping a lifetime of imprisonment in the succubus realm, Hiroki is ready to kick back and relax.\n\nIdol succubus Ayu invites him on a vacation to her private beach house in Okinawa, and Hiroki is happy to oblige. The other succubi come along for the ride, and a week of summertime fun begins.\n\nJoin Hiroki as he breaks up vicious pillow fights, teaches social media queen Cosmos how to swim, and (begrudgingly) goes jogging with tennis athlete Hazel, all the while deepening his bonds with his adoring harem.\n\nFeatures \n* Fourth installment in Sakura Succubus series\n* Life simulation gameplay\n* Visual novel\n* Beautiful manga art\n* Gorgeous women to romance",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "de",
+            "zh"
+        ],
+        "size": 249561088
     },
     "70010000044208": {
         "id": "010052B015B74000",
@@ -42919,7 +43139,7 @@
         "intro": "Tools Up! Garden Party is back with a summer sizzle in Episode 2: Tunnel Vision. Get your sunscreen because the gardens are gonna get hot! ",
         "description": "Tools Up! Garden Party consists of 3 separate episodes that are all available as a Season Pass, or separately. \n\nIf buying Episodes separately, remember: \nTo play Ep. 2, you must first get Ep. 1.\nTo play Ep. 3, you must first get Eps. 1 + 2. \n\nTools Up! Garden Party is back with a summer sizzle in Episode 2: Tunnel Vision! There\u2019s no time for relaxation though, more gardens need some major TLC. Get your sunscreen because things are gonna get hot! \n\nThe challenge continues with a new, underground opponent who wants to mess up your work. With the Hole Mole popping up all over your garden, you'll really have to watch your step!\n\nWith new challenges come new mechanics to make your job easier. Now you can speed things up by transporting items (and yourself) through water pipes and bounce tools off of lava pools! Will the extra time help you beat the clock?\n\nThere are new mechanics and tools waiting for you to discover\u2014dive into 15 new, summer levels solo or with up to 3 friends and get gardening!\n",
         "languages": null,
-        "size": 233832448,
+        "size": 230686720,
         "ids": [
             "010093F00E819002"
         ]
@@ -42954,7 +43174,7 @@
         "intro": "Fall is in the air and so is Tools Up! Garden Party\u2019s final fall episode, Episode 3: Home Sweet Home. Bundle up in your favorite sweater!",
         "description": "Tools Up! Garden Party consists of 3 episodes that are all available as a Season Pass, or separately. \n\nIf buying Episodes separately, remember: \nTo play Ep. 2, you must first get Ep. 1.\nTo play Ep. 3, you must first get Eps. 1 + 2. \n\nFall is in the air and so is Tools Up! Garden Party\u2019s final fall episode. Bundle up in your favorite sweater for Episode 3: Home Sweet Home. \n\nA new challenger is ready to keep you on your toes, or should we say, with your fingers on your nose! The Stinky Smog can whip past at any time to mess up your work and steal things you need. Be sure to keep your puppy around to chase the Smog away.\n\nFall means harvest time. Collect pumpkins and carrots in a basket and dream of the soups you can make with them. And don\u2019t let a leaf go uncollected! The cool fall wind will blow leaves all over your garden. Grab a rake and collect them before they take over!\n\nDiscover even more new mechanics and tools in 15 new, crispy fall levels solo or with up to 3 friends. Get gardening!\n\n",
         "languages": null,
-        "size": 3145728,
+        "size": 267386880,
         "ids": [
             "010093F00E819003"
         ]
@@ -63439,14 +63659,14 @@
         "size": 0
     },
     "70050000027815": {
-        "id": null,
+        "id": "0100B28014133043",
         "rightsId": null,
         "name": "Additional Horse \"Iron Coat\"",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20210831,
+        "releaseDate": 20210805,
         "nsuId": 70050000027815,
         "category": null,
         "ratingContent": [
@@ -63458,12 +63678,17 @@
         "publisher": "KOEI TECMO EUROPE",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7e5b828659fb917db80e8d18af9ce20a56542e4de9e40e30cdd53b8d8944536b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/30316781173186ac57682c5e893454e893e2c29e296d9104d13838bacf6c5029.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/57142d127685935b48033a9f90e7217718a3958d23dd61a10c3ac616dab0900b.jpg",
         "intro": null,
-        "description": "Content planned to be released by the end of August 2021\nThe following additional content is included:\nAdditional Horse \"Iron Coat\"\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: Details about the DLC released with the Season Pass as well as their release period will be announced later. Please check the official website (http://www.gamecity.ne.jp/sengoku5/).\nNote: Planned release dates are subject to change.\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
+        "description": "The following additional content is included:\nAdditional Horse \"Iron Coat\"\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "0100B28014133043"
+        ]
     },
     "70050000027816": {
         "id": null,
@@ -63493,14 +63718,14 @@
         "size": 0
     },
     "70050000027817": {
-        "id": null,
+        "id": "0100B28014133065",
         "rightsId": null,
         "name": "Additional Weapon set 1",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20210831,
+        "releaseDate": 20210805,
         "nsuId": 70050000027817,
         "category": null,
         "ratingContent": [
@@ -63512,22 +63737,29 @@
         "publisher": "KOEI TECMO EUROPE",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/992e6891b8c7a8e1e853ddc97eb25ec4e01e6afe1e61bfb9f386f978b8b9a643.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/accd907d22dc21909214db3eb159a41f069b626fb023ed0b637ce8ce7969e50c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/96a6caba6806995b22399d1c0d5b4145f6f50e5203ec1247a05cb032b49e331f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7b8303f56e8f076e856d70e466e64feaf71eb13dab1d7866310e22b8be284e6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ab47829e0fb658b211523f5316f88c25b8f6a3f1c64ea0b8175e7e1a396f9982.jpg",
         "intro": null,
-        "description": "Content planned to be released by the end of August 2021\nThe following additional content is included:\nAdditional Weapon Set 1 (\u014cdachi, Bow, Talisman)\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: Details about the DLC released with the Season Pass as well as their release period will be announced later. Please check the official website (http://www.gamecity.ne.jp/sengoku5/).\nNote: Planned release dates are subject to change.\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
+        "description": "The following additional content is included:\nAdditional Weapon Set 1 (\u014cdachi, Bow, Talisman)\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "0100B28014133065"
+        ]
     },
     "70050000027818": {
-        "id": null,
+        "id": "0100B28014133066",
         "rightsId": null,
         "name": "Additional Weapon set 2",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20210831,
+        "releaseDate": 20210805,
         "nsuId": 70050000027818,
         "category": null,
         "ratingContent": [
@@ -63539,12 +63771,19 @@
         "publisher": "KOEI TECMO EUROPE",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a3d35f3ea22073c3203bcc222942c57e00b597146c15406b248fb7de7ab7b9e2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/357e8502521564f602bd76e4f278d89df6d0239a0b6394db0ed3e9ad8252914b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/64cea5d68d3ef883bc7e2f62f77f1a3e77392b61fcb01be3e465b0e593f79193.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9c50ced49f49e356f521780283eadf3160c9e50002afa3b574c680b3f4260b6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f986c395a79c41163fc9b027dbf6dd49e41b0ed9855fffb18d255b6383c7193c.jpg",
         "intro": null,
-        "description": "Content planned to be released by the end of August 2021\nThe following additional content is included:\nAdditional Weapon Set 2 (Blade and Matchlock, Great Spear, Gloves)\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: Details about the DLC released with the Season Pass as well as their release period will be announced later. Please check the official website (http://www.gamecity.ne.jp/sengoku5/).\nNote: Planned release dates are subject to change.\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
+        "description": "The following additional content is included:\nAdditional Weapon Set 2 (Blade and Matchlock, Great Spear, Gloves)\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "0100B28014133066"
+        ]
     },
     "70050000027819": {
         "id": null,
@@ -63574,14 +63813,14 @@
         "size": 0
     },
     "70050000027820": {
-        "id": null,
+        "id": "0100B280141330A1",
         "rightsId": null,
-        "name": "Additional Scenario & BGM Set 1",
+        "name": "Additional Scenario & BGM Set 1 \"Oichi's Getting Hitched\"",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20210831,
+        "releaseDate": 20210805,
         "nsuId": 70050000027820,
         "category": null,
         "ratingContent": [
@@ -63593,22 +63832,28 @@
         "publisher": "KOEI TECMO EUROPE",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eb72096c4524763366d6638ecc40e0578a61715a1f7052b7be0af3542f4f6f50.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8c761671ff1c9a9d3acdb918d527bc16df1ef37f493a79c32c29a372a56a368a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77fe0c41f22fa1d0850561d9834ae1f9809e4e7c338dc8a0e02c632a28e2fe57.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/399a2eb114bc71a372dc5e69ce3b81fa525f67d7a4bdde51ad029214f123fca5.jpg",
         "intro": null,
-        "description": "Content planned to be released by the end of August 2021\nThe following additional content is included:\nAdditional Scenario & BGM Set 1\n\nNote: Details about the DLC released with the Season Pass as well as their release period will be announced later. Please check the official website (http://www.gamecity.ne.jp/sengoku5/).\nNote: Planned release dates are subject to change.\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
+        "description": "Note: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.\n\nThe following additional content is included:\n\nAdditional Scenario & BGM Set 1 \"Oichi's Getting Hitched\"\n\n\u25a0Scenario overview\nOichi is feeling troubled before her wedding to Nagamasa Azai. Just what kind of \"training\" has she started with Mitsuki?\n\n\u25a0How to use the scenario\nIn \"Musou Mode\", select \"March\" - \"DLC\" from My Castle.\n\n\u25a0How to use the BGM\nAfter clearing the scenario, you can listen to the BGM from \"Vault\" - \"Music Theater\", or you can set the BGM as the battle music at \"Preparing for Battle\" by selecting \"Settings\" - \"Change Music\".\n\nNote: Additional scenarios become playable midway through Nobunaga's Path Chapter 1.",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "0100B280141330A1"
+        ]
     },
     "70050000027821": {
-        "id": null,
+        "id": "0100B280141330A2",
         "rightsId": null,
-        "name": "Additional Scenario & BGM Set 2",
+        "name": "Additional Scenario & BGM Set 2 \"Battle for the Legendary Hot Springs\"",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20210831,
+        "releaseDate": 20210805,
         "nsuId": 70050000027821,
         "category": null,
         "ratingContent": [
@@ -63620,22 +63865,28 @@
         "publisher": "KOEI TECMO EUROPE",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8188079697eed3733ccec7f0bc243727f5cea528a7d0e4f0df7fb5c5d7bc49f2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6b30548b2ed2be4e4bdc88f2de2a3c721dfcfbd0a77de234d9cc6a9f88a1355c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f204e64801fbed1a9224714d96db3f5ba2c73f776227a5b4e54e7ead8ec87dcf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c8621422abb338a40664310c075a56158229dbae36f9acd8b229a3d478cfda7f.jpg",
         "intro": null,
-        "description": "Content planned to be released by the end of August 2021\nThe following additional content is included:\nAdditional Scenario & BGM Set 2\n\nNote: Details about the DLC released with the Season Pass as well as their release period will be announced later. Please check the official website (http://www.gamecity.ne.jp/sengoku5/).\nNote: Planned release dates are subject to change.\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
+        "description": "Note: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.\n\nThe following additional content is included:\n\nAdditional Scenario & BGM Set 2 \"Battle for the Legendary Hot Springs\"\n\n\u25a0Scenario overview\nShikanosuke and Magoichi dash through the battlefield in search of the greatest hot springs. Make it through fierce battles and be the first in the bath!\n\n\u25a0How to use the scenario\nIn \"Musou Mode\", select \"March\" - \"DLC\" from My Castle.\n\n\u25a0How to use the BGM\nAfter clearing the scenario, you can listen to the BGM from \"Vault\" - \"Music Theater\", or you can set the BGM as the battle music at \"Preparing for Battle\" by selecting \"Settings\" - \"Change Music\".\n\nNote: Additional scenarios become playable midway through Nobunaga's Path Chapter 1.",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "0100B280141330A2"
+        ]
     },
     "70050000027822": {
-        "id": null,
+        "id": "0100B280141330A3",
         "rightsId": null,
-        "name": "Additional Scenario & BGM Set 3",
+        "name": "Additional Scenario & BGM Set 3 \"Who Is the Smartest in the Land?\"",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20210831,
+        "releaseDate": 20210805,
         "nsuId": 70050000027822,
         "category": null,
         "ratingContent": [
@@ -63647,22 +63898,28 @@
         "publisher": "KOEI TECMO EUROPE",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e9018b7f0d989f0d507fc3b1ce73df3269f5ade3d505219ac158db3d363b7bb1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0e3908a65a793c1b02d85d4478b11573f1589dc9f83f4d28d73cc46c3b82da20.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ab7704b3c026bf3917743f3ddde6e9bfe6372d9593e75320ae4e2bbf53306dc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/82f8778c061bb604e6e4f4a931fc258c77afda0dbfa2f7fb0a5db969ddee5cf1.jpg",
         "intro": null,
-        "description": "Content planned to be released by the end of August 2021\nThe following additional content is included:\nAdditional Scenario & BGM Set 3\n\nNote: Details about the DLC released with the Season Pass as well as their release period will be announced later. Please check the official website (http://www.gamecity.ne.jp/sengoku5/).\nNote: Planned release dates are subject to change.\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
+        "description": "Note: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.\n\nThe following additional content is included:\n\nAdditional Scenario & BGM Set 3 \"Who Is the Smartest in the Land?\"\n\n\u25a0Scenario overview\nThe battle to solve Hanbei Takenaka's riddles begins! Answer correctly and become the smartest in the land!\n\n\u25a0How to use the scenario\nIn \"Musou Mode\", select \"March\" - \"DLC\" from My Castle.\n\n\u25a0How to use the BGM\nAfter clearing the scenario, you can listen to the BGM from \"Vault\" - \"Music Theater\", or you can set the BGM as the battle music at \"Preparing for Battle\" by selecting \"Settings\" - \"Change Music\".\n\nNote: Additional scenarios become playable midway through Nobunaga's Path Chapter 1.",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "0100B280141330A3"
+        ]
     },
     "70050000027823": {
-        "id": null,
+        "id": "0100B28014133045",
         "rightsId": null,
         "name": "Additional Horse \"Silver Coat\"",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20210831,
+        "releaseDate": 20210805,
         "nsuId": 70050000027823,
         "category": null,
         "ratingContent": [
@@ -63674,22 +63931,27 @@
         "publisher": "KOEI TECMO EUROPE",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fb9c118e40ae8a945031a445adde2abfdc3b7cae5bef771ddf10367282ad9b65.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ea0a06f249d45df9e7e0dd18a212b47ebddbdb99f09658b13450d29c4f1ead8e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ced825c632cdfb5925e8ff029b65a44e6de98cee519087cc975e0e943b6ec76b.jpg",
         "intro": null,
-        "description": "Content planned to be released by the end of August 2021\nThe following additional content is included:\nAdditional Horse \"Silver Coat\"\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: Details about the DLC released with the Season Pass as well as their release period will be announced later. Please check the official website (http://www.gamecity.ne.jp/sengoku5/).\nNote: Planned release dates are subject to change.\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
+        "description": "The following additional content is included:\nAdditional Horse \"Silver Coat\"\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "0100B28014133045"
+        ]
     },
     "70050000027824": {
-        "id": null,
+        "id": "0100B28014133046",
         "rightsId": null,
         "name": "Additional Horse \"Armor Coat\"",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20210831,
+        "releaseDate": 20210805,
         "nsuId": 70050000027824,
         "category": null,
         "ratingContent": [
@@ -63701,12 +63963,17 @@
         "publisher": "KOEI TECMO EUROPE",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/409dfd3c53bf277507a5802d140a35e9c4ed7d4b6854fc1081db654377fb47e3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5ee0bc4d0e9f11d9cc535551b12c5eb5149b071d0e296c3ff0f6f2d4d86d04a1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b2df320d880410a28d8f394b6f593d54df9d343be43271d97461e0e7984db1f2.jpg",
         "intro": null,
-        "description": "Content planned to be released by the end of August 2021\nThe following additional content is included:\nAdditional Horse \"Armor Coat\"\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: Details about the DLC released with the Season Pass as well as their release period will be announced later. Please check the official website (http://www.gamecity.ne.jp/sengoku5/).\nNote: Planned release dates are subject to change.\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
+        "description": "The following additional content is included:\nAdditional Horse \"Armor Coat\"\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "0100B28014133046"
+        ]
     },
     "70050000027825": {
         "id": null,
@@ -70206,7 +70473,7 @@
         "intro": null,
         "description": "[Season Pass Content] (Planned to be released by the end of September 2021)\n\nA pass that allows you to obtain a variety of DLC available after the game's release at a discount.\n - Additional Scenario & BGM Sets (6)\n - Additional Weapons Sets (5) (each set has 3 weapons)\n - Additional Horses (6)\n\n[Season Pass Bonus]\nAllows you to obtain items that can be used to upgrade in-game characters, funds that can be used to upgrade or purchase weapons, and more.\n\nNote: Details about the DLC released with the Season Pass as well as their release period will be announced later. Please check the official website (http://www.gamecity.ne.jp/sengoku5/).\nNote: Planned release dates are subject to change.\n\nNote: DLC included in the Season Pass will be available for individual purchase. Be careful to avoid making a redundant purchase.",
         "languages": null,
-        "size": 3145728,
+        "size": 28311552,
         "ids": []
     },
     "70070000012391": {
@@ -70241,7 +70508,7 @@
         "intro": null,
         "description": "A new SAMURAI WARRIORS begins\nAfter a 7-year wait, a new instalment in the tactical action series \"SAMURAI WARRIORS\" is finally here!\n\nWith this title, the historical period depicted in the first title of the \"SAMURAI WARRIORS\" series released in 2004 has been revamped.\nWith visuals that have largely evolved since the first \"SAMURAI WARRIORS\", additional WARRIORS officers, and evolved actions, an even deeper drama set in the warring states is depicted.\nAlso, with a focus on the lives of officers Nobunaga Oda and Mitsuhide Akechi, in order to more intensely and boldly depict the warring states era spanning from the end of the \u014cnin War to the Incident at Honn\u014dji, the title is the beginning of a new series, in which the stories and characters from the traditional \"SAMURAI WARRIORS\" have been revamped.\n\nFeatures of \"SAMURAI WARRIORS 5\"\n\u25a0With officers whose designs have been revamped, as well as new officers, a total of 27 Samurai Warriors join the battle.\nOfficers such as a young Nobunaga Oda, known as the \"Great Fool\", and daimy\u014d Yoshimoto Imagawa, who was called the \"Greatest Archer in all of Kaid\u014d\", appear with new designs that match the setting of this title.\nAlso, new officers such as Toshimitsu Sait\u014d, a retainer of Mitsuhide Akechi, as well as K\u014dga ninja Mitsuki join the battle. A total of 27 Samurai Warriors  interweave their fates to create a dramatic warring states era.\n\n\u25a0WARRIORS actions are more thrilling and dazzling than ever before\nIn this title, players can once again enjoy the \"thrill of sending enemies flying\" that the WARRIORS series is renowned for.\nAnd with new actions that have been added with this title, as well as new depictions that give off a Japanese flair, the WARRIORS actions have become even more stunning.\n\nFeatures of the \"SAMURAI WARRIORS 5 Deluxe Edition\"\nA valuable set that, in addition to the game, includes the content below.\n[Deluxe Edition Bonuses]\n - Special Blade Rift Blade\n - Special Katana Masterpiece\n - Special Spear Sharpened Fang Spear\n - Special Bow Sky Piercer\n - Special Horse\n - Special Skill Gem Set\n - Items\n\n[Season Pass]\nA pass that allows you to obtain a variety of DLC available after the game's release at a discount.\n[Season Pass Content] (Planned to be released by the end of September 2021)\n - Additional Scenario & BGM Sets (6)\n - Additional Weapons Sets (5) (each set has 3 weapons)\n - Additional Horses (6) \n[Season Pass Bonus]\nAllows you to obtain items that can be used to upgrade in-game characters, funds that can be used to upgrade or purchase weapons, and more.\nNote: Details about the DLC released with the Season Pass as well as their release period will be announced later. Please check the official website.",
         "languages": null,
-        "size": 9914286080
+        "size": 9939451904
     },
     "70070000012392": {
         "id": null,
@@ -70629,7 +70896,7 @@
         "intro": null,
         "description": "The King's Bounty II Lord's Edition contains the Main game and the following content:\n\n\u2022 Rod of Deception \n\u2022 Frosthammer \n\u2022 Staff of Harmony \n\u2022 Tyrant's Sword \n\u2022 Armor of the Hollow\n\u2022 Heroes & Villains Premium Pack\n\u2022 King\u2018s Watchdogs\n\nKing's Bounty II\n\nDarkness descends over the world of Nostria. Conspiracies, sabotage, and necromancy are overshadowing the country. But maybe a saviour \u2013 the kingdom's last hope \u2013 is already here, to fight back and finally restore peace and order in Nostria! \n\nKing\u2019s Bounty II is the long-awaited sequel to the legendary King\u2019s Bounty video games franchise, one of the most iconic representatives of the turn-based RPG genre. Expanding on this legacy with an entirely new epic story, fractions, enemies, and new features to forge an open and breaking fantasy world Antara. With the kingdoms in disarray, counties demanding independence, bandits prowl the roads, all the overseas nations have denied the King\u2019s authority over them, and blighted creatures lie in wait for the unwary, new accidental heroes emerge as last hope. \n\nThey determined to bring order to the chaos. Plays as one of them, recruiting, developing, and commanding your personal army on a non-linear adventure of betrayal, sacrifice, and survival. Fighting for your own future, outsmarting enemy in uniquely turn-based combat, making difficult decisions, and experience the intensity of one of the classic sagas in an exciting new way.",
         "languages": null,
-        "size": 9388949504
+        "size": 9463398400
     },
     "70070000012467": {
         "id": null,

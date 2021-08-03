@@ -8978,6 +8978,46 @@
         ],
         "size": 5315231744
     },
+    "70010000033640": {
+        "id": "0100424012C94000",
+        "rightsId": null,
+        "name": "Space Invaders Invincible Collection",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210817,
+        "nsuId": 70010000033640,
+        "category": [
+            "Arcade",
+            "A\u00e7\u00e3o",
+            "Multijogador",
+            "Grupo"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 0,
+        "developer": null,
+        "publisher": "ININ Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f7ec72466122c3d0dc25584ef9c52292b81184cd3061baa912313457f28ec26f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4496e758b6e5c490d745cc0e9387b8b488eaf98696456acc8ff7f0f09c0c85c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a9f2ca1e2953d7d26b14140587d1be2734f880604fa929ae4edfbc27c965158.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2291e98340ce923485611fa5017f70ea949594508e11a3b9ba244b7cc0b84a47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d94737d8a653fd1039a9c7c9b3f305c5acab198d8286a337928f7c9f84b453c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d94737d8a653fd1039a9c7c9b3f305c5acab198d8286a337928f7c9f84b453c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0cb7cfe7e3ad377ed5e27e46264891f4c4859b26d1979a247281a0c4d03df288.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/864a8433f2213ea4cecab4a64b696fb7341fb154436aa6ac7875862a0ded0179.jpg",
+        "intro": "Um dos cl\u00e1ssicos arcade mais importantes na hist\u00f3ria dos videojogos est\u00e1 de volta, e INVINCIBLE! 11 obras-primas do especialista em arcade TAITO numa fant\u00e1stica cole\u00e7\u00e3o.",
+        "description": "Um dos cl\u00e1ssicos arcade mais importantes na hist\u00f3ria dos videojogos est\u00e1 de volta, e INVINCIBLE! 11 obras-primas do especialista em arcade TAITO numa fant\u00e1stica cole\u00e7\u00e3o.\n\nInclui:\n\n\u25cf Space Invaders (1978, Arcade) \u2013 b/w\n\u25cf Space Invaders (1978, Arcade) \u2013 colour\n\u25cf Space Invaders Part II (1979, Arcade)\n\u25cf Majestic Twelve: The Space Invaders Part IV (1990, Arcade)\n\u25cf Super Space Invaders \u201991 (1990, Arcade)\n\u25cf Space Invaders Extreme (2018)\n\u25cf Space Invaders Gigamax 4 SE (2018)\n\u25cf Space Invaders DX (1994, Arcade)\n\u25cf Space Cyclone (1980, Arcade)\n\u25cf Lunar Rescue (1979, Arcade)\n\nInclu\u00eddo como download adicional:\n\n\u25cf Arkanoid vs Space Invaders (2016)\n",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 1197473792
+    },
     "70010000033664": {
         "id": "0100823012CA0000",
         "rightsId": null,
@@ -11985,7 +12025,7 @@
             "zh",
             "zh"
         ],
-        "size": 9385803776
+        "size": 9460252672
     },
     "70010000036850": {
         "id": "0100691013C46000",
@@ -24904,7 +24944,7 @@
             "zh",
             "zh"
         ],
-        "size": 434110464
+        "size": 448790528
     },
     "70010000042624": {
         "id": "01005E3008452000",
@@ -25472,9 +25512,11 @@
             "Aventura",
             "Puzzle"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
         "numberOfPlayers": 1,
-        "rating": 0,
+        "rating": 10,
         "developer": null,
         "publisher": "2P Games",
         "frontBoxArt": null,
@@ -25868,7 +25910,7 @@
             "es",
             "pt"
         ],
-        "size": 176160768
+        "size": 210763776
     },
     "70010000043292": {
         "id": "0100939011ED4000",
@@ -26240,6 +26282,48 @@
         ],
         "size": 70254592
     },
+    "70010000043775": {
+        "id": "0100C46015AA0000",
+        "rightsId": null,
+        "name": "Barry the Bunny",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210813,
+        "nsuId": 70010000043775,
+        "category": [
+            "Arcade",
+            "Plataforma",
+            "A\u00e7\u00e3o"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d1fe0da199d5173ef276193957f2bf742038413671934c63933e94eb0f6cb1a8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1ac101a27870eaeca3e63c8562feba2261c91c013b471d8d54fa72eacdc5e4a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb59c64b7fe45397f620ba15a2b25a9a4d8919dcbc2bd69dfde5ac081c6a406f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9dd68a36c75a6195bb4ef506e75649012a90b784da5d387d9ed19c5d9f752cda.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/476c13199c1ae6a878236c52c3669559f285c0b1204cbbdd6f504f340e285930.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cef53ffeb884b0ba11bdbafedea476d54c1ff08a214cdbef7babbdec95057237.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b1a2957b1e216acf20b8c59a444db37aac23c8b6f4d3826942c8045098a4396.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3dc6ed40cc16f57f49b5efffc8cd07b459cbda366845fa54bd09d79d32a5583d.jpg",
+        "intro": "Ande, pule e reconstrua pontes para ajudar seus amigos coelhos.",
+        "description": "Barry the Bunny \u00e9 um jogo de plataforma em 2D desafiador sobre um coelho com duas paix\u00f5es: cenouras e pontes!\n\nExplore paisagens exuberantes em 2D e ajude Barry a andar, pular, colher ou jogar itens para atravessar as fases. Barry vai levar voc\u00ea por 4 mundos diferentes, derrotando inimigos, enfrentando armadilhas perigosas, conquistando fases cheias de desafios e colhendo madeira para construir novas pontes!\n\nSer\u00e1 que o Barry vai conseguir consertar todas as pontes para que os coelhinhos possam voltar para casa?\nPule de cabe\u00e7a na a\u00e7\u00e3o de plataformas com Barry the Bunny.\n\n\nCaracter\u00edsticas:\n* Jogabilidade cl\u00e1ssica em plataformas 2D\n* Visite 4 \u00e1reas diferentes e exclusivas\n* Gr\u00e1ficos coloridos em estilo 8 bits\n* M\u00fasica chiptune vibrante\n* Fases com desafio crescente",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru"
+        ],
+        "size": 40894464
+    },
     "70010000043785": {
         "id": "0100BB5015AA8000",
         "rightsId": null,
@@ -26404,6 +26488,49 @@
             "ru"
         ],
         "size": 426770432
+    },
+    "70010000044069": {
+        "id": "010029D015BD2000",
+        "rightsId": null,
+        "name": "Sakura Succubus 4",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210819,
+        "nsuId": 70010000044069,
+        "category": [
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Conte\u00fado Sexual",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "Gamuzumi",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/07ec75c44ab37a8e37186c89eed9357fb10ed44c1a99b4b12b51ae5510d7dc81.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/98d9f83a0607a5fa8dc0e406f442e7188be2d843f6aec7ab82cfa254167ad9f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97085afe1f6502b33a0208714445c6c12d1253d29a5f372189f4ee83482eafb1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22c6737b57ca63ec0c55d465369fdf4a331721934caffeba1f0672160a0fe3d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db5f1852b6b5332d9436a0abaa800224d2597422569071647cc192cc155693f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8855854ad51e8848041490d715c3d3e069d4e88ecc5bd1d1dc70f1eb1e3aceb6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b1d2727fca1be713a2c0abf16e9e12f23007486801b981c9c1126060e870468.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12e45456f66d07fe1513ae864eef1032c89085bcd36c04b0cfa80af4d4c3ae21.jpg",
+        "intro": "Um para\u00edso de ver\u00e3o cercado das mulheres mais bonitas e ador\u00e1veis do Jap\u00e3o.",
+        "description": "Ogasawara Hiroki era um homem comum, at\u00e9 que v\u00e1rias s\u00facubos lindas se apaixonaram por ele ao mesmo tempo e, quando ele menos esperava, viu-se com um har\u00e9m! Ap\u00f3s escapar por pouco da pris\u00e3o eterna no reino das s\u00facubos, Hiroki est\u00e1 pronto para descontrair e relaxar.\n\nA s\u00facubo \u00eddolo Ayu o convida para passar f\u00e9rias na casa de praia particular dela em Okinawa, o que Hiroki aceita com prazer. As outras s\u00facubos juntam-se ao passeio, o que d\u00e1 in\u00edcio a uma semana de divers\u00e3o de ver\u00e3o come\u00e7a.\n\nJunte-se a Hiroki para separar ferozes guerras de travesseiros, ensinando a rainha das redes sociais Cosmos a nadar e (relutantemente) correr com a tenista Hazel enquanto aprofunda seus la\u00e7os com seu ador\u00e1vel har\u00e9m.\n\nCaracter\u00edsticas \n* Quarta parte da s\u00e9rie Sakura Succubus\n* Jogabilidade de simula\u00e7\u00e3o do cotidiano\n* Romance visual\n* Linda arte de mang\u00e1\n* Mulheres deslumbrantes para namorar",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "de",
+            "zh"
+        ],
+        "size": 249561088
     },
     "70010000044242": {
         "id": "010031F015C98000",
@@ -49715,7 +49842,7 @@
         "intro": null,
         "description": "King's Bounty II Lord's Edition cont\u00e9m o jogo principal e os seguintes conte\u00fados:\n\n\u2022 Rod of Deception \n\u2022 Frosthammer \n\u2022 Staff of Harmony \n\u2022 Tyrant's Sword \n\u2022 Armor of the Hollow\n\u2022 Pacote Premium Heroes & Villains\n\u2022 King\u2018s Watchdogs\n\nKing's Bounty II\n\nA escurid\u00e3o recai sobre o mundo de Nostria. Conspira\u00e7\u00f5es, sabotagens e necromancia obscurecem o pa\u00eds. Mas talvez um salvador, a \u00faltima esperan\u00e7a do reino, j\u00e1 esteja aqui, pronto para lutar e restaurar finalmente a paz e a ordem em Nostria! \n\nKing's Bounty II \u00e9 a t\u00e3o esperada continua\u00e7\u00e3o da lend\u00e1ria franquia King's Bounty, uma das representa\u00e7\u00f5es mais ic\u00f4nicas dos jogos RPG em turno. Expandindo seu legado com uma nova hist\u00f3ria \u00e9pica, fac\u00e7\u00f5es, inimigos e novos recursos para forjar o inovador mundo aberto de Antara. Com os reinos em desordem, condados exigindo independ\u00eancia, bandidos espreitando nas ruas, todas as na\u00e7\u00f5es ultramarinas negando a autoridade do Rei e criaturas corrompidas perseguindo os descuidados, novos her\u00f3is inesperados surgem como uma \u00faltima esperan\u00e7a. \n\nEles est\u00e3o determinados em trazer ordem ao caos. Jogue como um deles, recrutando, desenvolvendo e comandando seu ex\u00e9rcito pessoal em uma aventura n\u00e3o linear cheia de trai\u00e7\u00f5es, sacrif\u00edcios e sobreviv\u00eancia. Lutando pelo seu pr\u00f3prio futuro, supere seus inimigos em um combate de turno \u00fanico, tome decis\u00f5es dif\u00edceis e experimente a intensidade de uma das sagas mais cl\u00e1ssicas de maneira nova e empolgante.\n",
         "languages": null,
-        "size": 9388949504
+        "size": 9463398400
     },
     "70070000012460": {
         "id": null,
