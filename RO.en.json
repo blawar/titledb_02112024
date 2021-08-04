@@ -443,7 +443,7 @@
             "https://img-eshop.cdn.nintendo.net/i/8bdc502d03b2fc4884405d913e838eb67d2e6fbb1dc443379f57b32d5a9195c8.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6243d8588b733e0dcc425afa5e0bdc88e8f6f4fdbf1c994227f01c8224d76e66.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f69c1f4cfd9b9d0dee114be604f93c8884d9f3d3cd2b968ab855480633ca693.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4043acf90fb7c854cb1ff51268330d20606d4a38e60b42a5ce0dae3ce018604b.jpg",
         "intro": "Grab your friends, hone your blades, and set off for adventure in Trove, the ultimate action MMO!",
         "description": "Battle the forces of Shadow in realms filled with incredible dungeons and items created by your fellow players. Whether hunting treasure in far-off lands or building realms of your own, it\u2019s never been this good to be square!",
         "languages": [
@@ -630,7 +630,7 @@
         "languages": [
             "en"
         ],
-        "size": 395313152
+        "size": 483393536
     },
     "70010000014950": {
         "id": "01007B000C834000",
@@ -1091,6 +1091,50 @@
             "en"
         ],
         "size": 1563426816
+    },
+    "70010000017496": {
+        "id": null,
+        "rightsId": null,
+        "name": "Goonya Fighter",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190627,
+        "nsuId": 70010000017496,
+        "category": [
+            "Fighting",
+            "Party",
+            "Action",
+            "Communication"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 7,
+        "developer": null,
+        "publisher": "MUTAN",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b7fd3c310e098c0418ed094c8c4a09d6c71318929930b50a9545960da7a2286c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/435c6568484da8c325d87388de72d1e77a1b31d69c17c13f9ce6a05c0d323a2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b0c40913ff38edfb47c6e56b79813e3138cf74d24e585d70bdb721afb643857.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b2bd6b8e9f6217228a66a2395b7d5a3765646496bdada4f26c4decb88bc10df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/caeb70d03990c0d712e5ed05f9449f272965fde6179ea61b13b93abd14727292.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1997be820759e081d0dec0ad508958755a1008164ee8d5424e791cc070d3555f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/786193146c0050891af24cbce2def02842dac19a5690ee046009da5a3c54bc4b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e5632f0e62bab6da4368109f87aa0d6bc4ef6e12e304bcebe3b8d7ae029e6e66.jpg",
+        "intro": "A different kind of fighting game! Even with just one Nintendo Switch\u2122 device, up to 4 people can fight it out. Are you ready to become a Goonya Fighter?",
+        "description": "Walk too far and you flop over; punch the wrong way and be sent flying!\nAnd get back up again just as easily!\nFor beginners and pros alike, welcome to a different kind of fighting game.\n\n\u25c6Via internet or local communication get into the squidgy world of Goonya Fighter.\nFight with other \"Goonya Fighters\" around the world.\nIncrease your ranks and winnings and get access to more characters.\n\n\u25c6One console, two Joy-Con\u2122, double the fun!\nInternet battles can also be fought in teams, one team sharing one Joy-Con\u2122.\nTake on the challenge with a sibling, a best friend, a family member, your lover, your dog.\n\n\u25c6There are only 4 buttons to use!\nPunch with (A), Kick with (B), Jump with (X), Guard with (Y). That's it!\nBe warned though: you'll still be getting into very heated matches.\n\n\u25c63 game modes, 90 battlefields, one hell of a game!\nThe 3 game mode are as follows:\nThe \"battle\" mode.\nThe \"coin pick-up\" mode.\nThe \"race\" mode.\nEach mode can be played with up to 4 people.\n\n\u25c6Master the various stages to beat your enemies\nKick bombs toward them; force them onto crumbling floors;\nUtilise the surrounding magma and water and gorge on the resulting chaos!\n\n\u25c6Polish your technique in Story Mode\nEnjoy solo play in story mode and become a strong fighter.\nAs Nyack, plunge into battle against the interfering Amoebas with your companion Mash.\nFend off the enemies and their numerous traps and be the best!\nUsing one console (two Joy-Con\u2122), you can team up and have even more fun in story mode!",
+        "languages": [
+            "ja",
+            "en",
+            "de",
+            "zh"
+        ],
+        "size": 458227712
     },
     "70010000018293": {
         "id": "0100B6D00DA1C000",
@@ -8965,7 +9009,7 @@
             "ru",
             "zh"
         ],
-        "size": 6089080832
+        "size": 6114246656
     },
     "70010000036739": {
         "id": "01003AD013BD2000",
@@ -12758,7 +12802,7 @@
             "zh",
             "zh"
         ],
-        "size": 3077570560
+        "size": 3476029440
     },
     "70010000039007": {
         "id": "010000E0145BA000",
@@ -14941,7 +14985,7 @@
         "languages": [
             "en"
         ],
-        "size": 7653556224
+        "size": 7700742144
     },
     "70010000039696": {
         "id": "0100717014938000",
@@ -26825,7 +26869,7 @@
         "languages": [
             "en"
         ],
-        "size": 285212672
+        "size": 381681664
     },
     "70010000043922": {
         "id": "010058E015B10000",
@@ -27023,6 +27067,41 @@
             "en"
         ],
         "size": 141557760
+    },
+    "70010000044497": {
+        "id": "0100739015DCC000",
+        "rightsId": null,
+        "name": "Pop Blocks",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210807,
+        "nsuId": 70010000044497,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7ab1df32e85f07faff606424ee1aafe3aecd04ccef0fd86f67f2e4fa675f350b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c03ba55360066d9b8c3a8babc60f4d4978b40c9ab005adff8c9ac6621b020e6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f2882aba64fe78a65fdd6414638fb16d5f6632f93ce2c301b02fb788d2fdb7c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5825b0be245648ef9cd662a49e1277a6039d20be21d753d283eae615e2e31e91.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/530cced6a6ec0512ee457bf45d6d3a85fd1fdb0f9b106ef6a70c9035d3709f32.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8943b84d5bdf69082a8d236359c85dc6c41d29a4c4a305d4a8721125bca408f7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/62f8afd25bed9acd2788f4a2ad1981e5b4aafa000973f033686d49be9246c62a.jpg",
+        "intro": null,
+        "description": "Pop the blocks that match in colours and are next to each other.\nPop Blocks is the ultimate tap-match game on Nintendo Switch\u2122.\n\n-100 Levels\n-Many Power Ups And Special Moves\n-Bonus Spin and Daily Rewards\n-Automatic save to cloud\n\nEnjoy!",
+        "languages": [
+            "en"
+        ],
+        "size": 124780544
     },
     "70030000004122": {
         "id": null,
@@ -68609,6 +68688,68 @@
             "0100BB800E0D3029"
         ]
     },
+    "70050000029113": {
+        "id": null,
+        "rightsId": null,
+        "name": "Additional character: Ruri Asano(ASANO SHIMAI PROJECT Collab)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210803,
+        "nsuId": 70050000029113,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "MUTAN",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/df5febbf7eb145f6d0b35c69ea6d506022b1833a15a909d34e695f0f51349183.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37cd61086feb33b24291365bc39f7d0e9972d117cb94ed61ec27aed16d1803e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7edbb7830c81b04ffb569dfc60098d6a4d6fb84f69cb8ff37ab5f3d17f3bbed3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a3ed35791c30ee4869690a4ac6e91fcc058f4779d5ba87a08066491d10bc0c8.jpg",
+        "intro": null,
+        "description": "\"Ruri Asano\" was added as a new character.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000029115": {
+        "id": null,
+        "rightsId": null,
+        "name": "Additional character: Akane Asano(ASANO SHIMAI PROJECT Collab)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210803,
+        "nsuId": 70050000029115,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "MUTAN",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e2bcd7f80ace02729669f71005a728683ffae1760dc87b5dc16c4f3122d69002.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bbf06597698b50378801f3d97ce10bee60212ba00cc35e156c4b63da8dff575d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77ab359530f3c436cd985e76f10ff8dac4e3da4f562bcafae013f5a20e03c690.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/964a6979baa27158fbd48de3922be6d3a22d46e7ded9fd1675aec62af6a0c6d1.jpg",
+        "intro": null,
+        "description": "\"Akane Asano\" was added as a new character.",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000029131": {
         "id": null,
         "rightsId": null,
@@ -70991,7 +71132,7 @@
     "70070000012478": {
         "id": null,
         "rightsId": null,
-        "name": "Minecraft Dungeons: Ultimate Edition",
+        "name": "Minecraft Dungeons Ultimate Edition",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -71026,7 +71167,7 @@
     "70070000012479": {
         "id": null,
         "rightsId": null,
-        "name": "Minecraft Dungeons: Ultimate DLC Bundle",
+        "name": "Minecraft Dungeons Ultimate DLC Bundle",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -71340,7 +71481,7 @@
         "intro": null,
         "description": "The world\u2019s deadliest game of hide & seek. \n\nStep into the Fog as the hunter or the hunted with a selection of 34 original Killers and Survivors from previously released chapters. Every character in Dead by Daylight comes complete with a compelling backstory tied to a set of powers and perks that guarantee no two look, move, or play alike. Work together to escape, or stalk and sacrifice every Survivor as you discover, explore, and master both sides of this extensive roster. \n\nThe Ultimate Edition includes the base game, all maps, and the following Killers and Survivors (previously released in our Chapter add-ons): \n\n\u2022\tThe Legion and Jeff Johansen \n\u2022\tThe Plague and Jane Romero \n\u2022\tThe Oni and Yui Kimura \n\u2022\tThe Deathslinger and Zarina Kassir \n\u2022\tThe Blight and Felix Richter \n\u2022\tThe Twins and \u00c9lodie Rakoto \n\u2022\tThe Trickster and Yun-Jin Lee ",
         "languages": null,
-        "size": 19733151744
+        "size": 18893242368
     },
     "70070000012563": {
         "id": null,
@@ -71590,6 +71731,33 @@
         "description": "This bundle is intended for people new to Civilization VI and contains Civilization VI, six add-on content packs as well as the Rise and Fall and Gathering Storm expansions. The New Frontier Pass is not included in the Platinum Edition. \n\nMAKE HISTORY in one of the most critically acclaimed and influential game franchises in strategy game history. Choose a leader and pursue agendas inspired by their real-life counterparts. Explore new land, research technology, and go head-to-head with historical leaders as you lead your civilization from rocks to rockets. Cities expand physically across the map, create new strategic possibilities through the game as you pursue multiple ways to achieve victory and build an empire to stand the test of time. \n\nSid Meier\u2019s Civilization VI: Platinum Edition is the classic collection of Civilization VI content, including the Sid Meier\u2019s Civilization VI game, six add-on content packs as well as the Rise and Fall and Gathering Storm expansions.\n\nThe Sid Meier\u2019s Civilization VI Platinum Edition contains both major expansion packs: \n\u2022\tCIVILIZATION VI: RISE AND FALL: Experience new game mechanics including Great Ages and Governors, upgrades to the Diplomacy and Government systems, and an additional 8 civilizations, 9 leaders, and several units, districts, wonders, and buildings.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM: Explore an active planet in an expansion that introduces climate changes for the first time in series history. Contend with natural disasters and other new Environmental Effects, complete great Engineering Projects, and manage electrical power. New features including a World Congress, new Diplomatic Victory condition, and an all-new era added to the Technology and Civics tree. Also includes new civilizations, leaders, units, and buildings.",
         "languages": null,
         "size": 9070182400
+    },
+    "70070000012616": {
+        "id": null,
+        "rightsId": null,
+        "name": "Additional character: All characters(ASANO SHIMAI PROJECT Collab)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210803,
+        "nsuId": 70070000012616,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "MUTAN",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5ae67985d7432b795183fdc6db807e4df4097b76297e753d0928f6896d9a9056.jpg",
+        "intro": null,
+        "description": "A total of two \"ASANO SHIMAI PROJECT Collab\" characters will be added.",
+        "languages": null,
+        "size": 6291456
     },
     "70070000012635": {
         "id": null,
