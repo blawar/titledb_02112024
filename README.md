@@ -1,27 +1,6 @@
 # titledb
 
-## titles.US.en.json
-If you are looking for titles.US.en.json, this file was deleted because it was blowing up the size of this repository.  titledb/titles.json is the exact same file as titles.US.en.json, and can be generated with https://github.com/blawar/nut using one of two ways:
-
-### Easy method
-```
-rm titledb/titles.json
-nut.py --import-region US --language en
-```
-
-### Harder method
-do a one time setup of:
-```
-rm titledb
-git clone https://github.com/blawar/titledb titledb
-```
-
-then every day run the following to update:
-```
-git -C titledb pull
-nut.py -U --import-region US --language en
-```
-
+The repository provides metadata only
 
 ### Files
 `{region}.{language}.json` - Mapped by nsuId
@@ -32,9 +11,35 @@ nut.py -U --import-region US --language en
 
 [`ncas.json`](ncas.json) - Mapped by NCA
 
-[`titles.US.en.json`](titles.US.en.json) - Mapped by titleId, used for [Tinfoil](https://tinfoil.io/Download#download)
+[`titles.US.en.json`](titles.US.en.json) - No longer included, see below
 
 [`versions.json`](versions.json) - Mapped by titleId, includes version history
+
+[`versions.txt`](versions.txt) - Mapped by titleId
+
+
+### titles.US.en.json
+If you are looking for `titles.US.en.json`, this file was removed because it changes very frequently and bloats respository size.
+`titledb/titles.json` is the exact same file, and it can be generated with [nut](https://github.com/blawar/nut), using one of two methods:
+
+```sh
+rm titledb/titles.json
+nut.py --import-region US --language en
+```
+
+or
+
+one time setup:
+```sh
+rm titledb
+git clone https://github.com/blawar/titledb titledb
+```
+
+then every day, run the following to update:
+```sh
+git -C titledb pull
+nut.py -U --import-region US --language en
+```
 
 
 ### Online-only titles
@@ -59,4 +64,5 @@ nut.py -U --import-region US --language en
 01008C80122BE800|Skyforge
 0100D9500FC66800|Apex Legends
 010076C01015C800|Spellbreak
+01009EF00DDB4800|Knockout City
 ```
