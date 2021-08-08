@@ -1445,7 +1445,7 @@
             "zh",
             "zh"
         ],
-        "size": 9794748416
+        "size": 8781824000
     },
     "70010000020106": {
         "id": "010058600E530000",
@@ -1679,7 +1679,7 @@
             "zh",
             "zh"
         ],
-        "size": 7327449088
+        "size": 7480541184
     },
     "70010000021365": {
         "id": "0100B0400EBC4000",
@@ -3047,7 +3047,9 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Fear"
+            "Fear",
+            "Implied Violence",
+            "Mild Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -3158,7 +3160,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3b3b5d74c6a3230b7f46037ebaf1e7e466526d1aaa095382d48f82b5a5741b83.jpg",
         "intro": "Train monsters and embark on an epic journey in this charming RPG sequel!",
-        "description": "A new adventure awaits you in this second installment of the turn-based RPG series set in the world of Monster Hunter! Become a Rider and form bonds with friendly monsters known as Monsties to fight alongside them as you take part in an epic story.\n\nYou play as the grandson of Red, a legendary Rider. The story begins with a fateful encounter with Ena, a Wyverian girl who has been entrusted with an egg with the potential to hatch into a legendary Rathalos which could wreak havoc if awakened to its destructive power.\n\nEmbark on a journey which will test the bonds of friendship in a changing world, and discover the truth behind the legends of old.",
+        "description": "A new adventure awaits you in this second instalment of the turn-based RPG series set in the world of Monster Hunter! Become a Rider and form bonds with friendly monsters known as Monsties to fight alongside them as you take part in an epic story.\n\nYou play as the grandchild of Red, a legendary Rider. The story begins with a fateful encounter with Ena, a Wyverian girl who has been entrusted with an egg with the potential to hatch into a legendary Rathalos which could wreak havoc if awakened to its destructive power.\n\nEmbark on a journey which will test the bonds of friendship in a changing world, and discover the truth behind the legends of old.",
         "languages": [
             "ja",
             "en",
@@ -3169,7 +3171,7 @@
             "it",
             "ru"
         ],
-        "size": 14573109248
+        "size": 14692646912
     },
     "70010000028513": {
         "id": "01009B901145C000",
@@ -3691,7 +3693,7 @@
             "ru",
             "zh"
         ],
-        "size": 4366270464
+        "size": 5215617024
     },
     "70010000029645": {
         "id": "0100802011A2A000",
@@ -5897,9 +5899,11 @@
             "Arcade",
             "Shooter"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Disney Interactive",
         "frontBoxArt": null,
@@ -6360,6 +6364,50 @@
         ],
         "size": 1667235840
     },
+    "70010000034176": {
+        "id": "0100B5D012F38000",
+        "rightsId": null,
+        "name": "One Deck Dungeon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210812,
+        "nsuId": 70010000034176,
+        "category": [
+            "Board Game",
+            "Adventure",
+            "Strategy",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Fear",
+            "Implied Violence",
+            "Mild Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Underbite Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2a752bd615b5b1fbaeb4bc01de4074a79fcfc6b9cecea70e87b96b860c7e3cd3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6080802a328a161b3241f178c1657cdaa6e0789b3903aead46c367117a0eed96.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31654c31323b3c2e36ca01c476d43ac3208440d5412230ad30591e79ec5684d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae9bd4170bdc21a8f738f2994f02d21461ab940aabd19d405ec120744d05364b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae20e5cd39dabe5d3fde78935003e872ad96b913579729eed1b3e0b384b1b77e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9279efa08d0878e0445dfd61cd037a4adaed64f298d159eedaa1654440fffd0c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97ce90c98f4733480b6ef3effbb62d014f3bd4739913967fa4a225305e9e1429.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5e389a4199749282602b42980b1ede3ed1d409dfdd6a145efe22b7df21e48006.jpg",
+        "intro": "The hit roguelike with all the fun of a dungeon crawl in a single deck of cards!",
+        "description": "Adventure calls... but you don't always have time to spend hours optimizing your character sheet or managing your inventory! One Deck Dungeon lets you jump right in to bashing down doors, rolling dice, and squashing baddies with style. Get a full roguelike game experience, boiled down to its essence, and captured in a single deck of cards and a handful of dice!\n\nOne Deck Dungeon is a dungeon crawling adventure game. Each time you play, choose one or two of these 9 brave heroes:\n\n\u2022 Mage - There's rarely a problem in the dungeon she can't solve with a spell.\n\u2022 Warrior - Her favorite dungeon activity is squashing her opponents immediately.\n\u2022 Rogue - Watch in awe as she dispatches monsters with style.\n\u2022 Archer - Accurate, brilliant, catastrophically deadly.\n\u2022 Paladin - She seeks out danger and shields her allies from deadly enemies.\n\u2022 Caliana - This faerie has decided that dungeoneering looks fun! Don't let her get bored...\n\u2022 Fanatic - A righteous Sentinel is here to smite evil wherever it may lurk!\n\u2022 Witch - Her chaotic magic hammer is ready to smash glooping oozes into glooping puddles!\n\u2022 Mist - This breach mage has crossed over from the world of Aeon's End to help defend Mynerva.\n\nThere are 7 dangerous challenges to face:\n\n\u2022 Dragon\u2019s Cave - The thick-skinned wyvern who occupies this dungeon prefers her heroes on the crispy side.\n\u2022 Yeti\u2019s Cavern - If you can survive the freezing winds and biting cold, an abominable snowman awaits.\n\u2022 Hydra\u2019s Reef - Chop off one head, and another appears! This regenerating venomous monstrosity is a slippery foe.\n\u2022 Lich\u2019s Tomb - Hordes of undead foes, evil curses, and magical wards. What could possibly go wrong?\n\u2022 Minotaur\u2019s Maze - Abandon all hope, ye who enter here!\n\u2022 Cinder Plains - The Hellhound awaits those reckless enough to venture here...\n\u2022 Phoenix's Den - Only the bravest heroes can handle the heat!\n\nAll cards in One Deck Dungeon have many colorful boxes. Roll your dice, and attempt to fill in as many boxes as possible. For every one you don't fill, you\u2019ll suffer consequences in hearts and time! Once you complete an encounter you'll be able to learn a new skill, acquire a new item, or gain experience to level up your hero. Descend the dungeon and face the boss for the final challenge!\n\nAfter every game, your heroes make progress toward unlocking up to 15 new talents, building up their power for future games.\n\nOnce you know your way around the dungeon, a game takes about 15 minutes. It might take a little longer if you're learning, or a lot shorter if you jump into a pit of spikes.\n\nWarning: do not jump into a pit of spikes.\n\nWelcome to the world of One Deck Dungeon. Adventure awaits!",
+        "languages": [
+            "en"
+        ],
+        "size": 314572800
+    },
     "70010000034205": {
         "id": "010020C012F48000",
         "rightsId": null,
@@ -6811,6 +6859,7 @@
             "Arcade"
         ],
         "ratingContent": [
+            "Implied Violence",
             "Mild Violence"
         ],
         "numberOfPlayers": 1,
@@ -6893,6 +6942,7 @@
             "Arcade"
         ],
         "ratingContent": [
+            "Implied Violence",
             "Mild Violence"
         ],
         "numberOfPlayers": 2,
@@ -6920,7 +6970,7 @@
             "de",
             "it"
         ],
-        "size": 48234496
+        "size": 78643200
     },
     "70010000034679": {
         "id": "0100DDD0131D6000",
@@ -7242,6 +7292,53 @@
         ],
         "size": 3634364416
     },
+    "70010000034883": {
+        "id": "01007B701315E000",
+        "rightsId": null,
+        "name": "The Addams Family: Mansion Mayhem",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70010000034883,
+        "category": [
+            "Action",
+            "Adventure",
+            "Party"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Outright Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/82a7789c2166e29ee06355d1789ff347bd408eb79acb232b18d747ca3c8b8ae3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/451e734d2599e2e5641fbc84711742666e599d1ad017d5086b095f23bf510a8e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e02f081fc3afb8ec06d1f2c88681e2b6a264ace307754c8c1649101966a9f76.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30e0a2ebb8436e646a39c54ae2bc467899d36500c59e64a9cd9ab351601351c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb9f0c869409e59cb58d9abc93f0555eaa36576d6a28b31aed3b313476fc6a1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4ac2858120d9e37e9e62faab6baee7c6b2775b6647f0280f6029f275d055daf6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db2eaa32e65710d6e0715278df6a18c4a616bbfc6dac4a17a9eb7dbf46b2e083.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/59171fa6fe1d7fb852b1e9d423370dd57d4a3cef5490ca3b758127e9b916a56f.jpg",
+        "intro": "Family game night is about to get terrifyingly exciting! Help Wednesday, Pugsley, Gomez, and Morticia save the Addams Family Mansion in this hilarious 3D party adventure.",
+        "description": "Family game night is about to get terrifyingly exciting! Only you and your friends can help Wednesday, Pugsley, Gomez, and Morticia Addams save the Addams Family Mansion in this hilarious new 3D platforming adventure for up to four players.\n\nExplore the mansion\u2019s darkest depths and magical mysteries like never before, to discover secrets and save the legendary house. Use each iconic character\u2019s special abilities, like Gomez\u2019s Mazurka Saber or Wednesday\u2019s pet octopus Socrates, to solve puzzles and find relics that reveal the mansion\u2019s hair-raising history. Play with and against friends in competitive multiplayer minigames that will have you bumping and jumping over each other to win.\n\nIt\u2019s hideous, it\u2019s horrible, it\u2019s home \u2013 so get together and save the Addams Family Mansion for a frighteningly good time! ",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 3073376256
+    },
     "70010000034906": {
         "id": "0100CAA0132D2000",
         "rightsId": null,
@@ -7374,6 +7471,54 @@
             "en"
         ],
         "size": 1566572544
+    },
+    "70010000034957": {
+        "id": "0100C01013302000",
+        "rightsId": null,
+        "name": "A Monster's Expedition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70010000034957,
+        "category": [
+            "Puzzle",
+            "Adventure",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Draknek",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b64e6db6dfa9ab77ffa54e8e6936c667bbb4e14626e1c3ecb5413e369d3b3ff9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e1b95713617fd9b8dfb8607e0283e4ca185a62762841b9b2ae8076eef2760dec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4718137d978ab4a451c1f51044905b0096e53e9f056c63bd5c06f4b265954251.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c36f71fb2a9db54e34faedf34f801f8b4c9baa48150c27613b4657ce9fe50d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3abf7a028156ca6f82d4bbf6437cbc57c64a69ea51d4a027794b779325d12133.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b70479d779de61580cf7ff5023a163f5ff2c4ab323f99af6ca77f809e74b8541.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b5cd72ba0254472b8e51fa43afab855e48b5e2020f76a30b34e06559e73d2d4.jpg",
+        "intro": "(Through Puzzling Exhibitions)",
+        "description": "From some of the best puzzle designers in the world comes A Monster's Expedition, an adorable and relaxing open world puzzle adventure for monsters who love to learn about humans.\n\nBy pushing trees over to create pathways, you\u2019ll explore hundreds of islands near and far to learn about the history of \u201chumanity\u201d.\n\nImmerse yourself in human culture with all-new exhibits from the \"Human Englandland\" dig site, each accompanied with expert insights*!\n*Insights is not a legally binding term and may or may not include idle speculation, rumour and hearsay.\n\n\u2022 Adorable open world puzzle game from the creators of A Good Snowman is Hard to Build and Cosmic Express\n\u2022 Simple but deep mechanics packed with possibilities to discover\n\u2022 Hundreds of islands to visit \u2013 some right in front of you, others well off the beaten track for true puzzle lovers\n\u2022 Learn about the mythical humans from the perspective of curious monsters\n\n\u201cIt's pretty much glorious. I love A Monster's Expedition. I have fallen for it rather hard.\u201d\nEurogamer\n\n\u201c[A Monster's Expedition] never forces an answer out of you, and that's its greatest strength. If you're stuck, simply head in another direction.\u201d\nUSGamer\n\n\u201cIt\u2019s a warm and cosy puzzle game with brain-teasers that will sooth your synapses rather than fry them\u201d\nPC Gamer",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "pt",
+            "es",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 685768704
     },
     "70010000034993": {
         "id": "0100073011382000",
@@ -9069,8 +9214,7 @@
             "Adventure"
         ],
         "ratingContent": [
-            "Fear",
-            "Mild Violence"
+            "Implied Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -9612,9 +9756,11 @@
             "Arcade",
             "Action"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Ultimate Games",
         "frontBoxArt": null,
@@ -10128,6 +10274,7 @@
         "description": "Soar through the skies aboard a majestic warbird, explore a stunning oceanic world and engage in epic aerial dogfights, in this BAFTA nominated air combat game from solo developer, Tomas Sala. \n\nYou take on the role of Falconeer, a powerful airborne warrior traversing a vast oceanic world torn apart by generations of poisonous decisions and dissent. Throughout multiple campaigns, you will experience life from many different perspectives and loyalties as you embark on a journey of discovery, and solve the mystery of the Ursee, its people and history. \n\nProgress through perilous missions and side quests, wielding your lightning caster to protect ships against pirates, kraken and other threats. Dive through the deep ocean depths, soar above the clouds to do battle with giant crab cities or engage in furious dogfights against the mysterious Mancer Order that controls and regulates technology.\n\nThe Falconeer: Warrior Edition includes the fully updated game, plus 'The Hunter' DLC, adding a new player class with a flyable Ormir dragon and a set of pyro pot guided rockets, and the new 'Edge of the World' DLC, containing 3 additional side quests and new boss encounters.\n\nTAKE TO THE SKIES\nExperience the free-flying escapism of flying a giant warbird across a stunning open world. \n\nEXPLORE AN INCREDIBLE UNIVERSE\nDiscover a vast oceanic world filled with lost myths and breathtaking landscapes.\n\nFRENETIC AERIAL COMBAT\nSoar above the clouds and engage in spectacular aerial dogfights.\n\nRIVAL FACTIONS\nJoin and support your faction, taking on missions that may change the fate of your comrades as well as your own.\n\nMULTIPLE CAMPAIGNS\nExperience life as a Falconeer from many different perspectives.\n\nUPGRADE YOUR MOUNT\nSurvive and earn splinters to improve your gear and mount. \n\nFULLY VOICED\nAn incredible voice cast brings to life the world within the Falconeer.\n\nSOUNDS OF THE URSEE\nImmerse yourself in the world of The Falconeer with an award-winning soundtrack.\n\nTOMAS SALA\nThe Falconeer is the sole vision of maverick independent developer, Tomas Sala. ",
         "languages": [
             "en",
+            "pt",
             "es",
             "fr",
             "de",
@@ -10137,7 +10284,7 @@
             "zh",
             "zh"
         ],
-        "size": 1740636160
+        "size": 1742733312
     },
     "70010000037350": {
         "id": "01008F5013E6C000",
@@ -10222,6 +10369,43 @@
             "zh"
         ],
         "size": 708837376
+    },
+    "70010000037392": {
+        "id": "010046D013EB6000",
+        "rightsId": null,
+        "name": "Project AETHER: First Contact",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70010000037392,
+        "category": [
+            "Shooter",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Forever Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fe6ef4664b5ba86fbe1a50ee722d2bc30d0db3605059402705639cd7386174d9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/352730c17e42d7f0f5be5f715231319baf0a3f049c806b40ea9ab4c55bf9555b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05a18d3a29608cadaa73b6c16b13d2f08ddcda4e6a6118dfd6fe26eaf714eba4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e94bf913a811c8a01b412cab28fe27309c84c1fd69f958c1e6ecb252c1c176a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a93db81c88db0d43cf45369a00c01d851cd8394dd9407c22a6871d1afd6ba5e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ee31b4fc57c52efc407bf057a8e4bcb2e3582d9bf55269ad46dd7da3f1b9850.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31825121e06c1bec013948ac13328a368d069cd5f8254fb0d62d0958b9b6adf0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5184796efbdbd5d4258d489a1016531b76130868c3821ddd33b49094042f951f.jpg",
+        "intro": "As a threat from beyond looms over the solar system, take control of the AETHER prototype in this rhythmic and tactical space shooter.",
+        "description": "Fight the alien threat across unique levels, each with a powerful boss to defeat.\n\nCustomize your mech's loadout with an assortment of powerful weapons, including the rapid fire assault rifle, high impact railgun, concentrated particle beam, and more.\n\nChoose your own approach to combat. Pick your foes off with ranged weapons, or get in close with devastating sword strikes. Adapt your tactics to the scenario at hand.\n\nUse the enemy forces to your advantage! As you damage foes they become primed for a powerful EMP blast, which will destroy them and any ships caught in the blast.\n\nProve your prowess with boss rush and survival modes, and get your name on the leaderboard!\n\nA range of difficulty modes allow hardcore players to experience the ultimate challenge, while providing a more forgiving experience for genre newcomers.",
+        "languages": [
+            "en"
+        ],
+        "size": 1406140416
     },
     "70010000037394": {
         "id": "0100B87013EBE000",
@@ -10531,6 +10715,48 @@
             "zh"
         ],
         "size": 6740246528
+    },
+    "70010000037639": {
+        "id": "0100DC4013FFE000",
+        "rightsId": null,
+        "name": "Crimson Spires",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210811,
+        "nsuId": 70010000037639,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Drugs",
+            "Sex",
+            "Strong Language",
+            "Strong Violence",
+            "Nudity"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "eastasiasoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a216912f2082a9710123c3db9b33b06ed52c7e5ebf4c053864b2980f6aaae4b6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/37b97267459dd8100a0ddca14edf3e803853871ca466a1d6f640fea872603776.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e50de63e0a7d05168658f8cd4187123d1a3a023e095a9b20c3811d40a1e1c775.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6dfb9e07518688bf0889bd3d73fa186fcd0f5142acf1ab6614d477c915f119c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23ffe12bf9be2cc75a854d0f10f65a30a9d5664e8dfcb85dedf239e40ad91b33.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/33b4ebff8dafcdaab85a507148368d54f0140f865efd5248e1a47f80679d8c48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/933c08ddd284f888e222d78f21fdd9d4c5e4d169eeb36c88af0fe98de7da3281.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c9e36edf72249702bd161809fa28e35f2461bf3f7ba8f022e7208ccaca2b63e9.jpg",
+        "intro": "Who can you trust as you investigate a town mysteriously cut off from the rest of the world?",
+        "description": "Take the role of Sheriff Erika Wright as an investigation brings her to the small mining town of Bataille, where she is suddenly trapped by a ring of deadly, glowing towers encircling the community. Here she meets residents of a disarming variety, from extreme conspiracy theorists to wealthy vampires and a serial killer. Guide Erika\u2019s decisions as she forms uneasy alliances and finds love through partnership. Amidst the horrors facing Bataille, romance can blossom with the few people Erika might be able to trust. Each possible relationship reveals valuable secrets about the towers and their surrounding mystery.\n\nBlending an eerie atmosphere with romance and supernatural mystery, Crimson Spires presents its otome-style narrative with an uncommon degree of freedom. Along its multiple story paths, the experience shifts between rich 2D character art and 3D exploration, allowing you to investigate building interiors and immersing you in the town of Bataille.\n\nAdditionally, this updated version of Crimson Spires includes New Game Plus content that unlocks after completing all other story routes, interweaving previous narrative threads and bringing Erika\u2019s tale to a climactic finish driven by player choice!\n\nFeatures:\n\n\u2022 Unlock multiple romance paths, each with a distinct narrative.\n\u2022 Immerse yourself in the mystery through a blend of 2D and 3D visual styles.\n\u2022 Freely navigate locales in first-person perspective.\n\u2022 Extend the experience with New Game Plus featuring added story content!\n\u2022 Hear key scenes voiced in English by a diverse and talented cast.\n\u2022 Enjoy an atmospheric soundtrack by developer and composer Jenny Gibbons.",
+        "languages": [
+            "en"
+        ],
+        "size": 5059379200
     },
     "70010000037659": {
         "id": "0100E50013EFE000",
@@ -10879,7 +11105,7 @@
         "languages": [
             "en"
         ],
-        "size": 11561598976
+        "size": 11568939008
     },
     "70010000037835": {
         "id": "0100EC30140B6000",
@@ -11016,7 +11242,7 @@
             "fr",
             "de"
         ],
-        "size": 9907994624
+        "size": 10038018048
     },
     "70010000037972": {
         "id": "01003B5014162000",
@@ -11311,7 +11537,7 @@
         "languages": [
             "en"
         ],
-        "size": 418381824
+        "size": 455081984
     },
     "70010000038084": {
         "id": "010081F00F75C000",
@@ -11930,6 +12156,44 @@
         ],
         "size": 7543455744
     },
+    "70010000038433": {
+        "id": "0100AFC0143B4000",
+        "rightsId": null,
+        "name": "Olympia Soir\u00e9e",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210909,
+        "nsuId": 70010000038433,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Aksys Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0d7b9bc2be741044c4ac57438bfde9e6d8b9c4b1fa6293a4f9039a87c6e32f5f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ae060b55df56b08d530d04145c2c0cc7a46a4bf6334eeecc5cb22dc66a0a654f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/451219360484cd054418ab130d1b2c399cb98ee64b6de757b9b5c531b7a3d449.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f530386a1771b0217afb9f1dcd71d45340d174fd573f6d2bcae3e81ac8131c58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51a992ca5a62617499b25c17489c0045c59ef84c4e2b9220e004bfcf3f558568.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/147adb56336bf01f3142b8048d2742101222d8f1159e545fc61fe84a3f1509f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc38a5fb101527be54c8bb26f05bf24b032a1cc193872376a2743181e0e12348.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7919a82a8d51f0d2491b30a20548e52f7236f2f5c7faff5d8ed2cdfcc4030a9e.jpg",
+        "intro": null,
+        "description": "Restore Light to a Darkened World\n\nThe last surviving member of her clan, Olympia travels to Tenguu Island to perform a ritual to bring back the sun. The heads of each district lead a society governed by rigid class structures. Able to travel between the districts, Olympia discovers their wonders and weaknesses. She searches for a partner to help bring unity to this imperiled land.",
+        "languages": [
+            "en"
+        ],
+        "size": 6154092544
+    },
     "70010000038448": {
         "id": "0100D6F012AE6000",
         "rightsId": null,
@@ -12317,7 +12581,7 @@
             "zh",
             "zh"
         ],
-        "size": 3404726272
+        "size": 3672113152
     },
     "70010000038628": {
         "id": "0100F8F00C4F2000",
@@ -12732,6 +12996,7 @@
             "Arcade"
         ],
         "ratingContent": [
+            "Implied Violence",
             "Mild Violence"
         ],
         "numberOfPlayers": 1,
@@ -13724,11 +13989,9 @@
             "Arcade",
             "Shooter"
         ],
-        "ratingContent": [
-            "Mild Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "JanduSoft",
         "frontBoxArt": null,
@@ -14114,11 +14377,9 @@
             "Platformer",
             "Action"
         ],
-        "ratingContent": [
-            "Mild Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "Sometimes You",
         "frontBoxArt": null,
@@ -16747,9 +17008,11 @@
             "Adventure",
             "Simulation"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Ultimate Games",
         "frontBoxArt": null,
@@ -17742,9 +18005,11 @@
             "Shooter",
             "Arcade"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "HAMSTER",
         "frontBoxArt": null,
@@ -18479,7 +18744,7 @@
             "ru",
             "zh"
         ],
-        "size": 682622976
+        "size": 834666496
     },
     "70010000040700": {
         "id": "010001F014D9A000",
@@ -18527,7 +18792,7 @@
             "ru",
             "zh"
         ],
-        "size": 710934528
+        "size": 782237696
     },
     "70010000040729": {
         "id": "0100A9F014DB6000",
@@ -19448,9 +19713,11 @@
             "Action",
             "Adventure"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Lateralis",
         "frontBoxArt": null,
@@ -20530,6 +20797,50 @@
         ],
         "size": 378535936
     },
+    "70010000041197": {
+        "id": "010011D01505A000",
+        "rightsId": null,
+        "name": "Arcade Archives BIO-SHIP PALADIN",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70010000041197,
+        "category": [
+            "Shooter",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 7,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a5d1553d4a49fa1f7cb6cf456e38e08f2bd88554aae2722320fb5bd83740e93c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bab835ef11ddda76d8a0e997231138d4aef1640fdb3e3f115cb54cc89308e152.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d738134e0fd0a31f07c6d863d75dad4f6944705fa3ff80644b73f9f873e2d28.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df870e903022e50736b8e4f9e604a63803eaeec131c2d5e173f8a7dac0aba690.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b28e342271c24479ff357300f07eba133d25a9136a4b1e8ee72efcef4fd8e4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70433a3b285adacb6b80c749f95ce3e9ed6d42c8771f48bc46044a52c4058284.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d95f5a8851c8207bae2b1c75c27dcd534050aafd7ea6db6f7e0f95a130a533c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e6d1d6f206363181b952e0010a82580b5a627f3115974be030daa93f3c7cd346.jpg",
+        "intro": "A strategic, hardcore shooter!",
+        "description": "\"BIO-SHIP PALADIN\" is a shooting game released by UPL in 1990.\nPlayers use a variety of weapons to defeat bosses, including a main weapon with charge and chain shots, beams that fire toward a crosshairs, and power-ups that enlarge your ship.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 48234496
+    },
     "70010000041201": {
         "id": "010069A01506E000",
         "rightsId": null,
@@ -20585,6 +20896,7 @@
             "Arcade"
         ],
         "ratingContent": [
+            "Implied Violence",
             "Mild Violence"
         ],
         "numberOfPlayers": 2,
@@ -21388,6 +21700,45 @@
         ],
         "size": 1078984704
     },
+    "70010000041378": {
+        "id": "0100D5A01514C000",
+        "rightsId": null,
+        "name": "Instant Farmer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210826,
+        "nsuId": 70010000041378,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Education",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d0e6f1ca7ef17bd93e664aed9572a9dc47ebd25df0908cb22b9e31a78547b993.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9d479d97bc56abcaaf6122e166274584797a1a2d27285fdb3ac80c9adbe2c547.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4927d30e3b574cf81b6ebf6055563888b76da81e1e53d77ed8822dba6d8868d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4146ea4f30954adb26e1130db762f021b7891f37c2eb3621a87457365d3228b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9fcd0ad43a7b7d3c5b7d8da8b935a9fb0b591793bbfb307c0f698154a047e688.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e29477c7297d5eda526aa9853023f24a86f98b1f9735ee41448d02139cb9afc6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1a406ebc7f792fa710901404a970387205bacdb781c98758a0bec6637777d67.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/788baefcd1a86fe21dc65378c5ee22aa6ef6eea715455a04e04d38fb5d918536.jpg",
+        "intro": "Water the soil of your ranch and watch your crop grow.",
+        "description": "A country life, growing a vegetable garden in your own ranch. In this tiny fantasy countryside experience, that is easy to do and very relaxing.\n\nJust keep in mind: water brings life. Swap the blocks of earth, stone, water, and others, like water channels and lawn sprinklers, so that all the arable soil receives the necessary water. Solve the challenge and feel the pleasure of watching the plants instantly grow and bear fruit.\n\nThere is no time limit or resources to manage, so you can calmly just focus on the core mechanics while listening to a soothing soundtrack and animal sounds. Figuring out the patterns of blocks will make it easier to solve the puzzles.\n\nAs you progress solving the challenges, see your farm expand and evolve in the background with new types of vegetables.\n\nWith clean skies, fresh air, and crystal clear water, among birds and listening to the sounds of nature.",
+        "languages": [
+            "en"
+        ],
+        "size": 374341632
+    },
     "70010000041419": {
         "id": "01003CE015180000",
         "rightsId": null,
@@ -22131,6 +22482,46 @@
         ],
         "size": 263192576
     },
+    "70010000041604": {
+        "id": "0100380015262000",
+        "rightsId": null,
+        "name": "Sudoku Classic",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210813,
+        "nsuId": 70010000041604,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Study",
+            "Training"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "G-MODE",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f7c6a8185e71140d0f7689c3b224de26b23931a5f9b461b441df25fc5c1f055b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/115c8d6f59ab17ce42339bba8ab460e378895bf71dcb5097ca0575052741edee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6306cf4dacd73272559a117e027fcf728ae34cfe25af30e2992c27ba921d1d00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/507331704776906c813bd13d4e6dbe290050a87608c3a80641e499f28698ca35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e441dffb9721d577efc30c67996ca0e872baed335d60f9c033cbc203c89926a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16c8a4abd9c9a3e220551c0998efc7b0ce6c5f951bbdc8c7003b0ecb681bd993.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc847c649e4a439fa773c54ec6254b1a1d06948eda82488f8d9f318ff712ffb8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5e029571a87a90ca822156ccd6a7f254450f4d56a08fc8824588e910fe9d2f17.jpg",
+        "intro": "It's like writing with a pen on paper.\nand the ease of playing the game.\nCustomizable Sudoku",
+        "description": "It's a game, but you can play it as if you were writing with a pen on a piece of paper.\nYou can customize the assist function to your liking.\n\n\u25cfYou can customize the assist function and play with your favorite settings.\n\nWe want to keep the paper-and-pencil style, but make it easier to play...!\n\n\u30fbAutomatically check for misspelled numbers.\n\u30fbHighlight squares with the same number as the selected number\n\u30fbHighlight squares in vertical and horizontal columns with the cursor\n\u30fbHighlight squares with the same number as the selected number\n\u30fbChange the design of letters.\n\u30fbDisplay timers.\n\nYou can turn on/off various assist functions such as ...... to your liking.\n\n\u25cfThe game can be played anytime, anywhere, even if it takes a long time.\n\n\u25cfTouch operation is supported.\n\n\u25cfThere are a total of 300 problems in EASY, NORMAL and HARD difficulty levels.\n\nPlayers can enjoy 300 Sudoku puzzles in their own style!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 164626432
+    },
     "70010000041618": {
         "id": "0100C7001526C000",
         "rightsId": null,
@@ -22145,11 +22536,9 @@
             "Action",
             "Puzzle"
         ],
-        "ratingContent": [
-            "Mild Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "eastasiasoft",
         "frontBoxArt": null,
@@ -22401,10 +22790,10 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Mild Violence"
+            "Moderate Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 12,
         "developer": null,
         "publisher": "Artifex Mundi",
         "frontBoxArt": null,
@@ -22520,7 +22909,7 @@
             "en",
             "ko"
         ],
-        "size": 180355072
+        "size": 184549376
     },
     "70010000041767": {
         "id": "01009170152E8000",
@@ -22562,7 +22951,7 @@
             "fr",
             "de"
         ],
-        "size": 155189248
+        "size": 231735296
     },
     "70010000041774": {
         "id": "01002AF014F4C000",
@@ -22694,7 +23083,7 @@
             "ko",
             "zh"
         ],
-        "size": 2737831936
+        "size": 2933915648
     },
     "70010000041818": {
         "id": "0100FC1015302000",
@@ -22944,7 +23333,8 @@
             "Action"
         ],
         "ratingContent": [
-            "Fear"
+            "Fear",
+            "Mild Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -23203,6 +23593,56 @@
             "en"
         ],
         "size": 245366784
+    },
+    "70010000041957": {
+        "id": "0100E95015392000",
+        "rightsId": null,
+        "name": "Arietta of Spirits",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210820,
+        "nsuId": 70010000041957,
+        "category": [
+            "Action",
+            "Adventure",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Fear",
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "RED ART GAMES",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5b7821907c4e018f021ffead487014b1a561fdb5dbb6ae0f1981c51e32886ce3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2b7b041b177267176ef0f88c01fee7ceb937fbd3d559c0fa383e6a54b0fc55dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e0c8fe739e6189848d94f1f925d95def2baa8501d5081ea393fa4108119bc84.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/adae922ba08911641520c8c37d417fffbacb5a3495132094bf4962f6f383d9d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/197c93c06cb33fef62220e16037a3be83fcdc1ae930a08ed25ee36a3e537ec07.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e28ce391a2f5324e5d6c03cc8672838ea298df9be25b22f257477780b565b0e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3c6894379866524f1faeb40bd7955f7101440dece90cae2ead821155be10a229.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6c25988d52abcb374f31f71031d13d9086106a6cccc5509ba8069b8b9615def7.jpg",
+        "intro": "Follow Arietta on her journey to unveil the mysteries of the Spirit Realm!",
+        "description": "Arietta of Spirits is a charming adventure game with emotion-filled narrative, no-filler gameplay, and fast paced combat. The game tells the story of Arietta and her family, visiting their Grandmother's cabin for the first time after her passing away a year prior. However, the family trip takes an unexpected turn when Arietta meets a mysterious new friend and gains the ability to see strange spirits that inhabit the island.\n\n-Explore a mysterious island with lush forests, murky caverns and dark secrets\n-Beautiful retro-styled pixel graphics and inspiring original soundtrack\n-Meet fascinating characters and discover the deep lore\n-Fight a wide range of enemies in reaction based combat\n-Easy to approach game mechanics, suitable for everyone",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 270532608
     },
     "70010000041971": {
         "id": "01004F7015382000",
@@ -23847,6 +24287,46 @@
         ],
         "size": 2042626048
     },
+    "70010000042105": {
+        "id": "0100FF5015416000",
+        "rightsId": null,
+        "name": "Smashroom",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70010000042105,
+        "category": [
+            "Platformer",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Forever Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d0cecc2cc20dffad80cf212a239b66bc856240c3dbd9d6891f839fef76af48e8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ffe05b6ffaf732d958f7fdbc239965ff6371e11f249082ce81fe026057f80d69.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2e2db4960ebbc88b946e902cbbd0308f317b6a99d2f945f1bd2dfaa2930f676.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14551b054ee29696335a2770ba6ac8bb6fedf2c92a3e92b4831dbb972f2912ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75793ddf404ec6c9430fae08696910b3b200f02a74f7fd155bb2a17ddc9b4b72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/01a3a5c1b2df3f403a1da446473b925389a76f052d6101d38202028572fc21a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f58e5ed4c0167186c4c8b536ac518e85409e2b24e22e271d5f429190fa77d6c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5d1230064b1232d4078fce8dbdace6ee48fde79c1202c15702d2eb471ee3c192.jpg",
+        "intro": "A mysterious curse has turned your human body into a small mushroom and your world is invaded by molds, but not all is lost! ",
+        "description": "The faith of the forest is threatened by evil forces. Your new form comes with new abilities. It's up to you to break this spell and save the forest, maybe you'll even get your humanity back!\n\n\"Smashroom\" is an indie platform-adventure.\nThe main character is a small mushroom with the ability to explode at will, making his way through the levels of the game.\nThe explosive-skill can also be used as a \"mid-air jump\" and part of the level design revolves around this characteristic.\nAnother important feature is the simple \"level-up\" system the player can use to improve specific skills, such as the attack rate, the defence, and the special elemental damage. New skill-levels can be reached by collecting points that are obtained from enemies, boxes and destructible rocks.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "it"
+        ],
+        "size": 77594624
+    },
     "70010000042127": {
         "id": "0100B44015420000",
         "rightsId": null,
@@ -24015,7 +24495,7 @@
             "zh",
             "zh"
         ],
-        "size": 1452277760
+        "size": 1453326336
     },
     "70010000042176": {
         "id": "01001AB015446000",
@@ -24269,7 +24749,6 @@
             "Platformer"
         ],
         "ratingContent": [
-            "Fear",
             "Mild Violence"
         ],
         "numberOfPlayers": 1,
@@ -24738,8 +25217,8 @@
             "https://img-eshop.cdn.nintendo.net/i/b3cba04cf536c5976f38be47582cb7fc05b9beb2e3fd114e20d6a03967a3ae8d.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c380c5f5798c29ce19849b6926cea394bd7d2e1b47516c7dd8efdacd02c9fb1.jpg",
-        "intro": "Demons of Asteborg is an action-platform game with elements of Metroidvania. Play as Gareth and stop Zadimus, the powerful demon who wants to take his revenge on Asteborg.",
-        "description": "Demons of Asteborg\u00ae is an original and challenging new 2D game, mixing action, small puzzles and strategy, released on SEGA Mega Drive and Genesis, soon available on Windows, Mac, Linux and Nintendo Switch\u2122. This 16-bit game will bring back many memories for retro fans.\nThe story\n\nLong ago in the Kingdom of Asteborg, a war broke out, pitting humans and demons against each other in a bloody battle. Sagramor, a powerful mercenary, and Maria, a sorceress with fighting magic, joined forces to defeat the demonic army.\nSagramor found a way to lock the demons in an alternate dimension, at the cost of his own life. His sacrifice earned him the title of \"Legend of Asteborg\".\n\nShortly before the end of the war, Maria gave birth to a child named Gareth.\nShe died 4 years later.\n\nGareth was then taken in by the royal orphanage, and Bohort, the leader of the armed troops, saw in him an invaluable potential. He trained him from an early age to become a formidable warrior.\n\nDecades later, Zadimus, the former leader of the Demons, who survived the great war, found a way to reopen the portal to the parallel dimension in order to free his fellow Demons and declare war on the humans in order to take back the Kingdom of Asteborg.\n\nAs Gareth, now the royal guard of Asteborg, you will go on an adventure, braving the lands of the kingdom and its dangerous lands populated by bloodthirsty monsters.\n\nAlong the way, you'll learn more and more about the ancient war and your identity.\nBut beware, Zadimus won't let you get away with it...",
+        "intro": "Demons of Asteborg is an action-platform game, with elements of metroidvania. Play as Gareth and prevent Zadimus from destroying Asteborg! ",
+        "description": "A new action-platform game\nStraight out of the 16-bit era\n\nPlay as Gareth, a knight of the royal guard and defeat the evil forces of Asteborg.\nLearn powerful spells and use them to unlock your path or defeat your enemies.\nCollect gold from the remains of your opponents and purchase upgrades to unlock your full potential!\nPrepare to meet powerful bosses that will give you a hard time.\nForests, Mountains, Swamps and more, explore the world of Asteborg and discover Gareth's mysterious past...\nBut be careful, Zadimus is never far away.",
         "languages": [
             "en",
             "es",
@@ -25127,7 +25606,7 @@
             "https://img-eshop.cdn.nintendo.net/i/902ccd4d5dc9b9598c6e581335fbaf4a06b517b27f8cedf849542d75bba680f6.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1aff71de3ad8f75f2d0aaddd7196285a03389e92e71bc668cd7040b0fc3ab871.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7a3d90bef887edd4b070895664540b2c406e7bf90e656dff380445bab7fda990.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/14dde6d6c6b41341fb498c2ea62b3fafe4075dff00faa39c2b4f06d463f3a152.jpg",
         "intro": "a tiny exploration game",
         "description": "\"I'm getting older, my dear, and I'm not able to take care of the park any longer... Will you help me bring the life back into this place?\"\n\nBe Flint, who is doing his very best to keep his grandma's park up and running and make it a place for the campers to enjoy. Learn the camper's wishes and build whatever their hearts desire to attract even more quirky characters and look forward to whimsical conversations and quests.\n\nGet to know the campers and and learn more about the old stories surrounding the forest. Did someone mention a lost treasure?\n\nHaven Park is a place to relax, to enjoy and to make your own!\n\nKey Features\n- Explore a tiny and peaceful open world and build cozy campsites at your own pace\n- Plenty of quests and a heartfelt story keep you busy for 2-4 hours with many little secrets to uncover\n- Learn new skills that help you make the campers even happier\n- Meet lots of charming characters and learn their needs to make them fall in love with Haven Park",
         "languages": [
@@ -25239,9 +25718,7 @@
             "Other"
         ],
         "ratingContent": [
-            "Fear",
-            "Implied Violence",
-            "Mild Violence"
+            "Implied Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -25265,7 +25742,7 @@
             "en",
             "es"
         ],
-        "size": 2556428288
+        "size": 2558525440
     },
     "70010000042673": {
         "id": "0100C4A015516000",
@@ -25283,11 +25760,9 @@
             "Other",
             "Action"
         ],
-        "ratingContent": [
-            "Mild Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "GAME NACIONAL",
         "frontBoxArt": null,
@@ -25322,11 +25797,9 @@
             "Simulation",
             "Sports"
         ],
-        "ratingContent": [
-            "Implied Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "Game Mavericks",
         "frontBoxArt": null,
@@ -25436,6 +25909,48 @@
         ],
         "size": 185597952
     },
+    "70010000042795": {
+        "id": "01003DF01568C000",
+        "rightsId": null,
+        "name": "Scrap Garden",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210813,
+        "nsuId": 70010000042795,
+        "category": [
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "ChiliDog Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4f08187ae2b0514e64e7050df6da733d1b46e861b047155177a50c631d4e180e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/906556de0c2b009493f187fc00eaf3a4f7d250ffe304853bdcad5a1f0e1a406b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4651629d436d8a8a02c3ea9566ee8d86b1d23b7b0fbb4d92dd08db62fc86cf37.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b20fa2525979a7e7e869b58e89e5d86be6a077717d5c78e517e8cde15dbcfa4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a1916714268e95bc4369667a416cca55cfd53e4edeb81406b8b3a655304657b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e558f7870fbb1d9662bd7fe12b725edfa45b60961bfa76cbd49e08295062020f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca9ed08d5b00fbb0e59a23dfd14c6713e760571828d9e1078cc03260736645be.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1382a1ba4809ac44337d1f21842aca859ca25fb9b95db09327369c8c5a984f20.jpg",
+        "intro": null,
+        "description": "Scrap Garden is an adorable family-friendly puzzle platformer. It tells a thrilling story of Canny, a lonely robot, who awakens in a post-robocalyptic world to find all the other robots shut down and seized up. In a moment our Canny is ready for the adventure to find some answers.\n\nWhat happened to the City? Why did all robots stop moving? Did anyone survive except him? Who knows\u2026 But you\u2019ll be able to learn the truth and try to fix it all with Scrap Garden finally available on consoles! Like someone said before: Scrap Garden may look a little dented, but its heart is definitely in the right place. And that\u2019s what really matters.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 1688207360
+    },
     "70010000042800": {
         "id": "0100FF201568E000",
         "rightsId": null,
@@ -25529,6 +26044,8 @@
             "Puzzle"
         ],
         "ratingContent": [
+            "Fear",
+            "Implied Violence",
             "Mild Violence"
         ],
         "numberOfPlayers": 1,
@@ -25924,6 +26441,47 @@
             "en"
         ],
         "size": 182452224
+    },
+    "70010000042991": {
+        "id": "0100CCA015740000",
+        "rightsId": null,
+        "name": "Pixel Game Maker Series BLOCK SLIME CAVE",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70010000042991,
+        "category": [
+            "Arcade",
+            "Action",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Gotcha Gotcha Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/112bb30546a08d7120bf49e779c0ad3817c935c5ada916266f7d59cf8d84c0f8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/48d1bcc36daab95541b55a68f7d2b2f9c29834fbbb2715f8049772a4f2ad9c0e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38308fa18ec58bc4d38393b7d7246ae29da493edd49a472de78bcf18e2a0e7e3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d592738d196e82f488938224f7be959726cd337030e5fa005f7fb08bb7408c8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b830d4a5116dbfe47d0e063897396af084d370d6612e30dd2016a1935d98bc30.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e23e0ce64e4b8b5c98b3bf7f0e657f3847392b7ad0577d357ceb757f2c28974.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ec28b1d4878eb4eec973b197d15de8656db985f2f360a884d47a410e3b9b8ba.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b0eb22bda9598eb8ce7bde7cd28dfb876339c026dff868b86e8e7e13b6f69ac4.jpg",
+        "intro": "Use slime to get to the goal!\nA puzzle action game that will stick with you!",
+        "description": "Reach new heights in BLOCK SLIME CAVE, a puzzle action game involving the trampoline-like block slimes.\nGet past the various tricks and clear every stage!\n\n2-player cooperative play is available in the 2P Mode, so you can play with your friends and family!\n\nGame Features\nYour key to success: the block slime!\nThere are many different types of block slimes, including big slimes that can overlap to increase your jump height and slimes that can block beams.\n\nMind-boggling tricks!\nIn order to open a door, you need to get a key or flip a switch.\nEnjoy solving a variety of riddles.\nClear stages by leading the NPCs to the goal, but be mindful of the many tricks keeping players busy!\nWill you be able to clear all 50 stages?\n\n2P Mode: Cooperation is essential!\nThere are 30 special stages in this cooperative two players mode.\nThe key to success is to cooperate with each other!\nBuild your teamwork by clearing the stages while working together!\n\n\"Pixel Game Maker Series\" is a series of interesting games created using the game production software \"Pixel Game Maker MV\" (Not available on Nintendo Switch\u2122) for Nintendo Switch.",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 73400320
     },
     "70010000043014": {
         "id": null,
@@ -26736,6 +27294,42 @@
         ],
         "size": 134217728
     },
+    "70010000043407": {
+        "id": "01009E7015954000",
+        "rightsId": null,
+        "name": "Axe Champ!",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210807,
+        "nsuId": 70010000043407,
+        "category": [
+            "Arcade",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Entity3",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6a81de9d33e03609c13f2f4dfc575c6152d95bfae9e060c3bd73ce1be9e6a663.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/018963bce82ae0a780aaa45ba7dc3dab7ef24331adaad0f4585864ca8c1db7da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd3f04101eb26e5eb2a75320a4182252f216e571297352ab163af68590ea0c9e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/55cf845c67622dfee100b0bee4723dd27405254f8549683c4c26dc7203cdbd91.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e811a87607dcb9540bd4be4a27828f1161a455df32bc30a506271917fb76693.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cbea7b8b246bc0fc4e3f03c81c703b19096cb9528f2c3ac87ed7a970d0faa0c8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/afefab4abe12608974e3f73b8cd5fa7531302785da62f26d608c1a0a3f4a9428.jpg",
+        "intro": "Throw axes and smash targets!",
+        "description": "Axe Champ is a axe throwing game!\n\nThrow axes and smash the targets!\nGo all out for the best score!\n\nCool graphics, extremely addictive game-play, amazingly fun !\n\nPlay Axe Champ now!",
+        "languages": [
+            "en"
+        ],
+        "size": 182452224
+    },
     "70010000043420": {
         "id": "010046401595E000",
         "rightsId": null,
@@ -26975,6 +27569,51 @@
         ],
         "size": 574619648
     },
+    "70010000043593": {
+        "id": "01009090159FE000",
+        "rightsId": null,
+        "name": "Poker Champion: Texas Hold'em",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210811,
+        "nsuId": 70010000043593,
+        "category": [
+            "Sports",
+            "Simulation",
+            "Party",
+            "Other"
+        ],
+        "ratingContent": [
+            "Simulated Gambling"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "T-Bull",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a51b0af5f0ca650537ed83a78c5d7d3f80a002f49b9f7bb795969340fa29927b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/db568c7959fc52a8cea6133635ca94fcdee18d08e728fd53c3a267ce7b534d4e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/823adb40f0cfb8cabbe748498ed4ba5637cfc0e8dec0a02d3c0e5d35def3d41d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69ff0c82ba22527205824ab8d61c5dea9d00726a6176ec3add23d7e1690ba68f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/733a2cdc47e100f810cc0ffb965d5aa7c5b0802269b478e3a1c122604669982b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/abd71c2241cc5830a401de362c59dc0e9ffbf9c853f277620b0b4c2c92ef5827.jpg",
+        "intro": "Master your skills in poker and experience the thrill of winning big cash!",
+        "description": "Is your bluff good enough to convince your opponent? Are you brave enough to stake it all? \n\nWant to learn how to play poker? Flush, straight, three-of-a-kind, pair, and what beats what? If you love card games, it doesn't matter whether you're a poker star or just a beginner. Playing our poker game allows you to gain valuable experience! Understand and master the poker hand rankings with Poker Champion: Texas Hold'em! Enjoy a real casino atmosphere and show who rocks!\n\n- COMPETE in tons of challenging TOURNAMENTS! \n- ENJOY real-time TEXAS HOLD 'EM poker!\n- BECOME the best PRO POKER PLAYER and win unique trophies! \n- DISCOVER the REAL POKER experience on your Nintendo Switch\u2122! \n- Log in daily and get EXTRA CASH! \n- Enjoy an ORIGINAL GRAPHIC STYLE of Texas Hold 'Em Poker! \n- FULL SUPPORT for English, French, German, Italian, Russian, Spanish, Polish, and Portuguese!\n\nPlay now and become the best poker player!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 160432128
+    },
     "70010000043661": {
         "id": "0100E33015A32000",
         "rightsId": null,
@@ -27172,6 +27811,84 @@
         ],
         "size": 381681664
     },
+    "70010000043866": {
+        "id": "0100972015984000",
+        "rightsId": null,
+        "name": ".cat Milk",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210813,
+        "nsuId": 70010000043866,
+        "category": [
+            "Adventure",
+            "Platformer",
+            "Lifestyle",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "GAME NACIONAL",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/01c538a5bc07ae63da90426dff3cacf1b875bcc7c257440ab32a7912cd065912.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0eee1f00f5a5a4f7bdc90af704590d4ef22013ddedb78b9cd39509561171eff7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa5a8b84119da071cf1d8361b04162d4807f8613a8f9e200488f38e586b1a519.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c592c44344aa5c7fb1e395f1fa87a5458f04f4339a69615932b0cbc57629b2f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22799c54faa69fb32a5be916696af71a69622e2e60016d97739e8a1180fd250d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c89cac4a2cd7f73db31b148b37487c36ca131e19a52e9aac37959d7178b05a01.jpg",
+        "intro": "This game is for cat lovers!\nJump like a cat",
+        "description": "This is a white little cat who loves to jump and to get into adventures around the town until he finds milk to drink. Once he accomplishes his mission, then it is time to go home. A fluffy white cat.",
+        "languages": [
+            "en",
+            "es",
+            "pt"
+        ],
+        "size": 34603008
+    },
+    "70010000043889": {
+        "id": "0100B9A015AF6000",
+        "rightsId": null,
+        "name": "Whiskey Mafia: Frank's Story",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210813,
+        "nsuId": 70010000043889,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Extreme Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "ChiliDog Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f1efa0119e42f17ad8440cda5d7eacccb4202521208ec9fc1ca8fdc1d037e27f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/db84226f76765f3acdd561aef55b7c20a75f66a5daa44998bc6f08b6df56f427.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f8716298fa98d40258abbc508bf12206f19c5cf55a73b1300c3a43ecbd6d45d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73eaa19c6da9481157a3d5619ec4a7baf9cf40a5c94486e1bf66660bd2be4c36.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94f432945d15d7cb650dd172950473c40f7f0d0b704f570204c31a663550bf56.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e9c40a93f96507c53cc8bf69e324c91da8bce84b9cedce9744592d34869a2eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f2d6896bdb1c03937a173f5dd28aefb1f8367b7dc59a4b6b614360f1f146ac1e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c56da4d1defd9eb8311084b6f95f0493602bafa05e81169203c76385385163b3.jpg",
+        "intro": "Whiskey Mafia: Frank's Story is the new chapter of an ambitious crime story set in New York City in the mid 1920s.",
+        "description": "It tells the story of Frank, a humble and unremarkable postman who dreams of living big time. He receives a letter from his old buddy Leo who was able to successfully survive the horrors of war. Leo proposes to open their own bar as the first business and the first step to a glorious future.\n\nIn all of a sudden, their plans go south as they have to deal with loan sharks, business rivals, bootleggers and other kinds of criminals. The duo has to fight off competitors, raid their warehouses and run things smoothly with their own bar. Do you have what it takes to deal with tension and become a bar owner during one of the hard times of NYC? ",
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "size": 943718400
+    },
     "70010000043922": {
         "id": "010058E015B10000",
         "rightsId": null,
@@ -27337,6 +28054,51 @@
         ],
         "size": 249561088
     },
+    "70010000044124": {
+        "id": "0100A03015C16000",
+        "rightsId": null,
+        "name": "LogScape - Puzzle Game",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210806,
+        "nsuId": 70010000044124,
+        "category": [
+            "Action",
+            "Puzzle",
+            "Board Game",
+            "Strategy"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Digital Game Group",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/36c34d161e28d78e8d2b887440a4395ef97560caf0dbf977e425ea172a64780b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/27a3cade7c287be140b007c316194b05dc694540315c8654ce81acfab99bd58f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a92599e970090b0a6711694f941588419bd0d2afc84a2014f466627e6e433ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0152969cb11602c3eb792be59c8874703fee71a70469fcca4b322ec7a3ac28e3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc7e95a6c4b098ef9a0f8d9716ceb2a1bc9c01e3d2a552e13c5a9a139df3bb05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f3498784c405ba762fd4d3bda273cc1557fbced97b284e87f25e75c0f3e8d8fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b803d7bf63389fdb39137bd5dcab8a49eb3bfec1ce8d125919896b5d959b8ff7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9006b47e31453dbe1b0353c4968cf86ffb7a5da0fee6091c7a30f0b752a1474d.jpg",
+        "intro": null,
+        "description": "Paul Bunyan is locked up in the enchanted woods. Help him solve puzzles by moving the red wooden block out of the box.\n\nOver hundreds of puzzles to play from. Can you be the puzzle master and help Paul Bunyan escape?",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru"
+        ],
+        "size": 98566144
+    },
     "70010000044208": {
         "id": "010052B015B74000",
         "rightsId": null,
@@ -27371,7 +28133,7 @@
         "languages": [
             "en"
         ],
-        "size": 61865984
+        "size": 115343360
     },
     "70010000044243": {
         "id": "010031F015C98000",
@@ -57617,7 +58379,9 @@
             "https://img-eshop.cdn.nintendo.net/i/69d8882b12ee9b5b959d8a1eb77f2071674c19d4198f4c32ef5466edadbf618b.jpg",
             "https://img-eshop.cdn.nintendo.net/i/d15b09fb981157de8b79e58e8557286fa315d7fc27f0730e2eb13d1749dcf44c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/90583e643658924b2abc1ea43287047b358b886eb6172d48166044edb8608307.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/89baf521599019a079057273db5c19d7f041de95207879e43ecd8ea9cede1a84.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/89baf521599019a079057273db5c19d7f041de95207879e43ecd8ea9cede1a84.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b6be619b804afd51ec556f62ac460ff7a625a080cd91f72dee8f198159964965.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8287cac394af06c34ed92b76aaadfd5b6c2733b3f55c2db5ef47071fa2f8afe7.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2375b80b78dbe8201f00467df0c8db09b15ae34208ab43e98286c407f72dd285.jpg",
         "intro": "Enhance your experience with this add-on content!",
@@ -63365,7 +64129,7 @@
         ]
     },
     "70050000027696": {
-        "id": null,
+        "id": "0100E2101144700B",
         "rightsId": null,
         "name": "Rider's Layered Armor: Hakum Rider Outfit",
         "version": null,
@@ -63393,7 +64157,10 @@
         "intro": null,
         "description": "Contains the following content:\n\n\u25cf Rider's Layered Armor: Hakum Rider Outfit\n\nThis content is cosmetic and does not confer any status benefits.\n\nNote: This content can also be obtained by using any of the six amiibo released for the previous title in the series, \"Monster Hunter Stories\". After purchasing, restart the game to receive add-on content. Outfits can be changed using the chest in Your House after progressing the game to a certain point.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100E2101144700B"
+        ]
     },
     "70050000027697": {
         "id": "0100E21011447011",
@@ -65332,7 +66099,7 @@
         ]
     },
     "70050000028043": {
-        "id": null,
+        "id": "0100F59014E8D004",
         "rightsId": null,
         "name": "Clavis",
         "version": null,
@@ -65361,7 +66128,10 @@
         "intro": "The fourth addition to hexceed, bringing 110 exciting new levels!  This world includes the Rotating Tile mechanic that was introduced in Animo!",
         "description": "This DLC unlocks a brand new world for hexceed: Clavis! \n\nThe fourth addition to hexceed, bringing 110 exciting new levels! \nThis world includes the Rotating Tile mechanic that was introduced in Animo!\n\nDo you have the key to unlock the puzzle?",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100F59014E8D004"
+        ]
     },
     "70050000028045": {
         "id": "01002C000B553117",
@@ -68333,6 +69103,33 @@
             "01008E900706505D"
         ]
     },
+    "70050000028706": {
+        "id": null,
+        "rightsId": null,
+        "name": "Island Berry Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70050000028706,
+        "category": null,
+        "ratingContent": [
+            "Mild Swearing"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "althi",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/77547c5be364c7730b0ace03eaf9b436dabd7b2e7fb057c56b101cc9ce5054e4.jpg",
+        "intro": null,
+        "description": "Contents:\n - Island Berry \"Breezy clothes based on the traditional farming attire of the Hamoa Islands.\"\n - Kid's Island Berry \"Breezy kid's clothes based on the traditional farming attire of the Hamoa Islands.\"\n *You can buy it at any time in the game shop( Clothing Store in Castle St. ) when you purchase it.",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000028760": {
         "id": "0100E4701355D001",
         "rightsId": null,
@@ -70057,7 +70854,7 @@
         "intro": "Be Manlier!",
         "description": "Finally, after years of uncertainty, the joke has become a reality. Manlea is real. Manlea is mighty. Manlea is powerful. And Manlea can finally be experienced in the CrossWorlds. Be strong, be full of muscles. We heard you. You wanted to play as a male character in your fictious MMORPG, role-play as a gallant and manly hero who saves the world. Be manlier. Be Manlea. Alright. Now we're out of jokes.\n\nWarning: Buy this DLC at your own risk. It does not change the gameplay. It just unlocks Manlea as a possible Skin. That's it. It might make you manly. It might not. If you buy it, it's your own fault. It does not change the gameplay or dialogues.",
         "languages": null,
-        "size": 0
+        "size": 3145728
     },
     "70050000029375": {
         "id": null,
@@ -70089,7 +70886,7 @@
         "intro": "Ninja time!",
         "description": "This downloadable content is a cosmetic change for the protagonist of the game, Lea. It offers no specific benefits besides looking rather cool. It has been a reward for Indiegogo backers and is now also available for purchase. The Ninja Skin is cool. And that's it.",
         "languages": null,
-        "size": 0
+        "size": 3145728
     },
     "70050000029381": {
         "id": null,
@@ -70119,6 +70916,76 @@
         "description": "Custom Theme \"HOPPING MAPPY\" will be playable by selecting SETTING\uff1eCUSTOM THEME.\n\nHop back to the past with this retro theme!\n\n- After the PAC-MAN 99 service has ended, this custom theme DLC would be unavailable to change within the online 99 match mode.\n\n- If you purchase \u201cMode Unlock\u201d DLC or \u201cDeluxe Pack\u201d which contains Mode Unlock DLC in advance, custom theme DLC will be able to change within off-line one player mode after the PAC-MAN 99 service ended.",
         "languages": null,
         "size": 3145728
+    },
+    "70050000029388": {
+        "id": null,
+        "rightsId": null,
+        "name": "Asphalt 9: Legends \u2013 American Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70050000029388,
+        "category": null,
+        "ratingContent": [
+            "Implied Violence",
+            "Mild Violence",
+            "Users Interact",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Gameloft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c7405ee18030a3b9dedc7fbe111fd7ada7a548c11765488addf1821ed0f67082.jpg",
+        "intro": null,
+        "description": "The American Season is here! \nFeel the adrenaline rush of racing American supercars with this limited-time DLC. Unlock the Ford GT, Dodge Viper ACR, and Ford Shelby GT350R, plus a load of resources to fuel your drive to the top!\n\nThis pack contains:\n- 35 blueprints to unlock the Ford GT\n- 35 blueprints to unlock the Dodge Viper ACR\n- 20 blueprints to unlock the Ford Shelby GT350R\n- 500,000 Credits\n- 500 Tokens",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000029465": {
+        "id": "0100B5D012F39001",
+        "rightsId": null,
+        "name": "Forest of Shadows & Abyssal Depths",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210812,
+        "nsuId": 70050000029465,
+        "category": null,
+        "ratingContent": [
+            "Fear",
+            "Implied Violence",
+            "Mild Violence",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Underbite Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ee69bd2c5f4f56daf73d757f9dc5aa66da2146d1a0e8385c2b5949796dfdebbf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ab9cfc963084fc8fe024ea7c860179324d10fbca902d61c6654ba4fd4f37c27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb2bdd5924c8ad08db967a0a00631d908007e57a7a89bb083ecfa3ef1921f95a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/96fcf22ecc7ec0d78969915a1efa1532f8cc607f7f22777bda15325a81ed10f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c99ed655a942e87361bbf76ada3572cb66a04df59de6eda425af2ad00c5b5bea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ff493fbe0235c21d7261c751ca9f2f044c4c02604c2e0dbd8b128085d3fec54.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2a4482042062d94c3d1180b5999c8549e84292a61c821379255306a771ebe19a.jpg",
+        "intro": null,
+        "description": "New heroes, new dungeons, new perils, new foes, and new mechanisms await in this expansion pack that doubles the content in the game. It features adventures in all-new lush yet deadly locales. A vast network of mossy underground tunnels and connected forest areas await your heroes! \n\n\u2022 7 new heroes - Alchemist, Druid, Hunter, Slayer, Warden, Aquamancer, & Dragoon\n\u2022 5 new dungeons - Lair of Indrax, The Mudlands, Realm of Venom, Smoldering Ruins, & The Vile Roots\n\u2022 6 Fiends, each with two levels of difficulty, who hound you throughout your entire quest to reach the boss\n\u2022 A complete new 44-card encounter deck\n\u2022 Additional progression focuses, basic skills, potions, & more!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100B5D012F39001"
+        ]
     },
     "70070000003681": {
         "id": null,
@@ -71223,9 +72090,9 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5642d395322120d3a717d80d6bb0b0911504fdabef93b6945eb23a074634b35e.jpg",
         "intro": "Train monsters and embark on an epic journey in this charming RPG sequel!",
-        "description": "The Deluxe Edition of Monster Hunter Stories 2 Wings of Ruin contains a variety of additional content to enhance your experience with the game.\n\n \u30fb Ena's Outfit: Kuan Coat\n \u30fb Rider`s Layered Armor: Razewing Armor Alpha \uff06 Beta\n \u30fb Rider`s Hairstyle: Spiky Nergal\n \u30fb Navirou Outfits: Nergigante and Pukei-Pukei Costumes\n \u30fb Sticker Sets: Adventure Buddies 2 & 3\n\nNote: This additional content is also available separately in the Monster Hunter Stories 2: Wings of Ruin Deluxe Kit. Some content will only become useable after progressing through the game.\n\nA new adventure awaits you in this second instalment of the turn-based RPG series set in the world of Monster Hunter! Become a Rider and form bonds with friendly monsters known as Monsties to fight alongside them as you take part in an epic story.\n\nYou play as the grandson of Red, a legendary Rider. The story begins with a fateful encounter with Ena, a Wyverian girl who has been entrusted with an egg with the potential to hatch into a legendary Rathalos which could wreak havoc if awakened to its destructive power.\n\nEmbark on a journey which will test the bonds of friendship in a changing world, and discover the truth behind the legends of old.",
+        "description": "The Deluxe Edition of Monster Hunter Stories 2 Wings of Ruin contains a variety of additional content to enhance your experience with the game.\n\n \u30fb Ena's Outfit: Kuan Coat\n \u30fb Rider`s Layered Armor: Razewing Armor Alpha \uff06 Beta\n \u30fb Rider`s Hairstyle: Spiky Nergal\n \u30fb Navirou Outfits: Nergigante and Pukei-Pukei Costumes\n \u30fb Sticker Sets: Adventure Buddies 2 & 3\n\nNote: This additional content is also available separately in the Monster Hunter Stories 2: Wings of Ruin Deluxe Kit. Some content will only become useable after progressing through the game.\n\nA new adventure awaits you in this second instalment of the turn-based RPG series set in the world of Monster Hunter! Become a Rider and form bonds with friendly monsters known as Monsties to fight alongside them as you take part in an epic story.\n\nYou play as the grandchild of Red, a legendary Rider. The story begins with a fateful encounter with Ena, a Wyverian girl who has been entrusted with an egg with the potential to hatch into a legendary Rathalos which could wreak havoc if awakened to its destructive power.\n\nEmbark on a journey which will test the bonds of friendship in a changing world, and discover the truth behind the legends of old. ",
         "languages": null,
-        "size": 14599323648
+        "size": 14718861312
     },
     "70070000012193": {
         "id": null,
@@ -71343,7 +72210,7 @@
         "intro": "Throw, catch, pass, dodge, and tackle your way to glory!\n",
         "description": "Team up and duke it out with rival Crews in Knockout City*, where you settle the score with EPIC DODGEBALL BATTLES. Brace yourself for outrageous fun and intense competition in an all-new take on team-based multiplayer games. \n\nCustomize your character and form a Crew with friends to start your Knockout City takeover. Knock out opponents with trick shots and coordinated teamwork while dodging and catching balls flying across the map. No ball? No problem! You can literally ball up, roll into a teammate\u2019s hands, and become the ultimate weapon! \n\nA variety of outlandish ball types, locations, and game modes keep it exciting. Plus, each season introduces new maps, ball types, rewards, events, and challenges! Throw, catch, pass, dodge, and tackle your way to dodgeball dominance!\n\nKEY FEATURES:\n\u2022  Frantic and Fun \u2014 Rule the city through lightning-fast multiplayer matches featuring mind-blowing dodgeball mechanics. Increase your attack by passing to power up dodgeballs, targeting your opponents with a variety of specialized balls, or \u201cballing up\u201d at any time to get thrown by teammates! \n\n\u2022  Crew Up \u2014 Assemble an All-Star dodgeball Crew with your friends for multiplayer matches in a seamless cross-play experience! Together, knock out opponents in 3v3, 4v4, or free-for-all matches. Pass, throw, and strategize to dominate as a team and unlock distinctive, Crew-only rewards! \n\n\u2022  Define Your Style \u2014 Show off your status and unique look through character and Crew designs with expansive character creation options. Customize your appearance, gear, and attitude, from body type and hairstyle to a custom glider and Crew vehicle to win, lose, and taunt animations. \n\n\u2022  Take On Knockout City \u2014 Battle it out with other Crews across dynamic maps all over the city. Each map\u2019s special features make every match an intense, unexpected experience. Dodgeball thrives in back alleys with pneumatic tubes, on skyscraper rooftops, across busy streets\u2014and even at the local burger joint and construction sites. While you\u2019re dodging dodgeballs, watch out for moving cars, rooftop drops, and even a wrecking ball or two. \n\n\u2022  Strikingly Fresh Yet Familiar \u2014 It\u2019s easy to pick up and play thanks to familiar controls, but practice is key to becoming a champion. On a level playing field, only the most skilled ballers stand out from the crowd. Use your knowledge to master the intricacies of the game for spectacular KOs.\n",
         "languages": null,
-        "size": 9794748416
+        "size": 8781824000
     },
     "70070000012261": {
         "id": null,
@@ -71377,7 +72244,7 @@
         "intro": "Dominate in style with exclusive Deluxe Edition rewards!\n",
         "description": "Team up and duke it out with rival Crews in style in Knockout City\u2122 Deluxe Edition*, where you settle the score with EPIC DODGEBALL BATTLES. Brace yourself for outrageous fun and intense competition in an all-new take on team-based multiplayer games. \n\nCustomize your character and form a Crew with friends to start your Knockout City takeover. Knock out opponents with trick shots and coordinated teamwork while dodging and catching balls flying across the map. No ball? No problem! You can literally ball up, roll into a teammate\u2019s hands, and become the ultimate weapon! \n\nA variety of outlandish ball types, locations, and game modes keep it exciting. Plus, each season introduces new maps, ball types, rewards, events, and challenges. Throw, catch, pass, dodge, and tackle your way to dodgeball dominance! \n\nThe Deluxe Edition also includes: \n\u2022  1 exclusive Epic outfit\n\u2022  1 exclusive Epic Crew vehicle\n\u2022  3 exclusive Epic Crew logos\n\u2022  3 exclusive Epic Crew banners\n\u2022  1,000 Holobux\n",
         "languages": null,
-        "size": 9797894144
+        "size": 8784969728
     },
     "70070000012331": {
         "id": null,
@@ -71755,7 +72622,7 @@
         "intro": null,
         "description": "A new SAMURAI WARRIORS begins\nAfter a 7-year wait, a new instalment in the tactical action series \"SAMURAI WARRIORS\" is finally here!\n\nWith this title, the historical period depicted in the first title of the \"SAMURAI WARRIORS\" series released in 2004 has been revamped.\nWith visuals that have largely evolved since the first \"SAMURAI WARRIORS\", additional WARRIORS officers, and evolved actions, an even deeper drama set in the warring states is depicted.\nAlso, with a focus on the lives of officers Nobunaga Oda and Mitsuhide Akechi, in order to more intensely and boldly depict the warring states era spanning from the end of the \u014cnin War to the Incident at Honn\u014dji, the title is the beginning of a new series, in which the stories and characters from the traditional \"SAMURAI WARRIORS\" have been revamped.\n\nFeatures of \"SAMURAI WARRIORS 5\"\n\u25a0With officers whose designs have been revamped, as well as new officers, a total of 27 Samurai Warriors join the battle.\nOfficers such as a young Nobunaga Oda, known as the \"Great Fool\", and daimy\u014d Yoshimoto Imagawa, who was called the \"Greatest Archer in all of Kaid\u014d\", appear with new designs that match the setting of this title.\nAlso, new officers such as Toshimitsu Sait\u014d, a retainer of Mitsuhide Akechi, as well as K\u014dga ninja Mitsuki join the battle. A total of 27 Samurai Warriors  interweave their fates to create a dramatic warring states era.\n\n\u25a0WARRIORS actions are more thrilling and dazzling than ever before\nIn this title, players can once again enjoy the \"thrill of sending enemies flying\" that the WARRIORS series is renowned for.\nAnd with new actions that have been added with this title, as well as new depictions that give off a Japanese flair, the WARRIORS actions have become even more stunning.\n\nFeatures of the \"SAMURAI WARRIORS 5 Deluxe Edition\"\nA valuable set that, in addition to the game, includes the content below.\n[Deluxe Edition Bonuses]\n - Special Blade Rift Blade\n - Special Katana Masterpiece\n - Special Spear Sharpened Fang Spear\n - Special Bow Sky Piercer\n - Special Horse\n - Special Skill Gem Set\n - Items\n\n[Season Pass]\nA pass that allows you to obtain a variety of DLC available after the game's release at a discount.\n[Season Pass Content] (Planned to be released by the end of September 2021)\n - Additional Scenario & BGM Sets (6)\n - Additional Weapons Sets (5) (each set has 3 weapons)\n - Additional Horses (6) \n[Season Pass Bonus]\nAllows you to obtain items that can be used to upgrade in-game characters, funds that can be used to upgrade or purchase weapons, and more.\nNote: Details about the DLC released with the Season Pass as well as their release period will be announced later. Please check the official website.",
         "languages": null,
-        "size": 9939451904
+        "size": 10069475328
     },
     "70070000012392": {
         "id": null,
@@ -72526,6 +73393,38 @@
         "size": 12582912,
         "ids": []
     },
+    "70070000012559": {
+        "id": null,
+        "rightsId": null,
+        "name": "Evolution & Climate Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210807,
+        "nsuId": 70070000012559,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "North Star Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/60b2e3943a4a0dc6654bb8d7c7ccecc11cbcbc793f45a3fac27c8044ff797592.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a569eab89a8b21de744f03686b0930cc31120c74361bbeb23cc77d74fa345ec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36283a18cc2d19556aa6e4dc4365f0892074b6dd82542714700fb55aa742b9d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c448d7185610a9afd491bbaf1fdac427b064842afffde731ff0780f275b505dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6911a9777aaa89aad3838b1535f467101e1304c87693c0699882fbf874ce38bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/084c6905a543306661411d4a3b7b66c8195f1ff7c2c403c64348ff32efedce9f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/133b27b2c27c0216e0bd20ed1c31cdb62048ba91186e5fbf14567d36b61ac51d.jpg",
+        "intro": "Get Climate and Evolution Digital Board Games together and save.  ",
+        "description": "The Climate can swing between scorching hot and icy cold environments, affecting creatures big and small in different ways, while Events such as Wildfires or Comets can change the outcome of a game. \nThis bundle also includes the Evolution Base Game, which includes the full campaign, the Hard and Expert AI, Weekly Challenges, Pass & Play, private multiplayer games and unlimited matchmade multiplayer.  ",
+        "languages": null,
+        "size": 1534066688
+    },
     "70070000012561": {
         "id": null,
         "rightsId": null,
@@ -72933,6 +73832,36 @@
         "description": "A delightfully cute action-adventure RPG with farming and crafting - Armed with a sword, bow, and spellbook, fight against a rising darkness threatening the world. Plunder dungeons in search of relics and resources, tend to your farm to grow your own provisions, and work with your village neighbors to craft new gear. \n\nWelcome to the world of Kitaria - A peaceful land where nature lives in harmony - until now. As the wildlife around Paw Village becomes increasingly aggressive, The Empire has called upon you to investigate and defend its citizens.\n\nReal-time Combat - Wield melee weapons, bows, and forge new spells. Kit your loadout in a way that suits your preferred style of battle and craft magic, weapons, and armor which compliment your play style. \n\nLearn an Ancient Magic - When an age-old spellbook comes into your possession, use it to learn a kind of magic long-ago outlawed by The Empire - and give you the edge in combat! \n\nGather, Craft and Farm! - Kitaria is full of resources for you to use to your advantage! Slay monsters for ingredients, plant seeds and tend to your crops for provisions, and gather materials and ores to craft more powerful weapons, armor, and accessories. \n\nMake Your Home in Paw Village - Kitaria is full of friendly (and not so friendly!) citizens. Make yourself known to your neighbors and fulfill their requests. The more you bond with your new friends, the more rewards you will receive as your relationships grow! \n\nLocal Co-Op Mode \u2013 Take on quests solo, or with a friend! Double your firepower and use the freedom of Kitaria Fables' flexible combat system to complement each other's strengths.\n\nCustomize Nyanza's appearance with the following items:\n- Sakura Skin\n- Pink Wings\n- Black Cat Skin\n- Evil Horns\n- Phantom Wings\n- Blue Cat Skin\n- Blue Mythical Wings\n- Siamese Skin\n- Bengal Skin\n- Beach Hat\n- Gladiator Helmet\n- Dark Mythical Wings\n- Green Mythical Wings\n- Red Mythical Wings\n- Dark Butterfly Wings",
         "languages": null,
         "size": 1611661312
+    },
+    "70070000012694": {
+        "id": null,
+        "rightsId": null,
+        "name": "Asphalt 9: Legends \u2013 American Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210805,
+        "nsuId": 70070000012694,
+        "category": null,
+        "ratingContent": [
+            "Implied Violence",
+            "Mild Violence",
+            "Users Interact",
+            "In-game purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Gameloft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c7405ee18030a3b9dedc7fbe111fd7ada7a548c11765488addf1821ed0f67082.jpg",
+        "intro": null,
+        "description": "The American Season is here! \nFeel the adrenaline rush of racing American supercars with this limited-time DLC. Unlock the Ford GT, Dodge Viper ACR, and Ford Shelby GT350R, plus a load of resources to fuel your drive to the top!\n\nThis bundle contains:\n- The Asphalt 9: Legends game\n- 35 blueprints to unlock the Ford GT\n- 35 blueprints to unlock the Dodge Viper ACR\n- 20 blueprints to unlock the Ford Shelby GT350R\n- 500,000 Credits\n- 500 Tokens\n\n",
+        "languages": null,
+        "size": 3195011072
     },
     "70070000012715": {
         "id": null,
