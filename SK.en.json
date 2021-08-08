@@ -1445,7 +1445,7 @@
             "zh",
             "zh"
         ],
-        "size": 9794748416
+        "size": 8781824000
     },
     "70010000020106": {
         "id": "010058600E530000",
@@ -1679,7 +1679,7 @@
             "zh",
             "zh"
         ],
-        "size": 7327449088
+        "size": 7480541184
     },
     "70010000021365": {
         "id": "0100B0400EBC4000",
@@ -3001,7 +3001,9 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Fear"
+            "Fear",
+            "Implied Violence",
+            "Mild Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -3645,7 +3647,7 @@
             "ru",
             "zh"
         ],
-        "size": 4366270464
+        "size": 5215617024
     },
     "70010000029645": {
         "id": "0100802011A2A000",
@@ -5851,9 +5853,11 @@
             "Arcade",
             "Shooter"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Disney Interactive",
         "frontBoxArt": null,
@@ -6809,6 +6813,7 @@
             "Arcade"
         ],
         "ratingContent": [
+            "Implied Violence",
             "Mild Violence"
         ],
         "numberOfPlayers": 1,
@@ -6891,6 +6896,7 @@
             "Arcade"
         ],
         "ratingContent": [
+            "Implied Violence",
             "Mild Violence"
         ],
         "numberOfPlayers": 2,
@@ -6918,7 +6924,7 @@
             "de",
             "it"
         ],
-        "size": 48234496
+        "size": 78643200
     },
     "70010000034679": {
         "id": "0100DDD0131D6000",
@@ -9162,8 +9168,7 @@
             "Adventure"
         ],
         "ratingContent": [
-            "Fear",
-            "Mild Violence"
+            "Implied Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -9603,7 +9608,7 @@
             "zh",
             "zh"
         ],
-        "size": 9460252672
+        "size": 9730785280
     },
     "70010000036851": {
         "id": "0100691013C46000",
@@ -9705,9 +9710,11 @@
             "Arcade",
             "Action"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Ultimate Games",
         "frontBoxArt": null,
@@ -10221,6 +10228,7 @@
         "description": "Soar through the skies aboard a majestic warbird, explore a stunning oceanic world and engage in epic aerial dogfights, in this BAFTA nominated air combat game from solo developer, Tomas Sala. \n\nYou take on the role of Falconeer, a powerful airborne warrior traversing a vast oceanic world torn apart by generations of poisonous decisions and dissent. Throughout multiple campaigns, you will experience life from many different perspectives and loyalties as you embark on a journey of discovery, and solve the mystery of the Ursee, its people and history. \n\nProgress through perilous missions and side quests, wielding your lightning caster to protect ships against pirates, kraken and other threats. Dive through the deep ocean depths, soar above the clouds to do battle with giant crab cities or engage in furious dogfights against the mysterious Mancer Order that controls and regulates technology.\n\nThe Falconeer: Warrior Edition includes the fully updated game, plus 'The Hunter' DLC, adding a new player class with a flyable Ormir dragon and a set of pyro pot guided rockets, and the new 'Edge of the World' DLC, containing 3 additional side quests and new boss encounters.\n\nTAKE TO THE SKIES\nExperience the free-flying escapism of flying a giant warbird across a stunning open world. \n\nEXPLORE AN INCREDIBLE UNIVERSE\nDiscover a vast oceanic world filled with lost myths and breathtaking landscapes.\n\nFRENETIC AERIAL COMBAT\nSoar above the clouds and engage in spectacular aerial dogfights.\n\nRIVAL FACTIONS\nJoin and support your faction, taking on missions that may change the fate of your comrades as well as your own.\n\nMULTIPLE CAMPAIGNS\nExperience life as a Falconeer from many different perspectives.\n\nUPGRADE YOUR MOUNT\nSurvive and earn splinters to improve your gear and mount. \n\nFULLY VOICED\nAn incredible voice cast brings to life the world within the Falconeer.\n\nSOUNDS OF THE URSEE\nImmerse yourself in the world of The Falconeer with an award-winning soundtrack.\n\nTOMAS SALA\nThe Falconeer is the sole vision of maverick independent developer, Tomas Sala. ",
         "languages": [
             "en",
+            "pt",
             "es",
             "fr",
             "de",
@@ -10230,7 +10238,7 @@
             "zh",
             "zh"
         ],
-        "size": 1740636160
+        "size": 1742733312
     },
     "70010000037350": {
         "id": "01008F5013E6C000",
@@ -11051,7 +11059,7 @@
         "languages": [
             "en"
         ],
-        "size": 11561598976
+        "size": 11568939008
     },
     "70010000037835": {
         "id": "0100EC30140B6000",
@@ -11483,7 +11491,7 @@
         "languages": [
             "en"
         ],
-        "size": 418381824
+        "size": 455081984
     },
     "70010000038084": {
         "id": "010081F00F75C000",
@@ -12527,7 +12535,7 @@
             "zh",
             "zh"
         ],
-        "size": 3404726272
+        "size": 3672113152
     },
     "70010000038628": {
         "id": "0100F8F00C4F2000",
@@ -12942,6 +12950,7 @@
             "Arcade"
         ],
         "ratingContent": [
+            "Implied Violence",
             "Mild Violence"
         ],
         "numberOfPlayers": 1,
@@ -13934,11 +13943,9 @@
             "Arcade",
             "Shooter"
         ],
-        "ratingContent": [
-            "Mild Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "JanduSoft",
         "frontBoxArt": null,
@@ -14324,11 +14331,9 @@
             "Platformer",
             "Action"
         ],
-        "ratingContent": [
-            "Mild Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "Sometimes You",
         "frontBoxArt": null,
@@ -16957,9 +16962,11 @@
             "Adventure",
             "Simulation"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Ultimate Games",
         "frontBoxArt": null,
@@ -17952,9 +17959,11 @@
             "Shooter",
             "Arcade"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 2,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "HAMSTER",
         "frontBoxArt": null,
@@ -18737,7 +18746,7 @@
             "ru",
             "zh"
         ],
-        "size": 710934528
+        "size": 782237696
     },
     "70010000040729": {
         "id": "0100A9F014DB6000",
@@ -19658,9 +19667,11 @@
             "Action",
             "Adventure"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Lateralis",
         "frontBoxArt": null,
@@ -20839,6 +20850,7 @@
             "Arcade"
         ],
         "ratingContent": [
+            "Implied Violence",
             "Mild Violence"
         ],
         "numberOfPlayers": 2,
@@ -22478,11 +22490,9 @@
             "Action",
             "Puzzle"
         ],
-        "ratingContent": [
-            "Mild Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "eastasiasoft",
         "frontBoxArt": null,
@@ -22734,10 +22744,10 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Mild Violence"
+            "Moderate Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 12,
         "developer": null,
         "publisher": "Artifex Mundi",
         "frontBoxArt": null,
@@ -22853,7 +22863,7 @@
             "en",
             "ko"
         ],
-        "size": 180355072
+        "size": 184549376
     },
     "70010000041767": {
         "id": "01009170152E8000",
@@ -22895,7 +22905,7 @@
             "fr",
             "de"
         ],
-        "size": 155189248
+        "size": 231735296
     },
     "70010000041774": {
         "id": "01002AF014F4C000",
@@ -23277,7 +23287,8 @@
             "Action"
         ],
         "ratingContent": [
-            "Fear"
+            "Fear",
+            "Mild Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -24481,7 +24492,7 @@
             "zh",
             "zh"
         ],
-        "size": 1452277760
+        "size": 1453326336
     },
     "70010000042176": {
         "id": "01001AB015446000",
@@ -24735,7 +24746,6 @@
             "Platformer"
         ],
         "ratingContent": [
-            "Fear",
             "Mild Violence"
         ],
         "numberOfPlayers": 1,
@@ -25204,8 +25214,8 @@
             "https://img-eshop.cdn.nintendo.net/i/b3cba04cf536c5976f38be47582cb7fc05b9beb2e3fd114e20d6a03967a3ae8d.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c380c5f5798c29ce19849b6926cea394bd7d2e1b47516c7dd8efdacd02c9fb1.jpg",
-        "intro": "Demons of Asteborg is an action-platform game with elements of Metroidvania. Play as Gareth and stop Zadimus, the powerful demon who wants to take his revenge on Asteborg.",
-        "description": "Demons of Asteborg\u00ae is an original and challenging new 2D game, mixing action, small puzzles and strategy, released on SEGA Mega Drive and Genesis, soon available on Windows, Mac, Linux and Nintendo Switch\u2122. This 16-bit game will bring back many memories for retro fans.\nThe story\n\nLong ago in the Kingdom of Asteborg, a war broke out, pitting humans and demons against each other in a bloody battle. Sagramor, a powerful mercenary, and Maria, a sorceress with fighting magic, joined forces to defeat the demonic army.\nSagramor found a way to lock the demons in an alternate dimension, at the cost of his own life. His sacrifice earned him the title of \"Legend of Asteborg\".\n\nShortly before the end of the war, Maria gave birth to a child named Gareth.\nShe died 4 years later.\n\nGareth was then taken in by the royal orphanage, and Bohort, the leader of the armed troops, saw in him an invaluable potential. He trained him from an early age to become a formidable warrior.\n\nDecades later, Zadimus, the former leader of the Demons, who survived the great war, found a way to reopen the portal to the parallel dimension in order to free his fellow Demons and declare war on the humans in order to take back the Kingdom of Asteborg.\n\nAs Gareth, now the royal guard of Asteborg, you will go on an adventure, braving the lands of the kingdom and its dangerous lands populated by bloodthirsty monsters.\n\nAlong the way, you'll learn more and more about the ancient war and your identity.\nBut beware, Zadimus won't let you get away with it...",
+        "intro": "Demons of Asteborg is an action-platform game, with elements of metroidvania. Play as Gareth and prevent Zadimus from destroying Asteborg! ",
+        "description": "A new action-platform game\nStraight out of the 16-bit era\n\nPlay as Gareth, a knight of the royal guard and defeat the evil forces of Asteborg.\nLearn powerful spells and use them to unlock your path or defeat your enemies.\nCollect gold from the remains of your opponents and purchase upgrades to unlock your full potential!\nPrepare to meet powerful bosses that will give you a hard time.\nForests, Mountains, Swamps and more, explore the world of Asteborg and discover Gareth's mysterious past...\nBut be careful, Zadimus is never far away.",
         "languages": [
             "en",
             "es",
@@ -25593,7 +25603,7 @@
             "https://img-eshop.cdn.nintendo.net/i/902ccd4d5dc9b9598c6e581335fbaf4a06b517b27f8cedf849542d75bba680f6.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1aff71de3ad8f75f2d0aaddd7196285a03389e92e71bc668cd7040b0fc3ab871.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7a3d90bef887edd4b070895664540b2c406e7bf90e656dff380445bab7fda990.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/14dde6d6c6b41341fb498c2ea62b3fafe4075dff00faa39c2b4f06d463f3a152.jpg",
         "intro": "a tiny exploration game",
         "description": "\"I'm getting older, my dear, and I'm not able to take care of the park any longer... Will you help me bring the life back into this place?\"\n\nBe Flint, who is doing his very best to keep his grandma's park up and running and make it a place for the campers to enjoy. Learn the camper's wishes and build whatever their hearts desire to attract even more quirky characters and look forward to whimsical conversations and quests.\n\nGet to know the campers and and learn more about the old stories surrounding the forest. Did someone mention a lost treasure?\n\nHaven Park is a place to relax, to enjoy and to make your own!\n\nKey Features\n- Explore a tiny and peaceful open world and build cozy campsites at your own pace\n- Plenty of quests and a heartfelt story keep you busy for 2-4 hours with many little secrets to uncover\n- Learn new skills that help you make the campers even happier\n- Meet lots of charming characters and learn their needs to make them fall in love with Haven Park",
         "languages": [
@@ -25705,9 +25715,7 @@
             "Other"
         ],
         "ratingContent": [
-            "Fear",
-            "Implied Violence",
-            "Mild Violence"
+            "Implied Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -25749,11 +25757,9 @@
             "Other",
             "Action"
         ],
-        "ratingContent": [
-            "Mild Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "GAME NACIONAL",
         "frontBoxArt": null,
@@ -25788,11 +25794,9 @@
             "Simulation",
             "Sports"
         ],
-        "ratingContent": [
-            "Implied Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "Game Mavericks",
         "frontBoxArt": null,
@@ -26037,6 +26041,8 @@
             "Puzzle"
         ],
         "ratingContent": [
+            "Fear",
+            "Implied Violence",
             "Mild Violence"
         ],
         "numberOfPlayers": 1,
@@ -70973,7 +70979,7 @@
         "intro": null,
         "description": "New heroes, new dungeons, new perils, new foes, and new mechanisms await in this expansion pack that doubles the content in the game. It features adventures in all-new lush yet deadly locales. A vast network of mossy underground tunnels and connected forest areas await your heroes! \n\n\u2022 7 new heroes - Alchemist, Druid, Hunter, Slayer, Warden, Aquamancer, & Dragoon\n\u2022 5 new dungeons - Lair of Indrax, The Mudlands, Realm of Venom, Smoldering Ruins, & The Vile Roots\n\u2022 6 Fiends, each with two levels of difficulty, who hound you throughout your entire quest to reach the boss\n\u2022 A complete new 44-card encounter deck\n\u2022 Additional progression focuses, basic skills, potions, & more!",
         "languages": null,
-        "size": 0,
+        "size": 3145728,
         "ids": [
             "0100B5D012F39001"
         ]
@@ -72201,7 +72207,7 @@
         "intro": "Throw, catch, pass, dodge, and tackle your way to glory!\n",
         "description": "Team up and duke it out with rival Crews in Knockout City*, where you settle the score with EPIC DODGEBALL BATTLES. Brace yourself for outrageous fun and intense competition in an all-new take on team-based multiplayer games. \n\nCustomize your character and form a Crew with friends to start your Knockout City takeover. Knock out opponents with trick shots and coordinated teamwork while dodging and catching balls flying across the map. No ball? No problem! You can literally ball up, roll into a teammate\u2019s hands, and become the ultimate weapon! \n\nA variety of outlandish ball types, locations, and game modes keep it exciting. Plus, each season introduces new maps, ball types, rewards, events, and challenges! Throw, catch, pass, dodge, and tackle your way to dodgeball dominance!\n\nKEY FEATURES:\n\u2022  Frantic and Fun \u2014 Rule the city through lightning-fast multiplayer matches featuring mind-blowing dodgeball mechanics. Increase your attack by passing to power up dodgeballs, targeting your opponents with a variety of specialized balls, or \u201cballing up\u201d at any time to get thrown by teammates! \n\n\u2022  Crew Up \u2014 Assemble an All-Star dodgeball Crew with your friends for multiplayer matches in a seamless cross-play experience! Together, knock out opponents in 3v3, 4v4, or free-for-all matches. Pass, throw, and strategize to dominate as a team and unlock distinctive, Crew-only rewards! \n\n\u2022  Define Your Style \u2014 Show off your status and unique look through character and Crew designs with expansive character creation options. Customize your appearance, gear, and attitude, from body type and hairstyle to a custom glider and Crew vehicle to win, lose, and taunt animations. \n\n\u2022  Take On Knockout City \u2014 Battle it out with other Crews across dynamic maps all over the city. Each map\u2019s special features make every match an intense, unexpected experience. Dodgeball thrives in back alleys with pneumatic tubes, on skyscraper rooftops, across busy streets\u2014and even at the local burger joint and construction sites. While you\u2019re dodging dodgeballs, watch out for moving cars, rooftop drops, and even a wrecking ball or two. \n\n\u2022  Strikingly Fresh Yet Familiar \u2014 It\u2019s easy to pick up and play thanks to familiar controls, but practice is key to becoming a champion. On a level playing field, only the most skilled ballers stand out from the crowd. Use your knowledge to master the intricacies of the game for spectacular KOs.\n",
         "languages": null,
-        "size": 9794748416
+        "size": 8781824000
     },
     "70070000012261": {
         "id": null,
@@ -72235,7 +72241,7 @@
         "intro": "Dominate in style with exclusive Deluxe Edition rewards!\n",
         "description": "Team up and duke it out with rival Crews in style in Knockout City\u2122 Deluxe Edition*, where you settle the score with EPIC DODGEBALL BATTLES. Brace yourself for outrageous fun and intense competition in an all-new take on team-based multiplayer games. \n\nCustomize your character and form a Crew with friends to start your Knockout City takeover. Knock out opponents with trick shots and coordinated teamwork while dodging and catching balls flying across the map. No ball? No problem! You can literally ball up, roll into a teammate\u2019s hands, and become the ultimate weapon! \n\nA variety of outlandish ball types, locations, and game modes keep it exciting. Plus, each season introduces new maps, ball types, rewards, events, and challenges. Throw, catch, pass, dodge, and tackle your way to dodgeball dominance! \n\nThe Deluxe Edition also includes: \n\u2022  1 exclusive Epic outfit\n\u2022  1 exclusive Epic Crew vehicle\n\u2022  3 exclusive Epic Crew logos\n\u2022  3 exclusive Epic Crew banners\n\u2022  1,000 Holobux\n",
         "languages": null,
-        "size": 9797894144
+        "size": 8784969728
     },
     "70070000012331": {
         "id": null,
@@ -73001,7 +73007,7 @@
         "intro": null,
         "description": "The King's Bounty II Lord's Edition contains the Main game and the following content:\n\n\u2022 Rod of Deception \n\u2022 Frosthammer \n\u2022 Staff of Harmony \n\u2022 Tyrant's Sword \n\u2022 Armor of the Hollow\n\u2022 Heroes & Villains Premium Pack\n\u2022 King\u2018s Watchdogs\n\nKing's Bounty II\n\nDarkness descends over the world of Nostria. Conspiracies, sabotage, and necromancy are overshadowing the country. But maybe a saviour \u2013 the kingdom's last hope \u2013 is already here, to fight back and finally restore peace and order in Nostria! \n\nKing\u2019s Bounty II is the long-awaited sequel to the legendary King\u2019s Bounty video games franchise, one of the most iconic representatives of the turn-based RPG genre. Expanding on this legacy with an entirely new epic story, fractions, enemies, and new features to forge an open and breaking fantasy world Antara. With the kingdoms in disarray, counties demanding independence, bandits prowl the roads, all the overseas nations have denied the King\u2019s authority over them, and blighted creatures lie in wait for the unwary, new accidental heroes emerge as last hope. \n\nThey determined to bring order to the chaos. Plays as one of them, recruiting, developing, and commanding your personal army on a non-linear adventure of betrayal, sacrifice, and survival. Fighting for your own future, outsmarting enemy in uniquely turn-based combat, making difficult decisions, and experience the intensity of one of the classic sagas in an exciting new way.",
         "languages": null,
-        "size": 9463398400
+        "size": 9733931008
     },
     "70070000012467": {
         "id": null,

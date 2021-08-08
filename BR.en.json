@@ -5651,7 +5651,7 @@
             "zh",
             "zh"
         ],
-        "size": 9794748416
+        "size": 8781824000
     },
     "70010000020489": {
         "id": "01001C100E772000",
@@ -7616,7 +7616,7 @@
             "ru",
             "zh"
         ],
-        "size": 4366270464
+        "size": 5215617024
     },
     "70010000029648": {
         "id": "0100802011A2A000",
@@ -12333,7 +12333,7 @@
             "zh",
             "zh"
         ],
-        "size": 9460252672
+        "size": 9730785280
     },
     "70010000036850": {
         "id": "0100691013C46000",
@@ -15198,7 +15198,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af5246b2f01dee8111a70bcb3f556e65a492801d6677d0ab0f17b566a7b0285b.jpg",
         "intro": "Golf with a Mushroom Kingdom twist!",
-        "description": "Hit the green with up to four players locally* or online** and golf with friends from the Super Mario\u2122 series like Mario, Peach, Yoshi, and more! Modes range from Standard Golf to the energetic Speed Golf and an exciting Golf Adventure. Simple motion or button controls make it easy for both new players and seasoned pros to drive and putt.\n\nPick up the pace in Speed Golf and Battle Golf\n\nTee off at the same time with up to three other players* and race through the course to get your ball in first. Mayhem is par for the course as you hinder your opponents with dashes and Special Shots. Yoshi can dash atop a giant egg and King Bob-omb can pelt the green with explosions! In Battle Golf, watch out for obstacles like Thwomps, Chain Chomps, and banana peels as you navigate the neon-themed Super Golf Stadium.\n\nRise through the ranks in Golf Adventure\n\nEnroll your Mii\u2122 character in golf training at the famous Bonny Greens country club and go from beginner to pro! The stakes are high\u2014you must also watch out for Wario and Waluigi\u2019s tricks and even battle fearsome bosses. You\u2019ll face off against your Mushroom Kingdom classmates and level up your character. You can bring your character (and their customized stats) into other modes, too.\n\nChoose from one of 16 characters from the Super Mario series and hit the green in several modes! Take it slow in Standard Golf and choose from 3-18 holes across 6 different courses that range from lush scenery to windy wilds. Intuitive controls and a shot gauge that adapts to the curve of the course make it easy for both new players and seasoned pros to drive and putt. Characters include Mario Golf veterans like Mario, Luigi, and Peach. Characters like Pauline and Chargin\u2019 Chuck are also here to make their debut on the green.\n\nIn addition to the frenetic Speed Golf, you can also enjoy simultaneously swinging in Battle Golf. The neon-soaked Super Golf Stadium has 9 open holes\u2014first player to get 3 flags wins! Use obstacles, including Thwomps, Chain Chomps, Bob-ombs, and banana peels to your advantage. Up to four players* can join the fast and flashy fun.\n\nStart your Golf Adventure as a rookie in Bonny Greens, birthplace of the sport in the Mushroom Kingdom. After learning the game at this classic country club, you\u2019ll compete for the next badge, allowing you to journey across the land playing a variety of courses and their clever variants of the sport. You\u2019ll meet new coaches, master new skills, and hunt for buried treasure on your quest to turn pro. Things get weird when Wario shows up, but what else is new? It\u2019s not called Golf Adventure for no reason. Save par, save the world. All in a day's golf!",
+        "description": "Hit the green with up to four players locally* or online** and golf with friends from the Super Mario\u2122 series like Mario, Peach, Yoshi, and more! Modes range from Standard Golf to the energetic Speed Golf and an exciting Golf Adventure. Simple motion or button controls make it easy for both new players and seasoned pros to drive and putt.\n\nPick up the pace in Speed Golf and Battle Golf\n\nTee off at the same time with up to three other players* and race through the course to get your ball in first. Mayhem is par for the course as you hinder your opponents with dashes and Special Shots. Yoshi can dash atop a giant egg and King Bob-omb can pelt the green with explosions! In Battle Golf, watch out for obstacles like Thwomps, Chain Chomps, and banana peels as you navigate the neon-themed Super Golf Stadium.\n\nRise through the ranks in Golf Adventure\n\nEnroll your Mii\u2122 character in golf training at the famous Bonny Greens country club and go from beginner to pro! The stakes are high\u2014you must also watch out for Wario and Waluigi\u2019s tricks and even battle fearsome bosses. You\u2019ll face off against your Mushroom Kingdom classmates and level up your character. You can bring your character (and their customized stats) into other modes, too.\n\nA free Mario Golf\u2122: Super Rush update*** includes Toadette, New Donk City, and more!\n\nTee off as Toadette, the newest golfer hitting the green in the Mario Golf: Super Rush game! Boasting excellent control and cute pink pigtails, Toadette\u2019s excellent at hitting shots with accuracy. Her high control will come in handy on the added New Donk City course\u2014these 18 holes will have you bouncing balls off of buildings and golfing across skyscrapers!\n\nBecome a global contender in Ranked Match**...and receive in-game rewards!\n\nIn the latest update, a new ranked mode will be available via the main menu. You can select Standard Golf or Speed Golf and tee off with 3 other players*. Depending on your performance, you\u2019ll earn points that increase your rank (and boost your ego). Reach a certain rank each month to obtain special character variants, like different colors for Yoshi and more!",
         "languages": [
             "ja",
             "en",
@@ -15212,7 +15212,7 @@
             "zh",
             "zh"
         ],
-        "size": 3404726272
+        "size": 3672113152
     },
     "70010000038627": {
         "id": "0100F8F00C4F2000",
@@ -18497,7 +18497,7 @@
             "ru",
             "zh"
         ],
-        "size": 4593811456
+        "size": 4599054336
     },
     "70010000039846": {
         "id": "0100A960149DA000",
@@ -22589,10 +22589,11 @@
             "RPG"
         ],
         "ratingContent": [
+            "Viol\u00eancia",
             "Linguagem Impr\u00f3pria"
         ],
         "numberOfPlayers": 1,
-        "rating": 0,
+        "rating": 10,
         "developer": null,
         "publisher": "Top Hat Studios",
         "frontBoxArt": null,
@@ -23545,8 +23546,10 @@
             "Puzzle",
             "RPG"
         ],
-        "ratingContent": [],
-        "numberOfPlayers": 1,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 2,
         "rating": 0,
         "developer": null,
         "publisher": "Game Museum",
@@ -23555,9 +23558,10 @@
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/11740b54b651e8e445cdd33c44707a6d8cc9496a5a2125dcbc6726edf170a067.jpg",
             "https://img-eshop.cdn.nintendo.net/i/d621cc720382944276f2f2a224b41ab881f0b95917b4a9bd9e6ce0bdfa30f0fd.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/5cbdaac765eb4110ed31929663b1da7aa9dda56b61bdc087e0431b5e58bad3d4.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/0e2109367b99c32ba9236d3bc77ebe42ba8a0677294468ea10579c1df482ad5e.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/be3329b6fe4a0d65f2d5c9d276d674d6f152c3a58b86a38eb5ba0df914444113.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/03b8eb75be4e4156f0d277aff522edf4ec9f688fc53889bf8fe282bb6d7a59b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c52ace50651960a5642ea938c8e9bfbdb7ecb2c6bb5f59931d8fc0f5d1482a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be3329b6fe4a0d65f2d5c9d276d674d6f152c3a58b86a38eb5ba0df914444113.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5cbdaac765eb4110ed31929663b1da7aa9dda56b61bdc087e0431b5e58bad3d4.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f9a0a9f00bbb314f9dce6ade2f9c850271b738d16abb6ff0505368ec87493525.jpg",
         "intro": "The best 'Edu-tainment' game which helps you improve your math skills!",
@@ -23567,7 +23571,7 @@
             "en",
             "ko"
         ],
-        "size": 180355072
+        "size": 184549376
     },
     "70010000041784": {
         "id": "01006700152AE000",
@@ -24368,9 +24372,7 @@
             "Multiplayer",
             "Adventure"
         ],
-        "ratingContent": [
-            "Viol\u00eancia Fantasiosa"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 2,
         "rating": 0,
         "developer": null,
@@ -24861,7 +24863,7 @@
             "zh",
             "zh"
         ],
-        "size": 1452277760
+        "size": 1453326336
     },
     "70010000042180": {
         "id": "010091C013F6E000",
@@ -51160,7 +51162,7 @@
         "intro": "Throw, catch, pass, dodge, and tackle your way to glory!\n",
         "description": "\"Team up and duke it out with rival Crews in Knockout City*, where you settle the score with EPIC DODGEBALL BATTLES. Brace yourself for outrageous fun and intense competition in an all-new take on team-based multiplayer games. \n\nCustomize your character and form a Crew with friends to start your Knockout City takeover. Knock out opponents with trick shots and coordinated teamwork while dodging and catching balls flying across the map. No ball? No problem! You can literally ball up, roll into a teammate\u2019s hands, and become the ultimate weapon! \n\nA variety of outlandish ball types, locations, and game modes keep it exciting. Plus, each season introduces new maps, ball types, rewards, events, and challenges! Throw, catch, pass, dodge, and tackle your way to dodgeball dominance!\n\nKEY FEATURES:\n\u2022  Frantic and Fun \u2014 Rule the city through lightning-fast multiplayer matches featuring mind-blowing dodgeball mechanics. Increase your attack by passing to power up dodgeballs, targeting your opponents with a variety of specialized balls, or \u201cballing up\u201d at any time to get thrown by teammates! \n\n\u2022  Crew Up \u2014 Assemble an All-Star dodgeball Crew with your friends for multiplayer matches in a seamless cross-play experience! Together, knock out opponents in 3v3, 4v4, or free-for-all matches. Pass, throw, and strategize to dominate as a team and unlock distinctive, Crew-only rewards! \n\n\u2022  Define Your Style \u2014 Show off your status and unique look through character and Crew designs with expansive character creation options. Customize your appearance, gear, and attitude, from body type and hairstyle to a custom glider and Crew vehicle to win, lose, and taunt animations. \n\n\u2022  Take On Knockout City \u2014 Battle it out with other Crews across dynamic maps all over the city. Each map\u2019s special features make every match an intense, unexpected experience. Dodgeball thrives in back alleys with pneumatic tubes, on skyscraper rooftops, across busy streets\u2014and even at the local burger joint and construction sites. While you\u2019re dodging dodgeballs, watch out for moving cars, rooftop drops, and even a wrecking ball or two. \n\n\u2022  Strikingly Fresh Yet Familiar \u2014 It\u2019s easy to pick up and play thanks to familiar controls, but practice is key to becoming a champion. On a level playing field, only the most skilled ballers stand out from the crowd. Use your knowledge to master the intricacies of the game for spectacular KOs.\"\n",
         "languages": null,
-        "size": 9794748416
+        "size": 8781824000
     },
     "70070000012257": {
         "id": null,
@@ -51193,7 +51195,7 @@
         "intro": "Dominate in style with exclusive Deluxe Edition rewards!",
         "description": "\"Team up and duke it out with rival Crews in style in Knockout City\u2122 Deluxe Edition*, where you settle the score with EPIC DODGEBALL BATTLES. Brace yourself for outrageous fun and intense competition in an all-new take on team-based multiplayer games. \n\nCustomize your character and form a Crew with friends to start your Knockout City takeover. Knock out opponents with trick shots and coordinated teamwork while dodging and catching balls flying across the map. No ball? No problem! You can literally ball up, roll into a teammate\u2019s hands, and become the ultimate weapon! \n\nA variety of outlandish ball types, locations, and game modes keep it exciting. Plus, each season introduces new maps, ball types, rewards, events, and challenges. Throw, catch, pass, dodge, and tackle your way to dodgeball dominance! \n\nThe Deluxe Edition also includes: \n\u2022  1 exclusive Epic outfit\n\u2022  1 exclusive Epic Crew vehicle\n\u2022  3 exclusive Epic Crew logos\n\u2022  3 exclusive Epic Crew banners\n\u2022  1,000 Holobux\"\n",
         "languages": null,
-        "size": 9797894144
+        "size": 8784969728
     },
     "70070000012266": {
         "id": null,
@@ -51619,7 +51621,7 @@
         "intro": null,
         "description": "The King's Bounty II Lord's Edition contains the Main game and the following content:\n\n\u2022 Rod of Deception \n\u2022 Frosthammer \n\u2022 Staff of Harmony \n\u2022 Tyrant's Sword \n\u2022 Armor of the Hollow\n\u2022 Heroes & Villains Premium Pack\n\u2022 King\u2018s Watchdogs\n\nKing's Bounty II\n\nDarkness descends over the world of Nostria. Conspiracies, sabotage, and necromancy are overshadowing the country. But maybe a saviour \u2013 the kingdom's last hope \u2013 is already here, to fight back and finally restore peace and order in Nostria! \n\nKing\u2019s Bounty II is the long-awaited sequel to the legendary King\u2019s Bounty video games franchise, one of the most iconic representatives of the turn-based RPG genre. Expanding on this legacy with an entirely new epic story, fractions, enemies, and new features to forge an open and breaking fantasy world Antara. With the kingdoms in disarray, counties demanding independence, bandits prowl the roads, all the overseas nations have denied the King\u2019s authority over them, and blighted creatures lie in wait for the unwary, new accidental heroes emerge as last hope. \n\nThey determined to bring order to the chaos. Plays as one of them, recruiting, developing, and commanding your personal army on a non-linear adventure of betrayal, sacrifice, and survival. Fighting for your own future, outsmarting enemy in uniquely turn-based combat, making difficult decisions, and experience the intensity of one of the classic sagas in an exciting new way.\n",
         "languages": null,
-        "size": 9463398400
+        "size": 9733931008
     },
     "70070000012460": {
         "id": null,
