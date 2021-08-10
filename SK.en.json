@@ -5216,7 +5216,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20210819,
+        "releaseDate": 20210831,
         "nsuId": 70010000032677,
         "category": [
             "Action",
@@ -9064,7 +9064,7 @@
             "fr",
             "de"
         ],
-        "size": 1493172224
+        "size": 2585788416
     },
     "70010000036534": {
         "id": "01007FB013B10000",
@@ -13064,7 +13064,7 @@
         "languages": [
             "en"
         ],
-        "size": 535822336
+        "size": 1288699904
     },
     "70010000038941": {
         "id": "0100C06014588000",
@@ -15361,9 +15361,11 @@
             "Racing",
             "Adventure"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Implied Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "isTom Games",
         "frontBoxArt": null,
@@ -15399,6 +15401,8 @@
             "Action"
         ],
         "ratingContent": [
+            "Horror",
+            "Mild Swearing",
             "Moderate Violence",
             "Sexual Innuendo"
         ],
@@ -16180,6 +16184,47 @@
             "zh"
         ],
         "size": 4763680768
+    },
+    "70010000039938": {
+        "id": "010032D014A38000",
+        "rightsId": null,
+        "name": "Volleyball Challenge",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210816,
+        "nsuId": 70010000039938,
+        "category": [
+            "Sports",
+            "Arcade",
+            "Multiplayer",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Fear"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dd72f46dd027bcc7ff0d0396e2ff3bdda11e6f65742aabced0dbac718784ee15.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5bc69d63e07b0c1a0533c30ed8eae0639c2121f804d0ae09b334ba7ffe0c3c7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a33b8fbc3f4b36f87d9067fb6ed87473ad8900c5399c5858dfdd501d4423dac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/42aafdb07da5bd9cc1c73b0fc31105a5ffda89c0c3887e34ff9bb99f5a9931c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7d4c10e310531a044ab47959671e85064a796ee9219f4abf780ec96ef0f7858.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4467ae39a7d71874549c34946bb5d1cef592b1c0afd588bf6e749eb5007589a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b61f0b3ec79d6d6fa0ae4a1a4121d31b2f22228714bec693a4884728c8bdd61.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ac7651929bdfbd8a37bc23749f896251e4b118d1f265cb875a289057dddbf505.jpg",
+        "intro": "In this lively and colorful sports game, you will be serving and attacking your opponents! Serve, bump, block, spike, and lob \u2013 go all out, to win!",
+        "description": "Activate SUPERPOWERS \u2013 in this sports game you can add fireballs, vanishing balls, superspeed, blocks, and many others to your arsenal \u2013 play now and discover them for yourself!\n\nDevelop your player's SKILLS \u2013 raise your stats across categories such as serve power and strength, stamina, or attack!\n\nYou will have a bundle of additional outfits to choose from as well as bags with super contents to open \u2013 as long as you win matches! Make your opponents tremble at the sight of your player!\n\nVolleyball will never be the same \u2013 play Volleyball Challenge and be part of the sports revolution!",
+        "languages": [
+            "en"
+        ],
+        "size": 699400192
     },
     "70010000039940": {
         "id": "0100A1B014A40000",
@@ -17529,7 +17574,7 @@
             "es",
             "de"
         ],
-        "size": 635437056
+        "size": 1290797056
     },
     "70010000040426": {
         "id": "0100345014C54000",
@@ -18288,9 +18333,11 @@
             "Puzzle",
             "Action"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Fear"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Chaos Minds",
         "frontBoxArt": null,
@@ -19380,7 +19427,7 @@
         "developer": null,
         "publisher": "Bryan Gale",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4577434783e213d09cbd311fb01d006f62d6000ad7a2f09fcceb7efbde9449f4.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/04bcfb31d681ca3f0f25e960c560b82b2832424c05f42e3b9572e8d8e4acdd7a.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/96092c4b6aec3cc86496470470ddbd63b32bec109cf1e33fae4d27b684b257e6.jpg",
             "https://img-eshop.cdn.nintendo.net/i/db1d369fe709ab43ebb0a698bde6c1cd5091ec96f10d919bedaadb2415f97910.jpg",
@@ -19406,7 +19453,7 @@
             "zh",
             "zh"
         ],
-        "size": 213909504
+        "size": 291504128
     },
     "70010000040875": {
         "id": "0100E11014E68000",
@@ -21361,9 +21408,11 @@
             "Simulation",
             "RPG"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Top Hat Studios",
         "frontBoxArt": null,
@@ -23929,11 +23978,9 @@
             "Multiplayer",
             "Adventure"
         ],
-        "ratingContent": [
-            "Mild Violence"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 2,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "Ratalaika Games",
         "frontBoxArt": null,
@@ -25481,11 +25528,9 @@
             "Sports",
             "Training"
         ],
-        "ratingContent": [
-            "Fear"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 7,
+        "rating": 3,
         "developer": null,
         "publisher": "Ultimate Games",
         "frontBoxArt": null,
@@ -27266,11 +27311,10 @@
             "Adventure"
         ],
         "ratingContent": [
-            "Mild Swearing",
-            "Sexual Innuendo"
+            "Strong Language"
         ],
         "numberOfPlayers": 1,
-        "rating": 12,
+        "rating": 16,
         "developer": null,
         "publisher": "Pillow Fight",
         "frontBoxArt": null,
@@ -65046,7 +65090,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/57142d127685935b48033a9f90e7217718a3958d23dd61a10c3ac616dab0900b.jpg",
         "intro": null,
-        "description": "The following additional content is included:\nAdditional Horse \"Iron Coat\"\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
+        "description": "The following additional content is included:\nAdditional Horse \"Iron Coat\"\n\n\u25a0How to use\nAfter purchasing Horses via the Shop in the My Castle menu in either Musou Mode or Citadel Mode, you can equip them by selecting Change Equipment in the Dojo.\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.\n\n",
         "languages": null,
         "size": 3145728,
         "ids": [
@@ -65107,7 +65151,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ab47829e0fb658b211523f5316f88c25b8f6a3f1c64ea0b8175e7e1a396f9982.jpg",
         "intro": null,
-        "description": "The following additional content is included:\nAdditional Weapon Set 1 (\u014cdachi, Bow, Talisman)\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
+        "description": "The following additional content is included:\n\nAdditional Weapon Set 1\n\u30fb\u014cdachi \u201cChaos Sower\u201d\n\u30fbBow \u201cFrost Princess\u201d\n\u30fbTalisman \u201cMystic Ninetails\u201d\n\n\u25a0How to use\nAfter purchasing Weapon Sets via the Shop in the My Castle menu in either Musou Mode or Citadel Mode, you can equip them by selecting Change Equipment in the Dojo.\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
         "languages": null,
         "size": 3145728,
         "ids": [
@@ -65141,7 +65185,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f986c395a79c41163fc9b027dbf6dd49e41b0ed9855fffb18d255b6383c7193c.jpg",
         "intro": null,
-        "description": "The following additional content is included:\nAdditional Weapon Set 2 (Blade and Matchlock, Great Spear, Gloves)\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
+        "description": "The following additional content is included:\n\nAdditional Weapon Set 2 \n\u30fbBlade \uff0b Matchlock \u201cIce & Fire\u201d\n\u30fbGreat Spear \u201cPurgatory\u201d\n\u30fbGloves \u201cHellspawn\u201d\n\n\u25a0How to use\nAfter purchasing Weapon Sets via the Shop in the My Castle menu in either Musou Mode or Citadel Mode, you can equip them by selecting Change Equipment in the Dojo.\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.\n\n",
         "languages": null,
         "size": 3145728,
         "ids": [
@@ -65299,7 +65343,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ced825c632cdfb5925e8ff029b65a44e6de98cee519087cc975e0e943b6ec76b.jpg",
         "intro": null,
-        "description": "The following additional content is included:\nAdditional Horse \"Silver Coat\"\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
+        "description": "The following additional content is included:\nAdditional Horse \"Silver Coat\"\n\n\u25a0How to use\nAfter purchasing Horses via the Shop in the My Castle menu in either Musou Mode or Citadel Mode, you can equip them by selecting Change Equipment in the Dojo.\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
         "languages": null,
         "size": 3145728,
         "ids": [
@@ -65331,7 +65375,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b2df320d880410a28d8f394b6f593d54df9d343be43271d97461e0e7984db1f2.jpg",
         "intro": null,
-        "description": "The following additional content is included:\nAdditional Horse \"Armor Coat\"\n\n\u25a0How to use\nEquipable at My Castle in \"Musou Mode\" or \"Citadel Mode\" by selecting \"Dojo\" - \"Change Equipment\".\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
+        "description": "The following additional content is included:\nAdditional Horse \"Armor Coat\"\n\n\u25a0How to use\nAfter purchasing Horses via the Shop in the My Castle menu in either Musou Mode or Citadel Mode, you can equip them by selecting Change Equipment in the Dojo.\n\nNote: This content is part of the \"SAMURAI WARRIORS 5 Season Pass\". Be careful to avoid making a redundant purchase.",
         "languages": null,
         "size": 3145728,
         "ids": [
@@ -71104,6 +71148,106 @@
             "0100B5D012F39001"
         ]
     },
+    "70050000029506": {
+        "id": null,
+        "rightsId": null,
+        "name": "Taiko no Tatsujin: Drum'n'Fun! - Song \"Hold me tight\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210810,
+        "nsuId": 70050000029506,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/510f4881e85550e8333f2d5104a43e6db39a98858c24fef75b886d2d2bc66db6.jpg",
+        "intro": null,
+        "description": "Get access to this additionnal song, playable in Taiko Mode. \n\n- Song: \"Hold me tight\"\nEasy: \u26054 Normal: \u26056 Hard: \u26056 Extreme: \u26058",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000029552": {
+        "id": null,
+        "rightsId": null,
+        "name": "Taiko no Tatsujin: Drum 'n' Fun! \"Cirno's Perfect Math Class\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210810,
+        "nsuId": 70050000029552,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/633adcbae59a7ff2d2a0653a791b61e855ef035efa48a7d5bcfe7552614e2d99.jpg",
+        "intro": null,
+        "description": "Get access to this additionnal content playable in Taiko Mode:\n\n- Song: \"Cirno's Perfect Math Class\"\nEasy: \u26054 Normal: \u26055 Hard: \u26057 Extreme: \u26058\n",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000029553": {
+        "id": null,
+        "rightsId": null,
+        "name": "Taiko no Tatsujin: Drum 'n' Fun! \"Stop at the affected part and melt quickly ~ Madness Udongein\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210810,
+        "nsuId": 70050000029553,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/50cefbd4067fbffd3e386f5814c7de4b17eb84eacedef46acf2bd9f9530e509d.jpg",
+        "intro": null,
+        "description": "Get access to this additionnal content playable in Taiko Mode:\n\n- Song: \"Stop at the affected part and melt quickly ~ Madness Udongein\"\nEasy: \u26052 Normal: \u26054 Hard: \u26057 Extreme: \u26059\n",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000029555": {
+        "id": null,
+        "rightsId": null,
+        "name": "Taiko no Tatsujin: Drum 'n' Fun! \"EIKYOKU/GYOUAN\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210810,
+        "nsuId": 70050000029555,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ee46829b86d166e8cb17a75c98fc268985f2cd944b829985ac0fabc593d392d0.jpg",
+        "intro": null,
+        "description": "Get access to this additionnal content playable in Taiko Mode:\n\n- Song: \"EIKYOKU/GYOUAN\"\nEasy: \u26053 Normal: \u26055 Hard: \u26058 Extreme: \u260510\n\n",
+        "languages": null,
+        "size": 3145728
+    },
     "70070000003681": {
         "id": null,
         "rightsId": null,
@@ -74067,5 +74211,30 @@
         "description": "Customise Nyanza's appearance with the following items:\n- Siamese Skin\n- Bengal Skin\n\nThis item is included in the Deluxe Edition bundle.",
         "languages": null,
         "size": 6291456
+    },
+    "70070000012752": {
+        "id": null,
+        "rightsId": null,
+        "name": "Taiko no Tatsujin: Drum 'n' Fun! \"Touhou Project Arrangements Pack Vol.5 \"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210810,
+        "nsuId": 70070000012752,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 3,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1fbec1d0d35cdbbc854e0ad3a18b75c61083994c734d4893a803db01ffbd3cd0.jpg",
+        "intro": null,
+        "description": "Get access to this additionnal content playable in Taiko Mode:\n\n- Song: \"Cirno's Perfect Math Class\"\nEasy: \u26054 Normal: \u26055 Hard: \u26057 Extreme: \u26058\n\n- Song: \"Stop at the affected part and melt quickly ~ Madness Udongein\"\nEasy: \u26052 Normal: \u26054 Hard: \u26057 Extreme: \u26059\n\n- Song: \"EIKYOKU/GYOUAN\"\nEasy: \u26053 Normal: \u26055 Hard: \u26058 Extreme: \u260510",
+        "languages": null,
+        "size": 9437184
     }
 }
