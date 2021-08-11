@@ -451,7 +451,7 @@
             "fr",
             "de"
         ],
-        "size": 1752170496
+        "size": 1764753408
     },
     "70010000013169": {
         "id": "010020500BD86000",
@@ -3104,7 +3104,7 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a7644601c02c04d0c0632218a84e7d5932316937a8f37f3ad29ecf21a627301f.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/d5270993ced34212dacb15ac205d1599da647313c9554dd9bd623321380d43c5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a0935c990b012344f50b252233280700adc853201af941e526cdd22c36182e7.jpg",
             "https://img-eshop.cdn.nintendo.net/i/72e09ba1d608ea764639c9a1fa29474dda14c445de151eaef39a5cca424f63cc.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6a5202c84702578abcc6da58766e8b984f42471dcf71bda596ebb2838840c6b7.jpg",
             "https://img-eshop.cdn.nintendo.net/i/451211653f78de931e17a832465254c07877d3c9dc73c9de1359790826cad8fc.jpg",
@@ -3326,7 +3326,7 @@
         "developer": null,
         "publisher": "thatgamecompany",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/49f192ac10f4238eb530b4975e39faa978c58f8b055fcd3608b5ce9866b276f9.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a65ad9d3e4034be3c3e93b2e8629772b5d091eab299d589666deee76007a78dd.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/2a5675dd1141318f85cfcfd707b92011dcf44a2b18f5fdab250534768824d78c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/86764714b863b8235df5293b4e57443301c2303bb123f7b06dd40e21b6f33e59.jpg",
@@ -3351,7 +3351,7 @@
             "zh",
             "zh"
         ],
-        "size": 2772434944
+        "size": 2861563904
     },
     "70010000028656": {
         "id": "0100C27011544000",
@@ -4548,7 +4548,7 @@
             "zh",
             "zh"
         ],
-        "size": 2982150144
+        "size": 2999975936
     },
     "70010000031495": {
         "id": "010025D01221A000",
@@ -4850,7 +4850,7 @@
             "en",
             "fr"
         ],
-        "size": 3446669312
+        "size": 3455057920
     },
     "70010000032160": {
         "id": null,
@@ -5878,7 +5878,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/943a5590a81a3f14d1560e370fac144bc1f05956ee586803ff8d5ab1bfe22199.jpg",
         "intro": "Explore a wacky world of invertebrates in this game that meticulously replicates the GAME BOY\u2122 COLOR!",
-        "description": "Super Squidlit recreates the GAME BOY\u2122 COLOR's capabilities and limitations for a squishy adventure! The colorful world of Squishu and it's invertebrate inhabitants need your help! Play as Plip and your old foe, Skwit Skwot, as you set sail to banish a great evil.\n\n- Squip your way through the islands of Squishu as Plip, a wee squidlit that can double jump to ink on things below you!\n\n- Plip's new roll tackle lets you manipulate foes and gain a bust of speed!\n\n- Blast your way through enemies as the wizardly Skwit Skwot, GOD EMPEROR, in ray-casting 3D RPG levels!\n\n- Meet lots of goofy Squidlits!\n\nLike the first Squidlit game did with the GAME BOY\u2122, Super Squidlit adheres to the limitiations of the GAME BOY\u2122 COLOR:\n* No more than 10 sprites in a horizontal line\n* No more that 40 sprites at any time\n* 3 colors per sprite\n* 160 x 144 pixel resolution\n* 4 sound channels for music and SFX\n* All sounds were recorded on a real GAME BOY\u2122 COLOR!\n\nCan you guide Plip and Skwit Skwot to victory and save Squishu?",
+        "description": "Super Squidlit imitates the Game Boy\u2122 Color's capabilities and limitations for a squishy adventure! The colorful world of Squishu and its invertebrate inhabitants need your help! Play as Plip and your old foe, Skwit Skwot, as you set sail to banish a great evil.\n\n- Squip your way through the islands of Squishu as Plip, a wee squidlit that can double jump to ink on things below you!\n\n- Plip's new roll tackle lets you manipulate foes and gain a burst of speed!\n\n- Blast your way through enemies as the wizardly Skwit Skwot, GOD EMPEROR, in ray-casting 3D RPG levels!\n\n- Meet lots of goofy Squidlits!\n\nLike the first Squidlit game did with the Game Boy\u2122, Super Squidlit adheres to the limitations of the Game Boy\u2122 Color:\n* No more than 10 sprites in a horizontal line\n* No more that 40 sprites at any time\n* 3 colors per sprite\n* 160 x 144 pixel resolution\n* 4 sound channels for music and SFX\n* All sounds were recorded on a real Game Boy\u2122 Color!\n\nCan you guide Plip and Skwit Skwot to victory and save Squishu?",
         "languages": [
             "en"
         ],
@@ -7224,9 +7224,11 @@
             "Platformer",
             "Fighting"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Thalamus Digital",
         "frontBoxArt": null,
@@ -8184,6 +8186,49 @@
         ],
         "size": 90177536
     },
+    "70010000035636": {
+        "id": "010096601362C000",
+        "rightsId": null,
+        "name": "Blaze and the Monster Machines: Axle City Racers",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211001,
+        "nsuId": 70010000035636,
+        "category": [
+            "Racing"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Outright Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c213b3e512ceb8c221a46182217be87992cd589ca2c094b3cdacb2f796be7ec5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/18acd0a9d131e1de9a7240144e0911ad50825cf57871967ced2b85ccc0078d8e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5636d2b13215e38b8a70ecbf5e2cd17211a59948748ff110f5fd135e6beefea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/133dbdedca19eda30b2cb65130468958d95601f6e9aac094d2fa917f33c013b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d767cc692e02ebe0e4a2eefb0a9fa0729b8925caa884baaab03a03083dd8e3ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/469f3ecc5a4777a90799e0707058d3c80edf07f3b6a2f45f2cbf456152b5759c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dcb595e0652bff2093e697314c166f67d5e64593ddd5ddb72926daccd1f10e70.jpg",
+        "intro": "On your marks, get ready to race with Blaze, Pickle, Crusher and friends, in a high-speed championship for\u00a0up to 4 players of\u00a0all ages!\u00a0",
+        "description": "On your marks, get ready to race with Blaze and his monster machine friends! \n\nFrom Axle City\u2019s colorful streets to the awesome Monster Dome stunt track, the world of Blaze is yours to explore! So buckle your seatbelts and take control of Blaze, Pickle, Darington, Zeg, Starla, Stripes\u2026 and even cheating Crusher! It\u2019s time to race at blazing speed and go for the championship or compete with up to 4 players in couch split-screen mode! \n\nThe fun keeps on rolling. You can boost, drift, jump and pull off stunts around amazing tracks like Race to Eagle Rock, Stuntmania, and more! Power-up with the Wrench to activate your character\u2019s unique skill and outsmart the competition. Customize Blaze and his friends in the garage. And with STEM education features, plus accessible control options like Auto-Drive Helper, younger players will have a blast discovering as they race for glory! \n\n\nBE\u00a0BLAZE and 6 more\u00a0heroes including\u00a0Starla,\u00a0Pickle, and Crusher\n\nRACE\u00a0WITH\u00a0FRIENDS in 4-player split-screen mode \n\nPOWER UP\u00a0with speed boosts, upgrades,\u00a0and\u00a0unique\u00a0character\u00a0abilities\u00a0\n\nWIN\u00a0THE\u00a0CUP\u00a0at\u00a0the\u00a0Axle City Grand Prix, the Monster Dome,\u00a0and more\u00a0\n\nAUTO\u00a0DRIVE with optional\u00a0simple controls for younger players\n",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "zh"
+        ],
+        "size": 747634688
+    },
     "70010000035640": {
         "id": "0100FFE013628000",
         "rightsId": null,
@@ -8323,7 +8368,7 @@
             "it",
             "ru"
         ],
-        "size": 1927282688
+        "size": 2540699648
     },
     "70010000035671": {
         "id": "0100F930136B6000",
@@ -12497,7 +12542,7 @@
             "zh",
             "zh"
         ],
-        "size": 7601127424
+        "size": 7649361920
     },
     "70010000038618": {
         "id": "01003DA010E8A000",
@@ -14132,6 +14177,56 @@
             "en"
         ],
         "size": 549453824
+    },
+    "70010000039314": {
+        "id": "01006C4014720000",
+        "rightsId": null,
+        "name": "Murder Mystery Machine",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210825,
+        "nsuId": 70010000039314,
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Implied Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 7,
+        "developer": null,
+        "publisher": "Microids",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f78434ea3c71069c422d54d2f0bf7680ed9198c42fff02e32c640d0609975f09.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/094f2f92f8927589505bfe6e688f0f7d8181b3fb739d000ccc155bac6a77b09e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1a5c7d0641fd41a8bcc8aabd0d6894096e83becd742411949c7021390ccb36cf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40d9e7cea6278941c4cde4ff1b9f8d837e900216ebce324b211dd4140e235960.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15ead95896e07b14d6c2871db40fa55db1af2843ececdc897fef5defee1dcddd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/59804b1f40daec64ab817d59b6d78da80f5b45e2a31555f9c652d97521f9f3ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ca781539701c840c07f9527c69515db7d16da4f5dde20fa8d2b4659375e7d18.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/13904637665bdb7720049252e0a5a258e913c83318cfafd61fbab8a0f3c8f04b.jpg",
+        "intro": "Murders, disappearances, conspiracies\u2026 Welcome to the District Crime Agency (DCA).",
+        "description": "Join the District Crime Agency in this isometric, modern noir deduction thriller. Explore crime scenes in complex dioramas, organize your evidence effectively, and blur the lines between right and wrong to present your case. Do you have what it takes to be a real detective?\n\nOn her first day at the DCA, fresh-faced rookie Cassandra Clarke, is teamed with a reluctant burnt-out detective, Nate Huston, to investigate the murder of a prominent politician. While all evidence points to a botched robbery, it soon entwines the two detectives into a complex, interconnected series of crimes that are anything but an open-and-shut case.\n\nFeatures:\nExplore detailed, isometric crime scenes, navigating perspectives to uncover new clues. Question suspects in the area, and find contradictions in evidence to catch them out. Can you tell apart the red herrings from the key to the case?\n\nGather walls of evidence from crime scenes, interviews with suspects, and forensic results. It\u2019s up to you to keep your workspace organized so you don\u2019t miss anything, and cut through to the real who, what, and why.\n\nEnjoy a rich and immersive story inspired by film noir, written by film & TV professionals at BAFTA-winning production company Blazing Griffin. With complex characters and dark, pervasive settings, expect the unexpected as the scales of justice are tilted.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2257584128
     },
     "70010000039316": {
         "id": "0100EB9014722000",
@@ -22980,9 +23075,11 @@
             "Puzzle",
             "RPG"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 3,
+        "rating": 7,
         "developer": null,
         "publisher": "Game Museum",
         "frontBoxArt": null,
@@ -23503,6 +23600,45 @@
             "zh"
         ],
         "size": 3433037824
+    },
+    "70010000041919": {
+        "id": "010099F015372000",
+        "rightsId": null,
+        "name": "May's Mysteries: The Secret of Dragonville",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210826,
+        "nsuId": 70010000041919,
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Klabater",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/06c48957807f6dae6ff3f3783151f7750ebfde46a43f0e780d58fa2276c05b8a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dece19ebfd732e69417e2ebdd17b601f149dd8312ee204b5f9cab825430813b8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58ffda57049a04bab251b8ed2165ce0eae8ca905661f06f02dd1886a5665fd65.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8af5d99b569d998d5854abe80bf2cbbb6cef0e9c42f95da8302ad0563840ba6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d1fc79e490dd03b16b387b1a5f12915f0896957ca32eb6cf63788521916597f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a40bf123192257015db4c249b6b21158a41c7a67a577e9e7a7517ddc8a90fc9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2fbec8e0bc401a89861f874ac041dedcd512b9ef4caa2862a1f9c1ea943b19b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b0325d3f1fea263477ce5629e9c622f2caad975d38ab3241280639c1743711ae.jpg",
+        "intro": "An exciting puzzle adventure with hidden object elements.",
+        "description": "May's Mysteries: The Secret of Dragonville is an exciting puzzle adventure game bringing a hand-drawn storyline with four worlds, 80 locations, 50 characters, 10 minutes of animated cut-scenes, and 270 brain-teaser puzzles that allow players over 25 hours of gameplay. \nFollow May, an independent and charismatic girl, in her quest to find her missing brother. Advance through the cartoon-style drawn adventures by solving over 270 logic puzzles, tricky rhythmic games, and hand-drawn hidden object scenes. Search for clues about May's brother, visit mysterious locations and meet interesting characters along the way, which will help you in your journey.\n\nMAIN FEATURES:\n\u2022 Over 270 mini-games: 230 logic puzzles, 25 hidden object games and 13 rhythmic games.\n\u2022 Travel through 4 intriguing worlds with 80 mysterious locations, and discover well kept secrets.\n\u2022 Meet 47 curious characters along the way who can help you in your journey.\n\u2022 Enjoy 7 minutes of hand-drawn animated cut scenes.\n\u2022 Charming hand-drawn graphics.\n\u2022 8 music themes.\n\u2022 Over 25 hours of gameplay.",
+        "languages": [
+            "en",
+            "fr",
+            "de"
+        ],
+        "size": 1573912576
     },
     "70010000041925": {
         "id": "0100FA60152CC000",
@@ -25190,7 +25326,7 @@
             "zh",
             "zh"
         ],
-        "size": 985661440
+        "size": 1120927744
     },
     "70010000042458": {
         "id": "01003A6015316000",
@@ -25627,6 +25763,55 @@
             "en"
         ],
         "size": 320864256
+    },
+    "70010000042586": {
+        "id": "0100EC901551C000",
+        "rightsId": null,
+        "name": "Lamentum",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210831,
+        "nsuId": 70010000042586,
+        "category": [
+            "Adventure",
+            "Action",
+            "RPG",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Strong Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Neon Doctrine",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0333c4221c29f25d36f842543e56c28f570b6deca0feffe7ca2138a41e1b0444.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c0810bc3392cae3b59f55e9331be314adc1ca5c537c3be12e36d17c75d4d239f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6e7f94370da6df0ef8b95696c13abff75d6db0c82b91f24a742b0dee2ab5a2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1fb42fd3d8e4714df5294479f843cb4fb7f1b5089695cb8c31e989f25076724.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e60ef2f9012e10ab95ff7ba0d5dc3c78b24e4e2845beed1fbd516642cae32c01.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad9e86e50c9ca97e281a409ec07e1b5ef3691696cac4534196c062e083345573.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2f75772cceec7e6b69595e36e9e57da64d58c61dd66b3dde4381636f40929f47.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a6d9f8964f56e4ca71ba57fc94b37a17cdd156c6e48618ed2ce00d83e4c3887.jpg",
+        "intro": "Lamentum is a pixel art survival horror game, set in New England in the mid-nineteenth century.",
+        "description": "Guide Victor Hartwell, a young aristocrat on a desperate journey to cure the deadly disease that afflicts his beloved wife, Alissa. Their last hope resides in the darkened halls of Grau Hill Mansion whose Earl has uncovered ancient secrets and forgotten sciences. He claims he can heal Alissa, but\u2026 at what price? Grau Hill mansion will open its doors and immerse you in a world of nightmares where you may be trapped forever.\n\nLamentum is a pixel art survival-horror game set in New England in the mid-nineteenth century. To solve the dark secret at the heart of Grau Hill Mansion, you will have to immerse yourself in a nightmare world full of terrible creatures.\n\nChoose well in whom to trust, every decision you make may alter the course of the story.\n\nWill you survive?\n\nLamentum is inspired by classic survival horror games, cosmic horror masterpieces, especially the Cthulhu mythos.\n\nLamentum is a dark and adult-themed game, in which the player can enjoy classic survival-horror gameplay.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 1922039808
     },
     "70010000042591": {
         "id": "01006400155DC000",
@@ -27071,7 +27256,7 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Fear"
+            "Implied Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 7,
@@ -28057,6 +28242,45 @@
         ],
         "size": 75497472
     },
+    "70010000043940": {
+        "id": "01007EE015B38000",
+        "rightsId": null,
+        "name": "Tomb Sweeper",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210810,
+        "nsuId": 70010000043940,
+        "category": [
+            "Puzzle",
+            "Platformer",
+            "Arcade",
+            "Education"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Piotr Skalski",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4b1cda5d80d87738856b8e107f00d8c2c3bc1b2c867c32b40d169e13a1c02850.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/59dd25673285d7aad3d00ce33a9d89c2f299b5186ca4234ffadd332fc0768d07.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/579d3999ff34b722e894437a336316ddf13eaa412914ad6b18744d948cd6735b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df91d82c163464570c276398425c2df33f5e1efab9d5f3a96dba151de05b012c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4a6e8695355bd70769314e904348630c77dd2b4063c319973bed0e9b20d0175.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ede1c0dd9b91079730af2e410f0f99dac9d719b54b36a437300d7d6d2e35f759.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/315b2858ceac9018ce64cc0ec39d9b8cd5ad4fcc2affc4adafe631e75a0ebd3e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7596cd27027a1dd73aa8bc82eb3823bbdfeb4e2d3cdd8f631a08af857ffea247.jpg",
+        "intro": null,
+        "description": "Tomb Sweeper is an intense and exciting maze game. It\u2019s a unique and interesting title where your focus is to try to move the player from wall to all or corner to corner in order to create a path and complete the level. Once the level is full of colour, you can reach the next level. There are more than 100 levels to go through, and you will have a lot of fun enjoying every moment, while also testing your skills. Do you have what it takes to complete all levels?\nFeatures:\n- 100+ levels to play through\n- Test your skills and have fun\n- Fun game mechanics\n- Cool pixel art",
+        "languages": [
+            "en"
+        ],
+        "size": 69206016
+    },
     "70010000043955": {
         "id": "01007F7015B3A000",
         "rightsId": null,
@@ -28140,6 +28364,45 @@
             "ru"
         ],
         "size": 426770432
+    },
+    "70010000044056": {
+        "id": "0100474015BCE000",
+        "rightsId": null,
+        "name": "Dungeon's Hell",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210810,
+        "nsuId": 70010000044056,
+        "category": [
+            "Platformer",
+            "Puzzle",
+            "Arcade",
+            "Education"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Piotr Skalski",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e472a7c8fd37a9832c33d77458042938a80fc136ccebcefc580ff707754d2146.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/47e71af6686cbe384425fcd99e306d8bebe305d391f7214796496b5c8080aeb2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c143a1a26697d99703bacc86ebe6cce23fecba637a496eaf9cb137362ae6108e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b1c7a35077167952eb282d41c12de18e0fd27076577cd590cadf12a19514832.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/190df3fc6707be4c9bf185ac79a57b5779a110b1925e13e828cb2da8f5313558.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cded66d758113a092361bfa5c19aa2f67f6b9e03ad48fe6cf0713cd25c7182c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da005e15944456cc8a21d24e71686d576871275e08d70ab58dbadf2c727225d6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c825b263e69cb2718b13fb794175cdcb60b9093b42894c973d8f0ea36517b893.jpg",
+        "intro": null,
+        "description": "Do you have what it takes to tackle the Dungeon\u2019s Hell? This exciting and fun game for everyone has 60+ different and really hard levels that you need to complete in order to show your prowess. It\u2019s a very engaging game with endless gameplay, and you can always test out new ways to enjoy the experience and immerse yourself as much as possible.\nWith Dungeon\u2019s Hell, you always have a cool platforming experience and you need to test your skills in order to win!\nFeatures:\n- Fast paced platforming gameplay\n- Intense, fun and enjoyable mechanics\n- Wonderful, exciting world\n- 60+ different levels",
+        "languages": [
+            "en"
+        ],
+        "size": 63963136
     },
     "70010000044070": {
         "id": "010029D015BD2000",
@@ -28300,6 +28563,43 @@
         ],
         "size": 141557760
     },
+    "70010000044418": {
+        "id": "0100232015D6E000",
+        "rightsId": null,
+        "name": "Mary Kay Andrews: The Fixer Upper",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210812,
+        "nsuId": 70010000044418,
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 3,
+        "developer": null,
+        "publisher": "Ocean Media",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3c6f6ba3d755c79ad2b3c02db0030db5a9f1f629cb07d0a3f7c3e6d72a083e1b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e10e42d9a444d8d1236a617ffddad921bedb67da4844a687647ddb0cb03be3d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/264213f0cebd33cf8eab1b8cf8692d838a14e47d4df1a9e2df4846840b1537a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/729171761f1aa0eb56dd6fde70ac60811262f68dcef156780210080a6ace6d91.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e3f1ba3c05c85f7fa3bf9968423e35fcdf94c8f859b02dc4f22b514fe4530bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e9d666f967f52639d6fb442e93cb038c7e48e1c4a1bb686eb530ad3b333536c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b45254607cb8fd15bbc1d8ccc40579ae7cc20095771fd27be911d910f9f40eb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69a4d86adee8490216a9e9c48f74b388bd12bf012613fb7a35fad6988c9ff8bc.jpg",
+        "intro": "Don't let criminals take away your Victorian mansion!",
+        "description": "After her boss in a high-powered Washington public relations firm is caught in a political scandal, fledgling lobbyist Dempsey Jo Killebrew is left almost broke, unemployed, and homeless. Out of options, she reluctantly accepts her father's offer to help refurbish Birdsong, the old family place he recently inherited in Guthrie, Georgia. \nAll it will take, he tells her, is a little paint and some TLC to turn the fading Victorian mansion into a real-estate cash cow. \nBefore long, what started as a job of necessity will somehow become a labour of love and, ultimately, a journey that takes her to a place she never expected, back home again.",
+        "languages": [
+            "en"
+        ],
+        "size": 260046848
+    },
     "70010000044497": {
         "id": "0100739015DCC000",
         "rightsId": null,
@@ -28357,7 +28657,7 @@
         "developer": null,
         "publisher": "Kistler Benjamin",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e0ef28fa627c7c92970fb83311a20086c5bf130df448a3b2a37710691f904986.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8ecc638d889df387e769321f91f791835adc8e64bca58109e487a7a88691d74f.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/2449c89f00e7049d441322e4d87f84debfb2607e1664a983d7a2ca52637c0410.jpg",
             "https://img-eshop.cdn.nintendo.net/i/41fde18ace04bf75e65047f7ff1da61ecb73e699f00d11349d601415b129761c.jpg"
@@ -28368,7 +28668,7 @@
         "languages": [
             "en"
         ],
-        "size": 103809024
+        "size": 149946368
     },
     "70030000004122": {
         "id": null,
@@ -71643,7 +71943,7 @@
         "intro": "Raze Hell",
         "description": "Hell\u2019s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you. \n\nExperience the ultimate combination of speed and power in DOOM Eternal - the next leap in push-forward, first-person combat.  \n\nThe Deluxe Edition includes: \n\nYear One Pass: \nAccess to two campaign expansions - The Ancient Gods - Part One and Part Two - for the critically acclaimed DOOM Eternal. Your war is not over\u2026 slaying the Kahn Maykr left an imbalance of power in the cosmos that threatens all of creation.\n\nIn The Ancient Gods \u2013 Part One:\nThe legions of Hell have razed the heavens, threatening to expand across dimensions. Battle your way back to Urdak and decide the fate of the cosmos. Your mission is now your own.\n\nThe Ancient Gods - Part Two:\nMore information coming soon!\n\nThis edition also comes with:\n- Demonic Slayer Skin \n- Classic Weapon Sound Pack",
         "languages": null,
-        "size": 25917652992
+        "size": 26418872320
     },
     "70070000011077": {
         "id": null,
@@ -72706,7 +73006,7 @@
         "intro": null,
         "description": "The Ancient Gods \u2013 Part One is the first campaign expansion for the critically acclaimed DOOM Eternal.\n\nYour war is not over\u2026 The legions of Hell have razed the heavens, threatening to expand across dimensions. Battle your way back to Urdak and decide the fate of the cosmos. Your mission is now your own.\n\nNEW MISSION\nExperience a new mission in your eternal fight against evil. Unleash your vengeance, restore order to the heavens and unearth the corruption that has thrown the universe into chaos.\n\nNEW LOCATIONS\nFrom the decks of the UAC Atlantica on Earth to the Blood Swamps of Hell to the demon-infested Urdak, you will visit epic new locations to battle the armies of Hell. ",
         "languages": null,
-        "size": 25913458688
+        "size": 26414678016
     },
     "70070000012374": {
         "id": null,
@@ -72790,7 +73090,7 @@
         "intro": null,
         "description": "You pulled humanity back from the edge of extinction, but it came at a cost, leaving an imbalance of power in the cosmos that threatens all of creation. The soul of the universe hangs in the balance.\n\nThe Ancient Gods Expansion Pass includes both campaign expansions for the critically acclaimed DOOM Eternal.\n\nThe Ancient Gods - Part One\n     The legions of Hell have razed the heavens, threatening to expand across dimensions. Battle your way back to Urdak and decide the fate of the cosmos. Your mission is now your own.\n\nThe Ancient Gods - Part Two (Coming Soon)\n     Defy the gods and awaken an ancient evil in the epic conclusions to the DOOM Slayer\u2019s saga. Rally the scattered Sentinel armies, lay siege to the last bastion of Hell, break through the fortress walls and face the Dark Lord himself.",
         "languages": null,
-        "size": 25913458688
+        "size": 26414678016
     },
     "70070000012379": {
         "id": null,
@@ -73183,7 +73483,7 @@
         "intro": "Unsheathe your curse and smite the darkness.",
         "description": "The Digital Deluxe Edition of Ys IX: Monstrum Nox includes the full game and a trove of 25 DLCs, including costumes, attachments, materials, and consumable items.",
         "languages": null,
-        "size": 3525312512
+        "size": 3533701120
     },
     "70070000012448": {
         "id": null,
@@ -73212,7 +73512,7 @@
         "intro": "Unsheathe your curse and smite the darkness.",
         "description": "The Launch Edition contains a variety of costumes for your Monstrums as well as some helpful items. Begin your adventure in Balduq prepared and in style.",
         "languages": null,
-        "size": 3465543680
+        "size": 3473932288
     },
     "70070000012449": {
         "id": null,
