@@ -28552,6 +28552,53 @@
         ],
         "size": 319815680
     },
+    "70010000043555": {
+        "id": "0100D880159D2000",
+        "rightsId": null,
+        "name": "Residual",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210909,
+        "nsuId": 70010000043555,
+        "category": [
+            "Plataforma",
+            "Aventura",
+            "Puzzle",
+            "Outros"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Apogee Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fb9299ffebf4f50c0d72ce56b02a5ed7294f9cee5803056fef353abc3f18dbf2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/da0f6d7f892cfc0b93b9ca93d6cb5aaa878c6e4eed53fab470b02705aac8ec82.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c51bdb751f2b4f5d4c4e69eca493694716eabe63e1c56dd6341606d8b2477f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fc4300d0860fa767b5a85912cff8f07773a68eb8c1888d542e1978576ad3ebe1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6e907429f53946fc6eb3341148a8b31abdd5f983281920bc5051ea0a283568b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1159f5cd0ed65074da8953f8884b16ace7a31f9b8de9469ab4e7f35e23cd457f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31b19395731cdaa56b4b2208012df7b9295e360995c1a11d6fac317b5bd67c1f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7d6d46fcd6c1a4602015bed37f8879a116afe9d247f50948232a358c6c59fa1f.jpg",
+        "intro": "The surface is just the beginning",
+        "description": "Residual... a new breed of survival platformer from OrangePixel and legendary indie publisher Apogee Entertainment.\n\nIn a forgotten galaxy full of strange planets, a lone explorer crash-lands on one with an ancient alien secret. Venture forth from the shipwreck across a harsh, unpredictable, procedurally generated world. Harvest food and make campfires to stay alive. Craft science-fiction survival tools like teleporters and mining devices. Unearth alien technology capable of repairing the ship. Hunger, cosmic storms, hostile plant life and the mysterious ooze are among the many obstacles you'll face.\n\nYou won't be alone! PDB (a snarky floating Personal Disaster Bot) will follow and assist you along the way. Sometimes. PDB also helps you discover the hidden lore, revealing the history of the planet as you explore deeper and deeper, assuming you can survive!\n\nOrangePixel\u2019s uniquely designed Nature Engine generates 1000's of planets from a vast set of environment-based rules, then drops explorers on a world brimming with potential. If a planet orbits close to the sun, intense heat, high winds, and sparse vegetation will pose a set of challenges wildly different from other worlds. Further from the sun, long nights make stamina easier to maintain, but reduced solar power turns every suit function\u2014like scanning the planet\u2014into a critical decision.\n\nResidual welcomes players to a non-violent survival experience with limitless possibilities and no traditional combat. Jump and descend through colorful, highly detailed pixel art evoking classic 2D platformers. Solve light puzzles to reveal secrets of a long-lost civilization. Select a male, female, or non-binary protagonist, customize survival parameters like how fast time advances, and race to repair the ship, dig up ancient secrets, or collect data entries on hundreds of undiscovered objects.",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "es",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru"
+        ],
+        "size": 326107136
+    },
     "70010000043560": {
         "id": "0100C890159AA000",
         "rightsId": null,
