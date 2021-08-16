@@ -29389,6 +29389,52 @@
         ],
         "size": 124780544
     },
+    "70010000044767": {
+        "id": "0100FE1015F16000",
+        "rightsId": null,
+        "name": "Chess Gambit",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210816,
+        "nsuId": 70010000044767,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 0,
+        "developer": null,
+        "publisher": "D-Lo Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/99168442d4e5e0ba868629b72b63521b9a1385ca425b4560350189298276967a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7bb554422a524064634332a9be262d3a6d58958570d7b90080af44be83f248d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12ddf4d0ef7af84d1a2748ad556c3f9985eafcc66656b7fb5947d91624567c0f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ee269a1c389adb470738dce03a5ab0ee1b91481d92653b7f16cf39bb8bae13d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b5f73a14928d6bb314f34ebe529ca55a5fddd78a451da7ee91d7450b5f1ad01.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/791fea58bb20668541d8199d5b42c9591c17ca3da78eeab0be270dd2ff3b59f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03af6f3c886147b42285d2024652fadf41ac79f13f25b0dd922753d05bb2e71f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/667fc023592a5ae81934504134689ec654abe748e1461af8da2dbc7796019f75.jpg",
+        "intro": "Enjoy a classic game of chess at the height of the Middle Ages in which the pieces have come to life!",
+        "description": "This game transports you to a low-poly environment where castles, tough soldiers, battle-hardened knights and loyal bishops are the true stars. Use your best strategies to open a path and conquer the castle of your opponent\u2019s king!\n\nGame features:\n\n\u2022 3D environment and boards.\n\u2022 Animated 3D pieces.\n\u2022 Face off against the advanced AI. Choose from 9 possible difficulty levels.\n\u2022 Play face-to-face with your friends or family.\n\u2022 Record games.\n\u2022 Switch between a 3D view and the classic 2D view.\n\u2022 Move pieces using the Joy-Con\u2122 or touch screen.\n\u2022 Day or night environment scenario selection.\n\u2022 Option to use an openings book for the AI.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru"
+        ],
+        "size": 206569472
+    },
     "70030000003461": {
         "id": null,
         "rightsId": null,
@@ -47388,7 +47434,7 @@
         "intro": null,
         "description": "Hounds of War Warhorse:\nA unique creature, your best friend\u2026 and a real horror for your enemies.\n\nElite Guard premium pack:\nUnlock special skins for your army!\n\nFlaming Eagles: \nThis unique a red-hot living creature using his claws, beak, and special skills.\n\nFirehand Golems:\nFirehand Golems is an experimental version of the Sentry Golem with flamethrowers.\n\nArmored Princess\u2019s Shield: \nThis shield once protected a legendary warrior from another world...",
         "languages": null,
-        "size": 3145728,
+        "size": 78643200,
         "ids": [
             "010026F013B3B001"
         ]
