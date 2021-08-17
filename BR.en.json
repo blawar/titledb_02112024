@@ -6941,7 +6941,7 @@
         "languages": [
             "en"
         ],
-        "size": 88080384
+        "size": 130023424
     },
     "70010000026221": {
         "id": "0100CC00102B4000",
@@ -9092,7 +9092,9 @@
             "Puzzle",
             "Action"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Viol\u00eancia Fantasiosa"
+        ],
         "numberOfPlayers": 1,
         "rating": 0,
         "developer": null,
@@ -9247,7 +9249,7 @@
         "languages": [
             "en"
         ],
-        "size": 2501902336
+        "size": 2520776704
     },
     "70010000032570": {
         "id": "010018A012822000",
@@ -10906,7 +10908,7 @@
             "de",
             "ru"
         ],
-        "size": 721420288
+        "size": 757071872
     },
     "70010000034760": {
         "id": "01002B00111A2000",
@@ -16341,6 +16343,46 @@
         ],
         "size": 319815680
     },
+    "70010000038824": {
+        "id": "01001FA01451C000",
+        "rightsId": null,
+        "name": "Prinny Presents NIS Classics Volume 1: Phantom Brave: The Hermuda Triangle Remastered / Soul Nomad & the World Eaters",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210831,
+        "nsuId": 70010000038824,
+        "category": [
+            "RPG"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Conte\u00fado Sexual",
+            "Drogas L\u00edcitas"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "NIS America",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2bb605b881906cd4c47ee6c62a9108eb68697de38cfc2b528dd2046f120ae3d2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/16428acb9342520baa2239a19e0c4af8e984d845c6fe7358bc210d00cca7e40b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ad3650ed65b984c1903bdc00878ff3b570ba38f8bdf2ccb184c540d07f4b851.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d7f36c2c94a28adcd6298fdc317ebf2573a043b2f78ec91fb30eb56bf1373d91.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8c5a604bead2df010065dfe34d24c4c06bf7b760db9f2e56b8281ca86140076.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a11cf0eac72efae2d47a22c9317d710a5a2838c580472cdebe33683bf4e48479.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48de002a8bc9f6f237082a8bb5419bae481b311790a0c58ad48809ec14378a0b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6868928e889f957efc88b60dd532ee08ff003f1fd695c3e87f62d9614760ac5b.jpg",
+        "intro": "Console classics makin' a comeback, dood!",
+        "description": "For the first time ever, Phantom Brave: The Hermuda Triangle Remastered and Soul Nomad & the World Eaters are coming to Nintendo Switch\u2122! With unique gameplay mechanics, memorable characters, and up-scaled artwork, this is a must-have for Strategy RPG fans and NIS fans alike!",
+        "languages": [
+            "en"
+        ],
+        "size": 4778360832
+    },
     "70010000038848": {
         "id": "0100C09014530000",
         "rightsId": null,
@@ -17648,6 +17690,52 @@
             "en"
         ],
         "size": 549453824
+    },
+    "70010000039306": {
+        "id": "01008B801471C000",
+        "rightsId": null,
+        "name": "Inked: A Tale of Love",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210827,
+        "nsuId": 70010000039306,
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Pixmain",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fa7f107629de5d2eee7d595c8b059539124ef6a338205dbb2def707988bc9d02.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/50cbbe694098239e34194a04cdf515f71ae26d68e1b7940565b4b0adb4bac70a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/72ece87db613e7a427430c034cc2db65f1da60506670a760763bca981eeab322.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fcd6af6dae067a609b3b5bb2467e815302a0c13a804494200a8af5cd09736081.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d37f5e5757f78c0cf3ab460b26d9ad0af58308c678bf9644cf088dde1852faf6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea109b64bc6e608b03d4f1dbed36e22a4fcfa811a88c221b14ff0857e22b3e48.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/642ffad1f2d7e3f655230f52167b386e59fa19e27b381a4557629d40ed19d3a0.jpg",
+        "intro": "Inked is a wholesome narrative-driven puzzle game, a heart-warming story about loss and hope in a time where we all need some comfort.",
+        "description": "Inked is a hand-drawn puzzle adventure set in a mythological world of beautiful ballpoint pen landscapes, inspired by Japanese folk tales. As the Nameless Hero, explore 10 different minimalistic worlds searching for your lost love Aiko, using your magical paintbrush to solve puzzles in a heartwarming story that will move and shake you to the core. ",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 3625975808
     },
     "70010000039315": {
         "id": "0100EB9014722000",
@@ -20993,7 +21081,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c14fc882a938b08ba9edbc9cf99700f6ab07b550ac0130ed47a3a9c1d6b9da1e.jpg",
         "intro": "Jin Conception is a social deduction fantasy thriller turn based souls-like JRPG. Go on an adventure not knowing which party member is friend or foe. Solve clues to progress the story.",
-        "description": "Eight playable characters stories intertwine when three characters enter Final Layer and two vanish without a trace. One returns from Final Layer but claims to not remember what happened. Who do you trust? Who is telling the truth and who is lying? Who is friend and who is foe?\n\nKey Features:\nStrategic turn based combat involving balance.\nBattles happen on the same field as movement, no switching screens when combat starts.\nAffliction and buff system, for example, players cannot run away if they have stuck affliction.\nDouble and triple Jin techs allow party members to combine attacks with each other to form stronger attacks.\nTraps can be set in combat for strategic purposes such as delaying an attack for later.\nThere is more than one ending.\nThe foe or foes can change.\nEvery step of the way has at least one clue to guide the player.\nHint system to guide players to the next destination.\nOne can ignore hints and clues to explore.\nA reward is provided at the end for correctly deducing the friend(s) and foe(s).\nYour time is respected, save the game anywhere and anytime when not in battle or a cutscene.\nThe entire game can be beaten without grinding.\nThere is romance.\nThe story is not told in sequential order.\n\nJin Conception has monsters that can one shot, difficult bosses and no hand holding.",
+        "description": "Eight playable characters stories intertwine when three characters enter Final Layer and two vanish without a trace. One returns from Final Layer but claims to not remember what happened. Who do you trust? Who is telling the truth and who is lying? Who is friend and who is foe?\n\nKey Features:\nStrategic turn based combat involving balance.\nBattles happen on the same field as movement, no switching screens when combat starts.\nAffliction and buff system, for example, players cannot run away if they have stuck affliction.\nDouble and triple Jin techs allow party members to combine attacks with each other to form stronger attacks.\nTraps can be set in combat for strategic purposes such as delaying an attack for later.\nThere is more than one ending.\nThe foe or foes can change.\nEvery step of the way has at least one clue to guide the player.\nHint system to guide players to the next destination.\nOne can ignore hints and clues to explore.\nA reward is provided at the end for correctly deducing the friend(s) and foe(s).\nYour time is respected, save the game anywhere and anytime when not in battle or a cutscene.\nThe entire game can be beaten without grinding.\nThere is romance.\nThe story is not told in sequential order.\nThere is RNG in some boss battles in order to surprise the player on repeated playthroughs.\nThere is more gameplay then story.\nAfter a single playthrough is completed, the game is designed to be speed rushed but it is not required to speed rush it.\nThere is additional content in Continue Game+.\n\nJin Conception has monsters that can one shot, difficult bosses and no hand holding.",
         "languages": [
             "en"
         ],
@@ -23121,8 +23209,8 @@
             "https://img-eshop.cdn.nintendo.net/i/252d9bd8b1f17da7e63071a53f1b3bdd58cb27c621d4975e9eaea7473e809df0.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d997053c28ebe0694bd2e5108552590d4d89152c94a06dc8136fd14dba9da6b6.jpg",
-        "intro": "Where\u2019s Samantha? That\u2019s exactly what George, an unassuming swatch of fabric is asking.",
-        "description": "Help George as he searches for his lost love Samantha (wind is a heck of a thing when you\u2019re fabric) overcome puzzles and obstacles in this hand-drawn textile world and unfold George\u2019s whimsically narrated tale.",
+        "intro": "Where\u2019s Samantha? That\u2019s exactly what George, an unassuming swatch of fabric, is asking.",
+        "description": "Help George as he searches for his lost love Samantha (wind is a heck of a thing when you\u2019re a little piece of fabric)! Overcome puzzles and obstacles in this hand-drawn textile world and unfold George\u2019s whimsically narrated tale.\n\nFeatures:\n\u2022 An endearing and delightfully comedic storybook-style tale of two swatches of fabric looking to reunite.\n\u2022 A vibrant textile 2D world of hand-drawn artwork full of whimsy.\n\u2022 Venture through 45 levels of physics-based puzzles of varying complexity.\n\u2022 Narrated by award-winning actor, presenter, and comedian Rufus Hound.",
         "languages": [
             "ja",
             "en",
@@ -23892,6 +23980,44 @@
             "zh"
         ],
         "size": 849346560
+    },
+    "70010000041397": {
+        "id": "010096C01515C000",
+        "rightsId": null,
+        "name": "Night Flight",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210823,
+        "nsuId": 70010000041397,
+        "category": [
+            "Arcade",
+            "Adventure",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7d8062caa328b29f8e8359c15483c8ec2a41efd02025d4d4c82aecc8389a1898.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/449cf2a1d7d2418af916903137abef5e42e334f25cc7a408424c3f6f8a77d69a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/50062420009df8ad790a81ccf0309c82769d9974add1291701c84e126c315bf8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7506a9d9f5ecd72a91f605f46f298577e7093f41d90ba65279c544c15ec4f863.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f36ae414601400bec7246c015bd853ab150537966c8cf32d7e38201ca3a761cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48a57184f8b9999313ca32d554063d8b312e42016f9cbf797448fcc8ec1bbf2e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ad77b2dd2aa6aec1d1105afdff87d095a8b09512476e30f4310f0269140c15a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e66b89577963b7a76c05c933a1a00bf34157861cfaa0fd56c8e4d13e4e2bcd09.jpg",
+        "intro": "You're trapped! Get on airplane and find a way out of the factory. Beware of toy guards, traps, and narrow corridors standing in your way to freedom.",
+        "description": "When the last human worker leaves the factory unsupervised, toys wake up and live their lives. One night you find yourself boxed! You decide to take action and leave this place.\n\nCollect stars on your way - they serve as fuel. Be agile, think on the fly, or plan your route through challenging levels. Open doors, use pipes to travel from one place to the other. Make use of speed boosts and dodge rockets doing barrel rolls!",
+        "languages": [
+            "en"
+        ],
+        "size": 283115520
     },
     "70010000041449": {
         "id": "01003E00151AE000",
@@ -28349,6 +28475,50 @@
         ],
         "size": 334495744
     },
+    "70010000043320": {
+        "id": "010067A014106000",
+        "rightsId": null,
+        "name": "A Night at the Races",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210903,
+        "nsuId": 70010000043320,
+        "category": [
+            "Arcade",
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Nakana.io",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3f072b7be953c005b8776d0fc72364fbc4cdf044bc02d57327373f0913d4d887.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8652d0ee6c6e07a926574d27d7689455cc16afe42d3364b6e4e13812aab80973.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d646745046c300fc84ebf1ebbdcb6d68934e46a2a522cd8c81f8fe7e51494b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d8a2fd2c4f79cf59ee209d1e59340dec7b3c8bcbd40d84e4f057b8ecdf696aa0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f2661fed7501a3ea73f904ae088a2595f7f1b779ba98c07839f0194cb2b00101.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2853c020ef733fa5a2ecb757281d91edb8ba4aab73f8acc61d0a49f09aeadd6d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ca0eda1bd3562d6deeee58fe3062c513fe0580a5414cce876f65e7176b5dd7e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd1cc8fefc623a12f8a215c858dac74e98d261e597ada6fbff4a08516b04fd73.jpg",
+        "intro": "You have the night to win a clandestine tournament. Lead the rankings, get the prize, pay your debts, escape hell.",
+        "description": "You\u2019re invited to the arcades tonight. Compete illegally with other players for the top of the global leaderboards. You need the prize money to survive.\n\nFEATURES:\n\u25cf A unique narrative - you play as the player, and face their challenges on and off the screen.\n\u25cf Challenging Arcade-Platformer gameplay - easy to learn, hard to master. Perfect for speedruns.\n\u25cf Online ranking leaderboards - by level and global.\n\u25cf Great playtime value - 200+ levels and additional game modes.\n\n\u201cThis is a game you can't put down, mounted in a frame about a game someone can't put down. Play this game!\u201d - Eurogamer\n\nDEVELOPED BY Mushy Jukebox\n\u201cI wanted to create a wild and unpredictable story wrapped in engaging gameplay, where you become someone living in a dystopian world, spending his time playing a platformer in a warm summer night.\u201d \n - Umut Dervi\u015f, creator of A Night at the Races\n\nPUBLISHED BY Nakana.io\n\u201cWe publish games that aim to offer a new experience. The hybrid nature of A Night at the Races creates a unique synergy between the story and the action.\u201d - Mika\u00ebl Bourget, founder of the publishing label",
+        "languages": [
+            "ja",
+            "en",
+            "fr"
+        ],
+        "size": 507510784
+    },
     "70010000043395": {
         "id": "01007E9015750000",
         "rightsId": null,
@@ -30497,6 +30667,36 @@
         "languages": null,
         "size": 211812352,
         "parentId": "0100E95015392000"
+    },
+    "70030000014226": {
+        "id": null,
+        "rightsId": null,
+        "name": "Road 96 Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000014226,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Drogas L\u00edcitas",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 959447040,
+        "parentId": "010031B0145B4000"
     },
     "70050000002681": {
         "id": "01008F1008DA7001",
