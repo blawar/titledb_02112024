@@ -8463,7 +8463,7 @@
             "ko",
             "zh"
         ],
-        "size": 6995050496
+        "size": 7002390528
     },
     "70010000033131": {
         "id": "0100535012974000",
@@ -8613,6 +8613,47 @@
             "it"
         ],
         "size": 9249488896
+    },
+    "70010000034380": {
+        "id": "01006E7013018000",
+        "rightsId": null,
+        "name": "The Magister",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210902,
+        "nsuId": 70010000034380,
+        "category": [
+            "Strategy",
+            "Other"
+        ],
+        "ratingContent": [
+            "Alcohol Reference",
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Digerati",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/21f0e5dd672d78891ddc0affc4df12e7ab5a9870a6343f45a621b46b419cf438.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f098fbc478925ab5a4ff10280c23978bebdbb6e926aea5563b4cb7f07847872d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebf9a3126267655abe589099da27d2532840218103d007c46746145e90e936e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/273bcc772b64ed1c472484f875d85ed2c0e5dfcef8f7047c09955a80bac4aedd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3dfedb837f62c4a18391f049ba0e133b8e679e09faa953b9cedb9dffc7b9cb59.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5380eee00353edfe1acc92339ecf2d18e68186636957dfeaaa8ba7d85224903f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/052f7cf46346f6fbf2b75e0c3fdfe390da30da12a04fb49f3a522b853c165df4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5149847190ba58e2f49ecc19107bd71e8400c1ec0d89b7cdbbeca86585996faf.jpg",
+        "intro": "A card-based whodunit. Piece together the clues and catch the killer!",
+        "description": "The Magister is a murder-mystery card-battler RPG.\n\nBuild and customise your deck to fight in battles, or use \u2018Tactical Diplomacy\u2019 to pacify those who stand in your way.\n\nGather clues and discover motives as you investigate the death of your predecessor and unmask the guilty culprit.\nKey Features\nRandomly generated murder-mystery: A walkthrough won\u2019t help here! The events, clues, motives, and murderer change with every playthrough. Only YOU can identify the guilty suspect.\n\nTactical card-based encounters: Your combat and negotiation skills are determined by the cards in your deck. Use a vast array of cards, such as \u2018Heartstopper\u2019, \u2018Poison Slash\u2019, \u2018Weak Joke\u2019, and \u2018Long Talk\u2019.\n\nPacify enemies for a peaceful outcome: Use \u2018Tactical Diplomacy\u2019 as an alternative to fighting and calm foes with your conversation cards to reduce their Rage level to 0.\nChoose your Magister: Different Magisters come with their own specialities and flaws. From cunning alcoholic to intelligent insomniac \u2013 every variation defines a different adventure.\n\nRecruit a human ally or furry companion: If needed, a Mercenary, Spy, or Sage can be recruited to assist in your investigation. You can also befriend one of the local cats or dogs to fight by your side in battles.\n\nSet in a captivating fantasy world: You have 14 days to wander Silverhurst and befriend or intimidate its inhabitants as you race against time to unmask the murderer.",
+        "languages": [
+            "en"
+        ],
+        "size": 391118848
     },
     "70010000034439": {
         "id": "010028600EBDA000",
@@ -9620,22 +9661,22 @@
         ],
         "ratingContent": [],
         "numberOfPlayers": 1,
-        "rating": 6,
+        "rating": 10,
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/30e88eff36810ac92b8c1d459f1e7e2b01ade15b9c76b764cc216ed1ce9ae84d.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/4acd25ef576a264b5b06b3115ae5e91eff749d68f49f702a2aad1d89bc443932.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2901266e13d9fe0cda7479e9ab2a64fb25bd22852e5b3038c6ff0942e5f2f801.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/4be3aecd2681976e53d755406e1e9e6f2ab857701e24588944d9921042f97b34.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/e5634cbaa3be2cc7f847ff8834e9f7d9612ddd72e08e72357b67fc22abf816ab.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/d7df54ba02bbdd747f482cf298c8d244cdb06d54da5a1113d7dfb07f8905665d.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/745cb0a8097d1b3465dd31147bbe05fc5ce39ed37807c2b0c3961e909dc0bf1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/310bf3c0e943beec2347da726a2a006c84072753206ef856e4c514a14f207af4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/320ffb4e290966aca9416e78008ff1798cc47c8fccae54443becae37c43ecb30.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/292f0449942197213b5186b18e23145ce984974e9cac2c4fdc8c4cbc8ead6186.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7f9a73b5deaa0ecefe467296111673788a97db9e32642b4cd556c6573965f0d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e9970635c91c429286ad0361b3431bb05f662b7c88569bf11fde9891fc9ded0f.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69c99550aedefc6d58d7a8941d6945fbe86355c4bae3cb721f909e29becfbce0.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dcb496d7cf954c7eb51ab2e5d0c27918fb7f055e50f4e902135bd4a70a44b491.jpg",
         "intro": "Action meets RPG as the Pok\u00e9mon series reaches a new frontier",
-        "description": "Get ready for a new kind of grand, Pok\u00e9mon adventure in Pok\u00e9mon\u2122 Legends: Arceus, a brand new game from Game Freak that blends action and exploration with the RPG roots of the Pok\u00e9mon series. Explore natural expanses to catch Pok\u00e9mon by learning their behavior, sneaking up, and throwing a well-aimed Pok\u00e9 Ball. You can also toss the Pok\u00e9 Ball containing your ally Pok\u00e9mon near a wild Pok\u00e9mon to seamlessly enter battle. This new angle on Pok\u00e9mon gameplay will deliver an immersive, personal experience brought to life by both Pok\u00e9mon and humans.\n\nTravel to the Sinnoh region of old\n\nExplore the Sinnoh region from the Pok\u00e9mon Diamond Version and Pok\u00e9mon Pearl Version games, but long before the events of those titles. In this era, the Sinnoh region is filled with Pok\u00e9mon living in harsh environments. Set out to create the region\u2019s first Pok\u00e9dex and discover the secrets of a long-gone time. At the start of your adventure, you can choose Rowlet, Cyndaquil, or Oshawott as your dependable partner. Along the way, a mystery surrounding the Pok\u00e9mon known as Arceus will begin to unfold.",
+        "description": "Get ready for a new kind of grand, Pok\u00e9mon adventure in Pok\u00e9mon\u2122 Legends: Arceus, a brand-new game from Game Freak that blends action and exploration with the RPG roots of the Pok\u00e9mon series. Embark on survey missions in the ancient Hisui region. Explore natural expanses to catch wild Pok\u00e9mon by learning their behavior, sneaking up, and throwing a well-aimed Pok\u00e9 Ball\u2122. You can also toss the Pok\u00e9 Ball containing your ally Pok\u00e9mon near a wild Pok\u00e9mon to seamlessly enter battle. \n\nTravel to the Hisui region\u2014the Sinnoh of old\u2014and build the region\u2019s first Pok\u00e9dex\n\nYour adventure takes place in the expansive natural majesty of the Hisui region, where you are tasked with studying Pok\u00e9mon to complete the region\u2019s first Pok\u00e9dex. Mount Coronet rises from the center, surrounded on all sides by areas with distinct environments. In this era\u2014long before the events of the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl games\u2014you can find newly discovered Pok\u00e9mon like Wyrdeer, an evolution of Stantler, and new regional forms like Hisuian Growlithe! Along the way, uncover the mystery surrounding the Mythical Pok\u00e9mon known as Arceus.\n\nPreorder for a special in-game costume and download the digital version for Heavy Balls!\n\nThe Hisuian Growlithe Kimono Set will be gifted to early purchasers of the Pok\u00e9mon Legends: Arceus game. You can receive it by choosing Get via internet in the Mystery Gifts* feature in your game, up until May 9th, 2022 at 4:59pm PT. Then, dress yourself up in this Hisuian Growlithe Kimono Set! Players who purchase and download the game before May 9th, 2022 at 4:59pm PT from Nintendo eShop will get an email with a code for 30 Heavy Balls which can be redeemed through the Mystery Gifts* feature until May 16th, 2022 at 4:59pm PT. Heavy Balls have a higher catch rate than regular Pok\u00e9 Balls, but you can\u2019t throw them quite as far.\n\nAs the protagonist of this game, you'll meet Professor Laventon, who studies the ecology of Pok\u00e9mon as a member of the Galaxy Expedition Team. Before long, you'll join the Galaxy Team yourself and get to work as a member of the Survey Corps. Your goal will be to meet every species of Pok\u00e9mon in the region!\n\nAfter receiving an assignment or a request and preparing for your next excursion, you'll set out from Jubilife Village to study one of the various areas of the Hisui region. There may be certain Pok\u00e9mon behaviors\u2014or even entire species\u2014that you witness only under the right conditions, such as during a particular time of day or in certain kinds of weather. Word has it that some Pok\u00e9mon even act in ways that are unique to their species! Keep an eye on your health while out adventuring\u2014take too much damage from wild Pok\u00e9mon attacks or falling from high places and you\u2019ll be unable to go on!\n\nBattles in the Hisui region also have some unique properties. For the first time in the series, your Pok\u00e9mon unleash moves with the speedy agile style or the powerful strong style. These styles might also affect how many turns Pok\u00e9mon can take in a row!\n\nJubilife Village is the main base of your adventures in Pok\u00e9mon Legends: Arceus. In Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl, this village has grown to be the bustling Jubilife City. There are also characters in Pok\u00e9mon Legends: Arceus who are ancestors of some familiar faces you may know.",
         "languages": [
             "ja",
             "en",
@@ -9664,7 +9705,9 @@
             "RPG"
         ],
         "ratingContent": [
-            "Mild Cartoon Violence"
+            "Mild Cartoon Violence",
+            "Users Interact",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": 1,
         "rating": 6,
@@ -9673,16 +9716,16 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/cd823d059be7ca9e9d0254c2ac5167cf4b6ba535c2dcd95c6a608084f03f6707.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7a56d2c146d84a4a6caacb99a20174ea912ba609f2a2f8dd37c9114d414d78d2.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f6dfb2e2e2813cbb0ac2cf48fde313e49fe2c071fabc70e9aec86bd5fd35d2cc.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/9649f01902e506fa3891d1b3490622051cc8f1754708a3cd83a9322943bc9229.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/5ad405fec4204f0a023d77cdf0f943628852308fb3e7152b2f937d489d1d47cb.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/6865ff13b5ebfffe1ee7236793838e32c31e4725cdedd5b353aca97b089cb091.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/98f268a8e539178302827e8bd770a3d273d1dd18890f68f87f93589f8deb4be5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/080d47d081a28d427e2cb3f4fe420a22c548caba89a169b1b68df38eedff9431.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/59fa405e0614bf4a1c78336ed4bb5c318e5f57501d51d227803531461f5326f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62fc3af5a3307232017506346084734726ea69525df7033fff5de241e45ce0d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cc71fb98b8d64c0723598cde01a620afe4c3022c825a2b8956bd02efc1ee1af2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78b175341f1bb0b931c39fe8641218b14cc4933070221b7f05d63e270d1602f9.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6a6c47053f2647c758f1f403df9ce8539be627cc7d73553358419bf932916fc4.jpg",
-        "intro": "Revisit the Sinnoh region and the story of the Pok\u00e9mon Diamond Version game",
-        "description": "Experience the nostalgic story from the Pok\u00e9mon Diamond Version game in a reimagined adventure, Pok\u00e9mon\u2122 Brilliant Diamond, now on the Nintendo Switch\u2122 system! Adventures in the Pok\u00e9mon Brilliant Diamond game will take place in the familiar Sinnoh region. Rich in nature and with mighty Mount Coronet at its heart, Sinnoh is a land of many myths passed down through the ages. You\u2019ll choose either Turtwig, Chimchar, or Piplup to be your first partner Pok\u00e9mon and then set off on your journey to become the Champion of the Pok\u00e9mon League. Along the way, you\u2019ll be able to encounter the Legendary Pok\u00e9mon Dialga.\n\nAdventure together with the Pok\u00e9mon that appeared in the Pok\u00e9mon Diamond Version game. Players of the original games can revisit familiar places and relive familiar scenes, while first time players can enjoy plenty of fun encounters and surprises that the Sinnoh region has to offer. The original story and the scale of the Sinnoh region\u2019s towns and routes have been faithfully reproduced. This remake has also been revitalized with some of the player-friendly features of modern Pok\u00e9mon games and up-close-and-personal Pok\u00e9mon battle scenes.\n\nWhether you played Pok\u00e9mon Diamond Version or Pok\u00e9mon Pearl Version back in the day or you\u2019re encountering these games for the first time, there\u2019s something for everyone to enjoy.\n\nA double pack containing the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl games will be available for purchase as a packaged version or as a digital downloadable version. The packaged version includes 1 physical copy of the Pok\u00e9mon Brilliant Diamond game and 1 physical copy of the Pok\u00e9mon Shining Pearl game while the downloadable version includes copies of both the Pok\u00e9mon Brilliant Diamond game and the Pok\u00e9mon Shining Pearl game.",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37fdb03bef333221200ace5554c0d43e17ab547d8c3285d444d71808ee52f83a.jpg",
+        "intro": "Revisit the Sinnoh region and story of Pok\u00e9mon\u2122 Diamond Version",
+        "description": "Experience the nostalgic story from the Pok\u00e9mon Diamond Version game in a reimagined adventure, Pok\u00e9mon\u2122 Brilliant Diamond, now on the Nintendo Switch\u2122 system! Adventures in the Pok\u00e9mon Brilliant Diamond game will take place in the familiar Sinnoh region. Rich in nature and with mighty Mount Coronet at its heart, Sinnoh is a land of many myths passed down through the ages. You\u2019ll choose either Turtwig, Chimchar, or Piplup to be your first partner Pok\u00e9mon and then set off on your journey to become the Champion of the Pok\u00e9mon League. Along the way, you\u2019ll run into the mysterious organization Team Galactic, and be able to encounter the Legendary Pok\u00e9mon Dialga.\n\nExplore the revamped Grand Underground or put on a Super Contest Show\n\nThe Underground from the Pok\u00e9mon Diamond Version game has been powered up and is now called the Grand Underground. Here, you can dig up valuable treasure and Pok\u00e9mon Fossils, create your own Secret Base, and catch Pok\u00e9mon in places called Pok\u00e9mon Hideaways. When you aren\u2019t exploring in the Grand Underground, enter a Super Contest Show! Super Contest Shows are popular events in the Sinnoh region, each put on by four performers and their partner Pok\u00e9mon, who work together to dance and show off their performance skills. You can also adventure in the Grand Underground or put on a Super Contest Show with other players through the local* communication or online** communication of your Nintendo Switch system!\n\nWalk with your Pok\u00e9mon, change up your style, and customize your Pok\u00e9 Balls\u2122\n\nChoose a Pok\u00e9mon that you\u2019ve befriended during your journey to walk along behind you in the game. Depending on the Pok\u00e9mon, you\u2019ll see different gestures or ways of walking, and when you talk to your Pok\u00e9mon, it will respond. You\u2019ll also be able to add your own personal style! Choose a variety of outfits and coordinate tops and bottoms. Some are based around Pok\u00e9mon motifs and others change your hairstyle. You can even use Capsule Decoration to add stickers to customize the effects that appear when your Pok\u00e9mon comes out of its Pok\u00e9 Ball!\n\nPreorder for a special Pok\u00e9mon Egg and download the digital version for Quick Balls!\n\nA Manaphy Egg will be gifted to early purchasers of either the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl games. You can receive it by choosing Get via internet in the Mystery Gift*** feature in your game, up until Monday February 21, 2022 at 4:59PM PT. Then, leave Manaphy with the Pok\u00e9mon Nursery to get an Egg containing Phione! \n\nIf you purchase and download the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl game from Nintendo eShop by Monday February 21, 2022 at 4:59PM PT, you\u2019ll receive a code**** that can be redeemed through the Mystery Gift*** feature for 12 Quick Balls, or 24 Quick Balls if you purchase the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl Double Pack! If you use a Quick Ball right after a battle starts, you will have a better chance of catching a wild Pok\u00e9mon right away. The code will be valid through Monday, February 28, 2022 at 4:59PM PT.\n",
         "languages": [
             "ja",
             "en",
@@ -9711,7 +9754,9 @@
             "RPG"
         ],
         "ratingContent": [
-            "Mild Cartoon Violence"
+            "Mild Cartoon Violence",
+            "Users Interact",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": 1,
         "rating": 6,
@@ -9720,16 +9765,16 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/cd823d059be7ca9e9d0254c2ac5167cf4b6ba535c2dcd95c6a608084f03f6707.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7a56d2c146d84a4a6caacb99a20174ea912ba609f2a2f8dd37c9114d414d78d2.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f6dfb2e2e2813cbb0ac2cf48fde313e49fe2c071fabc70e9aec86bd5fd35d2cc.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/9649f01902e506fa3891d1b3490622051cc8f1754708a3cd83a9322943bc9229.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/5ad405fec4204f0a023d77cdf0f943628852308fb3e7152b2f937d489d1d47cb.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/6865ff13b5ebfffe1ee7236793838e32c31e4725cdedd5b353aca97b089cb091.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/98f268a8e539178302827e8bd770a3d273d1dd18890f68f87f93589f8deb4be5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/080d47d081a28d427e2cb3f4fe420a22c548caba89a169b1b68df38eedff9431.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/59fa405e0614bf4a1c78336ed4bb5c318e5f57501d51d227803531461f5326f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62fc3af5a3307232017506346084734726ea69525df7033fff5de241e45ce0d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cc71fb98b8d64c0723598cde01a620afe4c3022c825a2b8956bd02efc1ee1af2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78b175341f1bb0b931c39fe8641218b14cc4933070221b7f05d63e270d1602f9.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4cdb0a7bf29344739995e2628533b645bedb93ce4ee7ed6e672663067f348e30.jpg",
-        "intro": "Revisit the Sinnoh region and the story of the Pok\u00e9mon Pearl Version game",
-        "description": "Experience the nostalgic story from the Pok\u00e9mon Pearl Version game in a reimagined adventure, Pok\u00e9mon\u2122 Shining Pearl, now on the Nintendo Switch\u2122 system! Adventures in the Pok\u00e9mon Shining Pearl game will take place in the familiar Sinnoh region. Rich in nature and with mighty Mount Coronet at its heart, Sinnoh is a land of many myths passed down through the ages. You\u2019ll choose either Turtwig, Chimchar, or Piplup to be your first partner Pok\u00e9mon and then set off on your journey to become the Champion of the Pok\u00e9mon League. Along the way, you\u2019ll be able to encounter the Legendary Pok\u00e9mon Palkia.\n\nAdventure together with the Pok\u00e9mon that appeared in the Pok\u00e9mon Pearl Version game. Players of the original games can revisit familiar places and relive familiar scenes, while first time players can enjoy plenty of fun encounters and surprises that the Sinnoh region has to offer. The original story and the scale of the Sinnoh region\u2019s towns and routes have been faithfully reproduced. This remake has also been revitalized with some of the player-friendly features of modern Pok\u00e9mon games and up-close-and-personal Pok\u00e9mon battle scenes.\n\nWhether you played Pok\u00e9mon Diamond Version or Pok\u00e9mon Pearl Version back in the day or you\u2019re encountering these games for the first time, there\u2019s something for everyone to enjoy.\n\nA double pack containing the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl games will be available for purchase as a packaged version or as a digital downloadable version. The packaged version includes 1 physical copy of the Pok\u00e9mon Brilliant Diamond game and 1 physical copy of the Pok\u00e9mon Shining Pearl game while the downloadable version includes copies of both the Pok\u00e9mon Brilliant Diamond game and the Pok\u00e9mon Shining Pearl game.",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/17372def2eff2da3820113a9acecc15ae3d98d11024b0c6de59624835085eac0.jpg",
+        "intro": "Revisit the Sinnoh region and story of Pok\u00e9mon\u2122 Pearl Version",
+        "description": "Experience the nostalgic story from the Pok\u00e9mon Pearl Version game in a reimagined adventure, Pok\u00e9mon\u2122 Shining Pearl, now on the Nintendo Switch\u2122 system! Adventures in the Pok\u00e9mon Shining Pearl game will take place in the familiar Sinnoh region. Rich in nature and with mighty Mount Coronet at its heart, Sinnoh is a land of many myths passed down through the ages. You\u2019ll choose either Turtwig, Chimchar, or Piplup to be your first partner Pok\u00e9mon and then set off on your journey to become the Champion of the Pok\u00e9mon League. Along the way, you\u2019ll run into the mysterious organization Team Galactic, and be able to encounter the Legendary Pok\u00e9mon Palkia.\n\nExplore the revamped Grand Underground or put on a Super Contest Show\n\nThe Underground from the Pok\u00e9mon Pearl Version game has been powered up and is now called the Grand Underground. Here, you can dig up valuable treasure and Pok\u00e9mon Fossils, create your own Secret Base, and catch Pok\u00e9mon in places called Pok\u00e9mon Hideaways. When you aren\u2019t exploring in the Grand Underground, enter a Super Contest Show! Super Contest Shows are popular events in the Sinnoh region, each put on by four performers and their partner Pok\u00e9mon, who work together to dance and show off their performance skills. You can also adventure in the Grand Underground or put on a Super Contest Show with other players through the local* communication or online** communication of your Nintendo Switch system!\n\nWalk with your Pok\u00e9mon, change up your style, and customize your Pok\u00e9 Balls\u2122\n\nChoose a Pok\u00e9mon that you\u2019ve befriended during your journey to walk along behind you in the game. Depending on the Pok\u00e9mon, you\u2019ll see different gestures or ways of walking, and when you talk to your Pok\u00e9mon, it will respond. You\u2019ll also be able to add your own personal style! Choose a variety of outfits and coordinate tops and bottoms. Some are based around Pok\u00e9mon motifs and others change your hairstyle. You can even use Capsule Decoration to add stickers to customize the effects that appear when your Pok\u00e9mon comes out of its Pok\u00e9 Ball!\n\nPreorder for a special Pok\u00e9mon Egg and download the digital version for Quick Balls!\n\nA Manaphy Egg will be gifted to early purchasers of either the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl games. You can receive it by choosing Get via internet in the Mystery Gift*** feature in your game, up until Monday February 21, 2022 at 4:59PM PT. Then, leave Manaphy with the Pok\u00e9mon Nursery to get an Egg containing Phione!\n\nIf you purchase and download the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl game from Nintendo eShop by Monday February 21, 2022 at 4:59PM PT, you\u2019ll receive a code**** that can be redeemed through the Mystery Gift*** feature for 12 Quick Balls, or 24 Quick Balls if you purchase the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl Double Pack! If you use a Quick Ball right after a battle starts, you will have a better chance of catching a wild Pok\u00e9mon right away. The code will be valid through Monday, February 28, 2022 at 4:59PM PT.",
         "languages": [
             "ja",
             "en",
@@ -23835,7 +23880,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20210901,
         "nsuId": 70050000023831,
         "category": null,
         "ratingContent": [
@@ -32009,7 +32054,7 @@
         "intro": null,
         "description": "Expand your Immortals Fenyx Rising\u2122 adventure with the season pass - including three narrative DLCs for even more epic adventures and puzzles: \n\"\"A New God\"\": As Fenyx, overcome the trials of the gods of Olympus to join the Greek Pantheon and fulfill your destiny. \n\"\"Myths of the Eastern Realms\"\":  Play a brand-new story inspired by Chinese mythology, where you'll encounter new gods and fight exotic monsters in a distant land as a new hero.\n\"\"The Lost Gods\"\": Experience a new brawler-style of combat in a top-down view!  Meet a new hero embarking on an epic adventure to reunite the Greek gods. \n\nReceive the bonus quest - \"\"When the Road Gets Rocky\"\" - and earn dedicated in-game rewards when you purchase the season pass today.",
         "languages": null,
-        "size": 0,
+        "size": 10089398272,
         "ids": []
     },
     "70070000010562": {
@@ -32543,7 +32588,7 @@
         "intro": null,
         "description": "Receive the game, season pass, and exclusive in-game content with the Gold Edition. \n\nImmortals Fenyx Rising\u2122 brings grand mythological adventure to life. Play as Fenyx, a new, winged demigod, on a quest to save the Greek gods. \n\n- Wield the powers of the gods like Achilles' sword and Daidalos' wings to battle powerful enemies and solve ancient puzzles.\n- Fight iconic mythological beasts like Cyclops and Medusa in dynamic combat in the air and on the ground. \n- Use your skills and diverse weapons, including self-guided arrows, telekinesis, and more, for devastating damage.  \n- Discover a stylized open world across seven unique regions, each inspired by the gods.",
         "languages": null,
-        "size": 17634951168
+        "size": 27724349440
     },
     "70070000011300": {
         "id": null,
@@ -32819,7 +32864,9 @@
         "nsuId": 70070000012398,
         "category": null,
         "ratingContent": [
-            "Mild Cartoon Violence"
+            "Mild Cartoon Violence",
+            "Users Interact",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": null,
         "rating": 6,
@@ -32828,16 +32875,16 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/cd823d059be7ca9e9d0254c2ac5167cf4b6ba535c2dcd95c6a608084f03f6707.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7a56d2c146d84a4a6caacb99a20174ea912ba609f2a2f8dd37c9114d414d78d2.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f6dfb2e2e2813cbb0ac2cf48fde313e49fe2c071fabc70e9aec86bd5fd35d2cc.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/9649f01902e506fa3891d1b3490622051cc8f1754708a3cd83a9322943bc9229.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/5ad405fec4204f0a023d77cdf0f943628852308fb3e7152b2f937d489d1d47cb.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/6865ff13b5ebfffe1ee7236793838e32c31e4725cdedd5b353aca97b089cb091.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/98f268a8e539178302827e8bd770a3d273d1dd18890f68f87f93589f8deb4be5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/080d47d081a28d427e2cb3f4fe420a22c548caba89a169b1b68df38eedff9431.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/59fa405e0614bf4a1c78336ed4bb5c318e5f57501d51d227803531461f5326f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62fc3af5a3307232017506346084734726ea69525df7033fff5de241e45ce0d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cc71fb98b8d64c0723598cde01a620afe4c3022c825a2b8956bd02efc1ee1af2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78b175341f1bb0b931c39fe8641218b14cc4933070221b7f05d63e270d1602f9.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/73b9445ddfc0d8b29f2ab14a129281a3834c18f7deaa24463ac96e686358ec6b.jpg",
-        "intro": null,
-        "description": "A double pack containing the Pok\u00e9mon\u2122 Brilliant Diamond and Pok\u00e9mon\u2122 Shining Pearl games will be available for purchase as a packaged version or as a digital downloadable version. The packaged version includes 1 physical Pok\u00e9mon Brilliant Diamond game and 1 physical Pok\u00e9mon Shining Pearl game while the downloadable version includes digital versions of both the Pok\u00e9mon Brilliant Diamond game and the Pok\u00e9mon Shining Pearl game.\n\nRevisit the Sinnoh region and the story of the Pok\u00e9mon Diamond Version and the Pok\u00e9mon Pearl Version games\n\nExperience the nostalgic story from the Pok\u00e9mon Diamond Version and the Pok\u00e9mon Pearl Version games in a reimagined adventure, Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl, now on the Nintendo Switch\u2122 system! Adventures in the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl games will take place in the familiar Sinnoh region. Rich in nature and with mighty Mount Coronet at its heart, Sinnoh is a land of many myths passed down through the ages. You\u2019ll choose either Turtwig, Chimchar, or Piplup to be your first partner Pok\u00e9mon and then set off on your journey to become the Champion of the Pok\u00e9mon League. Along the way, you\u2019ll be able to encounter the Legendary Pok\u00e9mon Dialga (in Pok\u00e9mon Brilliant Diamond) or Palkia (in Pok\u00e9mon Shining Pearl).",
+        "intro": "Pok\u00e9mon\u2122 Brilliant Diamond and Pok\u00e9mon\u2122 Shining Pearl Double Pack",
+        "description": "A double pack containing the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl games are also available for purchase as a packaged version or as a digital downloadable version. The packaged version includes 1 physical Pok\u00e9mon Brilliant Diamond game and 1 physical Pok\u00e9mon Shining Pearl game. The downloadable version includes digital versions of both the Pok\u00e9mon Brilliant Diamond game and the Pok\u00e9mon Shining Pearl game, and both games will be automatically be downloaded to the system tied to the Nintendo Account that made the purchase. If you purchase either the physical or digital double pack, you will receive a 200 Pok\u00e9 Ball\u2122 bonus via download codes* that can be entered in the Mystery Gift** feature in your game!\n\nPreorder for a special Pok\u00e9mon Egg and download the digital version for Quick Balls!\n\nA Manaphy Egg will be gifted to early purchasers of either the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl games. You can receive it by choosing Get via internet in the Mystery Gift*** feature in your game, up until Monday February 21, 2022 at 4:59PM PT. Then, leave Manaphy with the Pok\u00e9mon Nursery to get an Egg containing Phione! \n\nIf you purchase and download the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl game from Nintendo eShop by Monday February 21, 2022 at 4:59PM PT, you\u2019ll receive a code**** that can be redeemed through the Mystery Gift*** feature for 12 Quick Balls, or 24 Quick Balls if you purchase the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl Double Pack! If you use a Quick Ball right after a battle starts, you will have a better chance of catching a wild Pok\u00e9mon right away. The code will be valid through Monday, February 28, 2022 at 4:59PM PT.",
         "languages": null,
         "size": 0
     },
