@@ -11496,7 +11496,7 @@
             "ko",
             "zh"
         ],
-        "size": 601882624
+        "size": 775946240
     },
     "70010000035193": {
         "id": "0100CCF012E9A000",
@@ -13913,6 +13913,54 @@
             "zh"
         ],
         "size": 2793406464
+    },
+    "70010000037150": {
+        "id": "0100614013DC0000",
+        "rightsId": null,
+        "name": "PJ MASKS: HEROES OF THE NIGHT",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211029,
+        "nsuId": 70010000037150,
+        "category": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Fantasiosa"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Outright Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0e062c44ba53eab52fd2882d737f3c330f2e58e172c7c69a5e498eae498cee55.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a1099e01fce711ae98597532ede7c7f6d1a579f0c9119a6ea93975f1dc753028.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a1a62abe783041037877c60df94363e7fe87a33e88f5c767c8356eff1670bc9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba70f51dcbc945997905b045cad1b9cfe83e2d195126d9bcf72dc49c65850789.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/494338f60111c30ca84dba1b0890b574a1041fba916052262792400b9dbd151a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6508bf43a6d8531cd9de03ebab8e5bf67a238cec90f28aa30229d41faa5a3296.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e147d41f13e42a73d082d135fc41bb24d97152e72764a117333cda61ea7ffb5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12c215c43fcbdba921d897f4e41039d67772a013ddb916dab572c62a094361a9.jpg",
+        "intro": "Become Catboy, Owlette, and Gekko and use your superpowers to explore the world of PJ Masks. Can you stop villains Romeo, Luna Girl, and Night Ninja?",
+        "description": "Who goes into the night to save the day? You do! \n\nGet your PJs on and become Catboy, Owlette, and Gekko in the most exciting PJ Masks game yet. Set off from Mission Control HQ on a platforming adventure for little heroes. Use your superpowers \u2013 like Catboy\u2019s speed, Owlette\u2019s flying, and Gekko\u2019s muscles \u2013 to stop the night-time baddies. And explore eight PJ Masks locations, from Mystery Mountain all the way to Moon! With PJ Robot\u2019s help, you\u2019ll discover a world of friendship, teamwork, and secret collectibles.\n\nCan you save the world from Romeo, Luna Girl, and Night Ninja?\n\n\nBE THE HEROES - Play as Catboy, Owlette, and Gekko\n\nEXPLORE THE WORLD \u2013 Visit 8 familiar PJ Masks locations\n\nPLAY SAFELY \u2013 Use controls designed for little heroes\n\nSTOP THE BADDIES \u2013 Save the day from Romeo, Luna Girl, Night Ninja and more\n\nSEARCH FOR COLLECTIBLES \u2013 Find lots of cool hidden items.\n",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "zh"
+        ],
+        "size": 7414480896
     },
     "70010000037170": {
         "id": "0100749013DCE000",
@@ -17922,7 +17970,7 @@
         "languages": [
             "en"
         ],
-        "size": 2800746496
+        "size": 2848980992
     },
     "70010000039186": {
         "id": "01006C70146A2000",
@@ -21470,9 +21518,9 @@
         "languages": [
             "ja",
             "en",
+            "fr",
             "pt",
             "es",
-            "fr",
             "de",
             "it",
             "ru",
@@ -22731,14 +22779,14 @@
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/0ee7e0abd3e2120382c73c76d4873ddf8b95cffc80f86393827bbc9ff1025289.jpg",
             "https://img-eshop.cdn.nintendo.net/i/3498cfad1de26984bbd82cea564df7a68e0dbe1c565b79b0c4318c2eaa355801.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/012ca846096580895f2895e2814e1c0245baa5e6010b4216bf1516142c85fd7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/81a70fe0d76529badc4bb1f0faceb44616924670fd68c08edcf00c0e0a3a0e72.jpg",
             "https://img-eshop.cdn.nintendo.net/i/9611ddaca2446c660342b3911842fa382edd16274f03ee4bd3347e2c17c6a81b.jpg",
             "https://img-eshop.cdn.nintendo.net/i/2d3edcc8144503ee1dd1dfe6e0dc05478241ea57c6dd96ca4aedb4292786fb16.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/c6edcf5020da477270d164b9519fbb2da88c20765161cbfdaabc59ee60bc329d.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/c07198fff2a03f89137fb2e203a9cbd21ec21b0b848edf09573fd35cceba45a1.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dcec649506072a3d46d767910f15d23f3f5c9c8d9a5d7dff1d05e23055f41f09.jpg",
-        "intro": "Help Kittey find his parents! They're lost in a dream, but dreaming is what young Kittey does best.",
-        "description": "A heart-shaped stranger has arrived on Kitty Island! And he brings news of his parents. Of course Kittey has to go on a journey to find them now. Deep below the world, Darkside awaits. And possibly a nightmare or two. But Kittey will be fine - he'll just have to find more of these mysterious hearts. Hearts are love, and love gives us strength.\n\nHeart Chain Kitty is a 3d platformer with big and surreal levels. Kittey learns new abilities as he progresses through his adventure. Putting these to good use, he'll surely find his parents soon.\n\nFeatures:\n\n\u25cfA smooth and shiny voxel world\n\u25cfA little chubby kitty as a protagonist\n\u25cfSpace hippos!\n\u25cfTwo secret bosses and optional levels & challenges\n\u25cfQuests\n\u25cfA robot mom!\n\u25cfLittle nerds (plural because there's more than one)\n\u25cfOver 50 levels\n\u25cf2.5d Levels - hidden 2d levels in a 3d platformer\n\u25cfTwo and a half endings (and one non-ending)\n\u25cfA very big 3d platform adventure",
+        "intro": "Help Kittey find his parents! They may be lost in a dream ... but dreaming is just what young Kittey does best.",
+        "description": "Heart Chain Kitty is a surreal 3D platformer where Kittey embarks on an epic adventure in search of his parents \u2013 learning new abilities along the way.  When a heart-shaped stranger arrives on Kitty Island with news, Kittey begins his search. Deep below the world, Darkside awaits \u2013 and possibly a nightmare or two \u2013 but Kittey will be fine \u2026 he'll just have to find more of these mysterious hearts. Hearts are love, and love gives us strength!\n\nFeatures:\n\n\u25cfExplore more than 40 levels.\n\u25cfVisit large, surreal, and colorful worlds.\n\u25cfGet around using a variety of Kittey\u2019s abilities \u2013 like a bottle rocket, zooming, launch rings, swimming, pole-climbing, and more!\n\u25cfJump between dimensions and complete additional  challenging 2D levels.\n\u25cfComplete quests and collect items. \n\u25cfTry to unlock the multiple endings, secret levels, and hidden bosses!",
         "languages": [
             "en",
             "es",
@@ -24518,7 +24566,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/02bfc63fcd3489b5e7822a578c238ec2180c9150d86384ed04f138a6a4c20a5a.jpg",
         "intro": "Build spaceships on the fly in this fast paced action roguelike",
-        "description": "Action roguelike where you build and command your own spaceships. Battle enemies, explore planets and customize your ship on the fly. Make the best use of the quirky ship modules you find, ranging from slingshots to ion cannons, to try and avoid certain death.",
+        "description": "Action roguelike where you build and command your own spaceships. Battle enemies, explore planets and customize your ship on the fly. Make the best use of the quirky ship modules you find, ranging from slingshots to ion cannons, to try and avoid certain death.\n\nBuild and design as you go\nDesign, build and command unique spaceships through mysterious alien infested galaxies while scavenging for spaceship parts in a desperate attempt at finding what you once called home.\n\nRoguelike elements\nSpace Scavenger combines roguelike elements such as permadeath and procedurally generated levels with a streamlined on-the-fly spaceship building mechanic. Improve and tweak the fighting capabilities and layout of your spaceship as you progress through the increasingly harsh levels.\n\nImprove and adapt\nWhile scavenging for spaceship parts and exploring strange planets you will come across weapons, defensive and utility modules, all with unique capabilities. Carefully watch your ammunition and energy levels to stay ready for an incoming battle. Your ability to adapt and improve the layout of your ship while finding new parts will be the difference between survival and certain death.",
         "languages": [
             "en",
             "es",
@@ -25991,6 +26039,56 @@
             "zh"
         ],
         "size": 2225078272
+    },
+    "70010000041888": {
+        "id": "010000E015046000",
+        "rightsId": null,
+        "name": "Eternal Hope",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210826,
+        "nsuId": 70010000041888,
+        "category": [
+            "Adventure",
+            "Platformer",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Fantasiosa"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Doublehit Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eb8c6f823e5126217573c137c68b0bfb4237aa1365b16931d6cf01a57e4a10e0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a5baa1071ad92c10e79f32c0c892c1d257395a27f4a4f8dc61efb6b833c69d1f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f27757b46fe315f6dcb6b1d2462e6f9fa23d2ffb42e3cc71226c216d0d22a35d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ddaa5b83a2bee51f95de43c28305edd3e9ff8148ba6f31baf9cd97b598257f2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc6fc751cfd8ab7bc80d4502d6805dc1fcdf4c5bb1301e29c5e4f18642057489.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e36f2d95bf039fb71d7af2b42a25a94079208d2ac4f4297aea4e24db2fc1256a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3721fe6fdd5b35d4d70e19a0e67c6d9509a87199976415e530e4d8dc0d658171.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1234da2e57dd1c5f965713455fe246199bf28ef94a137f32f351d6f4d4ab338b.jpg",
+        "intro": "Eternal Hope is a puzzle platformer game that follows the story of Ti\u2019bi \u2013 a boy who must embark on a journey of love and hope to find his beloved\u2019s soul.",
+        "description": "\"Perhaps you\u2019d be willing to go to the end of the world for your beloved, but would you go beyond it?\"\nIn Eternal Hope you'll follow the story of Ti'bi, a lonely boy who has lost the love of his life. You\u2019ll embark with him on a highly unusual journey \u2013 one that might bring the soul of his cherished girlfriend back from the Shadow World, a purgatory-like realm. But visiting this new world will not be easy. There will be dangers to overcome and many mysteries to unearth before you can continue your passage.\n\nGranted the ability to shift between dimensions by the Keeper of Souls, this power will enable Ti\u2019bi to travel, solve puzzles and meet otherworldly beings that live among the shadows. Travel with Ti\u2019bi into the great beyond on this journey as you unravel ancient secrets not meant for the eyes of the living.\n\nGame Features\nEmbark on a journey to a dark, magical world full of mysteries!\nTravel across mystic forests, hidden caves, ancient cities to make your way up the mountains to the Temple of Souls.\nUse special powers to shift between worlds and change the environment in which you play.\nSolve puzzles with a little help! Use the environments and creatures of the Shadow World to help overcome the obstacles before you.\nFriend or foe? Meet unique creatures and find more about the species that dwell in the Shadow World.\nA beautiful and original soundtrack that will immerse you in Ti\u2019bi\u2019s emotional tale.\nTraverse evocative landscapes that help to tell a unique story.\nSee the world through Ti'bi's eyes as you unravel mysteries about yourself and a long-lost civilization.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1953497088
     },
     "70010000041908": {
         "id": "010003001536E000",
@@ -28573,7 +28671,7 @@
         "size": 0
     },
     "70010000042929": {
-        "id": null,
+        "id": "0100563010E0C000",
         "rightsId": null,
         "name": "WarioWare\u2122: Get It Together!",
         "version": null,
@@ -28594,7 +28692,7 @@
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/37e0b0a38fc81f8cd10c2a0721747dc919a1662ac7ec19c20d107603b99cbed1.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/29b8c8e0bf7aed161b2e3fd365c78bdba80fe8a2362071970b73f9c5f11c6d07.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f76dcdfcaee212e8444a0fea1e78fa0541f874e12c03c8e75f1f231118a9d538.jpg",
@@ -28603,9 +28701,9 @@
             "https://img-eshop.cdn.nintendo.net/i/b2ad05d9f2e8f9a59d3598c50d525cc874dd9d043a89d5f60047d934b3e24fd7.jpg",
             "https://img-eshop.cdn.nintendo.net/i/2cbaa8e447a8c185b7e11588d8f274408f2025a5722e1801857f09aaf9ff7f12.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/35dae967aea92da1c5600c9d581fc27b7ea937c457312d5f6e44f05c37a3a892.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b572221a658515d2bf2c10961c049727eb147a75290b7a134d4d659f86dc6912.jpg",
         "intro": "Microgame mayhem comes to the Nintendo Switch\u2122  system",
-        "description": "Take on over 200 quick and quirky microgames\u2014lightning-fast minigames filled with frantic fun\u2014solo or with a friend! When his latest harebrained business scheme goes awry, Wario must use his signature style (and smell) to fix it. How? By playing a twisted collection microgames of course! From assembling a robot to pulling out a statue\u2019s armpit hair, the WarioWare\u2122: Get It Together! game is a comedic, cooperative microgame mashup.\n\nFind a friendly frenzy with a mountain of microgames\n\nHelp out infamous game designer, Wario, after he gets sucked into his latest creation in Story Mode. Go it alone or with a friend in 2-player cooperative play\u2014a first for the series! You can either play on the same system* or via local wireless**.\n\nPlay as Wario and his colorful crew\n\nFor the first time, YOU control Wario and friends inside their own chaotic games. Use their distinctly absurd abilities to take on a rush of microgames. Tip a turtle with the help of Wario\u2019s dash or choose Ashley and hurl a spell at it. In WarioWare: Get It Together!, mix and match characters and microgames for maximum fun!\n\nWario is trying his luck at video games again, but this time he\u2019s really getting into it\u2014literally! Help Wario and friends play their way out of a microworld of microgames by taking on over 200 madcap microgames.",
+        "description": "Take on over 200 quick and quirky microgames\u2014lightning-fast minigames filled with frantic fun\u2014solo or with friends! When his latest harebrained business scheme goes awry, Wario must use his signature style (and smell) to fix it. How? By playing a twisted collection microgames of course! From assembling a robot to pulling out a statue\u2019s armpit hair, the WarioWare\u2122: Get It Together! game is a comedic, cooperative microgame mashup.\n\nFind a friendly frenzy with a mountain of microgames\n\nHelp out infamous game designer, Wario, after he gets sucked into his latest creation in Story Mode. Go it alone or with a friend with 2-player cooperative play\u2014a first for the series! You can either play on the same system or via local wireless*. Progress through the outlandish story to unlock even more ways to play. Flex your microgame muscles as you brawl it out or test your reflexes against up to three other players* in Variety Pack. Replay your favorite microgames in the Play-o-pedia, complete Missions, and check in weekly for a rotating set of online challenges in Wario Cup.\n\nPlay as Wario and his colorful crew\n\nFor the first time, YOU control Wario and friends inside their own chaotic games. Use their distinctly absurd abilities to take on a rush of microgames. Rock a baby to sleep with the help of Wario's dash or Ashley's spells! Earn in-game currency while you play, then exchange them for items that will let you customize your characters. In the WarioWare: Get It Together! game, mix and match characters and microgames for maximum fun!\n\nWario is trying his luck at video games again, but this time he\u2019s really getting into it\u2014literally! Help Wario and friends play their way out of a microworld of microgames by taking on over 200 madcap microgames. \n\nWhen you aren\u2019t bug busting in Story Mode, check out the Play-o-pedia to practice your microgame skills with each character. Spend some time with the kooky cast and give them items to improve their stats. These beefed up stats will come in handy during the weekly Wario Cup as you go for the high score! In Ranked Mode**, compare your Wario Cup scores with friends and players around the world.",
         "languages": [
             "ja",
             "en",
@@ -28619,7 +28717,7 @@
             "zh",
             "zh"
         ],
-        "size": 0
+        "size": 1416626176
     },
     "70010000042934": {
         "id": null,
@@ -28912,6 +29010,50 @@
             "en"
         ],
         "size": 68157440
+    },
+    "70010000043052": {
+        "id": "01000BE0156B2000",
+        "rightsId": null,
+        "name": "Nexomon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210917,
+        "nsuId": 70010000043052,
+        "category": [
+            "RPG",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Fantasiosa"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3656b264ca9ffade1d02a753c68cdc70267d9f91308bc6a7bb0e3c5dc78250ab.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ba3cdf2d37ef35d348d2a08df27ff9b76543e7050270106dff24a82506cd40b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d17e1bed7a51643b46f96e15ea134001418dcdc3a9b4e4dff39490b304a8007f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74ec209b697b42039f5a621eaf5d8c79be0e679b48a9b4581b10697b39bc77c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbbbd3b419db12d98b5f07c5e3d5b94112b326cc5f644ef5dae14501ce3cc3bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e5dcbc5b756e9a9269ebaa2b1cbf256eb2676a0d6f880d965051a4f37d12a11.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efc9f9171433fe09cd2d388a7b671a34452fd93beba718f45d538eb4ef92ed5f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d9c66a3192fb7aee47c33a07463133d64e339450104ff16e2d16bbeecf5ef29d.jpg",
+        "intro": "Experience the original Nexomon story for the first time on console!",
+        "description": "Get ready to explore a world where you can catch, evolve and collect over 300 unique Nexomon! Embark on an epic journey and build your ultimate team to take on powerful tamers and their fearsome Nexomon.\n\nBECOME A HERO\nChoose from seven unique starter Nexomon to begin your journey. Build a formidable team to take on powerful foes and save the world from the merciless Nexolord!\n\nLET THE BATTLES BEGIN\nTake part in thrilling 2D animated turn-based battles against wild Nexomon, fellow tamers, and legendary champions! You\u2019ll need to master the nine elemental types to have the advantage in battle.\n\nBUILD YOUR TEAM\nWeaken wild Nexomon to capture them and add them to your team. With over 300 Nexomon to find, there are plenty of options to customize your team to your liking.\n\nDISCOVER THE WORLD OF NEXOMON\nFrom thick forests to dangerous volcanoes and beautiful snowscapes - each area is teeming with Nexomon. Catch, train and evolve your Nexomon as you travel across ten different regions with your companions.\n\nMEET FRIENDS, BATTLE FOES\nEach city, town, and outpost is inhabited by a raft of unique characters - each with their own story to tell. Some will be loyal allies. Others will try to stop you in your tracks... ",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ko",
+            "zh"
+        ],
+        "size": 861929472
     },
     "70010000043076": {
         "id": "010084F0157AE000",
@@ -32022,6 +32164,34 @@
         "languages": null,
         "size": 959447040,
         "parentId": "010031B0145B4000"
+    },
+    "70030000014425": {
+        "id": null,
+        "rightsId": null,
+        "name": "WarioWare\u2122: Get It Together! Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000014425,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia Fantasiosa"
+        ],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 222298112,
+        "parentId": "0100563010E0C000"
     },
     "70050000002681": {
         "id": "01008F1008DA7001",
@@ -56887,7 +57057,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9a67a81c74c29b299ec189c1c318952adb6fff2d421762942592005c40024cab.jpg",
         "intro": "Go Bananas with your favorite monkey gang in the ultimate Super Monkey Ball adventure!\n",
-        "description": "Roll through wondrous worlds with AiAi and friends as you race to stop monkey mad scientist Dr. Bad-Boon from blowing up Jungle Island! Join the all-star monkey team of AiAi, MeeMee, GonGon, Baby, YanYan and Doctor as you bounce, tilt, and roll your way across hundreds of delightfully crafted levels and mazes. It\u2019s monkey business for the gang - play solo or with friends as you take down Dr. Bad-Boon and steal back your beloved bananas!\n\nFeatures:\n\u2022 The ultimate Super Monkey Ball Experience \u2013 More than 300 stages from Super Monkey Ball, Super Monkey Ball 2 and Super Monkey Ball Deluxe. \n\u2022 Go Bananas with 12 fun minigames including Monkey Racing, Monkey Soccer, Monkey Bowling, Monkey Baseball and much more! \n\u2022 Challenge your friends as you compete for top banana on the online leaderboards!\n\u2022 Assemble your all-star monkey team of up to 4 friends and work together to save Jungle Island with 4-player local co-op. \n\u2022 Immerse yourself in the Super Monkey Ball world with creative comic book-style story telling in Story Mode.\n\u2022 Want to be the coolest monkey on the block? Customize your character and Super Monkey Ball to make it your own! \n\nSuper Monkey Ball Banana Digital Deluxe Edition includes: 4 Day Early Access (10/1/2021), Classic Character Pack, Golden Banana Mode, SEGA Legends Pack, Classic Soundtrack and Customization Pack.",
+        "description": "Roll through wondrous worlds with AiAi and friends as you race to stop monkey mad scientist Dr. Bad-Boon from blowing up Jungle Island! Join the all-star monkey team of AiAi, MeeMee, GonGon, Baby, YanYan and Doctor as you bounce, tilt, and roll your way across hundreds of delightfully crafted levels and mazes. It\u2019s monkey business for the gang as you take down Dr. Bad-Boon and steal back your beloved bananas!\n\nFeatures:\n\u2022 The ultimate Super Monkey Ball Experience \u2013 More than 300 stages from Super Monkey Ball, Super Monkey Ball 2 and Super Monkey Ball Deluxe. \n\u2022 Go Bananas with 12 fun minigames including Monkey Racing, Monkey Soccer, Monkey Bowling, Monkey Baseball and much more! \n\u2022 Challenge your friends as you compete for top banana on the online leaderboards!\n\u2022 Immerse yourself in the Super Monkey Ball world with creative comic book-style story telling in Story Mode.\n\u2022 Want to be the coolest monkey on the block? Customize your character and Super Monkey Ball to make it your own! \n\nSuper Monkey Ball Banana Digital Deluxe Edition includes: 4 Day Early Access (10/1/2021), Classic Character Pack, Golden Banana Mode, SEGA Legends Pack, Classic Soundtrack and Customization Pack.",
         "languages": null,
         "size": 3292528640
     },
@@ -57226,7 +57396,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f204ca4d59747628f1f0ec03cb273878049d3d014fd67086e2bd7d8cbf16186f.jpg",
         "intro": null,
-        "description": "The DOOM Slayers Collection takes players through more than two decades of demon slaying \u2013 from the classic games that popularized the first-person shooter to the fan favorite franchise reboot, wield an arsenal of powerful weapons as you battle demon hordes on Mars, on Earth, and across Hell in five critically acclaimed games: DOOM, DOOM II, DOOM 64, DOOM 3, DOOM 64 and 2016's Action Game of the Year, DOOM (2016).\n\nGet even more out of the DOOM Slayers Collection by joining the Slayers Club, DOOM's official fan club. Once you join the club simply login to DOOM, DOOM II and DOOM 3 with your Bethesda.net account to unlock unique players skins in DOOM Eternal, \"one of the best first-person shooters ever.\" (GameRevolution).",
+        "description": "The DOOM Slayers Collection takes players through more than two decades of demon slaying \u2013 from the classic games that popularized the first-person shooter to the fan favorite franchise reboot, wield an arsenal of powerful weapons as you battle demon hordes on Mars, on Earth, and across Hell in five critically acclaimed games: DOOM, DOOM II, DOOM 3, DOOM 64 and 2016's Action Game of the Year, DOOM (2016).\n\nGet even more out of the DOOM Slayers Collection by joining the Slayers Club, DOOM's official fan club. Once you join the club simply login to DOOM, DOOM II and DOOM 3 with your Bethesda.net account to unlock unique players skins in DOOM Eternal, \"one of the best first-person shooters ever.\" (GameRevolution).",
         "languages": null,
         "size": 34662776832
     },

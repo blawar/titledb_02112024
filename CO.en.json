@@ -9726,7 +9726,7 @@
         "size": 0
     },
     "70010000042929": {
-        "id": null,
+        "id": "0100563010E0C000",
         "rightsId": null,
         "name": "WarioWare\u2122: Get It Together!",
         "version": null,
@@ -9748,7 +9748,7 @@
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/37e0b0a38fc81f8cd10c2a0721747dc919a1662ac7ec19c20d107603b99cbed1.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/29b8c8e0bf7aed161b2e3fd365c78bdba80fe8a2362071970b73f9c5f11c6d07.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f76dcdfcaee212e8444a0fea1e78fa0541f874e12c03c8e75f1f231118a9d538.jpg",
@@ -9757,9 +9757,9 @@
             "https://img-eshop.cdn.nintendo.net/i/b2ad05d9f2e8f9a59d3598c50d525cc874dd9d043a89d5f60047d934b3e24fd7.jpg",
             "https://img-eshop.cdn.nintendo.net/i/2cbaa8e447a8c185b7e11588d8f274408f2025a5722e1801857f09aaf9ff7f12.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/35dae967aea92da1c5600c9d581fc27b7ea937c457312d5f6e44f05c37a3a892.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b572221a658515d2bf2c10961c049727eb147a75290b7a134d4d659f86dc6912.jpg",
         "intro": "Microgame mayhem comes to the Nintendo Switch\u2122  system",
-        "description": "Take on over 200 quick and quirky microgames\u2014lightning-fast minigames filled with frantic fun\u2014solo or with a friend! When his latest harebrained business scheme goes awry, Wario must use his signature style (and smell) to fix it. How? By playing a twisted collection microgames of course! From assembling a robot to pulling out a statue\u2019s armpit hair, the WarioWare\u2122: Get It Together! game is a comedic, cooperative microgame mashup.\n\nFind a friendly frenzy with a mountain of microgames\n\nHelp out infamous game designer, Wario, after he gets sucked into his latest creation in Story Mode. Go it alone or with a friend in 2-player cooperative play\u2014a first for the series! You can either play on the same system* or via local wireless**.\n\nPlay as Wario and his colorful crew\n\nFor the first time, YOU control Wario and friends inside their own chaotic games. Use their distinctly absurd abilities to take on a rush of microgames. Tip a turtle with the help of Wario\u2019s dash or choose Ashley and hurl a spell at it. In WarioWare: Get It Together!, mix and match characters and microgames for maximum fun!\n\nWario is trying his luck at video games again, but this time he\u2019s really getting into it\u2014literally! Help Wario and friends play their way out of a microworld of microgames by taking on over 200 madcap microgames.",
+        "description": "Take on over 200 quick and quirky microgames\u2014lightning-fast minigames filled with frantic fun\u2014solo or with friends! When his latest harebrained business scheme goes awry, Wario must use his signature style (and smell) to fix it. How? By playing a twisted collection microgames of course! From assembling a robot to pulling out a statue\u2019s armpit hair, the WarioWare\u2122: Get It Together! game is a comedic, cooperative microgame mashup.\n\nFind a friendly frenzy with a mountain of microgames\n\nHelp out infamous game designer, Wario, after he gets sucked into his latest creation in Story Mode. Go it alone or with a friend with 2-player cooperative play\u2014a first for the series! You can either play on the same system or via local wireless*. Progress through the outlandish story to unlock even more ways to play. Flex your microgame muscles as you brawl it out or test your reflexes against up to three other players* in Variety Pack. Replay your favorite microgames in the Play-o-pedia, complete Missions, and check in weekly for a rotating set of online challenges in Wario Cup.\n\nPlay as Wario and his colorful crew\n\nFor the first time, YOU control Wario and friends inside their own chaotic games. Use their distinctly absurd abilities to take on a rush of microgames. Rock a baby to sleep with the help of Wario's dash or Ashley's spells! Earn in-game currency while you play, then exchange them for items that will let you customize your characters. In the WarioWare: Get It Together! game, mix and match characters and microgames for maximum fun!\n\nWario is trying his luck at video games again, but this time he\u2019s really getting into it\u2014literally! Help Wario and friends play their way out of a microworld of microgames by taking on over 200 madcap microgames. \n\nWhen you aren\u2019t bug busting in Story Mode, check out the Play-o-pedia to practice your microgame skills with each character. Spend some time with the kooky cast and give them items to improve their stats. These beefed up stats will come in handy during the weekly Wario Cup as you go for the high score! In Ranked Mode**, compare your Wario Cup scores with friends and players around the world.",
         "languages": [
             "ja",
             "en",
@@ -9773,7 +9773,7 @@
             "zh",
             "zh"
         ],
-        "size": 0
+        "size": 1416626176
     },
     "70010000042934": {
         "id": null,
@@ -10907,6 +10907,35 @@
         "languages": null,
         "size": 684720128,
         "parentId": "0100FA5010788000"
+    },
+    "70030000014425": {
+        "id": null,
+        "rightsId": null,
+        "name": "WarioWare\u2122: Get It Together! Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000014425,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Crude Humor"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 222298112,
+        "parentId": "0100563010E0C000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
