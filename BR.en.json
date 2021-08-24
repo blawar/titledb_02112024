@@ -7770,7 +7770,7 @@
             "it",
             "ru"
         ],
-        "size": 7757365248
+        "size": 7758413824
     },
     "70010000028928": {
         "id": "010039300B6A2000",
@@ -8271,7 +8271,7 @@
             "zh",
             "zh"
         ],
-        "size": 1398800384
+        "size": 1638924288
     },
     "70010000030827": {
         "id": "0100187011F8E000",
@@ -11498,6 +11498,57 @@
         ],
         "size": 775946240
     },
+    "70010000035171": {
+        "id": "0100CC6013432000",
+        "rightsId": null,
+        "name": "Embr",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210923,
+        "nsuId": 70010000035171,
+        "category": [
+            "Multiplayer",
+            "Action",
+            "Puzzle",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Fantasiosa"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Curve Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b84591662dadcfbbf0116739df0a73bdce5a2d3c2d34b3d784e2ec916c784543.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5099274ac9c184e13350331f06d423b22aa1de382401062a05e14c2cd8d9bc32.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ba7facaaa71e7834c579fbbc5f4fdb9db7130bffe54b94ffc2239d229967d26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/730aeff9638b334a50cea007c8d80937e3e67e032ceb8d868da8c429c61476b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8cb61172d0fd72879043c21ccc9b61450561d018894fe6d544f3fd541cb6da3f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73294784b1ff1fded4c74c03f9d081a040457164108bd5dd2ce74ca1cfc3529a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/284a76582abcff45e61bbc2e763fa509982aed29f236ceeeca730d7ef4c68d30.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/be6899755939cc2e5d77b9b7b31105476eea64e20d7317b1abf52bafefde1fe3.jpg",
+        "intro": "Join Embr, THE Emergency Services Revolution, and become an Embr Respondr\u2122 today!",
+        "description": "Join Embr, THE Emergency Services Revolution, and become an Embr Respondr\u2122 today! Fight fires and save lives while climbing the ladder of success, all within the comfort of flexible working hours. Embr's mission is simple; bring \u00fcber firefighting to everyone, everywhere.\n\nIt's time to redefine the firefighting service paradigm and give the power to you - the people - and we'll take care of the pesky paperwork. Everyone should have the opportunity to be a hero, and that's why with just one simple payment, you can become a Respondr\u2122 today!\n\nAs an Embr Respondr\u2122\ufe0f you'll answer clients' calls for help, and bring firefighting directly to their door! Break down doors, clear gas leaks and put out fires - no job is too much for an Embr Respondr\u2122\ufe0f.\n\nCome join us in what leading tech experts are calling the startup of the century, and become the hero you deserve to be.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 3825205248
+    },
     "70010000035193": {
         "id": "0100CCF012E9A000",
         "rightsId": null,
@@ -12633,7 +12684,7 @@
         "developer": null,
         "publisher": "Mossmouth",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/745d0f2159e0f3554ccbb078d36b6f78dcc30467119820a0c6e805d2bc863cf4.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f2dd12a018b64998c778b7d7eba1816ad4f3244b5b941fd92117dd3558ed4af7.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/e9b4fd6ccf0da62f5d63d6b289a557a671ca34a9687cf0e09d216997303633c8.jpg",
             "https://img-eshop.cdn.nintendo.net/i/4045b9c0654d061e20126aa487772552301fc7655274c47f67a150ddfb289f1e.jpg",
@@ -17275,7 +17326,7 @@
             "zh",
             "zh"
         ],
-        "size": 3476029440
+        "size": 3584032768
     },
     "70010000039006": {
         "id": "010000E0145BA000",
@@ -18237,7 +18288,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20210827,
+        "releaseDate": 20210826,
         "nsuId": 70010000039306,
         "category": [
             "Adventure",
@@ -18816,7 +18867,7 @@
             "zh",
             "zh"
         ],
-        "size": 429916160
+        "size": 509607936
     },
     "70010000039428": {
         "id": "010043E01476A000",
@@ -26044,9 +26095,11 @@
             "Platformer",
             "Action"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Medo"
+        ],
         "numberOfPlayers": 1,
-        "rating": 0,
+        "rating": 10,
         "developer": null,
         "publisher": "Hatinh Interactive",
         "frontBoxArt": null,
@@ -26386,7 +26439,7 @@
             "zh",
             "zh"
         ],
-        "size": 270532608
+        "size": 458227712
     },
     "70010000041978": {
         "id": "01006040153A0000",
@@ -28201,7 +28254,7 @@
             "zh",
             "zh"
         ],
-        "size": 510656512
+        "size": 511705088
     },
     "70010000042613": {
         "id": "010089B0155F8000",
@@ -31066,6 +31119,41 @@
         ],
         "size": 124780544
     },
+    "70010000044518": {
+        "id": "010014F015DF2000",
+        "rightsId": null,
+        "name": "Space Wars",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210825,
+        "nsuId": 70010000044518,
+        "category": [
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4f8140ed500e6b44cfeb9d523f304ca807782186bcae0be42e2f7297fe0b4c86.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6fe28ac809bfa2e8bdf7ca05209dd784c80b0ba10db01862e0d297053728de7b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c587f4956467cd3d2023eed872dc0aa1cf5b07966678cb4dc82b6434d356170.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0350f675715ec08d5624a87dd86521b109fb012851bced4280ff1138b8324f10.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c71f061f58bd5507195662275804dee2993cc89d0d0ee2e5ca80688587b7025.jpg",
+        "intro": null,
+        "description": "Space Wars is an exciting endless level-base game in which you control spaceship through multiples levels, trying to shoot down the enemies and avoiding their attacks.\n\nThe goal is shoot down all the enemies in each level, collect coins to unlock new spaceships, upgrade spaceships for better power and collect power ups disseminated around maps.",
+        "languages": [
+            "en"
+        ],
+        "size": 79691776
+    },
     "70010000044591": {
         "id": "01008FB015E40000",
         "rightsId": null,
@@ -31148,6 +31236,46 @@
             "ru"
         ],
         "size": 206569472
+    },
+    "70010000045039": {
+        "id": "0100D48016014000",
+        "rightsId": null,
+        "name": "Virtuous Western",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210903,
+        "nsuId": 70010000045039,
+        "category": [
+            "Puzzle",
+            "Arcade",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c447bf078bd4dbbb7090aff274a6f36f81e0ebe5b3d20236f4dd0d6a1f6fb252.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d75fba4720c81a8b4b4f525a1de2e2c7649fe78b8405906ccce78dc88a57b0e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17b54fb4946cb9f38e6e0e58796c660785ac69938068a86c4b81e837738d319e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3382a93e94bca071d28ce21e0b27a8f9e0c1f77cb8199eaadc6bb822a0606eea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf325e755e538efc279d48d651597b60e8de7aa0b3a0106261e9c3d543074c66.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af8d5519baa2b3927c81da3dfcb9a5577c362f7b89737eea520772a389022873.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5e47146eaab30b9f6fad91dfb49c20ca144c45902a20020961df77f0903fd2f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4b8ea0d008c7a0398a547e3933dd38884665cbde827216d83d62016f245aa1d1.jpg",
+        "intro": "Take down an outlaw gang using fast shootin\u2019 and clever cowboy trickery.",
+        "description": "Welcome to the old western frontier, where justice is served from the barrel of a gun! A nasty gang of outlaws has come to town, and they\u2019ve stolen our hero\u2019s favorite steed.\n\nUse your trusty revolver to shoot down enemies, or find other ways to use the environment to your advantage.\n\nDrop stuff down, blow stuff up, and even manipulate your foes to take each other out with friendly fire! Jump, dodge, and collect bullets.\n\t\t\nProve that you\u2019re the toughest gunslinger in the wild west!\n\nFeatures\n* Interesting and fun puzzles\n* Beautiful pixel art graphics\n* Different ways to eliminate enemies\n* 30 stages in the main campaign\n* Speedrun mode with a stopwatch",
+        "languages": [
+            "en"
+        ],
+        "size": 38797312
     },
     "70030000003461": {
         "id": null,
@@ -32120,9 +32248,11 @@
         "releaseDate": null,
         "nsuId": 70030000013880,
         "category": null,
-        "ratingContent": [],
+        "ratingContent": [
+            "Medo"
+        ],
         "numberOfPlayers": null,
-        "rating": 0,
+        "rating": 10,
         "developer": null,
         "publisher": null,
         "frontBoxArt": null,
@@ -56457,7 +56587,7 @@
         "intro": "Non-Stop Sonic speed. Color the Universe.",
         "description": "The evil Dr. Eggman has built an interstellar amusement park \u2013 but he\u2019s powering it with a captured alien race called \u201cWisps.\u201d Use Sonic\u2019s speed to free the Wisps and gain their amazing powers as you explore six unique worlds, filled with hurdles to overcome. Now with stunning upscaled visuals, additional features, a new game mode, and enhanced gameplay - it's the Ultimate Sonic Colors experience\n\nSonic Colors: Ultimate Digital Deluxe includes the Ultimate Cosmetic Pack (Customize Sonic and stand out with exclusive gold and silver gloves and shoes,  an electric boost and aura from the hit Sonic movie and exclusive Sonic movie themed player icons),  the Ultimate Music Pack (3 exclusive original game remixes to set the pace for you while you put an end to Dr. Eggman), as well as early access and your own exclusive player icons.\n\nPre-Order Now For Bonus Items -   \n- Early Access -  Hit the ground running and experience Sonic Colors Ultimate early\n- Exclusive Player Icons -  Stand out from the crowd with your own exclusive player icons\n",
         "languages": null,
-        "size": 7763656704
+        "size": 7764705280
     },
     "70070000011287": {
         "id": null,
