@@ -6347,7 +6347,7 @@
         "languages": [
             "en"
         ],
-        "size": 4258267136
+        "size": 6904872960
     },
     "70010000022084": {
         "id": "010015600EFB6000",
@@ -6665,7 +6665,7 @@
             "zh",
             "zh"
         ],
-        "size": 1353711616
+        "size": 1850736640
     },
     "70010000024168": {
         "id": "010066C00FA94000",
@@ -7265,6 +7265,56 @@
         ],
         "size": 1409286144
     },
+    "70010000027963": {
+        "id": "01008560110C6000",
+        "rightsId": null,
+        "name": "Apsulov: End of Gods",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210902,
+        "nsuId": 70010000027963,
+        "category": [
+            "A\u00e7\u00e3o",
+            "Tiro em primeira pessoa (FPS)",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Extrema",
+            "Conte\u00fado Sexual",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Digerati",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3b5c9e1a45b4c07d89579b4097a0139ef9f7b1bb8e6eee2dade09306ec6fada4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3e28f084ab059f2d7d2ed4e98b06800950709a7b88cc6ae2c24711461c4b9330.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db51b897879ed57ba053bde48c65594c53a4e2c9cd4d9b61fbf6cba19dcb167f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3aeff8cc210cfa1e9f94ac97992fc0b069932a376e18edfbd90fcf609cb1289a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be2044b5a94ae433b706be514fb9eb5401db1e94e75ce01ed2838e9f14470169.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fb845c3f7bc006197ded6804c40565aa9972c0466fd4ae3d2c55ca4ae9d60391.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9a7eff14e1b5f4cf286238338a7fc24fad42885cb256f508778b3275fdaeefd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37bf9314d6a2bfb9aa03abb03f72ead0507e4d477a354cd8e663a3a768fcf379.jpg",
+        "intro": "Os horrores de Yggdrasil esperam voc\u00ea",
+        "description": "Apsulov: End of Gods \u00e9 uma aventura de fic\u00e7\u00e3o cient\u00edfica e horror viking como nenhuma outra.\n\nPara encontrar a miseric\u00f3rdia dos deuses, os humanos escavaram fundo na Terra. Mas o que encontraram nunca deveria chegar \u00e0 superf\u00edcie de Midgard, nem de qualquer outro reino de Yggdrasil.\n\nVoc\u00ea acorda em uma instala\u00e7\u00e3o constru\u00edda para pesquisar os mundos de Yggdrasil. Sobreviva aos perigos que espreitam em sua jornada atrav\u00e9s de um mundo de tecnologia e artefatos mitol\u00f3gicos, onde o caos governa o reino dos humanos. E nesse caos voc\u00ea encontrar\u00e1 seu prop\u00f3sito.\n\nCaracter\u00edsticas Principais:\nExplore um santu\u00e1rio apavorante de mitologia n\u00f3rdica e tecnologia futurista\n\nVivencie um horror em primeira pessoa em ambientes atmosf\u00e9ricos\n\nDomine artefatos sobrenaturais e segredos de Yggdrasil",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 5667553280
+    },
     "70010000028117": {
         "id": "0100CFA0111C8000",
         "rightsId": null,
@@ -7770,7 +7820,7 @@
             "it",
             "ru"
         ],
-        "size": 7757365248
+        "size": 7758413824
     },
     "70010000028928": {
         "id": "010039300B6A2000",
@@ -8271,7 +8321,7 @@
             "zh",
             "zh"
         ],
-        "size": 1398800384
+        "size": 1638924288
     },
     "70010000030827": {
         "id": "0100187011F8E000",
@@ -8314,6 +8364,47 @@
             "en"
         ],
         "size": 2617245696
+    },
+    "70010000030863": {
+        "id": "010009F011FB2000",
+        "rightsId": null,
+        "name": "Spectacular Sparky",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211020,
+        "nsuId": 70010000030863,
+        "category": [
+            "A\u00e7\u00e3o",
+            "Plataforma",
+            "Tiro"
+        ],
+        "ratingContent": [
+            "Drogas L\u00edcitas",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nicalis",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/97030d736258d50e707ae36b1288346c034212ba3372abcb1bd0c7f94ba2c24d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ccace58fc9d03d9df2c1f86b0ee9b648d77191c5bdcdfa40276208d01d7f5e13.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa14f397c574e299f850ba3ee1528c26cb6726b79090321a443244d650b380bf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7bbbffc03de520b722bcfea2c3596eff7812e04c1103eb58b1620ccf182b31c2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cfe311c942f7a0a225b394804393d943e827d76482783b11d2d704f6865e35e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dffa296feb7fd7e9c0065771bd09292724159d6c5f50a5b6ee50fc27277bc51c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4927087443b7a6fa1f0bfeae70e6e5271cea82e9946145e53f76930d9f481bd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dd0fc512f3deb6ff4e176e7713227fd376f4a034d034c91544013191845295cd.jpg",
+        "intro": null,
+        "description": "Spectacular Sparky \u00e9 uma plataforma / atirador repleta de a\u00e7\u00e3o com personagens malucos, armas explosivas e batalhas contra chefes at\u00e9 o tesouro. Sparky \u00e9 um ca\u00e7ador de recompensas intergal\u00e1ctico adoravelmente insano que pode correr atrav\u00e9s de obst\u00e1culos, disparar suas armas em qualquer dire\u00e7\u00e3o e at\u00e9 mesmo estender seus saltos batendo suas longas orelhas de coelho. Cada vez que ele derruba um chefe, seu confidente Shig (meio tubar\u00e3o, meio porco) est\u00e1 pronto para apont\u00e1-lo na dire\u00e7\u00e3o de outro fugitivo espacial.\n\nNa grande tradi\u00e7\u00e3o dos irreverentes her\u00f3is dos videogames dos anos 90, Spectacular Sparky \u00e9 t\u00e3o atrevido quanto destemido. Suas piadas faladas e golpes sarc\u00e1sticos tendem a irritar seus inimigos da maneira mais divertida. E seu universo est\u00e1 inundado com picos, lava, serras redondas, cores super-saturadas, rolagem paralaxe lisa e m\u00fasica com megacondicionamento, como todo jogo deveria ser.\n\nRecursos:\n\n\u2022 Uma homenagem moderna \u00e0 idade de ouro das mascotes de videogame de 16 bits com luvas brancas\n\u2022 Cinco mundos desafiadores com 24 n\u00edveis, cada um com uma batalha de chefe bomb\u00e1stica no final\n\u2022 Cinco tipos de armas poderosas, incluindo blasters, lan\u00e7a-chamas e m\u00edsseis teleguiados\n\u2022 Cinco ve\u00edculos exclusivos que Sparky pode pilotar, incluindo uma nave espacial, asa delta e lava jato\n\u2022 Cinco n\u00edveis de dificuldade, de Supercasual a Supernightmare\n\u2022 Tr\u00eas modos de jogo (o qu\u00ea ?! N\u00e3o cinco?)",
+        "languages": [
+            "en"
+        ],
+        "size": 228589568
     },
     "70010000030967": {
         "id": "01009A9012022000",
@@ -12564,7 +12655,7 @@
             "zh",
             "zh"
         ],
-        "size": 1191182336
+        "size": 1863319552
     },
     "70010000036326": {
         "id": "0100379013A62000",
@@ -12684,7 +12775,7 @@
         "developer": null,
         "publisher": "Mossmouth",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/745d0f2159e0f3554ccbb078d36b6f78dcc30467119820a0c6e805d2bc863cf4.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f2dd12a018b64998c778b7d7eba1816ad4f3244b5b941fd92117dd3558ed4af7.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/e9b4fd6ccf0da62f5d63d6b289a557a671ca34a9687cf0e09d216997303633c8.jpg",
             "https://img-eshop.cdn.nintendo.net/i/4045b9c0654d061e20126aa487772552301fc7655274c47f67a150ddfb289f1e.jpg",
@@ -14698,7 +14789,7 @@
             "ja",
             "en"
         ],
-        "size": 608174080
+        "size": 649068544
     },
     "70010000037563": {
         "id": "01008AE013F82000",
@@ -17326,7 +17417,7 @@
             "zh",
             "zh"
         ],
-        "size": 3476029440
+        "size": 3584032768
     },
     "70010000039006": {
         "id": "010000E0145BA000",
@@ -18288,7 +18379,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20210827,
+        "releaseDate": 20210826,
         "nsuId": 70010000039306,
         "category": [
             "Aventura",
@@ -18867,7 +18958,7 @@
             "zh",
             "zh"
         ],
-        "size": 429916160
+        "size": 509607936
     },
     "70010000039428": {
         "id": "010043E01476A000",
@@ -25600,7 +25691,7 @@
             "https://img-eshop.cdn.nintendo.net/i/e485792f775ea9d3dcacbef60b36b13771b949dfe482a8e189a12fad0f24f793.jpg",
             "https://img-eshop.cdn.nintendo.net/i/3b44896bf72ef941583a05880a9707964a1673e8747a8bc255958f6bcbb7f665.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ba416cf38d29119ff5694428667143f6f117931f028f9346651febc161392e06.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1b63fdd6a2d6ba2e14301f61dc96df849beee9f9674a968d67d68accea21efd6.jpg",
         "intro": "Por que n\u00e3o devemos alimentar os animais com nossa pr\u00f3pria comida no Zool\u00f3gico? ",
         "description": "\u2605 Eles est\u00e3o em dieta estritamente controlada\n\u2605 Algum tipo de alimento pode ser perigoso para eles \n\u2605 Eles podem ficar com sobrepeso muito r\u00e1pido \n\u2605 E... SEUS DENTES PODEM SER DANIFICADOS!\n\nEnt\u00e3o aqui estamos n\u00f3s para ajudar estes seres bonitinhos a consertar seus sorrisos! Aprenda como realizar obtura\u00e7\u00f5es de dentes, limpeza, extra\u00e7\u00e3o de dentes e tudo mais o que faz nossos sorrisos brilharem!\n\nO dentista do zool\u00f3gico vai ensinar as crian\u00e7as n\u00e3o s\u00f3 a tratar seus animais de estima\u00e7\u00e3o com amor e carinho, mas tamb\u00e9m a proteger seus pr\u00f3prios dentes! N\u00e3o esque\u00e7a de limp\u00e1-los ap\u00f3s cada refei\u00e7\u00e3o, porque ir ao dentista n\u00e3o \u00e9 a experi\u00eancia mais agrad\u00e1vel.",
         "languages": [
@@ -26095,9 +26186,11 @@
             "Plataforma",
             "A\u00e7\u00e3o"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Medo"
+        ],
         "numberOfPlayers": 1,
-        "rating": 0,
+        "rating": 10,
         "developer": null,
         "publisher": "Hatinh Interactive",
         "frontBoxArt": null,
@@ -26437,7 +26530,7 @@
             "zh",
             "zh"
         ],
-        "size": 270532608
+        "size": 458227712
     },
     "70010000041978": {
         "id": "01006040153A0000",
@@ -27760,7 +27853,7 @@
             "zh",
             "zh"
         ],
-        "size": 1120927744
+        "size": 1303379968
     },
     "70010000042469": {
         "id": "0100E21015588000",
@@ -28164,6 +28257,7 @@
             "en",
             "es",
             "fr",
+            "pt",
             "de",
             "it",
             "ru",
@@ -28252,7 +28346,7 @@
             "zh",
             "zh"
         ],
-        "size": 510656512
+        "size": 511705088
     },
     "70010000042613": {
         "id": "010089B0155F8000",
@@ -31144,7 +31238,7 @@
             "https://img-eshop.cdn.nintendo.net/i/1c587f4956467cd3d2023eed872dc0aa1cf5b07966678cb4dc82b6434d356170.jpg",
             "https://img-eshop.cdn.nintendo.net/i/0350f675715ec08d5624a87dd86521b109fb012851bced4280ff1138b8324f10.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c71f061f58bd5507195662275804dee2993cc89d0d0ee2e5ca80688587b7025.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/82fc1713f57e9d290ec50fbcf182a7dfa0e663696f0309a47dcdd0c59c6966ac.jpg",
         "intro": null,
         "description": "Space Wars \u00e9 um empolgante jogo sem fim de n\u00edveis, no qual voc\u00ea controla a nave espacial atrav\u00e9s de m\u00faltiplos n\u00edveis, tentando abater os inimigos e evitando seus ataques.\n\nO objetivo \u00e9 abater todos os inimigos em cada n\u00edvel, coletar moedas para desbloquear novas naves espaciais, atualizar naves espaciais para melhor poder e coletar power ups disseminados nos mapas.",
         "languages": [
@@ -31274,6 +31368,44 @@
             "en"
         ],
         "size": 38797312
+    },
+    "70010000045072": {
+        "id": "0100010016026000",
+        "rightsId": null,
+        "name": "Block Puzzle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210903,
+        "nsuId": 70010000045072,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9a787a927b5a3ceb8db5f854cd91e762725867afd6fed7e0271766204a2dabaf.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4ee6dba52100c58008e8b1a951608982cc8a8986d3c6154dd29ed893d4b47d0e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f950cdd14e3873c9ac776a0b99142f36d946edffc6b23aebdf93ce43c220aa75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78f827b8373d1001323de70964317dbfeb30ff7faebf4270eac343585eaeed17.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/676111fed0139f455d1de23c11e2c2b79b98af21ce436717d4849ce2f77e3529.jpg",
+        "intro": null,
+        "description": "Block Puzzle \u00e9 o cl\u00e1ssico jogo de quebra-cabe\u00e7a em sua melhor vers\u00e3o de todos os tempos!\n\nArraste os blocos para o tabuleiro para preencher os quadrados. Tente preencher os blocos em uma linha vertical ou horizontal para limpar essa linha at\u00e9 que n\u00e3o haja mais blocos chegando.\n\n\u2714 4 Modos de jogo diferentes.\n\u2714 Jogo em seu idioma.\n\u2714 7 Temas do jogo. \n\u2714 Recompensas di\u00e1rias.\n\u2714 Desfrut\u00e1vel, Relaxante e Combate ao Estresse.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 63963136
     },
     "70030000003461": {
         "id": null,
@@ -32246,9 +32378,11 @@
         "releaseDate": null,
         "nsuId": 70030000013880,
         "category": null,
-        "ratingContent": [],
+        "ratingContent": [
+            "Medo"
+        ],
         "numberOfPlayers": null,
-        "rating": 0,
+        "rating": 10,
         "developer": null,
         "publisher": null,
         "frontBoxArt": null,
@@ -56583,7 +56717,7 @@
         "intro": "Velocidade impar\u00e1vel de Sonic. D\u00ea cores ao Universo.",
         "description": "O Dr. Eggman construiu um parque de divers\u00f5es interestelar movido pela energia dos \"Wisps\", alien\u00edgenas que o vil\u00e3o capturou. Use a velocidade do Sonic para salvar os Wisps, ganhar poderes incr\u00edveis e explorar seis mundos \u00fanicos e cheios de obst\u00e1culos a superar. Agora com deslumbrantes visuais aprimorados, recursos adicionais, um novo modo e jogabilidade melhorada, esta \u00e9 a experi\u00eancia definitiva de Sonic Colors.\n\nSonic Colors: Ultimate Digital Deluxe inclui o pacote Ultimate Cosmetic Pack (personalize o Sonic e se destaque com luvas e sapatos de ouro e prata, uma aura, um turbo de eletricidade do sucesso dos cinemas, \u00edcones de jogador exclusivos com base no filme), pacote Ultimate Music Pack (3 remixes exclusivos da m\u00fasica do jogo para te deixar no ritmo, enquanto acaba com o Dr. Eggman), al\u00e9m de acesso antecipado ao jogo e \u00edcones de jogador exclusivos.\n\nReserve j\u00e1 para itens b\u00f4nus -   \nAcesso antecipado: espere menos para dar a largada, e comece a jogar Sonic Colors Ultimate antecipadamente.\n- \u00cdcones de jogador exclusivos: destaque-se na multid\u00e3o com seus pr\u00f3prios \u00edcones de jogador.\n",
         "languages": null,
-        "size": 7763656704
+        "size": 7764705280
     },
     "70070000011287": {
         "id": null,
@@ -58615,6 +58749,42 @@
         "description": "Personalize a apar\u00eancia de Nyanza com os seguintes itens:\n- Siamese Skin\n- Bengal Skin\n\nEste item est\u00e1 inclu\u00eddo no pacote Deluxe Edition.",
         "languages": null,
         "size": 6291456
+    },
+    "70070000012780": {
+        "id": null,
+        "rightsId": null,
+        "name": "Pacote Vit\u00f3rias Memor\u00e1veis",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210824,
+        "nsuId": 70070000012780,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Compras on-line",
+            "Intera\u00e7\u00e3o de usu\u00e1rios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Wargaming Group",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/af86545a51c5befb13feeb06035b16a0f1ebe928c9aac8a50fb785e52aa8d166.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e64f02cfc881474f66a474f023a42a76500e16cd3fc3210069fef1059a5098b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e368713a2b6be5bd9cef68671490714d27d24d5b26482f7c38e849bab1e971ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/727f3e3a347fc13c4f1287252a7b08fc17775a7c5ede4d7b947ff43752ba1ae8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc5011d34cbec692024c7a00c680ce08dc6b4aff292aedfa7d3cb94925fc705c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b0a18241af65fecf9c88687be6b65c567586252f456a1764bd7474d9c805cdd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b83ae242155d5657d0c22eb6328fdbf437b13b3d0f9fa84321e0990cf4fc2ed7.jpg",
+        "intro": "Pacote do Vencedor.\nComece a escrever a hist\u00f3ria da sua vit\u00f3ria no amea\u00e7ador M6A2E1!",
+        "description": "Comece a escrever a hist\u00f3ria da sua vit\u00f3ria no amea\u00e7ador M6A2E1!\n\u00c9 um pesado confi\u00e1vel com uma blindagem frontal decente e um canh\u00e3o poderoso. Lentamente, mas com seguran\u00e7a, ele pode empurrar os flancos com seguran\u00e7a enquanto avan\u00e7a em dire\u00e7\u00e3o ao inimigo. Imagine como ficar\u00e1 legal na camuflagem animada Brilho Radioativo!\nAvance para a batalha\u2014as vit\u00f3rias o aguardam! \nOs itens deste pacote podem ser comprados separadamente na Loja. Por favor, leve isto em considera\u00e7\u00e3o ao comprar o pacote.\n\nConhe\u00e7a o Lend\u00e1rio Atirador de Tanques gr\u00e1tis-para-jogar 3D para a Nintendo Switch\u2122! Torne-se parte de uma comunidade de jogadores de todo o mundo. Junte-se a este moderno jogo de tiros de 2020 e lute no formato 7x7 sozinho ou com amigos, pesquise e melhore ve\u00edculos blindados, utilize v\u00e1rias t\u00e1cticas, desde o ataque agressivo at\u00e9 a sobreviv\u00eancia furtiva e ven\u00e7a. Escolha um tanque e torne-se um her\u00f3i do campo de batalha!\n\nCARACTER\u00cdSTICAS DO JOGO\n\u2022 Um enorme mundo de tanques contendo mais de 350 ve\u00edculos de combate \u00fanicos e exclusivos com modelos 3D elaborados ao detalhe! Ve\u00edculos historicamente precisos, tanques experimentais baseados em diagramas de engenheiros famosos e monstros blindados de universos alternativos populares, combatem juntos aqui!\n\u2022 Batalhas 7x7 din\u00e2micas com modos diferentes em mais de 25 arenas de batalha. Cada encontro de combate \u00e9 imprevis\u00edvel, pois os resultados dependem de si e da sua equipa.\n\u2022 Cheio de ac\u00e7\u00e3o! Eventos no jogo com ve\u00edculos raros como recompensa e batalhas com uma jogabilidade dramaticamente diferente. Torne-se um her\u00f3i invis\u00edvel (e n\u00e3o s\u00f3) de arenas de batalha de Mad Games. Ponha-se \u00e0 prova em duras Batalhas Realistas de sobreviv\u00eancia. Ou... torne-se uma for\u00e7a poderosa como um pequeno pato de batalha para o 1 de Abril!\n\u2022 Um jogo de tiros com um sistema de progresso bem desenvolvido. Pesquise ve\u00edculos desde tanques de N\u00edvel I at\u00e9 a m\u00e1quinas monstruosas de N\u00edvel X. Troque as armas, escolha o equipamento, utilize camuflagem e aumente as suas probabilidades de sobreviv\u00eancia. Afine o seu ve\u00edculo de combate para se adequar com o seu estilo de jogo e ataque os advers\u00e1rios com a for\u00e7a absoluta da sua m\u00e1quina de guerra de a\u00e7o m\u00f3vel!\n\u2022 Gr\u00e1ficos 3D espectaculares que se optimizam automaticamente para o seu dispositivo. Aprecie as bonitas caracter\u00edsticas de cada arena de batalha, modelos de tanques altamente detalhados, explos\u00f5es massivas e torres que voam ao explodir. As configura\u00e7\u00f5es manuais ir\u00e3o ajud\u00e1-lo a encontrar o equil\u00edbrio entre uma imagem fant\u00e1stica e FPS altos.\n\u2022 Jogo de equipa! Junte for\u00e7as com os seus amigos em pelot\u00f5es, torne-se um membro de um cl\u00e3 para combater ao lado de jogadores com o mesmo tipo de pensamento em Batalhas Classificadas e participe em torneios com pr\u00e9mios! Coordenem as suas ac\u00e7\u00f5es e ataquem o inimigo como um s\u00f3!\n\nEste jogo de tiros \u00e9 gr\u00e1tis-para-jogar.\nSaiba mais em https://wotblitz.com/\n2021 Wargaming.net",
+        "languages": null,
+        "size": 4033871872
     },
     "70070000012799": {
         "id": null,

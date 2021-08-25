@@ -6347,7 +6347,7 @@
         "languages": [
             "en"
         ],
-        "size": 4258267136
+        "size": 6904872960
     },
     "70010000022084": {
         "id": "010015600EFB6000",
@@ -6665,7 +6665,7 @@
             "zh",
             "zh"
         ],
-        "size": 1353711616
+        "size": 1850736640
     },
     "70010000024168": {
         "id": "010066C00FA94000",
@@ -7264,6 +7264,56 @@
             "zh"
         ],
         "size": 1409286144
+    },
+    "70010000027963": {
+        "id": "01008560110C6000",
+        "rightsId": null,
+        "name": "Apsulov: End of Gods",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210902,
+        "nsuId": 70010000027963,
+        "category": [
+            "Action",
+            "First-Person Shooter",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Extrema",
+            "Conte\u00fado Sexual",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Digerati",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3b5c9e1a45b4c07d89579b4097a0139ef9f7b1bb8e6eee2dade09306ec6fada4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3e28f084ab059f2d7d2ed4e98b06800950709a7b88cc6ae2c24711461c4b9330.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db51b897879ed57ba053bde48c65594c53a4e2c9cd4d9b61fbf6cba19dcb167f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3aeff8cc210cfa1e9f94ac97992fc0b069932a376e18edfbd90fcf609cb1289a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be2044b5a94ae433b706be514fb9eb5401db1e94e75ce01ed2838e9f14470169.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fb845c3f7bc006197ded6804c40565aa9972c0466fd4ae3d2c55ca4ae9d60391.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9a7eff14e1b5f4cf286238338a7fc24fad42885cb256f508778b3275fdaeefd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37bf9314d6a2bfb9aa03abb03f72ead0507e4d477a354cd8e663a3a768fcf379.jpg",
+        "intro": "The horrors of Yggdrasil await",
+        "description": "Apsulov: End of Gods is a future Viking horror and sci-fi adventure unlike any other.\n\nThe humans dug deep below the earth to find the mercy of the gods. What they found was never meant to reach the surface. Not on Midgard, nor any of Yggdrasil\u2019s realms.\n\nYou wake in a facility built to research the worlds of Yggdrasil. Survive lurking dangers as you journey through a world of technology and mythological artifacts, where chaos rules over the human realm. It is in this chaos that you find your purpose and destiny.\n\nKey Features\nExplore a nightmarish sanctuary of futuristic technology and Norse mythology\n\nExperience first-person horror in uniquely atmospheric environments\n\nMaster otherworldly artifacts and the secrets of Yggdrasil",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 5667553280
     },
     "70010000028117": {
         "id": "0100CFA0111C8000",
@@ -8314,6 +8364,47 @@
             "en"
         ],
         "size": 2617245696
+    },
+    "70010000030863": {
+        "id": "010009F011FB2000",
+        "rightsId": null,
+        "name": "Spectacular Sparky",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211020,
+        "nsuId": 70010000030863,
+        "category": [
+            "Action",
+            "Platformer",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Drogas L\u00edcitas",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nicalis",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/97030d736258d50e707ae36b1288346c034212ba3372abcb1bd0c7f94ba2c24d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ccace58fc9d03d9df2c1f86b0ee9b648d77191c5bdcdfa40276208d01d7f5e13.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa14f397c574e299f850ba3ee1528c26cb6726b79090321a443244d650b380bf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7bbbffc03de520b722bcfea2c3596eff7812e04c1103eb58b1620ccf182b31c2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cfe311c942f7a0a225b394804393d943e827d76482783b11d2d704f6865e35e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dffa296feb7fd7e9c0065771bd09292724159d6c5f50a5b6ee50fc27277bc51c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4927087443b7a6fa1f0bfeae70e6e5271cea82e9946145e53f76930d9f481bd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dd0fc512f3deb6ff4e176e7713227fd376f4a034d034c91544013191845295cd.jpg",
+        "intro": null,
+        "description": "Spectacular Sparky is an action-packed platform/shooter with wacky characters, explosive weapons and boss battles to treasure. Sparky is an adorably insane intergalactic bounty hunter who can dash through obstacles, fire his weapons in any direction and even extend his jumps by flapping his long bunny-like ears. Each time he brings down a boss, his connected confidante Shig (half shark, half pig) is ready to point him in the direction of yet another space fugitive.\n\nIn the grand tradition of irreverent 1990s video-game heroes, Spectacular Sparky is as sassy as he is fearless. His voice-acted wisecracks and sarcastic jabs tend to get under the skin of his enemies in a most amusing fashion. And his universe is awash with spikes, lava, buzzsaws, super-saturated colors, slick parallax scrolling and mega-driven music, the way every game ought to be.\n\nFeatures:\n\n\u2022 A modern homage to the golden age of white-gloved 16-bit video-game mascots\n\u2022 Five challenging worlds with 24 levels, each with a bombastic boss battle at the end\n\u2022 Five powerful weapon types, including blasters, flamethrowers and homing missiles\n\u2022 Five unique vehicles that Sparky can pilot, including a spaceship, hang glider and lava jetski\n\u2022 Five difficulty settings, from Supercasual to Supernightmare\n\u2022 Three game modes (What?! Not five?)",
+        "languages": [
+            "en"
+        ],
+        "size": 228589568
     },
     "70010000030967": {
         "id": "01009A9012022000",
@@ -12564,7 +12655,7 @@
             "zh",
             "zh"
         ],
-        "size": 1191182336
+        "size": 1863319552
     },
     "70010000036326": {
         "id": "0100379013A62000",
@@ -14698,7 +14789,7 @@
             "ja",
             "en"
         ],
-        "size": 608174080
+        "size": 649068544
     },
     "70010000037563": {
         "id": "01008AE013F82000",
@@ -25600,7 +25691,7 @@
             "https://img-eshop.cdn.nintendo.net/i/e485792f775ea9d3dcacbef60b36b13771b949dfe482a8e189a12fad0f24f793.jpg",
             "https://img-eshop.cdn.nintendo.net/i/3b44896bf72ef941583a05880a9707964a1673e8747a8bc255958f6bcbb7f665.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ba416cf38d29119ff5694428667143f6f117931f028f9346651febc161392e06.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1b63fdd6a2d6ba2e14301f61dc96df849beee9f9674a968d67d68accea21efd6.jpg",
         "intro": "Why we shouldn\u2019t feed animals our own food at the Zoo? ",
         "description": "\u2605 They are on strict controlled diet \n\u2605 Some kind of food can be dangerous for them \n\u2605 They can get overweight really fast \n\u2605 AND... THEIR TEETH CAN BE DAMAGED!\n\nSo here we are to help these cute beings fix their smiles! Learn how to perform teeth fillings, cleaning, tooth extraction and everything else what makes ours smiles shine!\n\nZoo dentist will teach kids not only to treat their pets with love and care, but also to protect their own teeth! Do not forget to clean them after each meal, because going to the dentist is not the most pleasant experience.",
         "languages": [
@@ -27762,7 +27853,7 @@
             "zh",
             "zh"
         ],
-        "size": 1120927744
+        "size": 1303379968
     },
     "70010000042469": {
         "id": "0100E21015588000",
@@ -28166,6 +28257,7 @@
             "en",
             "es",
             "fr",
+            "pt",
             "de",
             "it",
             "ru",
@@ -31146,7 +31238,7 @@
             "https://img-eshop.cdn.nintendo.net/i/1c587f4956467cd3d2023eed872dc0aa1cf5b07966678cb4dc82b6434d356170.jpg",
             "https://img-eshop.cdn.nintendo.net/i/0350f675715ec08d5624a87dd86521b109fb012851bced4280ff1138b8324f10.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c71f061f58bd5507195662275804dee2993cc89d0d0ee2e5ca80688587b7025.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/82fc1713f57e9d290ec50fbcf182a7dfa0e663696f0309a47dcdd0c59c6966ac.jpg",
         "intro": null,
         "description": "Space Wars is an exciting endless level-base game in which you control spaceship through multiples levels, trying to shoot down the enemies and avoiding their attacks.\n\nThe goal is shoot down all the enemies in each level, collect coins to unlock new spaceships, upgrade spaceships for better power and collect power ups disseminated around maps.",
         "languages": [
@@ -31276,6 +31368,44 @@
             "en"
         ],
         "size": 38797312
+    },
+    "70010000045072": {
+        "id": "0100010016026000",
+        "rightsId": null,
+        "name": "Block Puzzle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210903,
+        "nsuId": 70010000045072,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9a787a927b5a3ceb8db5f854cd91e762725867afd6fed7e0271766204a2dabaf.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4ee6dba52100c58008e8b1a951608982cc8a8986d3c6154dd29ed893d4b47d0e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f950cdd14e3873c9ac776a0b99142f36d946edffc6b23aebdf93ce43c220aa75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78f827b8373d1001323de70964317dbfeb30ff7faebf4270eac343585eaeed17.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/676111fed0139f455d1de23c11e2c2b79b98af21ce436717d4849ce2f77e3529.jpg",
+        "intro": null,
+        "description": "Block Puzzle is the classic puzzle game in its best version of all time!\n\nDrag the blocks onto the board to fill the squares. Try to fill blocks in a vertical or horizontal line to clear that line until no more blocks coming.\n\n\u2714 4 Different game modes.\n\u2714 Game in your language.\n\u2714 7 Game themes. \n\u2714 Daily Rewards.\n\u2714 Enjoyable, Relaxing and Fights Stress.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 63963136
     },
     "70030000003461": {
         "id": null,
@@ -58619,6 +58749,42 @@
         "description": "Customize Nyanza's appearance with the following items:\n- Siamese Skin\n- Bengal Skin\n\nThis item is included in the Deluxe Edition bundle.",
         "languages": null,
         "size": 6291456
+    },
+    "70070000012780": {
+        "id": null,
+        "rightsId": null,
+        "name": "Memorable Victories Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210824,
+        "nsuId": 70070000012780,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Compras on-line",
+            "Intera\u00e7\u00e3o de usu\u00e1rios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Wargaming Group",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/af86545a51c5befb13feeb06035b16a0f1ebe928c9aac8a50fb785e52aa8d166.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e64f02cfc881474f66a474f023a42a76500e16cd3fc3210069fef1059a5098b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e368713a2b6be5bd9cef68671490714d27d24d5b26482f7c38e849bab1e971ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/727f3e3a347fc13c4f1287252a7b08fc17775a7c5ede4d7b947ff43752ba1ae8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc5011d34cbec692024c7a00c680ce08dc6b4aff292aedfa7d3cb94925fc705c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b0a18241af65fecf9c88687be6b65c567586252f456a1764bd7474d9c805cdd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b83ae242155d5657d0c22eb6328fdbf437b13b3d0f9fa84321e0990cf4fc2ed7.jpg",
+        "intro": "Start writing the story of your victory in the menacing M6A2E1!",
+        "description": "Start writing the story of your victory in the menacing M6A2E1!\nIt is a reliable heavy with decent frontal armor and a powerful gun. Slowly but surely, it can confidently push the flanks as it advances toward the enemy. Imagine how cool it will look in the Radioactive Glow animated camouflage!\nCharge into battle\u2014victories await!\nThe items in this bundle can be purchased separately in the Store. Please consider this when purchasing the bundle.\n\nMeet the legendary free-to-play 3D tank shooter for Nintendo Switch\u2122! Become part of the community of players from around the world and join this modern shooting game and battle in a 7x7 format on your own or with friends. Research and upgrade armoured vehicles, use various tactics from aggressive onslaught to stealthy survival, and win! Choose a tank and become a battlefield hero!\n\nGAME FEATURES\n\u2022 An enormous world of tanks: over 350 unique and exclusive combat vehicles with thoroughly elaborate 3D models! Historically accurate vehicles, experimental tanks based on blueprints of famous engineers, armoured monsters from popular alternative universes\u2014here they fight together!\n\u2022 Dynamic 7x7 battles with different modes in over 25 battle arenas. Each combat encounter is unpredictable as outcomes depend on you and your team.\n\u2022 Jam-packed with action! In-game events featuring rare vehicles as rewards and battles with dramatically different gameplay. Become an invisible (and more) hero of battle arenas in Mad Games. Test yourself in tough survival Realistic Battles. Or... become a mighty force as a little battle duck for April 1st!\n\u2022 A shooting game with a well-developed progression system. Research vehicles from Tier I tanks to monstrous Tier X machines. Change guns, set equipment, wear camouflage, and increase your survival odds. Tune your combat vehicle to match your playstyle and strike the enemy with the sheer force of your  steel war machine!\n\u2022 Spectacular 3D graphics that automatically optimise to your device. Enjoy the eye-catching features of every battle arena, highly detailed tank models, massive explosions, and flying blown-off turrets. Manual settings will help you find the balance between a fantastic picture and high FPS.\n\u2022 Teamplay! Join forces with your friends in platoons or become a clan member to battle alongside like-minded players in Rating battles and participate in tournaments for prizes! Coordinate your actions and strike the enemy as one!\n\nThis shooting game is free to play.\nLearn more at https://wotblitz.com/\n2021 Wargaming.net",
+        "languages": null,
+        "size": 4033871872
     },
     "70070000012799": {
         "id": null,
