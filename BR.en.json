@@ -4999,7 +4999,7 @@
             "zh",
             "zh"
         ],
-        "size": 184549376
+        "size": 182452224
     },
     "70010000016479": {
         "id": "010072600D21C000",
@@ -6090,7 +6090,7 @@
         "developer": null,
         "publisher": "Naps Team",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9c6f1eb3436db2692bba5a161c832b4406a25ce0d8e2a9a16b15ee97398e5f19.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8d13a173be0c1953feada16f76371375b511a82eb45496e5bcd19f3aa33a805a.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/66d004b014a060d7fc5c0af832b57208416e8f6c0db504440a77e3b5a8c74082.jpg",
             "https://img-eshop.cdn.nintendo.net/i/91ef6687e9ee1a25fa902770899ce3d60229057b35a4f98e5bb9a7dd1a60d32a.jpg",
@@ -6116,7 +6116,7 @@
             "zh",
             "zh"
         ],
-        "size": 974127104
+        "size": 1681915904
     },
     "70010000021243": {
         "id": "01007C600EB42000",
@@ -10641,7 +10641,7 @@
             "ru",
             "zh"
         ],
-        "size": 4089446400
+        "size": 4669308928
     },
     "70010000034471": {
         "id": "01003570130E2000",
@@ -11606,6 +11606,7 @@
             "Platformer"
         ],
         "ratingContent": [
+            "Usu\u00e1rios Interagem",
             "Viol\u00eancia Fantasiosa"
         ],
         "numberOfPlayers": 1,
@@ -12622,11 +12623,10 @@
             "Action"
         ],
         "ratingContent": [
-            "Viol\u00eancia",
-            "Medo"
+            "Viol\u00eancia Fantasiosa"
         ],
         "numberOfPlayers": 1,
-        "rating": 12,
+        "rating": 0,
         "developer": null,
         "publisher": "PM Studios",
         "frontBoxArt": null,
@@ -12636,8 +12636,8 @@
             "https://img-eshop.cdn.nintendo.net/i/47252c19ac7a160f6ddd5f3da0e417a949eb44d657a2331a5b3b631f80332a07.jpg",
             "https://img-eshop.cdn.nintendo.net/i/c5294422e072dc1b070885756823b6d6f8ab0ad29aa6ea30fb5f3326fe3dc0e8.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6a81d2bd34a46b4febcba9dca1b0c94aacbc2a31867fce980369834cfeb59cba.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/62d49607adc713039b26174c63ea1403d10f3739d6db6d1f56dae6f1901680e3.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/92070503a0b01fb44522d5ec0f466cae377c0cb291e43eb4658d8b94c3d447f5.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/8855a19be106ea0ce7fdec2c665791b00e68744ee0cc620c862ee781da151993.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3553bf180b5958f29fe9a774f3610e718f2eda8ca5d7cf9c61aa2dc3b6269e65.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4a004eafe59c16347095553c7fe0e068daa50441c5a1c8639faf1bd43c9ca2eb.jpg",
         "intro": null,
@@ -12655,7 +12655,7 @@
             "zh",
             "zh"
         ],
-        "size": 1863319552
+        "size": 1862270976
     },
     "70010000036326": {
         "id": "0100379013A62000",
@@ -12825,7 +12825,7 @@
         "developer": null,
         "publisher": "Mossmouth",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fb5bebc80303188ab69da074ad025bd30d7ccd5d67d8dd15df0b2a171052c391.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1be0c304e0fd40dfc64e319c118d3f569ceb170edeee294d2b7fb180812d7156.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/e61eeff1a2c101f613b2428e7d5b5cc01351471dcc56a20ec6d797c929557613.jpg",
             "https://img-eshop.cdn.nintendo.net/i/cf9a3f422ef475c21cfe94120d33f0ee91afa84c881067f1e93e0d8c7c126540.jpg",
@@ -14748,7 +14748,7 @@
             "ko",
             "zh"
         ],
-        "size": 1284505600
+        "size": 1325400064
     },
     "70010000037543": {
         "id": "0100653013F7A000",
@@ -17786,7 +17786,7 @@
             "zh",
             "zh"
         ],
-        "size": 1411383296
+        "size": 1944059904
     },
     "70010000039067": {
         "id": "0100D1A01460A000",
@@ -24926,6 +24926,48 @@
         ],
         "size": 283115520
     },
+    "70010000041432": {
+        "id": "0100270015190000",
+        "rightsId": null,
+        "name": "Galaxy Squad",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70010000041432,
+        "category": [
+            "Action",
+            "Strategy",
+            "RPG",
+            "Other"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Big Way",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d792bd1c41f019f6a14b98aa878e38e8f51525106c18f4a4c5599425921ce923.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/363030c91ddda71274dc24e4e78b434366ac6c77949fe769d7bde5c8560fd14a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/344c7e4eb01249454fad43b1c202747d0fe713fdf710f33d2a537b2694ff3dc6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1bc1a8f9954a6ddd6509f3a98d6f5204acbffa0c850fc4943972a6de8f10c26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/646174ead9097b8736d6346dabc1951ebd2cea6cb4a4e3008f2452a0e8ba9175.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c512be2428e7903b10e01d88b626daed57823f28585002832485e1cc33d0c2c6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/128f6467afe668e6d82b846b31256668c8df13cf34b34f63dbd103ebb9b4ef4b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/886cbb6c1aa2d86cf491680a416168acb8e166e75130cda0e404313783e588fa.jpg",
+        "intro": "Galaxy squad is a turn-based tactical roguelike in which you are leading a squad of mercenaries through a randomly generated galaxy filled with different events.",
+        "description": "The game combines node-based exploration with random events, with hardcore tactical battles. All your characters are randomly generated, and you can evolve them however you want, creating your ultimate crew.\n\n\u2022 Explore different planets and systems, fight huge hordes of enemies\n\u2022 Upgrade your ship and use its systems in events or in battles\n\u2022 Explore space stations, find quests\n\u2022 A well-developed story campaign system, involving your characters and branching storylines\n\u2022 Upgrade your equipment with different modifications and find rare loot",
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "size": 1201668096
+    },
     "70010000041449": {
         "id": "01003E00151AE000",
         "rightsId": null,
@@ -29823,6 +29865,54 @@
         ],
         "size": 973078528
     },
+    "70010000043306": {
+        "id": "0100C1C0158F2000",
+        "rightsId": null,
+        "name": "Girls Tank Battle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210826,
+        "nsuId": 70010000043306,
+        "category": [
+            "Shooter",
+            "Arcade",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "TROOOZE",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/895bc3001a2c7cd36ffde95dcbd35ed6e2e76712ebbced6f5c06c16e1b787faa.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/34282a7a0355009247a77726e30069f09fd733e792a4d73284c1e87c22f47c27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef2131dcdcf94d2387c2f022ae9fefe4cd6c8175f064bf317c83da3d1c5e8470.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18b652641707cca28394b4cec930bce7c722ede9ead5e9657635986325f84aab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/485528745945a72c98d4cbfaf279dcadf687e7901d612562e9a18b81c53ffe38.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/112b8c9ea42a9b162ba65bcec72e3a6e437c61b8b80fa6592def8243987de90d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bda0573406eecebccd76c46296b78f1ecb3d75b8268f67c16dfcae8a213be91d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/87a05f42f54567f0b0d80d3ab65293e9b583710bb8dd37d5593304a6c5171db7.jpg",
+        "intro": "A tank shot that blows everything away with delightfully!\nEach stage equipped with a hot skill!\nBeat the boss and enjoy the cute girls!",
+        "description": "The survival of girls who have fallen into a four-dimensional world begins. When you clear the stage, you select one of the three skills to challenge the next stage with your own strategy.\n\n\u30fb A tank battle that relieves stress with explosive direction begins.\n\u30fb Collect dozens of different weapons, skills, and unique tanks.\n\u30fb Gallery mode is waiting for you to appreciate a cute girl depending on your skills.\n\u30fb It appears a thrilling bonus game mode for additional goods.\n\u30fb It is possible to manipulate games that can be easily played by men and women of all ages.\n\u30fb It is a battle system that adds skills with your own strategy when you clear the stage.\n\u30fb The boss battle that makes your hands sweat increases tension and sense of achievement.\n\u30fb Get goods in challenge mode and upgrade to your own tank in technical research mode.\n\u30fb Gather the tanks you want, and enjoy the sub-tank system where you can take up to three to fight together.\n\u30fb The illustrations of attractive tank battle girls by cartoonist OGATA TEI make your eyes more pleasant.\n\nThe exciting new-sense tank shooting game with simple manipulation!\nYou can collect new military costumes of cute girls every five stages.\nDefeat the final boss and enjoy the images of all the girls in gallery mode.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 369098752
+    },
     "70010000043317": {
         "id": "0100329015900000",
         "rightsId": null,
@@ -30202,6 +30292,49 @@
         ],
         "size": 53477376
     },
+    "70010000043430": {
+        "id": "01001E30126A0000",
+        "rightsId": null,
+        "name": "MELTY BLOOD: TYPE LUMINA",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70010000043430,
+        "category": [
+            "Fighting"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Compras on-line"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 14,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e4ba793564d957c3c6a8011291af26897e67489218511fa73eff0b7c2b6e56d5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1458dfcf63cbfb79a01ad6f756729af59861f7b6738852c7553954d3dd211c13.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1911b21fd348a3cfe5c85742a6d39ff7b5a443bba884355c7615a26f30db1d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebd633c658fa6fe550d1ff80e30a5b6b954fd6a35d8dcc6bb215aeeeefdf2b5b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03f200b73fdc80b692fa4df9e784083afb2d39b2c3b6a4ae3a1fb200b8a3ae54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e25694994debe914423dc7b374218ec7774de2b1835ec8c5b9f0efcb99e0f8b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25d7add9917fd69fd7423e84d5bc7c24285a3429d602f0af9c3a4a96964893ff.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ba3344f015a771b537396f323a035e8f29c13835a517c6ecf01992f91a8a81e9.jpg",
+        "intro": "Melty Blood is reborn.",
+        "description": "\"* A deluxe edition that contains both the MELTY BLOOD: TYPE LUMINA game and the MELTY BLOOD ARCHIVES content is also available. For those who purchase the deluxe edition, it is not necessary to separately purchase the standard edition.\n \n Early Purchase Bonuses:\n - Additional Content: Arcueid Round Announcements\n These bonuses will be available to download for free until October 27.\n Customers who purchase the game after October 27 will be able to get the bonus content as paid DLC.\n \n Melty Blood is reborn.\n This is the latest addition to the series of 2D fighting games based on TYPE-MOON's visual romance novel, Tsukihime.\n The curtain rises once more on dramatic battles played out with familiar characters from Tsukihime -A piece of blue glass moon-.\n \n \u25c6 All-New Stories, Visuals, & Characters\n Explore an all-new MELTY BLOOD world from scenario writer Kinoko Nasu, based on the events of Tsukihime -A piece of blue glass moon-.\n Unique story events for each character give each playthrough its own feel, adding to the overall experience.\n Visuals have been updated with HD graphics, and include animation sequences by A-1 Pictures for special attacks.\n Dialog is fully voiced and will change depending on which characters are brought into battle, giving more insight into the characters' interpersonal relationships.\n \n \u25c6 Iconic Battle Systems\n Use characteristic Melty Blood mechanics such as Aerial Combos, Shields, Magic Circuits, Arc Drives, and Last Arcs, as well as a few new powerful techniques under the Moon Skill system. On top of that, an all-new simple control system has been implemented to make the intense battles a little more manageable, while also maintaining a balance which will allow both seasoned veterans and new players alike to fully enjoy the world of Melty Blood.\n \n \u25c6 Rich Customization & Gallery Feature\n Customize your title, profile icon, and character outfits for battle. They can even be used in online matches!\n Collect visuals, opening cinematics, music tracks, voices, pixel art, and more in the gallery. You\u2019ll even be able to take a look at guest illustrations created by artists connected to TYPE-MOON titles.\"",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2397044736
+    },
     "70010000043457": {
         "id": "01006740157F8000",
         "rightsId": null,
@@ -30493,6 +30626,52 @@
         ],
         "size": 70254592
     },
+    "70010000043674": {
+        "id": "01008180157AC000",
+        "rightsId": null,
+        "name": "Moonshades: a classic dungeon crawler RPG",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210827,
+        "nsuId": 70010000043674,
+        "category": [
+            "RPG",
+            "Adventure",
+            "Action"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Viktor Domonyi",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a65089a1e4116980d2d05971387f8c6878c2934589239233440b435846299029.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cbea0de54f56d30e68b30df70d4064fd2a9f47d899e1d5057e5e895dc3ee836f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b1faa39b7878ee3408641be9da7612d03d384eb896842d757034548dfe9ae825.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c1ca2ffb3e66df08bd7a32b44ade46e0c7b8087a6be408cd4d796eb2904cf56d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24c3c12ba90f88c4ac3f74f8d786db4bbe69cac5dc52d17a0b08d2d656dc22e8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e5670e1a635027f9122a9749de44e1c45faa23423edbaa27d062f21385974f38.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6797678fe352e3f03e1994e1aff2f3331d2b92f50a19c29adf9fb16ce78cc94.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e7745bf5d5c1e061c00ca0c82c22f8c73bc8322c19b0684292dd741faee8f190.jpg",
+        "intro": "It offers the immersive atmosphere and experience of old school role-playing games.",
+        "description": "Relive the fun of classic RPG games inspired by dungeons and dragons, realised in rich 3D environments, and with a deep, captivating story. Discover an enigmatic realm, saturated with ancient magic and myths - epic legends are forged as you venture into this offline role-playing game!\n\nYour adventure will lead you beneath ruined towns, through grim, eerie dungeons... and towards monsters lurking in the ghostly half-light. Forces of darkness have invaded the realm, but some survivors from the kingdom of Harten still resist their fate, preserving the secrets of their ancestors' magic. Join the mission to restore liberty and enlightenment to this fantasy land! The kingdom's glory may be faded and its treasures buried, but hope for changing the course of history has not been completely lost in the darkness of the dungeons... and the rewards for your efforts will be great!\n\nIn the Moonshades RPG:\n- Epic adventures where mythical beasts and fantasy creatures come to life roaming a massive, cryptic dungeon environment.\n- Equip yourself for battle and find the best strategies to attack your enemies' weak spots.\n- Thousands of upgradable items (weapons, armor, accessories) - and use miraculous artifacts to make them stronger!\n- Action and story-telling both play vital roles as you complete quests and puzzles, just as in classic role-playing games.\n- Fight in real-time combat for fabulous loot, magical items, and otherworldly abilities!\n- Learn devastating, protective or healing spells and skills, and master their status effects in order to advance!\n- Roam around a fantasy world, follow your insights, and keep a close watch out - sometimes help might come from surprising sources, so don't leave any paths unexplored!\n- Discover the traces of other adventurers... talk and trade with NPCs during your quests, and search for hints to solve puzzles. \n- Reimagine a mythical past through uncovering the haunting memories of fallen heroes! Find the scrolls of Harten and Aesthirya to unearth legendary episodes from the history of a great empire.\n- Beware of cunning and deadly traps in the labyrinths!\n- Experiment with the wonders of the Magic Forge: make powerful potions, enchant your equipment, and craft epic  legendary items and relics!\n- When the moons align, experience adventures in the grim labyrinth of the Arcane Dungeons, questing for marvelous treasures!\n\nI believe we don't have to say farewell to the gems of classic dungeon crawlers and role-playing games - even in our hectic modern world - and with Moonshades I am trying my best to deliver their spirit and charm, while bringing them up-to-date. I'm a great fan of role-playing games like the Eye of the Beholder, Might & Magic, Wizardry, and Dungeon Master, and these great classic RPGs kindled my creative spark for this personal fantasy challenge: Moonshades.\n\nBeing the long-held dream of an indie developer, Moonshades is constantly shaping and growing with the aim of reviving the excitement of those memorable RPGs. I have a myriad of ideas for quests, puzzles, and various adventures for this old-school RPG that I would love to share with you. I'm keen to avoid the common mistake of focusing only on my favourite aspects and so potentially miss the goal of creating something great along the way! As such, I'm always open to your views and ideas!\n\nSo, step into the teleport, and have fun in this adventure game!\n\nThe game currently includes 30 hand crafted dungeons and the procedurally generated Pits. New levels will be added in the form of free patches.",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 212860928
+    },
     "70010000043695": {
         "id": "010040F015A58000",
         "rightsId": null,
@@ -30741,6 +30920,50 @@
             "pt"
         ],
         "size": 34603008
+    },
+    "70010000043896": {
+        "id": "0100969015B04000",
+        "rightsId": null,
+        "name": "Magical Girls Second Magic",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210826,
+        "nsuId": 70010000043896,
+        "category": [
+            "Action",
+            "Arcade",
+            "Puzzle",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Conte\u00fado Sexual",
+            "Compras digitais"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "Caerux",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bf9129dffc44ce7705bcef7f8983162cf18393ab869518d5fc1527a4bb430e85.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7bfa5c927ea828e9fc30152a80379468135dda8f7e305eec8607b4cad36d13da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/85432eacf8d54fc69d8a7d403e6e7d061725f8e8947aa9996ac00f7f4695bedf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/193fe977cc63d4696c5b1a9e5ff446672832fde228e0f2889a9ad5855252aa87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d918b46f3b07562fe0178eedc460761ca3acfacdd597446635d101545edff6b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9c1415f57a8df3235feb77eb32461df592423496b95a2121d0736fbddc3b3c1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4e82ca1ed2ba4bc4fc998c48a8c0d1cca6900893d7776bc5e50dce85754629f7.jpg",
+        "intro": "Break blocks and transform! Evolve your cute girl characters!A slightly sexier \"block-busting\" game is coming to Nintendo Switch\u2122 with more power!",
+        "description": "\" Magical Girls Second Magic\" features cute girl characters ranging from magical girls to girls with furry cat ears.This is a unique block-busting game in which you destroy all the blocks placed on the stage to evolve the illustrations of cute girl characters.\n\n<Game Features>\n\u25c6Destroy all the blocks to get a cute girl illustration and an evolved stage!\nYou can enjoy a variety of stages, from light stages for beginners with plenty of items to difficult stages for experienced players with blocks placed underneath your ship!\nMany new items and gimmicks have been added to make the game even more enjoyable for players who have already played the previous version. Let's enjoy the upgraded stages!\n\n\u25c6New features to make playing the stages more comfortable!\nThe game features a \"BOUND ATTACK\" feature that allows you to break multiple blocks, which was not available in the previous game, and other helpful features that can speed up or slow down the game!\nIn the more difficult stages, there are stages that cannot be cleared unless you use the functions well...? Use all the functions and aim to clear all the stages!\n\n\u25c6The ball never drops! A new \"Support Mode\" is now available for beginners!\nIn \"Support Mode,\" you can play difficult stages without worrying about the ball falling. When a stage is difficult, use the support mode to challenge yourself\uff01\n\n\u25c6Bingo to get your character!\nWhen you clear a stage, a bingo card will appear. After each bingo, you will get a character that will evolve three times. Get all the characters and aim for the final evolution!\n\n\u25c6View illustrations of your favorite characters in the gallery!\nOnce you clear a stage, you can enjoy the beautiful girl illustrations you got in the gallery at any time. Clear all the stages and complete the illustrations!\n",
+        "languages": [
+            "ja",
+            "en",
+            "zh",
+            "zh"
+        ],
+        "size": 825229312
     },
     "70010000043921": {
         "id": "010058E015B10000",
@@ -31139,6 +31362,52 @@
         ],
         "size": 141557760
     },
+    "70010000044410": {
+        "id": "010062B015D28000",
+        "rightsId": null,
+        "name": "Angel's Punishment",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210903,
+        "nsuId": 70010000044410,
+        "category": [
+            "Action",
+            "Platformer",
+            "Other",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Temas Sens\u00edveis"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "GAME NACIONAL",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c35626fb4576b920c177b57bbd252640f1db4dcc9e4d06e9988ee62edd21414a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e66e1513f465056c8c583f039d08964d6173fcbf9033e5f9be2411939196b792.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bdc35be37cce96d5ccba50a5aefcdb11e7c741a22412cab5dfab4f12f49816ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a0ea1e2059f563e5a6ead861908517d8966f65427aa7b64c49860709d881613.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77a2775f4613b0a1b47739bc57b9e398a545fc0586fc0e84c3d374a6d95a44ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84d0478d77ad11a10edd4cd95b35b5d37e3fddb8fec92b48d642c59a79ca9a4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12a11847f42e2fe108cb07a34a15fc5b735a4bf95e46c423f601c18ed6ad7f97.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/98303a991ebb40291003c252b263d5a2d485c19fba31867dda1bb55a83463139.jpg",
+        "intro": "A respectable and very good \"metrovania\" game with classic pixel art",
+        "description": "Nintendo Switch\u2122 exclusive game.\n\nIn this game you play as an Angel who got his wings taken away from him by archangels when he refused to follow his superiors' orders of not interfering in the cruelties of the evil beings on Earth.",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "it"
+        ],
+        "size": 98566144
+    },
     "70010000044417": {
         "id": "0100232015D6E000",
         "rightsId": null,
@@ -31406,6 +31675,49 @@
             "it"
         ],
         "size": 63963136
+    },
+    "70010000045295": {
+        "id": "01001E30126A0000",
+        "rightsId": null,
+        "name": "MELTY BLOOD: TYPE LUMINA - Deluxe Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70010000045295,
+        "category": [
+            "Fighting"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Compras on-line"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 14,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e4ba793564d957c3c6a8011291af26897e67489218511fa73eff0b7c2b6e56d5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1458dfcf63cbfb79a01ad6f756729af59861f7b6738852c7553954d3dd211c13.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1911b21fd348a3cfe5c85742a6d39ff7b5a443bba884355c7615a26f30db1d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebd633c658fa6fe550d1ff80e30a5b6b954fd6a35d8dcc6bb215aeeeefdf2b5b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03f200b73fdc80b692fa4df9e784083afb2d39b2c3b6a4ae3a1fb200b8a3ae54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e25694994debe914423dc7b374218ec7774de2b1835ec8c5b9f0efcb99e0f8b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25d7add9917fd69fd7423e84d5bc7c24285a3429d602f0af9c3a4a96964893ff.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e46627150656a1b62b4e991e40c3a666989773e5905fbf99d922fcfd8f495acb.jpg",
+        "intro": "Melty Blood is reborn.",
+        "description": "\"* This is a limited edition product. There is also a regular edition. Please be careful not to purchase multiple copies of the same item.\n* This product includes contents that may also be purchased individually. Please be careful not to purchase multiple copies of the same item.\n\n\nDeluxe Edition Set Details\n\u2460 MELTY BLOOD: TYPE LUMINA\n\u2461 MELTY BLOOD ARCHIVES\n\u3000Enjoy both the MELTY BLOOD Guide Book packed with amazing artwork and details about the setting and history of the game, and the MELTY BLOOD SOUND COLLECTION with background music from the franchise all together in digital format.\n \n Early Purchase Bonuses:\n - Additional Content: Arcueid Round Announcements\n These bonuses will be available to download for free until October 27.\n Customers who purchase the game after October 27 will be able to get the bonus content as paid DLC.\n \n Melty Blood is reborn.\n This is the latest addition to the series of 2D fighting games based on TYPE-MOON's visual romance novel, Tsukihime.\n The curtain rises once more on dramatic battles played out with familiar characters from Tsukihime -A piece of blue glass moon-.\n \n \u25c6 All-New Stories, Visuals, & Characters\n Explore an all-new MELTY BLOOD world from scenario writer Kinoko Nasu, based on the events of Tsukihime -A piece of blue glass moon-.\n Unique story events for each character give each playthrough its own feel, adding to the overall experience.\n Visuals have been updated with HD graphics, and include animation sequences by A-1 Pictures for special attacks.\n Dialog is fully voiced and will change depending on which characters are brought into battle, giving more insight into the characters' interpersonal relationships.\n \n \u25c6 Iconic Battle Systems\n Use characteristic Melty Blood mechanics such as Aerial Combos, Shields, Magic Circuits, Arc Drives, and Last Arcs, as well as a few new powerful techniques under the Moon Skill system. On top of that, an all-new simple control system has been implemented to make the intense battles a little more manageable, while also maintaining a balance which will allow both seasoned veterans and new players alike to fully enjoy the world of Melty Blood.\n \n \u25c6 Rich Customization & Gallery Feature\n Customize your title, profile icon, and character outfits for battle. They can even be used in online matches!\n Collect visuals, opening cinematics, music tracks, voices, pixel art, and more in the gallery. You\u2019ll even be able to take a look at guest illustrations created by artists connected to TYPE-MOON titles.\"",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2397044736
     },
     "70030000003461": {
         "id": null,
@@ -55032,6 +55344,143 @@
             "0100F59014E8D007"
         ]
     },
+    "70050000028381": {
+        "id": null,
+        "rightsId": null,
+        "name": "Progressum",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220526,
+        "nsuId": 70050000028381,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "ToastieLabs",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8117141842eea73877cd644a61bd78636ae1415ec2494c20b9e6213652806438.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4548706dd80d1a156e08fb4e708fbaab87dcaa0352eaf5a4437902a92475783a.jpg",
+        "intro": "Unlocks a new world for hexceed: Progressum brings 100+ new puzzles to solve!",
+        "description": "This DLC unlocks a brand new world for hexceed: Progressum! \nPuzzle your way through 100+ brand-new levels!",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028382": {
+        "id": null,
+        "rightsId": null,
+        "name": "Illumina",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220630,
+        "nsuId": 70050000028382,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "ToastieLabs",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f3827830c8681b7b4325819e6ca0ef65494f0b534cc1abb244b95e15eabcb632.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/61c5961200b8cdfb337d85a4b506b6d6182424ae9608606bad02b9013dd09e77.jpg",
+        "intro": "Unlocks a new world for hexceed: Illumina brings 100+ new puzzles to solve!",
+        "description": "This DLC unlocks a brand new world for hexceed: Illumina! \nPuzzle your way through 100+ brand new levels!",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028383": {
+        "id": null,
+        "rightsId": null,
+        "name": "Casus",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220728,
+        "nsuId": 70050000028383,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "ToastieLabs",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4e122fdb8ff34c2262e7e70b6cae162f9aa9bc462fd1ed321c9841a9a4dbd4bc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2d9fe5ae24a53fd14a467e78e963bfea2d1eccd3e520cdc1e67f6acf3a7aabb7.jpg",
+        "intro": "Unlocks a new world for hexceed: Casus brings 100+ new puzzles to solve!",
+        "description": "This DLC unlocks a brand new world for hexceed: Casus! \nPuzzle your way through 100+ brand new levels!",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028384": {
+        "id": null,
+        "rightsId": null,
+        "name": "Effugium",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220825,
+        "nsuId": 70050000028384,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "ToastieLabs",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8d368a75b04cd8129f47761293b54705296df72e6eeac881db15eb2449cc1da9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4261bbb18e7db5653cecbd3101835753b8af4fac97ef3bffe13dbc2ad46db796.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0725d1e5f83ec9dcb8769bf85003e2157ea99e6665c91f8d024d444caa513da.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/70a35de3c41a3ae983f67db6b1603980c398c658daa8d81cc275abddb6d0540e.jpg",
+        "intro": "Unlocks a new world for hexceed: Effugium brings 100+ new puzzles to solve!",
+        "description": "This DLC unlocks a brand new world for hexceed: Effugium! \nPuzzle your way through 100+ brand-new levels!",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028385": {
+        "id": null,
+        "rightsId": null,
+        "name": "Rimor",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220929,
+        "nsuId": 70050000028385,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "ToastieLabs",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/85dfe84258628e5324a4d9011a70a5dbe086790058901f1ae25320e4d33a1c8c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9663726c24fe7ffa371df13be5e4d13fab715ebd53d5d976723bdfad66218f91.jpg",
+        "intro": "Unlocks a new world for hexceed: Rimor brings 100+ new puzzles to solve!",
+        "description": "This DLC unlocks a brand new world for hexceed: Rimor! \nPuzzle your way through 100+ brand new levels!",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000028592": {
         "id": "0100E680149DD001",
         "rightsId": null,
@@ -55985,6 +56434,125 @@
         "size": 3145728,
         "ids": [
             "0100605015753001"
+        ]
+    },
+    "70050000029617": {
+        "id": null,
+        "rightsId": null,
+        "name": "PAC-MAN\u2122 99 Custom Theme: Splatterhouse: Wanpaku Graffiti",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210826,
+        "nsuId": 70050000029617,
+        "category": null,
+        "ratingContent": [
+            "Compras on-line"
+        ],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1391ef81f75c3abd35ad7eb1bc9ab47287c56bad7818ce30b1cae8a53121c79b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/375a634e2036e50f3fe2929d1bbabf92711063f3d7a88f106e756a1a09c9ae1d.jpg",
+        "intro": null,
+        "description": "Custom Theme \"Splatterhouse: Wanpaku Graffiti\" will be playable by selecting SETTING\uff1eCUSTOM THEME.\n\nHop back to the past with this retro theme!",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000029631": {
+        "id": null,
+        "rightsId": null,
+        "name": "\"Special Stickers 5\" sticker set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210825,
+        "nsuId": 70050000029631,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Drogas L\u00edcitas"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/72146473df850effe12818a83160088d5283fc989b70946dd0561470ef4767ad.jpg",
+        "intro": null,
+        "description": "Have fun communicating with other players using stickers!\n\nThis add-on contains:\n\n- \"Special Stickers 5\" Sticker Set\nThese quirky stickers depict some familiar items from around the village!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Chat menu.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000029651": {
+        "id": "0100969015B05001",
+        "rightsId": null,
+        "name": "Illustrations in Gallery Full Open",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210826,
+        "nsuId": 70050000029651,
+        "category": null,
+        "ratingContent": [
+            "Conte\u00fado Sexual",
+            "Compras digitais"
+        ],
+        "numberOfPlayers": null,
+        "rating": 14,
+        "developer": null,
+        "publisher": "Caerux",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/910086b1e3a0c3d934a1046602b97c96ac2870271ad3617d6c36f27b6b7bcba0.jpg",
+        "intro": "The \"Gallery All Open Pack\" is now available for those who want to view all the beautiful girl illustrations right now!",
+        "description": "When you purchase this pack, you will be able to see 45 illustrations of the main content and 3 illustrations of the additional content in the gallery.\n\n*The \"Illustrations in Gallery Full Open\" does not allow you to play the high difficulty stages.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100969015B05001"
+        ]
+    },
+    "70050000029652": {
+        "id": "0100969015B05002",
+        "rightsId": null,
+        "name": "High difficulty stage addition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210826,
+        "nsuId": 70050000029652,
+        "category": null,
+        "ratingContent": [
+            "Conte\u00fado Sexual",
+            "Compras digitais"
+        ],
+        "numberOfPlayers": null,
+        "rating": 14,
+        "developer": null,
+        "publisher": "Caerux",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/da3f63e036c3f56ef8b07a4216f02020d3d4735fd7d9fb9bab920fde8b12f51a.jpg",
+        "intro": "Additional stages are impossible to clear! High Difficulty Stage Pack\" is now available!",
+        "description": "This pack allows you to play \"3 stages\". The three additional stages are \"Rosa Haula\", \"Adrianna Diaz\", and \"Liselot Beijer\". Clear the more difficult stages and get gorgeous character illustrations!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100969015B05002"
         ]
     },
     "70070000002241": {
@@ -58785,6 +59353,35 @@
         "description": "Start writing the story of your victory in the menacing M6A2E1!\nIt is a reliable heavy with decent frontal armor and a powerful gun. Slowly but surely, it can confidently push the flanks as it advances toward the enemy. Imagine how cool it will look in the Radioactive Glow animated camouflage!\nCharge into battle\u2014victories await!\nThe items in this bundle can be purchased separately in the Store. Please consider this when purchasing the bundle.\n\nMeet the legendary free-to-play 3D tank shooter for Nintendo Switch\u2122! Become part of the community of players from around the world and join this modern shooting game and battle in a 7x7 format on your own or with friends. Research and upgrade armoured vehicles, use various tactics from aggressive onslaught to stealthy survival, and win! Choose a tank and become a battlefield hero!\n\nGAME FEATURES\n\u2022 An enormous world of tanks: over 350 unique and exclusive combat vehicles with thoroughly elaborate 3D models! Historically accurate vehicles, experimental tanks based on blueprints of famous engineers, armoured monsters from popular alternative universes\u2014here they fight together!\n\u2022 Dynamic 7x7 battles with different modes in over 25 battle arenas. Each combat encounter is unpredictable as outcomes depend on you and your team.\n\u2022 Jam-packed with action! In-game events featuring rare vehicles as rewards and battles with dramatically different gameplay. Become an invisible (and more) hero of battle arenas in Mad Games. Test yourself in tough survival Realistic Battles. Or... become a mighty force as a little battle duck for April 1st!\n\u2022 A shooting game with a well-developed progression system. Research vehicles from Tier I tanks to monstrous Tier X machines. Change guns, set equipment, wear camouflage, and increase your survival odds. Tune your combat vehicle to match your playstyle and strike the enemy with the sheer force of your  steel war machine!\n\u2022 Spectacular 3D graphics that automatically optimise to your device. Enjoy the eye-catching features of every battle arena, highly detailed tank models, massive explosions, and flying blown-off turrets. Manual settings will help you find the balance between a fantastic picture and high FPS.\n\u2022 Teamplay! Join forces with your friends in platoons or become a clan member to battle alongside like-minded players in Rating battles and participate in tournaments for prizes! Coordinate your actions and strike the enemy as one!\n\nThis shooting game is free to play.\nLearn more at https://wotblitz.com/\n2021 Wargaming.net",
         "languages": null,
         "size": 4033871872
+    },
+    "70070000012787": {
+        "id": null,
+        "rightsId": null,
+        "name": "\"High Difficulty Stage Release\" and \"Illustrations in Gallery Full Open\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210826,
+        "nsuId": 70070000012787,
+        "category": null,
+        "ratingContent": [
+            "Conte\u00fado Sexual",
+            "Compras digitais"
+        ],
+        "numberOfPlayers": null,
+        "rating": 14,
+        "developer": null,
+        "publisher": "Caerux",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/db9a0b4dd1d1b21f229cfa81e0af71d3b9056799ff83acc74e6257b2e771b670.jpg",
+        "intro": "The \"High difficulty stage addition \" and \"Illustrations in Gallery Full Open \" are now available in one package!",
+        "description": "Additional stages are impossible to clear! This pack includes the \"High difficulty stage addition \" and the \"Illustrations in Gallery Full Open \" which allows you to see all the beautiful girl illustrations right now.\n\n*Please be careful not to purchase more than one item at a time. This \"High Difficulty Stage Addition + \"Illustrations in Gallery Full Open \" includes both the \"High Difficulty Stage Addition\" and the \"Illustrations in Gallery Full Open \".",
+        "languages": null,
+        "size": 6291456,
+        "ids": []
     },
     "70070000012799": {
         "id": null,
