@@ -8566,7 +8566,7 @@
             "ru",
             "zh"
         ],
-        "size": 343932928
+        "size": 353370112
     },
     "70010000033855": {
         "id": "01003B0012DC2000",
@@ -9837,6 +9837,49 @@
             "zh"
         ],
         "size": 1078984704
+    },
+    "70010000041440": {
+        "id": "010009F014D98000",
+        "rightsId": null,
+        "name": "TV Pok\u00e9mon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210826,
+        "nsuId": 70010000041440,
+        "category": [
+            "Video",
+            "Estilo de vida",
+            "Otros"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "The Pok\u00e9mon Company International",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/66d8697d06975212e7d06587e227babb3a1d9c7d3d8e32a4a524ea2c78b0c8d2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c644aa0bb1b44fae0a9d1394db9e7864fd63bd61956245a9239d055c43c99b45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7a835db925f0a21841112400ea6a54615e95e2a7ff996e583ac771be9e790a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7dd2b66831629135b0b02fb44fcc711e3a711ae055bd2b934c0e0a45dc64aa0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/617d6006d8619c4c44d7ccf0bdca6cc63901692e4da1edce052cd840506e515d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e171850c6502d5e263ca54ba10d821aeabe57a74cd2fe667a2ad9cb34b56848b.jpg",
+        "intro": "\u00a1Ve Pok\u00e9mon! ",
+        "description": "\u00a1TV Pok\u00e9mon es una manera divertida de ver todo tipo de programaci\u00f3n Pok\u00e9mon! Disfruta de las aventuras de Ash, Pikachu y sus amigos junto con especiales de dibujos animados.\n\n\u00a1Horas y horas de diversi\u00f3n Pok\u00e9mon!\nEncuentra un mont\u00f3n de fant\u00e1stico contenido Pok\u00e9mon que podr\u00e1s ver en un solo lugar, con cientos de episodios, incluso temporadas completas, y especiales de dibujos animados. \u00a1El contenido cambia de forma peri\u00f3dica!\n\n\u00a1Videos divertidos para los peque\u00f1os fans de Pok\u00e9mon!\nLa categor\u00eda J\u00fanior contiene videos para entretener a los Entrenadores m\u00e1s j\u00f3venes. \u00a1Los peque\u00f1os de la casa pueden participar cantando canciones, escuchando rimas infantiles populares y mucho m\u00e1s!\n\n\u00a1La aplicaci\u00f3n m\u00f3vil TV Pok\u00e9mon es una fant\u00e1stica manera de que los fans vean sus episodios favoritos y vuelvan a disfrutar de incre\u00edbles aventuras Pok\u00e9mon!\n\n",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "size": 113246208
     },
     "70010000042924": {
         "id": null,

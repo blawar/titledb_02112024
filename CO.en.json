@@ -8403,7 +8403,7 @@
             "ru",
             "zh"
         ],
-        "size": 343932928
+        "size": 353370112
     },
     "70010000033855": {
         "id": "01003B0012DC2000",
@@ -9674,6 +9674,50 @@
             "zh"
         ],
         "size": 1078984704
+    },
+    "70010000041440": {
+        "id": "010009F014D98000",
+        "rightsId": null,
+        "name": "Pok\u00e9mon TV",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210826,
+        "nsuId": 70010000041440,
+        "category": [
+            "Video",
+            "Lifestyle",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "The Pok\u00e9mon Company International",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/66d8697d06975212e7d06587e227babb3a1d9c7d3d8e32a4a524ea2c78b0c8d2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7420e4cfae21cc709f4a660387abf82f034a168c8d82e6d6e8d84a154f19346e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b79d9ce87eaab87030888f7cc9a22356fb414845d51bc47c8b618c57329977f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/02ad9f08bdde9329737fcedea89eda36148d5af4fa6678bc857b8fc4909241dc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd971c6b830a4200bdf337d9884053e1f2089ea8a6b1e1545b4cbec9698adac3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ff6fdad3e500035fd216c12c33ee2e65f269e78c1e1df54001c0fbac81fac8f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7cca0b434ba65ba538754273611b512d1844182bd2e622fff3277e725f0913a4.jpg",
+        "intro": "Watch Pok\u00e9mon! ",
+        "description": "Pok\u00e9mon TV is a fun way to watch all sorts of great Pok\u00e9mon programming! Enjoy the adventures of Ash, Pikachu, and their friends\u2014along with animated specials and highlights of Pok\u00e9mon Championship tournaments.\n\nHours Upon Hours of Pok\u00e9mon Fun!\nFind loads of great Pok\u00e9mon content to watch in one convenient place\u2014hundreds of episodes (including full seasons), animated specials, and thrilling Pok\u00e9mon Trading Card Game and video game competitions. Content changes periodically!\n\nFun Videos for Little Pok\u00e9mon Fans!\nThe Junior category includes videos to entertain younger Trainers. Kids can join in with sing-along songs, hear popular nursery rhymes, and more!\n\nThe Pok\u00e9mon TV app is a great way for fans to enjoy their favorite episodes and relive incredible battles from Championship competitions!\n",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "size": 113246208
     },
     "70010000042924": {
         "id": null,
