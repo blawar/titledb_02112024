@@ -6730,11 +6730,10 @@
         ],
         "ratingContent": [
             "Viol\u00eancia",
-            "Drogas L\u00edcitas",
-            "Linguagem Impr\u00f3pria"
+            "Drogas L\u00edcitas"
         ],
         "numberOfPlayers": 1,
-        "rating": 14,
+        "rating": 12,
         "developer": null,
         "publisher": "CAPCOM",
         "frontBoxArt": null,
@@ -8291,10 +8290,11 @@
         ],
         "ratingContent": [
             "Viol\u00eancia",
+            "Usu\u00e1rios Interagem",
             "Compras on-line"
         ],
         "numberOfPlayers": 1,
-        "rating": 10,
+        "rating": 12,
         "developer": null,
         "publisher": "Modus Games",
         "frontBoxArt": null,
@@ -10009,7 +10009,7 @@
         "languages": [
             "en"
         ],
-        "size": 433061888
+        "size": 484442112
     },
     "70010000033700": {
         "id": "0100A34012CCA000",
@@ -21849,7 +21849,10 @@
         "intro": "In Pony World 3 you can create your own dream pony from scratch and help develop his character by choosing way of education, career and make a lot of friends.",
         "description": "Change your pony's looks and clothing, add glasses and saddles or even tattoos.\n\nMake your pony\u2019s farm his dream place to live. Build it and expand it to look best in the neighborhood. Decorate it and plant new plants to acquire higher status. Sell products from your farm to earn money for food, gifts and toys. Improved building mode with lots of new buildings and decorations will make your farm unique.\n\nPony Town has all facilities needed by your pony to spend playful time, develop its career and education and care for its looks and health. Visit stylists and beauty salons to become the most pretty and stylish pony. Attend school and university to find better paid job. And there's a lot of places you can go after (or instead of) work: theatre, disco, cinema, skate park, circus and more. And if that's not enough you can always go to the beach or take a trip around the forest or in the mountains.\n\nGame features:\n\n- improved 3D graphics with free look mode.\n- five huge locations with plenty of places to go plus three additional locations to build your dream farm.\n- improved gameplay and interface for even easier navigation\n- five scenarios to play and a free play mode where only your imagination is the limit.\n- 5 new mini-game competitions\n- hundreds of farm decorations and buildings",
         "languages": [
-            "en"
+            "en",
+            "es",
+            "fr",
+            "ru"
         ],
         "size": 343932928
     },
@@ -25070,6 +25073,54 @@
             "zh"
         ],
         "size": 849346560
+    },
+    "70010000041390": {
+        "id": "010036A0150D6000",
+        "rightsId": null,
+        "name": "Golf Club Wasteland",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210903,
+        "nsuId": 70010000041390,
+        "category": [
+            "Esporte",
+            "Arcade",
+            "Aventura",
+            "Plataforma"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Untold Tales",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/af3dee7ff8ea7d9e493f1f514e2ba4d8734932ac87596fb86d073a963da8c8c2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/117c829bb70a8d7b25390c522b919a32f1b258f853877d468e1f7a946b1669b8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/86268dd45834167c778de0e570f3f0342bb403c67fde72c4162e303525a0cc83.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e1761bb8785df3b175f6b6999e32f2e2db21a619a977d5f15e50d38aacddcbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cdcf0e0c34374c853cd02f80bae62fdde5ea760f8875062a1e824249a4f40f7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32a1e5f0c87bdfbbd53d77185f7785f80e9e58e41d0957da3f28436edbc96a06.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0628129341313239f3efd422f3eaa362396ce96f07de5062a150e6f910734ca6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/baedd3d66394d40808ed2f0f6f788af3e7ae1a04c7216b9df8c791b3187b3186.jpg",
+        "intro": "Aventura de golf apocal\u00edptica",
+        "description": "Aventura de golf apocal\u00edptica\nOs ricos fugiram para Marte, mas voltam \u00e0 Terra desolada para umas partidas de golfe. Cada buraco tem sua pr\u00f3pria hist\u00f3ria e proporciona desafios cerebrais para quem quer dar a tacada perfeita. Jogue em monumentos brutalistas destru\u00eddos, shoppings caindo aos peda\u00e7os e museus abandonados. Placas de neon e murais de graffiti exp\u00f5em os eventos atuais, a cultura do Vale do Sil\u00edcio e a humanidade. \n\nUm buraco e tr\u00eas hist\u00f3rias\nDesvende a hist\u00f3ria da queda da humanidade com tr\u00eas fontes distintas, detalhes da hist\u00f3ria do golfista solit\u00e1rio que voltou \u00e0 Terra para uma \u00faltima partida. A R\u00e1dio Nostalgia de Marte nos conta das vidas daqueles que escaparam, com a narra\u00e7\u00e3o de um \"espectador secreto\" que observa \u00e0 dist\u00e2ncia.\n\nO radialista e o 1%\nAcompanhe uma trilha sonora dedicada e hist\u00f3rias pessoais contadas pela R\u00e1dio Nostalgia de Marte. A esta\u00e7\u00e3o transmite para os cidad\u00e3os de Marte que s\u00e3o nost\u00e1lgicos pela Terra e querem ouvir m\u00fasicas dos anos 2020, al\u00e9m de contar suas mem\u00f3rias do antigo planeta. Um radialista com uma voz suave anuncia not\u00edcias e fatos, deixando transparecer que a vida em Marte n\u00e3o \u00e9 t\u00e3o encantadora.\n\nComo uma luva\nTr\u00eas modos distintos para os gostos de todos os golfistas. Jogadores casuais podem se concentrar na hist\u00f3ria e admirar o cen\u00e1rio no Modo Hist\u00f3ria. Quem busca desafios pode tentar ficar abaixo do par em cada buraco e usar o racioc\u00ednio no Modo Desafio. Os especialistas podem experimentar o Modo de Ferro, onde quase n\u00e3o h\u00e1 espa\u00e7o para erros. Os controles simples e a interface minimalista permitem que qualquer pessoa jogue e aprenda no seu pr\u00f3prio ritmo. \n\nPara n\u00e3o largar mais\nEst\u00e3o inclusos em cada c\u00f3pia do jogo a trilha sonora oficial de Golf Club Wasteland e um livro de ilustra\u00e7\u00e3o em quadrinhos que expande ainda mais a hist\u00f3ria do golfista solit\u00e1rio Charley.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 1320157184
     },
     "70010000041397": {
         "id": "010096C01515C000",
@@ -29239,12 +29290,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/37e0b0a38fc81f8cd10c2a0721747dc919a1662ac7ec19c20d107603b99cbed1.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/29b8c8e0bf7aed161b2e3fd365c78bdba80fe8a2362071970b73f9c5f11c6d07.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f76dcdfcaee212e8444a0fea1e78fa0541f874e12c03c8e75f1f231118a9d538.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/ad8ea9f38d8c0f31ca90f34d98bf643c040ea143a7dda438633b21263a925382.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/131984cdae5cd509b2b4db1cc59d30ee87a0198ef9eb66291627294b3c538d2f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/b2ad05d9f2e8f9a59d3598c50d525cc874dd9d043a89d5f60047d934b3e24fd7.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2cbaa8e447a8c185b7e11588d8f274408f2025a5722e1801857f09aaf9ff7f12.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/d759061e0147865131ca3febc084e16cf03bd8ccbf63a319efe250642b1b4842.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/155034ee11de7d7cd7069d653e73fdae40a4768634434fd5ce697ed89d8e1d07.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2eeddb84bd303584112c38fe3a13c8ba034072284f0821f3935bb272fbf6838a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d163623049df2ad3c125875a313f21df8f1c03b08d22bac189c7bdaa8ca316d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae56a0c7b34e7108c8364ffac6c67055adc9f980f82bc81a7e70252a73a3055e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6b898a9f358e84fbf2e55a8b0413f5dcf664da0e8f211a14be815c727a69180.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ec18f2d681770c656cd83cbbd5acd8ff22a0704de8e6a6510958b3a443acc5b7.jpg",
         "intro": "O caos dos microjogos chega ao console Nintendo Switch\u2122",
@@ -31905,6 +31956,44 @@
             "en"
         ],
         "size": 141557760
+    },
+    "70010000044316": {
+        "id": "01006CC015D12000",
+        "rightsId": null,
+        "name": "Speedway Heroes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210827,
+        "nsuId": 70010000044316,
+        "category": [
+            "Esporte",
+            "Corrida",
+            "A\u00e7\u00e3o"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Simplicity Tomasz Dyrak",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fb366f353548f39e6f0bb5e12946043d1d03fddaaa4444838be95c827c52f927.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ce5a0757d8f03b79823c1cbe097e0b64217aa910b7a3302893ba919e557f106c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/380c682106198cd59c69ea1e802ee28120801e99803966a142e29b9bb306ee6a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48c452748bd3dc072775753655e7f68cf10906159140fdd6af0ee48dd7df62ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9e37b0849c2ebfc8729a9530a8faf4e9bd5825b9839c4e5e564f8ec525150ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/383d3fb6450dc78fc2f868634773de0fd08b9fa4ad0e7116a61bf5ab7946c6ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/96e338f790f499f6e0d2a83a9ccf51f91685ecf1a4092c19009b0954f8b65448.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d11e38a0b8681abaa7f5eb55750b230a0bbeefea7fa5701e8f970ae4e94faff.jpg",
+        "intro": "The best speedway and racing game \u2013 Speedway Heroes!",
+        "description": "Are you a speedway fan?\nDo you like the roar of the engine and side by side competition?\n\nYou will be excited when you\u2019ll try Speedway Heroes \u2013 fresh speedway game from Simplicity Games, delivered for this \u2018black sport\u2019 fans (and not only for them!).\n\nStart now your speedway adventure through countries like every speedway-fan should know \u2013 Great Britain, Germany, Poland, Australia, Sweden, Russian, and many others soon.\n\nWhat is waiting for you in our racing game? Dirt track, flat track racing\n\n- polished driving model\n- advanced AI of opponents\n- realistic competition on tracks\n- the climate of real speedway races\n- over 100 stadiums \u2013 full of details, in different places of the world\n- four seasons\n- day/night mode\n- upgrading character\n- upgrading bike\n- an increasing level of difficulty\n- dozens of costumes and helmets\n- dozens of motorcycles\n- player statistics\n- chests with surprises after every game\n- beautiful 3D graphics\n\nEven if you don\u2019t like speedway but you could appreciate a good racing game \u2013 check your skills in Speedway Heroes!\nDon\u2019t wait and buy now! Dirt track, flat track Race for you.",
+        "languages": [
+            "en"
+        ],
+        "size": 464519168
     },
     "70010000044410": {
         "id": "010062B015D28000",
@@ -48882,11 +48971,10 @@
         "category": null,
         "ratingContent": [
             "Viol\u00eancia",
-            "Drogas L\u00edcitas",
-            "Linguagem Impr\u00f3pria"
+            "Drogas L\u00edcitas"
         ],
         "numberOfPlayers": null,
-        "rating": 14,
+        "rating": 12,
         "developer": null,
         "publisher": "CAPCOM",
         "frontBoxArt": null,
@@ -59049,8 +59137,7 @@
         "ratingContent": [
             "Viol\u00eancia",
             "Conte\u00fado Sexual",
-            "Drogas L\u00edcitas",
-            "Linguagem Impr\u00f3pria"
+            "Drogas L\u00edcitas"
         ],
         "numberOfPlayers": null,
         "rating": 14,
@@ -60103,5 +60190,37 @@
         "description": "O Passaporte FighterZ abre as portas para uma experi\u00eancia de luta ainda mais explosiva, com nada menos que 8 novos personagens superpoderosos. Ent\u00e3o comece logo a aprimorar suas t\u00e9cnicas nesses novos estilos de jogo, mec\u00e2nicas e combina\u00e7\u00f5es de equipes!\n\nE esses novos lutadores tamb\u00e9m receberam seus pr\u00f3prios selos, alternativas de cores e Avatares de Lobby.\n\nDRAGON BALL FighterZ nasceu inspirado no que torna a s\u00e9rie DRAGON BALL t\u00e3o querida e famosa: lutas infinitas e espetaculares entre guerreiros poderosos.\n\nEm parceria com a Arc System Works, DRAGON BALL FighterZ maximiza os gr\u00e1ficos de anime de alta qualidade e oferece uma mec\u00e2nica de jogo f\u00e1cil de aprender, mas dif\u00edcil de dominar.",
         "languages": null,
         "size": 37748736
+    },
+    "70070000012803": {
+        "id": null,
+        "rightsId": null,
+        "name": "Head Games and Tank Battle Retro",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210827,
+        "nsuId": 70070000012803,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Piotr Skalski",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b2aa7fa260bda4e2d5ee540631e2193c3b2ee2a1fceba66e7ea2a5cdf42ae4a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49979e591ea7c6a64418d2740a91e099a3143d894c00dd3a2fbb89a65b53fa96.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/669b2a5b7ccdb398858251f49bd7c8168fd17a177c5964c6d428a10b7eb9b9a4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14d0ba8135130b450457692d64b93150797caac9db29ae37f312aac1a6fc8956.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a94a290608f5e469899cf8ecfc7540a6bc08743121620943ccd4818e62190abe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b589b0cbc25a0421de01f3e92e8f190dadcc623b3daf76f79dfb43a5a2f75f87.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c273f6a9dee295b0322dfc08f3a0d5d154fcbe3cd74519134d4131fc2484f2df.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 256901120
     }
 }
