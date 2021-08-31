@@ -6452,7 +6452,7 @@
         "numberOfPlayers": 2,
         "rating": 0,
         "developer": null,
-        "publisher": "TribandProductions",
+        "publisher": "Triband",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/73deef5690057b23238a38d5dcbf0a595992c4b96daa208183f6bdfdb9d31be2.jpg",
         "screenshots": [
@@ -8972,7 +8972,7 @@
         "developer": null,
         "publisher": "Rose City Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4e432251fa55c4d6ceab5a33e8f2b2ad6953fa4cb2a357a1d094041a91183fcb.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ed9d1aa8af955996e7c9c2746b436109890ecf996c22f8083b4cb4a2f354da84.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/a67b19b3173f2865a9205e42b7e4f41f11d08579563ca77fc50a720319ee91fc.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b0e26388c5007128a12cd7c203767a775f8479d4fe31c267d645f3caae96732c.jpg",
@@ -9568,7 +9568,7 @@
             "de",
             "zh"
         ],
-        "size": 1707081728
+        "size": 1710227456
     },
     "70010000032746": {
         "id": "0100A6B012932000",
@@ -9791,6 +9791,46 @@
             "zh"
         ],
         "size": 6995050496
+    },
+    "70010000033311": {
+        "id": "0100A21012AA6000",
+        "rightsId": null,
+        "name": "ACTIVE LIFE Outdoor Challenge",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210903,
+        "nsuId": 70010000033311,
+        "category": [
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 0,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/692fcd83d7c247b9d02cce689e686e30844d21c98c02277c88b80b184f9ce248.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b4a295c07f2051ed9a44d96bc689dda25ca6e03593491f6369c9ee2c3cb51bab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38fae20fcb0ef9cd23aab4cbbf170399fab58e6b14b66ffc0982bb7310ea69b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a60c2e1e55bdce51efa76512299d361cd7ae667b962c5cb6b4aa5659a543330.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e04823e6104b44488639357ab06397d8aa2ab0860839dc0e68d406408dd4b906.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf1d4beba573280c48a139d6d0bfc95effa07081f1f4c58e6c39695800175b63.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f6762bb114238efce5268295043834edc8f15c06c4250fbc159e4f7939f3377.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f87ed2facaeb8a2fd4c3751409b6c1237cff40cfe0b72babefa391bdd284d8c2.jpg",
+        "intro": "Mexer o seu corpo nunca foi t\u00e3o divertido!",
+        "description": "Prepare-se para levar a natureza a qualquer lugar porque o ACTIVE LIFE Outdoor Challenge est\u00e1 de volta no Nintendo Switch\u2122! De caiaques a corridas de obst\u00e1culos, voc\u00ea participar\u00e1 de exerc\u00edcios da vida real para concluir uma variedade de minijogos divertidos. Melhore sua coordena\u00e7\u00e3o olho-m\u00e3o e comece a suar com o Joy-Con\u2122 e com a cinta para a perna!\n\nJogue mais de uma d\u00fazia de desafios de um jogador e multijogador. Controles simples permitem jogos f\u00e1ceis de entender que qualquer pessoa pode aproveitar. Com o ACTIVE LIFE Outdoor Challenge, voc\u00ea pode levar a aventura aonde quer que v\u00e1!\n\nUMA MANEIRA DIVERTIDA DE SE MEXER\n\u2022 Pule, corra, agache e pise atrav\u00e9s de uma d\u00fazia de minijogos de acelerar o cora\u00e7\u00e3o. Inclui rafting, pula-tora, corrida de carrinho de mina e mais!\n\nVARIEDADE DE JOGABILIDADE\n\u2022 De uma cole\u00e7\u00e3o \u00fanica de minijogos e rotinas de exerc\u00edcio personalizadas, escolha o que mais combina com a sua agenda e aptid\u00e3o f\u00edsica.\n\nJOGUE EM MODO SOLO OU COOPERATIVO\n\u2022 Enfrente aventuras solo ou com um amigo em jogos cooperativos, ou voc\u00eas podem competir um contra o outro pela pontua\u00e7\u00e3o mais alta! *Para jogos cooperativos, esse jogo requer dois controles Joy-Con\u2122 e duas cintas para a perna.\n\nEXPERI\u00caNCIA TOTALMENTE IMERSIVA\n\u2022 Transforme seus movimentos dentro do jogo em exerc\u00edcios do mundo real usando o Joy-Con\u2122 e a cinta para a perna.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 1865416704
     },
     "70010000033627": {
         "id": "010056901285A000",
@@ -10094,6 +10134,46 @@
             "ru"
         ],
         "size": 41943040
+    },
+    "70010000033731": {
+        "id": "0100A49012D10000",
+        "rightsId": null,
+        "name": "Street Outlaws 2: Winner Takes All",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210921,
+        "nsuId": 70010000033731,
+        "category": [
+            "Corrida",
+            "Esporte",
+            "Simula\u00e7\u00e3o"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Linguagem Impr\u00f3pria",
+            "Compras digitais"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Game Mill",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/54d81b49d3935ed84ff3f628a7b2104f029302c5671ff80e8875b2a3969191e0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c7e603e8a01118d82dff5d088d21d128e9f325ba6196cd6655eeaebe985a0ff3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f8891db75afef2a35594e821abdbcf30c44aed0435796851100460f47833473a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09dabc00931f73fc4e0d6968bc1cb2479308dcfb330b41f11f2685115ab013c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c74e3e69a5e8239cf3e953a87ea3121dd6f5a10478f181218ef56e645099c609.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/86f97f7a7fafb4e86830a4a718d4115554f094f422e20e2497c9822975b1f045.jpg",
+        "intro": null,
+        "description": "As apostas acabaram de aumentar! Nesta sequ\u00eancia de alta octanagem, prove sua coragem em alguns dos rachas e corridas de ve\u00edculos drag mais dif\u00edceis e implac\u00e1veis dos Estados Unidos. Seu sucesso e sua reputa\u00e7\u00e3o dependem do seu desempenho, da sua estrat\u00e9gia para modificar o carro e de quantos pontos voc\u00ea ganha ao longo do caminho.\n\nO Unreal Engine leva Street Outlaws a um n\u00edvel totalmente novo de fidelidade visual com ilumina\u00e7\u00e3o, texturas e outros aprimoramentos! Voc\u00ea pode personalizar seu carro e a garagem de sua equipe para deix\u00e1-los com a sua cara. Com os rachas vistos na TV, voc\u00ea tamb\u00e9m poder\u00e1 participar de corridas e acrobacias \u00fanicas enquanto interage com seus membros do elenco favoritos do programa! Ser\u00e1 que voc\u00ea tem talento para ser coroado como o campe\u00e3o nacional de todos os tempos?\n\n\u2022 26 ve\u00edculos drag mais 5 carros de desafio \n\u2022 36 locais exclusivos para corridas e eventos de desafio\n\u2022 Mais de 250 pe\u00e7as para personaliza\u00e7\u00e3o profunda dos carros, inclusive aros, paraquedas, pneus, cor do vidro, cor de fuma\u00e7a dos pneus, al\u00e9m da personaliza\u00e7\u00e3o da garagem pessoal\n\u2022 Entre de sola no tudo ou nada com o recurso de aposta de corrida no jogo\n\u2022 Monte sua equipe de apoio definitiva com motoristas, engenheiros, mec\u00e2nicos e outros\n\u2022 Com Ryan Martin, Big Chief, AZN, Lizzy, Farmtruck e muitos outros do programa de TV Street Outlaws\n\u2022 Multijogador ass\u00edncrono, torneios e placares",
+        "languages": [
+            "en"
+        ],
+        "size": 5031067648
     },
     "70010000033833": {
         "id": "0100ED7012DB2000",
@@ -10648,6 +10728,86 @@
         ],
         "size": 391118848
     },
+    "70010000034394": {
+        "id": "0100BCE013042000",
+        "rightsId": null,
+        "name": "G-DARIUS HD",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210928,
+        "nsuId": 70010000034394,
+        "category": [
+            "Tiro",
+            "A\u00e7\u00e3o",
+            "Arcade",
+            "Aventura"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 0,
+        "developer": null,
+        "publisher": "ININ Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/97f1703694a6551ae0ff96836252a51adb27bc03ee439b9afcf7382cd915819b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/03741a1e76c3b398c466fdf4b21606ad37cfc68b378051f8e798a6340dba748b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4d691c5f22d4378b683e6beef6c485c6e36b3ae4c0ac7af6b6d363ddede4991b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bbadbb57a9c3e77eda8b501fee3a8a7746377dd65199112913b282774332721.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2306d416c1eefc95db0ffb531d850ee3acc0673e9a44dcd5883ebd345eadbec0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/802da75a8a1d1e5addcae2b1ddae2ae556572b43dfc4f060176db3707db43c95.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d827e25cf0644d8a0c3a5602afd066b641cbccb4a94410edc4021aed9cea2921.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/729970732604791c41f649e2b1bc4d5bba08ff177b416d3f5ab8c285c7c01a79.jpg",
+        "intro": "Testemunhe o nascimento do Silver Hawk na gl\u00f3ria do HD!\n\n",
+        "description": "Levante voo no ic\u00f3nico Silver Hawk e mergulhe num jogo emocionante com visuais HD modernos ou gr\u00e1ficos de estilo de arcada retro aut\u00eanticos.\n\nViva os conflitos entre o Reino de Amnelia e o impiedoso Imp\u00e9rio Thiima, que ocorreram antes da batalha entre o povo de Darius e Belsar. Durante este conflito, foram criados os ic\u00f3nicos Silver Hawks da s\u00e9rie para dispor do sistema de bola de captura exclusivo do jogo, que lhe permite tra\u00e7ar a sua pr\u00f3pria estrat\u00e9gia e ganhar uma vantagem sobre o inimigo!\n\nG-DARIUS HD \u00e9 o portal de \u201cG-DARIUS\u201d em alta resolu\u00e7\u00e3o \u2013 desenvolvido pelos especialistas em remasteriza\u00e7\u00e3o da M2. O jogo tamb\u00e9m pode ser jogado em baixa resolu\u00e7\u00e3o, como na vers\u00e3o de arcada original.\n\nDas \u00e9picas batalhas com os chefes \u00e0 memor\u00e1vel banda sonora, G-DARIUS destacou-se quando foi lan\u00e7ado nos jogos de arcada e, at\u00e9 hoje, os cr\u00edticos e os f\u00e3s elogiam este jogo como um excelente exemplo de como trazer devidamente uma s\u00e9rie de jogos 2D para 3D.\n",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 117440512
+    },
+    "70010000034396": {
+        "id": "010043F013044000",
+        "rightsId": null,
+        "name": "Dariusburst: Another Chronicle EX+",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210830,
+        "nsuId": 70010000034396,
+        "category": [
+            "Arcade",
+            "A\u00e7\u00e3o",
+            "Tiro",
+            "Outros"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 0,
+        "developer": null,
+        "publisher": "ININ Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/aff2eb9eedf20459e8ca8d4cd1db94ead83cf0379b30b4f016643ee5914e66ff.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cfd40c72eb6a5327a4b70f7c322634b514d939bfe2761c4bd9e86693bd091433.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62e1479c97bbb3924f20144c1ed6e704b2d466016148f3b839ab87133ecc2386.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05d222883ac6469efcc98d6c68bfe8b3c256546075f8761406f8e709a77a45f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b71ac66066ce7b07fd837eb511eb85758efbcb9449dbfcc18cd403feb3eabde0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e3a4d1bdd0fbd96bdd7ac1ea42ed894dcf595813e6907cffc432674a819ccfc9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35a9f89a1822b34db50bd4814b7ad06913ba6128950d0032cfbc87127716c6d6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bfefd8b138b3004bad556b8fc8d01acfd8961837f6f24b4b22d3408d8563ace7.jpg",
+        "intro": null,
+        "description": "Participa na mais fant\u00e1stica aventura da gal\u00e1xia at\u00e9 hoje com esta nov\u00edssima atualiza\u00e7\u00e3o do cl\u00e1ssico de arcada Dariusburst: Mais uma Cr\u00f3nica! O CAOS devastou o universo \u00e0 medida que as hordas biomec\u00e2nicas dominam, mais uma vez, a humanidade. Sem o apoio da rede humana, Silver Hawks mergulha nas profundezas do MAL equipado com tecnologia Burst e enviado para libertar o Planeta Darius!\n\nNesta nov\u00edssima edi\u00e7\u00e3o de Dariusburst, desfruta dos visuais melhorados e de a\u00e7\u00e3o arcada aut\u00eantica como nunca antes! Conquista as for\u00e7as mal\u00e9ficas de Belsar no Modo EVENT completo, com todos os novos cen\u00e1rios exclusivos para EX+! E, pela primeira vez, voa no Silver-Hawk Murakumo em todos os modos!\n\nCorre para Dariusburst: Mais uma Cr\u00f3nica EX+! Fica vigilante!\n",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 2479882240
+    },
     "70010000034420": {
         "id": "010031201307A000",
         "rightsId": null,
@@ -10693,6 +10853,45 @@
             "zh"
         ],
         "size": 4669308928
+    },
+    "70010000034451": {
+        "id": "010004B0130C8000",
+        "rightsId": null,
+        "name": "Turrican Flashback",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210830,
+        "nsuId": 70010000034451,
+        "category": [
+            "Arcade",
+            "A\u00e7\u00e3o",
+            "Tiro",
+            "Plataforma"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "ININ Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dff1d81f597a1fa98015a3cef3e4f890b3e0f56c068648b5784ce9173cd2765d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e433110a035a1831e50bc320555e9193ffd6bab59fd187875e60e969a7f6b70a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ddd5fc6d4debf41584d7a6022c4e8a4df59dfad1eb5325c30760140749be472.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/505accae440841a1adacceef97a2c193213fded90c48621842cf5f720bab09ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b15ec325c2ca5eec30ce9c2efe47bc08a2b490db3de3660c1c22cf95f27fd6d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0127b7b510711b009f028899e4ef012bc77f3b546ffd5f48b0bf0216e6838f47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/02d3985e964df674f6b134bf4581045574e7c1a0740b291e47624ca731f75876.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6f718341ae30ce16a873f9921489cd739b5e0bbac25c66447c9712188efd5aa2.jpg",
+        "intro": null,
+        "description": "A lend\u00e1ria s\u00e9rie Turrican est\u00e1 de volta! Experiencie 4 jogos de a\u00e7\u00e3o cl\u00e1ssicos nesta cole\u00e7\u00e3o pioneira com n\u00edveis imensos, m\u00fasica excepcional e controles modernos. Esta \u00e9 a maior experi\u00eancia em jogos retr\u00f4! Descubra todos os segredos, rebele-se contra as m\u00e1quinas e participe do anivers\u00e1rio de 30 anos de um dos momentos mais especiais dos v\u00eddeo games.\nDesenvolvido pela Factor 5, Turrican se tornou uma das grandes s\u00e9ries de jogos de a\u00e7\u00e3o de todos os tempos, celebrado em todo o mundo por suas \u00e9picas batalhas de chefes, incr\u00edvel design de n\u00edveis com explora\u00e7\u00e3o e, claro, a inesquec\u00edvel trilha sonora de Chris Huelsbeck! \nPela primeira vez, o melhores jogos da s\u00e9rie foram cuidadosamente remasterizados para uma nova gera\u00e7\u00e3o, trazendo a aut\u00eantica a\u00e7\u00e3o de Turrican de volta mais uma vez para os f\u00e3s reviverem suas mem\u00f3rias e capturar a imagina\u00e7\u00e3o de um novo p\u00fablico. \n- Design de n\u00edvel incr\u00edvel que permite explorar livremente e descobrir segredos!\n- Novos esquemas de controle real\u00e7am a a\u00e7\u00e3o mais do que nunca!\n- Jogue com pixels n\u00edtidos, gr\u00e1ficos suaves para tela cheia ou o incr\u00edvel sombreador CRT!\n- Nova op\u00e7\u00e3o de HUD din\u00e2mico, para garantir uma experi\u00eancia mais moderna!\n- Trilha sonora da lenda da ind\u00fastria dos jogos Chris Huelsbeck, incluindo uma nova faixa exclusiva!\nEste \u00e9 o momento pelo qual os f\u00e3s tanto aguardavam! A lenda voltou. A M\u00e1quina est\u00e1 espalhando terror pela gal\u00e1xia. Boas-vindas \u00e0 aventura, 30 anos depois do seu lan\u00e7amento. Boas-vindas DE VOLTA...para TURRICAN!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 82837504
     },
     "70010000034471": {
         "id": "01003570130E2000",
@@ -11359,7 +11558,7 @@
         "languages": [
             "en"
         ],
-        "size": 231735296
+        "size": 370147328
     },
     "70010000034952": {
         "id": "0100DF8013304000",
@@ -12428,6 +12627,48 @@
             "en"
         ],
         "size": 1400897536
+    },
+    "70010000035843": {
+        "id": "01005930137AE000",
+        "rightsId": null,
+        "name": "Guts 'N Goals",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210831,
+        "nsuId": 70010000035843,
+        "category": [
+            "A\u00e7\u00e3o",
+            "Esporte"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Conte\u00fado Sexual",
+            "Intera\u00e7\u00e3o de usu\u00e1rios"
+        ],
+        "numberOfPlayers": 6,
+        "rating": 12,
+        "developer": null,
+        "publisher": "PM Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/98733dd45d278a21cb25588cb3df48553f5a678fcc227903b891de0ae20e3154.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8992dd852d0ae9b56982a308c808849aee43fec0f6384312900494e125778202.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3676dc0b4a998a672ed285ea14b7758245257435363c7a838178d132226f3165.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c582adeccd08eaa1e333b4ba96a20199e705626330fff1a36394600a417f2479.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12bea85d9718c2146aa2c928ecf56b045000a59a37a0cfba6d0d0eb3d35a2411.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c11c69e149b9c2d0cd8d4b9189cc25e7bb0a8fcdfe4e93618aa8182b628ef19.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/56e590165c0844d9287dae4a7e02845f35beba770088feecf204c2912d0761f9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2b4c9b01c71553df1466f522efb1ead9b2944225d544a3dcfb3406c56af86b84.jpg",
+        "intro": null,
+        "description": "Isto n\u00e3o \u00e9 um jogo de futebol normal. \u00c9 Guts 'N Goals, onde as bolas podem ser discos de h\u00f3quei e n\u00e3o precisas de usar as pernas para marcar golos, \u00e9 suficiente um bast\u00e3o!\n\nTens 30 her\u00f3is \u00fanicos \u00e0 escolha! O jogo mais famoso do mundo, como nunca o viste!\n\nDiferentes formas de jogar. Cada est\u00e1dio obriga-te a jogar de forma \u00fanica. Usa uma bola insufl\u00e1vel para marcar um golo na praia ou um disco de h\u00f3quei no rinque de patinagem.\n\nAten\u00e7\u00e3o! Cada jogo \u00e9 afetado por mutadores aleat\u00f3rios que definem a tua forma de jogar. Os mutadores podem alterar tudo em segundos, desde a bola que est\u00e1s a usar \u00e0s regras do jogo!\n\nN\u00e3o h\u00e1 cart\u00f5es vermelhos. Cada um dos 30 her\u00f3is tem uma habilidade \u00fanica, capaz de alterar radicalmente o rumo de uma partida. Podes usar estas habilidades para deixar os teus advers\u00e1rios K.O., o que te d\u00e1 uma oportunidade para marcar.\n\nJoga \u00e0 tua maneira! Podes jogar Guts 'N Goals online e offline, a s\u00f3s ou nos modos cooperativo, multijogador e cooperativo local. Joga como quiseres, neste jogo de futebol hilariante!\n",
+        "languages": [
+            "en",
+            "es"
+        ],
+        "size": 221249536
     },
     "70010000035987": {
         "id": "0100F4C013866000",
@@ -16565,12 +16806,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/080fa62b8e66fc702897b62882c2997e544b9c12e36188c79494623fd2c2d41a.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/9f5a89862b6aa66b0ed2f956e7cc10909d986e0aeebb4a26701a8e7894f91b4a.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/4f6530089079ae7307290d98be69cc97eed715861fdf37a8d9495eab184b1f19.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/6b459e542445be1456844dac4b01dd8fd9215039f191fbbf0f7d1513d25ddb2c.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/a97a4f7e2edef34ad5fa24c0ae711b6166110c1bb7c7d6e4653093b39f0f8e77.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/1587e7fae2bcdbeb4a0f6e5f7c985e65afea06d249ca030b2b339ca2fee2bb66.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/bf8233eac707472c4aee8aba010ec8431afd159fb771b4e5fb9c756db4f2e878.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/0e3f34eae037cbb0c22ab93ebc5d540e936721295eae5313b4b3de75633bfbc2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94f319bf5135346391bc6a12ce85211c0b25c99f6c66a79b7d582561c1f78c79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/783a31394f954dca94c4ac0be1d76e8179e9a6e85d73664e67e2eee0c77aae75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd3ff217b0b71f6bb9757967d15f7435f91506eb6c7aae2addc87d7d79a60ef2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9bb25d7394d9b9b1e8fa51df31f9d63542aaa26023079c1225d74e120119f4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b8bdb375a2d1865df840e85a26ac13a1441dc2015849953b059d8edfedcc478.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/65d077d4735c3bd4697682331503e9e9d2d035aee36963f73a6f79c6cd74dcec.jpg",
         "intro": "Jogo de constru\u00e7\u00e3o instant\u00e2nea de cidades",
@@ -16586,6 +16827,7 @@
             "nl",
             "ru",
             "ko",
+            "zh",
             "zh"
         ],
         "size": 135266304
@@ -16678,6 +16920,48 @@
         ],
         "size": 202375168
     },
+    "70010000038584": {
+        "id": "0100ED7014430000",
+        "rightsId": null,
+        "name": "Ooops! 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210831,
+        "nsuId": 70010000038584,
+        "category": [
+            "A\u00e7\u00e3o",
+            "Estilo de vida",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Wild River Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a93ffd8f3ebd875ef0d599cdbae7759d01dbdb3c6d51dda141cee02f6e9dc3d7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/19489b5286b01612dd08bfe744a42beddb4f8c792dab135dc98039de34f99e2d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/85098f427be5c4b6e6fab5f9279b0b5ca0a33e8eadb9df1fac4a12d1ca6d9e85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a829b89a11a5e7bf329a026f2abb33e44c745f7cc0b130c8dc4154fa123f83a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a05205d9c58c8a2ca986b9b6bdcc644710ad86fc9059d633719c5d583384f45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36eafb769baa79b9a1186d5ea081c5901c017921e8bf539f949d516e4f8aecc8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/866782d02409acb76b5e37e238b1758857019a0f6bb6c655fb65d3234236d747.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2e06fc07aec57fe5a0f8777f140e29afa0a13ec3469af1eb0d794ff6174424b4.jpg",
+        "intro": "O jogo para toda a fam\u00edlia baseado no famoso filme!\u00a0",
+        "description": "Se vire em mil preparando receitas cada vez mais complexas e emocionantes neste jogo de culin\u00e1ria veloz e fren\u00e9tico baseado no eletrizante filme de sucesso Ooops! 2!\n\nNa pele de Dave ou Hazel, fa\u00e7a comidinhas deliciosas sem repetir para a multid\u00e3o furiosa na arca.\u00a0\n\nOs animais fant\u00e1sticos da arca est\u00e3o famintos. Sendo o cozinheiro, ou cozinheira, para toda uma horda de bichos na arca, seu papel \u00e9 encher todas essas barrigas. Prepare pratos incr\u00edveis com ingredientes ex\u00f3ticos e desbloqueie personagens famosos do filme. Jogue como Dave, Finny, Hazel, Leah ou at\u00e9 o Chefe Clyde e Patch.\u00a0\n\nSe vire em mil preparando receitas cada vez mais complexas e emocionantes e domine uma variedade incr\u00edvel de n\u00edveis. O t\u00edtulo tem a mesma quantidade de varia\u00e7\u00f5es de composi\u00e7\u00e3o de cen\u00e1rio do filme e v\u00e1rias sequ\u00eancias do filme original vindas direto do cinema! Ooops! 2 \u00e9 um jogo fascinante e divertido para toda a fam\u00edlia!\n\n\u2022\u00a0Tr\u00eas composi\u00e7\u00f5es de cen\u00e1rio do filme (Arca, Col\u00f4nia Nestriana e Ilha)\n\u2022\u00a0Trinta e tr\u00eas n\u00edveis\n\u2022 Vinte e uma receitas diferentes (saladas, pizza, tacos, kebabs no espeto, tortinhas doces, etc.)\n\u2022\u00a0Seis personagens jog\u00e1veis\n\u2022 Sequ\u00eancias do filme original\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 2166358016
+    },
     "70010000038612": {
         "id": "01002DA013484000",
         "rightsId": null,
@@ -16742,8 +17026,7 @@
             "RPG"
         ],
         "ratingContent": [
-            "Linguagem Impr\u00f3pria",
-            "Viol\u00eancia Fantasiosa"
+            "Viol\u00eancia"
         ],
         "numberOfPlayers": 1,
         "rating": 0,
@@ -18148,7 +18431,7 @@
         "numberOfPlayers": 1,
         "rating": 0,
         "developer": null,
-        "publisher": "Gambitious",
+        "publisher": "Good Shepherd",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ffb1ecb5fa79618b51b083305ad9cdc94eb98538dae3fe6e6d4dedc32d99dc72.jpg",
         "screenshots": [
@@ -21213,11 +21496,13 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e910eaa156322ccdb4e33360b548e116bb11e54163af65f2460298d694add5a9.jpg",
         "intro": "A first person photography game set during a crisis event",
-        "description": "Umurangi Generation is a first person photography game in the retro future. Set in Tauranga Aotearoa off the back of an impending crisis you are a courier for the Tauranga Express. Throughout the game you will unlock a variety of lenses and equipment.\n\nUnique and expressive grading system\nEach photo you take is judged on its colour, content and composition. Taking a photo will net you a cash score which will go towards your final payout.\n\nComplete Photo Bounties any way you like. Once you've completed these bounties deliver the parcel to finish the level.\n\nExploration bonuses on each level\nNew equipment for your camera is unlocked by finding film canisters, recreating postcards, fulfilling timed deliveries, and finding a way to fit all of your friends in one photo.\n\n\nEdit your photos and develop your unique colour grade. The tools in the game are flexible enough that you can touch up your photos to look better than when you took them. If you are an experienced photographer you\u2019ll fit right in. If this is your first time, you\u2019ll be on your journey in no time.\n\nWhat is an 'Umurangi'?\nUmurangi is the Te Reo word for Red Sky.",
+        "description": "Umurangi Generation is a first person photography game in the retro future. Set in Tauranga Aotearoa off the back of an impending crisis you are a courier for the Tauranga Express. Throughout the game you will unlock a variety of lenses and equipment.\n\nUnique and expressive grading system\nEach photo you take is judged on its colour, content and composition. Taking a photo will net you a cash score which will go towards your final payout.\n\nComplete Photo Bounties any way you like. Once you've completed these bounties deliver the parcel to finish the level.\n\nExploration bonuses on each level\nNew equipment for your camera is unlocked by finding film canisters, recreating postcards, fulfilling timed deliveries, and finding a way to fit all of your friends in one photo.\n\nSpecial Edition\nIncluded in the special edition is the DLC Macro, Gyro Controls, Touch Screen Support and Images saving directly to the Switch Gallery.\n\nEdit your photos and develop your unique colour grade. The tools in the game are flexible enough that you can touch up your photos to look better than when you took them. If you are an experienced photographer you\u2019ll fit right in. If this is your first time, you\u2019ll be on your journey in no time.\n\nWhat is an 'Umurangi'?\nUmurangi is the Te Reo word for Red Sky.",
         "languages": [
             "ja",
             "en",
+            "es",
             "de",
+            "zh",
             "zh"
         ],
         "size": 1844445184
@@ -23798,6 +24083,49 @@
         ],
         "size": 630194176
     },
+    "70010000040984": {
+        "id": "0100D4D014F38000",
+        "rightsId": null,
+        "name": "Instant Sports Paradise",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70010000040984,
+        "category": [
+            "Esporte",
+            "Multijogador",
+            "Grupo"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Plug In Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/66a37ea312d30e211f2147cfdaebfe3e61f3e1b09f8c74ebbe552a67f9c44ec1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c4549e61af402102bd062f8982823244a2368a3feadc9444d135632621f1b7cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f92e7818eefa4feebf8f8f02507f517b920ccca5f65118d5aba37d0ea7d43bcd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c63366d773e62365265a9c181e6c7db4c2a906067853d9c18349f99725fcecb4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fb67b04b3e13fab07e579749b61de032777f28e4fbf38984fcae72a51fbbaa4a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e675f2d507f44b7aca9bb22d14e8e67fd97bc4484912ad2740afc933a4958578.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e5074854a47ca29dca37e6ee2e276ca2d3708f7ccd3bc4ebabc3ce2ea8272ce.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f2796c9b1bc04ca452a7a7da6a16ca32c9b1cfc94a97d47723f3fb74a599e64a.jpg",
+        "intro": null,
+        "description": "O ver\u00e3o chegou! INSTANT SPORTS Paradise leva voc\u00ea, sua fam\u00edlia e seus amigos para o outro lado do globo, sob o sol de uma ilha paradis\u00edaca. Compartilhe in\u00fameras experi\u00eancias esportivas divertidas sem sair do conforto do seu lar.\n\n\u2022 Explore um o\u00e1sis cheio de hist\u00f3ria e mist\u00e9rio. A lagoa azul, as palmeiras e a areia quente... Segredos de mont\u00e3o para voc\u00ea descobrir entre um treino e outro.\n\u2022 Forme uma equipe, desafie seus amigos ou tente bater seus pr\u00f3prios recordes, superando seus limites. At\u00e9 4 jogadores locais.\n\u2022 Esportistas, aventureiros ou atletas de domingo: 15 minijogos e atividades esportivas esperam por voc\u00ea! Jet ski, boliche, hidroavi\u00e3o, wok, m\u00e1quina de gelo, t\u00eanis de mesa e muito mais dispon\u00edveis para curtir.\n\u2022 Desbloqueie centenas de itens e customize personagens. Impressione seus amigos e os ilh\u00e9us com fantasias inesperadas. Ali\u00e1s, j\u00e1 viu o Papai Noel na praia?",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt"
+        ],
+        "size": 2092957696
+    },
     "70010000040997": {
         "id": "0100C3E014F40000",
         "rightsId": null,
@@ -24914,9 +25242,11 @@
             "Aventura",
             "Tiro"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
         "numberOfPlayers": 1,
-        "rating": 0,
+        "rating": 10,
         "developer": null,
         "publisher": "Red Cabin Games",
         "frontBoxArt": null,
@@ -27507,7 +27837,7 @@
             "fr",
             "it"
         ],
-        "size": 77594624
+        "size": 141557760
     },
     "70010000042124": {
         "id": "0100CCC0153F6000",
@@ -28547,6 +28877,50 @@
             "nl"
         ],
         "size": 49283072
+    },
+    "70010000042562": {
+        "id": "01004F4014C62000",
+        "rightsId": null,
+        "name": "Stranded Deep",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210831,
+        "nsuId": 70010000042562,
+        "category": [
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "Beam Team",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ed85fb30d6bfcdd22048ad54ae2df2cf34c20d07c4cef37ca6d33b0927d23329.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c5cd328698548a20952894ee44546820b86716153ec311443773178560accef5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f94f9fd3f69d7f7eb571def5007f475eeb5e48b1c67682262f20d9c3854e021.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/478622ce54c6692ee38a2394b6b2b658ebacf65b0815471b959026b204669d09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61fb0004a88de02e81c100a13907520f63d8db1fe5f2c6e187729450d8d78ef5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/767babeb648c23979283554f309071b079b3a2e97ba5d953a78e84ded86bd308.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4715a8d1604f5d1d232a744f5d3780249081429a5b06395fa7f8aafd3f72a941.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0a82a8238e792dc822cc9462c5b18e9bba7380f0cfa6a66c82aadbe614f059f.jpg",
+        "intro": "Assuma o papel de um sobrevivente num acidente de avi\u00e3o perdido em algum lugar do Oceano Pac\u00edfico. Descubra. Sobreviva. Fuja.",
+        "description": "TESTE SUAS HABILIDADES DE SOBREVIV\u00caNCIA NESTA AVENTURA DE MUNDO ABERTO\n\nAp\u00f3s um misterioso acidente de avi\u00e3o, voc\u00ea fica perdido na vasta extens\u00e3o do Oceano Pac\u00edfico. Sozinho, privado de qualquer coisa para pedir ajuda, voc\u00ea deve fazer o poss\u00edvel para sobreviver.\n\nCONSTRUA. FABRIQUE. SOBREVIVA. FUJA.\n\nExplore o mundo subaqu\u00e1tico e terrestre em busca de suprimentos para fabricar ferramentas, armas e abrigo para sobreviver. Fique atento: a fome, a sede e a exposi\u00e7\u00e3o conspiram contra voc\u00ea em meio \u00e0 luta contra os elementos e criaturas perigosas do Pac\u00edfico. \nViva o bastante e sobreviva!\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 710934528
     },
     "70010000042568": {
         "id": "0100BC90155D6000",
@@ -29691,7 +30065,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d9c66a3192fb7aee47c33a07463133d64e339450104ff16e2d16bbeecf5ef29d.jpg",
         "intro": "Vive a hist\u00f3ria original de Nexomon, pela primeira vez em consolas!",
-        "description": "Prepara-te para explorar um mundo onde podes apanhar, fazer evoluir e colecionar mais de 300 Nexomon \u00fanicos! Embarca numa aventura \u00e9pica e cria a melhor equipa para enfrentares domadores poderosos e os seus tem\u00edveis Nexomon.\n\nTORNA-TE UM HER\u00d3I\nEscolhe entre sete Nexomon iniciais \u00fanicos para come\u00e7ares a tua aventura. Cria uma equipa formid\u00e1vel para enfrentares inimigos poderosos e salvares o mundo do impiedoso Nexolord!\n\nQUE COMECEM AS BATALHAS\nParticipa em batalhas 2D por turnos emocionantes e animadas contra Nexomon selvagens, companheiros domadores e campe\u00f5es lend\u00e1rios! Ter\u00e1s de dominar os nove tipos de elementos para teres vantagem durante as batalhas.\n\nCRIA A TUA EQUIPA\nEnfraquece Nexomon selvagens para captur\u00e1-los e adicion\u00e1-los \u00e0 tua equipa. Com mais de 300 Nexomon para encontrar, tens imensas op\u00e7\u00f5es para personalizares a tua equipa ao teu gosto.\n\nDESCOBRE O MUNDO DOS NEXOMON\nDesde florestas densas a vulc\u00f5es perigosos e paisagens de neve magn\u00edficas, cada \u00e1rea est\u00e1 repleta de Nexomon. Apanha, treina e evolui o teu Nexomon enquanto percorres dez regi\u00f5es diferentes com os teus companheiros.\n\nFAZ AMIZADES E LUTA CONTRA INIMIGOS\nEm cada cidade, vila e posto vivem v\u00e1rias personagens \u00fanicas, cada uma com a sua pr\u00f3pria hist\u00f3ria. Algumas tornar-se-\u00e3o aliados leais. Outras tentar\u00e3o impedir-te de continuar... ",
+        "description": "Prepara-te para explorar um mundo onde podes apanhar, fazer evoluir e colecionar mais de 300 Nexomon \u00fanicos! Embarca numa aventura \u00e9pica e cria a melhor equipa para enfrentares domadores poderosos e os seus tem\u00edveis Nexomon.\n\nTORNA-TE UM HER\u00d3I\nEscolhe entre sete Nexomon iniciais \u00fanicos para come\u00e7ares a tua aventura. Cria uma equipa formid\u00e1vel para enfrentares inimigos poderosos e salvares o mundo do impiedoso Nexolord!\n\nQUE COMECEM AS BATALHAS\nParticipa em batalhas 2D por turnos emocionantes e animadas contra Nexomon selvagens, companheiros domadores e campe\u00f5es lend\u00e1rios! Ter\u00e1s de dominar os sete tipos de elementos para teres vantagem durante as batalhas.\n\nCRIA A TUA EQUIPA\nEnfraquece Nexomon selvagens para captur\u00e1-los e adicion\u00e1-los \u00e0 tua equipa. Com mais de 300 Nexomon para encontrar, tens imensas op\u00e7\u00f5es para personalizares a tua equipa ao teu gosto.\n\nDESCOBRE O MUNDO DOS NEXOMON\nDesde florestas densas a vulc\u00f5es perigosos e paisagens de neve magn\u00edficas, cada \u00e1rea est\u00e1 repleta de Nexomon. Apanha, treina e evolui o teu Nexomon enquanto percorres dez regi\u00f5es diferentes com os teus companheiros.\n\nFAZ AMIZADES E LUTA CONTRA INIMIGOS\nEm cada cidade, vila e posto vivem v\u00e1rias personagens \u00fanicas, cada uma com a sua pr\u00f3pria hist\u00f3ria. Algumas tornar-se-\u00e3o aliados leais. Outras tentar\u00e3o impedir-te de continuar... ",
         "languages": [
             "en",
             "es",
@@ -30642,7 +31016,7 @@
             "ru",
             "zh"
         ],
-        "size": 73400320
+        "size": 101711872
     },
     "70010000043404": {
         "id": "01004D6015950000",
@@ -31170,7 +31544,7 @@
             "en",
             "fr"
         ],
-        "size": 298844160
+        "size": 367001600
     },
     "70010000043775": {
         "id": "0100C46015AA0000",
@@ -32269,6 +32643,55 @@
             "en"
         ],
         "size": 180355072
+    },
+    "70010000045010": {
+        "id": "0100807015FF4000",
+        "rightsId": null,
+        "name": "LoveChoice",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210910,
+        "nsuId": 70010000045010,
+        "category": [
+            "Aventura",
+            "Simula\u00e7\u00e3o"
+        ],
+        "ratingContent": [
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0c603476f53bb68a3f91bed41ea68201cd95909563a7bf0113b8710d6afdc6f7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ecc08e627911102d34b2792ecf254765e101195bd025262ad83fabd6441620fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77306e1aea40ccb2e5c2ec01427e47960ea5694abe94abd20b0fda24e2c6e8bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4fd32c35e91e4b4b7ba1ecb1046a79e9edd3cee38edc8b8c4706da8443c9f3ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e61315e939674e46b8afbcf8f1a065a420c3f10fff98d8862b4122c25cd716e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f7d8322e649022f51d5752d4c64906abeb5d81ca4e9f299c6eee1de824f8a33.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/96ca53ea3548d93a502ac39c344bc92dc5a7260ccdbd81865fdaaa35461bbf1c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/148f1962d21945563b9e6512d128c75c4c3a6886b907dffa9614613eafa6b334.jpg",
+        "intro": "Tr\u00eas hist\u00f3rias cativantes e peculiares sobre amor e relacionamentos.",
+        "description": "Eis o come\u00e7o de um novo relacionamento. Ser\u00e1 que o resultado vai ser alegria ou tristeza?\n\nVoc\u00ea escolhe as a\u00e7\u00f5es que determinam como o relacionamento se desdobra no LoveChoice. Escolha suas respostas para cada uma das situa\u00e7\u00f5es em 3 hist\u00f3rias curtas.\n\nEssas hist\u00f3rias cativantes e peculiares s\u00e3o surpreendentemente realistas e f\u00e1ceis de se identificar. Seja na solid\u00e3o, em um relacionamento ou apenas em busca de uma nova e inesquec\u00edvel experi\u00eancia de jogo, LoveChoice \u00e9 a sua escolha ideal! \n\nRecursos\n* 3 hist\u00f3rias de amor curtas com v\u00e1rios finais diferentes\n* Experi\u00eancias de relacionamento doces, peculiares e realistas\n* Diversas mec\u00e2nicas\n* Estilo de arte encantador e m\u00fasicas suaves\n* Uma mistura de romance visual e jogabilidade de apontar e clicar\n* Vencedor do Indie Prize Asia 2019 de \"melhor narrativa\"",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 156237824
     },
     "70010000045039": {
         "id": "0100D48016014000",
