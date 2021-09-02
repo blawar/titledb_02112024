@@ -277,6 +277,47 @@
         ],
         "size": 7399800832
     },
+    "70010000000166": {
+        "id": "0100CC80013D6000",
+        "rightsId": "0100CC80013D60000000000000000000",
+        "name": "The Jackbox Party Pack 3",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70010000000166,
+        "category": [
+            "Party"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Drug Reference",
+            "Mild Language",
+            "Sexual Themes",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Jackbox Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/25611e8c30b20718628633050cc4f4d0cc2e906edcd7c45ddc3db14c852ce81c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2ffb30d52b34444636f7bd968d9fa5a7468355a0b787b1cd3b36e8b14ae47cdc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b0fecb929b6b087d4c53658ca351c439dd30054f9d5260c0be0eb67f88f48bd0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef76da8da961164988bd269708d0ac0faa9318284e21a1d2da7a444bed54aea4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a50ad56c9384b6bf352c8f96e4309e5bbf1942bbefe7db8fa027da2a3531d1b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cd3a3ade94ab04e6971eedceef3f37b2f696195970fad727d2ede77b9cbb2c8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e2a2fbd908e1d5f21de9c673211deeb8ab78d82f01df82c6b8e9e98048e7f12e.jpg",
+        "intro": null,
+        "description": "English: If you own any titles in The Jackbox Party Packs 1-6, you can receive 10% off this title if you\u2019re using the same Nintendo account to purchase! \n\nNOTE: This deal is not applicable to standalone Jackbox Games titles or The Jackbox Party Pack 7. This will also not apply to The Jackbox Party Pack 8 when it is released.\n\nThe threequel to the party game phenomenon features FIVE new sense-shattering games!\n\nThe say-anything sequel Quiplash 2 (3-8 players). Play all new questions or make your own!\n\nThe deadly quiz show Trivia Murder Party (1-8 players). Match wits with a trivia-obsessed killer.\n\nThe surprising survey game Guesspionage (2-8 players). Guess the results to silly survey questions.\n\nThe t-shirt slugfest Tee K.O. (3-8 players). Battle your custom t-shirts to the death!\n\nThe sneaky trickster game Fakin\u2019 It (3-6 players). One of your friends has something to hide.\n\nPlay using your phones, tablets, or computers. No extra controllers needed! \n\nAll games support up to 10,000 audience members playing along! \n\nPlus tons of NEW features just for streamers! It\u2019s a digital box full of actual fun!\n\nPlease note: while Joy-Con are necessary to navigate the in-game menus, it is not possible to play through any of the games in the Jackbox Party Pack 3 using Joy-Con. In order to play, users are required to connect additional devices (such as smart phones, tablets, computers, etc.) as controllers via a website called Jackbox.tv. Any device that has a web browser supporting websockets and HTML 5 may work as a controller for the game. Internet connection required during play.\n\nAdditional note: The Jackbox Party Pack 3 is a local multiplayer game.",
+        "languages": [
+            "en"
+        ],
+        "size": 1675624448
+    },
     "70010000000392": {
         "id": "01009B500007C000",
         "rightsId": "01009B500007C0000000000000000000",
@@ -506,7 +547,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20181213,
         "nsuId": 70010000000662,
         "category": [
             "Arcade",
@@ -770,6 +811,55 @@
             "en"
         ],
         "size": 1398800384
+    },
+    "70010000000819": {
+        "id": "010067300059A000",
+        "rightsId": "010067300059A0000000000000000000",
+        "name": "Mario + Rabbids\u00ae Kingdom Battle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70010000000819,
+        "category": [
+            "Strategy",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Mild Language"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ce5d8550709808b004a99f4c6671e67ab4eec459d86985f8945c76107f2d7125.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d7c227b987e2c656c89e5181fb0c32234fe80a591fd6ecc72b3810af7fb3dbbd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91823f4de86d308747cd319e0a83ea5df7b39de182ae8f76bda2ad3143356940.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/82f7e88f885af8a855e40d22fa04028a4704e9de8bd2821fab42f8ae4c781ea9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e95a3a99d0c5e4e8f09de72a210a13e7e5a9aa520876a0da4810f5c19f9c163.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/110d9895cfbbf7131e7ce54b4acef974a7e5d01f1bda33fd8d5462e6655168db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0989040c1749800f66d97fa54cd79b89fbe3080809d0c8869614025dd97391d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0544d71c50c0595b8589451e9fc8b2deaf5cab52415202e0585e137fbe3d5fb.jpg",
+        "intro": null,
+        "description": "Two worlds collide in Mario + Rabbids\u00ae Kingdom Battle!\n\nThe Mushroom Kingdom has been torn apart by a mysterious vortex, transporting the chaotic Rabbids into this once-peaceful land. To restore order, Mario, Luigi, Princess Peach, and Yoshi must team up with a whole new crew: four Rabbids heroes! Together, they will battle with weapons through four worlds filled with combat, puzzles, and unpredictable enemies.\n\nDeveloped exclusively for the Nintendo Switch\u2122 system,\nMario + Rabbids Kingdom Battle is the best of the Mario and Rabbids franchises, combining all that you love about Mario\u2019s iconic universe with the side-splitting antics of the Rabbids.\n\nMario & Rabbids universes collide in this new adventure that combines the best of these two worlds!\n\nMario, Luigi, Princess Peach, and Yoshi join forces with four Rabbids heroes with their own unique personalities.\n\nEasy to play, difficult to master. Solo and co-op turn-based combat is a fresh gameplay experience.\n\nBattle with an arsenal of weapons through four new worlds filled with enemies, puzzles, and humorous fun!\n\nPick up and play anywhere exclusively on the Nintendo Switch system, even on the go.\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 3124756480
     },
     "70010000000883": {
         "id": "01009B900401E000",
@@ -2095,6 +2185,50 @@
         ],
         "size": 6101663744
     },
+    "70010000003432": {
+        "id": "010021D00812A000",
+        "rightsId": "010021D00812A0000000000000000003",
+        "name": "Arcade Archives VS. SUPER MARIO BROS.",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70010000003432,
+        "category": [
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e36ba5e60102837cb72b387ed54c421992eeadf35e0ea4f3ae8741cb402b12b9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/03df298cde9e5da4aed7d4f3b8f276def99614410f061c06ea8f546c4fdfc48b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b083e720569cb85a516bbc7821ad8b65ebd2fa03ec0fb6b0364237427dcfe544.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/96f97ea7cfa5387f0be97718289a29d5b37fe909457c4ba9b68c52ebf40a6907.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f2f8fd13f75a5b2107ba69f0b712bcd89d9827f669067d5ca3b6d577107c361.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2fe603deaa8624872a56fd20c836dba3fb5d6d917db948b90be0acb70769f95b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad78786e3c41b4753d60b5f88d4b161ab2d51ad9731d7871cda5b199604dde8d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7f1c647eef54f9ea832d956f6579cc47a437f32673ef6b02551b5b065008ece3.jpg",
+        "intro": "Join Mario and Luigi as they adventure through the Mushroom Kingdom to save Peach!",
+        "description": "\"VS. SUPER MARIO BROS.\" is an action game released in 1986 by Nintendo. Mario and Luigi must go on a widespread adventure in order to rescue Peach from the clutches of Bowser. This version is from the Nintendo VS.SYSTEM, and the positions of enemies and items differ from the Nintendo Entertainment System (NES) version.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games. ",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 102760448
+    },
     "70010000003482": {
         "id": "01005D100807A000",
         "rightsId": "01005D100807A0000000000000000004",
@@ -2192,7 +2326,7 @@
             "zh",
             "zh"
         ],
-        "size": 1906311168
+        "size": 1905262592
     },
     "70010000003842": {
         "id": "0100DDD0085A4000",
@@ -3461,7 +3595,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a746d6ebc71bd10eb74ded9afb4ac96b8a795268e9ad47bda982c82190404b0a.jpg",
         "intro": "Assemble your ultimate team of Marvel Super Heroes ",
-        "description": "The MARVEL ULTIMATE ALLIANCE series returns for the first time in 10 years\u2014with a new action RPG\u2014exclusively on the Nintendo Switch\u2122 system! Assemble your ultimate team of Marvel Super Heroes from a huge cast including the Avengers, the Guardians of the Galaxy, the X-Men, and more! Team up with friends to prevent galactic devastation at the hands of the mad cosmic tyrant Thanos and his ruthless warmasters, The Black Order.\n\nIn this new storyline, heroes and villains unite in a race across the Marvel Universe to find the Infinity Stones before Thanos and The Black Order use them to unleash cosmic chaos. From Avengers Tower to the X-Mansion and beyond, every stop on the dangerous quest to thwart Thanos results in unexpected collisions of fan-favorite characters and iconic locations. Get closer to the action by shifting the view to an over-the-shoulder \u201cHeroic Camera\u201d perspective\u2014a series first that offers a more immersive way to play single-player or multiplayer on up to four systems. Play online*, offline via local wireless, or simply pass a Joy-Con controller to a friend, so they can join your team. With another pair of Joy-Con\u2122 controllers (sold separately), four players can team up on one system! The drop-in/drop-out co-op possibilities let players create their own \u201cUltimate Alliance\u201d at will.\n",
+        "description": "The MARVEL ULTIMATE ALLIANCE series returns for the first time in 10 years\u2014with a new action RPG\u2014exclusively on the Nintendo Switch\u2122 system! Assemble your ultimate team of Marvel Super Heroes from a huge cast including the Avengers, the Guardians of the Galaxy, the X-Men, and more! Team up with friends to prevent galactic devastation at the hands of the mad cosmic tyrant Thanos and his ruthless warmasters, The Black Order.\n\nIn this new storyline, heroes and villains unite in a race across the Marvel Universe to find the Infinity Stones before Thanos and The Black Order use them to unleash cosmic chaos. From Avengers Tower to the X-Mansion and beyond, every stop on the dangerous quest to thwart Thanos results in unexpected collisions of fan-favorite characters and iconic locations. Get closer to the action by shifting the view to an over-the-shoulder \u201cHeroic Camera\u201d perspective\u2014a series first that offers a more immersive way to play single-player or multiplayer on up to four systems. Play online*, offline via local wireless, or simply pass a Joy-Con\u2122 controller to a friend, so they can join your team. With another pair of Joy-Con controllers (sold separately), four players can team up on one system! The drop-in/drop-out co-op possibilities let players create their own \u201cUltimate Alliance\u201d at will.\n",
         "languages": [
             "ja",
             "en",
@@ -3476,8 +3610,8 @@
         "size": 19169017856
     },
     "70010000010090": {
-        "id": null,
-        "rightsId": null,
+        "id": "010027F00AD6C000",
+        "rightsId": "010027F00AD6C0000000000000000004",
         "name": "SNK HEROINES Tag Team Frenzy",
         "version": null,
         "key": null,
@@ -3579,7 +3713,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20181003,
+        "releaseDate": 20210901,
         "nsuId": 70010000010192,
         "category": [
             "Action",
@@ -3620,7 +3754,7 @@
             "ru",
             "ko"
         ],
-        "size": 12893290496
+        "size": 14289993728
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -4122,12 +4256,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0d197f6de2db14afe2fa0fa105d7f2b2edce6b8336e6ac6d90e1f81e0c15999b.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/a2d81e571b5a95bb724cf36dc460bf36819018c777474da0f8c9a2e901e2c1a7.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/c0e1fd5a6449b0cdf5a1d38e0c7e57283126840f4568d944f4b70e52be66b065.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/df39091e138f0bb028e34f97d7700ad3f4499db1ae2ce7a70c40f0d38ff0d3e2.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/b5ee4ceb6f011c4fa17c1f76838ddca5fe67f1a71a04f327b8bd75e8a3072c87.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/e5b64017ee0b61ba86684d19321aff318052161f33041bdbd9759a9ed37b2d5f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f41bd5e95d74914b14b78c3b6d3f9a80e25f8dd3627f7470300064d602d90b8b.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/a03f40dedcc727de6b0de2db9e9de5f0a987821c2fef8bc0256a9db4b3b32437.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e4d5a02fe21d57b0ba6d6488e0ec74a289bdd6b1d9f6fb3b3a08c31975c4568.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/302193a0e17c422bd8d1d0ddee7aca3b0064dc0be3a4413b223809d8a108ff26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b156be97391946dab5fb7cbd7214c715f899fca37885ae0572b40d26d2d55334.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6727b6a0e7c1f2d0b2daa499a660baba6409526ce646f97cf0cec85410fe462b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/451e07b9156c4752ac0a8a419552b607214ef298bcc2fdf979cf264e529c0600.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5acea7cb483f6e32c4c52c394d11bb55d81973dd94461a91927e71e89e0462b1.jpg",
         "intro": "Now you\u2019re playing with power\u2014online",
@@ -5345,7 +5479,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20200602,
+        "releaseDate": 20210901,
         "nsuId": 70010000016904,
         "category": [
             "RPG",
@@ -5535,6 +5669,56 @@
             "zh"
         ],
         "size": 6866075648
+    },
+    "70010000018023": {
+        "id": "0100B1A00D8CE000",
+        "rightsId": null,
+        "name": "DOOM\u00ae Eternal",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70010000018023,
+        "category": [
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b9ac599f7915b7c1bace5e22fae109d1c657b8b1848d984db2f6c3a818918cfd.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3369fd0d77e2859b085ec197b55d169a0313611306605db4dd9dbb652d2c9c24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1ea64e3f09548e5148c3cc165a6b27b22a44f30fd9a7fb455d2e37b65509cbf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bc43f02601c55714bc5f62260c2fedda63ec6c089bf52f163ef9289e5aa5744.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17dbf4726676a7dec8a5362f95a692222b1b4e68a2a851a6c1e7c705fe080077.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6edcf1c1ef3fbe458140bbb2e91cce8f02f40c500ef746726f2740b57819bc00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/500f18b19b7c68260eb18a0443bb1c5016188c50460eb821afe5113ab33f6198.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/09fde58766118f7aec9f6ff30f3a8d6e7ba37ace336e79097643431c911d99c1.jpg",
+        "intro": null,
+        "description": "DOOM\u00ae Eternal, the award-winning game and \u201cone of the best first-person shooters ever\u201d according to GameRevolution, is coming to Nintendo Switch. Developed by id Software and Panic Button, DOOM Eternal is the direct sequel to DOOM\u00ae, winner of The Game Awards\u2019 Best Action Game of 2016. \n\nHell\u2019s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear\u2026is you. ",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 30629953536
     },
     "70010000018062": {
         "id": "0100EBB00D2F4000",
@@ -6264,9 +6448,15 @@
         "intro": "A strategic team platformer that offers endless party fun and killer competition.",
         "description": "An epic, platform strategy game for up to eight players online or locally. Play Killer Queen Black casually in quickplay matches, up the intensity in ranked matches, or invite friends to a private room. Easy to play, hard to master, fun for all!\n\nKiller Queen Black, inspired by the hit arcade game, Killer Queen, let\u2019s you fight for your hive with three ways to win. Will you claim your victory by hopping on the snail, hoarding berries, or wiping out the enemy's queen? \n\nAttack, fly, and stay alive. If you are playing queen, you\u2019ll want to protect your hive and your workers. The responsibilities don\u2019t stop there, having a strategy in place will be beneficial, but you\u2019ll also need to be fluid and keen on your opposing team\u2019s strategy.\n\nWant responsibilities but rather hustle than dodge death? Workers excel in adaptability which makes them essential for carrying out game-winning objectives. Initially defenseless, workers collect berries and head to the hive, however, they can also boost their speed and become soldiers. These transformed workers wield maces, swords, shields, and laser rifles, to quickly become deadly aggressors.\n\nFeatures\n-Intense four on four team combat\n-Eight-player local and online play supported\n-Cross-platform multiplayer includes in-game voice chat \n-Tutorials to help you develop your strategy\n-Challenging AI opponents to test your skills\n-Choice of role between the queen, worker, or soldier\n-Five character skins to choose from\n-Four unique weapons to use: sword, morning star, laser, and stinger\n-Seven battlefields that test your strategic skills\n-KQBTV allows you to watch matches and learn from the pros\n",
         "languages": [
-            "en"
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko"
         ],
-        "size": 1188036608
+        "size": 1186988032
     },
     "70010000019669": {
         "id": "01009EF00DDB4000",
@@ -6710,7 +6900,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20200428,
+        "releaseDate": 20210901,
         "nsuId": 70010000020400,
         "category": [
             "Strategy",
@@ -7845,7 +8035,7 @@
         "size": 3717201920
     },
     "70010000024591": {
-        "id": null,
+        "id": "0100D9500FC66000",
         "rightsId": null,
         "name": "Apex Legends\u2122",
         "version": null,
@@ -8799,7 +8989,7 @@
             "it",
             "ru"
         ],
-        "size": 14692646912
+        "size": 15109980160
     },
     "70010000028523": {
         "id": "010015F008C54000",
@@ -10046,6 +10236,47 @@
         ],
         "size": 4358930432
     },
+    "70010000032052": {
+        "id": "0100B4D012490000",
+        "rightsId": null,
+        "name": "Garden Story",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210811,
+        "nsuId": 70010000032052,
+        "category": [
+            "Action",
+            "Adventure",
+            "RPG",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Rose City Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ed9d1aa8af955996e7c9c2746b436109890ecf996c22f8083b4cb4a2f354da84.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a67b19b3173f2865a9205e42b7e4f41f11d08579563ca77fc50a720319ee91fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b0e26388c5007128a12cd7c203767a775f8479d4fe31c267d645f3caae96732c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da4023bd4ba51c3e87f58c0cb9b44b2421b6908dd35a661d15bc5a92690c0611.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e0b1d07acbe9d5e9a13392a29a50908f96e467f071274ee90b18b0ac3712ebb9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b5b23c8d76452111f7b0c234c6466011d3112f8b5f2eef90f44df58955f353d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9af2fd4e0846ab1d046baf4ecc9ccd88f95b7884f389df54222d27e788fe14f7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e018d597844e528acda9c4cea06f01e3e8a09967b5f16d9e021b2ecda9682277.jpg",
+        "intro": "Grapeness Awaits!",
+        "description": "Unify a broken community as the newly-appointed Guardian of The Grove. Traverse a vibrant island to combat invasive Rot, inspire its inhabitants, and rebuild your home. You won't have to do this alone: fruity friends await, ready to lend a hand!\n\nConcord, the youngest grape in The Grove, is now a Guardian, and it\u2019s their job to help restore the island. That\u2019s a lot to shoulder for a grape barely off the vine\u2026 and more than a few inhabitants are skeptical they have what it takes. Fortunately, Concord has friends like Elderberry, Rana, and Fuji on their side! With their help, you can take on the dangerous Rot and find ways to encourage other residents to assist in the efforts. \n\nThe Grove is your home, and your work will affect change for the better! Protect your friends, gather precious materials, and repair social ties and structures by bringing the fruits, fungi, and frogs of each village together as they work to fend off the Rot that threatens to destroy your home for good. Guide Concord\u2019s restoration efforts and earn the trust of the community: help others with their problems, and they\u2019ll offer you help in turn!\n\nThere\u2019s plenty of work to be done, but don\u2019t forget to take time and appreciate this lush world and the fruits of your labor. Listen to the sweet and catchy music of the island, relax in The Grove\u2019s cozy and inviting atmosphere, cultivate gardens and libraries, and enjoy the delightful personalities you\u2019ll meet along the way. ",
+        "languages": [
+            "en"
+        ],
+        "size": 212860928
+    },
     "70010000032653": {
         "id": "0100B9C012706000",
         "rightsId": null,
@@ -10674,6 +10905,57 @@
         ],
         "size": 1196425216
     },
+    "70010000034725": {
+        "id": "01008DD013200000",
+        "rightsId": null,
+        "name": "Ori and the Will of the Wisps",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70010000034725,
+        "category": [
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "iam8bit",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/53e3504c6e60eed018b4ea7ef1dfec76445d98be8e45374edd4c2a5036986c6f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5c145f38c1d2e48a5e5247f4f0490ca973e792bf7cf0b3e6534bdf4d543e41ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4cd9291e96854326cf1a500f3db6d82d3e4244d361d4cd8d12edb95f6aa7e4d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4d35cc2eb436465fb959477b4600d9ae61a6e6b71246edb990fcab4daf90e9b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fef18c78d692cb00f39545ad322a569ca0a557e70d00d57cb588433e24c8baa3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed8d9409cb01aabd6c46113cb87bc6847aa4d46d7c0fed84444a9903ef19b5a4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f9f0ac4d1b690f8d35e13deea91b08111577ff1af9f1b365c2b3ea64f9a46dc9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cf74916275780188fd850512efe6c678318d7317bf987599205d2a3fc76dbd79.jpg",
+        "intro": "Play the critically acclaimed masterpiece",
+        "description": "From the creators of Ori and the Blind Forest comes the highly-anticipated sequel, Ori and the Will of the Wisps. Embark on an all-new adventure in a vast and exotic world where you\u2019ll encounter towering enemies and challenging puzzles on your quest to discover Ori\u2019s true destiny.\n\nImmerse yourself in a hand-crafted narrative experience with deeply emotional storytelling, strikingly beautiful environments, and a stunning soundtrack.\n\nMaster new skills to guide Ori through a journey of untold danger using newly acquired spirit weapons, spells, and attacks. Utilize an all-new shard system to power-up Ori\u2019s newfound abilities.\n\nFace larger-than-life bosses and seek help from an expansive cast of new characters who will help you uncover Ori\u2019s mysterious fate.\n\nRace to the top of the leaderboards in the all-new Spirit Trials mode where players dash, burrow, grapple, and leap to high scores in unique speed-run challenges throughout the game.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 4659871744
+    },
     "70010000034736": {
         "id": "0100F38011CFE000",
         "rightsId": null,
@@ -10817,7 +11099,7 @@
             "zh",
             "zh"
         ],
-        "size": 3551526912
+        "size": 3550478336
     },
     "70010000035641": {
         "id": "0100E1F013674000",
@@ -11063,7 +11345,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70010000036326,
         "category": [
             "Action",
@@ -12263,6 +12545,130 @@
         ],
         "size": 973078528
     },
+    "70010000044024": {
+        "id": "0100D6A015B12000",
+        "rightsId": null,
+        "name": "Endless Puzzle Fun Collection",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210916,
+        "nsuId": 70010000044024,
+        "category": [
+            "Puzzle",
+            "Strategy",
+            "Multiplayer",
+            "Education"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Mindscape",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/24fdf2282fcf881c71b9130de5e61fc8c458c5dfdea16916c616796f804fb690.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/111b9ddd64b094c2b430bf0a7ce4f5b8bfbed6fb85f446e18f5326ace6e2a77e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9110c458c90264dae3cc35ef2e8bc5831a1eb0583ed1c101aeca192ce32ad852.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d68e585c701f4c0c7ba982c94ec9805bcca0702590873c1f7dddd15ecd3039b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8149c34e6ded3f15ac9f7bdb29ca14518461da28a75f60165fb7445ebb1d5ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd74a8ea50f479af6b68c20b213fc774de816cc0bfdb147c8bed44a55278bc17.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b206eab79dec222363668770c87903d0db7a2a351079f255570c61080a7eb691.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/17b908680852f0167cc46ddd9535e0732e2b62156c771705a483d71637f9b50d.jpg",
+        "intro": "Test your skills in two endless puzzle games. Play solo or battle it out in 1-vs-1 multiplayer for the highest score!",
+        "description": "Candy 2048 Challenge\n\nTest your intelligence in the iconic 2048 game for intense fun! Play in 1-vs-1 multiplayer to really see who is the best!\n\nFeatures:\n\u2022\tWorld famous 2048 game\n\u2022\tSplit-screen multiplayer mode for a 1-vs-1 challenge\n\u2022\tFun and addictive music\n\u2022\tLocal leaderboard\n\n\nYum Yum Line\n\nMatch 5 tiles of the same color, clear lines and make sure you don't get stuck! Fantastic fun for all ages. Challenge a friend and play on the same screen in the local battle mode.\n\nFeatures:\n\u2022\tClassic Line gameplay\n\u2022\tInfinite replayability\n\u2022\tSplit-screen multiplayer mode for a 1-vs-1 challenge\n\u2022\tLocal leaderboard",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 72351744
+    },
+    "70010000044025": {
+        "id": "0100F3B015B14000",
+        "rightsId": null,
+        "name": "Match 3 Adventure Collection",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210916,
+        "nsuId": 70010000044025,
+        "category": [
+            "Puzzle",
+            "Adventure",
+            "Strategy",
+            "Board Game"
+        ],
+        "ratingContent": [
+            "Use of Tobacco"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Mindscape",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f5aebdc2780726292d215510731f6fe947e44a62905c19c581c6264a761e2e00.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/57a5b88ed0010c2f3d3f3aca04a3a9301d05f1eee15cbc8b53e2186168ba55aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e5fa7f4ec54ca62c7c230c39d954e2e8149f51a00c7e53369760e2b0244d3cfc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97e7b276b72e2ef2397ab3e048ef1e154015e3eaa7ccc206a02340265e2f52a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ea0c7b81c1dc2579d6efdf23209fa8e230b90415c58d011c361371f50d80e0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f9082aad4240d130f355f451cd9cd45583653e9de89444c2622397e895cf10a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/42ffaf0245ae5295d562201c0d07e053a247c10f9864a3e357abd5ae0ec6915d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c805af23912b6bc58b20c97ac9c093fedfff951afbfd43f18d74b1a49ff241cf.jpg",
+        "intro": "Experience two exciting match 3 games in one collection! Each with an interesting story and hand-drawn art, with a total of 200 levels to play.",
+        "description": "Match Three: Pirates! Heir to Davy Jones\n\nDavy Jones created a world where no-one gets old and unsuspecting people are tricked into entering Davy Jones\u2019 Locker. Journey through the different stages of this match 3 adventure, and lift the curse of Davy Jones!\n\nFeatures:\n\u2022\tBeat all 100 challenging levels\n\u2022\tCustomize your own ship\n\u2022\tGet an advantage with a variety of boosters\n\n\nGems of Magic: Lost Family\n\nDiscover this mystical enchanted forest in a calm and relaxing world of spirits and magic. But a dark cloud is forming over the forest and Hurricane has kidnapped the Fuzzy family. It's now time to help the magic creatures to save the Fuzzy family and restore the enchanted forest!\n\nFeatures:\n\u2022\t100 fun levels\n\u2022\tSimple gameplay with a mystical story\n\u2022\tAdd boosters to help you progress",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 577765376
+    },
+    "70030000000042": {
+        "id": null,
+        "rightsId": null,
+        "name": "Snipperclips \u2013 Cut it out, together! \u2122 Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000000042,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 331350016,
+        "parentId": "0100704000B3A000"
+    },
     "70030000000341": {
         "id": null,
         "rightsId": null,
@@ -12291,6 +12697,125 @@
         "languages": null,
         "size": 808452096,
         "parentId": "0100B3F000BE2000"
+    },
+    "70030000001281": {
+        "id": null,
+        "rightsId": null,
+        "name": "Dragon Quest Builders\u2122 Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000001281,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Fantasy Violence",
+            "Mild Blood",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Online Interactions Not Rated by the ESRB"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 548405248,
+        "parentId": "010008900705C000"
+    },
+    "70030000001741": {
+        "id": null,
+        "rightsId": null,
+        "name": "Kirby\u2122 Star Allies Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000001741,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 870318080,
+        "parentId": "01007E3006DDA000"
+    },
+    "70030000002523": {
+        "id": null,
+        "rightsId": null,
+        "name": "ARMS Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000002523,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Online Interactions Not Rated by the ESRB"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 2200961024,
+        "parentId": "01009B500007C000"
+    },
+    "70030000002761": {
+        "id": null,
+        "rightsId": null,
+        "name": "Sushi Striker: The Way of Sushido eShop Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000002761,
+        "category": null,
+        "ratingContent": [
+            "Mild Cartoon Violence",
+            "Mild Suggestive Themes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 871366656,
+        "parentId": "0100DDD0085A4000"
     },
     "70030000003021": {
         "id": null,
@@ -12801,6 +13326,34 @@
         "size": 1225785344,
         "parentId": "01003D200BAA2000"
     },
+    "70030000010482": {
+        "id": null,
+        "rightsId": null,
+        "name": "Moving Out Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000010482,
+        "category": null,
+        "ratingContent": [
+            "Mild Cartoon Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 391118848,
+        "parentId": "0100C4C00E73E000"
+    },
     "70030000011544": {
         "id": null,
         "rightsId": null,
@@ -12901,7 +13454,8 @@
         "nsuId": 70030000011781,
         "category": null,
         "ratingContent": [
-            "Fantasy Violence"
+            "Fantasy Violence",
+            "Users Interact"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -13302,6 +13856,32 @@
         "size": 1524629504,
         "parentId": "0100A3E010E56000"
     },
+    "70030000013457": {
+        "id": null,
+        "rightsId": null,
+        "name": "Very Very Valet DEMO",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000013457,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 467664896,
+        "parentId": "0100379013A62000"
+    },
     "70030000013605": {
         "id": null,
         "rightsId": null,
@@ -13453,6 +14033,149 @@
         "size": 4194304,
         "ids": [
             "01007EF00011F002"
+        ]
+    },
+    "70050000000701": {
+        "id": "010067300059B002",
+        "rightsId": "010067300059B0020000000000000000",
+        "name": "Mario + Rabbids\u00ae Kingdom Battle : Season Pass exclusive - Steampunk Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000000701,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Mild Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d35abf1cfd68a3310ef6987c993f4c5227fb290f49d85e546c36c3e7e31866bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3cf2f6d45a6a95934a7e6b1cfb140fe8bbb391c6dd1c8c431ee9aac9a4609090.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/318af4b820384b5b11ee6008370b5016aeb8ce17ff08ce1f38e271fff08e4f58.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e0cc322ecca42e20e5ce49b97de9ccd1eba52a517787c68fd0f2fd8663ce8132.jpg",
+        "intro": null,
+        "description": "Unlock an exclusive weapon for all 8 heroes in a unique steampunk style.",
+        "languages": null,
+        "size": 11534336,
+        "ids": [
+            "010067300059B002"
+        ]
+    },
+    "70050000000702": {
+        "id": "010067300059B001",
+        "rightsId": "010067300059B0010000000000000000",
+        "name": "Mario + Rabbids\u00ae Kingdom Battle : Pixel Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000000702,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Mild Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f55271d33165e8c00c270e4bb9be2f8c5f657bf3f4c8feecf15395772375416a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8b48751dcf5d1025618abd6350182ad16167162ad65161ef8aae37e6cdfcbb4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35d110678b1d198492753b441f87546a2a6acfc3a7013bc30c98ae5da9b28b80.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9fd38caef6fc48a58bf1032d064d00318e45c94048b7b1411305209973e21e5e.jpg",
+        "intro": null,
+        "description": "Unlock 8 unique Pixel-style weapons for your heroes!",
+        "languages": null,
+        "size": 8388608,
+        "ids": [
+            "010067300059B001"
+        ]
+    },
+    "70050000000703": {
+        "id": "010067300059B003",
+        "rightsId": "010067300059B0030000000000000000",
+        "name": "Mario + Rabbids Kingdom Battle Ultra Challenge Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000000703,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Mild Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7e70524f4cceacae6062e0997feba1e0fdb2cb5b95732cd613c66a3dd983c275.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9fac5c4d5f8de33714e5c15aab5c87f0e3f729e731167d051f2f7d66a21465a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c86d7e370bad4cb72baac320339b1213436f16f79ed9192ce1ec4d5298ea532.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37ce420d2087c703c48f29e4f59528347e29165a2cbad36553a26bc01bbe3d2a.jpg",
+        "intro": "Chaos and strategy collide!",
+        "description": "The Ultra Challenge Pack will put you to the test with:\n8 new ultra-hard challenges inside each world\u2019s Secret chapter\n\n5 exclusive co-op maps\n \nGather your heroes and dive into eight new Ultra Hard Challenges to prove your worth!  In addition, a gust of chaos brings frenzy to the co-op mode; Chain Chomps, Tornados, Boos and Pyroclasts have become unstoppable and are wreaking havoc on the 5 exclusive new co-op maps. \n \nGet ready to team up against their chaotic forces in the brand new Cataclysm Kerfuffle Co-op Campaign!",
+        "languages": null,
+        "size": 27262976,
+        "ids": [
+            "010067300059B003"
+        ]
+    },
+    "70050000000704": {
+        "id": "010067300059B004",
+        "rightsId": "010067300059B0040000000000000000",
+        "name": "Mario + Rabbids\u00ae Kingdom Battle Donkey Kong Adventure",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000000704,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Mild Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ad1b87da2b76412003458f49a581e36feb59d31b27a6c666885ad62573b72268.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d766faeb4876637a59a88eba83dd75e708d8b7456bc72186f4f8801ccd223df8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a973cde4e6d92ceff565cbcf4071ca9fec888fe2d95888357c25715a3a107dce.jpg",
+        "intro": null,
+        "description": "Embark on an epic battle against Rabbid Kong, who takes over a mysterious island. Donkey Kong, Rabbid Peach, and a moody new Rabbid hero, Rabbid Cranky, team up on a journey across four brand-new environments. Discover a world of tactical gameplay and secrets to uncover. Experience a new story that expands the Mario + Rabbids\u00ae Kingdom Battle universe! Discover hours of new gameplay with more than a dozen battles and tactical adventures to experience. Witness a world of Donkey Kong references and the Rabbids\u2019 irreverence that create offbeat situations and fun encounters. Chain together new moves, like swinging with dandelions or climbing high ground, to conquer your foes.",
+        "languages": null,
+        "size": 1613758464,
+        "ids": [
+            "010067300059B004"
         ]
     },
     "70050000001423": {
@@ -13900,6 +14623,43 @@
         "size": 4194304,
         "ids": [
             "01003BC0000A1064"
+        ]
+    },
+    "70050000004501": {
+        "id": "010008900705D011",
+        "rightsId": "010008900705D0110000000000000003",
+        "name": "Dragon Quest Builders DLC Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000004501,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Fantasy Violence",
+            "Mild Blood",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Online Interactions Not Rated by the ESRB"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b6469434003b30669010b955b552e2dc4b3365f5d1ccdbf010c13bad3b523343.jpg",
+        "intro": null,
+        "description": "Gather, craft, and build the kingdom of your dreams to restore the ruined world of Alefgard! As the legendary Builder, you\u2019ll construct rooms, towns, and defenses while fighting monsters. In Terra Incognita, build freely, share creations online, battle in an arena, and access exclusive content to the Nintendo Switch\u2122 version of the game!\n\nReceive these free special in-game items:\n\nSlime Light\nKing Slime Light\nSlime Eyes and Mouth\n\nThese iconic Dragon Quest building materials enhance the look of your world, available only in Terra Incognita (free build) mode.\n\nFull version of the game required to use DLC.",
+        "languages": null,
+        "size": 9437184,
+        "ids": [
+            "010008900705D012",
+            "010008900705D010",
+            "010008900705D011"
         ]
     },
     "70050000005321": {
@@ -14941,8 +15701,8 @@
         ]
     },
     "70050000007566": {
-        "id": null,
-        "rightsId": null,
+        "id": "010027F00AD6D001",
+        "rightsId": "010027F00AD6D0010000000000000005",
         "name": "SNK HEROINES Tag Team Frenzy \u2013 Thief Arthur",
         "version": null,
         "key": null,
@@ -14967,7 +15727,10 @@
         "intro": null,
         "description": "This content adds Thief Arthur from Million Arthur: Arcana Blood. Download the v1.10 patch to unlock her as a playable character.",
         "languages": null,
-        "size": 4194304
+        "size": 4194304,
+        "ids": [
+            "010027F00AD6D001"
+        ]
     },
     "70050000008041": {
         "id": "01001B300B9BF005",
@@ -15507,6 +16270,38 @@
         "size": 5583667200,
         "ids": [
             "01001B300B9BF003"
+        ]
+    },
+    "70050000008281": {
+        "id": "010027F00AD6D002",
+        "rightsId": "010027F00AD6D0020000000000000005",
+        "name": "SNK HEROINES Tag Team Frenzy - SKULLO MANIA",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000008281,
+        "category": null,
+        "ratingContent": [
+            "Language",
+            "Suggestive Themes",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NIS America",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/005b92b38f6b946c6b6cba4aeecbcca1e4947e56c70866a74df541727e7d546c.jpg",
+        "intro": null,
+        "description": "This content adds SKULLO MANIA from Fighting EX Layer. Download the v1.20 patch to unlock her as a playable character.",
+        "languages": null,
+        "size": 4194304,
+        "ids": [
+            "010027F00AD6D002"
         ]
     },
     "70050000008321": {
@@ -16095,6 +16890,38 @@
             "01006A800016F022"
         ]
     },
+    "70050000008922": {
+        "id": "010027F00AD6D003",
+        "rightsId": "010027F00AD6D0030000000000000005",
+        "name": "SNK HEROINES Tag Team Frenzy - MissX",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000008922,
+        "category": null,
+        "ratingContent": [
+            "Language",
+            "Suggestive Themes",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "NIS America",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f17a398b99238704069565badc6f67401854701c7b9149a62bdb3b3ff085ccc6.jpg",
+        "intro": null,
+        "description": "This content adds MissX from SNK Gals' Fighters. Download the v1.30 patch to unlock her as a playable character.",
+        "languages": null,
+        "size": 4194304,
+        "ids": [
+            "010027F00AD6D003"
+        ]
+    },
     "70050000009021": {
         "id": "01001B300B9BF001",
         "rightsId": "01001B300B9BF0010000000000000005",
@@ -16245,8 +17072,8 @@
         ]
     },
     "70050000009532": {
-        "id": null,
-        "rightsId": null,
+        "id": "010027F00AD6D004",
+        "rightsId": "010027F00AD6D0040000000000000006",
         "name": "SNK HEROINES Tag Team Frenzy - JEANNE",
         "version": null,
         "key": null,
@@ -16271,7 +17098,10 @@
         "intro": null,
         "description": "This content adds JEANNE from the World Heroes series. Download the v1.40 patch to unlock her as a playable character.",
         "languages": null,
-        "size": 4194304
+        "size": 4194304,
+        "ids": [
+            "010027F00AD6D004"
+        ]
     },
     "70050000009585": {
         "id": "01001B300B9BF00C",
@@ -18468,7 +19298,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/89e9dd512a4428f0ac7c93b4b974c1f0914f48d0dc5e98a2f8c1947a023d2dbb.jpg",
         "intro": "The Fantastic Four join the alliance!",
-        "description": "Expand your adventure and roster of playable characters in the MARVEL ULTIMATE ALLIANCE 3: The Black Order game with the paid Expansion Pass, which grants access to three exclusive DLC packs that will become available as they release one at a time after the game\u2019s launch and will not be available for individual purchase. \n\n\u25a0DLC 1 \u2013 Marvel Knights: Curse of the Vampire\n\nPrepare to step into the boots of Punisher, Blade, Moon Knight, and Morbius\u2014the Marvel Knights are joining the alliance! These playable characters are part of DLC Pack 1 included with the MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass*, which also includes a new mode! \n\nIn Gauntlet Mode, up to four players** take on a frenzied series of co-op challenges in rapid succession to earn rewards. Once you\u2019ve cleared a Gauntlet, you\u2019ll unlock a survival-style version of it with ongoing waves of challenges. Find out how long you can last and see how your score stacks up with online*** rankings!  \n\n\n\u25a0DLC 2 \u2013 X-Men: Rise of the Phoenix\n\nDark Phoenix, the infinitely powerful cosmic entity from one of the X-Men's greatest sagas, unleashes an era of fiery destruction! Four more X-Men join the alliance\u2014Phoenix, Gambit, Ice Man, and Cable\u2014 with the purchase of the MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass. \n\nCompete against friends and foes in the newly added Danger Room mode! Players compete to see who can take down enemies while being barraged by buffs and debuffs.\nw\n\n\u25a0DLC 3 - Fantastic Four: Shadow of Doom\n\nMarvel\u2019s First Family, the Fantastic Four\u2014Mr. Fantastic, Invisible Woman, Human Torch, and The Thing\u2014join the alliance with the purchase of the MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass. \n\nHead to the kingdom of Latveria in an added storyline that pits your team of Marvel Super Heroes against the man in the iron mask himself, Doctor Doom. \n\n",
+        "description": "Expand your adventure and roster of playable characters in the MARVEL ULTIMATE ALLIANCE 3: The Black Order game with the paid Expansion Pass, which grants access to three exclusive DLC packs that will become available as they release one at a time after the game\u2019s launch and will not be available for individual purchase. \n\n\u25a0DLC 1 \u2013 Marvel Knights: Curse of the Vampire\n\nPrepare to step into the boots of Punisher, Blade, Moon Knight, and Morbius\u2014the Marvel Knights are joining the alliance! These playable characters are part of DLC Pack 1 included with the MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass*, which also includes a new mode! \n\nIn Gauntlet Mode, up to four players** take on a frenzied series of co-op challenges in rapid succession to earn rewards. Once you\u2019ve cleared a Gauntlet, you\u2019ll unlock a survival-style version of it with ongoing waves of challenges. Find out how long you can last and see how your score stacks up with online*** rankings!  \n\n\u25a0DLC 2 \u2013 X-Men: Rise of the Phoenix\n\nDark Phoenix, the infinitely powerful cosmic entity from one of the X-Men's greatest sagas, unleashes an era of fiery destruction! Four more X-Men join the alliance\u2014Phoenix, Gambit, Ice Man, and Cable\u2014 with the purchase of the MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass. \n\nCompete against friends and foes in the newly added Danger Room mode! Players compete to see who can take down enemies while being barraged by buffs and debuffs.\nw\n\n\u25a0DLC 3 - Fantastic Four: Shadow of Doom\n\nMarvel\u2019s First Family, the Fantastic Four\u2014Mr. Fantastic, Invisible Woman, Human Torch, and The Thing\u2014join the alliance with the purchase of the MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass. \n\nHead to the kingdom of Latveria in an added storyline that pits your team of Marvel Super Heroes against the man in the iron mask himself, Doctor Doom. \n\n",
         "languages": null,
         "size": 4194304,
         "ids": [
@@ -18815,7 +19645,7 @@
         ]
     },
     "70050000013181": {
-        "id": null,
+        "id": "0100DC300AC79001",
         "rightsId": null,
         "name": "The Messenger - Picnic Panic",
         "version": null,
@@ -18848,7 +19678,10 @@
         "intro": "The Messenger's epic story continues on in a summer vacation DLC full of tropical action! ",
         "description": "On Voodkin Island, the demon Barma\u2019thaz\u00ebl captured helpless little creatures to use them in his dark rituals. Only the heroic Messenger can save them now in a vacation-meets-rescue-mission adventure!\n\nKey Features:\n\n - Three new levels and bosses, in a setting filled with voodoo magic and tropical wonders.\n\n - A complete new cast of enemy minions.\n\n - More Shopkeeper shenanigans and stories.\n\n - More challenge rooms, hidden artifacts, and surprises.\n\n - 18 new music tracks by The Messenger\u2019s award-winning composer Rainbowdragoneyes.\n\n",
         "languages": null,
-        "size": 4194304
+        "size": 4194304,
+        "ids": [
+            "0100DC300AC79001"
+        ]
     },
     "70050000013781": {
         "id": "01003BC0000A1002",
@@ -23932,7 +24765,7 @@
         ]
     },
     "70050000019684": {
-        "id": null,
+        "id": "0100C4C00E73F001",
         "rightsId": null,
         "name": "Moving Out - The Employees of the Month Pack",
         "version": null,
@@ -23963,7 +24796,10 @@
         "intro": "\"The Employees of the Month Pack\" sets your career with Smooth Moves off to an exciting start.",
         "description": "Each member of this band of eager movers is packed with a passion for manual labour and really wants to pass their probation.\n\nProfessor Inkle! Why move with two arms when you can move with eight!\n\nBruce! Cute, cuddly and ruthlessly efficient!\n\nSprinkles! A great all-rounder and smells delicious! \n\nDials! Gives customers a great reception, just don't push their buttons! \n\nBecome the greatest moving team Packmore has ever seen with this team of trusty movers!",
         "languages": null,
-        "size": 4194304
+        "size": 4194304,
+        "ids": [
+            "0100C4C00E73F001"
+        ]
     },
     "70050000019712": {
         "id": "0100F2200C985017",
@@ -26153,8 +26989,40 @@
             "01006C100EC09007"
         ]
     },
+    "70050000022577": {
+        "id": "0100B1A00D8CF003",
+        "rightsId": null,
+        "name": "DOOM\u00ae Eternal (Campaign)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000022577,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/09fde58766118f7aec9f6ff30f3a8d6e7ba37ace336e79097643431c911d99c1.jpg",
+        "intro": "Raze Hell",
+        "description": "DOOM\u00ae Eternal, the award-winning game and \u201cone of the best first-person shooters ever\u201d according to GameRevolution, is coming to Nintendo Switch. Developed by id Software and Panic Button, DOOM Eternal is the direct sequel to DOOM\u00ae, winner of The Game Awards\u2019 Best Action Game of 2016. \n\nHell\u2019s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear\u2026is you. \n\nFeatures:   \n\nSlayer Threat Level at Maximum \n\nExperience the ultimate combination of speed and power in DOOM Eternal\u2014the next leap in first-person combat powered by idTech 7. Armed with a shoulder-mounted flamethrower, wrist-mounted blade, upgraded guns, new abilities and more, you\u2019re the greatest demon slayer in existence. \n\nPush-Forward Combat \n\nTake what you need from your enemies. Glory Kill demons to recover health, incinerate them to receive armor and cut them down with the Chainsaw to stock up on ammo.  \n\nMotion Aiming Ready \n\nImprove your aim with a control option that allows you to aim using gyro controls. The option can be used in conjunction with the control stick for the perfect blend of immersion and accuracy. ",
+        "languages": null,
+        "size": 4194304,
+        "ids": [
+            "0100B1A00D8CF003"
+        ]
+    },
     "70050000022578": {
-        "id": null,
+        "id": "0100B1A00D8CF001",
         "rightsId": null,
         "name": "DOOM\u00ae Eternal: Rip and Tear Pack",
         "version": null,
@@ -26180,7 +27048,106 @@
         "intro": null,
         "description": "Raze Hell with the Rip and Tear Pack and get in-game cosmetic items and additional single player content. This pack contains\n\n- DOOT Revenant Skin, a premium player demon skin for use in BATTLEMODE\n\n- Cultist Base Master Level, a remixed version of the campaign level with new challenges, combat encounters, and surprises\n\n- Throwback Shotgun Weapon Skin, bring DOOM's classic shotgun to bear on DOOM Eternal's demon hordes",
         "languages": null,
-        "size": 4194304
+        "size": 4194304,
+        "ids": [
+            "0100B1A00D8CF001"
+        ]
+    },
+    "70050000022579": {
+        "id": "0100B1A00D8CF002",
+        "rightsId": null,
+        "name": "DOOM\u00ae Eternal: Deluxe Edition Content",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000022579,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/09ef8525406f3d073d6260f99d4b02bd00142b7ea8e4ebe81f3c22ac35aa9006.jpg",
+        "intro": null,
+        "description": "Raze Hell with the DOOM Eternal Deluxe Edition which includes:\n\n- Demonic Slayer Skin\n- Classic Weapon Sound Pack - Throwback sound effects for your DOOM Eternal guns",
+        "languages": null,
+        "size": 4194304,
+        "ids": [
+            "0100B1A00D8CF002"
+        ]
+    },
+    "70050000022580": {
+        "id": "0100B1A00D8CF004",
+        "rightsId": null,
+        "name": "DOOM\u00ae Eternal: The Ancient Gods - Part One",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000022580,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/419283a85be00c0f2c48177980e75166e85575b08b6518d093253bcb9d1f4c98.jpg",
+        "intro": null,
+        "description": "The Ancient Gods \u2013 Part One is the first campaign expansion for the critically acclaimed DOOM Eternal. \n\nYour war is not over\u2026 slaying the Khan Maykr left an imbalance of power  that threatens all of creation. The legions of Hell have razed the heavens, threatening to expand their control across dimensions. With the aid of an old ally, battle your way back to Urdak and decide the fate of the cosmos. Your mission is now your own.\n\nNEW MISSION\nExperience a new mission in your eternal fight against evil. Unleash your vengeance and face your greatest test as you march back to the Maykr\u2019s realm. Defeat powerful new threats, restore order to the heavens and unearth the corruption that has thrown the universe into chaos.\n\nNEW LOCATIONS\nFrom the industrial rain-swept decks of the oceanic UAC Atlantica Facility on Earth to the corpse littered Blood Swamps of Hell to the crumbling ruins of a demon-infested Urdak, you will visit epic new locations to eviscerate the armies of Hell. \n\nNEW ENEMIES\nChange your tactics as you face Hell\u2019s newest threats that add more depth and challenge to combat. Face the Spirit, an ethereal enemy that buffs other demons with added strength and speed, and the Blood Maykr \u2013 a corrupted Maykr Angel armed with a powerful staff that can be hurled with thunderbolt force. ",
+        "languages": null,
+        "size": 4194304,
+        "ids": [
+            "0100B1A00D8CF004"
+        ]
+    },
+    "70050000022581": {
+        "id": "0100B1A00D8CF005",
+        "rightsId": null,
+        "name": "DOOM\u00ae Eternal: The Ancient Gods -  Part Two",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000022581,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0e15db036762df7de4f9f0522d38525e0cdb011f28fda8ae6b28a84277afa155.jpg",
+        "intro": null,
+        "description": "The Ancient Gods \u2013 Part Two is the epic conclusion to the DOOM Slayer\u2019s Saga and the second campaign expansion to the critically acclaimed DOOM Eternal.  \n\nYou denied the gods and awoke an ancient evil. Now rally the scattered Sentinel armies, lay siege to the last bastion of Hell, break through the fortress walls, and face the Dark Lord himself. The soul of the universe hangs in the balance. \n\nYour war against Hell ends here. \n\nEXPERIENCE THE END OF THE SLAYER\u2019S SAGA \nExperience the epic conclusion to the DOOM Slayer\u2019s saga. From the moment you were activated by Samuel Hayden at the UAC facility on Mars to the destruction of the Icon of Sin, all your battles have led to this. Prepare to siege Immora, the last bastion of the dark realm, challenge the Dark Lord in combat, and seal the demons within Hell for good. \n\nFIGHT ACROSS EPIC BATTLEFIELDS \nFrom the ruins of ancient Sentinel settlements and the cosmic wonders of the World Spear, to a devastated and overgrown city on Earth hiding a mysterious gateway, face Hell\u2019s armies in never-before-seen locations as you fight your way to Immora, the last bastion of the Dark Lord protected by towering walls and powered by advanced technology. \n\nFACE CHALLENGING ENEMY VARIANTS \nFace new, deadly variants of demons. The Armored Baron wears special armor and uses a charged fist attack. The Stone Imp possesses a nearly impenetrable hide and prefers close combat. The Screecher is a zombie that empowers nearby demons when killed. The Cursed Prowler is a mutation with venomous, cursed claws. Exploit their weaknesses to destroy them. \n\nWIELD THE SENTINEL HAMMER \nDeliver more destruction with the Sentinel Hammer, an ancient weapon capable of stopping any demons caught within its shockwave. Use it to stun demons or combine it with the Ice Bomb or Flame Belch to extract much-needed health or armor. ",
+        "languages": null,
+        "size": 4194304,
+        "ids": [
+            "0100B1A00D8CF005"
+        ]
     },
     "70050000022582": {
         "id": "0100EAE010561007",
@@ -26289,7 +27256,7 @@
         ]
     },
     "70050000023105": {
-        "id": null,
+        "id": "01000A001171B004",
         "rightsId": null,
         "name": "FIFA 21 In-Game Commentary \u2013 Arabic",
         "version": null,
@@ -26314,7 +27281,10 @@
         "intro": "A legacy in football excellence in FIFA 21. \n",
         "description": "Arabic In-Game Commentary\n",
         "languages": null,
-        "size": 433061888
+        "size": 433061888,
+        "ids": [
+            "01000A001171B004"
+        ]
     },
     "70050000023109": {
         "id": "01000A001171B005",
@@ -28064,7 +29034,7 @@
         "intro": "Lin\u2019s holding nothing back!",
         "description": "A new exercise intensity has been added for Lin! \n\nNow you can try Low, High, and the new No Mercy intensity. \nThe instructor you know as good-natured and mellow will show you her ruthless side. She\u2019s ready to put you through your paces!",
         "languages": null,
-        "size": 11534336,
+        "size": 10485760,
         "ids": [
             "0100073011383001"
         ]
@@ -28239,6 +29209,34 @@
             "01006A800016F047"
         ]
     },
+    "70050000024390": {
+        "id": "0100B6E012EBF001",
+        "rightsId": null,
+        "name": "UNO\u00ae Rayman Theme",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000024390,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dccaefd482ef4831b09c2f5bb2e29252ea8bfa9878d6d8fc72b443484056295e.jpg",
+        "intro": null,
+        "description": "One of the most iconic card games ever is now getting a dose of extra adventure! Excitement, surprise, and more await you in the UNO Rayman Theme! Enjoy lush, new visuals and create new strategies with four brand-new and original Theme Cards that allow you to swat cards back at others or mix up everyone\u2019s hands for some unpredictable hijinks.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100B6E012EBF001"
+        ]
+    },
     "70050000024391": {
         "id": "0100B6E012EBF004",
         "rightsId": null,
@@ -28265,6 +29263,62 @@
         "size": 3145728,
         "ids": [
             "0100B6E012EBF004"
+        ]
+    },
+    "70050000024392": {
+        "id": "0100B6E012EBF003",
+        "rightsId": null,
+        "name": "UNO\u00ae Just Dance Theme",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000024392,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e4d753308c7f69d3e731d2f1877523d0f608699fe681749c391d8d7cb4a31cea.jpg",
+        "intro": null,
+        "description": "One of the most iconic card games ever is now getting a little bit funkier! Ready to get your groove on? The Just Dance theme is now available for UNO, bringing a new background filled with funky effects as well as never-before-seen Theme Cards that affect all players in a match, offering new strategies into the mix.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100B6E012EBF003"
+        ]
+    },
+    "70050000024393": {
+        "id": "0100B6E012EBF005",
+        "rightsId": null,
+        "name": "UNO FLIP!",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000024393,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e17bd16fecb1d02a93fe82c2bfcfe22c16e98912d3961a283fc89e2e8050d44e.jpg",
+        "intro": null,
+        "description": "Jump into a new UNO\u00ae experience with the UNO\u00ae FLIP!\u2122 ! Rediscover the matching game you know with a double-sided deck that gives classic gameplay an exciting twist. Use the special Flip card to flip the deck and reveal an entirely new set of numbers, colors and Action cards on the opposite side! Play nice with the \"Light Side\" Action cards or spice things up with these \"Dark Side\" ones: Draw five cards : The next player must draw five cards and lose their turn. Skip everyone card : All players lose their turn. Wild draw color card : The next player must draw until they get a color of your choice (no matter how many cards they have to draw to do so) and lose their turn. Bring your UNO matches to the next level with UNO FLIP!\n",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100B6E012EBF005"
         ]
     },
     "70050000024396": {
@@ -28567,7 +29621,7 @@
         "intro": "Evan\u2019s holding nothing back!",
         "description": "A new exercise intensity has been added for Evan! \n\nNow you can try Low, High, and the new No Mercy intensity. \nThe instructor you know as good-natured and mellow will show you his ruthless side. He\u2019s ready to put you through your paces!",
         "languages": null,
-        "size": 11534336,
+        "size": 10485760,
         "ids": [
             "0100073011383006"
         ]
@@ -28675,6 +29729,37 @@
         "size": 134217728,
         "ids": [
             "0100E67012925003"
+        ]
+    },
+    "70050000024667": {
+        "id": "010097100EDD7001",
+        "rightsId": null,
+        "name": "Little Nightmares II Mokujin Hat",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000024667,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/439c79eafa25474c77884972486b6bad5f2c890e27f7ef57775b59164e387257.jpg",
+        "intro": null,
+        "description": "The Mokujin Hat is wearable headgear for Mono.\n\nIt is said that this hat is carved from a 2000-year-old tree, but its power won't protect you from what awaits Mono in the Pale City.",
+        "languages": null,
+        "size": 4194304,
+        "ids": [
+            "010097100EDD7001"
         ]
     },
     "70050000024670": {
@@ -28810,7 +29895,7 @@
         "intro": "Hiro\u2019s holding nothing back!",
         "description": "A new exercise intensity has been added for Hiro! \n\nNow you can try Low, High, and the new No Mercy intensity. The instructor you know as good-natured and mellow will show you his ruthless side. He\u2019s ready to put you through your paces!",
         "languages": null,
-        "size": 11534336,
+        "size": 10485760,
         "ids": [
             "0100073011383009"
         ]
@@ -28965,7 +30050,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20210225,
+        "releaseDate": 20210901,
         "nsuId": 70050000024784,
         "category": null,
         "ratingContent": [
@@ -29022,7 +30107,7 @@
         "intro": "Karen\u2019s holding nothing back!",
         "description": "A new exercise intensity has been added for Karen! \n\nNow you can try Low, High, and the new No Mercy intensity. The instructor you know as good-natured and mellow will show you her ruthless side. She\u2019s ready to put you through your paces!",
         "languages": null,
-        "size": 11534336,
+        "size": 10485760,
         "ids": [
             "0100073011383007"
         ]
@@ -29396,8 +30481,239 @@
             "0100E1F01367504E"
         ]
     },
+    "70050000024896": {
+        "id": "0100D9500FC67001",
+        "rightsId": null,
+        "name": "Apex Legends - Character Dialog French",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210202,
+        "nsuId": 70050000024896,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e3e7bca136686a84a13e12cd623aa2179128e44118fad40e41bfc3c40514f049.jpg",
+        "intro": null,
+        "description": "Apex Legends - Character Dialog French\n",
+        "languages": null,
+        "size": 2123366400,
+        "ids": [
+            "0100D9500FC67001"
+        ]
+    },
+    "70050000024897": {
+        "id": "0100D9500FC67002",
+        "rightsId": null,
+        "name": "Apex Legends - Character Dialog German",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210202,
+        "nsuId": 70050000024897,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ed026e3ea629d2e103014193a7fe6a1326be63b7c112ebb1a8806f84176ecb79.jpg",
+        "intro": null,
+        "description": "Apex Legends - Character Dialog German\n",
+        "languages": null,
+        "size": 2356150272,
+        "ids": [
+            "0100D9500FC67002"
+        ]
+    },
+    "70050000024898": {
+        "id": "0100D9500FC67003",
+        "rightsId": null,
+        "name": "Apex Legends - Character Dialog Italian",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210202,
+        "nsuId": 70050000024898,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c824ccb98cbec9db12231a4ed490465d0aab0d86e795e21f923dae407d995ee4.jpg",
+        "intro": null,
+        "description": "Apex Legends - Character Dialog Italian\n",
+        "languages": null,
+        "size": 2355101696,
+        "ids": [
+            "0100D9500FC67003"
+        ]
+    },
+    "70050000024899": {
+        "id": "0100D9500FC67004",
+        "rightsId": null,
+        "name": "Apex Legends - Character Dialog Japanese",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210202,
+        "nsuId": 70050000024899,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9631b4a9f3cdfd594524eb6d8fbf16964237253c82495f2dbe21c25dd3ae6b0b.jpg",
+        "intro": null,
+        "description": "Apex Legends - Character Dialog Japanese\n",
+        "languages": null,
+        "size": 2300575744,
+        "ids": [
+            "0100D9500FC67004"
+        ]
+    },
+    "70050000024900": {
+        "id": "0100D9500FC67005",
+        "rightsId": null,
+        "name": "Apex Legends - Character Dialog Korean",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210202,
+        "nsuId": 70050000024900,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b87931706c6af76b4d17486f835009ffb8ea907e5179359724661c28d1b55df4.jpg",
+        "intro": null,
+        "description": "Apex Legends - Character Dialog Korean\n\n",
+        "languages": null,
+        "size": 2235564032,
+        "ids": [
+            "0100D9500FC67005"
+        ]
+    },
+    "70050000024901": {
+        "id": "0100D9500FC67006",
+        "rightsId": null,
+        "name": "Apex Legends - Character Dialog Mandarin",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210202,
+        "nsuId": 70050000024901,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/55ae0d1e4a9580c9c1f491e049f30d6f72a13ddc2440226f2d5670c6ebc4daaf.jpg",
+        "intro": null,
+        "description": "Apex Legends - Character Dialog Mandarin\n\n",
+        "languages": null,
+        "size": 2067791872,
+        "ids": [
+            "0100D9500FC67006"
+        ]
+    },
+    "70050000024902": {
+        "id": "0100D9500FC67008",
+        "rightsId": null,
+        "name": "Apex Legends - Character Dialog Russian",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210202,
+        "nsuId": 70050000024902,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/880fb7f556200da737c17a7c2ab5d1741cc812d8fca6a744db1604fa177bf77c.jpg",
+        "intro": null,
+        "description": "Apex Legends - Character Dialog\n\n",
+        "languages": null,
+        "size": 2347761664,
+        "ids": [
+            "0100D9500FC67008"
+        ]
+    },
     "70050000024903": {
-        "id": null,
+        "id": "0100D9500FC67009",
         "rightsId": null,
         "name": "Apex Legends - Character Dialog Spanish",
         "version": null,
@@ -29424,7 +30740,10 @@
         "intro": null,
         "description": "Apex Legends - Character Dialog Spanish\n",
         "languages": null,
-        "size": 2361393152
+        "size": 2361393152,
+        "ids": [
+            "0100D9500FC67009"
+        ]
     },
     "70050000025013": {
         "id": "0100073011383003",
@@ -29455,7 +30774,7 @@
         "intro": "Martina\u2019s holding nothing back!",
         "description": "A new exercise intensity has been added for Martina! \n\nNow you can try Low, High, and the new No Mercy intensity. The instructor you know as good-natured and mellow will show you her ruthless side. She\u2019s ready to put you through your paces!",
         "languages": null,
-        "size": 10485760,
+        "size": 9437184,
         "ids": [
             "0100073011383003"
         ]
@@ -29489,7 +30808,7 @@
         "intro": "Janice\u2019s holding nothing back!",
         "description": "A new exercise intensity has been added for Janice! \n\nNow you can try Low, High, and the new No Mercy intensity. The instructor you know as good-natured and mellow will show you her ruthless side. She\u2019s ready to put you through your paces!",
         "languages": null,
-        "size": 10485760,
+        "size": 9437184,
         "ids": [
             "0100073011383008"
         ]
@@ -29522,7 +30841,7 @@
         "intro": "Sophie\u2019s holding nothing back!",
         "description": "A new exercise intensity has been added for Sophie! \n\nNow you can try Low, High, and the new No Mercy intensity. The instructor you know as good-natured and mellow will show you her ruthless side. She\u2019s ready to put you through your paces!",
         "languages": null,
-        "size": 11534336,
+        "size": 10485760,
         "ids": [
             "0100073011383002"
         ]
@@ -29754,6 +31073,34 @@
             "0100E1F013675056"
         ]
     },
+    "70050000025201": {
+        "id": "0100B6E012EBF006",
+        "rightsId": null,
+        "name": "UNO\u00ae Fenyx's Quest",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000025201,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4f7be9fcc2894341640fde7e9eda1364207578735fa6995b2e5105e9ac4dc60d.jpg",
+        "intro": null,
+        "description": "The most famous card game hosts a legendary showdown!  An all-new game mode inspired by the mythical world of Immortals Fenyx Rising\u2122, UNO\u00ae Fenyx\u2019s Quest plunges you into the marvelous Golden Isle and its mysteries and wonders. Avoid the traps of Typhon, free the gods from their curse, and wield their mighty powers to be the first one to get rid of your hand. Olympus awaits you.\n\nUNO\u00ae Fenyx\u2019s Quest brings a mythological touch to the classic card game experience with exciting new features centered around the cursed gods Athena, Ares, Aphrodite, and Hephaistos, as well as two exclusive Action cards, Typhon\u2019s Trick and Fenyx Power. Take your seat around the golden board, meet the gods, and accomplish Fenyx\u2019s Quest. You are the gods\u2019 last hope!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100B6E012EBF006"
+        ]
+    },
     "70050000025202": {
         "id": "0100E1F013675051",
         "rightsId": null,
@@ -29953,7 +31300,7 @@
         ]
     },
     "70050000025327": {
-        "id": null,
+        "id": "0100B04011743026",
         "rightsId": null,
         "name": "\"Fox Mask\" Hunter layered armor piece",
         "version": null,
@@ -29981,10 +31328,13 @@
         "intro": null,
         "description": "Hunt in style with this special layered armor!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Layered Armor Settings menu of the Item Box.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B04011743026"
+        ]
     },
     "70050000025328": {
-        "id": null,
+        "id": "0100B04011743027",
         "rightsId": null,
         "name": "\"Theater Wig\" Hunter layered armor piece",
         "version": null,
@@ -30012,10 +31362,13 @@
         "intro": null,
         "description": "Hunt in style with this special layered armor!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Layered Armor Settings menu of the Item Box.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B04011743027"
+        ]
     },
     "70050000025329": {
-        "id": null,
+        "id": "0100B04011743025",
         "rightsId": null,
         "name": "\"Wyverian Earrings\" Hunter layered armor piece",
         "version": null,
@@ -30043,10 +31396,13 @@
         "intro": null,
         "description": "Hunt in style with this special layered armor!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Layered Armor Settings menu of the Item Box.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B04011743025"
+        ]
     },
     "70050000025330": {
-        "id": null,
+        "id": "0100B04011743020",
         "rightsId": null,
         "name": "\"Nine Tails\" Palico layered armor set",
         "version": null,
@@ -30074,10 +31430,13 @@
         "intro": null,
         "description": "Dress up your buddy with this special layered armor!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Layered Armor Settings menu of the Buddy Board.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B04011743020"
+        ]
     },
     "70050000025331": {
-        "id": null,
+        "id": "0100B04011743021",
         "rightsId": null,
         "name": "\"Long Coat Costume\" Palamute layered armor set",
         "version": null,
@@ -30105,10 +31464,13 @@
         "intro": null,
         "description": "Dress up your buddy with this special layered armor!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Layered Armor Settings menu of the Buddy Board.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B04011743021"
+        ]
     },
     "70050000025332": {
-        "id": null,
+        "id": "0100B04011743023",
         "rightsId": null,
         "name": "\"High Five\" gesture",
         "version": null,
@@ -30136,10 +31498,13 @@
         "intro": null,
         "description": "Enjoy communicating with other hunters and taking fun photos with this special gesture!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it from the Chat Menu.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B04011743023"
+        ]
     },
     "70050000025333": {
-        "id": null,
+        "id": "0100B04011743018",
         "rightsId": null,
         "name": "\"Attack\" pose set",
         "version": null,
@@ -30167,10 +31532,13 @@
         "intro": null,
         "description": "Enjoy communicating with other hunters and taking fun photos with this special pose set!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it from the Start Menu, or the Poses/Gestures Menu in the Camera.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B04011743018"
+        ]
     },
     "70050000025334": {
-        "id": null,
+        "id": "0100B04011743019",
         "rightsId": null,
         "name": "\"Hurt\" pose set",
         "version": null,
@@ -30198,10 +31566,13 @@
         "intro": null,
         "description": "Enjoy communicating with other hunters and taking fun photos with this special pose set!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it from the Start Menu, or the Poses/Gestures Menu in the Camera.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B04011743019"
+        ]
     },
     "70050000025335": {
-        "id": null,
+        "id": "0100B04011743016",
         "rightsId": null,
         "name": "\"Eye Shadow\" makeup",
         "version": null,
@@ -30229,10 +31600,47 @@
         "intro": null,
         "description": "Change up your hunter's look with this special appearance option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B04011743016"
+        ]
+    },
+    "70050000025336": {
+        "id": "0100B04011743015",
+        "rightsId": null,
+        "name": "\"Hero\" face paint",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000025336,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ed948c5c711f614cc63542791ccf5c0614df42026070b1f1cec951e8d48dfbf.jpg",
+        "intro": null,
+        "description": "Change up your hunter's look with this special appearance option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100B04011743015"
+        ]
     },
     "70050000025337": {
-        "id": null,
+        "id": "0100B04011743013",
         "rightsId": null,
         "name": "\"Spread Wings\" makeup",
         "version": null,
@@ -30260,10 +31668,13 @@
         "intro": null,
         "description": "Change up your hunter's look with this special appearance option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B04011743013"
+        ]
     },
     "70050000025338": {
-        "id": null,
+        "id": "0100B0401174300E",
         "rightsId": null,
         "name": "\"Airy Short Bob\" hairstyle",
         "version": null,
@@ -30291,10 +31702,13 @@
         "intro": null,
         "description": "Change up your hunter's look with this special appearance option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B0401174300E"
+        ]
     },
     "70050000025339": {
-        "id": null,
+        "id": "0100B0401174300F",
         "rightsId": null,
         "name": "\"Beachy Waves\" hairstyle",
         "version": null,
@@ -30322,10 +31736,13 @@
         "intro": null,
         "description": "Change up your hunter's look with this special appearance option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B0401174300F"
+        ]
     },
     "70050000025340": {
-        "id": null,
+        "id": "0100B0401174300D",
         "rightsId": null,
         "name": "\"Great Baggi Crest\" hairstyle",
         "version": null,
@@ -30353,10 +31770,13 @@
         "intro": null,
         "description": "Change up your hunter's look with this special appearance option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B0401174300D"
+        ]
     },
     "70050000025341": {
-        "id": null,
+        "id": "0100B04011743010",
         "rightsId": null,
         "name": "Hunter Voice: Master Utsushi",
         "version": null,
@@ -30384,10 +31804,13 @@
         "intro": null,
         "description": "Change up your hunter's sound with this special voice option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B04011743010"
+        ]
     },
     "70050000025342": {
-        "id": null,
+        "id": "0100B04011743011",
         "rightsId": null,
         "name": "Hunter Voice: Hinoa the Quest Maiden",
         "version": null,
@@ -30415,10 +31838,13 @@
         "intro": null,
         "description": "Change up your hunter's sound with this special voice option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B04011743011"
+        ]
     },
     "70050000025343": {
-        "id": null,
+        "id": "0100B0401174301B",
         "rightsId": null,
         "name": "\"Wind-up Cohoot\" Cohoot outfit",
         "version": null,
@@ -30446,10 +31872,13 @@
         "intro": null,
         "description": "Dress up your Cohoot pet with this special outfit!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Change Clothes section of the Pet menu.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B0401174301B"
+        ]
     },
     "70050000025344": {
-        "id": null,
+        "id": "0100B0401174301A",
         "rightsId": null,
         "name": "\"Fluffy Hood\" Cohoot outfit",
         "version": null,
@@ -30477,7 +31906,10 @@
         "intro": null,
         "description": "Dress up your Cohoot pet with this special outfit!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Change Clothes section of the Pet menu.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B0401174301A"
+        ]
     },
     "70050000025400": {
         "id": "0100073011383005",
@@ -30508,7 +31940,7 @@
         "intro": "Bernardo\u2019s holding nothing back!",
         "description": "A new exercise intensity has been added for Bernardo! \n\nNow you can try Low, High, and the new No Mercy intensity. The instructor you know as good-natured and mellow will show you his ruthless side. He\u2019s ready to put you through your paces!",
         "languages": null,
-        "size": 10485760,
+        "size": 9437184,
         "ids": [
             "0100073011383005"
         ]
@@ -30542,7 +31974,7 @@
         "intro": "Laura\u2019s holding nothing back!",
         "description": "A new exercise intensity has been added for Laura! \n\nNow you can try Low, High, and the new No Mercy intensity. The instructor you know as good-natured and mellow will show you her ruthless side. She\u2019s ready to put you through your paces!",
         "languages": null,
-        "size": 10485760,
+        "size": 9437184,
         "ids": [
             "0100073011383004"
         ]
@@ -31356,6 +32788,39 @@
             "0100E1F013675066"
         ]
     },
+    "70050000026251": {
+        "id": "0100D9500FC67064",
+        "rightsId": null,
+        "name": "Apex Legends\u2122 - Champion Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70050000026251,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/36b6a06a82f9f3892433716c488a6af6da2856a1e7bb6264b4d24f84f029398f.jpg",
+        "intro": "Drop in with everything you need to become an Apex Champion.",
+        "description": "Ready to become an Apex Champion? The Champion Edition is the best way to drop into the Arena with everything you need to instantly make your mark. \n\nThe Champion Edition includes:\n\u2022 9 Legends Unlocked (all characters up to Season 7)\n\u2022 3 Exclusive Legendary Character Skins: Wraith, Revenant, and Crypto\n\u2022 3 Exclusive Legendary Weapon Skins: Triple Take, Flatline, and Sentinel\n\u2022 Exclusive Legendary Gun Charm\n\u2022 1,000 Apex Coins\n\nThis game includes optional in-game purchases of virtual currency that can be used to acquire a random selection of virtual in-game items.\n\nRequires Apex Legends on applicable platform (sold separately) and all game updates. Other conditions and restrictions apply. See ea.com/legal for details.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100D9500FC67064"
+        ]
+    },
     "70050000026292": {
         "id": "0100E1F013675067",
         "rightsId": null,
@@ -31496,7 +32961,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026609,
         "category": null,
         "ratingContent": [
@@ -31530,7 +32995,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026610,
         "category": null,
         "ratingContent": [
@@ -31564,7 +33029,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026611,
         "category": null,
         "ratingContent": [
@@ -31598,7 +33063,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026612,
         "category": null,
         "ratingContent": [
@@ -31632,7 +33097,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026613,
         "category": null,
         "ratingContent": [
@@ -31666,7 +33131,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026614,
         "category": null,
         "ratingContent": [
@@ -31700,7 +33165,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026615,
         "category": null,
         "ratingContent": [
@@ -31734,7 +33199,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026616,
         "category": null,
         "ratingContent": [
@@ -31768,7 +33233,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026617,
         "category": null,
         "ratingContent": [
@@ -31802,7 +33267,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026618,
         "category": null,
         "ratingContent": [
@@ -31836,7 +33301,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026619,
         "category": null,
         "ratingContent": [
@@ -31870,7 +33335,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026620,
         "category": null,
         "ratingContent": [
@@ -31904,7 +33369,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026621,
         "category": null,
         "ratingContent": [
@@ -31938,7 +33403,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026622,
         "category": null,
         "ratingContent": [
@@ -31972,7 +33437,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026623,
         "category": null,
         "ratingContent": [
@@ -32006,7 +33471,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026624,
         "category": null,
         "ratingContent": [
@@ -32040,7 +33505,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026625,
         "category": null,
         "ratingContent": [
@@ -32074,7 +33539,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026626,
         "category": null,
         "ratingContent": [
@@ -32108,7 +33573,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026627,
         "category": null,
         "ratingContent": [
@@ -32142,7 +33607,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026628,
         "category": null,
         "ratingContent": [
@@ -32176,7 +33641,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026629,
         "category": null,
         "ratingContent": [
@@ -32210,7 +33675,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026630,
         "category": null,
         "ratingContent": [
@@ -32244,7 +33709,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026631,
         "category": null,
         "ratingContent": [
@@ -32278,7 +33743,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026632,
         "category": null,
         "ratingContent": [
@@ -32312,7 +33777,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026633,
         "category": null,
         "ratingContent": [
@@ -32346,7 +33811,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026634,
         "category": null,
         "ratingContent": [
@@ -32414,7 +33879,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000026636,
         "category": null,
         "ratingContent": [
@@ -33199,7 +34664,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027495,
         "category": null,
         "ratingContent": [
@@ -33233,7 +34698,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027496,
         "category": null,
         "ratingContent": [
@@ -33267,7 +34732,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027497,
         "category": null,
         "ratingContent": [
@@ -33301,7 +34766,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027498,
         "category": null,
         "ratingContent": [
@@ -33335,7 +34800,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027500,
         "category": null,
         "ratingContent": [
@@ -33369,7 +34834,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027501,
         "category": null,
         "ratingContent": [
@@ -33403,7 +34868,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027502,
         "category": null,
         "ratingContent": [
@@ -33437,7 +34902,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027503,
         "category": null,
         "ratingContent": [
@@ -33471,7 +34936,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027505,
         "category": null,
         "ratingContent": [
@@ -33505,7 +34970,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027506,
         "category": null,
         "ratingContent": [
@@ -33539,7 +35004,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027507,
         "category": null,
         "ratingContent": [
@@ -33573,7 +35038,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027509,
         "category": null,
         "ratingContent": [
@@ -33607,7 +35072,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027510,
         "category": null,
         "ratingContent": [
@@ -33641,7 +35106,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027511,
         "category": null,
         "ratingContent": [
@@ -33675,7 +35140,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027512,
         "category": null,
         "ratingContent": [
@@ -33709,7 +35174,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027513,
         "category": null,
         "ratingContent": [
@@ -33743,7 +35208,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027515,
         "category": null,
         "ratingContent": [
@@ -33777,7 +35242,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027516,
         "category": null,
         "ratingContent": [
@@ -33811,7 +35276,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000027517,
         "category": null,
         "ratingContent": [
@@ -33978,13 +35443,13 @@
         "languages": null,
         "size": 15728640,
         "ids": [
-            "0100E21011447007",
+            "0100E21011447005",
             "0100E21011447006",
-            "0100E21011447005"
+            "0100E21011447007"
         ]
     },
     "70050000027669": {
-        "id": null,
+        "id": "0100E2101144700B",
         "rightsId": null,
         "name": "Rider's Layered Armor: Hakum Rider Outfit",
         "version": null,
@@ -34014,7 +35479,10 @@
         "intro": null,
         "description": "Contains the following content:\n\n\u25cf Rider's Layered Armor: Hakum Rider Outfit\n\nThis content is cosmetic and does not confer any status benefits.\n\nNote: This content can also be obtained by using any of the six amiibo released for the previous title in the series, \"Monster Hunter Stories\". After purchasing, restart the game to receive add-on content. Outfits can be changed using the chest in Your House after progressing the game to a certain point.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100E2101144700B"
+        ]
     },
     "70050000027671": {
         "id": "0100E21011447011",
@@ -34744,7 +36212,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028299,
         "category": null,
         "ratingContent": [
@@ -34778,7 +36246,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028300,
         "category": null,
         "ratingContent": [
@@ -34812,7 +36280,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028301,
         "category": null,
         "ratingContent": [
@@ -34846,7 +36314,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028302,
         "category": null,
         "ratingContent": [
@@ -34880,7 +36348,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028303,
         "category": null,
         "ratingContent": [
@@ -34914,7 +36382,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028304,
         "category": null,
         "ratingContent": [
@@ -34948,7 +36416,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028305,
         "category": null,
         "ratingContent": [
@@ -34982,7 +36450,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028306,
         "category": null,
         "ratingContent": [
@@ -35016,7 +36484,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028307,
         "category": null,
         "ratingContent": [
@@ -35050,7 +36518,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028308,
         "category": null,
         "ratingContent": [
@@ -35084,7 +36552,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028309,
         "category": null,
         "ratingContent": [
@@ -35118,7 +36586,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028310,
         "category": null,
         "ratingContent": [
@@ -35152,7 +36620,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028312,
         "category": null,
         "ratingContent": [
@@ -35186,7 +36654,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028313,
         "category": null,
         "ratingContent": [
@@ -35220,7 +36688,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028314,
         "category": null,
         "ratingContent": [
@@ -35254,7 +36722,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20210901,
         "nsuId": 70050000028315,
         "category": null,
         "ratingContent": [
@@ -35374,7 +36842,7 @@
         ]
     },
     "70050000029130": {
-        "id": null,
+        "id": "0100B04011743068",
         "rightsId": null,
         "name": "\"Special Stickers 4\" sticker set",
         "version": null,
@@ -35402,7 +36870,10 @@
         "intro": null,
         "description": "Have fun communicating with other players using stickers!\n\nThis add-on contains:\n\n- \"Special Stickers 4\" Sticker Set\nThese stickers depict cute versions of your favourite characters from Kamura Village!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Chat menu.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B04011743068"
+        ]
     },
     "70050000029389": {
         "id": "01007B000C835008",
@@ -35437,7 +36908,7 @@
         ]
     },
     "70050000029631": {
-        "id": null,
+        "id": "0100B04011743069",
         "rightsId": null,
         "name": "\"Special Stickers 5\" sticker set",
         "version": null,
@@ -35465,7 +36936,10 @@
         "intro": null,
         "description": "Have fun communicating with other players using stickers!\n\nThis add-on contains:\n\n- \"Special Stickers 5\" Sticker Set\nThese quirky stickers depict some familiar items from around the village!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Chat menu.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B04011743069"
+        ]
     },
     "70070000000041": {
         "id": null,
@@ -35495,6 +36969,40 @@
         "description": "The expansion pass includes DLC Pack 1: The Master Trials and DLC Pack 2: The Champions' Ballad.\n\nExpansion Pass Bonus\n\u2022 Three treasure chests with in-game clothing exclusive to the expansion pass will be added to the Great Plateau.\n\nDLC Pack 1: The Master Trials will include the following:\n\n1. Trial of the Sword\nVisit a certain location to challenge the Trial of the Sword, where you must vanquish waves of enemies to progress from one room to the next. You will start this challenge without any armor, equipment, or food items to aid you. If you complete all 45 rooms, Link's mind and body will be strong enough to wield the Master Sword's full power and splendor any time the sword is usable! \n\n2. Hero's Path Mode\nView the path you've taken on your journey. It will record your journey for up to 200 hours of gameplay. Use this feature to find shrines and Koroks! You can even manually adjust the replay speed.\n\n3. Master Mode\nIn Master Mode, most enemies you encounter will be one tier higher than they originally were. There is also a new top tier of enemies that don't appear in Normal Mode! Additionally, enemies will recover health if you stop attacking them, and they will also notice Link more easily. You also might find enemies and treasure chests floating in the air!\n\n4. Travel Medallion\nThe Travel Medallion will be hidden in a treasure chest somewhere. Place it at your current location and you will be able to travel there whenever you please. You can only register one location at a time, but this addition should aid you in your journey.\n\n5. 8 clothing items hidden in treasure chests\nItems honoring the legacy of The Legend of Zelda series (Majora's Mask, Midna's Helmet, Tingle's Hood, Tingle's Shirt, Tingle's Tights, Phantom Helmet, Phantom Armor, and Phantom Greaves) will be hidden in 8 treasure chests scattered across Hyrule. There are hints to help you find these items hidden somewhere as well. Search for these hints and treasures while you journey across Hyrule!\n\n6. Korok Mask\nThe Korok Mask is an item that will be hidden in a treasure chest somewhere in Hyrule, and unlike the 8 items mentioned above, this one has a special ability. When Link wears this mask, it will shake when a hidden Korok is nearby!\n\nDLC Pack 2: The Champions' Ballad will include the following:\n\n1.\u3000The Champions' Ballad\nA mysterious voice beckons Link to challenge the Divine Beast Tamer's Trials. He must now prove himself by defeating enemies using the One-Hit Obliterator, conquering new Shrines, challenging a full dungeon, and overcoming many trials along the way. Once all challenges and trials have been bested, Link will obtain a new power known as the Master Cycle Zero!\n\nAdditionally, the bard Kass is traveling Hyrule to complete the unfinished song his teacher left behind. As Link and Kass chase their respective goals, Kass will share new original songs he wrote capturing lost memories of the four Champions and Zelda, previously unknown to Link. But that unfinished song... What could it be? \n\n*To play The Champions' Ballad, you must first complete the Main Quest to free the four Divine Beasts. \n\n2.\u30009 clothing items hidden in treasure chests\nItems honoring the legacy of The Legend of Zelda series will be hidden in 9 treasure chests scattered across Hyrule, including the Island Lobster Shirt, Ravio's Hood, Zant's Helmet, Phantom Ganon Skull, Phantom Ganon Armor, Phantom Ganon Greaves, and a Royal Guard outfit (complete with Royal Guard Cap, Royal Guard Uniform, and Royal Guard Boots).\n\n3.\u3000Ancient Horse Gear\nThe Ancient Bridle will increase a horse's number of spurs while equipped. The Ancient Saddle will allow you to call your horse no matter how far away they are. Both of these items will appear in treasure chests somewhere in Hyrule.",
         "languages": null,
         "size": 1401946112,
+        "ids": []
+    },
+    "70070000000121": {
+        "id": null,
+        "rightsId": null,
+        "name": "Mario + Rabbids\u00ae Kingdom Battle : Season Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70070000000121,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Mild Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d35abf1cfd68a3310ef6987c993f4c5227fb290f49d85e546c36c3e7e31866bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3cf2f6d45a6a95934a7e6b1cfb140fe8bbb391c6dd1c8c431ee9aac9a4609090.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/318af4b820384b5b11ee6008370b5016aeb8ce17ff08ce1f38e271fff08e4f58.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bfe7b5bc764e6d3b3748d88fc4557bce9c274ada698102e363433f94a8fccd7d.jpg",
+        "intro": null,
+        "description": "Continue your journey through the twisted Mushroom Kingdom with the Mario + Rabbids Kingdom Battle Season Pass. Get access to exclusive weapons and 2 DLC packs as they\u2019re released.\n\nGet the Steampunk Pack, exclusively with the season pass, which includes an exclusive weapon for all eight heroes in a unique steampunk style.",
+        "languages": null,
+        "size": 1649410048,
         "ids": []
     },
     "70070000000441": {
@@ -35560,6 +37068,40 @@
         "description": "Clash with legions of enemies as Marth, Xander, Corrin, Chrom, and other Fire Emblem warriors by unleashing over-the-top-powerful Dynasty Warriors-style moves. Take control of characters with distinct attacks, issue strategic commands, pair up warriors for stunning moves, and more in an epic tactical action game from the Hyrule Warriors team.\n\nIn the Kingdom of Aytolis, new heroes mystically collide with warriors from across the history of Fire Emblem\u2122, who must band together to face countless enemies and restore the mysterious Shield of Flames to stop the Chaos Dragon. Advance the story to unlock additional playable characters, each with different attacks, weapons, combos, and voiced dialogue. A combination of intense combat and strategic Fire Emblem gameplay offers a take on battling that\u2019s new to the series. Change between heroes anywhere on the battlefield and command them to victory. The materials and gold you earn in battle can be used to upgrade heroes, weapons, and more.",
         "languages": null,
         "size": 17980981248
+    },
+    "70070000000521": {
+        "id": null,
+        "rightsId": null,
+        "name": "Mario + Rabbids Kingdom Battle Gold Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70070000000521,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Mild Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/986ff34d78ac93e916bf799098af020a10cdaafaa82c54a56e20d278d92db357.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98cfa44905742f2f6a4e5e2a98e050d3660c016d244b45c3f7a8fa66e0d233c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebf6f20d26759505901311fc82d34590bbb953a9d9138304c4976433a0c7c489.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3c979a0d216e98d980e7d27cee01ab705b80d5e89883ba4b721b2c48370575a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8ee35160d16420564d87cef88fbd7f4ee7ec020d22347f0c7150ca215461e2ab.jpg",
+        "intro": null,
+        "description": "Two worlds collide in Mario + Rabbids\u00ae Kingdom Battle! Gold Edition includes game and season pass:\n\u2022 8 new solo challenges + 5 co-op maps\n\u2022 16 new weapons.\n\u2022 An exclusive world featuring a new hero, coming in early 2018.\n\nThe Mushroom Kingdom has been torn apart by a mysterious vortex, transporting the chaotic Rabbids into this once-peaceful land. To restore order, Mario, Luigi, Princess Peach, and Yoshi must team up with a whole new crew: four Rabbids heroes! Together, they will battle with weapons through four worlds filled with combat, puzzles, and unpredictable enemies.\n\nDeveloped exclusively for the Nintendo Switch\u2122 system, Mario + Rabbids Kingdom Battle is the best of the Mario and Rabbids franchises, combining all that you love about Mario\u2019s iconic universe with the side-splitting antics of the Rabbids.\n",
+        "languages": null,
+        "size": 4774166528
     },
     "70070000000644": {
         "id": null,
@@ -36311,6 +37853,34 @@
         "languages": null,
         "size": 9961472000
     },
+    "70070000005782": {
+        "id": null,
+        "rightsId": null,
+        "name": "Starlink: Battle for Atlas\u2122 Collection 2 Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70070000005782,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/da77ab22558fe6e50213d55f240c65cdc0338d6df84938679f6c10331dccfbb9.jpg",
+        "intro": null,
+        "description": "Gain the advantage in your battle against the Forgotten Legion with the entire second collection of pilots, starships, and weapons. \n\nMix and match your modular components to create new unique and devastating combos. The Starlink: Battle for Atlas\u2122 Collection 2 Pack* includes: \n\nStarships:\nSkullscream\nVantage\nVigilance\n\nPilots: \nRankor\nFern Wilder\nGalla Joust\nStartail\nHaywire\n\nWeapons:\nTidal Wave\nIce Mine\nJaunt\nGauss Gun\nFury Cannon\nFreeze Ray\nMeteor\nLevitator Mk.2\nVolcano Mk.2\nImploder Mk.2\nNullifier Mk.2\n\nMaximize your team's potential with the complete second wave of the Starlink: Battle for Atlas\u2122 fleet. *Starlink: Battle For Atlas\u2122 game required to play.\n\nDon't have the game yet?  Check out the Starlink: Battle for Atlas\u2122 Deluxe Edition.",
+        "languages": null,
+        "size": 28311552
+    },
     "70070000006021": {
         "id": null,
         "rightsId": null,
@@ -36592,6 +38162,37 @@
         "languages": null,
         "size": 26536312832
     },
+    "70070000006516": {
+        "id": null,
+        "rightsId": null,
+        "name": "MARVEL ULTIMATE ALLIANCE 3: The Black Order and MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190719,
+        "nsuId": 70070000006516,
+        "category": null,
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Suggestive Themes",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dc95cedc0b209d4bd0adf0927320ba44564f0c97784b03a36fd9f6d561e23a33.jpg",
+        "intro": "Assemble your ultimate team of Marvel Super Heroes",
+        "description": "The MARVEL ULTIMATE ALLIANCE series returns for the first time in 10 years\u2014with a new action RPG\u2014exclusively on the Nintendo Switch\u2122 system! Assemble your ultimate team of Marvel Super Heroes from a huge cast including the Avengers, the Guardians of the Galaxy, the X-Men, and more! Team up with friends to prevent galactic devastation at the hands of the mad cosmic tyrant Thanos and his ruthless warmasters, The Black Order.\n\nExpand your adventure and roster of playable characters in the MARVEL ULTIMATE ALLIANCE 3: The Black Order game with the paid Expansion Pass, which grants access to three exclusive DLC packs that will become available as they release one at a time after the game\u2019s launch and will not be available for individual purchase. \n\nThis paid Expansion Pass includes 3 DLC packs, which will become available as they release one at a time after the launch of MARVEL ULTIMATE ALLIANCE 3: The Black Order and will not be sold individually \n\nDLC 1 \u2013 Marvel Knights: Curse of the Vampire\nDLC 2 \u2013 X-Men: Rise of the Phoenix \nDLC 3 \u2013 Fantastic Four: Shadow of Doom\n\n\u2022\tDLC packs will contain new content such as playable characters, modes, and additional story\n\u2022\tIncludes content from popular franchises, like the Fantastic Four, the X-Men, and the Marvel Knights\n\u2022\tFirst DLC pack will be available in Fall 2019 \n\u2022\tPurchase the Expansion Pass to receive an in-game alternative-color chef outfit for Deadpool at game launch.",
+        "languages": null,
+        "size": 19173212160
+    },
     "70070000006541": {
         "id": null,
         "rightsId": null,
@@ -36759,6 +38360,41 @@
         "size": 20971520,
         "ids": []
     },
+    "70070000007342": {
+        "id": null,
+        "rightsId": null,
+        "name": "Asphalt 9: Legends Starting Racer Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70070000007342,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Gameloft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3344428df01283f82184ec85958a2553333df372d92ed827998607f468d67161.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f01043debd8d906f4b794143ea56cfdb384368584cf81203de6fe8dd8e0dfdd7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/230ffbd7859565d897c26b69f904a8963b588f303ed1672b37717a131171de60.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/174d4470060ab4e1fb3102123841f197272cf70ad2a066512073a48227a3059c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/915282535e110c85430c7b9c5a29b7d4f1c84abbe1189fbb28815d98d013e474.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0bd456957621751261e85e7fa22d791275c22d4ce8898fa2d27281f7ca7e34f.jpg",
+        "intro": null,
+        "description": "Get a headstart with the Asphalt 9: Legends Starting Racer Bundle! Unlock incredible supercars and resources to boost your progress, and challenge your friends and family in split-screen multiplayer right from the beginning.\nThis bundle contains:\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Asphalt 9: Legends game\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20 Blueprints to unlock the BMW 3.0 CSL Hommage \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20 Blueprints to unlock the DS Automobiles DS E-Tense \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20 Blueprints to unlock the Lotus Evora Sport 410 \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20 Blueprints to unlock the Dodge Challenger 392 HEMI Scat Pack\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 25 Blueprints to unlock the Porsche 911 Carrera GTS \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 200,000 Credits\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 300 Tokens",
+        "languages": null,
+        "size": 3196059648
+    },
     "70070000007782": {
         "id": null,
         "rightsId": null,
@@ -36788,7 +38424,8 @@
         "intro": null,
         "description": "\"This is a bundle that contains 6 different Face Edit Parts: \"\"Cross Scar\"\", \"\"Suture\"\", \"\"Devil Makeup\"\",  \"\"Robot Makeup\"\", \"\"Animal Makeup\"\" and \"\"one eye closed\"\".\n\n\u203bContent included in this bundle can be purchased individually. Please be careful not to purchase the  same thing twice.\n\u203bYou will need the production version of DAEMON X MACHINA to use this content.\n\u203bThis content is not equipment, and is purely cosmetic. There are no status changes when using this content.\"",
         "languages": null,
-        "size": 25165824
+        "size": 25165824,
+        "ids": []
     },
     "70070000007801": {
         "id": null,
@@ -36819,7 +38456,8 @@
         "intro": null,
         "description": "\"This is a bundle that contains 6 different Hair Edit parts: \"\"Punk\"\", \"\"Large Mohawk\"\", \"\"Long w/ Visor\"\", \"\"Wolf w/ goggles\"\", \"\"Ponytail w/ Headphones\"\" and  \"\"Mash\"\".\n\n\u203bContent included in this bundle can be purchased individually. Please be careful not to purchase the  same thing twice.\n\u203bYou will need the production version of DAEMON X MACHINA to use this content.\n\u203bThis content is not equipment, and is purely cosmetic. There are no status changes when using this content.\"\n",
         "languages": null,
-        "size": 25165824
+        "size": 25165824,
+        "ids": []
     },
     "70070000007802": {
         "id": null,
@@ -36850,7 +38488,8 @@
         "intro": null,
         "description": "\"This bundle includes 5 different Surfaces for your Arsenal: \"\"Pearl White\"\", \"\"Champagne Gold\"\",  \"\"Waves\"\", \"\"Blossoms\"\" and \"\"Wood Grain\"\"\n\n\u203bContent included in this bundle can be purchased individually. Please be careful not to purchase the  same thing twice.\n\u203bYou will need the production version of DAEMON X MACHINA to use this content.\n\u203bThis content is not equipment, and is purely cosmetic. There are no status changes when using this content.\"",
         "languages": null,
-        "size": 20971520
+        "size": 20971520,
+        "ids": []
     },
     "70070000008041": {
         "id": null,
@@ -37548,6 +39187,41 @@
         "languages": null,
         "size": 6122635264
     },
+    "70070000010241": {
+        "id": null,
+        "rightsId": null,
+        "name": "Asphalt 9: Legends \u2013 High-Gear Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70070000010241,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Gameloft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/84c2565cd1f570e2f85872e2fdbe85f064d7f477b521239546014f918e486351.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e383114d04901664a606a81a753bcb34e69cd702496c5f760b916d8548bd9ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3c1dce823b6a11e525f44a76398237044f239ef737fafcc6e2dae15261fdd579.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11fabddc5c38fbfa161ebbcdd53b66e37073bc20c1cd0ab615e708a4e1559d5f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ff8b6bdadaa9ba5166422668a1a174ce1e7435e8b7c1a120509201e3b77839b0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b78179ee108b8f83191d82e294fe18b08d075a2158eb03e9c4430e16064baa1.jpg",
+        "intro": null,
+        "description": "Fire up your engine and unlock five of the most powerful Asphalt beasts, along with a bag full of resources to help you on your path to becoming a Nintendo Switch\u2122 legend.\nThe pack contains:\n\u2022         Asphalt 9: Legends game\n\u2022         30 Blueprints to unlock the Ferrari F12tdf\n\u2022         45 Blueprints to unlock the Aston Martin Vulcan\n\u2022         40 Blueprints to unlock the SCG 003S\n\u2022         30 Blueprints to unlock the SIN R1 550\n\u2022         45 Blueprints to unlock the Dodge Viper GTS\n\u2022         300,000 Credits\n\u2022         200 Tokens",
+        "languages": null,
+        "size": 3196059648
+    },
     "70070000010402": {
         "id": null,
         "rightsId": null,
@@ -37579,6 +39253,42 @@
         "languages": null,
         "size": 10089398272,
         "ids": []
+    },
+    "70070000010501": {
+        "id": null,
+        "rightsId": null,
+        "name": "Asphalt 9: Legends Triple Threat Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70070000010501,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Gameloft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a4a40537d63bcffd09cb497e58bde0ea6c7584b410ac76d9ddff0384e877f083.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7848afabbeb52e32f58f53e2f6ce9eb489b3a8e22e414760ce38e8c5453d9f56.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d3a7fb1109e54220e3e302d0422e325e032c38c659c98f811f73cc5eaca286b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f226454523509b3f70ce8fb73d673e4813dd2f8659284961435c5956ecbbddc9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da1cd1bfd5c8ed8764354b55bba48898346189ad202942d6a633efbddf8f0f08.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3607fedf3ed2129b662ca62c83eeec707426468a6e0d0f5f841447328eda69b8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d03587b601922e4996f3e0174e4a183e9b2a0fc8882ca53d771b786a3d3a84aa.jpg",
+        "intro": null,
+        "description": "Get on the fast track to becoming a Legend with the Triple Threat Bundle! Feel the unbridled power of 3 exclusive Class-C cars, plus a load of resources to fuel your drive to the top!\nThis bundle contains:\n\u2022 Asphalt 9: Legends game\n\u2022 50 Blueprints to unlock the Artega Scalo Superelletra\n\u2022 35 Blueprints to unlock the Maserati Alfieri\n\u2022 35 Blueprints to unlock the Arrinera Hussarya 33\n\u2022 1 exclusive decal for the Artega Scalo Superelletra\n\u2022 750,000 Credits \n\u2022 750 Tokens",
+        "languages": null,
+        "size": 3196059648
     },
     "70070000010562": {
         "id": null,
@@ -38043,6 +39753,39 @@
         "languages": null,
         "size": 44661997568
     },
+    "70070000011097": {
+        "id": null,
+        "rightsId": null,
+        "name": "Asphalt 9: Legends -- Italian Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70070000011097,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Gameloft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8c5e9690fa9706c3a12c9c8ea703ddade5d754fddd84df8951646b9ab6dd72a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c232531f53b8adc3eca76d37470822c7dae225502101de63d0ab71a0e2ef9388.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/208aafa4cdfbec4ef6b0cdb45c49fc98dc40fd74644f4f1a99315d0b80ca690b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b29f43b69f380953564ccfa672707980d07aaa1805894468f0ac61a68bace066.jpg",
+        "intro": null,
+        "description": "Get a taste of some of the best Italian car manufacturers with 3 class-A vehicles from Ferrari, Lamborghini and Pagani. And boost your progression with Tokens and Credits, also included in this bundle! \nThis bundle contains:\n\u2022 The Asphalt 9: Legends game\n\u2022 50 blueprints to unlock the Ferrari 812 Superfast\n\u2022 50 blueprints to unlock the Lamborghini Aventador J\n\u2022 50 blueprints to unlock the Pagani Huayra BC\n\u2022 1,300,000 Credits\n\u2022 1,300 Tokens",
+        "languages": null,
+        "size": 3196059648
+    },
     "70070000011160": {
         "id": null,
         "rightsId": null,
@@ -38306,7 +40049,7 @@
         "intro": null,
         "description": "Get the complete collection of one of the most iconic games with the UNO\u00ae Ultimate Edition, containing UNO\u00ae, UNO FLIP!\u2122, UNO\u00ae Fenyx's Quest, plus themed cards featuring  Just Dance\u00ae 2017, Rayman\u00ae, and more.  Match cards by color or value to race against other players. Try UNO FLIP!\u2122 for a new twist to the match, flipping the whole game to the dark side by using the fun new action cards like Draw Five and Skip Everyone! Play in the Golden Isle and gain the support of powerful gods and goddesses with the all-new UNO\u00ae Fenyx's Quest, an action-packed new game mode featuring characters from Immortals Fenyx Rising\u2122.  And add more to your deck with the additional themed decks to really change the way you play!",
         "languages": null,
-        "size": 4392484864
+        "size": 4405067776
     },
     "70070000011679": {
         "id": null,
@@ -38333,7 +40076,7 @@
         "intro": "Your instructors are holding nothing back!",
         "description": "Dial up the intensity to No Mercy for all 9 instructors: Lin, Evan, Karen, Hiro, Sophie, Martina, Janice, Laura and Bernardo.\n\nNow you can try Low, High, and the new No Mercy intensity. The instructors you know as good-natured and mellow will show you their ruthless side. They are ready to put you through your paces!",
         "languages": null,
-        "size": 99614720
+        "size": 90177536
     },
     "70070000011748": {
         "id": null,
@@ -38399,6 +40142,39 @@
         "languages": null,
         "size": 6969884672
     },
+    "70070000011773": {
+        "id": null,
+        "rightsId": null,
+        "name": "Asphalt 9: Legends Multiplayer Champion Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70070000011773,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Gameloft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/94b6f88936d112570472007ab18ce67d281a1d6ad16b9adfe30920a1f61d6227.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e54a1dcda3a41a3ca0a677ed55e131580273529142fca397be7c1dd614bcd58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7caed80adbc45f14a67ab95532aebf09b7cdbf58f20dba2abcee85603cb2add9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/70dc55d8dadc07cb6ed5b8a8c1a69e50e9ab2a671186296ca25ec166b85853aa.jpg",
+        "intro": null,
+        "description": "Dominate the Multiplayer Seasons by unlocking these high-performance power cars, including the 2-STAR Lotus Elise Sprint 220, the Pininfarina H2 Speed, and the Chevrolet Corvette Grand Sport. You\u2019ll also receive a bundle of Tokens and Credits to help accelerate your progress.\nThis pack contains:\nThe Asphalt 9: Legends game\n30 Blueprints to unlock the 2-STAR Lotus Elise Sprint 220\n35 Blueprints to unlock the Pininfarina H2 Speed\n30 Blueprints to unlock the Chevrolet Corvette Grand Sport\n1,500,000 Credits\n1,500 Tokens",
+        "languages": null,
+        "size": 3195011072
+    },
     "70070000011785": {
         "id": null,
         "rightsId": null,
@@ -38456,7 +40232,8 @@
         "intro": null,
         "description": "Contains the following content. \n\nHunter layered armor pieces:\n\u25cf Fox Mask\n\u25cf Theater Wig\n\u25cf Wyverian Earrings\n\nBuddy layered amor sets:\n\u25cf Nine Tails (Palico)\n\u25cf Long Coat Costume (Palamute)\n\nGestures & poses:\n\u25cf High Five gesture\n\u25cf Attack pose set\n\u25cf Hurt pose set\n\nHunter appearance options:\n\u25cf Eye Shadow makeup\n\u25cf Hero face paint\n\u25cf Spread Wings makeup\n\u25cf Airy Short Bob hairstyle\n\u25cf Beachy Waves hairstyle\n\u25cf Great Baggi Crest hairstyle\n\nHunter voices:\n\u25cf Master Utsushi\n\u25cf Hinoa the Quest Maiden\n\nCohoot outfits:\n\u25cf Wind-Up Cohoot\n\u25cf Fluffy Hood\n\nAll content is cosmetic and does not confer any status benefits.\n\nNote: After purchasing, speak to the Courier and select Add-on Content to receive layered armor and outfits. You will then be able to use the Hunter and Buddy items in the Layered Armor Settings of the Item Box and Buddy Board, and the Cohoot items in the Change Clothes section of the Pet menu. For hunter appearance options and voices, select Change Appearance in the Item Box to apply to your hunter.\n",
         "languages": null,
-        "size": 56623104
+        "size": 56623104,
+        "ids": []
     },
     "70070000012086": {
         "id": null,
@@ -38487,7 +40264,8 @@
         "intro": null,
         "description": "This monstrously large bundle contains a variety of fun add-on content:\n\n- Hunter content: 3 x Layered Armor pieces, 2 x facepaints, 2 x hairstyles, 2 x voices\n- Buddy content: 4 x Palico Layered Armor pieces, 4 x Palamute Layered Armor pieces\n- Other content: 2 Cohoot outfits, 8 music tracks, a set of 4 gestures, additional stickers\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. Details of where to access the content can be found on each item's page.",
         "languages": null,
-        "size": 75497472
+        "size": 75497472,
+        "ids": []
     },
     "70070000012150": {
         "id": null,
@@ -38525,7 +40303,7 @@
         "intro": "Monster Hunter's turn-based RPG series returns with its second installment! Will your special bond with these monsters bring hope or destruction?",
         "description": "The Deluxe Edition of Monster Hunter Stories 2: Wings of Ruin contains a variety of additional content to enhance your experience with the game.\n\n \u30fb Ena's Outfit: Kuan Coat\n \u30fb Rider's Layered Armor: Razewing Armor Alpha \uff06 Beta\n \u30fb Rider's Hairstyle: Spiky Nergal\n \u30fb Navirou's Outfits: Nergigante and Pukei-Pukei Costumes\n \u30fb Sticker Sets: Adventure Buddies 2 & 3\n\nNote: This additional content is also available separately in the Monster Hunter Stories 2: Wings of Ruin Deluxe Kit. Some content will only become useable after progressing through the game.\n\nA new adventure awaits you in this second installment of the turn-based RPG series set in the world of Monster Hunter! Become a Rider and form bonds with friendly monsters known as Monsties to fight alongside them as you take part in an epic story.\n\nYou play as the grandchild of Red, a legendary Rider. The story begins with a fateful encounter with Ena, a Wyverian girl who has been entrusted with an egg with the potential to hatch into a legendary Rathalos which could wreak havoc if awakened to its destructive power.\n\nEmbark on a journey which will test the bonds of friendship in a changing world, and discover the truth behind the legends of old.",
         "languages": null,
-        "size": 14718861312
+        "size": 15136194560
     },
     "70070000012256": {
         "id": null,
@@ -38687,7 +40465,8 @@
         "intro": null,
         "description": "This monstrously large bundle contains a variety of fun add-on content:\n\n- Hunter content: 4 x Layered Armor pieces, 2 x facepaints, 2 x hairstyles, 2 x voices\n- Buddy content: 1 x Palico Layered Armor piece, 1 x Palamute Layered Armor pieces\n- Other content: 2 Cohoot outfits, 2 music track sets, 2 pose sets, additional stickers\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. Details of where to access the content can be found on each item's page.",
         "languages": null,
-        "size": 59768832
+        "size": 59768832,
+        "ids": []
     },
     "70070000012376": {
         "id": null,
@@ -38826,7 +40605,8 @@
         "intro": null,
         "description": "This monstrously large bundle contains a variety of fun add-on content:\n\n- Hunter content: 4 x Layered Armor pieces, 2 x facepaints, 1 x hairstyle, 2 x voices\n- Buddy content: 1 x Palico Layered Armor piece, 1 x Palamute Layered Armor piece\n- Other content: 2 Cohoot outfits, 1 music track set, 1 gesture set, 1 sticker set\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. Details of where to access the content can be found on each item's page.",
         "languages": null,
-        "size": 50331648
+        "size": 50331648,
+        "ids": []
     },
     "70070000012480": {
         "id": null,
@@ -38897,7 +40677,8 @@
         "intro": null,
         "description": "Experience the story beyond the base game with the Minecraft Dungeons: Ultimate DLC Bundle. You\u2019ve played the main story, but now it\u2019s time to see it through to the End! Fight countless mobs, explore dimension-hopping levels, and discover untold treasures as you complete the story of the Orb of Dominance. Grab the Ultimate DLC Bundle and get all six DLCs: Jungle Awakens, Creeping Winter, Howling Peaks, Flames of the Nether, Hidden Depths, and Echoing Void. By purchasing the bundle, you\u2019ll get all six DLCs at a lower price than if you purchased them separately. Complete the story with the Ultimate DLC Bundle!\n",
         "languages": null,
-        "size": 29360128
+        "size": 29360128,
+        "ids": []
     },
     "70070000012493": {
         "id": null,
@@ -38961,7 +40742,8 @@
         "intro": null,
         "description": "Contains the following content:\n\nEna's Outfits:\n\u25cf Tropical Dress\n\u25cf Felyne Shelter Garb\n\u25cf Ancient Raiment\n\u25cf Cheerleader Three-Pack (Blue/Orange/Pink)\n\nNavirou's Outfits:\n\u25cf Downy Duds\n\u25cf Kulu-Ya-Ku Costume\n\u25cf Legiana Costume\n\u25cf Paolumu Costume\n\u25cf Anjanath Costume\n\u25cf Fulgur Anja Costume\n\u25cf Velkhana Costume\n\nRider's Hairstyles:\n\u25cf Shaggy Legiana\n\u25cf Lumu Afro\n\u25cf Mizutsune Braid\n\u25cf Mohawk Kulu\n\nAll content is cosmetic and does not confer any status benefits.\n\nNote: After purchasing, restart the game to receive add-on content. Outfits and hairstyles can be changed using the chest in Your House after progressing the game to a certain point. Each item is also available for individual purchase.",
         "languages": null,
-        "size": 67108864
+        "size": 67108864,
+        "ids": []
     },
     "70070000012538": {
         "id": null,
@@ -38998,7 +40780,8 @@
         "intro": null,
         "description": "Contains the following content:\n\nEna's Outfits:\n\u25cf Tropical Dress\n\u25cf Felyne Shelter Garb\n\u25cf Ancient Raiment\n\u25cf Cheerleader Three-Pack (Blue/Orange/Pink)\n\nAll content is cosmetic and does not confer any status benefits.\n\nNote: After purchasing, restart the game to receive add-on content. Outfits can be changed using the chest in Your House after progressing the game to a certain point. Each item is also available for individual purchase.",
         "languages": null,
-        "size": 31457280
+        "size": 31457280,
+        "ids": []
     },
     "70070000012539": {
         "id": null,
@@ -39031,7 +40814,8 @@
         "intro": null,
         "description": "Contains the following content:\n\nNavirou's Outfits:\n\u25cf Downy Duds\n\u25cf Kulu-Ya-Ku Costume\n\u25cf Legiana Costume\n\u25cf Paolumu Costume\n\u25cf Anjanath Costume\n\u25cf Fulgur Anja Costume\n\u25cf Velkhana Costume\n\nAll content is cosmetic and does not confer any status benefits.\n\nNote: After purchasing, restart the game to receive add-on content. Outfits can be changed using the chest in Your House after progressing the game to a certain point. Each item is also available for individual purchase.",
         "languages": null,
-        "size": 23068672
+        "size": 23068672,
+        "ids": []
     },
     "70070000012540": {
         "id": null,
@@ -39068,7 +40852,8 @@
         "intro": null,
         "description": "Contains the following content:\n\nRider's Hairstyles:\n\u25cf Shaggy Legiana\n\u25cf Lumu Afro\n\u25cf Mizutsune Braid\n\u25cf Mohawk Kulu\n\nAll content is cosmetic and does not confer any status benefits.\n\nNote: After purchasing, restart the game to receive add-on content. Hairstyles can be changed using the chest in Your House after progressing the game to a certain point. Each item is also available for individual purchase.\n",
         "languages": null,
-        "size": 12582912
+        "size": 12582912,
+        "ids": []
     },
     "70070000012571": {
         "id": null,

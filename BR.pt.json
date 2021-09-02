@@ -6888,7 +6888,7 @@
             "ru",
             "zh"
         ],
-        "size": 2091909120
+        "size": 2097152000
     },
     "70010000026113": {
         "id": "01004F500F9E4000",
@@ -6956,8 +6956,7 @@
             "Outros"
         ],
         "ratingContent": [
-            "Viol\u00eancia",
-            "Linguagem Impr\u00f3pria"
+            "Viol\u00eancia"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
@@ -7402,6 +7401,49 @@
         ],
         "size": 5667553280
     },
+    "70010000028005": {
+        "id": "01005790110F0000",
+        "rightsId": null,
+        "name": "Cobra Kai: The Karate Kid Saga Continues",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70010000028005,
+        "category": [
+            "A\u00e7\u00e3o",
+            "Arcade",
+            "Luta",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Drogas L\u00edcitas",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Game Mill",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7e0cdc2f9dfb28f6e022d686be1005418ef546dd0e7d21b18794b84559283ce1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c858f69ac4b5fdbb6fb1b1bcfca8691d446e223cb7888060afe4eab095d89537.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd4df7b74730a52b9367074e86e1c3d3dc0c891890d491fb92711174cee538de.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ecd731a9a358dea6d3da05da2206ff34cb2b51502c12272bd30ca686b140ef7d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eeb665458ec508b58cb307c4c9055ce26643c848dd0dfaeb6e5b09fad69e9633.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2402b02fff3e01b0550f814c52b3d0d3dcc94b46f5b3cdcce129afd8db8214e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da3f407176c704341c4305c98a18d969e0a830873f99983f55e841346aa7c868.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/70dbe9ae01db04ef258aff225309b3270146b8e30ef24579e96d43787de7e6fa.jpg",
+        "intro": null,
+        "description": "Escolha um lado, domine seus movimentos e aceite seu destino em uma aventura de briga de rua inspirada na s\u00e9rie de sucesso. Assuma o controle de 8 personagens jog\u00e1veis com golpes intensos, combos, progress\u00e3o, trocas de personagens em tempo real, ataques supremos e muito mais! Trinta e quatro anos ap\u00f3s os acontecimentos do 1984 All Valley Karate Tournament, a rivalidade entre Daniel LaRusso e Johnny Lawrence continua. Agora a luta est\u00e1 nas suas m\u00e3os!\n \n\u2022Narrativa dupla - Apresentamos uma nova narrativa repleta de cenas exclusivas e escolhas de di\u00e1logos para controlar Daniel e seus alunos no Karat\u00ea Miyagi-Do durante uma campanha de narrativa. Ou escolha seus rivais, Johnny Lawrence e seus disc\u00edpulos em Cobra Kai para jogar a hist\u00f3ria deles. Ao concluir as duas hist\u00f3rias, um final incr\u00edvel ser\u00e1 revelado.\n\n\u2022Progress\u00e3o de Doj\u00f4 como em RPG - Domine 40 habilidades exclusivas e aprimore os atributos dos seus personagens conforme luta karat\u00ea com os seus inimigos.\n\n\u2022Sistema de troca de personagens - Escolha o seu Doj\u00f4 e alterne facilmente entre seus personagens preferidos do jogo, incluindo Daniel do Miyagi Do, Robby, Sam e Demetri ou Johnny do Cobra Kai, Miguel, Hawk e Tory.\n\n\u2022Viva o Universo de Cobra Kai - Explore Los Angeles em 28 miss\u00f5es repletas de personagens e inimigos da s\u00e9rie!\n\n\u2022Experi\u00eancia Cobra Kai aut\u00eantica - Com as vozes de William Zabka, Ralph Macchio e outros membros de alto n\u00edvel do elenco, al\u00e9m de uma trilha sonora exclusiva dos criadores da s\u00e9rie Cobra Kai.\n",
+        "languages": [
+            "en"
+        ],
+        "size": 5313134592
+    },
     "70010000028117": {
         "id": "0100CFA0111C8000",
         "rightsId": null,
@@ -7627,7 +7669,7 @@
             "it",
             "ru"
         ],
-        "size": 14692646912
+        "size": 15109980160
     },
     "70010000028551": {
         "id": "0100BE5011486000",
@@ -11321,7 +11363,7 @@
             "en",
             "de"
         ],
-        "size": 460324864
+        "size": 459276288
     },
     "70010000034733": {
         "id": "01001E0013208000",
@@ -12055,12 +12097,11 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4a7535fd6e4a4b613df8f245f55e987fefa86efd01d825a2e0f091c7304cf661.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/b5d2cf5f9298d9581597bce532dd6fbbee72c28d769a23b638eae024bf9c805a.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/68901826f3c1daff2c350d045f0d418e6aae6871987cb607902270e4fa54c19a.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/0bb87a61088a3656f9141a9ceec4efa658503f3a6fec643183bfd19561bac4ec.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/9ad8b769001dd9001558a094e64468d4f2951ebd94cf41f15470e2431b3284eb.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/91de3e796bcf65827ff10c3e3466b8b55d3cf7f1d175eac940532c65cbf5a2d8.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/3e4bd050ee19d15df02ce940356f807d8c65411d6da5ef57223b816ad4fe502d.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/4f518b52ea16634c19d80c6b257ca4a99da79bd10989b85f53701a428aa728d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb50c22b693568790e11581eceeec96e83ebb0004ebef4894fc2d73d01689a8b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24b3365ab1b5de98bfe2a0cbd6a2d1c6f75d78c14a0dbede1a3139bb70f376d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f49d63d44599edb1c7e6f8ccc55374bd9d8433753ab612718abf850027965311.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8810a40c4cfbb987a4af198d7d0d9dd179342c1269c71599166daf1b6e197ba7.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/58fd26d05aa67ed8f4a8bf2e7561e412ebae0e646ef429456846e7efebd67c34.jpg",
         "intro": "Explore a casa de Hello Neighbor com seus amigos, mas cuidado: um de voc\u00eas \u00e9 o Vizinho disfar\u00e7ado. ",
@@ -12178,6 +12219,51 @@
             "zh"
         ],
         "size": 3449815040
+    },
+    "70010000035337": {
+        "id": "010051C0134F8000",
+        "rightsId": null,
+        "name": "DRAGON BALL Z: KAKAROT + CONJUNTO UM NOVO PODER DESPERTA",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70010000035337,
+        "category": [
+            "A\u00e7\u00e3o",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a461461c3ada3a1501a4544f994ce20ab7bf91a8818fcf85c326ef7c30d99656.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bcf6ecbf8f11ab4fcbf25549a2bd2417b7d7f25f2abbb1fa3eb92c3b1aff6d36.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e79bcbd96f39bee85f2b7646c494200dc8e40ccf2643510568cbd5014b3ee29.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/79e051ef42b3d7386058fcef643cae0b5ee8cad02a0d79cd057600800276f266.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e6a8cd503f22d630bd15208c0386cdba326474fe09889f1e3030223675659ff1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f27ba1544d6da1af2d8e785ab9fe4422ece925a14338cd5867489535b384a32.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d64750c441884a7e32c87b10758cec85ea0ccfc65dafce5e0aba3440ddb4cf93.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b1a24f3277a22d409e7f5c42e533cc94ace555a5ccd8ebcd3ca5b2f19dcb4d45.jpg",
+        "intro": "Viva novamente a hist\u00f3ria de Goku e outros Guerreiros Z em DRAGON BALL Z: KAKAROT!",
+        "description": "O JOGO\n\u2022 Vivencie a hist\u00f3ria de DRAGON BALL Z, de eventos \u00e9picos a miss\u00f5es secund\u00e1rias divertidas, incluindo momentos in\u00e9ditos da hist\u00f3ria que respondem a algumas quest\u00f5es pendentes da hist\u00f3ria de DRAGON BALL pela primeira vez!\n\n\u2022 Jogue por meio de batalhas ic\u00f4nicas de DRAGON BALL Z em uma dimens\u00e3o diferente de qualquer outra. Lute em vastos campos de batalha com ambientes destrut\u00edveis e vivencie batalhas \u00e9picas de chefes contra os inimigos mais ic\u00f4nicos (Raditz, Freeza, Cell etc.). Aumente seu n\u00edvel de poder com a mec\u00e2nica RPG e encare desafios!\n\n\u2022 V\u00e1 al\u00e9m de lutas como um Guerreiro Z. Viva como um! Pesque, voe, coma, treine e lute atrav\u00e9s das sagas de DRAGON BALL Z, fa\u00e7a amigos e construa relacionamentos com um elenco enorme de personagens de DRAGON BALL.\n\nCONJUNTO DE UM NOVO PODER DESPERTA\n\u2022 V\u00e1 al\u00e9m da hist\u00f3ria de DRAGON BALL Z e vivencie mais duas batalhas de chefes, com o conjunto de um novo poder desperta! Domine o poder dos deuses para desafiar o Lorde Bills e v\u00e1 ainda mais longe para combater o Freeza Dourado com o poder do Super Saiyajin Azul!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 17768120320
     },
     "70010000035526": {
         "id": "0100A780135C8000",
@@ -14867,7 +14953,10 @@
             "Plataforma",
             "Puzzle"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Linguagem Impr\u00f3pria",
+            "Viol\u00eancia Fantasiosa"
+        ],
         "numberOfPlayers": 1,
         "rating": 0,
         "developer": null,
@@ -18108,7 +18197,7 @@
             "fr",
             "de"
         ],
-        "size": 1632632832
+        "size": 1853882368
     },
     "70010000039015": {
         "id": "01004060145C0000",
@@ -22029,6 +22118,54 @@
         ],
         "size": 125829120
     },
+    "70010000040238": {
+        "id": "01005F2014B80000",
+        "rightsId": null,
+        "name": "Flynn: Son of Crimson",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210915,
+        "nsuId": 70010000040238,
+        "category": [
+            "Aventura",
+            "A\u00e7\u00e3o",
+            "Plataforma",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Fantasiosa"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Humble Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cc446a3c81b5666215ab4453955de72fe4bb5cf266ba886f5808380db24bb270.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f58bb535637b51259a73bc497d8a9418b6b35c31ff42223f2f65668dfe091db0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3c6c507919137a3ddb44a1ab33d100374ae5a8e59ef05a31a47721c3111d24c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec5bf62289de3079252bb89cb46a0e92f104593e8fad8242aef1bbbe2678be90.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08c61c4b709eeeeb38dd4e6c3e3e3c90603aa40cf125670d11a3cc1f7419845f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2885330daf25d140ad97499f388191a8ed71b1ec7c471da1493172d24f840a5f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/79f85005a954081458f50e5d61c39c84cdde650dc4311ec880d6665a4682866a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e2ee0ed32d0b10c26270db4e0a7d086cea5bbe0ce116feeebbd25bbfc2083cd5.jpg",
+        "intro": "Embarque em uma jornada com Flynn e sua companheira m\u00edtica Dex na luta para salvar Rosantica, sua terra natal, da amea\u00e7a da Praga. ",
+        "description": "A paz em Rosantica foi amea\u00e7ada novamente\n\nA linda e pac\u00edfica ilha de Rosantica est\u00e1 sendo amea\u00e7ada mais uma vez por um mal implac\u00e1vel. A barreira m\u00e1gica entre Rosantica e a Praga come\u00e7ou a rachar, permitindo que criaturas perigosas penetrassem lentamente para tomar conta da ilha. Flynn se depara com essa invas\u00e3o e descobre que precisa encarar a Praga para impedir que ela se espalhe por Rosantica. Junto com sua companheira m\u00edtica Dex, o esp\u00edrito guardi\u00e3o da terra, Flynn enfrentar\u00e1 todo o mal da Praga e de seu poderoso l\u00edder.\n\nJogo de a\u00e7\u00e3o de plataforma cl\u00e1ssico 2D\n\nFlynn: Son of Crimson \u00e9 um jogo de a\u00e7\u00e3o de plataforma 2D feito \u00e0 m\u00e3o que vai levar voc\u00ea em uma jornada de descobertas e conflitos no caminho para dominar a arte da Energia Rubra. Ajude Flynn e Dex a salvarem Rosantica antes que o mal da Praga domine essas terras.\n\nFlynn e Dex\n\nInvoque sua companheira m\u00edtica e protetora Dex quando precisar e voe com ela na jornada para salvar Rosantica. Dex ser\u00e1 excepcional para derrubar paredes estra\u00e7alhar horas de inimigos. Ela \u00e9 a melhor cachorrinha que um garoto como o Flynn poderia querer!\n\nO la\u00e7o entre Flynn e Dex \u00e9 de amizade, prote\u00e7\u00e3o m\u00fatua e amor verdadeiro. Com o perigo iminente da Praga, Flynn e Dex mergulham de focinho na batalha.\n\nExplore Rosantica e o Mundo da Praga \n\nExplore Rosantica com suas regi\u00f5es \u00fanicas, cada uma com antigos mist\u00e9rios a revelar. Junte rel\u00edquias ao longo da jornada e descubra novos caminhos na batalha pela vit\u00f3ria. \n\nA Praga \u00e9 um mundo sombrio e cheio de \u00f3dio que tenta infestar e destruir as belezas de Rosantica. Voc\u00ea precisar\u00e1 entrar nesse mundo sinistro para encarar Zealock, o lorde dessa dimens\u00e3o, e Rozia, seu guerreiro misterioso que empunha adagas. \n\nAceite o poder da Energia Rubra \n\nFlynn descobre que tem poderes que nunca soube e que foram herdados de uma linhagem misteriosa. Desvende o poder da Energia Rubra para ajudar Flynn a dominar essa sua nova face.\n\nA L\u00e2mina Rubra, item ic\u00f4nico do arsenal de Flynn, \u00e9 a primeira arma de Energia Rubra dada a Flynn pela Deusa Sorrell em um momento de grande necessidade. Desbloqueie investidas e cortes verticais para destruir inimigos sinistros.\n\nOMachado Rubro exige tempo preciso e antecipa\u00e7\u00e3o aos movimentos dos inimigos, trocando os cortes r\u00e1pidos da L\u00e2mina Rubra por golpes mais pesados. Use o machado para esmigalhar escudos inimigos e destruir paredes fr\u00e1geis para acessar novas \u00e1reas na base da for\u00e7a bruta.\n\nAs Garras Rubras s\u00e3o um conjunto de armas energ\u00e9ticas e \u00e1geis usadas para atordoar inimigos com ataques velozes e pelo alto. Liberte o felino em voc\u00ea com saltos de paredes e ataques em espiral para destruir inimigos rapidamente.\n\nTorne-se um verdadeiro mestre dos elementos\n\nA magia elemental nas formas de fogo, gelo e trov\u00e3o ser\u00e1 desbloqueada por uma muta\u00e7\u00e3o natural com a flora de Rosantica.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 170917888
+    },
     "70010000040279": {
         "id": "010073E014BAE000",
         "rightsId": null,
@@ -25109,7 +25246,7 @@
         "languages": [
             "en"
         ],
-        "size": 532676608
+        "size": 848297984
     },
     "70010000041183": {
         "id": "010004701504A000",
@@ -25741,7 +25878,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c42d41f496b1db14edd2b065b9ae0d8ced4f9f04bb84d37ac067811fcf9c43b9.jpg",
         "intro": "Um jogo de quebra-cabe\u00e7as relaxante, cheio de hex\u00e1gonos.  Use seu pensamento cr\u00edtico e nossas mec\u00e2nicas de jogo estimulantes para avan\u00e7ar por centenas de n\u00edveis!",
-        "description": "Um jeito moderno de jogar um cl\u00e1ssico dos quebra-cabe\u00e7as! Abra caminho pelos hex\u00e1gonos para descobrir quais espa\u00e7os s\u00e3o seguros e quais ocultam perigos! \nRelaxe e receba sua recompensa!\n\nN\u00fameros mostram a voc\u00ea quantos perigos est\u00e3o em volta do hex\u00e1gono! \nJogue apenas com o mouse! Cada clique revela ainda mais informa\u00e7\u00f5es para voc\u00ea progredir na fase! \n\nAprenda sobre as pe\u00e7as especiais que d\u00e3o informa\u00e7\u00f5es valiosas de maneiras novas e intrigantes! \nLinhas para dire\u00e7\u00f5es, muros para bloquear e muito mais para voc\u00ea descobrir! \nDescubra o que cada mec\u00e2nica oferece ou tira de voc\u00ea! \n\nCada uma das pe\u00e7as tem uma resposta! \nUse seu pr\u00f3prio pensamento cr\u00edtico combinado com as informa\u00e7\u00f5es reveladas para dar cliques precisos! \nCuidado para n\u00e3o clicar no hex\u00e1gono errado! \n\nCentenas de n\u00edveis!  \nCada n\u00edvel tem um layout \u00fanico, com um quebra-cabe\u00e7a novinho em folha para voc\u00ea resolver! \nForme o mapa do mundo passando fases! \nChegue at\u00e9 o final coletando todos os marcos ou opte por uma jornada tranquila e passe por cada um dos n\u00edveis secund\u00e1rios no caminho! ",
+        "description": "Um jeito moderno de jogar um cl\u00e1ssico dos quebra-cabe\u00e7as! Abra caminho pelos hex\u00e1gonos para descobrir quais espa\u00e7os s\u00e3o seguros e quais ocultam perigos! \nRelaxe e receba sua recompensa!\n\nN\u00fameros mostram a voc\u00ea quantos perigos est\u00e3o em volta do hex\u00e1gono! Cada bloco revela ainda mais informa\u00e7\u00f5es para voc\u00ea progredir na fase! \n\nAprenda sobre as pe\u00e7as especiais que d\u00e3o informa\u00e7\u00f5es valiosas de maneiras novas e intrigantes! \nLinhas para dire\u00e7\u00f5es, muros para bloquear e muito mais para voc\u00ea descobrir! \nDescubra o que cada mec\u00e2nica oferece ou tira de voc\u00ea! \n\nCada uma das pe\u00e7as tem uma resposta! \nUse seu pr\u00f3prio pensamento cr\u00edtico combinado com as informa\u00e7\u00f5es reveladas para dar cliques precisos! \nCuidado para n\u00e3o clicar no hex\u00e1gono errado! \n\nCentenas de n\u00edveis!  \nCada n\u00edvel tem um layout \u00fanico, com um quebra-cabe\u00e7a novinho em folha para voc\u00ea resolver! \nForme o mapa do mundo passando fases! \nChegue at\u00e9 o final coletando todos os marcos ou opte por uma jornada tranquila e passe por cada um dos n\u00edveis secund\u00e1rios no caminho! ",
         "languages": [
             "ja",
             "en",
@@ -26905,10 +27042,11 @@
             "Outros"
         ],
         "ratingContent": [
-            "Viol\u00eancia Fantasiosa"
+            "Viol\u00eancia",
+            "Conte\u00fado Sexual"
         ],
         "numberOfPlayers": 1,
-        "rating": 0,
+        "rating": 12,
         "developer": null,
         "publisher": "Headup Games",
         "frontBoxArt": null,
@@ -28656,7 +28794,7 @@
             "en",
             "ko"
         ],
-        "size": 92274688
+        "size": 131072000
     },
     "70010000042269": {
         "id": "010009E0154C0000",
@@ -28865,7 +29003,7 @@
         "languages": [
             "en"
         ],
-        "size": 263192576
+        "size": 299892736
     },
     "70010000042422": {
         "id": "01003B2015510000",
@@ -28902,6 +29040,50 @@
             "en"
         ],
         "size": 108003328
+    },
+    "70010000042447": {
+        "id": "01009DE014D6E000",
+        "rightsId": null,
+        "name": "METALLIC CHILD",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210916,
+        "nsuId": 70010000042447,
+        "category": [
+            "A\u00e7\u00e3o",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "CREST",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/34123ea131bb9e4740c0fcf2644ee63f75a8623149f965e6d34ee49ee8272090.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d5b44bb7d61df71f12a516726a913a73be20bb3026b370e7b21af1fd5333d2a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ccac21515ca1ff10d43a8662bcf9a8c14cf03f023bc2c2be49c21649c640a5b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a667fbfbfc06b5a322307e5765572850dfc962864b456df3ed4ae11c059051f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/654108b1189753873d83795119c702afe2bdcbe4c12417972226185845481b9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/253a4c49e71da6525f7cdcd57e0326a7824aa21b3c93540e6ea0dfdff432421e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/88e011849c31e185fe761674f88db78f5a9ce6bd9a8fb9577bf35e8835c01f99.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ac23cc99583d95bcaa81b1847206378570009f2047db934f76fe1c3d6c3912c9.jpg",
+        "intro": "\u201cGrab, hurl, and eliminate\u201d",
+        "description": "A large-scale rebellion erupts within the spacecraft \u201cLife Stream.\u201d\nWith the help of you, Rona, an android known as \u201cMetallic Child,\u201d stands up against a fleet of massive robots to stop the plot devised by her own creator, Doctor Irene.\n\nMETALLIC CHILD is a rogue-lite core-action game, featuring Rona, an android known as \u201cMetallic Child,\u201d taking place in a space laboratory in the not-to-distant future.\n\nA large-scale rebellion has taken place in the space laboratory Life Stream.\nAll robots aboard, with the exception of Rona and Pan, are conspiring to crash Life Stream into planet earth.\nRona has stood up to stop this plot, and you, of course, will be the one to guide Rona by accessing her control device through this game.",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1050673152
     },
     "70010000042449": {
         "id": "010042B015582000",
@@ -31319,6 +31501,52 @@
         ],
         "size": 8357150720
     },
+    "70010000043347": {
+        "id": "0100EA501521A000",
+        "rightsId": null,
+        "name": "Centipede: Recharged",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210929,
+        "nsuId": 70010000043347,
+        "category": [
+            "Arcade",
+            "A\u00e7\u00e3o",
+            "Tiro"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Atari",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/787d6e97e65d51f630a40982f648f47922f7b1f24bc8335915386a483df69210.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8a8601990acb93c58feeffa42d066cf88aac1e1a7a43f42f4282dba35bb81382.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/26b23777dfac8b9ac7db2c2cb9d4e4f887e08aaed93fe2f851307c127b8267cf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4e5fa1429bba8c37b79373a3d7249a6ce83d1087f00098262df3f72a8f38fa6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a10845591323b9f82be3c83052a7e2e30431782eab5cd48a0146b839d0acd301.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18529076fe685a80e1a54921fae439be8f835c58956c42d29782a2b8ba662cc2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f510113968871ecf49ffb9eea9f60fb60905bcd76ad9bf29979fcd1098f89eed.jpg",
+        "intro": "Exploda insetos e corra atr\u00e1s da maior pontua\u00e7\u00e3o com a volta de um cl\u00e1ssico das antigas, enquanto curte a trilha sonora original de acelerar o cora\u00e7\u00e3o de Megan McDuffee. ",
+        "description": "O jogo original de explodir insetos voltou! Centipede: Recharged foi reimaginado para uma jogabilidade moderna, com visuais vibrantes projetados para telas modernas, um campo de jogo 16:9 e uma trilha sonora original da premiada compositora de videogame Megan McDuffee.\n\nAlmeje a maior pontua\u00e7\u00e3o no modo arcade cl\u00e1ssico e ganhe o direito de se gabar com o seu nome no topo do placar de pontua\u00e7\u00e3o. Ou teste as suas habilidades e apare\u00e7a no placar de um dos 30 desafios intensamente criativos, que transformam o jogo de novas maneiras empolgantes.\n\nUma d\u00fazia de novos poderes podem te dar a vantagem ao introduzir habilidades como explos\u00f5es que limpam a tela, canh\u00f5es el\u00e9tricos e, at\u00e9 mesmo, desacelera\u00e7\u00e3o do tempo. Todos os modos e fases podem ser jogados no modo cooperativo local com um amigo.\n\nPrincipais Recursos:\n\nO Antigo Encontra o Novo: a jogabilidade cl\u00e1ssica de Centipede atualizada com controles suaves e visuais para PCs e consoles modernos\n\nPoderes: uma d\u00fazia de poderes para usar \u00e0 vontade. Afugente inimigos, pegue-os desprevenidos com um disparo lateral, lance uma fileira de bombas e mais\n\nDesafios: compita em uma s\u00e9rie de 30 desafios projetados para p\u00f4r \u00e0 prova at\u00e9 os jogadores mais experientes\n\nCompeti\u00e7\u00f5es: chegue ao topo do placar de l\u00edderes global nos modos de desafio individual e arcade\n\nTraga um Amigo: jogue local e cooperativamente com um amigo em todos os modos... Explodam insetos e pontuem juntos.\n\nCurta a Batida: entre no ritmo de uma boa partida com a trilha sonora original de Megan McDuffee",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 203423744
+    },
     "70010000043354": {
         "id": "0100160014F22000",
         "rightsId": null,
@@ -32655,6 +32883,47 @@
         ],
         "size": 942669824
     },
+    "70010000044214": {
+        "id": "01004C1013548000",
+        "rightsId": null,
+        "name": "Apple Knight",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210909,
+        "nsuId": 70010000044214,
+        "category": [
+            "Plataforma",
+            "A\u00e7\u00e3o",
+            "Aventura",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Fantasiosa"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Limitless",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3ead5a0ad133e95b5713a7a1a641ce8b1571af6e84c69f0147ce1a1bf0ed5355.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fa817352f482befd309cb3fa3ca369d5cd6ecf40fe1221c33d0dda87307028c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1d00c76b60f3d904db672d8a6c1edbdbe7dad9d7dd6c5e78dda45a7046b5afe4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4dd460c1c4703d6037ea37410cdb5038b306987670d98330f948d41e7e72bf6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a25587f5a8dd26e11e4a529a92d96ee72c48ab8bfb6116cd277dda65342dd27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a73699de8476cec3af5282e90a4bb569b54209f6f0e3b45b06b92b410f3a192.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc790accd56d281592d1a30f6407bffae0c04d1ff216ba33d518938d2bf2ad0d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8d833d81d80950b94c80c293d57f418bc9c431a9edc620c36333d368560490cb.jpg",
+        "intro": "Epic Action Platformer!",
+        "description": "Apple Knight is a beautiful action platformer RPG for all ages. Explore vast levels filled with secrets, quests and loot. Defeat tough bosses. Fight your way through hordes of wizards, knights, and monsters - or use traps to take them out from a safe distance. \n",
+        "languages": [
+            "en"
+        ],
+        "size": 296747008
+    },
     "70010000044239": {
         "id": "0100B96015C94000",
         "rightsId": null,
@@ -32957,6 +33226,44 @@
         ],
         "size": 156237824
     },
+    "70010000044709": {
+        "id": "0100C20015ED8000",
+        "rightsId": null,
+        "name": "Enchanted Path",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210906,
+        "nsuId": 70010000044709,
+        "category": [
+            "Puzzle",
+            "Estrat\u00e9gia",
+            "Aventura"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5abe74c33034796e9fc93167aec538b7787e0b06427d4b9b32b9a90f9106e1b5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/19fa7ba89afdc02bd4e0890fc3b64debb19ac796e2cd8e1087b311f1b4e5f599.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/516dc3f697d5834c79af2166961cc1e06abdb3d4a6547a5e8805f275e3baaed6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d466e5a44050e2580059c91dffbe3e4709ad6769671902f24ccaba770130e5ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf1f7242ec22eb995a8ec4c1f132c78815f78dad4be1fea5434f71e176f70572.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/343d51b028cda430e7de447223a26a352a5816b7f89c8dfe94672ab96a31f01b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c46be0d598b9bb16eb748475ae6a1871e9a01eedca1217d029bb7b4d8346471.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3c218bc064377cef174a8a8153db247d84cf63aafb49050ec96e804babf9decd.jpg",
+        "intro": "Fun and unique puzzle game in which you must control a man who is traveling through a series of enchanted portals.",
+        "description": "Atmospheric isometric puzzler. Collect green crystals to open the portal that brings you to the next level. Find the right path and don\u2019t fall into the abyss.\n\nThe game has 30 levels. Later levels will be more challenging and more different tiles will be introduced. The player moves on a grid of tiles. Some of these tiles will be disappearing when you are stepping off it and others will teleport you to another place. One tile acts as a cage with another that will free you from entrapment. There is even a tile that creates more tiles! ",
+        "languages": [
+            "en"
+        ],
+        "size": 122683392
+    },
     "70010000044767": {
         "id": "0100FE1015F16000",
         "rightsId": null,
@@ -33039,6 +33346,51 @@
             "en"
         ],
         "size": 180355072
+    },
+    "70010000044826": {
+        "id": "01005E6015A62000",
+        "rightsId": null,
+        "name": "Mindcell",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210915,
+        "nsuId": 70010000044826,
+        "category": [
+            "A\u00e7\u00e3o",
+            "Tiro",
+            "Aventura",
+            "Luta"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "VenomizedArt",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/575b06e5d0d3f8c69fbaa559d06db62270b981ef5cad9f952018403a05779aeb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0d5dde197a21e7c1ec54332f41df3e1182880824de8524ce1b619ab02836b2c6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7913ec143cc33b1327adf35ca0432f730e19d075645390ad59ad771aae121ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dcbf6fb751e750c57bc4860340711ed7f750cb37e44241bebd3d209dc929a059.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e99b4fc4785cc197602dd242bcb508f100eda5792f45ce5ef9e83191be7a141f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e965b06f1eb1081dd0acc78bcd2c5b3d7701771b21dfc3b3ebe1a06fe16337f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1388b46a5266f685b8d7475c275f7cfe47548677eae07bf2d03ff26f415ad200.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3f40dfec236ba8e7d2b0e74d3f08e571158e169fa432de8620bebdcc23b5c40f.jpg",
+        "intro": "Jogo de tiro em terceira pessoa num mundo cyberpunk",
+        "description": "Mindcell \u2013 \u00e9 um jogo de aventura em terceira pessoa que se passa em um futuro pr\u00f3ximo. O protagonista \u00e9 condenado a se tornar cobaia de laborat\u00f3rio, mas n\u00e3o vai simplesmente aceitar isso de bom grado. Para tentar escapar, ele precisa se lembrar do que aconteceu e de como ele chegou ali.\nSeus opressores n\u00e3o v\u00e3o deix\u00e1-lo em paz, independentemente de onde ele estiver. E h\u00e1 um perigoso confronto \u00e0 frente. Avan\u00e7ando na hist\u00f3ria com o protagonista, tente descobrir os objetivos dos seus inimigos e entender quem, de fato, \u00e9 seu aliado.\n\nCaracter\u00edsticas do Jogo:\n+ Uma hist\u00f3ria excitante com di\u00e1logos, personagens e desafios.\n+ A campanha est\u00e1 cheia de intriga e lutas.\n+ Uma variedade de locais, inimigos e chefes.\n+ Combate corpo a corpo, al\u00e9m de intensos conflitos.\n+ Gr\u00e1ficos bem-trabalhados e intensos.",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "ru"
+        ],
+        "size": 1747976192
     },
     "70010000045010": {
         "id": "0100807015FF4000",
@@ -33128,6 +33480,43 @@
             "en"
         ],
         "size": 38797312
+    },
+    "70010000045048": {
+        "id": "0100F3D01601C000",
+        "rightsId": null,
+        "name": "Forty Thieves Solitaire Collection",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210902,
+        "nsuId": 70010000045048,
+        "category": [
+            "Tabuleiro",
+            "Puzzle",
+            "Estrat\u00e9gia"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "eSolutions Nordic",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5ad25a1971f099ddb0e5c6efa0c1c6695ec4ce0b3002e53e878484cda0bcd0ca.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b5336397823766f9241b5b6048851c7748e2d278b06a5ca1a276e8f97375fcc2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98f53dcf1f35aa797361a982504462f0ab92e7664e8724f372ab9df609a3ba22.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6180ce6309f84dd05d5ee20ec5175374786fe058d2d4da5814bb31a60e6f0d07.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/631ee1eb05ae4617fb8d3bbd86ebf0747405c1a950f85970d5a4146611bc1d9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a68ab13a259ff85e9bbc3573ee6839978de7c9f2e81645d7f42b8394b32a0b52.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/35a45565d2da2b916dc859f0538e81c2a274ef14e3539711726bd403ae286d25.jpg",
+        "intro": "10 popular Forty Thieves games in one",
+        "description": "Do you love Forty Thieves Solitaire (also known as \"Napoleon at St Helena\" or \"Big Forty\"), but want a bigger challenge?\nNow you can play Forty Thieves Solitaire and other popular variants with different levels of difficulty.\n\nThe collection contains 10 different games\n\u2022 Ali Baba\n\u2022 Busy Aces\n\u2022 Deuces\n\u2022 Forty Thieves\n\u2022 Interchange\n\u2022 Miss Milligan\n\u2022 Parliament\n\u2022 Red and Black\n\u2022 Single Rail\n\u2022 Thieves of Egypt\n\nFeatures:\n\u2022 Unlimited undo\n\u2022 Auto complete\n\u2022 Statistics\n\u2022 Rules for each game",
+        "languages": [
+            "en"
+        ],
+        "size": 71303168
     },
     "70010000045072": {
         "id": "0100010016026000",
@@ -33377,6 +33766,32 @@
         "languages": null,
         "size": 5105516544,
         "parentId": "0100D7800E9E0000"
+    },
+    "70030000011781": {
+        "id": null,
+        "rightsId": null,
+        "name": "WHAT THE GOLF? Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000011781,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 460324864,
+        "parentId": "01002C000E35E000"
     },
     "70030000012246": {
         "id": null,
@@ -44105,7 +44520,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20210908,
         "nsuId": 70050000025072,
         "category": null,
         "ratingContent": [
@@ -44118,12 +44533,16 @@
         "publisher": "Private Division",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa899a55a7cf97ee7313fb30c1769b009c14e9705ce40d3f5cd52ed831875ce2.jpg",
-        "intro": null,
-        "description": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0fd020970486d4d5a3dc7298ea15fba0adfbb134e26e4ff780ed8f76d617ebd0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea3a31fad0dce24b2b658cd3a720885f71c28c6d465459d4ae6e5162f9db2e63.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d3e6dbfa3272dbaac2df2ca018e0bbab49ddadd8f821c32620a2d93de50db0e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0cf71d2b914225c12a10439203faf5c4508876b4f88c0cdf94298eab6cb230de.jpg",
+        "intro": "The Outer Worlds: Murder on Eridanos \u00e9 a \u00faltima expans\u00e3o de hist\u00f3ria do premiado RPG da Obsidian Entertainment e Private Division. ",
+        "description": "Aventure-se nos c\u00e9us de Eridanos e desvende o assassinato mais misterioso da col\u00f4nia Halcyon! Todo mundo \u00e9 suspeito nessa hist\u00f3ria, ap\u00f3s a porta-voz contratada pela Rizzo, a famosa Halcyon Helen, \u00e9 encontrada morta antes do lan\u00e7amento da nova vodca Spectrum Brown. Ao lado dos seus companheiros, viaje entre as ilhas flutuantes de Eridanos e procure por pistas usando o amplificador de discrep\u00e2ncia, um novo dispositivo que destaca pistas escondidas. Nem tudo \u00e9 o que parece e cabe a voc\u00ea (e \u00e0 sua equipe, se assim quiser) resolver o caso.\n\nDestaques:\n\u2022\tAssassinato misterioso: todo mundo \u00e9 suspeito e cabe a voc\u00ea investigar a morte de Halcyon Helen, a celebridade mais conhecida da col\u00f4nia. Use o novo amplificador de discrep\u00e2ncia, a sua chave para solucionar o caso, que destaca inconsist\u00eancias temporais n\u00e3o observadas a olho nu.\n\n\u2022\tUm mundo diferente: viaje pelas ilhas flutuantes de Eridanos, dos confins do luxuoso Grand Colonial Hotel aos bosques cheios de vida de Rizzo. Cuidado com os empregados sorridentes que voc\u00ea encontrar, porque algo obscuro espreita debaixo dessa faixada alegre.\n\n\u2022\tNovas armas e personaliza\u00e7\u00e3o de personagem: tr\u00eas armas cient\u00edficas novas podem ser adicionadas ao arsenal do jogador, al\u00e9m de variantes de arma e armadura para usar na solu\u00e7\u00e3o do caso. Aumente o seu n\u00edvel m\u00e1ximo em tr\u00eas e use novas qualidades e defeitos para criar o personagem mais distinto poss\u00edvel.\n\nThe Outer Worlds: Murder on Eridanos \u00e9 a segunda e \u00faltima expans\u00e3o de hist\u00f3ria que pode ser adquirida individualmente ou em conjunto com o Passe de Expans\u00e3o do The Outer Worlds.\n\n\u00c9 preciso ter uma c\u00f3pia de The Outer Worlds na mesma plataforma para jogar expans\u00f5es.",
         "languages": null,
-        "size": 0
+        "size": 2533359616
     },
     "70050000025100": {
         "id": "0100ED7012DB3007",
@@ -58781,6 +59200,36 @@
         "languages": null,
         "size": 3145728
     },
+    "70050000029545": {
+        "id": "010051C0134F900D",
+        "rightsId": null,
+        "name": "DRAGON BALL Z: KAKAROT + CONJUNTO UM NOVO PODER DESPERTA - 10 Medalhas D",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70050000029545,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7aca796cd26a67c6fbc22e08310b0f3c02c5560d21dfe92af6f66ce027967781.jpg",
+        "intro": null,
+        "description": "Adiciona 10 Medalhas D ao seu invent\u00e1rio.\nGaste Medalhas D para adquirir Super Ataques em Campos de treinamento.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010051C0134F900D"
+        ]
+    },
     "70050000029590": {
         "id": "0100605015753001",
         "rightsId": null,
@@ -59055,6 +59504,257 @@
         "size": 3145728,
         "ids": [
             "0100969015B05002"
+        ]
+    },
+    "70050000029856": {
+        "id": "010051C0134F9004",
+        "rightsId": null,
+        "name": "DRAGON BALL Z: KAKAROT + CONJUNTO UM NOVO PODER DESPERTA Ultra-mega-assado Sorridente",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70050000029856,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7cb8a43b8b512e627818a0f4160007d7272d0531ae57f934432d4949e4749c88.jpg",
+        "intro": null,
+        "description": "Use esse item para aumentar os atributos de um personagem!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010051C0134F9004"
+        ]
+    },
+    "70050000029857": {
+        "id": "010051C0134F9002",
+        "rightsId": null,
+        "name": "DRAGON BALL Z: KAKAROT + CONJUNTO UM NOVO PODER DESPERTA Uma Festa Competitiva com Amigos",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70050000029857,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/027e4963e7697e6719de44e2a91b8bf0617d1505b0fb3cdf272d993aba11760b.jpg",
+        "intro": null,
+        "description": "Permite que voc\u00ea jogue \"Uma Festa Competitiva com Amigos\", uma hist\u00f3ria secund\u00e1ria focada em Goku e seus aliados!\n\nObserva\u00e7\u00e3o: Essa hist\u00f3ria secund\u00e1ria est\u00e1 dispon\u00edvel ap\u00f3s o Cap\u00edtulo 3: Saga do Cell - Epis\u00f3dio 2.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010051C0134F9002"
+        ]
+    },
+    "70050000029858": {
+        "id": "010051C0134F9003",
+        "rightsId": null,
+        "name": "DRAGON BALL Z: KAKAROT + CONJUNTO UM NOVO PODER DESPERTA A M\u00edstica das For\u00e7as Especiais Ginyu",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70050000029858,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8f8a2fe489c5dc763109aa9d4ecf5d5075615192988991de35d1d1dc777a8867.jpg",
+        "intro": null,
+        "description": "D\u00e1 acesso antecipado para enfrentar Bonyu, antiga integrante das For\u00e7as Especiais Ginyu, na Sala de Treinamento da Corpora\u00e7\u00e3o C\u00e1psula.\n\nObserva\u00e7\u00e3o: O Menu de Treinamento tamb\u00e9m pode ser desbloqueado ao progredir na hist\u00f3ria.\nEsse conte\u00fado est\u00e1 dispon\u00edvel ap\u00f3s o Cap\u00edtulo 3: Saga do Cell - Epis\u00f3dio 2.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010051C0134F9003"
+        ]
+    },
+    "70050000029859": {
+        "id": "010051C0134F9005",
+        "rightsId": null,
+        "name": "DRAGON BALL Z: KAKAROT + CONJUNTO UM NOVO PODER DESPERTA Fil\u00e9 Selvagem Envelhecido",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70050000029859,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0695c73c11757fbf4231bdae4d17fe1cd874295f6b6b9fcc304cd61944489050.jpg",
+        "intro": null,
+        "description": "Use esse item para aumentar os atributos de um personagem!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010051C0134F9005"
+        ]
+    },
+    "70050000029860": {
+        "id": "010051C0134F9006",
+        "rightsId": null,
+        "name": "DRAGON BALL Z: KAKAROT + CONJUNTO UM NOVO PODER DESPERTA Tigela do Pal\u00e1cio do Drag\u00e3o",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70050000029860,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ebafd8ab8db43e12bedb65a73b1571998f4becce9542d21a949cef80eb7faadf.jpg",
+        "intro": null,
+        "description": "Use esse item para aumentar os atributos de um personagem!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010051C0134F9006"
+        ]
+    },
+    "70050000029861": {
+        "id": "010051C0134F9001",
+        "rightsId": null,
+        "name": "DRAGON BALL Z: KAKAROT + CONJUNTO UM NOVO PODER DESPERTA - Pilar de Tao Pai Pai",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70050000029861,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0322e69512d4672b57cd4ef0cf72a1ff67f442eeb20644ee848f9e5398213cbb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/734aabe1b6e662ac064c8f0eb15d4faeadef9a2bdb2b503395cb710d8a883e37.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac1230587492f3817775d641e5c2114d7a584202f6ffa3371c377a99aec4eb54.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/777399718c7becc093707aa6d612d333839dc9963241de287dc182e2a7244bd3.jpg",
+        "intro": null,
+        "description": "Arremesse, monte e viaje pelo campo com o Pilar de Tao Pai Pai.\nVeja at\u00e9 onde voc\u00ea consegue arremessar o pilar com o recurso de medi\u00e7\u00e3o de dist\u00e2ncia de voo!\nSinta como \u00e9 viajar no estilo Tao Pai Pai!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010051C0134F9001"
+        ]
+    },
+    "70050000029862": {
+        "id": "010051C0134F900C",
+        "rightsId": null,
+        "name": "DRAGON BALL Z: KAKAROT + CONJUNTO UM NOVO PODER DESPERTA - PACOTE DE COMPILA\u00c7\u00c3O DE M\u00daSICAS",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70050000029862,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/77d907fb71402eb60f1c097eca4e2f7f1ad363257127acba074b43da45db7873.jpg",
+        "intro": null,
+        "description": "Com o PACOTE DE COMPILA\u00c7\u00c3O DE M\u00daSICAS, voc\u00ea pode trocar as m\u00fasicas de campo e de batalha por can\u00e7\u00f5es dos animes DRAGON BALL, DRAGON BALL Z e DRAGON BALL KAI!\n\nO PACOTE DE COMPILA\u00c7\u00c3O DE M\u00daSICAS inclui 11 can\u00e7\u00f5es:\n- MAKAFUSHIGI ADVENTURE!\n- ROMANTIC AGERUYO\n- WE GOTTA POWER\n- DETEKOI TOBIKIRI ZENKAI POWER\n- BOKUTACHIHA TENSHIDATTA\n- Dragon Soul\n- UNMEINO HI ~TAMASHII VS - TAMASHII~\n- Trilha sonora de DRAGON BALL Z (TV)\n- KAIBUTSU FRIEZA VS DENSETSUNO SUPER SAIYANS\n- YAPPARI SAIKYO SONGOKU!! (WE GOTTA POWER)\n- SOLID STATE SCOUTER",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010051C0134F900C"
+        ]
+    },
+    "70050000029863": {
+        "id": "010051C0134F900E",
+        "rightsId": null,
+        "name": "DRAGON BALL Z: KAKAROT + CONJUNTO UM NOVO PODER DESPERTA \u2014 TRUNKS, O GUERREIRO DA ESPERAN\u00c7A",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70050000029863,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7db9b45e48853d01bc27d45d0df8cb65647c220b29e3b4059cb36c1dfd7377a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f62f79fec24794af90e8718616f7dc2573d2967d49f840ed146b888b158c8fc8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b3d09931fc82a227f0ff4ff6ef40cd9ed9d24a0fb4f12d85f8459fdab5fd9ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f185fa8347e1d1491f100ae4e9627705a071081624fa8e284c9feafd8891512a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e99a9610116529344666877607e39b9a43c3379f9cf3ba77bb4e72cd13f22c72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/987644bed12d077bf675e1d513ca021d9d4aa63cb9a692f96e7ee224fe348ece.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/283adc089a06033b4c74110100ed15d4f619cea8443b11a6810b6e262bd85fde.jpg",
+        "intro": null,
+        "description": "Viva a luta mais feroz da vida do Trunks num mundo desesperador nesta Nova Saga da Hist\u00f3ria!\n\nGoku morreu devido ao v\u00edrus em seu cora\u00e7\u00e3o, e o mundo foi destru\u00eddo pelos androides. Os guerreiros sobreviventes, Trunks e Gohan, lutar\u00e3o para proteger o planeta.\n\nO DLC inclui:\n- Nova Saga da Hist\u00f3ria\n- Novos Super Ataques\n- Novos Emblemas da Alma\n- Outros\n\nVoc\u00ea pode acessar TRUNKS, O GUERREIRO DA ESPERAN\u00c7A mesmo sem concluir a hist\u00f3ria principal.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010051C0134F900E"
         ]
     },
     "70070000002241": {
@@ -60293,7 +60993,7 @@
         "intro": "A s\u00e9rie de RPG de turno de Monster Hunter retorna com seu segundo epis\u00f3dio! Seu la\u00e7o especial com esses monstros trar\u00e1 esperan\u00e7a ou destrui\u00e7\u00e3o?",
         "description": "A Deluxe Edition de Monster Hunter Stories 2: Wings of Ruin cont\u00e9m uma variedade de conte\u00fados adicionais para melhorar sua experi\u00eancia com o jogo.\n\n \u30fb Roupa de Ena: Casaco de Kuan\n \u30fb Armadura em Camadas de Montador: Armadura Ratha Asassalador Alfa e Beta\n \u30fb Cabelo de Montador: Nergal espetado\n \u30fb Roupas de Navirou: Fantasias de Nergigante e Pukei-Pukei\n \u30fb Conjuntos de Adesivos: Amigos de Aventura 2 e 3\n\nObs.: Esse conte\u00fado adicional tamb\u00e9m est\u00e1 dispon\u00edvel separadamente no Monster Hunter Stories 2: Wings of Ruin Deluxe Kit. Alguns conte\u00fados s\u00f3 estar\u00e3o dispon\u00edveis ap\u00f3s avan\u00e7ar pelo jogo.\n\nUma nova aventura aguarda voc\u00ea nesse segundo epis\u00f3dio da s\u00e9rie de RPG de turno ambientada no mundo de Monster Hunter! Torne-se um Montador e forme la\u00e7os com monstros amig\u00e1veis conhecidos como Monsties para lutar ao lado deles enquanto participa de uma hist\u00f3ria \u00e9pica.\n\nVoc\u00ea \u00e9 descendente de Red, um Montador lend\u00e1rio. A hist\u00f3ria come\u00e7a com um encontro predestinado com Ena, uma garota serperiana que recebeu um ovo com o potencial de chocar um lend\u00e1rio Rathalos, que pode causar caos se despertar seu poder destrutivo.\n\nEmbarque em uma jornada que testar\u00e1 os la\u00e7os da amizade em um mundo em constante mudan\u00e7a e descubra a verdade por tr\u00e1s das antigas lendas.",
         "languages": null,
-        "size": 14718861312
+        "size": 15136194560
     },
     "70070000012176": {
         "id": null,
@@ -62107,5 +62807,73 @@
         "description": null,
         "languages": null,
         "size": 256901120
+    },
+    "70070000012854": {
+        "id": null,
+        "rightsId": null,
+        "name": "DRAGON BALL Z: KAKAROT + CONJUNTO UM NOVO PODER DESPERTA - Edi\u00e7\u00e3o de Luxo",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70070000012854,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4e79bcbd96f39bee85f2b7646c494200dc8e40ccf2643510568cbd5014b3ee29.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4315a5c24f078232a2ef302d186f11fdf316ba8677a0ee153674e0d7a493e9f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25a2cdf0ff62a33890f27af32eeace9deaadabf458d57ab14f728462eccfb679.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbc436eb0f77f33fc844dad705f82e2bd2d87201a64943671d442235ee51f9b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/66e72a51d9df11d96352ae42a87df9791a2b9b1bf98fa864d615385580d49d31.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/86b9f4835960d7a4b4f9b983b6574258f84214ab87a2c5b29d2bded46388ca55.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/465ef4d40b365ab61ead6d59485652d9db13dfe44d2d02b3ee80ede8b137733c.jpg",
+        "intro": "Viva novamente a hist\u00f3ria de Goku e outros Guerreiros Z em DRAGON BALL Z: KAKAROT!",
+        "description": "A Edi\u00e7\u00e3o de Luxo inclui:\n\u2022 O jogo\n\u2022 TRUNKS, O GUERREIRO DA ESPERAN\u00c7A\n\u2022 Um item de culin\u00e1ria de b\u00f4nus\n\nO JOGO\n\u2022 Vivencie a hist\u00f3ria de DRAGON BALL Z, de eventos \u00e9picos a miss\u00f5es secund\u00e1rias divertidas, incluindo momentos in\u00e9ditos da hist\u00f3ria que respondem a algumas quest\u00f5es pendentes da hist\u00f3ria de DRAGON BALL pela primeira vez!\n\n\u2022 Jogue por meio de batalhas ic\u00f4nicas de DRAGON BALL Z em uma dimens\u00e3o diferente de qualquer outra. Lute em vastos campos de batalha com ambientes destrut\u00edveis e vivencie batalhas \u00e9picas de chefes contra os inimigos mais ic\u00f4nicos (Raditz, Freeza, Cell etc.). Aumente seu n\u00edvel de poder com a mec\u00e2nica de RPG e encare desafios!\n\n\u2022 V\u00e1 al\u00e9m de lutas como um Guerreiro Z. Viva como um! Pesque, voe, coma, treine e lute pelas sagas de DRAGON BALL Z, fa\u00e7a amigos e construa relacionamentos com um elenco enorme de personagens de DRAGON BALL.\n\nCONJUNTO DE UM NOVO PODER DESPERTA\n\u2022 V\u00e1 al\u00e9m da hist\u00f3ria de DRAGON BALL Z e vivencie mais duas batalhas de chefes, com o conjunto de um novo poder desperta! Domine o poder dos deuses para desafiar o Lorde Bills e v\u00e1 ainda mais longe para combater o Freeza Dourado com o poder do Super Saiyajin Azul!\n\nSAGA DE TRUNKS, O GUERREIRO DA ESPERAN\u00c7A\n\u2022 Viva a luta mais feroz da vida do Trunks num mundo desesperador nesta Nova Saga da Hist\u00f3ria!\nGoku morreu devido ao v\u00edrus em seu cora\u00e7\u00e3o, e o mundo foi destru\u00eddo pelos androides. Os guerreiros sobreviventes, Trunks e Gohan, lutar\u00e3o para proteger o planeta.",
+        "languages": null,
+        "size": 17774411776
+    },
+    "70070000012855": {
+        "id": null,
+        "rightsId": null,
+        "name": "DRAGON BALL Z: KAKAROT + CONJUNTO UM NOVO PODER DESPERTA - Edi\u00e7\u00e3o Definitiva",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70070000012855,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4e79bcbd96f39bee85f2b7646c494200dc8e40ccf2643510568cbd5014b3ee29.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14c2e753e83ed9e626491cf02222516e73880f026f133688dc632f9769e51f75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f83fcbea8602aef7f3741f7ef18ba44e326c80d9e3cadfba65e4048f1cb18618.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd6927f5ce94542b943c19e53babd87f830334c7047824ca1aa76736973b33a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58456326ae950b0d22ee62c9683487b7b89159ae2ad88bf2f0c774fe855853ec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac1230587492f3817775d641e5c2114d7a584202f6ffa3371c377a99aec4eb54.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c92b529f1e0bff1085bb326d118307ba7b5981f8ae69b5027d536eac36785aa0.jpg",
+        "intro": "Viva novamente a hist\u00f3ria de Goku e outros Guerreiros Z em DRAGON BALL Z: KAKAROT!",
+        "description": "A Edi\u00e7\u00e3o Definitiva inclui:\n\u2022 O jogo\n\u2022 TRUNKS, O GUERREIRO DA ESPERAN\u00c7A\n\u2022 DRAGON BALL Z: KAKAROT - PACOTE DE COMPILA\u00c7\u00c3O DE M\u00daSICAS (11 m\u00fasicas adicionais do anime)\n\u2022 Um item de culin\u00e1ria de b\u00f4nus \n\u2022 Pilar de Tao Pai Pai\n\nO JOGO\n\u2022 Vivencie a hist\u00f3ria de DRAGON BALL Z, de eventos \u00e9picos a miss\u00f5es secund\u00e1rias divertidas, incluindo momentos in\u00e9ditos da hist\u00f3ria que respondem a algumas quest\u00f5es pendentes da hist\u00f3ria de DRAGON BALL pela primeira vez!\n\n\u2022 Jogue por meio de batalhas ic\u00f4nicas de DRAGON BALL Z em uma dimens\u00e3o diferente de qualquer outra. Lute em vastos campos de batalha com ambientes destrut\u00edveis e vivencie batalhas \u00e9picas de chefes contra os inimigos mais ic\u00f4nicos (Raditz, Freeza, Cell etc.). Aumente seu n\u00edvel de poder com a mec\u00e2nica de RPG e encare desafios!\n\n\u2022 V\u00e1 al\u00e9m de lutas como um Guerreiro Z. Viva como um! Pesque, voe, coma, treine e lute pelas sagas de DRAGON BALL Z, fa\u00e7a amigos e construa relacionamentos com um elenco enorme de personagens de DRAGON BALL.\n\nCONJUNTO DE UM NOVO PODER DESPERTA\n\u2022 V\u00e1 al\u00e9m da hist\u00f3ria de DRAGON BALL Z e vivencie mais duas batalhas de chefes, com o conjunto de um novo poder desperta! Domine o poder dos deuses para desafiar o Lorde Bills e v\u00e1 ainda mais longe para combater o Freeza Dourado com o poder do Super Saiyajin Azul!\n\nSAGA DE TRUNKS, O GUERREIRO DA ESPERAN\u00c7A\n\u2022 Viva a luta mais feroz da vida do Trunks num mundo desesperador nesta Nova Saga da Hist\u00f3ria!\nGoku morreu devido ao v\u00edrus em seu cora\u00e7\u00e3o, e o mundo foi destru\u00eddo pelos androides. Os guerreiros sobreviventes, Trunks e Gohan, lutar\u00e3o para proteger o planeta.\n\nEdi\u00e7\u00e3o de Luxo de DRAGON BALL Z: KAKAROT - PACOTE DE COMPILA\u00c7\u00c3O DE M\u00daSICAS\n\u2022 Com o PACOTE DE COMPILA\u00c7\u00c3O DE M\u00daSICAS, voc\u00ea pode trocar as m\u00fasicas de campo e de batalha por can\u00e7\u00f5es dos animes DRAGON BALL, DRAGON BALL Z e DRAGON BALL KAI!",
+        "languages": null,
+        "size": 17780703232
     }
 }
