@@ -1862,7 +1862,7 @@
             "zh",
             "zh"
         ],
-        "size": 1627389952
+        "size": 1626341376
     },
     "70010000002722": {
         "id": "01009BF0072D4000",
@@ -2326,7 +2326,7 @@
             "zh",
             "zh"
         ],
-        "size": 1906311168
+        "size": 1905262592
     },
     "70010000003842": {
         "id": "0100DDD0085A4000",
@@ -4736,7 +4736,7 @@
             "zh",
             "zh"
         ],
-        "size": 137363456
+        "size": 170917888
     },
     "70010000014952": {
         "id": "01007B000C834000",
@@ -5234,7 +5234,7 @@
             "zh",
             "zh"
         ],
-        "size": 12700352512
+        "size": 12730761216
     },
     "70010000016211": {
         "id": "0100F9F00C696000",
@@ -8777,7 +8777,7 @@
             "ko",
             "zh"
         ],
-        "size": 7634681856
+        "size": 7675576320
     },
     "70010000028226": {
         "id": "0100DCA011262000",
@@ -11267,6 +11267,55 @@
         ],
         "size": 814743552
     },
+    "70010000036695": {
+        "id": "0100D7B013BA8000",
+        "rightsId": null,
+        "name": "Okinawa Rush",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70010000036695,
+        "category": [
+            "Platformer",
+            "Action",
+            "Adventure",
+            "Fighting"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Use of Tobacco",
+            "Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "No Gravity Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ba42fd067d50c41139543cbb882a78740dc73109682ce415b2927aca4958f7d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d0920d6ac458d5c6ae7721a54020d424c89359249056c2d707144c53675544cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c6e143d7905a12785344fae908e91ad39ff808cf195c0023aab8e25a53e0b5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9fe6ee868ecc8214ab50247deb28838e2a9a66a56b6711f4af1bbba24d5cec10.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/918a7673e349a5e9debcf00a4a053415c1d30ab20c847a17a64a516a510876b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/799cb8164ef495ee6b5888124126581a014baf14e36df768483a6aaf45b304fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65d7aae41313fbe46da57832cf4dce163ff76ae7d280bba3871e7a9b361f6cae.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67a841ed19852d4d89603d95da83bfead818a7c18687d900c59295b3aea7d4b2.jpg",
+        "intro": "Take on the role of the martial arts master Hiro, Meilin,or Shin as they face off in a desperate fight for their lives against the Black Mantis clan. Bring a friend and battle against ninjas together!",
+        "description": "FEATURES:\n\u2022 Custom-made fighting engine with unique moves for each character.\n\u2022 Fight with swords, nunchakus, and bo staffs.\n\u2022 Engaging story told with carefully crafted pixel-art cut-scenes.\n\u2022 Many different enemies, each with their own moveset and weapons.\n\u2022 Intense boss battles.\n\u2022 Arcade mode for those who want to jump straight into the action.\n\u2022 Parry any attacks, projectiles, and traps!\n\u2022 Upload your high scores and compete globally with other players!\n\u2022 Discover many secrets and hidden areas!\n\u2022 Play together in a local co-op mode, and heal each other to achieve victory!\n\nSUMMARY:\nTake on the role of the martial arts master Hiro, Meilin, or Shin as they face off in a desperate fight for their lives against the Black Mantis clan. DOUBLE THE MAYHEM: Bring a friend and battle against ninjas, demons, and more in the 2-player local co-op mode of this action-adventure platformer set in a mystical, fantasy version of Okinawa.\n\nThe fast, fluid combat system brings with it many moves, combos, juggles, and an intuitive parrying system.\n\nFight to gain the top spot on our online scoreboard!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt"
+        ],
+        "size": 509607936
+    },
     "70010000036878": {
         "id": "010043B013C5C000",
         "rightsId": null,
@@ -11359,6 +11408,51 @@
             "zh"
         ],
         "size": 731906048
+    },
+    "70010000037238": {
+        "id": "0100BE7013E06000",
+        "rightsId": null,
+        "name": "Ni no Kuni\u2122 II: Revenant Kingdom PRINCE'S EDITION",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210917,
+        "nsuId": 70010000037238,
+        "category": [
+            "RPG",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/344b6e99120a3dcc7e6ff7ecad98d5b4f68be15b4ecfc7d387a4bb110936b06c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5bfb11e1a13cf9a2085aa9650d7078eb23b15d0fd5029e3a48016242cd0441d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa6385965ea432720d3a3f039761528399ce2f1152a6b0b3f7953bcffa03ea8b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/275db7bd67aa0d88c7eb0356b30b98ab59723970a25ba51e00752253ed4c7153.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b6655e455689c09210c3afa03f2e7b2885f7022fccb74e8c5fb63ea61467475.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31dfb23de934a0732fec6c0f1a7b5f475bb592155f212c78d28d3efba6a8171b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3262b61c0d60ec9dfd10a646d9eb60a6d922816651c9d9c8a7a262d766fb7f6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b51cf18de7eb20a842d77823c4e0778c4ef51b0f362094cca756752498110a25.jpg",
+        "intro": "Join the young king, Evan, as he sets out on an epic quest to found a new kingdom and save his world. The Prince's Edition includes the full game and all DLCs.",
+        "description": "Lose yourself in the ultimate Ni no Kuni experience with this Prince's Edition including:\n- Ni no Kuni II: Revenant Kingdom (full game)\n- Expansions that add hours of additional gameplay\n- Prince's Equipment Pack\n\nJoin the young king, Evan, as he sets out on an epic quest to found a new kingdom, unite his world, and save its people from a terrible evil.\n\nEmbark on this unforgettable adventure, which blurs the line between animated feature film and video game. Developed by LEVEL-5, Ni no Kuni II features enchanting character design from the legendary artist Yoshiyuki Momose and a stirring soundtrack composed by the world-famous Joe Hisaishi.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 11387535360
     },
     "70010000037986": {
         "id": "0100BC701417A000",
@@ -11493,6 +11587,48 @@
         ],
         "size": 1645215744
     },
+    "70010000038399": {
+        "id": "0100E3301426E000",
+        "rightsId": null,
+        "name": "Tux and Fanny",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210909,
+        "nsuId": 70010000038399,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "RPG",
+            "Other"
+        ],
+        "ratingContent": [
+            "Crude Humor",
+            "Mild Blood",
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ghost Time Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c051450f37d9f71188ce96e22e6c980bf4357515d6043db94628727de2666835.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2b490425841740ad740e26dfb3f7cdf0696384c9bcb647b988438cd78ea9087d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f3710cbac1902974cd33cee46884ab60e2df2d99df128f3b2b5a215ad1dd3c18.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a60dad5cd65d8815cacf0fb2a680df90cc256468a3e3d5dc7e64b76effc7e218.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51e7db5d6ccac43c0fb29f968316faf8f327f7b4e34b67b219357e53aa199fbd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14a047babf4cb582739656a0cfbeb96ca027521e9432fcea1787b25105ade9f0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/63125f70ea22077d8d8d6f588594822f60f30a61b4391e2663f84272c8868a31.jpg",
+        "intro": "When you take a closer look, everything is an adventure.",
+        "description": "Tux and Fanny just want to play soccer but their soccer ball is deflated. Go on an epic adventure to help them inflate their ball. Play as both Tux and Fanny as well as a cat and a flea. All four characters will have to work together if you\u2019re going to inflate the ball. \n\nPlay a multitude of diverse mini-games which you'll collect as you progress through your journey, each with their own unique rewards. There are secrets hidden at every turn in the world of Tux and Fanny. Can you find them all?",
+        "languages": [
+            "en"
+        ],
+        "size": 724566016
+    },
     "70010000038612": {
         "id": "01002DA013484000",
         "rightsId": null,
@@ -11527,8 +11663,8 @@
             "https://img-eshop.cdn.nintendo.net/i/7a0542834732fbef398a8ed17167aff447e95dc768f59ddb323ea94a75aa73ad.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/63595b0826bb6ece7b95e4eb2a33e5ad0559224b350a5e2974a44f772963ae59.jpg",
-        "intro": "The Legend of Zelda: Skyward Sword game soars onto Nintendo Switch!",
-        "description": "Take to the skies, draw your sword, and experience the earliest story in the Legend of Zelda\u2122 series. Join Link in his high-flying quest to save Zelda, a childhood friend who must confront her destiny. Soar between floating islands and descend to the treacherous surface world in this updated HD version of the Legend of Zelda: Skyward Sword game.\n\nMaster realistic swordplay that corresponds to your movements\n\nGently swing your sword and angle your slashes to uncover and break through opponents\u2019 defenses using intuitive motion controls. Link\u2019s in-game movements will correspond to the angle of each strike you make with the Joy-Con\u2122 controller, creating immersive swordplay that relies on strategy and accuracy. Movements feel smoother and more immediate thanks to the Nintendo Switch system\u2019s increased processing power and HD graphics. Take advantage of the newly-added button only control scheme\u2014perfect for playing in handheld mode or on the Nintendo Switch Lite system. \n\nFly high with the Zelda & Loftwing amiibo\u2122 figure\n\nWith her majestic Loftwing by her side, Zelda steps into her destiny alongside her childhood friend, Link. Scan this amiibo figure* from anywhere on the surface world to quickly travel to the sky\u2014even within the depths of a dungeon. Scan it again above the clouds to return to the same spot on the surface.",
+        "intro": "Solve puzzles, explore dungeons, and soar the skies",
+        "description": "Descend from the sky to the dangerous world below in this high-flying quest. Your adventure will lead you through perilous dungeons packed with puzzles. Each item you receive will open up even more adventure\u2014uncover a hidden area with the flying Beetle or find a clever way to hinder enemies with a whip. Whether you are scouring for secrets, getting in some sword practice, or upgrading equipment, forge your own path in the Legend of Zelda\u2122: Skyward Sword HD game.\n\nMaster realistic swordplay that corresponds to your movements\n\nGently swing your sword and angle your slashes to break through opponents\u2019 defenses using intuitive motion controls*. Link\u2019s in-game movements will correspond to the angle of each strike you make with the Joy-Con\u2122 controller, creating immersive swordplay that relies on strategy and accuracy. Figuring out how, when, and where to strike adds a puzzle-like twist to swordplay. On the go? Soar and slash using button-only controls. You can also use button controls on a Nintendo Switch\u2122 Pro Controller.\n\nDiscover the origin of Link, Zelda, and the Master Sword\n\nJoin Link in his emotional quest to save Zelda, a childhood friend who must confront her destiny. Their special bond at the heart of the story is the world\u2019s best hope for defeating the encroaching darkness\u2014and its power that will echo through the ages. Embark on a destiny-defining quest to overcome ancient trials and forge the powerful Master Sword. The many residents of the floating island and Link\u2019s home, Skyloft, have colorful personalities that shine as you help them with their troubles. Make sure to stop by Beedle\u2019s shop, but keep an eye on the troublemaking Groose...",
         "languages": [
             "ja",
             "en",
@@ -12053,6 +12189,48 @@
         ],
         "size": 756023296
     },
+    "70010000041054": {
+        "id": "0100B94014F8E000",
+        "rightsId": null,
+        "name": "NBA 2K22",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210910,
+        "nsuId": 70010000041054,
+        "category": [
+            "Sports"
+        ],
+        "ratingContent": [
+            "Users Interact",
+            "In-Game Purchases (Includes Random Items)"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/81d9468cfb49ebfd585dc63df67358600ee14399780926ab40e05278201cf8d1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/60ab0218dc50a2af04591f06629a74bc5d171f84124ec518b2881ae9ab690efb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4a131f67f14f9be5d266c5f379cf2c16f88c295989a55925276ae6d58ac8600b.jpg",
+        "intro": "Anyone, Anywhere",
+        "description": "A WORLD OF BASKETBALL\nNBA 2K22 puts the entire basketball universe in your hands. PLAY NOW in real NBA and WNBA environments against authentic teams and players. Build your own dream team in MyTEAM with today\u2019s stars and yesterday\u2019s legends. Live out your own pro journey in MyCAREER and experience your personal rise to the NBA. Flex your management skills as a powerful Executive in MyGM and MyLEAGUE. Anyone, anywhere can hoop in NBA 2K22.\n\nSTEP YOUR GAME UP\nNew tactical offense meets an overhauled defense for a more competitive and immersive NBA 2K22. Add skill-based dribbling, shooting, dunking, and alley-oops to your bag of moves, and counter them with ferocious new blocks and contests on the other end of the court.\n\nALL ABOARD THE CRUISE\nCreate your perfect MyPLAYER, level up for rewards, and express yourself through both your game and your style.\n\nYOUR DREAM TEAM\nCollect, craft, and hoop in the ultimate NBA fantasy competition: NBA 2K22 MyTEAM. Build your dream lineup of NBA stars and legends across any era, and explore game-changing evolutions to the MyTEAM experience \u2013 each addition introduced Season after Season.\n\nNEW SEASONS, NEW DISCOVERIES \nIn NBA 2K22, every Season brings fresh opportunities to reap new rewards. Whether in MyTEAM or MyCAREER, compete against the best and discover what amazing rewards each new Season has in store.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 48489299968
+    },
     "70010000041267": {
         "id": "0100FA5010788000",
         "rightsId": null,
@@ -12167,7 +12345,7 @@
         "developer": null,
         "publisher": "Something We Made",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1b890b6a53a417315df634d0d7892706c0a600320436e3c9a64f5984ddf516c7.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e847ead5f169368daad5d308d47a1fcf1c98889afdbdcce20a1f290c9d5784af.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/c9197676286b2ab93189effd7dd48327433324179b8738b222d2836d1e31430f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7a08d5410ec99c780787301882a93ac968ee7f8baf4fee523af39ba8c0cee453.jpg",
@@ -12188,7 +12366,7 @@
             "ru",
             "zh"
         ],
-        "size": 320864256
+        "size": 427819008
     },
     "70010000042924": {
         "id": null,
@@ -12524,6 +12702,53 @@
             "zh"
         ],
         "size": 577765376
+    },
+    "70010000044951": {
+        "id": null,
+        "rightsId": null,
+        "name": "Big Brain Academy\u2122: Brain vs. Brain",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211203,
+        "nsuId": 70010000044951,
+        "category": [
+            "Party",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/445f5d5dbe35a5257ffc3df5491d3c90f0a39c5b336d5b644e09adf4178e4654.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca3de9c128fca7b0da0d45b4b8e9f606a5322839d0afbbb749c7c68894cbb155.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e9dc58f50b88e9876a97203334ebf99126567299d488b44ecc92a66a3caa050.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d050f0259a7602b46a081d82366c070f80c360a1ddbfc4e4186f6394ff73afd1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/718b5db528c9d7b32a9e6e5377e0b290f6148373c563016afdc63b20b83746c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9e8bcbbe7bee408c957d63b5df647a2a4913d19a67dd0e60ff91d91aac1face.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/13659d243ae91dbb5688e28234f159c9a51c49c07c911bae35b1e80276b30f74.jpg",
+        "intro": "Battle to see who has the brawniest brain",
+        "description": "Take on a series of brain-bending activities that test your mental mettle in Big Brain Academy\u2122: Brain vs. Brain for the Nintendo Switch\u2122 system! Play a wide variety of activities, like memorizing a series of numbers, identifying an animal as it slowly comes into focus, or helping guide a train to its goal in fun, fast activities. Go brain-to-brain with friends and family in 4-player* matches to see who gets the highest score. Everyone can play together at varying difficulties, so a kid can hold their own against an adult in this battle of the brains!\n\nTreat your brain to some quick mental fun\n\nGet your own Big Brain Brawn score with a fun test. Boost your skill and speed by practicing certain activities. Of course, you can also prep for your next multiplayer brain battle or compare scores with friends and family. Unlock dozens of outfit options for your in-game avatar\u2014from a cat outfit to a corn costume!\n\nGo brain vs. brain against mind-masters near and far\n\nWant to see how you match up to brainiacs around the world? Hop into Ghost Clash mode to compete against other users\u2019 data**. Choose from mental marvels worldwide, folks on your friends list, or family members who have profiles on the same system. Outside of Ghost Clash mode, check your rankings to see how your Big Brain Brawn matches up against others.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 0
     },
     "70030000000042": {
         "id": null,
@@ -13824,6 +14049,34 @@
         "size": 684720128,
         "parentId": "0100FA5010788000"
     },
+    "70030000014326": {
+        "id": null,
+        "rightsId": null,
+        "name": "Sky Racket Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000014326,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1239416832,
+        "parentId": "01004F0010A02000"
+    },
     "70030000014425": {
         "id": null,
         "rightsId": null,
@@ -13878,9 +14131,9 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/23230e064d2a674468697bef1d65f514eac5a7e91a9c32bf5e7ed03a2b284206.jpg",
         "intro": null,
-        "description": "DLC Pack 1 \"The Master Trials\" includes the following:\n\n1. Trial of the Sword\n2. Hero's Path Mode\n3. Master Mode\n4. Travel Medallion\n5. 8 clothing items hidden in treasure chests\n6. Korok Mask\n\nFurther information about the content can be found below: \n\n1. Trial of the Sword\n\nVisit a certain location to challenge the Trial of the Sword, where you must vanquish waves of enemies to progress from one room to the next. You will start this challenge completely bare, without any armor, equipment, or food items to aid you. Once you defeat all the enemies in a room, you can advance to the next. If you complete all 45 rooms, Link's mind and body will be strong enough to wield the Master Sword's full power and splendor any time the sword is usable! \n\n2. Hero's Path Mode\n\nA feature that allows you to view the path you've taken on your journey. It will record your journey for up to 200 hours of gameplay. Use this to find those shrines and Koroks that are still eluding you! You can even adjust the replay speed so you can manually select the pace you wish to watch your path unfold.\n\n3. Master Mode\n\nIn Master Mode, most enemies you encounter will be one tier higher than they originally were. For example, where you would normally see red Bokoblins, you will now likely see Blue Bokoblins instead.\n\nThere is also a new top tier of enemies that don't appear in Normal Mode! Additionally, enemies will recover health if you stop attacking them, and they will also notice Link more easily, so you may need to make adjustments to your fighting strategies. You also might find enemies and treasure chests floating in the air! Use these locations to your advantage to score treasure or even recover stamina.\n\n4. Travel Medallion\n\nThere is an item called the Travel Medallion hidden in a treasure chest somewhere. Place it at your current location and you will be able to travel there whenever you please. You can only register one location at a time, but this addition should aid you in your journey.\n\n5. 8 clothing items hidden in treasure chests\n\nItems honoring the legacy of The Legend of Zelda series (Majora's Mask, Midna's Helmet, Tingle's Hood, Tingle's Shirt, Tingle's Tights, Phantom Helmet, Phantom Armor, and Phantom Greaves) will be hidden in 8 treasure chests scattered across Hyrule. There are hints to help you find these items hidden somewhere as well. Search for these hints and treasures while you journey across Hyrule!\n\n6. Korok Mask\n\nThe Korok Mask is an item that will be hidden in a treasure chest somewhere in Hyrule, and unlike the 8 items mentioned above, this one has a special ability. When Link wears this mask, it will shake when a hidden Korok is nearby!",
+        "description": "DLC Pack 1 \"The Master Trials\" includes the following:\n\nTrial of the Sword\n\nVisit a certain location to challenge the Trial of the Sword, where you must vanquish waves of enemies to progress from one room to the next. You will start this challenge completely bare, without any armor, equipment, or food items to aid you. Once you defeat all the enemies in a room, you can advance to the next. If you complete all 45 rooms, Link's mind and body will be strong enough to wield the Master Sword's full power and splendor any time the sword is usable! \n\nHero's Path Mode\n\nA feature that allows you to view the path you've taken on your journey. It will record your journey for up to 200 hours of gameplay. Use this to find those shrines and Koroks that are still eluding you! You can even adjust the replay speed so you can manually select the pace you wish to watch your path unfold.\n\nMaster Mode\n\nIn Master Mode, most enemies you encounter will be one tier higher than they originally were. For example, where you would normally see red Bokoblins, you will now likely see Blue Bokoblins instead.\n\nThere is also a new top tier of enemies that don't appear in Normal Mode! Additionally, enemies will recover health if you stop attacking them, and they will also notice Link more easily, so you may need to make adjustments to your fighting strategies. You also might find enemies and treasure chests floating in the air! Use these locations to your advantage to score treasure or even recover stamina.\n\nTravel Medallion\n\nThere is an item called the Travel Medallion hidden in a treasure chest somewhere. Place it at your current location and you will be able to travel there whenever you please. You can only register one location at a time, but this addition should aid you in your journey.\n\n8 clothing items hidden in treasure chests\n\nItems honoring the legacy of The Legend of Zelda series (Majora's Mask, Midna's Helmet, Tingle's Hood, Tingle's Shirt, Tingle's Tights, Phantom Helmet, Phantom Armor, and Phantom Greaves) will be hidden in 8 treasure chests scattered across Hyrule. There are hints to help you find these items hidden somewhere as well. Search for these hints and treasures while you journey across Hyrule!\n\nKorok Mask\n\nThe Korok Mask is an item that will be hidden in a treasure chest somewhere in Hyrule, and unlike the 8 items mentioned above, this one has a special ability. When Link wears this mask, it will shake when a hidden Korok is nearby!",
         "languages": null,
-        "size": 1397751808,
+        "size": 1396703232,
         "ids": [
             "01007EF00011F001"
         ]
@@ -13910,9 +14163,9 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/854648c3814db8c63f8c9ea4cf22972d6f41dddb8453e48cf0fa374729bb0d11.jpg",
         "intro": null,
-        "description": "\"The Champions' Ballad\" will include the following:\n\n1. The Champions' Ballad\n2. 9 clothing items hidden in treasure chests\n3. Ancient Horse Gear\n\nFurther information about this content can be found below:\n\n1. The Champions' Ballad\n\nA mysterious voice beckons Link to challenge the Divine Beast Tamer's Trials. He must now prove himself by defeating enemies using the One-Hit Obliterator, conquering new Shrines, challenging a full dungeon, and overcoming many trials along the way. Once all challenges and trials have been bested, Link will obtain a new power known as the Master Cycle Zero!\n\nAdditionally, the bard Kass is traveling Hyrule to complete the unfinished song his teacher left behind. As Link and Kass chase their respective goals, Kass will share new original songs he wrote capturing lost memories of the four Champions and Zelda, previously unknown to Link. But that unfinished song... What could it be? \n\n*To play The Champions' Ballad, you must first complete the Main Quest to free the four Divine Beasts. \n\n2. 9 clothing items hidden in treasure chests\n\nItems honoring the legacy of The Legend of Zelda series will be hidden in 9 treasure chests scattered across Hyrule, including the Island Lobster Shirt, Ravio's Hood, Zant's Helmet, Phantom Ganon Skull, Phantom Ganon Armor, Phantom Ganon Greaves, and a Royal Guard outfit (complete with Royal Guard Cap, Royal Guard Uniform, and Royal Guard Boots).\n\n3. Ancient Horse Gear\n\nThe Ancient Bridle will increase a horse's number of spurs while equipped. The Ancient Saddle will allow you to call your horse no matter how far away they are. Both of these items will appear in treasure chests somewhere in Hyrule.",
+        "description": "\"The Champions' Ballad\" will include the following:\n\nThe Champions' Ballad\n\nA mysterious voice beckons Link to challenge the Divine Beast Tamer's Trials. He must now prove himself by defeating enemies using the One-Hit Obliterator, conquering new Shrines, challenging a full dungeon, and overcoming many trials along the way. Once all challenges and trials have been bested, Link will obtain a new power known as the Master Cycle Zero!\n\nAdditionally, the bard Kass is traveling Hyrule to complete the unfinished song his teacher left behind. As Link and Kass chase their respective goals, Kass will share new original songs he wrote capturing lost memories of the four Champions and Zelda, previously unknown to Link. But that unfinished song... What could it be? \n\n*To play The Champions' Ballad, you must first complete the Main Quest to free the four Divine Beasts. \n\n9 clothing items hidden in treasure chests\n\nItems honoring the legacy of The Legend of Zelda series will be hidden in 9 treasure chests scattered across Hyrule, including the Island Lobster Shirt, Ravio's Hood, Zant's Helmet, Phantom Ganon Skull, Phantom Ganon Armor, Phantom Ganon Greaves, and a Royal Guard outfit (complete with Royal Guard Cap, Royal Guard Uniform, and Royal Guard Boots).\n\nAncient Horse Gear\n\nThe Ancient Bridle will increase a horse's number of spurs while equipped. The Ancient Saddle will allow you to call your horse no matter how far away they are. Both of these items will appear in treasure chests somewhere in Hyrule.",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "01007EF00011F002"
         ]
@@ -36850,7 +37103,7 @@
         "intro": null,
         "description": "The expansion pass includes DLC Pack 1: The Master Trials and DLC Pack 2: The Champions' Ballad.\n\nExpansion Pass Bonus\n\u2022 Three treasure chests with in-game clothing exclusive to the expansion pass will be added to the Great Plateau.\n\nDLC Pack 1: The Master Trials will include the following:\n\n1. Trial of the Sword\nVisit a certain location to challenge the Trial of the Sword, where you must vanquish waves of enemies to progress from one room to the next. You will start this challenge without any armor, equipment, or food items to aid you. If you complete all 45 rooms, Link's mind and body will be strong enough to wield the Master Sword's full power and splendor any time the sword is usable! \n\n2. Hero's Path Mode\nView the path you've taken on your journey. It will record your journey for up to 200 hours of gameplay. Use this feature to find shrines and Koroks! You can even manually adjust the replay speed.\n\n3. Master Mode\nIn Master Mode, most enemies you encounter will be one tier higher than they originally were. There is also a new top tier of enemies that don't appear in Normal Mode! Additionally, enemies will recover health if you stop attacking them, and they will also notice Link more easily. You also might find enemies and treasure chests floating in the air!\n\n4. Travel Medallion\nThe Travel Medallion will be hidden in a treasure chest somewhere. Place it at your current location and you will be able to travel there whenever you please. You can only register one location at a time, but this addition should aid you in your journey.\n\n5. 8 clothing items hidden in treasure chests\nItems honoring the legacy of The Legend of Zelda series (Majora's Mask, Midna's Helmet, Tingle's Hood, Tingle's Shirt, Tingle's Tights, Phantom Helmet, Phantom Armor, and Phantom Greaves) will be hidden in 8 treasure chests scattered across Hyrule. There are hints to help you find these items hidden somewhere as well. Search for these hints and treasures while you journey across Hyrule!\n\n6. Korok Mask\nThe Korok Mask is an item that will be hidden in a treasure chest somewhere in Hyrule, and unlike the 8 items mentioned above, this one has a special ability. When Link wears this mask, it will shake when a hidden Korok is nearby!\n\nDLC Pack 2: The Champions' Ballad will include the following:\n\n1.\u3000The Champions' Ballad\nA mysterious voice beckons Link to challenge the Divine Beast Tamer's Trials. He must now prove himself by defeating enemies using the One-Hit Obliterator, conquering new Shrines, challenging a full dungeon, and overcoming many trials along the way. Once all challenges and trials have been bested, Link will obtain a new power known as the Master Cycle Zero!\n\nAdditionally, the bard Kass is traveling Hyrule to complete the unfinished song his teacher left behind. As Link and Kass chase their respective goals, Kass will share new original songs he wrote capturing lost memories of the four Champions and Zelda, previously unknown to Link. But that unfinished song... What could it be? \n\n*To play The Champions' Ballad, you must first complete the Main Quest to free the four Divine Beasts. \n\n2.\u30009 clothing items hidden in treasure chests\nItems honoring the legacy of The Legend of Zelda series will be hidden in 9 treasure chests scattered across Hyrule, including the Island Lobster Shirt, Ravio's Hood, Zant's Helmet, Phantom Ganon Skull, Phantom Ganon Armor, Phantom Ganon Greaves, and a Royal Guard outfit (complete with Royal Guard Cap, Royal Guard Uniform, and Royal Guard Boots).\n\n3.\u3000Ancient Horse Gear\nThe Ancient Bridle will increase a horse's number of spurs while equipped. The Ancient Saddle will allow you to call your horse no matter how far away they are. Both of these items will appear in treasure chests somewhere in Hyrule.",
         "languages": null,
-        "size": 1401946112,
+        "size": 1399848960,
         "ids": []
     },
     "70070000000121": {
@@ -37111,7 +37364,7 @@
         "intro": null,
         "description": "The Legend of Zelda\u2122: Breath of the Wild game packs countless hours of play into a vast world of discovery. That makes it an ideal foundation for more adventures! This special bundle comes with the full game for the Nintendo Switch\u2122 system and the Expansion Pass, which grants access to three new treasure chests, The Master Trials DLC Pack 1, and The Champions Ballad DLC Pack 2.\n\nThe Master Trials DLC Pack 1 contains a new challenge called the Cave of Trials, a new Master mode, a new feature called Hero\u2019s Path mode, and more. The Champions Ballad DLC Pack 2 adds in a new dungeon, new story elements about the four Champions and Princess Zelda, plus even more challenges and shrines. The Expansion Pass will also come with a variety of gear and armor items based on previous Legend of Zelda\u2122 series games. Indeed, a world as alive as Hyrule must grow with time. If you live for the thrill of discovery, look no further: this Expansion Pass is the stuff of legends.",
         "languages": null,
-        "size": 16885219328
+        "size": 16883122176
     },
     "70070000001021": {
         "id": null,
@@ -40970,6 +41223,36 @@
         "description": "The American Season is here! \nFeel the adrenaline rush of racing American supercars with this limited-time DLC. Unlock the Ford GT, Dodge Viper ACR, and Ford Shelby GT350R, plus a load of resources to fuel your drive to the top!\n\nThis bundle contains:\n- The Asphalt 9: Legends game\n- 35 blueprints to unlock the Ford GT\n- 35 blueprints to unlock the Dodge Viper ACR\n- 20 blueprints to unlock the Ford Shelby GT350R\n- 500,000 Credits\n- 500 Tokens\n\n",
         "languages": null,
         "size": 3195011072
+    },
+    "70070000012774": {
+        "id": null,
+        "rightsId": null,
+        "name": "NBA 2K22 NBA 75th Anniversary Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210910,
+        "nsuId": 70070000012774,
+        "category": null,
+        "ratingContent": [
+            "Users Interact",
+            "In-Game Purchases (Includes Random Items)"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/89359c02831517a22c71556b672bcbcc8aae791cd476336c48a4bdcc30f57064.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/114cfe466d163385f9aec81269c257fb81607e47e4236d05394cc5f74169d16a.jpg",
+        "intro": "Everything is Game",
+        "description": "A WORLD OF BASKETBALL\nNBA 2K22 puts the entire basketball universe in your hands. PLAY NOW in real NBA and WNBA environments against authentic teams and players. Build your own dream team in MyTEAM with today\u2019s stars and yesterday\u2019s legends. Live out your own pro journey in MyCAREER and experience your personal rise to the NBA. Flex your management skills as a powerful Executive in MyGM and MyLEAGUE. Anyone, anywhere can hoop in NBA 2K22.\n\nSTEP YOUR GAME UP\nNew tactical offense meets an overhauled defense for a more competitive and immersive NBA 2K22. Add skill-based dribbling, shooting, dunking, and alley-oops to your bag of moves, and counter them with ferocious new blocks and contests on the other end of the court.\n\nALL ABOARD THE CRUISE\nCreate your perfect MyPLAYER, level up for rewards, and express yourself through both your game and your style.\n\nYOUR DREAM TEAM\nCollect, craft, and hoop in the ultimate NBA fantasy competition: NBA 2K22 MyTEAM. Build your dream lineup of NBA stars and legends across any era, and explore game-changing evolutions to the MyTEAM experience \u2013 each addition introduced Season after Season.\n\nNEW SEASONS, NEW DISCOVERIES \nIn NBA 2K22, every Season brings fresh opportunities to reap new rewards. Whether in MyTEAM or MyCAREER, compete against the best and discover what amazing rewards each new Season has in store.\n\nThe NBA 2K22 NBA 75th Anniversary Edition includes:\n\u2022 100,000 VC\n\u2022 10,000 MyTEAM Points\n\u2022 10 MyTEAM Tokens\n\u2022 Sapphire Kareem Abdul-Jabbar, Dirk Nowitzki, and Kevin Durant MyTEAM Cards\n\u2022 22 MyTEAM Promo Packs (Receive 10 at launch, then 3 per week for 4 weeks)\n\u2022 Diamond Jordan Shoe MyTEAM card\n\u2022 Coach Card MyTEAM Pack\n\u2022 10 Boosts for each MyCAREER Skill Boost type\n\u2022 10 Boosts for each Gatorade Boost type\n\u2022 4 Cover Athlete T-Shirts for your MyPLAYER\n\u2022 MyPLAYER backpack and arm sleeve\n\u2022 Custom-design skateboard for MyPLAYER",
+        "languages": null,
+        "size": 48489299968
     },
     "70070000012780": {
         "id": null,

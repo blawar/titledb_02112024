@@ -1862,7 +1862,7 @@
             "zh",
             "zh"
         ],
-        "size": 1627389952
+        "size": 1626341376
     },
     "70010000002722": {
         "id": "01009BF0072D4000",
@@ -2326,7 +2326,7 @@
             "zh",
             "zh"
         ],
-        "size": 1906311168
+        "size": 1905262592
     },
     "70010000003842": {
         "id": "0100DDD0085A4000",
@@ -4736,7 +4736,7 @@
             "zh",
             "zh"
         ],
-        "size": 137363456
+        "size": 170917888
     },
     "70010000014952": {
         "id": "01007B000C834000",
@@ -5234,7 +5234,7 @@
             "zh",
             "zh"
         ],
-        "size": 12700352512
+        "size": 12730761216
     },
     "70010000016211": {
         "id": "0100F9F00C696000",
@@ -8895,7 +8895,7 @@
             "ko",
             "zh"
         ],
-        "size": 7634681856
+        "size": 7675576320
     },
     "70010000028226": {
         "id": "0100DCA011262000",
@@ -11385,6 +11385,55 @@
         ],
         "size": 814743552
     },
+    "70010000036695": {
+        "id": "0100D7B013BA8000",
+        "rightsId": null,
+        "name": "Okinawa Rush",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70010000036695,
+        "category": [
+            "Plataformas",
+            "Acci\u00f3n",
+            "Aventura",
+            "Peleas"
+        ],
+        "ratingContent": [
+            "Derramamiento de sangre",
+            "Uso de tabaco",
+            "Violencia"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "No Gravity Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ba42fd067d50c41139543cbb882a78740dc73109682ce415b2927aca4958f7d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d0920d6ac458d5c6ae7721a54020d424c89359249056c2d707144c53675544cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c6e143d7905a12785344fae908e91ad39ff808cf195c0023aab8e25a53e0b5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9fe6ee868ecc8214ab50247deb28838e2a9a66a56b6711f4af1bbba24d5cec10.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/918a7673e349a5e9debcf00a4a053415c1d30ab20c847a17a64a516a510876b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/799cb8164ef495ee6b5888124126581a014baf14e36df768483a6aaf45b304fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65d7aae41313fbe46da57832cf4dce163ff76ae7d280bba3871e7a9b361f6cae.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67a841ed19852d4d89603d95da83bfead818a7c18687d900c59295b3aea7d4b2.jpg",
+        "intro": "Ponte en la piel de los maestros de las artes marciales Hiro, Meilin o Shin mientras se enfrentan a una lucha salvaje por sus vidas contra el clan Black Mantis.",
+        "description": "CARACTER\u00cdSTICAS:\n\u2022 Mec\u00e1nicas de batalla especialmente dise\u00f1adas para el juego con movimientos \u00fanicos para cada personaje.\n\u2022 Lucha con espadas, nunchakus y bastones bo.\n\u2022 Historia cautivadora contada con cinem\u00e1ticas de pixel art creadas con mucho mimo.\n\u2022 Muchos enemigos distintos, cada uno con su propios movimientos y armas.\n\u2022 Intensas batallas contra jefes.\n\u2022 Modo arcade para los que quieran saltar directamente a la acci\u00f3n.\n\u2022 \u00a1Bloquea cualquier ataque, proyectil o trampa!\n\u2022 \u00a1Sube tus puntuaciones m\u00e1s altas y compite con otros jugadores de todo el mundo!\n\u2022 \u00a1Descubre muchos secretos y \u00e1reas ocultas!\n\u2022 \u00a1Juega en compa\u00f1\u00eda con el modo cooperativo local y curaos entre vosotros para alcanzar la victoria!\n\nRESUMEN:\nPonte en la piel de los maestros de las artes marciales Hiro, Meilin o Shin mientras luchan salvajemente por sus vidas contra el clan Black Mantis. DOBLE CAOS: Tr\u00e1ete a un amigo y luchad contra ninjas, demonios y mucho m\u00e1s en el modo cooperativo local para dos jugadores de este juego de acci\u00f3n y aventura plataformero, ambientado en una versi\u00f3n fant\u00e1stica y m\u00edstica de Okinawa.\n\nEl sistema de combate r\u00e1pido y fluido permite realizar muchos movimientos, combos, acrobacias y tiene un intuitivo sistema de bloqueo.\n\n\u00a1Lucha para alcanzar el primer puesto en nuestro marcador en l\u00ednea!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt"
+        ],
+        "size": 509607936
+    },
     "70010000036878": {
         "id": "010043B013C5C000",
         "rightsId": null,
@@ -11477,6 +11526,51 @@
             "zh"
         ],
         "size": 731906048
+    },
+    "70010000037238": {
+        "id": "0100BE7013E06000",
+        "rightsId": null,
+        "name": "Ni no Kuni II: El Renacer de un Reino PRINCE\u2019S EDITION",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210917,
+        "nsuId": 70010000037238,
+        "category": [
+            "Juego de rol",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d34080af3c0546d1fa3abda3b3c342ff46e4001957c66713f6861e3c6e9bf99a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5bfb11e1a13cf9a2085aa9650d7078eb23b15d0fd5029e3a48016242cd0441d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa6385965ea432720d3a3f039761528399ce2f1152a6b0b3f7953bcffa03ea8b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/275db7bd67aa0d88c7eb0356b30b98ab59723970a25ba51e00752253ed4c7153.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b6655e455689c09210c3afa03f2e7b2885f7022fccb74e8c5fb63ea61467475.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31dfb23de934a0732fec6c0f1a7b5f475bb592155f212c78d28d3efba6a8171b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3262b61c0d60ec9dfd10a646d9eb60a6d922816651c9d9c8a7a262d766fb7f6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b51cf18de7eb20a842d77823c4e0778c4ef51b0f362094cca756752498110a25.jpg",
+        "intro": "\u00danete al joven rey Evan en una gesta \u00e9pica para fundar un reino nuevo y salvar el mundo. La Edici\u00f3n del Pr\u00edncipe incluye el juego completo y todo el contenido descargable.",
+        "description": "Sum\u00e9rgete en la experiencia definitiva de Ni no Kuni con la Edici\u00f3n del Pr\u00edncipe que incluye:\n- Ni no Kuni II: El Renacer de un Reino (juego completo)\n- Expansiones que agregan horas de juego adicional\n- Paquete de equipo del pr\u00edncipe\n\n\u00danete al joven rey Evan en una gesta \u00e9pica para fundar un reino nuevo, unir el mundo y salvar a la gente de un mal terrible.\n\nEmprende esta aventura inolvidable que es la combinaci\u00f3n perfecta de pel\u00edcula animada y videojuego. Ni no Kuni II fue desarrollado por LEVEL-5 fe incluye un gran dise\u00f1o de personajes del artista legendario Yoshiyuki Momose y una banda sonora emotiva compuesta por el famos\u00edsimo Joe Hisaishi.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 11387535360
     },
     "70010000037986": {
         "id": "0100BC701417A000",
@@ -11611,6 +11705,48 @@
         ],
         "size": 1645215744
     },
+    "70010000038399": {
+        "id": "0100E3301426E000",
+        "rightsId": null,
+        "name": "Tux and Fanny",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210909,
+        "nsuId": 70010000038399,
+        "category": [
+            "Aventura",
+            "Rompecabezas",
+            "Juego de rol",
+            "Otros"
+        ],
+        "ratingContent": [
+            "Humor vulgar",
+            "Bajo contenido de sangre",
+            "Violencia moderada de fantasia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ghost Time Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c051450f37d9f71188ce96e22e6c980bf4357515d6043db94628727de2666835.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2b490425841740ad740e26dfb3f7cdf0696384c9bcb647b988438cd78ea9087d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f3710cbac1902974cd33cee46884ab60e2df2d99df128f3b2b5a215ad1dd3c18.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a60dad5cd65d8815cacf0fb2a680df90cc256468a3e3d5dc7e64b76effc7e218.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51e7db5d6ccac43c0fb29f968316faf8f327f7b4e34b67b219357e53aa199fbd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14a047babf4cb582739656a0cfbeb96ca027521e9432fcea1787b25105ade9f0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/63125f70ea22077d8d8d6f588594822f60f30a61b4391e2663f84272c8868a31.jpg",
+        "intro": "When you take a closer look, everything is an adventure.",
+        "description": "Tux and Fanny just want to play soccer but their soccer ball is deflated. Go on an epic adventure to help them inflate their ball. Play as both Tux and Fanny as well as a cat and a flea. All four characters will have to work together if you\u2019re going to inflate the ball. \n\nPlay a multitude of diverse mini-games which you'll collect as you progress through your journey, each with their own unique rewards. There are secrets hidden at every turn in the world of Tux and Fanny. Can you find them all?",
+        "languages": [
+            "en"
+        ],
+        "size": 724566016
+    },
     "70010000038612": {
         "id": "01002DA013484000",
         "rightsId": null,
@@ -11645,8 +11781,8 @@
             "https://img-eshop.cdn.nintendo.net/i/7a0542834732fbef398a8ed17167aff447e95dc768f59ddb323ea94a75aa73ad.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/63595b0826bb6ece7b95e4eb2a33e5ad0559224b350a5e2974a44f772963ae59.jpg",
-        "intro": "\u00a1El juego The Legend of Zelda: Skyward Sword vuela hasta la consola Nintendo Switch!",
-        "description": "Apod\u00e9rate de los cielos, empu\u00f1a tu espada y disfruta de la historia m\u00e1s antigua en la serie de The Legend of Zelda\u2122. \u00danete a Link en su aventura por los cielos para rescatar a Zelda, una amiga de la infancia que deber\u00e1 enfrentarse a su destino. Vuela entre las islas flotantes y desciende al peligroso mundo de la superficie en esta versi\u00f3n mejorada en alta definici\u00f3n del juego The Legend of Zelda: Skyward Sword.\n\nDomina el real\u00edstico manejo de la espada que corresponde con tus movimientos\n\nEmpu\u00f1a tu espada e inclina tus tajos para descubrir y atravesar las defensas de tus oponentes utilizando los intuitivos controles por movimiento. Link igualar\u00e1 el \u00e1ngulo de cada tajo que realices con el control Joy-Con\u2122, creando un manejo de espada m\u00e1s profundo basado en la estrategia y la precisi\u00f3n. Los movimientos se sienten m\u00e1s suaves y responden m\u00e1s r\u00e1pido gracias al incremento en la potencia de procesamiento y los gr\u00e1ficos en alta definici\u00f3n de la consola Nintendo Switch. S\u00e1cale provecho al control de juego solo con botones que fue incorporado recientemente y que es perfecto para jugar en el modo port\u00e1til o en la consola Nintendo Switch Lite. \n\nVuela alto con la figura amiibo\u2122 de Zelda y nebur\u00ed\n\nCon la majestuosidad del nebur\u00ed a su lado, Zelda emprender\u00e1 un viaje a su destino en compa\u00f1\u00eda de su amigo de la infancia, Link. Utiliza esta figura* amiibo en cualquier parte de la superficie del mundo para viajar al cielo, incluso desde las profundidades de una mazmorra. Util\u00edzala de nuevo desde lo m\u00e1s alto de las nubes para regresar al mismo lugar del que partiste en la superficie.",
+        "intro": "Resuelve rompecabezas, explora mazmorras y vuela por los cielos",
+        "description": "Desciende al peligroso mundo de la superficie en esta aventura por los cielos. Durante tu misi\u00f3n explorar\u00e1s peligrosas mazmorras llenas de rompecabezas. Cada objeto que obtengas te dar\u00e1 acceso a m\u00e1s descubrimientos (encuentra un \u00e1rea oculta con el escarabajo volador o descubre formas ingeniosas de entorpecer a los enemigos con el l\u00e1tigo). Ya sea si est\u00e1s buscando secretos, practicando el uso de la espada o mejorando tu equipamiento, en el juego The Legend of Zelda\u2122: Skyward Sword HD podr\u00e1s forjar tu propio destino.\n\nDomina el real\u00edstico manejo de la espada que igualar\u00e1 tus movimientos\n\nBlande tu espada ligeramente e inclina tus tajos para romper las defensas de los enemigos utilizando los intuitivos controles por movimiento*. Los movimientos de Link en el juego igualar\u00e1n el \u00e1ngulo de cada tajo que realices con el control Joy-Con\u2122, creando as\u00ed un manejo de espada m\u00e1s profundo basado en la estrategia y la precisi\u00f3n. El intentar descubrir c\u00f3mo, cu\u00e1ndo y d\u00f3nde atacar agrega un giro t\u00e1ctico al manejo de la espada. \u00bfEst\u00e1s jugando fuera de casa? Vuela y ataca usando los controles en el modo solo botones, el cual tambi\u00e9n est\u00e1 disponible para el control Pro de Nintendo Switch\u2122.\n\nDescubre el origen de Link, Zelda y la Espada Maestra\n\n\u00danete a Link en su emocional aventura por rescatar a Zelda, una amiga de la infancia que deber\u00e1 enfrentarse a su destino. El v\u00ednculo que los une es el n\u00facleo de la historia y tambi\u00e9n es la esperanza del mundo para derrotar a la oscuridad y su penetrante poder (que resonar\u00e1 a trav\u00e9s del tiempo). Emb\u00e1rcate en una aventura que definir\u00e1 tu destino para superar una serie de pruebas ancestrales y forjar la poderosa Espada Maestra. Los residentes de Neburia, una isla flotante que tambi\u00e9n es el hogar de Link, tienen coloridas personalidades que brillar\u00e1n cuando les ayudes con sus problemas. Aseg\u00farate de visitar la tienda volante de Terry, pero cu\u00eddate del problem\u00e1tico Vil\u00e1n...",
         "languages": [
             "ja",
             "en",
@@ -12171,6 +12307,48 @@
         ],
         "size": 756023296
     },
+    "70010000041054": {
+        "id": "0100B94014F8E000",
+        "rightsId": null,
+        "name": "NBA 2K22",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210910,
+        "nsuId": 70010000041054,
+        "category": [
+            "Deportes"
+        ],
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego (Incluye art\u00edculos aleatorios)"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/81d9468cfb49ebfd585dc63df67358600ee14399780926ab40e05278201cf8d1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/60ab0218dc50a2af04591f06629a74bc5d171f84124ec518b2881ae9ab690efb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4a131f67f14f9be5d266c5f379cf2c16f88c295989a55925276ae6d58ac8600b.jpg",
+        "intro": "Cualquiera, en cualquier lugar",
+        "description": "UN MUNDO DE BALONCESTO\nNBA 2K22 pone todo el universo del baloncesto a tus pies. JUEGA YA a la NBA y la WNBA en entornos realistas contra equipos y jugadores aut\u00e9nticos. Construye tu propio dream team en MyTEAM con las estrellas de hoy y las leyendas de ayer. Emprende tu propio camino profesional en MyCAREER y experimenta tu ascenso hasta la NBA. Ejercita tus habilidades de gesti\u00f3n como un poderoso ejecutivo en MyGM y MyLEAGUE. Cualquiera, en cualquier lugar, puede encestar en NBA 2K22.\n\nJUEGA A LO GRANDE\nNuevas t\u00e1cticas de ataque sumadas a t\u00e9cnicas defensivas revisadas convierten a NBA 2K22 en una experiencia m\u00e1s completa e inmersiva. Se a\u00f1adieron movimientos de dribling basados en tu habilidad, lanzamientos, mates y alley-oops, adem\u00e1s de nuevos bloqueos m\u00e1s agresivos y concursos.\n\nTODOS A BORDO DEL CRUCERO\nCrea a tu MyPLAYER perfecto, sube de nivel para obtener recompensas y demuestra qui\u00e9n eres gracias a tu juego y a tu estilo\n\nTU DREAM TEAM\nColecciona, crea y utiliza la competici\u00f3n definitiva de fantas\u00eda de la NBA: MyTEAM de NBA 2K22. Forma tu quinteto de ensue\u00f1o con estrellas y leyendas de cualquier era de la NBA y explora las revolucionarias novedades de la experiencia de MyTEAM, con nuevos a\u00f1adidos cada temporada.\n\nNUEVAS TEMPORADAS, NUEVOS DESCUBRIMIENTOS\nCada temporada de NBA 2K22 trae oportunidades de conseguir nuevas recompensas. Compite tanto en MyTEAM como en MyCAREER contra los mejores y descubre las fant\u00e1sticas recompensas que cada temporada trae consigo.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 48489299968
+    },
     "70010000041267": {
         "id": "0100FA5010788000",
         "rightsId": null,
@@ -12641,6 +12819,53 @@
             "zh"
         ],
         "size": 577765376
+    },
+    "70010000044951": {
+        "id": null,
+        "rightsId": null,
+        "name": "Big Brain Academy\u2122: Brain vs. Brain",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211203,
+        "nsuId": 70010000044951,
+        "category": [
+            "Fiesta",
+            "Rompecabezas"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/445f5d5dbe35a5257ffc3df5491d3c90f0a39c5b336d5b644e09adf4178e4654.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca3de9c128fca7b0da0d45b4b8e9f606a5322839d0afbbb749c7c68894cbb155.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e9dc58f50b88e9876a97203334ebf99126567299d488b44ecc92a66a3caa050.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d050f0259a7602b46a081d82366c070f80c360a1ddbfc4e4186f6394ff73afd1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/718b5db528c9d7b32a9e6e5377e0b290f6148373c563016afdc63b20b83746c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9e8bcbbe7bee408c957d63b5df647a2a4913d19a67dd0e60ff91d91aac1face.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/13659d243ae91dbb5688e28234f159c9a51c49c07c911bae35b1e80276b30f74.jpg",
+        "intro": "Enfr\u00e9ntate en batallas y descubre qui\u00e9n tiene el cerebro m\u00e1s vigoroso",
+        "description": "\u00a1Enfr\u00e9ntate a una serie de complejos ejercicios que pondr\u00e1n a prueba tu agilidad mental en Big Brain Academy\u2122: Brain vs. Brain para la consola Nintendo Switch\u2122! Juega en una gran variedad de divertidos y veloces ejercicios como memorizar una serie de n\u00fameros, identificar im\u00e1genes de animales que se enfocar\u00e1n lentamente o guiar un tren a su destino. Compite con tu familia y tus amigos en partidas de 4 jugadores* para ver qui\u00e9n obtiene la mejor puntuaci\u00f3n. Todos podr\u00e1n jugar juntos en diferentes niveles de dificultad, as\u00ed que los ni\u00f1os podr\u00e1n competir contra los adultos en una batalla cerebral.\n\nReg\u00e1lale un poco de diversi\u00f3n mental a tu cerebro\n\nObt\u00e9n tu propia puntuaci\u00f3n de vigor cerebral con un divertido examen. Mejora tu puntuaci\u00f3n al practicar ciertos ejercicios de habilidad y velocidad. Tambi\u00e9n podr\u00e1s prepararte para tu pr\u00f3xima batalla de cerebros o comparar puntuaciones con tu familia y tus amigos. Desbloquea docenas de atuendos para tu avatar, \u00a1desde un disfraz de gato hasta un disfraz de ma\u00edz!\n\nEnfr\u00e9ntate a cerebros que se encuentran lejos o cerca de ti\n\n\u00bfQuieres saber c\u00f3mo ser\u00edan tus resultados en competencias contra cerebros de todo el mundo? Prueba las batallas fantasma para competir contra los datos** de otros usuarios. Elige entre maravillas cerebrales del mundo entero, usuarios en tu lista de amigos o entre los miembros de tu familia que cuenten con perfiles en la misma consola. Tambi\u00e9n podr\u00e1s consultar las clasificaciones para comparar tu vigor cerebral con el de otros.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 0
     },
     "70030000000042": {
         "id": null,
@@ -13941,6 +14166,34 @@
         "size": 684720128,
         "parentId": "0100FA5010788000"
     },
+    "70030000014326": {
+        "id": null,
+        "rightsId": null,
+        "name": "Sky Racket Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000014326,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1239416832,
+        "parentId": "01004F0010A02000"
+    },
     "70030000014425": {
         "id": null,
         "rightsId": null,
@@ -13995,9 +14248,9 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b24122bc5e4018842e4b046c487be7239e8f46a8dea3100a0e0987d8d7aa7d5d.jpg",
         "intro": null,
-        "description": "El paquete n.\u00ba 1, las pruebas legendarias, incluye los siguientes contenidos:\n\nSantuario de la espada\nEntrar\u00e1s en el santuario sin armas ni equipamiento y deber\u00e1s abrirte paso a trav\u00e9s de 45 niveles con feroces enemigos. Solo podr\u00e1s disponer de las herramientas que encuentres por el camino. Si superas el desaf\u00edo, lograr\u00e1s que la Espada Maestra sea a\u00fan m\u00e1s poderosa.\n\nFunci\u00f3n \"Senda del h\u00e9roe\"\nSe actualizar\u00e1 el mapa para que puedas ver el recorrido que has seguido en tu aventura. La funci\u00f3n almacena en torno a 200 horas de juego y permite acceder a momentos espec\u00edficos para que puedas ver en detalle tus movimientos previos. Incluso podr\u00eda serte \u00fatil para detectar santuarios que te hayan pasado desapercibidos al mostrarte qu\u00e9 zonas no has explorado todav\u00eda.\n\nModo experto\nEste modo incrementa el nivel de todos los monstruos: por ejemplo, los bokoblin rojos se volver\u00e1n azules. Tambi\u00e9n ver\u00e1s poderosos enemigos que no aparecen en el modo normal. Del mismo modo, los monstruos recuperar\u00e1n energ\u00eda vital lentamente y podr\u00e1n detectarte con mayor facilidad. Por \u00faltimo, aparecer\u00e1n enemigos y cofres del tesoro en el aire.\n\nNota: el modo experto se hab\u00eda anunciado previamente como \"modo dif\u00edcil\".\n\nTeletransportador\nEste objeto, oculto en un cofre del tesoro, te permite registrar tu ubicaci\u00f3n actual como punto de teletransporte en el mapa. Ten en cuenta que solo puedes registrar un lugar a la vez.\n\n8 objetos ocultos que deber\u00e1s localizar\nPodr\u00e1s encontrar los siguientes objetos inspirados en la serie The Legend of Zelda: la M\u00e1scara de Majora, el casco de Midna, el gorro, mallas y camiseta de Tingle, as\u00ed como el casco, armadura y grebas de espectro. Todos ellos se encuentran en cofres del tesoro desperdigados por Hyrule; sigue las pistas hasta dar con ellos.\n\nM\u00e1scara de kolog\nEsta m\u00e1scara se encuentra en un cofre del tesoro oculto. Al pon\u00e9rtela, emitir\u00e1 una vibraci\u00f3n para avisarte de que alg\u00fan kolog se encuentra en tus inmediaciones.",
+        "description": "El paquete n.\u00ba 1, las pruebas legendarias, incluye los siguientes contenidos:\n\nSantuario de la espada\n\nEntrar\u00e1s en el santuario sin armas ni equipamiento y deber\u00e1s abrirte paso a trav\u00e9s de 45 niveles con feroces enemigos. Solo podr\u00e1s disponer de las herramientas que encuentres por el camino. Si superas el desaf\u00edo, lograr\u00e1s que la Espada Maestra sea a\u00fan m\u00e1s poderosa.\n\nFunci\u00f3n \"Senda del h\u00e9roe\"\n\nSe actualizar\u00e1 el mapa para que puedas ver el recorrido que has seguido en tu aventura. La funci\u00f3n almacena en torno a 200 horas de juego y permite acceder a momentos espec\u00edficos para que puedas ver en detalle tus movimientos previos. Incluso podr\u00eda serte \u00fatil para detectar santuarios que te hayan pasado desapercibidos al mostrarte qu\u00e9 zonas no has explorado todav\u00eda.\n\nModo experto\n\nEste modo incrementa el nivel de todos los monstruos: por ejemplo, los bokoblin rojos se volver\u00e1n azules. Tambi\u00e9n ver\u00e1s poderosos enemigos que no aparecen en el modo normal. Del mismo modo, los monstruos recuperar\u00e1n energ\u00eda vital lentamente y podr\u00e1n detectarte con mayor facilidad. Por \u00faltimo, aparecer\u00e1n enemigos y cofres del tesoro en el aire.\n\nNota: el modo experto se hab\u00eda anunciado previamente como \"modo dif\u00edcil\".\n\nTeletransportador\n\nEste objeto, oculto en un cofre del tesoro, te permite registrar tu ubicaci\u00f3n actual como punto de teletransporte en el mapa. Ten en cuenta que solo puedes registrar un lugar a la vez.\n\n8 objetos ocultos que deber\u00e1s localizar\n\nPodr\u00e1s encontrar los siguientes objetos inspirados en la serie The Legend of Zelda: la M\u00e1scara de Majora, el casco de Midna, el gorro, mallas y camiseta de Tingle, as\u00ed como el casco, armadura y grebas de espectro. Todos ellos se encuentran en cofres del tesoro desperdigados por Hyrule; sigue las pistas hasta dar con ellos.\n\nM\u00e1scara de kolog\n\nEsta m\u00e1scara se encuentra en un cofre del tesoro oculto. Al pon\u00e9rtela, emitir\u00e1 una vibraci\u00f3n para avisarte de que alg\u00fan kolog se encuentra en tus inmediaciones.",
         "languages": null,
-        "size": 1397751808,
+        "size": 1396703232,
         "ids": [
             "01007EF00011F001"
         ]
@@ -14029,7 +14282,7 @@
         "intro": null,
         "description": "El paquete \"La balada de los campeones\" incluye lo siguiente:\n\nLa balada de los campeones\n\nLink se enfrenta a un nuevo desaf\u00edo guiado por una voz celestial: una prueba para controlar bestias divinas. Empu\u00f1a el Aniquilador Divino y elimina monstruos en diversas ubicaciones, descubre nuevos santuarios, supera un enorme calabozo y otros desaf\u00edos hasta hacerte due\u00f1o de la Moto Hyliana Alfa.\n\nPor otro lado, ayuda a Nyel a terminar la balada inconclusa que dej\u00f3 su maestro. Con algo de inspiraci\u00f3n, se animar\u00e1 a componer sus propios cantos, que te har\u00e1n revivir recuerdos pasados que desconoc\u00edas de los campeones y la princesa Zelda. \u00bfQue ocultar\u00e1 esa balada misteriosa?\n\nNota: para disfrutar del contenido de \"La balada de los campeones\", deber\u00e1s haber superado antes los desaf\u00edos de liberar las cuatro bestias divinas.\n\nIncluye adem\u00e1s:\n\n9 objetos de la serie The Legend of Zelda ocultos en distintos puntos de Hyrule: la camiseta de langosta; la capucha de Ravio; el casco de Zant; casco, botas y cota de Ganon fantasma; y tres partes del uniforme de la antigua guardia real hyliana.\n\nArreos ancestrales ocultos en cofres: una brida que prolonga el galope de tu montura y una silla que permite llamarla desde cualquier lugar.",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "01007EF00011F002"
         ]
@@ -36967,7 +37220,7 @@
         "intro": null,
         "description": "La suscripci\u00f3n de expansi\u00f3n incluye los paquetes 1 y 2 de contenido descargable de pago para el juego.\n\n\u2022 Objetos de la suscripci\u00f3n de expansi\u00f3n\n\nSe a\u00f1adir\u00e1n en la meseta de los albores tres cofres con equipamiento exclusivo y otros objetos \u00fatiles.\n\n\u2022 Paquete n.\u00ba 1: Las pruebas legendarias\n\nIncluye:\n\nSantuario de la espada\nDeber\u00e1s atravesar, sin armas ni equipamiento, 45 niveles llenos de enemigos. Si lo logras, la Espada Maestra ser\u00e1 a\u00fan m\u00e1s poderosa.\n\nSenda del h\u00e9roe\nVer\u00e1s en el mapa el recorrido de tu aventura, hasta unas 200 horas de juego.\n\nModo experto\nAumenta la fuerza de todos los monstruos, que ahora adem\u00e1s recuperan vitalidad. Tambi\u00e9n encontrar\u00e1s nuevos rivales, e incluso aparecer\u00e1n enemigos y cofres en el aire.\n\nTeletransportador\nRegistra tu ubicaci\u00f3n en el mapa como punto de teletransporte.\n\n8 objetos de la serie The Legend of Zelda ocultos en distintos puntos de Hyrule: la M\u00e1scara de Majora; el casco de Midna; gorro, mallas y camiseta de Tingle; y casco, armadura y grebas de espectro. Todos est\u00e1n en cofres ocultos en Hyrule; sigue las pistas para localizarlos.\n\nM\u00e1scara de kolog\nOculta en un cofre, si la usas emite una vibraci\u00f3n cuando alg\u00fan kolog est\u00e1 cerca.\n\n\u2022 Paquete n.\u00ba 2: La balada de los campeones\n\nEnfr\u00e9ntate una nueva prueba guiado por una voz celestial. Elimina monstruos en diversas ubicaciones, descubre nuevos santuarios y supera un enorme calabozo para obtener la Moto Hyliana Alfa.\n\nPor otro lado, ayuda a Nyel a terminar la balada inconclusa de su maestro y a componer sus propios cantos, que te har\u00e1n revivir recuerdos que desconoc\u00edas de los campeones y la princesa Zelda.\n\nNota: para disfrutar del contenido de \"La balada de los campeones\", deber\u00e1s liberar primero a las cuatro bestias divinas.\n\nIncluye:\n\n9 objetos de la serie The Legend of Zelda ocultos en distintos puntos de Hyrule: la camiseta de langosta; la capucha de Ravio; el casco de Zant; casco, botas y cota de Ganon fantasma; y tres partes del uniforme de la antigua guardia real hyliana.\n\nArreos ancestrales ocultos en cofres: una brida que prolonga el galope de tu montura y una silla que permite llamarla desde cualquier lugar.",
         "languages": null,
-        "size": 1401946112,
+        "size": 1399848960,
         "ids": []
     },
     "70070000000121": {
@@ -37228,7 +37481,7 @@
         "intro": null,
         "description": "El juego de The Legend of Zelda\u2122: Breath of the Wild atesora incontables horas de juego en un inmenso mundo de descubrimiento. \u00a1Eso lo convierte en el cimiento para m\u00e1s aventuras! Este paquete especial incluye el juego completo y la subscripci\u00f3n de expansi\u00f3n, el cual te permite acceder a tres nuevos cofres de tesoro, el paquete n\u00b0 1 de contenido descargable: las pruebas legendarias y el paquete n\u00b0 2 de contenido descargable: la balada de los campeones.\n\nEl paquete n\u00b0 1 de contenido descargable: las pruebas legendarias, incluye un nuevo desaf\u00edo llamado santuario de la espada, un nuevo modo dif\u00edcil, una nueva funci\u00f3n llamada senda del h\u00e9roe y mucho m\u00e1s. El paquete n\u00b0 2 de contenido descargable: la balada de los campeones incluir\u00e1 tambi\u00e9n una gran variedad de equipo y objetos de armadura inspirados en juegos anteriores de la serie The Legend of Zelda\u2122. Es un hecho que un mundo tan vivo como el de Hyrule debe crecer conforme pasa el tiempo. Si te apasiona la emoci\u00f3n del descubrimiento, no busques m\u00e1s, esta subscripci\u00f3n de expansi\u00f3n es lo que las leyendas necesitan.\n",
         "languages": null,
-        "size": 16885219328
+        "size": 16883122176
     },
     "70070000001021": {
         "id": null,
@@ -41087,6 +41340,36 @@
         "description": "\u00a1Ya est\u00e1 aqu\u00ed la temporada americana!\nSiente la adrenalina al conducir supercoches americanos con este contenido de tiempo limitado. Desbloquea el Ford GT, el Dodge Viper ACR y el Ford Shelby GT350R, adem\u00e1s de un mont\u00f3n de recursos que te ayudar\u00e1n a llegar a lo m\u00e1s alto.\n\nEste conjunto contiene:\n- El juego Asphalt 9: Legends\n- 35 planos para desbloquear el Ford GT\n- 35 planos para desbloquear el Dodge Viper ACR\n- 20 planos para desbloquear el Ford Shelby GT350R\n- 500.000 cr\u00e9ditos\n- 500 fichas",
         "languages": null,
         "size": 3195011072
+    },
+    "70070000012774": {
+        "id": null,
+        "rightsId": null,
+        "name": "NBA 2K22 NBA 75th Anniversary Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210910,
+        "nsuId": 70070000012774,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego (Incluye art\u00edculos aleatorios)"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/89359c02831517a22c71556b672bcbcc8aae791cd476336c48a4bdcc30f57064.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/114cfe466d163385f9aec81269c257fb81607e47e4236d05394cc5f74169d16a.jpg",
+        "intro": "Cualquiera, en cualquier lugar",
+        "description": "UN MUNDO DE BALONCESTO\nNBA 2K22 pone todo el universo del baloncesto a tus pies. JUEGA YA a la NBA y la WNBA en entornos realistas contra equipos y jugadores aut\u00e9nticos. Construye tu propio dream team en MyTEAM con las estrellas de hoy y las leyendas de ayer. Emprende tu propio camino profesional en MyCAREER y experimenta tu ascenso hasta la NBA. Ejercita tus habilidades de gesti\u00f3n como un poderoso ejecutivo en MyGM y MyLEAGUE. Cualquiera, en cualquier lugar, puede encestar en NBA 2K22.\n\nJUEGA A LO GRANDE\nNuevas t\u00e1cticas de ataque sumadas a t\u00e9cnicas defensivas revisadas convierten a NBA 2K22 en una experiencia m\u00e1s completa e inmersiva. Se a\u00f1adieron movimientos de dribling basados en tu habilidad, lanzamientos, mates y alley-oops, adem\u00e1s de nuevos bloqueos m\u00e1s agresivos y concursos.\n\nTODOS A BORDO DEL CRUCERO\nCrea a tu MyPLAYER perfecto, sube de nivel para obtener recompensas y demuestra qui\u00e9n eres gracias a tu juego y a tu estilo\n\nTU DREAM TEAM\nColecciona, crea y utiliza la competici\u00f3n definitiva de fantas\u00eda de la NBA: MyTEAM de NBA 2K22. Forma tu quinteto de ensue\u00f1o con estrellas y leyendas de cualquier era de la NBA y explora las revolucionarias novedades de la experiencia de MyTEAM, con nuevos a\u00f1adidos cada temporada.\n\nNUEVAS TEMPORADAS, NUEVOS DESCUBRIMIENTOS\nCada temporada de NBA 2K22 trae oportunidades de conseguir nuevas recompensas. Compite tanto en MyTEAM como en MyCAREER contra los mejores y descubre las fant\u00e1sticas recompensas que cada temporada trae consigo.\n\nNBA 2K22 NBA 75th Anniversary Edition incluye:\n\u2022 100\u00a0000 VC\n\u2022 10\u00a0000 puntos de MyTEAM\n\u2022 10 fichas de MyTEAM\n\u2022 Cartas Zafiro de Kareem Abdul-Jabbar, Dirk Nowitzki y Kevin Durant para MyTEAM\n\u2022 22 paquetes Promoci\u00f3n de MyTEAM (10 en el lanzamiento y, despu\u00e9s, 3 a la semana durante 4 semanas)\n\u2022 Carta de MyTEAM de zapatillas Jordan Diamante\n\u2022 Paquete de MyTEAM de la carta Entrenador\n\u2022 10 potenciadores de habilidades de MyCAREER de cada tipo\n\u2022 10 potenciadores Gatorade de cada tipo\n\u2022 4 camisetas de los deportistas en portada para tu MyPLAYER\n\u2022 Mochila y calentador de brazo para MyPLAYER\n\u2022 Monopat\u00edn personalizado para MyPLAYER",
+        "languages": null,
+        "size": 48489299968
     },
     "70070000012780": {
         "id": null,
