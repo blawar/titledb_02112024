@@ -1862,7 +1862,7 @@
             "zh",
             "zh"
         ],
-        "size": 1626341376
+        "size": 1625292800
     },
     "70010000002722": {
         "id": "01009BF0072D4000",
@@ -3754,7 +3754,7 @@
             "ru",
             "ko"
         ],
-        "size": 14289993728
+        "size": 14291042304
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -12128,9 +12128,13 @@
             "Acci\u00f3n",
             "Juego de rol"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violencia moderada de fantasia",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
         "numberOfPlayers": 1,
-        "rating": 10,
+        "rating": 6,
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
