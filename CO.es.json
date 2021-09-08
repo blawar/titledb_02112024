@@ -12106,7 +12106,7 @@
         "languages": [
             "en"
         ],
-        "size": 1414529024
+        "size": 1672478720
     },
     "70010000039945": {
         "id": null,
@@ -26275,6 +26275,36 @@
         "size": 3145728,
         "ids": [
             "010040E0116B9001"
+        ]
+    },
+    "70050000021701": {
+        "id": "010040E0116B9004",
+        "rightsId": null,
+        "name": "Turbo de Sonic, la pel\u00edcula",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210907,
+        "nsuId": 70050000021701,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3b3270873ce96fff413f806d3a3f0aa5e256537cdc56adb16cf71a67d7c4039c.jpg",
+        "intro": null,
+        "description": " Aprovecha el poder de Sonic y obt\u00e9n un efecto de rayo el\u00e9ctrico exclusivo.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010040E0116B9004"
         ]
     },
     "70050000021702": {
@@ -40892,7 +40922,7 @@
         "intro": "\u00a1Disfruta la edici\u00f3n definitiva ahora mismo!\n\n",
         "description": "Disfruta la historia completa de Minecraft Dungeons, desde el principio hasta el End. Adquiere la edici\u00f3n definitiva, que incluye el juego base y los seis DLC: El despertar de la jungla, El invierno rastrero, Monta\u00f1as aulladoras, Las llamas del inframundo, Las profundidades ocultas y Vac\u00edo resonante, todo por un precio m\u00e1s bajo que si compras el juego y cada DLC por separado. Enfrenta muchas criaturas, explora los niveles que pasan por diferentes dimensiones, y descubre tesoros incre\u00edbles mientras sigues la historia del Archillano y el orbe del dominio. Esta es tu oportunidad para vivir la experiencia completa de Minecraft Dungeons. \u00a1Adquiere tu copia ahora mismo! \n",
         "languages": null,
-        "size": 7141851136
+        "size": 7140802560
     },
     "70070000012481": {
         "id": null,

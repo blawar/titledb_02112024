@@ -3996,7 +3996,7 @@
             "zh",
             "zh"
         ],
-        "size": 16331571200
+        "size": 16330522624
     },
     "70010000012332": {
         "id": "01006A800016E000",
@@ -6476,7 +6476,7 @@
             "ru",
             "ko"
         ],
-        "size": 14642315264
+        "size": 14794358784
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -7344,7 +7344,7 @@
             "zh",
             "zh"
         ],
-        "size": 7112491008
+        "size": 7111442432
     },
     "70010000021451": {
         "id": "01006C300E9F0000",
@@ -11994,7 +11994,7 @@
         "languages": [
             "en"
         ],
-        "size": 1414529024
+        "size": 1672478720
     },
     "70010000039945": {
         "id": null,
@@ -26164,6 +26164,36 @@
         "size": 3145728,
         "ids": [
             "010040E0116B9001"
+        ]
+    },
+    "70050000021701": {
+        "id": "010040E0116B9004",
+        "rightsId": null,
+        "name": "Sonic Movie Boost",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210907,
+        "nsuId": 70050000021701,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3b3270873ce96fff413f806d3a3f0aa5e256537cdc56adb16cf71a67d7c4039c.jpg",
+        "intro": null,
+        "description": "Harness all the power of Sonic from the hit movie and gain an exclusive electric lightning effect.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010040E0116B9004"
         ]
     },
     "70050000021702": {
@@ -40781,7 +40811,7 @@
         "intro": "Play the Ultimate Edition now!\n",
         "description": "Experience the complete story of Minecraft Dungeons from the beginning to the End. Grab the Ultimate Edition which includes the base game and all six DLCs: Jungle Awakens, Creeping Winter, Howling Peaks, Flames of the Nether, Hidden Depths, and Echoing Void\u2013all at a lower price than purchasing the game and each DLC separately. Fight scores of mobs, explore dimension-hopping levels, and discover untold treasures as you follow the story of the Arch-Illager and the Orb of Dominance.This is your chance to pick up the complete Minecraft Dungeons experience, so pick up your copy now! \n",
         "languages": null,
-        "size": 7141851136
+        "size": 7140802560
     },
     "70070000012481": {
         "id": null,
