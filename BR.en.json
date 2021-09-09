@@ -2230,7 +2230,7 @@
             "zh",
             "zh"
         ],
-        "size": 5152702464
+        "size": 5843714048
     },
     "70010000004705": {
         "id": "01008F1008DA6000",
@@ -3973,7 +3973,7 @@
             "de",
             "it"
         ],
-        "size": 115343360
+        "size": 121634816
     },
     "70010000013191": {
         "id": "010039300BDB2000",
@@ -6753,7 +6753,7 @@
             "zh",
             "zh"
         ],
-        "size": 1850736640
+        "size": 1846542336
     },
     "70010000024168": {
         "id": "010066C00FA94000",
@@ -8886,7 +8886,7 @@
             "zh",
             "zh"
         ],
-        "size": 2999975936
+        "size": 3247439872
     },
     "70010000031494": {
         "id": "010025D01221A000",
@@ -10564,6 +10564,50 @@
         ],
         "size": 7954497536
     },
+    "70010000034025": {
+        "id": "0100B82012E86000",
+        "rightsId": null,
+        "name": "Fisti-Fluffs",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210923,
+        "nsuId": 70010000034025,
+        "category": [
+            "Arcade",
+            "Party",
+            "Action",
+            "Fighting"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Rogue Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8529717882ff744d1d17df4452e48a06ea671442c2aec62f788fe307135b67f5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b71c90c7773c55733c57eca5146f690c35b8ad68790ce9082e1a116506b27f85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b72db2cc6cf7f6cd2762f87781297b906b771a11e0cf5f9ca4dad481d09d1bd9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4fc99cbd5bd7df4e85a8e54f0b8a45e72fe4430d110dd53f7ce7c16b17e09caa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0eaf0ff4aa461aa3683dd3e841ee1b493b106b155fdc851c3e104e26c942a538.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71e50b72541e3f7cf0d61c883482c6e6a63cd506595ef6707065613ee2c3e5d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0cf432ce812d2f3df326eaade18e09c9c1e7b62cf2548740c34c44c08adf3653.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6e84323e123c1abd74dc6ba88913c3564bcfdf17d0f8cc543a7b8c51ffb5d0c6.jpg",
+        "intro": "It\u2019s gloves off and claws out in this adorable physics-based cat fighter.",
+        "description": "With no humans in sight, the cats are bored\u2014and you know what that means? That\u2019s right. It\u2019s time to tussle! Pounce, hiss, flail, and claw your way through the kitty kingdom to prove your wobbly cat \u201cis best cat.\u201d\n\nFisti-Fluffs is an adorable (and yes, ridiculous) physics-based party game where you tussle with other cats and destroy the environments in frenetic, over-the-top battles. Of course, you can play alone, but it\u2019s even better with friends. So get your claws out and prepare for some kitty carnage.\n\nGAME FEATURES:\n\u2022 Fast-paced, physics-based, cat-tussling fun while the owners are away\n\u2022 Up to 4 players can duke it out in smooth and hilarious brawls\n\u2022 Game modes: Tussle, Crown Control, Destruction, Party, and Kibble Defense\n\u2022 In Kibble Defense, you and up to 3 of your best friends fend off rats and other critters from stealing your kibble in this endless wave-based game mode \n\u2022 6 fully destructible, fun, exciting, and colorful stages to bust up + the largest and most comprehensive house stage in Kibble Defense\n\u2022 Smack various objects in the room to launch them at your opponents\n\u2022 Ready your paws and play as adorable digitized cats inspired by real pets. Try not to ooh and aah at all of the lovable kitties and charming levels\n\u2022 Create and customize your kitty with unique styles, hats, and outfits\n\u2022 Snap shareable screenshots overflowing with cuteness using the built-in camera mode\n\u2022 Rock out with the cats in Metal Mode.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 1735393280
+    },
     "70010000034060": {
         "id": "0100BA5012E54000",
         "rightsId": null,
@@ -12025,8 +12069,8 @@
             "Platformer"
         ],
         "ratingContent": [
-            "Usu\u00e1rios Interagem",
-            "Viol\u00eancia Fantasiosa"
+            "Viol\u00eancia Fantasiosa",
+            "Intera\u00e7\u00e3o de usu\u00e1rios"
         ],
         "numberOfPlayers": 1,
         "rating": 0,
@@ -13025,6 +13069,54 @@
         ],
         "size": 2665480192
     },
+    "70010000036016": {
+        "id": "010099F013898000",
+        "rightsId": null,
+        "name": "World War Z",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211102,
+        "nsuId": 70010000036016,
+        "category": [
+            "Shooter",
+            "Action"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Extrema"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Saber Interactive Incorporated",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8c5822072fd86f69fd7282152aaa57b950c1fab518cc9751cc8c80745b232a5b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3d424b1979abddb81846f72404c59a1afaf2d99be0bec9374f1bf9072b3ebf40.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09bfd0b4dc54f7e317651bf4e82e56ae56b589e7315a21dd21d64a56baed303d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e4faf13a22fc2ae8afa1e7522691fd735c49147443616f47ed6bf91eebc0b2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f581d5952f066ccc9248162d2423b18f7d07fe0cd7590d2e183524f7ee1c6c3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8194cc418000d7f620549fd5a022f5230da8160839fae340b1e228cb1faa0773.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b825878dc9ea2728c187a9f5feba65c4b73fe0af3003baf0037486da96b4d36a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/950bbf17923049e89c5a6d76059225045d6597f93f5d630dbe40fa045e54f561.jpg",
+        "intro": null,
+        "description": "The Swarm Comes to the Nintendo Switch\u2122\n\nWorld War Z, the heart-pounding zombie shooter that has captivated over 15 million players now arrives on Nintendo Switch\u2122. Inspired by the Paramount Pictures film, World War Z focuses on fast-paced third-person shooter gameplay featuring swarms of hundreds of zombies. \n\nHumanity is on the brink of extinction. From New York to Moscow, Jerusalem and more, the undead apocalypse continues to spread. As the end looms, a hardened few band together to defeat the horde and outlive the dead.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 7104102400
+    },
     "70010000036065": {
         "id": "0100AEB0138A4000",
         "rightsId": null,
@@ -13789,7 +13881,7 @@
             "it",
             "pt"
         ],
-        "size": 509607936
+        "size": 756023296
     },
     "70010000036698": {
         "id": "01004F0013BAA000",
@@ -19643,6 +19735,50 @@
         ],
         "size": 3288334336
     },
+    "70010000039353": {
+        "id": "01002F101353A000",
+        "rightsId": null,
+        "name": "Classic Logical Bundle (4in1)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210916,
+        "nsuId": 70010000039353,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Education",
+            "Training"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 0,
+        "developer": null,
+        "publisher": "No Gravity Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5b035b8bfb3eb4c857fb5144d392c6f855a30df530693d0e968d2ce78e7c4e1b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a866480da875080eaa0b2016a571ca65f95cdc69be8fcc0d8880501d5b771376.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ddb46fd3cd370adb478fa9956bdee67bd649c322206a392bbc218b7812fd663a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2beebe6fe5c9f9cad9c7517d58c85a38f06a457fc362494a7d83970251cebc0e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db52c43c9d9e8b5819c25c78286584f370089114f0811ef1d8871e4c8a7a9a5e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/93852a6a0e13f5a8a505e82f523de7f8336fd724dbb8d13dfa8cff099ad45b73.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e838963453436da55ec9d2a11b630df916dd5956c0d8b7c904285a748d6a951.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c5971d2e44c17364f66a635dbc13b30843d8b39c210df61e30f4808a8c1bc9bc.jpg",
+        "intro": "A bundle of 4 classics that will surely Tic your boxes and sweep you off your feet! ",
+        "description": "Do you ever long for the olden days? Those lazy, rainy afternoons when you could just relax on your couch with a cup of tea and play games with your remote on one of those game channels. Or perhaps those slow days at the office where you knew there\u2019s nothing to do, so you just loaded up Minesweeper and zoned out for an hour. Wasn\u2019t life much simpler back then?\n\nWell if you\u2019re looking for that touch of nostalgia, you can\u2019t miss this bundle. Featuring Four in Row, Minesweeper, Reversi Pro, and Tic Tac Toe, Classic Logical Bundle is sure to bring you back to the yesteryear of gaming. So put your feet up and get ready to experience the classics of gaming, alone or with a friend!\n\n\u2022 TIC TAC TOE \nA classic pen and paper game is here to keep you on your Toes! Pick X or O and then take turns marking your symbol on a grid. The first one to fill in a row of 3 vertically, horizontally, or diagonally wins! Play Tic Tac Toe against the built-in computer player or against a friend, locally - taking turns on your device. Will your strategy prove superior?\n\n\u2022 FOUR IN ROW\nAnother classic brought to you digitally! Drop your piece in one of the rows of the vertically suspended board and watch it drop to the bottom. The first player to put 4 pieces in a row, wins! Play against the computer or with a friend, locally. Outsmart your opponent!\n\n\u2022 MINESWEEPER\nA thrilling logical game now on Nintendo Switch\u2122! This classic needs no introduction. Press a square on a grid to reveal it, or use the flag tool to mark a mine. Each number you reveal represents how many mines are connected to the corresponding square. You win by marking all the mines. Be careful though, clicking on a mine will end your run instantly. Do you have what it takes to be a Minesweeper?\n\n\u2022 REVERSI PRO\nA simple yet challenging classic. This 2-player game will make you unlock 100% of your brain. There is a 64 square grid, you start in the middle with 2 white and 2 black pieces, or 2 for each player. You have to drop a piece adjacent to the rest of the pieces, and when you do so, all the pieces between this new piece and your other pieces get flipped over to your color. Be careful though, your opponent can do the same, so plan ahead! The player who fills the board with more of his pieces wins. Play against the computer opponent or against a friend, locally. Master the strategy, outplay your opponent, and flip to win! Just\u2026 don\u2019t flip the table, please.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 177209344
+    },
     "70010000039355": {
         "id": "010099601473E000",
         "rightsId": null,
@@ -19953,7 +20089,7 @@
             "zh",
             "zh"
         ],
-        "size": 509607936
+        "size": 510656512
     },
     "70010000039428": {
         "id": "010043E01476A000",
@@ -21633,7 +21769,11 @@
             "Action",
             "RPG"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Viol\u00eancia Fantasiosa",
+            "Compras on-line",
+            "Intera\u00e7\u00e3o de usu\u00e1rios"
+        ],
         "numberOfPlayers": 1,
         "rating": 0,
         "developer": null,
@@ -22411,8 +22551,8 @@
             "https://img-eshop.cdn.nintendo.net/i/79f85005a954081458f50e5d61c39c84cdde650dc4311ec880d6665a4682866a.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e2ee0ed32d0b10c26270db4e0a7d086cea5bbe0ce116feeebbd25bbfc2083cd5.jpg",
-        "intro": "Go on a journey with Flynn and his mythical companion Dex as they fight together to save their home Rosantica from the evil in The Scourge.",
-        "description": "The Peace of Rosantica is Threatened Once Again\n\nThe peaceful and beautiful island of Rosantica is under threat once more by a relentless evil. The magical barrier between Rosantica and The Scourge has started to crack, allowing dangerous creatures to slowly seep back in to try and take over the island. Flynn stumbles upon this invasion and discovers he must stand up against The Scourge to stop its spread into Rosantica. Accompanied by his mythical companion Dex, Guardian Spirit of the Land, Flynn will be challenged by the evil from The Scourge and its powerful overlord.\n\nClassic 2D Action Platformer\n\nFlynn: Son of Crimson is a handcrafted 2D action platformer that will take you on a journey of discovery and conflict as you learn to master the art of Crimson Energy. Help Flynn and Dex save Rosantica before the evil from The Scourge claims his home.\n\nFlynn and Dex\n\nSummon your mythical companion and protector Dex in times of need and fight alongside her as you work to save Rosantica. Dex will excel in crushing tough walls and slashing/biting her way through hordes of enemies. She\u2019s the best doggo a boy like Flynn could hope for!\n\nThe bond between Flynn and Dex is one of friendship, mutual protection and love for one another. With the imminent threat coming from The Scourge, Flynn and Dex charge snout-first into battle.\n\nExplore Rosantica and The Scourge World \n\nExplore Rosantica and its unique regions, each filled with ancient mysteries to be discovered. Collect relics along your journey and uncover new paths as you fight your way to victory. \n\nThe Scourge is a dark world, filled with hate, trying to infest and destroy the beauty of Rosantica. You will need to enter this sinister world to take on Zealock, Lord of this dimension, and his mysterious dagger wielding warrior, Rozia. \n\nEmbrace the Power of Crimson Energy \n\nFlynn discovers he has powers he never knew about from a lineage that is a mystery. Discover the power of Crimson Energy and help Flynn to master this new part of him.\n\nThe Crimson Blade, a staple in Flynn\u2019s arsenal, is the first weapon of Crimson energy gifted to Flynn by the Goddess Sorrell during a great time of need. Unlock piercing dashes and uppercuts to destroy those nasty foes.\n\nThe Crimson Axe demands precise timing and enemy prediction, trading the quick cuts of the crimson blade for a weighty windup. Use the axe to crush your enemy\u2019s shields, and smash brittle walls to access new areas with brute force.\n\nThe Crimson Claws are a swift and energetic set of weapons used to stagger enemies with high attack speed and air superiority. Unleash your inner wildcat with unique wall jumping and spiral drill attacks to tear into enemies at a rapid pace.\n\nBecome a True Master of the Elements\n\nElemental Magic in the form of fire, ice, and lightning will be unlocked through a natural mutation with the flora of Rosantica.",
+        "intro": "Embark on a journey with Flynn and his mythical companion Dex as they fight together to save their home Rosantica from the evil in The Scourge.",
+        "description": "The Peace of Rosantica is Threatened Once Again\n\nThe peaceful and beautiful island of Rosantica is under threat once more by a relentless evil. The magical barrier between Rosantica and The Scourge has started to crack, allowing dangerous creatures to slowly seep back in to try and take over the island. Flynn stumbles upon this invasion and discovers he must stand up against The Scourge to stop its spread into Rosantica. Accompanied by his mythical companion Dex, Guardian Spirit of the Land, Flynn will be challenged by the evil from The Scourge and its powerful overlord.\n\nClassic 2D Action Platformer\n\nFlynn: Son of Crimson is a handcrafted 2D action platformer that will take you on a journey of discovery and conflict as you learn to master the art of Crimson Energy. Help Flynn and Dex save Rosantica before the evil from The Scourge claims his home.\n\nFlynn and Dex\n\nSummon your mythical companion and protector Dex in times of need and fight alongside her as you work to save Rosantica. Dex will excel in crushing tough walls and slashing/biting her way through hordes of enemies. She\u2019s the best doggo a boy like Flynn could hope for!\n\nThe bond between Flynn and Dex is one of friendship, mutual protection and love for one another. With the imminent threat coming from The Scourge, Flynn and Dex charge snout-first into battle.\n\nExplore Rosantica and The Scourge World \n\nExplore Rosantica and its unique regions, each filled with ancient mysteries to be discovered. Collect relics along your journey and uncover new paths as you fight your way to victory. \n\nThe Scourge is a dark world, filled with hate, trying to infest and destroy the beauty of Rosantica. You will need to enter this sinister world to take on Zealock, Lord of this dimension, and his mysterious dagger wielding warrior, Rozia. \n\nEmbrace the Power of Crimson Energy \n\nFlynn discovers he has powers he never knew about from a lineage that is a mystery. Discover the power of Crimson Energy and help Flynn to master this new part of him.\n\nThe Crimson Sword, a staple in Flynn\u2019s arsenal, is the first weapon of Crimson energy gifted to Flynn by the Goddess Sorrell during a great time of need. Unlock piercing dashes and uppercuts to destroy those nasty foes.\n\nThe Crimson Axe demands precise timing and enemy prediction, trading the quick cuts of the crimson sword for a weighty windup. Use the axe to crush your enemy\u2019s shields, and smash brittle walls to access new areas with brute force.\n\nThe Crimson Claws are a swift and energetic set of weapons used to stagger enemies with high attack speed and air superiority. Unleash your inner wildcat with unique wall jumping and spiral drill attacks to tear into enemies at a rapid pace.\n\nBecome a True Master of the Elements\n\nElemental Magic in the form of fire, ice, and lightning will be unlocked through a natural mutation with the flora of Rosantica.",
         "languages": [
             "ja",
             "en",
@@ -23335,6 +23475,48 @@
             "en"
         ],
         "size": 146800640
+    },
+    "70010000040606": {
+        "id": "01003B9014D3E000",
+        "rightsId": null,
+        "name": "Poker Pretty Girls Battle: Texas Hold'em",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210916,
+        "nsuId": 70010000040606,
+        "category": [
+            "Board Game",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Conte\u00fado Sexual"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "eastasiasoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/aae2fae8434929bed15bc749574728612baa91c05e4537aa5f09140ff25f07cd.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e2806da8289d22342caff80a7c627b478b63d81527a2c5dbdec0f610c99bcc27.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1bb73cf12b77ee9969cd597c4d59963d59ffd44abd44a8a56f9d4767efa4b2d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/862e5046715a711de74dda039b1f4554c650ecbe5a099be761d366e0f6beaa62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b3d2ce82b7958d76d48f9989ca813cd075766bbd6f1e95b43bd4907e4ffa630.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd9ec43e69d7e8537a6216e811a3c00da88c3945080f0b1d0089162d4338320b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ad0cea434521a0e3a0ea529846aa57cf5a04dfd9c28cd48cbdb49e0f507c169.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7b532a0a92759f5ea1469f87a4b7ccd8c006b195594f902b479cbbb9eaa846ed.jpg",
+        "intro": "Try your hand at some hot rounds of poker against more than a dozen female opponents!",
+        "description": "Classic Texas Hold\u2019em gets a naughty twist at the Pretty Girls casino, where you\u2019re invited to play at tables against 16 lovely challengers, all dolled up in cute summer outfits! Each female opponent has her own look and unique style of play, along with Japanese voiceovers to let you feel their excitement in the intense poker battles. Start out against 4 of these gorgeous players and unlock more as you prove your skills worthy of new challengers.\n\nThere are 2 game modes to choose from \u2013 In Pretty Mode, you\u2019ll collect rewards as you defeat random opponents, while in Free Play Mode, you can customize the experience by choosing which of the unlocked girls will join your table. With so many characters to meet, plus traditional mechanics that are fun and familiar, this is an alluring experience that you can revisit time and time again!\n\nFeatures:\n\n\u2022 Engage in poker battles using popular Texas Hold\u2019em rules!\n\u2022 Meet and unlock 16 Pretty Girls.\n\u2022 Discover multiple play modes!\n\u2022 Strategize based on your opponents\u2019 personalities.\n\u2022 Enjoy enticing voiceovers and outfits unique to each girl!",
+        "languages": [
+            "ja",
+            "en",
+            "zh",
+            "zh"
+        ],
+        "size": 534773760
     },
     "70010000040635": {
         "id": "010073201423E000",
@@ -25422,6 +25604,52 @@
             "en"
         ],
         "size": 253755392
+    },
+    "70010000041153": {
+        "id": "0100B4601500E000",
+        "rightsId": null,
+        "name": "Titan Chaser",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210915,
+        "nsuId": 70010000041153,
+        "category": [
+            "Adventure",
+            "Simulation",
+            "First-Person Shooter",
+            "Action"
+        ],
+        "ratingContent": [
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Samustai",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ad572d7d34293ebc42d98e5ca3a13dce5768927ef4830eef045298d61af7523d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9f12f72b88d5c3fe6ddbfc451b3b36f3beaae4ba9df1293cd864e1bceffc4f83.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b3b76308b01a3ba9c9c6b33cffdf685057a224b40e83f009caf4f03ad0dc098.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e97e9c19ea204e56f140d3ef7fbd8e8ad48e773b0115ffe8f088981d066489b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63c2a7c11e81255edb6ec3230a5ea39f961b4d53abaccf5d41fe400f4f5f9777.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17b4a4093f1bc28d1cee75cd6ca50372042d014e48fcda034599d543e0bc6bd7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd923191386d9289d7f156bedd0d521a38e11de9c322744f15531e3bcf802b3c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/17ea99fc4bc7a9737276fbdedd3a8f3df8e2368e5b711e5886c7284b3c2c59e7.jpg",
+        "intro": "Titan Chaser is a surreal driving and walking experience, where your job is to scout giant creatures and use the light to drive them off without fighting or killing.",
+        "description": "Every night you leave the motel and drive through empty fields, looking for something.\n\nYour job is to scout wandering giants and drive them away from the sleeping town using light.\n\nIt's a meditative experience where you don't need to manage fuel, car maintenance, health, or damage. Just find where to drive and how to use your tools effectively. Or just forget about your work and drive through foggy landscapes to calm down after a hard day.\n\nIn Titan Chaser you can:\nWalk and interact with the environment and your car\nDrive your car in a fairly large open world\nListen to the music of krapka;KOMA in your car\nRelax and observe mystical landscapes\nScout Titans\nDo your job and make titans go away using lights and environment\nDiscover the story and personality of the protagonist through her commentaries about surroundings",
+        "languages": [
+            "en",
+            "es",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 4313841664
     },
     "70010000041155": {
         "id": "0100F3F015016000",
@@ -28525,6 +28753,44 @@
         ],
         "size": 102760448
     },
+    "70010000042049": {
+        "id": "010026D0153DC000",
+        "rightsId": null,
+        "name": "Chef's Tail",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210923,
+        "nsuId": 70010000042049,
+        "category": [
+            "Adventure",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Art Games Studio",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0fbbfb1b80f18235c5d46c47aa216da2b5302362d4c41bea016e33d7bd9c277d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bf3ce7347c1c97c942e4d4ff16137d097a0f7591aea83bef24264c2bd7543ccd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b6f9e94171e7335ce28e49b9aa0622ffc79de7938a572a7809e9047b22c9afe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e6c763037692ef2697a71843195e9df62059ab0816160e6ccd878889d241cc6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d151c21f2db160cd0a871324320087c5ae37551d37f051f71fd0af5c880d3f9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/26f173cf611055a7ef8caf61b7855dfe6325ea0430f2c5eda65c4694092a266f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e6058e2e62ab6b1a7dc2cf34ea69292ca27dbe85cb788b439756a67e6d11cf75.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b9d6f72435f36998f9143a79b4a628abb243c37059903738267a2d88a3179446.jpg",
+        "intro": "Play as the \"Cat Chef\" in the spooky but cute underworld. Earn your coin by tending the trees, fishing and creating incredible dishes.",
+        "description": "On the distant shores of a certain river, a cute but macabre procession is climbing the stairs. \nWeary travelers of this underworld domain, exhausted by their long journey, are going to take the next step on their journey...\nBut before that, why not take the bite out of that tasty steaming hot apple pie, just like your nana used to make!\n\nYou are a ferocious beast, a guardian of the underworld, the untamed and wild cooking cat!\nAs the master chef of the underworld, let the traveling souls a taste of mortal food, to rejuvenate them on their long journey.\n\nGATHERING\nPlants do grow in the underworld. But they are fragile in nature, requiring constant care for them to grow in this foreign environment.\n\nFISHING\nSome stray fish also snucks into the underworld from time to time. \nWhich is extremely good news for you, because which real \"Cat Chef\" does not enjoy a bit of fishing (and subsequently sashimi) on the side?\n\nCOOKING \nThe solemn and silent spookies of the underworld wish only to feast on mortal food - the best relief from their grueling travel.\nArm yourself with the cooking utensils and prepare the best dishes you can think of. Your ghastly customers are a bit reluctant to part with their coin, though. \nMake sure, to \"woo\" them properly into buying stuff. And be careful, as some of them are daring enough to steal the products of your hard labor!\n\nLEARNING\nGood recipes don't grow on trees. By expanding your catalog of ingredients, you will inevitably learn more recipes to cook.",
+        "languages": [
+            "en",
+            "es"
+        ],
+        "size": 927989760
+    },
     "70010000042055": {
         "id": "0100FEC014F9E000",
         "rightsId": null,
@@ -28779,7 +29045,8 @@
         "category": [
             "Fighting",
             "Sports",
-            "Arcade"
+            "Arcade",
+            "Party"
         ],
         "ratingContent": [
             "Viol\u00eancia",
@@ -28793,10 +29060,11 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d7d0da0c068f7abc81c22c461f74ca40689e3c2733478893c3539b9e7edeeef0.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/c114b0ad51968bd979d5468290f1c4b9fb9cfdbe562622a8ae0b8760c2187f16.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/a5e5661f35bbdf004a2f162a2aceb0e1c083a997e02fe1688753bc2dafda126c.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/137148b9def510ff91b31ff3070a1fee5521d4a64bdb2f4f2035be052e421ba0.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/b4e539210493d53944a8520f9916cd7f235a76a1dc8305bc537f581f494a0121.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/55cb06c9ca97bafa59970075d344b39a18b7ee47e658961005064c3778526e56.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/34db19778a4492a6663dc5bb158d7a49f1e54f986fee9e0525df7375deaf823c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b227f631f10defb442939188af1cb30662dd17200c4e347398b6e37fb945c76.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/186b987433e1ede4b5e06f68b2107805277d5266f901de162695c8e59c57d32e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3fb3c1566e8b444b908da0800935076d9843a589e958e3ae8dcc41e3bc51213e.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5981f73684cac393c461e6ee054ec8c8465111053f97525afb16f7e4ab500b52.jpg",
         "intro": "Do you have what it takes to be a champion? Train, fight, and win like Adonis Creed and Rocky Balboa in this knockout boxing game!",
@@ -29226,6 +29494,49 @@
             "zh"
         ],
         "size": 1648361472
+    },
+    "70010000042286": {
+        "id": "0100FEF00BE9C000",
+        "rightsId": null,
+        "name": "Staxel",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210923,
+        "nsuId": 70010000042286,
+        "category": [
+            "Simulation",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Usu\u00e1rios Interagem"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Plukit",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/11953a25bf555a7f2eb0ec8dbb078cd07cd57d9fc59547aacf6f01b87b0b5cf2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ad0b7653c443e06e6b42129ca242347fc1a7027a9c19b775cf3f472e11f2a718.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6eaccae7afb8b1162bfa05cd611ee490b40696ca018480218171719bfadd8d42.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e55d79644981285dbc55d8752b08fa33dd385a2ce4c7e32ce618e7032fb1937.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/44bddd036440247aa5e3beaa13078033d02e16443a52c9e938e306826dd50e59.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/032a35876fd4297b0efada81b9daab8b2429dbff1ed0d7b7422465bd6425405a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32a743a57821432706b60c8d081f162f450308eb3a815c14cf89ddbcf969c995.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/88939d1ced1ccc39703c1744141f3f9f573c8af134912fdfe8652c3a2dfe0dab.jpg",
+        "intro": "Grow your farm, meet the villagers, and build your world!",
+        "description": "Welcome to Staxel, a quaint island full of charming characters, with bugs and fish to catch, fossils to excavate and quests to complete! Settle into your new home on the farm, fix it up, fill it with crops and animals, then change it up across the seasons of the year. When you\u2019re not farming, take up a range of hobbies to earn some extra cash, or spend some time befriending the locals!\n\nNurture Your Farm\nPut down roots in Staxel as you settle into your new life. It\u2019s your job to fix up, improve and maintain your homestead. Work the fields, tend to your crops, and adopt a variety of adorable animals such as cows, sheep, cats, and dogs! Make sure to adapt with the changing seasons so you can enjoy the fruits (and vegetables!) of your labour all year round!\n\nMake The World Your Own\nWith an extensive supply of resources available and a tool catered to every job, you\u2019re tasked with handling all construction in the Staxel world, from your own farm to your neighbours\u2019 houses, the general store and even the town hall!. Will you grow the village while keeping it\u2019s rustic charm, or take it in an entirely new direction? Perhaps you\u2019d rather focus on your own projects? It\u2019s all up to you, and your creativity is just the tool for the job!\n\nTwo Ways To Play\nIn Staxel, there are two options to tailor your gameplay! You can start from scratch and work your way up, earning money and growing your town as your farm expands or you can start out in Creative Mode, in which money and resources are no object! Build, destroy and expand all you like, without worry.\n\nExperience Village Life\nThe local village is inhabited by all sorts of characters and there are plenty of fun activities to get involved in! You could be making new friends, taking up new hobbies, hitting the shops, finishing one of many collections or just catching up on the latest news with your neighbours. Village life is rich and rewarding, there's nothing quite like it!\n\nFestivals\nChanging weather isn\u2019t the only thing that the seasons bring. Take part in yearly festivals that transform the town. Collect new items, help out the locals, and have some fun!\n\nMake Friends, Become Roomies\nAdvance your friendship with the villagers through hand-crafted quests that unlock new items, crafting, and town amenities! Learn about each villager\u2019s likes and dislikes and help them with day-to-day problems, and eventually one of them could become your roomie!\n\nExplore Far-Off Lands\nBy befriending villagers, you\u2019ll visit far-off islands across the ocean, with new resources to collect, crops to grow, animals to raise and friends to make! Or check out the portals that frequent the festival grounds. These allow you to visit special resource islands that reset every season, allowing you to gather resources without needing to dig up your village!\n",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "de",
+            "nl"
+        ],
+        "size": 603979776
     },
     "70010000042291": {
         "id": "01009660154D0000",
@@ -30105,7 +30416,7 @@
             "zh",
             "zh"
         ],
-        "size": 516947968
+        "size": 525336576
     },
     "70010000042613": {
         "id": "010089B0155F8000",
@@ -32366,6 +32677,49 @@
         ],
         "size": 319815680
     },
+    "70010000043504": {
+        "id": "01002DF01599E000",
+        "rightsId": null,
+        "name": "Lovekami -Healing Harem-",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210909,
+        "nsuId": 70010000043504,
+        "category": [
+            "Adventure",
+            "Simulation",
+            "Other"
+        ],
+        "ratingContent": [
+            "Conte\u00fado Sexual",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "MoeNovel",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7b3761279cda94d881f9e3c8afb78ac1d900bb4f6cf5d016b18ca5e07dabb6ee.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/10ef1f91c6d4d86ed55d8e230a35d53a7f75e2dac30c7f6deaf369a4558fdec8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bfc1c9adc3bae7a83b1e80ca7ecc9fc9964cc6e1bbc77c30284bd1dd70ac8933.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7991759921cc16dd9cbf708e45c8b1a8a2b42d03b70c8c65eeb7a830c45b3704.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd2e8976f0646f8b6531bf59fa733cbf771e1d77c77f5261a8cac535550ff5eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abc76e2dba2d59ea30c0be78ae3d7c69ed7538deaac6cb391a7da11a1bcdfb1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/078ce09f03690c507279a573aae0b02a45e38b0887e324ec576c4cb7f248c547.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ea6d133780f26a5de069dcc4b26c1b5d186acc00ce5564264250c921936ac350.jpg",
+        "intro": "I'll find a solution to the goddess' problems!",
+        "description": "The more things seem the same, the more they're actually different...\nThese are some strange little stories about goddesses in love.\nThey happened in a time when gods and people lived in close proximity, six years after the gods descended to Earth.\n\nOur story takes place in Kamimori City, a community deep in the mountains that is known among some people for one thing; the area is protected by a cursed goddess.\n\nCursed goddesses are known for spreading misfortune, but Kamimori City is protected by one.\n\nAkira Manase has inherited a shrine in Kamimori City, and spent his days listening to the goddess' troubles.\n\nOne day, he helped one of the cursed goddesses, Yukari, and she fell madly in love with him, almost immediately proposing marriage.\n\n\"Please make me your wife!\"\n\nHowever, there were goddesses other than Yukari who were also in love with Akira, and they were intent on staking their claim.\nAs the goddesses vie for his hand in marriage, Akira spends his days helping them solve their problems.",
+        "languages": [
+            "ja",
+            "en",
+            "zh"
+        ],
+        "size": 2330984448
+    },
     "70010000043506": {
         "id": "0100F490159A2000",
         "rightsId": null,
@@ -32532,6 +32886,46 @@
             "en"
         ],
         "size": 305135616
+    },
+    "70010000043567": {
+        "id": "010012E0157A6000",
+        "rightsId": null,
+        "name": "Elva the Eco Dragon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210916,
+        "nsuId": 70010000043567,
+        "category": [
+            "Education",
+            "Arcade",
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "ISDEC Soluciones",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c80105be48d4f48e6d4b2eb8c8fe465d9dd0c54bca4b051933a80384925c38fe.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a8a2b07a514ca76ee65185d5de5060bd5c44bf896f1334dcd6c786be6ecdaff4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/235bec2a7f9895a0ecc8068667b804aa7f052ca35d8064f98c1a239b765e61de.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca656e08885fe38827ef1f591d713808f59e715f4e0fa31e86c2b584d7d61237.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b7c2e569a64a681d0482cfa51c4031539515ec06a54e9e00ff684d3806cb539.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08beda9cc4d6ab21e958c34c29083da4acf86ec4a05bb3d0383403ade1cb54d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b2755119deacf9fe7c5f3de8007dda624280212ee8cd362b79188c59d449e65.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd5e82ffc84ba2bd6a7118bb464d70b01a91ae5ac1a2edc535e9f713bff7fbd7.jpg",
+        "intro": "The world is facing an environmental disaster. But not all is lost. The young, and not so young, are about to receive help from a powerful being from another galaxy: Elva.",
+        "description": "The world is facing an environmental disaster. But not all is lost. The young, and not so young, are about to receive help from a powerful being from another galaxy: Elva.\n\nElva is a small dragon with immense powers, who has arrived on Earth to teach us how to take care of the planet. \n\nStarting with the most basic tasks, such as cleaning the garbage, and taking it to be recycled, or sending it to a ship or plane to be processed, to planting trees, regenerating fields and forests, cleaning the sea, freeing marine animals, or saving injured animals. We also defend forests and homes from fire with the power of water.\n\nElva is an educational game, which wants to teach the values of caring for our planet. It is a game, but with a message: we can take care and save the Earth. With the help of Elva, and with a little effort from everyone.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es"
+        ],
+        "size": 1256194048
     },
     "70010000043592": {
         "id": "01009090159FE000",
@@ -33747,7 +34141,7 @@
         "developer": null,
         "publisher": "Live Wire",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/faa058b59210599cb8881781b3ff05885acffbb373a64154bffa9ce7f176b6a9.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9ed131519ee2c9d8253a3b3bcf9ef33575a68ced69180b4c5e6af29089ad928a.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/84beefc771f85d9c11de5320f540c0d0336643c12e0209fcc76d163dc22e0886.jpg",
             "https://img-eshop.cdn.nintendo.net/i/cf505e4601bb7a8deba362bea27cc0738bcd3cb850b0e8d46162f6a3efaa3ad8.jpg",
@@ -33765,7 +34159,7 @@
             "zh",
             "zh"
         ],
-        "size": 811597824
+        "size": 854589440
     },
     "70010000044496": {
         "id": "0100739015DCC000",
@@ -33836,6 +34230,44 @@
             "en"
         ],
         "size": 79691776
+    },
+    "70010000044575": {
+        "id": "0100CC9015E30000",
+        "rightsId": null,
+        "name": "Prehistoric Life Puzzles",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211007,
+        "nsuId": 70010000044575,
+        "category": [
+            "Puzzle",
+            "Education"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Shinyuden",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b07c4100a01b9f4fbfb627820defd155a6e15f1673b30d53842715bec8d618f3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/470c906b65d9c0383bcee688dd2d82b7af4e63c89c3de918b2aa149073cc63e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/305af5e2dc1459ee07947665bff222da0a5e47e9861ec0dc95c8e9fc1e07933f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c06c3b518ddb10edacda2c3eba6d9bf87d3069164ed219eb8c8d22ac394c7e7e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4da4ca1051a39bb870b3bd058f94e733e39879c7f8c9e543d08e7b0f53a67e49.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3957b7b743ff253bc49cf372b70068110c265fa76602ed58a9e8f0367d313665.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/320f2638889e49742015978bed8b7da41a71b0d3531aa097e43c1829b3e60e40.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/46c03303355196edbad2743ef615474786a727f9da11e9e7f999dfbbb17cf2a9.jpg",
+        "intro": "Learn about ancient animals while having fun!",
+        "description": "This puzzle game from the creators of Dinosaur Fossil Puzzles introduces now some wild species from the old times!\n\nPlay \"Restore screen\" and \"Dig up screen\"\n\n\"Restore screen\": Restoration work!\nPut the collected fossil panels in order correctly.\n\n\"Dig up screen\": Dig up and collect!\nBreak rock panels with the pickaxe.\nDiscover all fossil panels and take them to the Restore screen.\n\nChallenge the 3 levels!\nTwo types of fossils are mixed on the level 3.\nIf you have an unnecessary panel, put it into the trash can.\n\nYou can discover many kinds of Prehistoric life species!\nThis is your next step to become an archaeologist!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 76546048
     },
     "70010000044591": {
         "id": "01008FB015E40000",
@@ -34494,6 +34926,42 @@
             "zh"
         ],
         "size": 2397044736
+    },
+    "70010000045759": {
+        "id": "0100F9301632A000",
+        "rightsId": null,
+        "name": "Galactic Invasion",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210917,
+        "nsuId": 70010000045759,
+        "category": [
+            "Arcade",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Fantasiosa"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a05540b8ae67f1ca1b7862b658ccaf344b15fe8c636b67c5b06853804da6e60f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ee6870d52f8b984363244210454c1b7c1e3192aeed27cf57d8ace22140528137.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/267868367a13cf14ffcefd1551cc0ef9d5f7296dcf10ee2d26b8e20b2b98dab1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41f1cdf58bb799718c8526b7be3f9763ab98524b0196bc2ac796a55bb3cf8d5b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0dc20b0ea952a0496eb1ca7a8bedcb50d491f9ef32cb8359357cb8cfedb1278f.jpg",
+        "intro": null,
+        "description": "Aliens are invading the Galaxy.\nYour job, if you accept it, Major, is to stop them.\nGalactic Invasion will make you enjoy gameplay of old school shoot'em up with today's device capabilities.\nFire!",
+        "languages": [
+            "en"
+        ],
+        "size": 168820736
     },
     "70010000045957": {
         "id": "010048B016406000",
@@ -60579,6 +61047,304 @@
             "0100ABC01313701C"
         ]
     },
+    "70050000029743": {
+        "id": null,
+        "rightsId": null,
+        "name": "World War Z - Lobo Weapon Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211102,
+        "nsuId": 70050000029743,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia Extrema"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Saber Interactive Incorporated",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a50a2b7686d2b4cd379de3317e04b05ffea6711a73603e97df8cc143e0c3c22.jpg",
+        "intro": null,
+        "description": "Make your last stand count with the infamous, ultimate zombie-slaying tool and three golden weapon skins. The Lobo is the definitive all-purpose melee weapon to survive the overwhelming zombie hordes of World War Z. Specifically designed for close quarters combat, the dual-bladed spade makes quick work of undead heads to better keep the ravenous at bay. When you tire of swinging for the fences, deck out your assault rifle, SMG and pistol with special golden skins.\n\nThis DLC includes:  \n- Lobo Melee Weapon\n- Golden ARK-103 Assault Rifle \n- Golden Keris V10 SMG \n- Golden 1911 Protector",
+        "languages": null,
+        "size": 0
+    },
+    "70050000029744": {
+        "id": null,
+        "rightsId": null,
+        "name": "World War Z - Biohazard Weapon Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211102,
+        "nsuId": 70050000029744,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia Extrema"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Saber Interactive Incorporated",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0dd8cd29332a595b27068a453338e262e218b74a26179f259378a0bd9f61a0c.jpg",
+        "intro": null,
+        "description": "Split heads in style with an all new, tactical tomahawk designed to cut through infected flesh like a knife through butter. Made from a robust steel, it will easily outlive its five year guarantee. An ergonomic rubber grip means you can hack and slash to your hearts content while avoiding any nasty repetitive strain injuries. And, for when you need more than a blade, go silent and take out the trash with these custom, bio-hazard weapon variants and skins.\n\nThis DLC includes:  \n- Tomahawk Melee Weapon\n- Biohazard M500 Shotgun \n- Biohazard TMP5 SMG \n- Biohazard XTAR-95 Rifle",
+        "languages": null,
+        "size": 0
+    },
+    "70050000029745": {
+        "id": null,
+        "rightsId": null,
+        "name": "World War Z - Special Operations Forces Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211102,
+        "nsuId": 70050000029745,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia Extrema"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Saber Interactive Incorporated",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b6d1c663bb55da62cc51d79b79e443dbb8bfd87f6eabf5f6fb65f27725523d2b.jpg",
+        "intro": null,
+        "description": "Devastate the hordes with the tools of a Tier 1 operator. The Special Operations Forces pack comes with three custom firearm setups and a single melee weapon, all coated in the iconic paint job of a modern, special forces unit. If blunt force trauma is your thing, the Hammer will tenderize innumerable zeke with the greatest of ease, while it\u2019s ergonomic grip keeps you blister free. All firearms are silenced so you can strike like a ninja from the shadows. \n\nThis DLC includes:  \n- Hammer Melee Weapon\n- SOF ARK-103 Assault Rifle \n- SOF HW416 Assault Carbine \n- SOF Senjata PDW",
+        "languages": null,
+        "size": 0
+    },
+    "70050000029746": {
+        "id": null,
+        "rightsId": null,
+        "name": "World War Z - The Professionals Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211102,
+        "nsuId": 70050000029746,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia Extrema"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Saber Interactive Incorporated",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ef6501e98292be3b510e4960753c11a4f8f6722457ee67e93226d82ca3fde2d5.jpg",
+        "intro": null,
+        "description": "Dripping with attitude, these new threads will not only make you feel like a lean, mean zeke-slaying machine, they will also turn heads among your fellow survivors as you mow down the hordes in style. Kimiko gets a top-of-the-line, military contractor grade makeover while Mizrahi lets out her wild side. Ivan mixes classic Russian style with a modern twist, and Tashaun goes full first responder with a kitted out firefighter suit.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000029747": {
+        "id": null,
+        "rightsId": null,
+        "name": "World War Z - War Heroes Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211102,
+        "nsuId": 70050000029747,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia Extrema"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Saber Interactive Incorporated",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b55c24538ed37ac5145d3452cb0fb799bfa9acf9da7cb9829d5532b609753d44.jpg",
+        "intro": null,
+        "description": "Fight for the future of the human race with these four unshakeable heroes of the war against the zeke. These unique outfits will transform these characters into deadly and courageous warriors. Tatsuo shows off his samurai ancestry with a modern flair. Arnetta breaks out her leathers and goes full biker. Oksana is kitted out for rapid aid on the battlefield. And Alahey switches his standard issue gear for something a little more stylish.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000029748": {
+        "id": null,
+        "rightsId": null,
+        "name": "World War Z - Last Aid Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211102,
+        "nsuId": 70050000029748,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia Extrema"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Saber Interactive Incorporated",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fc5ee8568f14c0c51c0b99f6b46bb0604539bf12e210dfe5fcecafc9d02499d7.jpg",
+        "intro": null,
+        "description": "When all other hope is lost, it\u2019s time to break out the Last-Aid weapon pack. You are the last line of defense against the unyielding masses of the undead and you deserve custom weapons that reflect that honor. The red, white and gun-metal grey weapon skins for your silenced Sporting Carbine, Combat Shotgun and Battle Rifle will stand out like a beacon in the darkness. What\u2019s more, this pack comes with a perfectly balanced unique hand axe, ideal for making sure those zeds stay down this time. \n\nThis DLC includes:  \n- Axe Melee Weapon\n- Last Aid PAC-15 Sporting Carbine\n- Last Aid S890 Combat Shotgun\n- Last Aid HAMR-17 Battle Rifle",
+        "languages": null,
+        "size": 0
+    },
+    "70050000029749": {
+        "id": null,
+        "rightsId": null,
+        "name": "World War Z - Signature Weapons Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211102,
+        "nsuId": 70050000029749,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia Extrema"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Saber Interactive Incorporated",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/130b39cd292cb485d1e5f9aecdc3d268b46104ed76866057f8efc93b52d64bae.jpg",
+        "intro": null,
+        "description": "If you\u2019re planning to slay the undead swarms in style or purge the zombie hordes with panache, then the Signature Weapons Pack is what you\u2019ve been looking for. With the personalities of some of WWZ\u2019s most memorable characters shining through in their weapons of choice, whether it\u2019s Kimiko\u2019s PAC-15 Sporting Carbine, Bunko\u2019s Gal 9 Compact SMG, Angel\u2019s Casull 6 Revolver or Sergei\u2019s Dunali SxS Shotgun, you\u2019ll have a firearm for any occasion.\n\nThis DLC includes:  \n- Kimiko\u2019s PAC-15 Sporting Carbine\n- Bunko\u2019s Gal 9 Compact SMG\n- Angel\u2019s Casull 6 Revolver\n- Sergei\u2019s Double Barreled Shotgun",
+        "languages": null,
+        "size": 0
+    },
+    "70050000029851": {
+        "id": "0100BF800DFAD001",
+        "rightsId": null,
+        "name": "Gator Gear Weapons and Accessories for Dungeon Defenders: Awakened",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210908,
+        "nsuId": 70050000029851,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Intera\u00e7\u00e3o de usu\u00e1rios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Chromatic Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d3fbfb6a9b9eb0fc53f68883fd778184f4efc1e006b6b924ea2bc1b7edace8a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d0e18be1870852f6d4b43f5fccb0351242933d04df5ae4f93ebd8d833e76536.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b52ec62d63fd6f28ea2c3900f9cfda2c803eaef7a9f5acf7b526b9f20e572d58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d91cbf1e2b65990574b356521fd963569e1fb4d780493ea9b265e02a0352da6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b37fb8c129a04c5f85346b6d8fc3a43590097e870418aa01de7ea4d2839fe582.jpg",
+        "intro": null,
+        "description": "Take a bite out of your foes by donning the Gator's Gear! This set unlocks all items through the Transmog UI accessible in the tavern through the Blacksmith or Escape Menu (you will not see these items in your inventory) and includes:\n\n- The Gator's Face Mask\n- The Gator's Bite Bracers\n- The Gator's Claws Bracers\n- The Gator's Tail Back\n- The Gator's Swipe Sword\n- The Gator's Glare Crossbow\n- The Gator's Spitfire Staff\n- The Swinging Gators Polearm\n\nUse these sets to strike fear into the hearts of your enemies!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100BF800DFAD001"
+        ]
+    },
+    "70050000029852": {
+        "id": "0100BF800DFAD002",
+        "rightsId": null,
+        "name": "Original Hero Paper Masks for Dungeon Defenders: Awakened",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210908,
+        "nsuId": 70050000029852,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Intera\u00e7\u00e3o de usu\u00e1rios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Chromatic Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/66081e8f7ae41faab4dccad9c7ad346f9efcdfb6e0d635a43ed3476a3a74010a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/596e6ee3516d2af83bd1f80e262fc3c195a60af5baf989eecfb13125ed2d996d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b688c6ecc24abb47f64d79d82bf46506b79a76f109907b697614c6ee299b1bc4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1fff597fea5a771e1d684465c9ca66865c708d57505e7bed426c5d17d91deab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e95a695c4193806ac235de3ee8bc4a7b3dd89d693e9dac090172c85e3b158132.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/44553e0a07c4ef8836408c22018ab9a70ab631b307288e339a06998bd7eadc32.jpg",
+        "intro": null,
+        "description": "Made of Etheria's finest cardstock, these masks let you relive the past. This set unlocks all items through the Transmog UI accessible in the tavern through the Blacksmith or Escape Menu (you will not see these items in your inventory) and includes:\n\n- DD1 Apprentice's Hat\n- DD1 Huntress Head\n- DD1 Monk Head\n- DD1 Squire Head\n\nTake on the classic look of the original Dungeon Defenders as you fight the hordes that await!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100BF800DFAD002"
+        ]
+    },
+    "70050000029854": {
+        "id": "0100BF800DFAD003",
+        "rightsId": null,
+        "name": "Chromatic Costumes for Dungeon Defenders: Awakened",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210908,
+        "nsuId": 70050000029854,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Intera\u00e7\u00e3o de usu\u00e1rios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Chromatic Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/99e817421913afad1367a68880f183376f92f91d15cd05cfd5fa6ee24d860728.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7fad715488ee5372ea8a91171a03a051ce66bedbb52cf88dd356869225258a4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac282f9617bb6a451901812cf70fef709c5fa7dc4586e811dd2ff88e69ae3815.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d148c87624bd03dc87e707d7b4fcd9b94f04bcfcdb2ed0a91d1f76165a9e8ea7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/65d214113e6d001ac3748367e3f78412cdc944afff693af44c7078b57cb66049.jpg",
+        "intro": null,
+        "description": "Become a walking rave with these strobing RGB colors. This set unlocks all items through the Transmog UI accessible in the tavern through the Blacksmith or Escape Menu (you will not see these items in your inventory) and includes:\n\n- Apprentice's Chromatic Colors\n- Squire's Chromatic Armor\n- Huntress's Chromatic Garb\n- Monk's Chromatic Tunic\n- Series EV-A's Chromatic Gear\n- Warden's Chromatic Flora\n- Rogue's Chromatic Shroud\n\nDazzle and entrance your enemies as you dance through the battlefield!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100BF800DFAD003"
+        ]
+    },
     "70050000029856": {
         "id": "010051C0134F9004",
         "rightsId": null,
@@ -63907,6 +64673,40 @@
         "description": null,
         "languages": null,
         "size": 256901120
+    },
+    "70070000012841": {
+        "id": null,
+        "rightsId": null,
+        "name": "World War Z - Deluxe Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211102,
+        "nsuId": 70070000012841,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia Extrema"
+        ],
+        "numberOfPlayers": null,
+        "rating": 18,
+        "developer": null,
+        "publisher": "Saber Interactive Incorporated",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3d424b1979abddb81846f72404c59a1afaf2d99be0bec9374f1bf9072b3ebf40.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09bfd0b4dc54f7e317651bf4e82e56ae56b589e7315a21dd21d64a56baed303d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e4faf13a22fc2ae8afa1e7522691fd735c49147443616f47ed6bf91eebc0b2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f581d5952f066ccc9248162d2423b18f7d07fe0cd7590d2e183524f7ee1c6c3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8194cc418000d7f620549fd5a022f5230da8160839fae340b1e228cb1faa0773.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b825878dc9ea2728c187a9f5feba65c4b73fe0af3003baf0037486da96b4d36a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/14189f448e288290bab745a1ee7cd8963a435a2b3194a54095346cc667ff2225.jpg",
+        "intro": null,
+        "description": "The Swarm Comes to the Nintendo Switch\u2122\n\nWorld War Z, the heart-pounding zombie shooter that has captivated over 15 million players now arrives on Nintendo Switch\u2122. Inspired by the Paramount Pictures film, World War Z focuses on fast-paced third-person shooter gameplay featuring swarms of hundreds of zombies. \n\nHumanity is on the brink of extinction. From New York to Moscow, Jerusalem and more, the undead apocalypse continues to spread. As the end looms, a hardened few band together to defeat the horde and outlive the dead.\n\nThis Deluxe Edition contains the multi-million selling World War Z game along with 28 unique bonus items including special character outfits, weapon skins and variants.\n",
+        "languages": null,
+        "size": 7104102400
     },
     "70070000012854": {
         "id": null,
