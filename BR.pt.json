@@ -2501,7 +2501,7 @@
             "zh",
             "zh"
         ],
-        "size": 10403971072
+        "size": 10401873920
     },
     "70010000006242": {
         "id": "01001530097F8000",
@@ -3836,6 +3836,45 @@
             "zh"
         ],
         "size": 15543042048
+    },
+    "70010000012888": {
+        "id": "0100A1C00359C000",
+        "rightsId": "0100A1C00359C0000000000000000005",
+        "name": "TowerFall",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210909,
+        "nsuId": 70010000012888,
+        "category": [
+            "Grupo",
+            "A\u00e7\u00e3o",
+            "Plataforma",
+            "Luta"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 6,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Matt Makes Games Inc.",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e52755a544037c95f8c88416f116d75e470d259f63d1a883539bb5da18c29b0e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9b958dc2ef537ef0fa4a9c2ed3b146cb867dacb870009f4bc8bdfc0f9e0f3149.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98fdcadc594315450d48b5b5eab1d5e81e9cf8c9040e3ddbe81eea0e987bd175.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58c2e1f6f153a51061a32a7d5076ed2eda48fb15c742a3b9beea3f5c96355579.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc3281249f8b7a73b17ac5016d56f220cffd2d80e24cbd989b4c8c097aa6240c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/475a34ef3807f06765180d93d0f542699b0ff311dcd172bc040e06ed6eee7da1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15a46d5b1e7faae2060941795bc4037b770a6cc905bbb373fc9c507f92b85b58.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/809ee567395b865a5762f7d218f65efaf350d6294b358661580fdcd8adc25d10.jpg",
+        "intro": "Um cl\u00e1ssico jogo multiplayer, dos criadores de Celeste. Vers\u00e3o exclusiva para Nintendo Switch\u2122 para at\u00e9 6 jogadores! ",
+        "description": "TowerFall \u00e9 a vers\u00e3o definitiva do cl\u00e1ssico jogo de arquearia e combate, incluindo o conte\u00fado das edi\u00e7\u00f5es Ascension e Dark World, e conte\u00fado exclusivo para o Nintendo Switch\u2122. \n\nInspirado nos velhos e bons jogos de multiplayer local, TowerFall \u00e9 focado em partidas intensas e hil\u00e1rias (melhor se  jogadas mantendo uma dist\u00e2ncia segura dos amigos, pro pessoal n\u00e3o bater em ningu\u00e9m, quando perder). \n\nA mec\u00e2nica \u00e9 simples e acess\u00edvel, mas dif\u00edcil de dominar, j\u00e1 que se tem diversas vari\u00e1veis que deixam tudo mais interessante. E, se voc\u00ea precisar de um descanso do modo versus, d\u00e1 pra jogar com at\u00e9 4 amigos no modo cooperativo!\n\nA vers\u00e3o exclusiva para Nintendo Switch\u2122 vem com conte\u00fado exclusivo, modo versus para at\u00e9 6 jogadores, novas vari\u00e1veis no gameplay e as arqueiras Madeline e Badeline, do famoso  e amado jogo de plataforma, Celeste!",
+        "languages": [
+            "en"
+        ],
+        "size": 457179136
     },
     "70010000013004": {
         "id": "01001D200BCC4000",
@@ -8749,6 +8788,47 @@
         ],
         "size": 1394606080
     },
+    "70010000031193": {
+        "id": "0100F9C012142000",
+        "rightsId": null,
+        "name": "MageQuit",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210923,
+        "nsuId": 70010000031193,
+        "category": [
+            "Luta",
+            "Grupo",
+            "A\u00e7\u00e3o",
+            "Multijogador"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 8,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Bowlcut Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d4311fed810e19291d80d95b696a9e68efcd2a1f50d8bd612d0a33cf3fb705ed.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/62974432291b3c1ed9a5706a9801f17320ff6a29ae7589266cb8db6f00383d68.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd0b896a9a72b48d66aa8d150780df771742f62983f19abc146b2b4e725d3c97.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b891e031948ce7ee95ab4ccd6a5abc4d610388135c0c6d0a39571bd6985d37f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/02cd3dba2ed6383984e64cc19f25473b57f208f163fb73231b9131c5dff65ce8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4737f1c23c217b70ab3349a0b43ba37886c03af6fb69b61581ac5498ae86126c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/edb54d8721d2a5a97e3ab76cbdfb720e440c89320f8dd1635578b17399717458.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5515ba3fd0805d0fc51267cd6933484093a8daaa3b35b79b515a06a127655cdc.jpg",
+        "intro": "Briga de Magos de 10 Jogadores",
+        "description": "Uma luta de magos e bruxos com planejamento de feiti\u00e7os e muita inveja de barbas. MageQuit permite at\u00e9 10 jogadores batalharem online ou 8 em modo local. As barbas crescem mais a cada morte; o mago com a barba mais longa ap\u00f3s 9 rodadas vence!\n\nFUNCIONALIDADES\n* 1-10 Jogadores online, com crossplay dispon\u00edvel, de 1 a 8 offline.\n* 63 feiti\u00e7os diferentes (com mais no futuro)\n* Bots customizados para online e offline\n* Partidas com procura an\u00f4nima baseada em skill ou customizadas\n* Planejamento de feiti\u00e7os\n* Curvas de feiti\u00e7o\n* Jogue com um time, um contra todos, ou 1 vs. 1\n* Trilha sonora din\u00e2mica e original\n\nMODOS DE JOGAR MAGEQUIT\n* Jogue offline com um grupo at\u00e9 8\n* Jogue sozinho em partida r\u00e1pida online ou offline com bots\n* Jogue online com um grupo at\u00e9 10 jogadores\n* Jogue partida r\u00e1pida online com um grupo at\u00e9 5 jogadores\n* Jogue online com m\u00faltiplos jogadores no mesmo console",
+        "languages": [
+            "en"
+        ],
+        "size": 931135488
+    },
     "70010000031411": {
         "id": "01001FB012114000",
         "rightsId": null,
@@ -13345,6 +13425,54 @@
         ],
         "size": 1863319552
     },
+    "70010000036291": {
+        "id": "0100D7D0138A2000",
+        "rightsId": null,
+        "name": "Ruin Raiders",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211014,
+        "nsuId": 70010000036291,
+        "category": [
+            "Arcade",
+            "Aventura",
+            "RPG",
+            "Estrat\u00e9gia"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Freedom Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a792714c9565522dd8266f52a9b1d4589deb71e6044fe025b4e167afc1021a10.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3db4e51df88a1d27d2a4a4817fb1cf1faca5767e987127373cc5939f0cc13a70.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e56fc45f75aa2cc38dc85144ef8530b3d5401e096661131eef8a7c982639f542.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bca370955d170ebc66f8207cffb9b404b43c843d4c00b1339963f0c428a6eef1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da41e1ee80a64b80f01102a79da950f1f0a93292bfa9e0b652d7e5f73c3d176c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cfd042d58907de9dd896f017117bb43d2865dac58844be71984ce908e0e1e897.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2c539b1ee362ec928e5baef10e5a5ab5f769221e51c7cffb43151731b2f836f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/99e7f212eab3802cca536bf36f0f9e80f7ac13379cdbee0533a78bcf65e4561f.jpg",
+        "intro": "Ruin Raiders is a turn-based tactical roguelike where you command customizable squads on a one-way journey into the ruins of an ancient civilization.",
+        "description": "Ruin Raiders is a turn-based tactical roguelike where you guide squads on a mission to explore an ancient, ever-shifting civilization. Explore ruins, demon-infested depths, and more while upgrading your raiders with unlockable gear before facing bosses that hide in the abyss.\n\nKey Features\n\n- Procedurally Generated and Highly Replayable: You never play the same game twice.\n\n -Tactical Combat: Manage military squads in turn-based ground battles on a no-return journey.\n\n- 100+ Items: Unique weapons, grenades & accessories that you can loot, craft and equip.\n\n- Enemies & Bosses: Tons of enemies on each floor plus unique bosses along the way.\n\n- Strategic Base: Improve & expand your raider's base to achieve powerful upgrades for your characters.\n\n- Unlockable Raider Classes & Abilities: Unlock more races & upgrade your race abilities to deepen yourself further into the ruins.\n\n- Upgradeable Weapons and Units: Craft your own equipment and level-up your raiders.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 376438784
+    },
     "70010000036326": {
         "id": "0100379013A62000",
         "rightsId": null,
@@ -17047,6 +17175,7 @@
         "intro": "Quebra-cabe\u00e7as nunca foram t\u00e3o atmosf\u00e9ricos! Dark Fantasy levar\u00e1 voc\u00ea a uma jornada atrav\u00e9s de retratos sombrios.",
         "description": "Desfrute de quebra-cabe\u00e7as com uma atmosfera \u00e9pica!\n\n- 20 puzzles diferentes para completar\n- Cada quebra-cabe\u00e7a com 12, 24, 48, 96, 192 e 384 pe\u00e7as\n- Tempo de jogo muito alto, realmente leva horas!\n- Gr\u00e1ficos fant\u00e1sticos para o seu g\u00eanero\n- Grandes m\u00fasicas e atmosfera\n- Cores de quadros personaliz\u00e1veis\n- Galeria dispon\u00edvel dentro do jogo\n",
         "languages": [
+            "ja",
             "en",
             "ko",
             "zh",
@@ -17893,6 +18022,51 @@
             "en"
         ],
         "size": 434110464
+    },
+    "70010000038676": {
+        "id": "0100216014472000",
+        "rightsId": null,
+        "name": "FIFA 22 Edi\u00e7\u00e3o Legacy para Nintendo Switch\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211001,
+        "nsuId": 70010000038676,
+        "category": [
+            "Esporte"
+        ],
+        "ratingContent": [
+            "Compras on-line",
+            "Intera\u00e7\u00e3o de usu\u00e1rios"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2f6a0b15646cfb038f93dd4056803d90bcb4a7f3e529bd73f60f3aa1d60734b1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a9b3ae77a0e29154b2ace8c0b80035ca6baeb084003726d060ea9292a0e37ac1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a100e83d013f5d868abed4514adb040ea1146de8e2aba0118a056e4e38f35fe.jpg",
+        "intro": "Powered by Football\u2122",
+        "description": "Powered by Football\u2122, EA SPORTS\u2122 FIFA 22 Edi\u00e7\u00e3o Legacy para Nintendo Switch\u2122, apresentando os \u00faltimos uniformes, times e elencos de algumas das principais ligas do mundo. Ele tamb\u00e9m contar\u00e1 com alguns dos est\u00e1dios mais famosos do mundo, incluindo alguns novos para o FIFA 22. Recursos e modos de jogo ter\u00e3o paridade com FIFA 21 para Nintendo Switch.\n\nJOGABILIDADE\nO FIFA 22 Edi\u00e7\u00e3o Legacy contar\u00e1 com as mesmas inova\u00e7\u00f5es de jogabilidade do FIFA 21, sem aperfei\u00e7oamentos ou melhorias relevantes.\n\nAPRESENTA\u00c7\u00c3O\nO FIFA 22 Edi\u00e7\u00e3o Legacy ter\u00e1 uma identidade visual atualizada com uma nova interface de jogo e telas de menus. Os pacotes de sobreposi\u00e7\u00e3o de transmiss\u00e3o ser\u00e3o atualizados em todos os modos.\n\nMODOS LEGACY\nOs seguintes modos de jogo far\u00e3o parte do FIFA 22 com os mesmos recursos do FIFA 21.\n\u2022Jogo R\u00e1pido\n\u2022Modo Carreira\n\u2022Torneios \u2013 Licenciados e Personalizados, incluindo a UEFA Champions League\n\u2022Copa Internacional Feminina\n\u2022Jogos de Habilidade\n\u2022Temporadas Online\n\u2022Amistosos Online\n\u2022Temporadas Locais\n\nFIFA ULTIMATE TEAM\u2122\nO FIFA Ultimate Team vai incluir:\n\u2022Tarefas de Manager\n\u2022Um Jogador e Temporadas Online\n\u2022Um Jogador e Torneios Online\n\u2022Um Jogador e Draft Online\n\u2022Partida \u00danica Online\n\u2022Desafios de Montagem de Elenco\n\nEste jogo inclui a compra opcional, dentro do jogo, de moeda virtual, que pode ser usada para adquirir itens virtuais no jogo, incluindo uma sele\u00e7\u00e3o aleat\u00f3ria de itens virtuais.\n\nO jogo requer um download de pelo menos 14 GB por meio de uma conex\u00e3o com a Internet. Tamb\u00e9m pode ser necess\u00e1rio criar ou vincular uma Conta Nintendo. Pode ser necess\u00e1rio um cart\u00e3o microSD, dependendo do seu armazenamento. ",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 13552844800
     },
     "70010000038715": {
         "id": "01005320144BC000",
@@ -20994,7 +21168,7 @@
             "zh",
             "zh"
         ],
-        "size": 294649856
+        "size": 372244480
     },
     "70010000039727": {
         "id": "01001B801495A000",
@@ -24752,6 +24926,45 @@
         ],
         "size": 71303168
     },
+    "70010000040907": {
+        "id": "0100287014E96000",
+        "rightsId": null,
+        "name": "Puzzle & Chess",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210909,
+        "nsuId": 70010000040907,
+        "category": [
+            "Puzzle",
+            "Educativo",
+            "Simula\u00e7\u00e3o",
+            "Treinamento"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Isaias Game Dev",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/183070c9c3089b4bfc8cdd1244867b4cbd632d8e4cf00c1987fb70cbbf3851f6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/736d0ba770b19d36e286eb94502aa2718b1b696339967da63e0c5ba6e0f766ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7671a233e8ea9fb88293bbc2a53208afd4edd98cf8c8c9e12cfd8555aa36a927.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/207c778bb4ab6c29d225ddebe5d60aa3bf4381634121e9b692c5033c75199efa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f822d0c9cbc0081ce7d763f0bfe4fe38e3875c14df4d80c574b25c2941bdfa12.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d4a8b3af6fe52c3ad5bde013fd27a9e3d63e4db90716b1db241e9ab62256ffa4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cdc22168776d0f236b0ef04c7347f9c4c4b452f8782299d8c28d5a017e18c0cc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bda904a1bf35d6e808eda7e1736bc149c6974627525f144244689f5cc27cf54a.jpg",
+        "intro": "Puzzle & Chess \u00e9 um jogo relaxante, onde mesmo que voc\u00ea n\u00e3o conhe\u00e7a nada sobre xadrez poder\u00e1 joga-lo sem problema algum venha aproveitar esse relaxantes puzzles",
+        "description": "Puzzle & Chess \u00e9 um jogo relaxante, onde mesmo que voc\u00ea n\u00e3o conhe\u00e7a nada sobre xadrez poder\u00e1 joga-lo sem problema algum venha aproveitar esse relaxantes puzzles",
+        "languages": [
+            "en"
+        ],
+        "size": 90177536
+    },
     "70010000040914": {
         "id": "01002D5014EB4000",
         "rightsId": null,
@@ -26507,6 +26720,55 @@
         ],
         "size": 283115520
     },
+    "70010000041410": {
+        "id": "0100CFD01517A000",
+        "rightsId": null,
+        "name": "A Juggler's Tale",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210929,
+        "nsuId": 70010000041410,
+        "category": [
+            "Aventura",
+            "Plataforma",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Mixtvision",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4e87671993e0751afcdeb8aece1c7a915bfd7665ae1d29f75d9beef6c871f9c6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f952217f8e030c486290ffbc9307c52be5197367f549f3a138bda54c4bafb1c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a07b941866867ee72e30341ebad61a7dfcb9caf47f3edeedb90a4d10322b9164.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ff7afe692dfa0bbcfad6d618a698d43f7fe17158fdca44a62a23a3004b755be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c140dfec108e2770db9013c17f983e5ed7a4e25b9fe3a3336eabe355ecebdcf9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d3f166d472984e248b3158e74c1c45197c96ada7073e501ab0198bde61bb1d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4526ad2dabb2cc73b59dc5daba351b3da0c5940ba01cc362bf5755a91079f30b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/48d4b34bed163a5dbef73433493eb896f64d7660146eea1a3b4cb1b8391cd606.jpg",
+        "intro": "Conduza Abby, a marionete, por um mundo sombrio de contos de fadas, resolvendo charadas e fugindo de armadilhas e perseguidores.",
+        "description": "A Juggler\u2019s Tale \u00e9 um jogo de plataformas cheio de desafios. Jogue como Abby, a marionete, e abra caminho por um mundo de conto de fadas medieval para alcan\u00e7ar a liberdade. Use as cordas do fantoche em quebra-cabe\u00e7as singulares, atravesse obst\u00e1culos e fuja de inimigos implac\u00e1veis enquanto o mestre dos fantoches controla firmemente as cordas.\n\nCARACTER\u00cdSTICAS\n\u2022 Use as cordas da marionete em desafios singulares, supere obst\u00e1culos, atravesse rios violentos, esgueire-se por acampamentos de bandidos e passe por armadilhas perigosas para se libertar.\n\u2022 Explore um mundo lindo e sombrio, inspirado nos contos de fadas tradicionais.\n\u2022 Viva uma hist\u00f3ria intensa de esperan\u00e7a e fortalecimento pessoal, ao som de m\u00fasicas inspiradas no folk e da voz carism\u00e1tica do narrador.\n\u2022 Descubra o que \u00e9 preciso para realmente se libertar de todas as cordas.\n\nHIST\u00d3RIA\n\"Senhoras e senhores! Entrem, entrem! Que tal uma boa hist\u00f3ria?\"\n\nAbby \u00e9 uma artista de circo cativa, que passa os dias entretendo o p\u00fablico e as noites em uma jaula, sonhando com a liberdade. Um dia, ela escapa do circo e come\u00e7a a explorar um mundo m\u00edstico.\n\nMas a liberdade custa caro e Abby logo se v\u00ea arrastada para os perigos que o mundo tem a oferecer. Em um conto de fadas numa era medieval devastada pela guerra e repleta de cidad\u00e3os famintos, com o implac\u00e1vel Tonda no seu encal\u00e7o, Abby deve atravessar rios violentos, passar por acampamentos de bandidos e desviar de armadilhas.\n\nSua aventura \u00e9 pontuada pelas rimas l\u00edricas do mestre de marionetes Jack, que conta a hist\u00f3ria enquanto segura com firmeza os cord\u00f5es dos seus fantoches.\"\n\nEm quem Abby pode confiar? Ser\u00e1 ela capaz de se libertar de verdade? Poder\u00e1 Abby definir o pr\u00f3prio destino, mesmo presa pelas cordas?\n\n\"Abby, Abby... ent\u00e3o n\u00e3o v\u00ea, as cordas que te guiam tamb\u00e9m prendem voc\u00ea.\"",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 2283798528
+    },
     "70010000041432": {
         "id": "0100270015190000",
         "rightsId": null,
@@ -27284,6 +27546,50 @@
             "en"
         ],
         "size": 134217728
+    },
+    "70010000041666": {
+        "id": "010004A0143C4000",
+        "rightsId": null,
+        "name": "BARRICADEZ ReVisited",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70010000041666,
+        "category": [
+            "Simula\u00e7\u00e3o",
+            "Estrat\u00e9gia"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Medo"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "FlyPenguin",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/51aa3914898b80670ee3f012a15437bfbe73d63bac18a9e88fdeebc17b63060f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7de731e5558517ccc3df246c2d4b0269f04da6912b463621f9a9495803466e73.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e7fb270acf28376976e1cfb962d9dcb17a8fcdd5ad351df340b69bbc8d2bda0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6304af8337e060e94d7dcfe8fd56688dded75b06732621e614d984bd46499afe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/011161a0432dfaccae10f0539f8017d35f429c61b556648d714b8670e6b0a707.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00544bf513befd8d05145dfe8a4901a184540eff3f153a39a41f1fd7b641ec96.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8fd22f6d7687f14cd6db2543023de7b5f40599a1ee6bb2930c7f743d5293f160.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ad6b9bb6aae72f976e1af548d8de9021f246c9e170a33526a41e56bc788146f0.jpg",
+        "intro": "Explore, mine, and craft a variety of traps in this \nadventure+tower defense game to protect a cradle from \nthe Aggressors that come out at night. ",
+        "description": "This is the Crafting \u00d7 Tower Defense game you have been looking for. Gather materials and items to upgrade your base and protect a cradle after civilization collapses.\n\nMine and explore in caves\nIn The Caves, you can mine randomly generated resources that are used to craft traps and blocks. Venture deeper and deeper to find a number of rare materials and secrets.\n\nCraft the perfect defense\nIn your base, you can craft dozens of facilities and traps to repel approaching enemies. Mix and match the attributes of each trap to counter each attacker's behavior and survive one more day.\n\nImmersive story\nDive deeper and survive longer to uncover pieces of the truth. Find out what happened to cause the destruction of the world and the origin of our little robot!",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 361758720
     },
     "70010000041681": {
         "id": "01003770152AA000",
@@ -31121,9 +31427,13 @@
         "category": [
             "Estrat\u00e9gia"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Viol\u00eancia Fantasiosa",
+            "Compras on-line",
+            "Intera\u00e7\u00e3o de usu\u00e1rios"
+        ],
         "numberOfPlayers": 4,
-        "rating": 10,
+        "rating": 0,
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
@@ -32341,6 +32651,45 @@
         ],
         "size": 8357150720
     },
+    "70010000043342": {
+        "id": "01004AF01590C000",
+        "rightsId": null,
+        "name": "Puzzle Car",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210909,
+        "nsuId": 70010000043342,
+        "category": [
+            "Puzzle",
+            "Estrat\u00e9gia",
+            "Tabuleiro",
+            "Aprendizagem"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "QUByte Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2ed503ec499db858377f5d2de220d6dc3f9d568c8f1e8695671db137040dcb68.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/06963c200f20756c8764da9f65d4cc7ec8664a5fc2530056528276d02e12c3f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8c18bd2b014b3dfa31c17406b915116866171e79b2b7a16ca33a80721ca0fa0c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a89f67cab9a3015cd003c548d2f0ce476d3bf4941ad7e7de1176a921b07f1e4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/004edd85d8c06e198f0ea3dccd8ae52969a5ad4fae4e3d6d9d769ce8aa5906dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0aa96d203848e454ca861131c1d16c291c5488f328e73a9cf15d752954f66229.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6201aa80ff1f56daa085f0991c9bb1506f63031f9324e98c3ab905e70441f234.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3acf6b7119ee3dcbe52affdb8890bfa6e285d9219647194395eed6b10b6c961d.jpg",
+        "intro": "A minimalist and relaxing experience. Challenge yourself to move pieces to assemble a safe path for your car and collect all the items on the way, while listening to a relaxing soundtrack.",
+        "description": "A minimalist and relaxing experience. Challenge yourself to move pieces to assemble a safe path for your car and collect all the items on the way, while listening to a relaxing soundtrack in a totally minimalist environment. In this game, create a safe path using curves, intersections, tunnels and collect all the items on the way, always respecting crosswalks. Have fun!\n\nFeatures\n\u2022 50 challenges.\n\u2022 Calm and relaxing soundtrack.\n\u2022 Satisfactory sound effect.\n\u2022 Unique puzzles.\n\u2022 Simple and minimalist puzzle game.",
+        "languages": [
+            "en"
+        ],
+        "size": 93323264
+    },
     "70010000043347": {
         "id": "0100EA501521A000",
         "rightsId": null,
@@ -32630,6 +32979,50 @@
             "zh"
         ],
         "size": 2397044736
+    },
+    "70010000043432": {
+        "id": "0100939015968000",
+        "rightsId": null,
+        "name": "Lone McLonegan : A Western Adventure",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211104,
+        "nsuId": 70010000043432,
+        "category": [
+            "Aventura",
+            "Puzzle",
+            "A\u00e7\u00e3o",
+            "Educativo"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Drogas L\u00edcitas"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Flynns Arcade",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/47d94de688d6dfd95a3b270ad4bd72d470248e481c249ea13176819a6de850d2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/eba8584c307dcad750e98a1066d7ea8fac7ca616a147e1b753a7c6f9e4076ac0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11fdb857b7389f7fffd64104c1eb041407c875a4b88a3b9355e6c87de0562d22.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d1402b7c80e84a0f0669b2b1e3baee4f5043dac858aaf52adfd472693de4208.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/53b52469667326a65964348b8b9635bcee07858506463f8feee91884030ec02e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e18c81648dff6b1fecc5d4ab541b51e67e808484def5d1a2ceae996a95f2f67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84a7c75521f97d7a0dbbb4ea876463c1d9fcee585b035c069502a64034d17ec7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/38ce1a5ff56c2208e797b4477a90b3e5b14fb886cd208b3e5bcb3afb9d078021.jpg",
+        "intro": "Lone McLonegan \u00e9 um jogo de aventura \"point-n-click\" da velha guarda inspirado em velhos westerns com toques de humor \u00e1cido.",
+        "description": "Lone McLonegan costumava ser \"O Fora-da-lei mais procurado do Velho Oeste\", mas agora est\u00e1 um pouco enferrujado e fora de forma. Bragg Badass, o seu arqui-inimigo, \u00e9 agora o n\u00famero um da lista dos mais procurados e o novo \u00eddolo do Ocidente.\n\nQuando Lone toma conhecimento da \u00faltima explora\u00e7\u00e3o do Badass, termina o seu mojito, salta do seu sof\u00e1 e decide recuperar o seu trono, roubando o Banco de Oldewell, que det\u00e9m o cofre mais seguro do condado, o que, sem d\u00favida, colocar\u00e1 a sua cabe\u00e7a mais uma vez a um pre\u00e7o mais elevado e, finalmente, ultrapassar\u00e1 o Badass!\n\nA meio da viagem a dilig\u00eancia Lone est\u00e1 a viajar \u00e9 atacada pelos assassinos do Badass e Lone tem de caminhar at\u00e9 Oldewell para fazer hist\u00f3ria novamente.\n\n - Conhe\u00e7a uma s\u00e9rie de personagens peculiares\n - Solucionar intrincados e divertidos puzzles\n - Roubar o cofre mais seguro do condado\n - Fuga da pris\u00e3o\n - Misturar ingredientes perigosos\n - Explodir coisas\n - Dizer mentiras\n - Fazer piadas\n - Cacto de espremer\n - ...\n - Ah, e... Derrote Badass!\n\nUma aventura da velha escola\nLone McLonegan \u00e9 um jogo de aventura \"point-n-click\". Olha, apanha e utiliza objectos, fala e interage com personagens, chuta coisas, transporta in\u00fameros artigos de invent\u00e1rio estranhos e utiliza-os da forma mais c\u00f3mica.\n\nSolit\u00e1rio, um tipo duro\nSolit\u00e1rio \u00e9 um tipo cl\u00e1ssico e duro... mas apenas no exterior. No interior, \u00e9 mole e cobarde. Evita brigas sempre que pode e normalmente sai das situa\u00e7\u00f5es mais complicadas usando a sua intelig\u00eancia e, claro, a sua ajuda. Em Lone McLonegan, n\u00e3o basta clicar aqui e ali e resolver puzzles, Lone tamb\u00e9m falar\u00e1 consigo, discutir\u00e1 as suas decis\u00f5es, e conquist\u00e1-lo-\u00e1 com a sua personalidade.\n\nUm jogo feito com amor\nTodas as personagens s\u00e3o desenhadas \u00e0 m\u00e3o e as cenas mant\u00eam esse encanto especial dos velhos westerns. Inclu\u00edmos refer\u00eancias de cultura pop que o far\u00e3o rir em voz alta e anacronismos engra\u00e7ados que fazem de Lone McLonegan um jogo \u00fanico com uma personalidade tremenda que n\u00e3o o deixar\u00e1 indiferente.\n\nAjude o Solit\u00e1rio a tornar-se \"O Fora-da-lei mais procurado do Velho Oeste\"!",
+        "languages": [
+            "en",
+            "es",
+            "fr"
+        ],
+        "size": 1808793600
     },
     "70010000043457": {
         "id": "01006740157F8000",
@@ -34307,6 +34700,48 @@
         ],
         "size": 156237824
     },
+    "70010000044707": {
+        "id": "010062E015ED6000",
+        "rightsId": null,
+        "name": "S.W.A.N.: Chernobyl Unexplored",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210923,
+        "nsuId": 70010000044707,
+        "category": [
+            "A\u00e7\u00e3o",
+            "Aventura",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Medo"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Art Games Studio",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cf6baa9a8e99b1a8e961098be9ad1d6f7e592cc649886a47be4f500485880c7b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/db99c23b702756f2c8f1c5a285d77522021ad0d0ad63aba68f086d050a0ac956.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/83632a6b1aa053ca845041db04ded3f4f93e10936b37f4a3f6616b8908091bfd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b550a126effc2d2e9eacfe1621fb945ea9dca593b33bae62e2e9e3828a25cdf5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/222fff50d3c37fccce8fe7a0cc06dccef364b9ad6092594019985ed1f022c78d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17c3782c2861387be0c64d8f1fef5111346251a60a11d0a1cc7b4a94c7c94641.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2896f8b65f11a4b1cd1885fd525490a5d0eedc01f9723f6b9c6988049b17666d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af9a320439f660dc51638b81911f388801ac6c879906d7012e83bfb1e16590de.jpg",
+        "intro": "This is a science fiction FPS puzzle horror game. Experience a tale about an unexplored area within the Chernobyl Exclusion Zone - The S.W.A.N. Institute.",
+        "description": "S.W.A.N.: Chernobyl Unexplored is a science fiction FPS puzzle horror game, which takes place a few months after the Chernobyl Nuclear Plant disaster.\n\nTake part in the research expedition and be one of the first people to get inside the S.W.A.N. Institute since the reactor failure. You'll discover the place kept secret by ZSRR authorities, omitted during the evacuation after the Chernobyl disaster.  \n\nExperience things that go far beyond the limit of human imagination. Face the danger locked behind the facility door. Find another expedition participant and discover the inhumane secrets of professor Kaydanovskiy - the founder of the facility.",
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "size": 3587178496
+    },
     "70010000044709": {
         "id": "0100C20015ED8000",
         "rightsId": null,
@@ -34615,7 +35050,9 @@
             "Grupo",
             "Puzzle"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Compras on-line"
+        ],
         "numberOfPlayers": 4,
         "rating": 0,
         "developer": null,
@@ -34925,6 +35362,129 @@
             "zh"
         ],
         "size": 2397044736
+    },
+    "70010000045547": {
+        "id": "0100F8F015D3C000",
+        "rightsId": null,
+        "name": "Blind Postman",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70010000045547,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Fantasiosa"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "DillyFrame",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ccfc0cfb181977b9bff8ca3d50356928cdd2e7f1c614423ebfaed627428853b3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9f464590085af7610f3e8f63683e406ad7866d6bb584d299fe1b49c1a20fae45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41f0e95e65404ad41011982143a426bb25ccadaa2b8abf334628691d33797b9e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5373834ef97e46dd3d2a74c0bf494ea9c254c6bbf2c75a5ee1683510ab27e67f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b485225c5ef916b63c006d583e61dc54bac4d3d70a6ad27f4de46162e710b6d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/455ce9b681fe504bfd1c3055440710afb44453532387e7e2275c80c9660a42d4.jpg",
+        "intro": "Ajude o carteiro cego a recolher todas as cartas e a encontrar uma sa\u00edda do labirinto.",
+        "description": "Voc\u00ea pode ver apenas paredes. Voc\u00ea n\u00e3o pode parar at\u00e9 atingir um obst\u00e1culo. Obst\u00e1culos podem ser perigosos. Obst\u00e1culos podem ser \u00fateis. Voc\u00ea n\u00e3o vai descobrir at\u00e9 tentar.\n\nO que est\u00e1 brilhando \u00e0 dist\u00e2ncia? \u00c9 uma carta! Voc\u00ea tem que alcan\u00e7\u00e1-lo. Voc\u00ea tem que junt\u00e1-lo e lev\u00e1-lo ao fim.\n\nVoc\u00ea pode morrer? N\u00e3o! \u00c9 apenas mais uma tentativa. Voc\u00ea tentar\u00e1 at\u00e9 encontrar uma sa\u00edda do labirinto.\n\nRecursos:\n\n- 50 n\u00edveis\n- do movimento de parede a parede\n- atmosfera",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru"
+        ],
+        "size": 245366784
+    },
+    "70010000045749": {
+        "id": "010032B013CE4000",
+        "rightsId": null,
+        "name": "Razion EX",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210916,
+        "nsuId": 70010000045749,
+        "category": [
+            "Arcade",
+            "Tiro"
+        ],
+        "ratingContent": [
+            "Conte\u00fado Sexual",
+            "Medo"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "NGDEV",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e7d17c1c3909e44fb472551fc2575a5c730acb618fe013e5a83d70dc678950dd.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/33fd5f1a67e5dc11edf99838e9929775ed22f74e7021019522aeca56b9e952e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c250d4f30213ffa857625c2ec115472bd9a6a132073cd70ffba972680ad75d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b33613d22a5707ea5fc034b8dfcbe2391f018008340e3c91a0ebd84efe63367.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ca489a8728b48910ffb5500d314f9841f5fe5819b02c49305178bc5385e4b58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cceb70db9c2b893a7a17cf6a6835f603b00431191ed14eeafcc8c8ad81e1fdea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c657547b266bb4afb25ded7211f61d9e0a367f5d24a76d42f2c67e18ce9c90c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6d22beeecf086fc8b1523546136b89dd2ffa428af4711f4a12f1e0ad7e1e5bcc.jpg",
+        "intro": "RAZION EX is a 16 bit CGI style horizontal shooting game originally made for arcades, ported and upgraded to Nintendo Switch\u2122",
+        "description": "The score system is based on growing gold cubes and using the beam to freeze the cubes.\nIt has 3 game modes (NOVICE/NORMAL/MANIAC).\n\nChanges for EX version:\n\n- reworked game play\n- re-balanced and reduced difficulty\n- added bullet canceling for certain enemies\n- reworked controls and ship movements\n- upgraded graphics and added 32 bit effects\n- upgraded to widescreen\n- added scanline filter\n- slightly reworked levels\n- reworked scoring mechanics\n- unlock-able continues\n- added training mode for unlocked levels and bosses\n- added small ending\n- CD quality music\n\nGame Features:\n\n6 stages with varied settings\n6 huge end bosses\n7 sub bosses\n3 game modes\n\nGraphics:\nRendered 16-bit CGI graphics horizontal shooting game",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 294649856
+    },
+    "70010000045754": {
+        "id": "0100D85016326000",
+        "rightsId": null,
+        "name": "Hampuzz",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210923,
+        "nsuId": 70010000045754,
+        "category": [
+            "Puzzle",
+            "A\u00e7\u00e3o"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "orange",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fa0f028bb7d1c9da10e45d3be80a54cec4c34bc0474286ec0f72d7f91ae16ce3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ce432f43ef2658f9ccd57422d69ecf0bd431927a60f7a5a69e42cd62d0117766.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0304ad14d4d08b41f318111c405d711ae2c97b6edc9a9f0bf4e7e0539c152ba0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c392870ea835117ef7b4624cf5cfd6c26487bfb23631f12b023b10c8590f26ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbf8b2212f66888a1a93b1a5e4dd8dd3b9acacd18d403996d6917cbadcd2389a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c06e9a35c93ff59624445bff705eedb01b0fff3018186d4fe4a67048eb04cb5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/955cdf97b5a80c85b624b87b2ca70f3b2966b952e44f8327c884f0d586aea286.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/53b4d992bb88a365d3ad6544e2fee91f3f6308ce64fc79e30a6dc6dda2bb83a6.jpg",
+        "intro": "match3 puzzle action game\uff01\nPress the block. Climb the block. Erase the block. Let's aim for the goal!",
+        "description": "match3 puzzle action game\uff01\nPress the block. Climb the block. Erase the block. Let's aim for the goal!\nSimple puzzle game\uff01\n\n\u25a0rule\n Flag is the goal.\n Match 3 or more of the same colored blocks.\n The block cannot be pulled.\n Only one can be pressed.\n Can climb one step.\n\nThere are 50 stages in the game.",
+        "languages": [
+            "en"
+        ],
+        "size": 265289728
     },
     "70010000045759": {
         "id": "0100F9301632A000",
@@ -52680,10 +53240,15 @@
         "publisher": "Focus Home Interactive",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2078b24f1eaa311e4d90e0da4bb16b449c5df669023933f80b5e21bd1ef41902.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/002b8f9617a3ecbbe0a0013fb8c9605f6fd385c5e1d0c2afd6072ce2671ae8f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f82822f70bb3c7b159197dce3116b184e783eb704d083922530acb101283dfe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a0bbc8d164aa071cfb18883bd1389fdfd6b41a341df441ad0535fc216bb4376.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/178a44815f19a3c16e5e03ad3cde2fbf4b29a19f5608bd0b0dd5b4d5334536aa.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c2d0141dc6654c27ad56c343690b813e8c6e834c2c39274498301eb9354ad649.jpg",
         "intro": null,
-        "description": "Amplie sua experi\u00eancia em SnowRunner com essa nova DLC.",
+        "description": "Expanda sua experi\u00eancia SnowRunner com a Season 5: Build & Dispatch. Restaure uma antiga f\u00e1brica da TATRA em Rostov Oblast, R\u00fassia, e explore mais dois mapas com dois novos ve\u00edculos TATRA.\n\nO DLC da Season 5: Build & Dispatch est\u00e1 dispon\u00edvel junto ao Passe do Ano 2 ou como compra independente.\n\nA Season 5: Build & Dispatch inclui:\n\u2022 Dois novos mapas repletos de colinas em Rostov Oblast, R\u00fassia. Voc\u00ea dever\u00e1 explor\u00e1-los para restaurar uma f\u00e1brica completa da TATRA, que inclui suas pr\u00f3prias \u00e1reas de teste! O ambiente ao redor inclui uma antiga reserva natural com dezenas de \u00e1reas para explorar.\n\u2022 Dois novos ve\u00edculos TATRA, desbloqueados ap\u00f3s a restaura\u00e7\u00e3o da f\u00e1brica de ve\u00edculos: o TRATA FORCE e o TRATA PHOENIX, um par de m\u00e1quinas potentes e modernas com 8 rodas.",
         "languages": null,
         "size": 3145728,
         "ids": [
@@ -60048,6 +60613,39 @@
         "languages": null,
         "size": 3145728
     },
+    "70050000029161": {
+        "id": "0100216014473001",
+        "rightsId": null,
+        "name": "FIFA 22 Edi\u00e7\u00e3o Legacy para Nintendo Switch\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211001,
+        "nsuId": 70050000029161,
+        "category": null,
+        "ratingContent": [
+            "Compras on-line",
+            "Intera\u00e7\u00e3o de usu\u00e1rios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a9b3ae77a0e29154b2ace8c0b80035ca6baeb084003726d060ea9292a0e37ac1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a100e83d013f5d868abed4514adb040ea1146de8e2aba0118a056e4e38f35fe.jpg",
+        "intro": "Powered by Football\u2122",
+        "description": "Como agradecimento por jogar o EA SPORTS FIFA 21 no Nintendo Switch\u2122, um desconto foi aplicado \u00e0 sua compra do FIFA 22 Edi\u00e7\u00e3o Legacy*.\n\nPowered by Football\u2122, EA SPORTS\u2122 FIFA 22 Edi\u00e7\u00e3o Legacy para Nintendo Switch\u2122, apresentando os \u00faltimos uniformes, times e elencos de algumas das principais ligas do mundo. Ele tamb\u00e9m contar\u00e1 com alguns dos est\u00e1dios mais famosos do mundo, incluindo alguns novos para o FIFA 22. Recursos e modos de jogo ter\u00e3o paridade com FIFA 21 para Nintendo Switch.\n\nJOGABILIDADE\nO FIFA 22 Edi\u00e7\u00e3o Legacy contar\u00e1 com as mesmas inova\u00e7\u00f5es de jogabilidade do FIFA 21, sem aperfei\u00e7oamentos ou melhorias relevantes.\n\nAPRESENTA\u00c7\u00c3O\nO FIFA 22 Edi\u00e7\u00e3o Legacy ter\u00e1 uma identidade visual atualizada com uma nova interface de jogo e telas de menus. Os pacotes de sobreposi\u00e7\u00e3o de transmiss\u00e3o ser\u00e3o atualizados em todos os modos.\n\nMODOS LEGACY\nOs seguintes modos de jogo far\u00e3o parte do FIFA 22 com os mesmos recursos do FIFA 21.\n\u2022Jogo R\u00e1pido\n\u2022Modo Carreira\n\u2022Torneios \u2013 Licenciados e Personalizados, incluindo a UEFA Champions League\n\u2022Copa Internacional Feminina\n\u2022Jogos de Habilidade\n\u2022Temporadas Online\n\u2022Amistosos Online\n\u2022Temporadas Locais\n\nFIFA ULTIMATE TEAM\u2122\nO FIFA Ultimate Team vai incluir:\n\u2022Tarefas de Manager\n\u2022Um Jogador e Temporadas Online\n\u2022Um Jogador e Torneios Online\n\u2022Um Jogador e Draft Online\n\u2022Partida \u00danica Online\n\u2022Desafios de Montagem de Elenco\n\nEste jogo inclui a compra opcional, dentro do jogo, de moeda virtual, que pode ser usada para adquirir itens virtuais no jogo, incluindo uma sele\u00e7\u00e3o aleat\u00f3ria de itens virtuais.\n\n*AS OFERTAS PODEM VARIAR OU MUDAR. CONSULTE O SITE DO REVENDEDOR PARA VER MAIS DETALHES.\nO jogo requer um download de pelo menos 14 GB por meio de uma conex\u00e3o com a Internet. Tamb\u00e9m pode ser necess\u00e1rio criar ou vincular uma Conta Nintendo. Pode ser necess\u00e1rio um cart\u00e3o microSD, dependendo do seu armazenamento. ",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100216014473001"
+        ]
+    },
     "70050000029201": {
         "id": "0100F30013BFD001",
         "rightsId": null,
@@ -60672,6 +61270,38 @@
         "ids": [
             "010051C0134F900D"
         ]
+    },
+    "70050000029587": {
+        "id": null,
+        "rightsId": null,
+        "name": "SnowRunner - Jeep Dual Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210909,
+        "nsuId": 70050000029587,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Focus Home Interactive",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fed9cd8ca097178e7e8a756a06dc21a80a7806a6b885963f9f17b41c9f51240a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aca5d43f70d586c07031efa51c355549b4a7d812575b3492b92e059c61385a67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df500bfe539177174a9c5667a9d70d0195539c4332f0b92fe7f1148b6afe6a6e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/faeb3c071f4c99a6ea4a0d1d37306da36ed3f4a13b57d4a64b4b0c72e21cb84c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c011afa22d38558c65060c81b0f1ebc447d37a225f590f2281ae035bcd04362.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c33fd2ffb32c09c408dc6982565f8450ce6312559b71353f9a205e704943ba7d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0e60db6323ed572a04f22c9ddc3be7891418ca310360da147d08a4ef4b0b341c.jpg",
+        "intro": null,
+        "description": "Expanda sua garagem do SnowRunner com o pacote Dual Jeep, que inclui dois ve\u00edculos patrulheiros ic\u00f4nicos da marca lend\u00e1ria: o Wrangler-Rubicon e o CJ-7 \"Renegade\". Esses ve\u00edculos patrulheiros leves da Jeep, testados e aprovados pelo tempo, merecem o lugar de destaque que conquistaram em todas as miss\u00f5es onde se enfrenta a natureza selvagem.\n\nO pacote Dual Jeep n\u00e3o est\u00e1 inclu\u00eddo no Passe do Ano 1 ou no Passe do Ano 2.",
+        "languages": null,
+        "size": 3145728
     },
     "70050000029590": {
         "id": "0100605015753001",
@@ -61718,7 +62348,7 @@
         "intro": null,
         "description": "A Edi\u00e7\u00e3o Deluxe inclui o jogo e o Passaporte FighterZ, que adiciona mais 8 personagens ao elenco.\n\nDRAGON BALL FighterZ foi inspirado no que torna a s\u00e9rie DRAGON BALL t\u00e3o querida e famosa: lutas infinitas e espetaculares entre guerreiros poderosos.\n\nEm parceria com a Arc System Works, DRAGON BALL FighterZ maximiza os gr\u00e1ficos de anime de alta qualidade e oferece uma mec\u00e2nica de jogo f\u00e1cil de aprender, mas dif\u00edcil de dominar.\n\nSuporte/permuta no 3v3\nMonte uma superequipe e aprimore suas t\u00e9cnicas para dominar combina\u00e7\u00f5es de permuta em alta velocidade.\n\nIncr\u00edveis Recursos Online\nPartidas ranqueadas, lobby interativo, Partida Maluca com 6 jogadores... Tem recursos para todos os gostos!\n\nExclusivo Modo Hist\u00f3ria\nExplore cen\u00e1rios com a Androide 21, uma nova personagem criada sob a supervis\u00e3o do pr\u00f3prio Akira Toriyama.",
         "languages": null,
-        "size": 10441719808
+        "size": 10439622656
     },
     "70070000003204": {
         "id": null,
@@ -61752,7 +62382,7 @@
         "intro": null,
         "description": "A Edi\u00e7\u00e3o Ultimate inclui:\n\u2022 O jogo\n\u2022 Passaporte FighterZ (com 8 personagens novos)\n\u2022 Pacote M\u00fasica do Anime (11 m\u00fasicas do Anime)\n\u2022 Pacote Voz de Comentarista\n\nDRAGON BALL FighterZ nasceu inspirado no que torna a s\u00e9rie DRAGON BALL t\u00e3o querida e famosa: lutas infinitas e espetaculares entre guerreiros poderosos.\n\nEm parceria com a Arc System Works, DRAGON BALL FighterZ maximiza os gr\u00e1ficos de anime de alta qualidade e oferece uma mec\u00e2nica de jogo f\u00e1cil de aprender, mas dif\u00edcil de dominar.\n\nSuporte/permuta no 3v3\nMonte uma superequipe e aprimore suas t\u00e9cnicas para dominar combina\u00e7\u00f5es de permuta em alta velocidade.\n\nIncr\u00edveis Recursos Online\nPartidas ranqueadas, lobby interativo, Partida Maluca com 6 jogadores... Tem recursos para todos os gostos!\n\nExclusivo Modo Hist\u00f3ria\nExplore cen\u00e1rios com a Androide 21, uma nova personagem criada sob a supervis\u00e3o do pr\u00f3prio Akira Toriyama.",
         "languages": null,
-        "size": 10454302720
+        "size": 10452205568
     },
     "70070000003261": {
         "id": null,
@@ -64774,5 +65404,37 @@
         "description": "A Edi\u00e7\u00e3o Definitiva inclui:\n\u2022 O jogo\n\u2022 TRUNKS, O GUERREIRO DA ESPERAN\u00c7A\n\u2022 DRAGON BALL Z: KAKAROT - PACOTE DE COMPILA\u00c7\u00c3O DE M\u00daSICAS (11 m\u00fasicas adicionais do anime)\n\u2022 Um item de culin\u00e1ria de b\u00f4nus \n\u2022 Pilar de Tao Pai Pai\n\nO JOGO\n\u2022 Vivencie a hist\u00f3ria de DRAGON BALL Z, de eventos \u00e9picos a miss\u00f5es secund\u00e1rias divertidas, incluindo momentos in\u00e9ditos da hist\u00f3ria que respondem a algumas quest\u00f5es pendentes da hist\u00f3ria de DRAGON BALL pela primeira vez!\n\n\u2022 Jogue por meio de batalhas ic\u00f4nicas de DRAGON BALL Z em uma dimens\u00e3o diferente de qualquer outra. Lute em vastos campos de batalha com ambientes destrut\u00edveis e vivencie batalhas \u00e9picas de chefes contra os inimigos mais ic\u00f4nicos (Raditz, Freeza, Cell etc.). Aumente seu n\u00edvel de poder com a mec\u00e2nica de RPG e encare desafios!\n\n\u2022 V\u00e1 al\u00e9m de lutas como um Guerreiro Z. Viva como um! Pesque, voe, coma, treine e lute pelas sagas de DRAGON BALL Z, fa\u00e7a amigos e construa relacionamentos com um elenco enorme de personagens de DRAGON BALL.\n\nCONJUNTO DE UM NOVO PODER DESPERTA\n\u2022 V\u00e1 al\u00e9m da hist\u00f3ria de DRAGON BALL Z e vivencie mais duas batalhas de chefes, com o conjunto de um novo poder desperta! Domine o poder dos deuses para desafiar o Lorde Bills e v\u00e1 ainda mais longe para combater o Freeza Dourado com o poder do Super Saiyajin Azul!\n\nSAGA DE TRUNKS, O GUERREIRO DA ESPERAN\u00c7A\n\u2022 Viva a luta mais feroz da vida do Trunks num mundo desesperador nesta Nova Saga da Hist\u00f3ria!\nGoku morreu devido ao v\u00edrus em seu cora\u00e7\u00e3o, e o mundo foi destru\u00eddo pelos androides. Os guerreiros sobreviventes, Trunks e Gohan, lutar\u00e3o para proteger o planeta.\n\nEdi\u00e7\u00e3o de Luxo de DRAGON BALL Z: KAKAROT - PACOTE DE COMPILA\u00c7\u00c3O DE M\u00daSICAS\n\u2022 Com o PACOTE DE COMPILA\u00c7\u00c3O DE M\u00daSICAS, voc\u00ea pode trocar as m\u00fasicas de campo e de batalha por can\u00e7\u00f5es dos animes DRAGON BALL, DRAGON BALL Z e DRAGON BALL KAI!",
         "languages": null,
         "size": 17780703232
+    },
+    "70070000012932": {
+        "id": null,
+        "rightsId": null,
+        "name": "Conjunto de quebra-cabe\u00e7as Draknek and Friends",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210909,
+        "nsuId": 70070000012932,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Draknek",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e1b95713617fd9b8dfb8607e0283e4ca185a62762841b9b2ae8076eef2760dec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3abf7a028156ca6f82d4bbf6437cbc57c64a69ea51d4a027794b779325d12133.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b70479d779de61580cf7ff5023a163f5ff2c4ab323f99af6ca77f809e74b8541.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/102f3a8bf59c6a467e13fbeaff2aad5ce2d36aeb539f7f3a0695f9c5649490a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed32a5492df76d89b1a0a95c4117db436a47c201a516aac423f0ff128f4b0353.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b85a722094f2cfa44b3d7e509900dc126a634e10639d7a5207e567b892cb93e0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8362a8b0bf46707c3aa081bef17f636d25e7ca864135fa4343e9f3a87c91bf9f.jpg",
+        "intro": "Quatro obras-primas dos quebra-cabe\u00e7as por um pre\u00e7o baixo!",
+        "description": "Produzido por alguns dos melhores criadores de quebra-cabe\u00e7as no mundo, chegou o Conjunto de quebra-cabe\u00e7as Draknek and Friends, uma cole\u00e7\u00e3o com quatro dos melhores jogos de quebra-cabe\u00e7as da \u00faltima d\u00e9cada. Com dezenas de horas de divers\u00e3o, este conjunto \u00e9 indispens\u00e1vel para os f\u00e3s de quebra-cabe\u00e7as.\n\nEncabe\u00e7ando o conjunto, temos o aclamado pela cr\u00edtica \"A Monster\u2019s Expedition\"; um jogo de quebra-cabe\u00e7as de mundo aberto que explora o museu da Terra da Inglaterra Humana. Jogadores de todos os n\u00edveis de habilidade podem se divertir em centenas de ilhas \u2014 algumas bem \u00e0 sua frente, outras bem longe do caminho habitual para os verdadeiros amantes de quebra-cabe\u00e7a\n\nCrie caminhos em Cosmic Express para viajar pela col\u00f4nia espacial mais esquisita da gal\u00e1xia. Ela \u00e9 fofa, mais dif\u00edcil do que parece e traz horas de desafio e divers\u00e3o garantidos em centenas de fases. \n\nEm A Good Snowman is Hard to Build, os jogadores podem continuam explorando o mundo de A Monster\u2019s Expedition enquanto rolam bolas de neve para virarem amigos de neve. Este jogo \u00e9 o mais f\u00e1cil e acess\u00edvel entre os quatro e divertido para todas as idades.\n\nMova \u00e1tomos em Sokobond para formar mol\u00e9culas cada vez mais complexas em mais de cem fases de quebra-cabe\u00e7as desafiadores no primeiro lan\u00e7amento comercial da Draknek.",
+        "languages": null,
+        "size": 1547698176
     }
 }
