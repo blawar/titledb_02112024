@@ -3796,6 +3796,54 @@
         ],
         "size": 1452277760
     },
+    "70010000012840": {
+        "id": null,
+        "rightsId": null,
+        "name": "The Messenger",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191118,
+        "nsuId": 70010000012840,
+        "category": [
+            "Action",
+            "Adventure",
+            "Arcade",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Devolver Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ff97ff2ff5407ebbce8a4b2223d8f9c6175637f04a605826a25b0906afa5b5da.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a1a6ff41df4b90d63b5bd402d7cc654497af0878927961a73e9b8b306f1d63a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e1e43ab84a5ec334f2a4289cbbf0972f83eef35ab4ee18fc899d6a61ab32a42.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a8c80e71074ea318bca3053a7bd75dd00b955966990d45a475924c30a556413.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8a56a5ef4a121ebdcccf5272bfc492f05e9e37fccfcec60b757db1786255d47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4484c4f01ff769f46d978e08ca82b3cfd1003ee9ae800568a55bba5b4eb0af48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fab023ae555e3301a40ae7dc92643198f1cdcc3d18a06820cd606a656e43f8e2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/df0eb163676a4e1c3059dc3a9cee00e77563250a61f834c726346007b5a3a9fd.jpg",
+        "intro": null,
+        "description": "As a demon army besieges his village, a young ninja ventures through a cursed world, to deliver a scroll paramount to his clan\u2019s survival. What begins as a classic action platformer soon unravels into an expansive time-traveling adventure full of thrills, surprises, and humor.\n\n - Dynamic, acrobatic gameplay and ultra tight controls worthy of an epic ninja adventure.\n\n - Character upgrades, new abilities, hidden levels, and branching paths to discover.\n\n - Meticulously designed 8-bit and 16-bit sprites, animations, and backgrounds in the spirit of the classics.\n\n - A memorable cast of offbeat villains, bosses, and associates.\n\n - Original soundtrack by renowned chiptune composer Rainbowdragoneyes, handmade using Famitracker.",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "pt",
+            "es",
+            "de",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2070937600
+    },
     "70010000012854": {
         "id": "010050F00BC1A000",
         "rightsId": null,
@@ -8336,7 +8384,7 @@
             "ko",
             "zh"
         ],
-        "size": 2467299328
+        "size": 3476029440
     },
     "70010000030089": {
         "id": "0100429011144000",
@@ -10041,6 +10089,51 @@
         ],
         "size": 6995050496
     },
+    "70010000033063": {
+        "id": "01005FE01291A000",
+        "rightsId": null,
+        "name": "Lost in Random\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210910,
+        "nsuId": 70010000033063,
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Medo"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/554cd6e79d7a26bc8c5ce21bf3835d58d26ba83ce350a77a935bfccb1c3c99b8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/977924d15f5cca3354d9ef25842528c0917b5daea676bdfb92eb30da7a6c1af3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/44ba47ef81db5012172d90726c825ef28792fd73621a68235fdb0114be9e761f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/76b4cbfd6efbe8b4843555839ed8c49faa725383d1e1f312e3163986d2ed6d57.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de65a084d03ebbd806460b7a941667ee5adc730d4b9df2ca0aa0b335dbe92cd9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7dea75e23ce8d13876f0663d0b3b7bb1e90088f13a7fc63adf8310c3657f2e8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62d52cf0b82bbc52ce10c0ea8f7ddecc883fded7760b53d5af15baafc4bb597b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/83b19e19e8f0ddd4c098f8a075bc85b3957a6041eaca83a186b8dc9c15e68db2.jpg",
+        "intro": "Enter a gothic world where your fate depends on a dice roll.",
+        "description": "Play the odds in Lost in Random\u2122, a gothic fairytale-inspired action adventure where every citizen\u2019s fate is determined by the roll of a dice.\n\nRuled by a wicked Queen, the kingdom of Random is divided into six shadowy realms where life is dictated by a cursed black dice. In this story, from the award-winning Swedish game studio Zoink and penned by Eisner Award-winning Adventure Time and Marvel Comics The Unbeatable Squirrel Girl author Ryan North, you\u2019ll join Even, a penniless girl who\u2019s down on her luck, in a dark quest to save her beloved sister. With her companion Dicey, a small and strange living dice, Even must learn to embrace the chaos of Random, uncovering an age-old tale with a modern message.\n\nWalk Random\u2019s mysterious cobbled streets, meet its unpredictable residents, and take on courageous quests. Engage in fearsome battles with a unique blend of tactical combat, card collection, and explosive dice gameplay. It\u2019s time to adapt or perish, as you battle inside giant board game arenas that change with every dice throw! Learn how to tip the odds in your favor, and dive into a dark wonderland where only the brave survive.\n\nPlay the odds. Win the game.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 4590665728
+    },
     "70010000033311": {
         "id": "0100A21012AA6000",
         "rightsId": null,
@@ -10418,7 +10511,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/86f97f7a7fafb4e86830a4a718d4115554f094f422e20e2497c9822975b1f045.jpg",
         "intro": null,
-        "description": "The stakes have just been raised! In this high-octane sequel, you have to prove your mettle in some of the roughest and most unforgiving drag and street races across the United States. Your success depends on how you perform, your strategy on modding your car, and how much reputation you ultimately earn along the way.\n\nThe Unreal Engine brings Street Outlaws to a whole new level of visual fidelity with improved lighting, textures, and everything else! You can customize your car, but you can also customize your team garage to truly make it your own. Along with the street racing seen on TV, you will also be able to participate in unique races and stunts all while interacting with your favorite cast members from the show! Do you have what it takes to be crowned the Winner Takes All National Champion?\n\n\u2022 26 drag vehicles plus 5 challenge cars \n\u2022 36 unique locations for races and challenge events\n\u2022 Over 250 parts for deep car customization including rims, parachutes, tires, window tints, tire smoke colors, as well as personal garage customization\n\u2022 Put up or shut up through the in-game race wager feature\n\u2022 Build out your ultimate support crew with drivers, engineers, mechanics, and more\n\u2022 Featuring Ryan Martin, Big Chief, AZN, Lizzy, Farmtruck and many more from the Street Outlaws TV show\n\u2022 Asynchronous multiplayer tournaments and leaderboards",
+        "description": "The stakes have just been raised! In this high-octane sequel, you have to prove your mettle in some of the roughest and most unforgiving drag and street races across the United States. Your success depends on how you perform, your strategy on modding your car, and how much reputation you ultimately earn along the way.\n\nThe Unreal Engine brings Street Outlaws to a whole new level of visual fidelity with improved lighting, textures, and everything else! You can customize your car, but you can also customize your team garage to truly make it your own. Along with the street racing seen on TV, you will also be able to participate in unique races and stunts all while interacting with your favorite cast members from the show! Do you have what it takes to be crowned the Winner Takes All National Champion?\n\n\u2022 26 drag vehicles plus 5 challenge cars \n\u2022 36 unique locations for races and challenge events\n\u2022 Over 250 parts for deep car customization including rims, parachutes, tires, window tints, tire smoke colors, as well as personal garage customization\n\u2022 Put up or shut up through the in-game race wager feature\n\u2022 Featuring Ryan Martin, Big Chief, AZN, Lizzy, Farmtruck and many more from the Street Outlaws TV show\n\u2022 Asynchronous multiplayer tournaments and leaderboards",
         "languages": [
             "en"
         ],
@@ -15147,7 +15240,7 @@
             "it",
             "ru"
         ],
-        "size": 11387535360
+        "size": 11487150080
     },
     "70010000037248": {
         "id": "010028E013E0A000",
@@ -16384,6 +16477,129 @@
             "de"
         ],
         "size": 10038018048
+    },
+    "70010000037980": {
+        "id": "0100812014172000",
+        "rightsId": null,
+        "name": "Danganronpa: Trigger Happy Havoc Anniversary Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211203,
+        "nsuId": 70010000037980,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Conte\u00fado Sexual",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Spike Chunsoft US",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/48171e239201df263a1bf8ae6e6abb8a251614cae88bf384af8621d639c8b3f1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bdc288f868edffd62c40d09b5544a0f6f0e46d85bbf1a5a48dbd498aaa9cf1fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0595d4aa49546a6deba54f680a25fb3ea02f75bb5fd2dd96baa1cfda73cd8252.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/863d91eb5afb49aa8bcd85c368758dcf259432bdfeb6d4115c8907d3e9c2ca5c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0658860dbea953efdf4ccd93bd0341c01de773dc764a8b72a0b2c6a5d3f08494.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3669e3b4f834aa39b573dcd08aa6809142bb8a72019804f7224d42cbac13205c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9957c24ebf7db7ab90ff185395b013f2c60ccac50ef057ffb0ed8c85c650c3ee.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6a84ae122ee090fb34e921775ed4c8d3f29fece6ba746c9b557202a62f10b542.jpg",
+        "intro": "Experience the classic murder-mystery with 10th anniversary bonus features!",
+        "description": "Danganronpa arrives on Nintendo Switch\u2122 to celebrate its 10th anniversary! Danganronpa 10th Anniversary Release: Part 1! \n\nHope\u2019s Peak Academy is home to Japan\u2019s best and brightest high school students\u2014the beacons of hope for the future. But that hope suddenly dies when Makoto Naegi and his classmates find themselves imprisoned in the school, cut off from the outside world and subject to the whims of a strange, murderous little bear named Monokuma. He pits the students against each other, promising freedom to anyone who can murder a fellow classmate and get away with it.\n\nIt\u2019s up to you to find out who Monokuma really is, and why you've been taken from the world you once knew. But be careful what you wish for\u2014sometimes there\u2019s nothing more deadly than the truth\u2026\n\nThis 10th Anniversary edition comes with a gallery feature that allows you to view event illustrations, scenes, and listen to voiced dialogue!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 2968518656
+    },
+    "70010000037982": {
+        "id": "010083A014174000",
+        "rightsId": null,
+        "name": "Danganronpa 2: Goodbye Despair Anniversary Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211203,
+        "nsuId": 70010000037982,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Conte\u00fado Sexual",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Spike Chunsoft US",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d92c1c8c5d729743a8c534592b7a090d6f268412cb1cc25da9e7b59f48fb845f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fb7c432d8d08fe97b662ec3c352a95d5858660d1e06336281e7bef243b5efa97.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2df70c460b8dbba7333079adf80e93ef12b513e09d1e2532ed82c71805873211.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17eff511939c4ec110337d20f9aa4276329e73784fe898f08d93f0d62c8427ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b68f59f5ba1ad09b191b8c14b6664b4575e0ef20655ffdf466782d7ca62c85ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc5e3c96dc90386cf566539c750a3773534d0fc8cea43217c2dd317711c3e8c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a6a4ec663639a9ec36436a9861f7c5abc736cda108aac177749363d2ceddc3ce.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9021d37ddbe9c7fb17d0136dc7a7c5baff5fd62f6e9ba6687f3c6f4c148a8524.jpg",
+        "intro": "Survive the evolution of the psycho-tropical class trials within the typhoon of doubt and suspicion!",
+        "description": "Danganronpa 2 is finally available on Nintendo Switch\u2122! Danganronpa 10th Anniversary Release: Part 2! \n\nJabberwock Island \u2013 once a popular tourist destination, this now uninhabited island remains oddly pristine. You and your classmates at the elite Hope\u2019s Peak Academy have been brought to this island by your super-cute teacher for a \u201clovey-dovey, heart-throbbing school trip.\u201d Everyone seems to be having fun in the sun\u2026until Monokuma returns to restart his murderous game! Trapped on this island of mutual killing, your only hope of escape rests in solving the island\u2019s mysteries. But be warned\u2014sometimes the truth can be its own despair\u2026\n\nThis 10th Anniversary edition comes with a gallery feature that allows you to view event illustrations, scenes, and listen to voiced dialogue!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 3959422976
+    },
+    "70010000037984": {
+        "id": "010063F014176000",
+        "rightsId": null,
+        "name": "Danganronpa V3: Killing Harmony Anniversary Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211203,
+        "nsuId": 70010000037984,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Conte\u00fado Sexual",
+            "Drogas Il\u00edcitas"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "Spike Chunsoft US",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eed96d0fbdea606b5d205834f5948fbf317a766866cd31a2cc925d8c374a13e7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c1702c078bc12217b069d42c5c531edfb20c0ad343e4f50ad67e914209d42410.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/738c7ed5b807e63025af01592df2f43dd106fec253ecd649a4cb0e1989a64025.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/307a8150e5325fd08bafd65f06c40f00648d4e20e16e63673076e4084497b9be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e765161267c3c2379afec10f6a0592302385810f13829eda79b21aec268736b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c10c0298074f15a7164074aaad6230df8e20745076810c970638285b383af06.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e97d25e52fa91085ad5bac94d9ecf9a3eb9128b496da61668075430638f8803.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0f304d6f24dcad6c6667cf427abd4c64988440ba31f515a90698bfe9c914778f.jpg",
+        "intro": "Lie, Panic, Debate! Trials require lies and logic to guide your classmates to the right conclusion!",
+        "description": "A new chapter begins! Danganronpa V3 is coming to Nintendo Switch\u2122 for the first time! Danganronpa 10th Anniversary Release: Part 3! \n\nWelcome to a new world of Danganronpa, and prepare yourself for the biggest, most exhilarating episode yet. Set in a \u201cpsycho-cool\u201d environment, a new cast of 16 characters find themselves kidnapped and imprisoned in a school. Inside, some will kill, some will die, and some will be punished. Reimagine what you thought high-stakes, fast-paced investigation was as you investigate twisted murder cases and condemn your new friends to death.\n\nThis 10th Anniversary edition comes with a gallery feature that allows you to view event illustrations, scenes, and listen to voiced dialogue!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 6422528000
     },
     "70010000037989": {
         "id": "0100F4300BF2C000",
@@ -19951,7 +20167,7 @@
             "it",
             "ru"
         ],
-        "size": 177209344
+        "size": 227540992
     },
     "70010000039355": {
         "id": "010099601473E000",
@@ -23160,7 +23376,7 @@
             "ko",
             "zh"
         ],
-        "size": 756023296
+        "size": 778043392
     },
     "70010000040425": {
         "id": "0100345014C54000",
@@ -32581,8 +32797,7 @@
             "Adventure"
         ],
         "ratingContent": [
-            "Viol\u00eancia",
-            "Conte\u00fado Sexual"
+            "Viol\u00eancia"
         ],
         "numberOfPlayers": 1,
         "rating": 12,
@@ -32780,7 +32995,7 @@
             "zh",
             "zh"
         ],
-        "size": 723517440
+        "size": 858783744
     },
     "70010000043395": {
         "id": "01007E9015750000",
@@ -36786,8 +37001,7 @@
         "nsuId": 70030000014110,
         "category": null,
         "ratingContent": [
-            "Viol\u00eancia",
-            "Conte\u00fado Sexual"
+            "Viol\u00eancia"
         ],
         "numberOfPlayers": null,
         "rating": 12,
@@ -46001,7 +46215,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a0b0868a26aa5eac3b689dcb6137c9d524900747a2a743c1fe1f7a3bde5c1645.jpg",
         "intro": "Step into Chaos",
-        "description": "Slumbering in an upturned world devoid of time or place lies Anord Rith, a forgotten lord of the ancient age of chaos. Formed of three monstrous greatworms, she\u2019s an adversary that's unpredictable with her multi-pronged attack style.   \n\nIn this final installment from the Valley of the Dormant Gods step, into the realm of Chaos where the stakes constantly change, and face a creature unlike anything that's come before. \n\nPart 3 includes: \n\nAn Unprecendented New Realm\nEnter the mind-bending realm of chaos, home to a new god - Anord Rith\n\nThree New Items\nMead Horn, Life Rune, Whetstone\n\nThree New Skills\nPrecision Striker, Best Foot Forward, Anger of the Clans\n\nValley of the Dormant Gods, Part 3 is automatically available for those who own the Valiant Edition of Gods Will Fall.\n",
+        "description": "Slumbering in an upturned world devoid of time or place lies Anord Rith, a forgotten lord of the ancient age of chaos. Formed of three monstrous greatworms, she\u2019s an adversary that's unpredictable with her multi-pronged attack style.   \n\nIn this final installment from the Valley of the Dormant Gods step, into the realm of Chaos where the stakes constantly change, and face a creature unlike anything that's come before. \n\nPart 3 includes: \n\nAn Unprecedented New Realm\nEnter the mind-bending realm of chaos, home to a new god - Anord Rith\n\nThree New Items\nMead Horn, Life Rune, Whetstone\n\nThree New Skills\nPrecision Striker, Best Foot Forward, Anger of the Clans\n\nValley of the Dormant Gods, Part 3 is automatically available for those who own the Valiant Edition of Gods Will Fall.\n",
         "languages": null,
         "size": 336592896,
         "ids": [

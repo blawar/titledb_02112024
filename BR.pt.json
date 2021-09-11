@@ -3796,6 +3796,54 @@
         ],
         "size": 1452277760
     },
+    "70010000012840": {
+        "id": null,
+        "rightsId": null,
+        "name": "The Messenger",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191118,
+        "nsuId": 70010000012840,
+        "category": [
+            "A\u00e7\u00e3o",
+            "Aventura",
+            "Arcade",
+            "Plataforma"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Devolver Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ff97ff2ff5407ebbce8a4b2223d8f9c6175637f04a605826a25b0906afa5b5da.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a1a6ff41df4b90d63b5bd402d7cc654497af0878927961a73e9b8b306f1d63a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e1e43ab84a5ec334f2a4289cbbf0972f83eef35ab4ee18fc899d6a61ab32a42.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a8c80e71074ea318bca3053a7bd75dd00b955966990d45a475924c30a556413.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8a56a5ef4a121ebdcccf5272bfc492f05e9e37fccfcec60b757db1786255d47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4484c4f01ff769f46d978e08ca82b3cfd1003ee9ae800568a55bba5b4eb0af48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fab023ae555e3301a40ae7dc92643198f1cdcc3d18a06820cd606a656e43f8e2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/df0eb163676a4e1c3059dc3a9cee00e77563250a61f834c726346007b5a3a9fd.jpg",
+        "intro": null,
+        "description": "Enquanto seu vilarejo \u00e9 sitiado por um ex\u00e9rcito demon\u00edaco, um jovem ninja parte em uma aventura por um mundo amaldi\u00e7oado para entregar um pergaminho fundamental para a sobreviv\u00eancia de seu cl\u00e3. O que inicialmente parece ser um cl\u00e1ssico jogo de plataforma e a\u00e7\u00e3o, logo se torna uma expansiva aventura com viagem no tempo, repleta de emo\u00e7\u00f5es, surpresas e humor.\n\nJogabilidade din\u00e2mica e acrob\u00e1tica com controles precisos, dignos de uma \u00e9pica aventura ninja.\n\nMelhorias de personagem, novas habilidades, fases escondidas e caminhos alternativos para serem descobertos.\n\nAnima\u00e7\u00f5es, cen\u00e1rios e sprites meticulosamente desenhados em 8 e 16 bits no estilo dos jogos cl\u00e1ssicos.\n\nUm elenco memor\u00e1vel de vil\u00f5es, chef\u00f5es e aliados incomuns.\n\nTrilha sonora original do renomado compositor de 8 bits Rainbowdragoneyes, feita com uso do programa Famitracker.\n",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "pt",
+            "es",
+            "de",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2070937600
+    },
     "70010000012854": {
         "id": "010050F00BC1A000",
         "rightsId": null,
@@ -8336,7 +8384,7 @@
             "ko",
             "zh"
         ],
-        "size": 2467299328
+        "size": 3476029440
     },
     "70010000030089": {
         "id": "0100429011144000",
@@ -10041,6 +10089,51 @@
         ],
         "size": 6995050496
     },
+    "70010000033063": {
+        "id": "01005FE01291A000",
+        "rightsId": null,
+        "name": "Lost in Random\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210910,
+        "nsuId": 70010000033063,
+        "category": [
+            "A\u00e7\u00e3o",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Medo"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Electronic Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/554cd6e79d7a26bc8c5ce21bf3835d58d26ba83ce350a77a935bfccb1c3c99b8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/977924d15f5cca3354d9ef25842528c0917b5daea676bdfb92eb30da7a6c1af3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/44ba47ef81db5012172d90726c825ef28792fd73621a68235fdb0114be9e761f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/76b4cbfd6efbe8b4843555839ed8c49faa725383d1e1f312e3163986d2ed6d57.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de65a084d03ebbd806460b7a941667ee5adc730d4b9df2ca0aa0b335dbe92cd9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7dea75e23ce8d13876f0663d0b3b7bb1e90088f13a7fc63adf8310c3657f2e8c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62d52cf0b82bbc52ce10c0ea8f7ddecc883fded7760b53d5af15baafc4bb597b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/83b19e19e8f0ddd4c098f8a075bc85b3957a6041eaca83a186b8dc9c15e68db2.jpg",
+        "intro": "Entre num mundo g\u00f3tico onde seu destino depende do resultado dos dados.",
+        "description": "Jogue com as chances em Lost in Random\u2122, uma aventura de a\u00e7\u00e3o g\u00f3tica inspirada em contos de fadas onde o destino de cada pessoa \u00e9 determinado pelo resultado dos dados.\n\nO reino de Random \u00e9 dividido em seis regi\u00f5es sombrias, governadas por uma rainha m\u00e1, onde a vida \u00e9 ditada por um dado preto amaldi\u00e7oado. Nessa hist\u00f3ria, produzida pelo est\u00fadio sueco premiado, Zoink, e escrita por Ryan North, autor de Adventure Time, vencedor do Eisner, e The Unbeatable Squirrel Girl, da Marvel Comics, voc\u00ea se juntar\u00e1 a Even, uma menina desprovida numa mar\u00e9 de azar em uma miss\u00e3o sombria para salvar sua amada irm\u00e3. Com seu companheiro Dicey, um dado vivo pequeno e estranho, Even dever\u00e1 aprender a aceitar o caos de Random, revelando uma hist\u00f3ria antiga com uma mensagem moderna.\n\nAnde pelos paralelep\u00edpedos nas ruas misteriosas de Random, conhe\u00e7a habitantes imprevis\u00edveis e enfrente miss\u00f5es desafiadoras. Entre em batalhas tem\u00edveis em uma mistura \u00fanica de combate t\u00e1tico, coleta de cartas e jogabilidade explosiva com dados. \u00c9 hora de se adaptar ou morrer enquanto voc\u00ea luta dentro de arenas de jogos de tabuleiro gigantes que mudam a cada arremesso dos dados! Aprenda a manipular as probabilidades ao seu favor e mergulhe em um para\u00edso sombrio onde s\u00f3 quem tem mais coragem sobrevive.\n\nJogue com as chances. Ven\u00e7a o jogo.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 4590665728
+    },
     "70010000033311": {
         "id": "0100A21012AA6000",
         "rightsId": null,
@@ -10418,7 +10511,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/86f97f7a7fafb4e86830a4a718d4115554f094f422e20e2497c9822975b1f045.jpg",
         "intro": null,
-        "description": "As apostas acabaram de aumentar! Nesta sequ\u00eancia de alta octanagem, prove sua coragem em alguns dos rachas e corridas de ve\u00edculos drag mais dif\u00edceis e implac\u00e1veis dos Estados Unidos. Seu sucesso e sua reputa\u00e7\u00e3o dependem do seu desempenho, da sua estrat\u00e9gia para modificar o carro e de quantos pontos voc\u00ea ganha ao longo do caminho.\n\nO Unreal Engine leva Street Outlaws a um n\u00edvel totalmente novo de fidelidade visual com ilumina\u00e7\u00e3o, texturas e outros aprimoramentos! Voc\u00ea pode personalizar seu carro e a garagem de sua equipe para deix\u00e1-los com a sua cara. Com os rachas vistos na TV, voc\u00ea tamb\u00e9m poder\u00e1 participar de corridas e acrobacias \u00fanicas enquanto interage com seus membros do elenco favoritos do programa! Ser\u00e1 que voc\u00ea tem talento para ser coroado como o campe\u00e3o nacional de todos os tempos?\n\n\u2022 26 ve\u00edculos drag mais 5 carros de desafio \n\u2022 36 locais exclusivos para corridas e eventos de desafio\n\u2022 Mais de 250 pe\u00e7as para personaliza\u00e7\u00e3o profunda dos carros, inclusive aros, paraquedas, pneus, cor do vidro, cor de fuma\u00e7a dos pneus, al\u00e9m da personaliza\u00e7\u00e3o da garagem pessoal\n\u2022 Entre de sola no tudo ou nada com o recurso de aposta de corrida no jogo\n\u2022 Monte sua equipe de apoio definitiva com motoristas, engenheiros, mec\u00e2nicos e outros\n\u2022 Com Ryan Martin, Big Chief, AZN, Lizzy, Farmtruck e muitos outros do programa de TV Street Outlaws\n\u2022 Multijogador ass\u00edncrono, torneios e placares",
+        "description": "As apostas acabaram de aumentar! Nesta sequ\u00eancia de alta octanagem, prove sua coragem em alguns dos rachas e corridas de ve\u00edculos drag mais dif\u00edceis e implac\u00e1veis dos Estados Unidos. Seu sucesso e sua reputa\u00e7\u00e3o dependem do seu desempenho, da sua estrat\u00e9gia para modificar o carro e de quantos pontos voc\u00ea ganha ao longo do caminho.\n\nO Unreal Engine leva Street Outlaws a um n\u00edvel totalmente novo de fidelidade visual com ilumina\u00e7\u00e3o, texturas e outros aprimoramentos! Voc\u00ea pode personalizar seu carro e a garagem de sua equipe para deix\u00e1-los com a sua cara. Com os rachas vistos na TV, voc\u00ea tamb\u00e9m poder\u00e1 participar de corridas e acrobacias \u00fanicas enquanto interage com seus membros do elenco favoritos do programa! Ser\u00e1 que voc\u00ea tem talento para ser coroado como o campe\u00e3o nacional de todos os tempos?\n\n\u2022 26 ve\u00edculos drag mais 5 carros de desafio \n\u2022 36 locais exclusivos para corridas e eventos de desafio\n\u2022 Mais de 250 pe\u00e7as para personaliza\u00e7\u00e3o profunda dos carros, inclusive aros, paraquedas, pneus, cor do vidro, cor de fuma\u00e7a dos pneus, al\u00e9m da personaliza\u00e7\u00e3o da garagem pessoal\n\u2022 Entre de sola no tudo ou nada com o recurso de aposta de corrida no jogo\n\u2022 Com Ryan Martin, Big Chief, AZN, Lizzy, Farmtruck e muitos outros do programa de TV Street Outlaws\n\u2022 Multijogador ass\u00edncrono, torneios e placares",
         "languages": [
             "en"
         ],
@@ -15147,7 +15240,7 @@
             "it",
             "ru"
         ],
-        "size": 11387535360
+        "size": 11487150080
     },
     "70010000037248": {
         "id": "010028E013E0A000",
@@ -16384,6 +16477,129 @@
             "de"
         ],
         "size": 10038018048
+    },
+    "70010000037980": {
+        "id": "0100812014172000",
+        "rightsId": null,
+        "name": "Danganronpa: Trigger Happy Havoc Anniversary Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211203,
+        "nsuId": 70010000037980,
+        "category": [
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Conte\u00fado Sexual",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Spike Chunsoft US",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/48171e239201df263a1bf8ae6e6abb8a251614cae88bf384af8621d639c8b3f1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bdc288f868edffd62c40d09b5544a0f6f0e46d85bbf1a5a48dbd498aaa9cf1fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0595d4aa49546a6deba54f680a25fb3ea02f75bb5fd2dd96baa1cfda73cd8252.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/863d91eb5afb49aa8bcd85c368758dcf259432bdfeb6d4115c8907d3e9c2ca5c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0658860dbea953efdf4ccd93bd0341c01de773dc764a8b72a0b2c6a5d3f08494.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3669e3b4f834aa39b573dcd08aa6809142bb8a72019804f7224d42cbac13205c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9957c24ebf7db7ab90ff185395b013f2c60ccac50ef057ffb0ed8c85c650c3ee.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6a84ae122ee090fb34e921775ed4c8d3f29fece6ba746c9b557202a62f10b542.jpg",
+        "intro": "Vivencie o cl\u00e1ssico mist\u00e9rio de assassinato com recursos extras do 10\u00ba anivers\u00e1rio!",
+        "description": "Danganronpa chega ao Nintendo Switch\u2122 para comemorar seu 10\u00ba anivers\u00e1rio! Lan\u00e7amento do 10\u00ba anivers\u00e1rio de Danganronpa: Parte 1! \n\nHope's Peak Academy \u00e9 o lar dos melhores e mais brilhantes alunos do ensino m\u00e9dio japon\u00eas, os far\u00f3is de esperan\u00e7a para o futuro. Mas essa esperan\u00e7a morre repentinamente quando Makoto Naegi e seus colegas se encontram presos na escola, isolados do mundo exterior e sujeitos aos caprichos de um ursinho estranho e assassino chamado Monokuma. Ele coloca os alunos para lutarem uns contra os outros, prometendo liberdade para qualquer um que consiga matar um colega de classe e se safar.\n\nCabe a voc\u00ea descobrir a verdadeira identidade de Monokuma e por que voc\u00ea foi arrancado do conforto do seu mundinho. Mas tome cuidado com o que voc\u00ea deseja \u2014 \u00e0s vezes n\u00e3o h\u00e1 nada mais mortal do que a verdade...\n\nEsta edi\u00e7\u00e3o do 10\u00ba anivers\u00e1rio vem com um recurso de galeria que lhe permite visualizar ilustra\u00e7\u00f5es de eventos, cenas e ouvir di\u00e1logos com vozes!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 2968518656
+    },
+    "70010000037982": {
+        "id": "010083A014174000",
+        "rightsId": null,
+        "name": "Danganronpa 2: Goodbye Despair Anniversary Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211203,
+        "nsuId": 70010000037982,
+        "category": [
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Conte\u00fado Sexual",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Spike Chunsoft US",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d92c1c8c5d729743a8c534592b7a090d6f268412cb1cc25da9e7b59f48fb845f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fb7c432d8d08fe97b662ec3c352a95d5858660d1e06336281e7bef243b5efa97.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2df70c460b8dbba7333079adf80e93ef12b513e09d1e2532ed82c71805873211.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17eff511939c4ec110337d20f9aa4276329e73784fe898f08d93f0d62c8427ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b68f59f5ba1ad09b191b8c14b6664b4575e0ef20655ffdf466782d7ca62c85ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc5e3c96dc90386cf566539c750a3773534d0fc8cea43217c2dd317711c3e8c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a6a4ec663639a9ec36436a9861f7c5abc736cda108aac177749363d2ceddc3ce.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9021d37ddbe9c7fb17d0136dc7a7c5baff5fd62f6e9ba6687f3c6f4c148a8524.jpg",
+        "intro": "Sobreviva \u00e0 evolu\u00e7\u00e3o das provas de classe psicotropical dentro do tuf\u00e3o da d\u00favida e da suspeita!",
+        "description": "Danganronpa 2 finalmente chegou ao Nintendo Switch\u2122! Lan\u00e7amento do 10\u00ba anivers\u00e1rio de Danganronpa: Parte 2! \n\nJabberwock Island \u2014 outrora um destino tur\u00edstico popular, esta ilha, agora deserta, permanece estranhamente intocada. Voc\u00ea e seus colegas de classe da elite de Hope's Peak Academy foram trazidos a esta ilha por sua professora superfofa para uma \"excurs\u00e3o escolar de tirar o f\u00f4lego\". Todos parecem estar se divertindo ao sol... at\u00e9 que Monokuma volta para recome\u00e7ar seu jogo assassino! Preso nesta ilha de matan\u00e7a m\u00fatua, sua \u00fanica esperan\u00e7a de escapar est\u00e1 em desvendar os mist\u00e9rios da ilha. Mas esteja avisado: \u00e0s vezes a verdade pode trazer apenas desespero...\n\nEsta edi\u00e7\u00e3o do 10\u00ba anivers\u00e1rio vem com um recurso de galeria que lhe permite visualizar ilustra\u00e7\u00f5es de eventos, cenas e ouvir di\u00e1logos com vozes!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 3959422976
+    },
+    "70010000037984": {
+        "id": "010063F014176000",
+        "rightsId": null,
+        "name": "Danganronpa V3: Killing Harmony Anniversary Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211203,
+        "nsuId": 70010000037984,
+        "category": [
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Conte\u00fado Sexual",
+            "Drogas Il\u00edcitas"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "Spike Chunsoft US",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eed96d0fbdea606b5d205834f5948fbf317a766866cd31a2cc925d8c374a13e7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c1702c078bc12217b069d42c5c531edfb20c0ad343e4f50ad67e914209d42410.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/738c7ed5b807e63025af01592df2f43dd106fec253ecd649a4cb0e1989a64025.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/307a8150e5325fd08bafd65f06c40f00648d4e20e16e63673076e4084497b9be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e765161267c3c2379afec10f6a0592302385810f13829eda79b21aec268736b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c10c0298074f15a7164074aaad6230df8e20745076810c970638285b383af06.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e97d25e52fa91085ad5bac94d9ecf9a3eb9128b496da61668075430638f8803.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0f304d6f24dcad6c6667cf427abd4c64988440ba31f515a90698bfe9c914778f.jpg",
+        "intro": "Minta, cause p\u00e2nico, debata! As prova\u00e7\u00f5es exigem mentiras e l\u00f3gica para guiar seus colegas \u00e0 conclus\u00e3o certa!",
+        "description": "Um novo cap\u00edtulo come\u00e7a! Danganronpa V3 est\u00e1 chegando ao Nintendo Switch\u2122 pela primeira vez! Lan\u00e7amento do 10\u00ba anivers\u00e1rio de Danganronpa: Parte 3!\n\nSeja bem-vindo a um novo mundo de Danganronpa e prepare-se para o maior e mais emocionante epis\u00f3dio de todos os tempos. Situado em um ambiente \"psicopata\", um novo elenco de 16 personagens se v\u00ea sequestrado e preso em uma escola. L\u00e1 dentro, alguns matar\u00e3o, alguns morrer\u00e3o e alguns ser\u00e3o punidos. Reveja seus conceitos de investiga\u00e7\u00e3o acelerada e de alto risco enquanto investiga casos de assassinato bizarros e condena seus novos amigos \u00e0 morte.\n\nEsta edi\u00e7\u00e3o do 10\u00ba anivers\u00e1rio vem com um recurso de galeria que lhe permite visualizar ilustra\u00e7\u00f5es de eventos, cenas e ouvir di\u00e1logos com vozes!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 6422528000
     },
     "70010000037989": {
         "id": "0100F4300BF2C000",
@@ -19951,7 +20167,7 @@
             "it",
             "ru"
         ],
-        "size": 177209344
+        "size": 227540992
     },
     "70010000039355": {
         "id": "010099601473E000",
@@ -23160,7 +23376,7 @@
             "ko",
             "zh"
         ],
-        "size": 756023296
+        "size": 778043392
     },
     "70010000040425": {
         "id": "0100345014C54000",
@@ -32580,8 +32796,7 @@
             "Aventura"
         ],
         "ratingContent": [
-            "Viol\u00eancia",
-            "Conte\u00fado Sexual"
+            "Viol\u00eancia"
         ],
         "numberOfPlayers": 1,
         "rating": 12,
@@ -32779,7 +32994,7 @@
             "zh",
             "zh"
         ],
-        "size": 723517440
+        "size": 858783744
     },
     "70010000043395": {
         "id": "01007E9015750000",
@@ -36785,8 +37000,7 @@
         "nsuId": 70030000014110,
         "category": null,
         "ratingContent": [
-            "Viol\u00eancia",
-            "Conte\u00fado Sexual"
+            "Viol\u00eancia"
         ],
         "numberOfPlayers": null,
         "rating": 12,
