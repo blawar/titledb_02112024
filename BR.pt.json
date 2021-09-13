@@ -13542,7 +13542,7 @@
         "developer": null,
         "publisher": "Freedom Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a792714c9565522dd8266f52a9b1d4589deb71e6044fe025b4e167afc1021a10.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/01adeb91c6f79a8ac3d7da3a5b81940de73e6b39037540d02f27e34a786c015d.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/3db4e51df88a1d27d2a4a4817fb1cf1faca5767e987127373cc5939f0cc13a70.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e56fc45f75aa2cc38dc85144ef8530b3d5401e096661131eef8a7c982639f542.jpg",
@@ -13564,7 +13564,7 @@
             "ko",
             "zh"
         ],
-        "size": 376438784
+        "size": 419430400
     },
     "70010000036326": {
         "id": "0100379013A62000",
@@ -23286,6 +23286,44 @@
             "zh"
         ],
         "size": 1314914304
+    },
+    "70010000040371": {
+        "id": "0100721014C24000",
+        "rightsId": null,
+        "name": "Marble Parkour",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210917,
+        "nsuId": 70010000040371,
+        "category": [
+            "Arcade",
+            "Puzzle",
+            "Plataforma"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/be3a0df664f3f8635870a469adbb9c3506c36b79a0cba609743f48b904c8e42a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8354a0be1a2e92d9e50b5f8de10c229375bd0c053c9385ec847a05a8fea4901d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ff2fa9c66bce3c140d213c187156b0b093ec8da18832ef4d3941eef9fab60d00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9cd27a5c201566e563066592cf9de4f45209f83afe655ac42dc22777c0896bc0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8d1ede45750ce795ecdd5d1214270bd34c4f6d749800734a0e55843bf4fb19a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d64fb67bb240c27c790f9d0ec500c3613b047c8a24d83ab8a2342ba7c70a352.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ffad5f348e229f5ba3287fd4cee366fd6a4fcb1c24c36d1b146bd13f4b1dac52.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a5c535bff7a1f80ef9f07169fb2d2703ac24313daf7695b506f7633a40957ace.jpg",
+        "intro": "Roll, boost be fast, and avoid traps in this challenging marble parkour game. Make level records, collect achievements and finish challenging tracks.",
+        "description": "In this Marble Parkour game, you need to finish different levels and reach the end of each level. Also, levels contain the best time system, meaning you can establish new records! The Player needs to avoid different traps like exploding mines, bumpers, tornados, and moving platforms which could send the player out of track. Then the player will be respawned at the checkpoint. Every level includes a couple of them.\n\nMoreover:\n- Different Traps: Mines, Tornados, Rotating and disappearing platforms, Bumpers\n- 9 different ball skins\n- Power-ups to help with player progress: Super speed, Super jump, Gravity rotator, Ball increase, etc\n- Ball shooting cannons\n- Different surfaces: Glue, Ice, etc\n- 19 different skilled levels\n- Training/Tutorial map ",
+        "languages": [
+            "en"
+        ],
+        "size": 1406140416
     },
     "70010000040407": {
         "id": "0100E20014C46000",
