@@ -4571,7 +4571,7 @@
         "languages": [
             "en"
         ],
-        "size": 3723493376
+        "size": 3782213632
     },
     "70010000014127": {
         "id": "0100E2800C364000",
@@ -7623,6 +7623,45 @@
             "zh"
         ],
         "size": 964689920
+    },
+    "70010000028164": {
+        "id": "010009201121C000",
+        "rightsId": null,
+        "name": "DroneRidge",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210929,
+        "nsuId": 70010000028164,
+        "category": [
+            "Arcade",
+            "Racing",
+            "Shooter",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Riddlersoft Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eb59cc0731c17ff09e02f3c8215083eb60b5ffc2e4a440f8f10ad5abbba1b859.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2a3b3141a9a87644263df5fefec67d9edda5ba7ce13159b42ae9017d27e86f06.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/31c356ca4b504cc3650480cc0f9237c241b435a307dd70cecb9ea0a6826f441b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f316831d9ae691bc3fe51ce9e6fd687be4bca12a633619aa39aaf0457fec758.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a55c9319c4cf52906a3e7371fe67f413486d1a9b87fd1fdf543a0c3035664e3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30cb22156549ab2426868b3481176f5f2273f8a4e49ee8ab23b19d24f722330d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a843ab80e974c85ebff96533a37830106315504e54820485e29104481387e4e3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4e64722b78bfb1d5eb31a9e1f44e5f08ebaad1b569521afe42f57025cd90dd90.jpg",
+        "intro": "Navigate through cool retro graphics and a truly unique urban soundscape. Test your flying skills. Can you survie?",
+        "description": "Welcome to DroneRidge, the ultimate skill game!\nNavigate your drone through 20 atmospheric levels, featuring cool retro graphics and a truly unique urban soundscape. Skilfully avoid obstacles to reach the landing zone... if you can!\nLevels range from easy to very hard, and can be played, or re-played in any order... so you can keep improving your skills and scores!",
+        "languages": [
+            "en"
+        ],
+        "size": 158334976
     },
     "70010000028169": {
         "id": "010033500E444000",
@@ -13024,7 +13063,7 @@
             "zh",
             "zh"
         ],
-        "size": 4250927104
+        "size": 6190792704
     },
     "70010000035763": {
         "id": "0100DCF013740000",
@@ -14615,7 +14654,7 @@
             "zh",
             "zh"
         ],
-        "size": 3826253824
+        "size": 3922722816
     },
     "70010000036937": {
         "id": "010041C013C94000",
@@ -15613,6 +15652,49 @@
             "it"
         ],
         "size": 1280311296
+    },
+    "70010000037451": {
+        "id": "0100436013EF6000",
+        "rightsId": null,
+        "name": "ConnecTank\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210928,
+        "nsuId": 70010000037451,
+        "category": [
+            "Action",
+            "Adventure",
+            "Multiplayer",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Natsume Inc.",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/53334bbeb0b716a2122f11f7c211bcc9942ae3ce5c0f762ec5d16e93ef948dd2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/022d02492aba9de5661b485bb21576f6e6cc85249931c36399f1b99e3912db7b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3e4994a56ccba4592c8fe671c7ec10c1f42431f9e8dd3b596e60b0d170fd8c2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab00e17f3b3a01c8e226087fd091dcd7f8175cb920d94565a4835de364dcc88e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1eb1acccf2df12d75e7d3e7942b538ad7e431ef97f87c76b6653be553b12c6cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7931cb3f4b51f5ea5361493e9b6ad35f982b57d93d75cc8b402835617da1dbdd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2557715a06791cc8ab67c3047168762d0d48e1c92c7f1199df92f6375a63105.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a63d0a360a7c0e472ef761dc9ba39d3201add2118ffdf2c7d092f3d653f19e05.jpg",
+        "intro": "WARNING!! A HUGE TANK BATTLE IN NEW PANGEA!",
+        "description": "Making deliveries is never an easy job. But throw in huge and unique destructive tanks you have to battle into the mix? That's life as a new courier for Finneas Fat Cat XV, one of the top tycoons in New Pangea! \n \nLuckily, you'll have a mammoth sized tank of your own when you go out on deliveries. Connect conveyor belts and blast enemy tanks with ammo you craft in the heat of battle. Fund new ammo and gizmos to take down even the most terrifying of tanks! Collect different parts from the tanks you defeat, and you'll be able use those tanks too! \n \nDo you have what it takes to become Finneas Fat Cat's top fixer? And spread his name and wealth even wider? Finneas is counting on you, old bean! ",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "de",
+            "zh"
+        ],
+        "size": 1613758464
     },
     "70010000037460": {
         "id": "0100267013F04000",
@@ -21492,12 +21574,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/54604856f8c6f02490034aaf4f4c739caef5cd061f6fe6e7beb4d418b078725c.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/f8cd0a415ddbb373cccae2203fc38679e03f2a2ca0e5f11d6e04142fea13e353.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/29d5098bba162ce9d4fa2de1357e94a85e055f3801108fe10c81f3b8460da7e8.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/833134a529c2b580610e40e2fe7af5cf3e6e365ca4f4fc76ccc1bc5be4fd9a83.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/8b9de7bd72eb16ac5a53ec3bf949f0cd685c77e7fc3fdb2669e401547d580d49.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/db19ba1c8751f9b577b91bc23bde9374690b2990449b0c6303f2f8342f034396.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f3146e85ebf1f44342788e95e7dbea4bce8340868045208fa258f6109f7de6bb.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/99ea0fd78720f21e9b599222dc45346f25198e589660ac5ccb48e5a675e494c2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c618d13c6acc850ae8d702adf0ad33866d521493e73aa7f33873b1c8ea1700a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b1e8c029f8fdf8a02b93e2e96c7d4272b69d642eafa0b273a99f1037da8f2211.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8393d7e860d8525c897d032021828eed068f34fc9b3ab0de92c006ba7f8c790b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f5d8fa02ef628209ce0fe89f67b88f9da893315f3ab3654a5c1d68c81f1b6b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ca18ed1d7a23b84a9c02a291bfa074fcb42b2fd5bfe6b98d82734284f819117.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cb09ee16b75620d7dde00fdb2c54312ac9d29265555864d79484eecb1d3583da.jpg",
         "intro": "How will you lead?",
@@ -22782,7 +22864,7 @@
             "ko",
             "zh"
         ],
-        "size": 931135488
+        "size": 1099956224
     },
     "70010000040151": {
         "id": "0100F4F014108000",
@@ -28109,6 +28191,47 @@
         ],
         "size": 167772160
     },
+    "70010000041760": {
+        "id": "01005C50152DC000",
+        "rightsId": null,
+        "name": "Warp Frontier",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210928,
+        "nsuId": 70010000041760,
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Drogas L\u00edcitas",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Brawsome",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6ae57f082e579433c5d923df6165a7a19531216cb883aef6b0c4d99877b6e582.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/25513700e204ba57defbb7d1fe7523cda8c0b6ce34a18c72e088b3d762597f73.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ad03f1cd908c86c4e25971d5117abfe1dd934bf38580cc37322d492afe38f8d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/024a0c69602142a8754acbf8a774f35583e53167352ac4394f92244e86590e9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bdf8105c588874459481cc6c2e58799807c909d5ac9e5c39b1369b779f3341f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b0d622785b8f4aff2bb5ffffd10ce5f03d1cd583685056df7e959b176dd424b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4a944ec645288d6792f368c04141384148ba9d28b83f68db70b07296e2162b0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f40a8fdc08771596b1647cd390f89d3b3e835ec72a7698bc6a41cb573ca36a06.jpg",
+        "intro": "In the year 2215, orbiting humanity's newest extrasolar colony, Police Captain Vincent Cassini, becomes embroiled in an intersystem conspiracy to bury past war crimes.",
+        "description": "Vincent Cassini, decorated war hero, but still just a Captain in the police force he started, is patrolling the orbital slums of his home planet Cetus, when he stumbles across a lead in a war crime that resulted in the mysterious disappearance of thousands of Cetans, including his first wife and best friend. Captain Cassini and his robot partner MAC, must ally with morally questionable characters to stop an old enemy before their crimes are erased forever.\n\nPlayers solve puzzles, in point and click adventure style, and navigate branching narratives to manage Vince\u2019s relationships with his family, allies and enemies. Decisions players make in conversations and the order in which they undertake tasks result in outcomes that could cost the lives of thousands. Players actions ultimately decide what type of father, partner, friend, officer and saviour Vince will be.\n\nFeatures:\n- Make decisions that affect the lives of thousands of people, and determine relationships between family and friends\n- A 2D point and click adventure in HD\n- 6-8 hours of gameplay with branching decisions resulting in multiple unique ending sequences\n- Authentic Australian feel voiced by a predominantly Australian cast\n- An alternate timeline of humanity branching from a catastrophic singularity event\n- Original Soundtrack by Thomas Regin\n- Explore via ship from the planet surface, through the orbital community to the outer reaches of the planetary ring",
+        "languages": [
+            "en"
+        ],
+        "size": 1103101952
+    },
     "70010000041784": {
         "id": "01006700152AE000",
         "rightsId": null,
@@ -28762,7 +28885,7 @@
             "fr",
             "de"
         ],
-        "size": 1573912576
+        "size": 1918894080
     },
     "70010000041927": {
         "id": "010022A01537A000",
@@ -29144,6 +29267,56 @@
             "zh"
         ],
         "size": 286261248
+    },
+    "70010000042009": {
+        "id": "0100DAA0153C0000",
+        "rightsId": null,
+        "name": "Fantasy Friends: Under the Sea",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210928,
+        "nsuId": 70010000042009,
+        "category": [
+            "Simulation",
+            "Lifestyle",
+            "Party",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "JUST FOR GAMES",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a2372c8e0bbaf0a58b980acb2087846bfb4c899c5125d6a2284f79a345f2a70a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3c9d16c1030635f1bbadd21a8622c128dd8d601f2e6741e1450336afdecceed3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2caed7627dcfc4faf542499674828c207b75cfa55cf887a7720322a805a747a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c195af226495d264c1af9620ea1caddd657defc4a32c72f2c9d3f58b7a2138e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/193c678d772e6d9c5ccb48565866d851df77839d468d9c05d3aaea8770687e28.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74e54b188937ff03071d451c3a69f69bd2396e6ee64e219c9b05ad542296d678.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/995161a7e40ccad391daf6ef4464afd3dba0e74af971f818992ecfdecaf56242.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fceca7a0bf732494d20d6670808c13c89e4dae5d48e05f4879a91e9d8457505a.jpg",
+        "intro": "The first pet-caring game with magical creatures under the sea!",
+        "description": "Fantasy Friends: Under the Sea is the newest opus in the Fantasy Friends series. Discover a brand-new submarine world, with lots of surprises, and 12 new adorable underwater friends to take care of!\n (Re)Encounter a very friendly mermaid, Aurea, who will guide you in this bubbly adventure!\nExplore the plaza, add decorations, get new magical sea creatures, buy them new clothes or even cooler toys to play with, and decorate the plaza with incredible fun items!\nEnjoy the tropical seas but don't forget to breathe\u2026 You're still underwater!\n\nThe first pet-caring game with magic aquatic creatures!\n\n- From a cute dogfish to a surprising frog, discover 12 incredible aquatic creatures you will love to cuddle and play with. Each animal needs a specific food you will have to produce.\n- Collect hundreds of colours and skins for your pets and challenge your friends to see who will have the most unique creatures. Be the first to find the rarest ones!\n- Get cool accessories (hats, sunglasses, ribbons, etc.) to customize each of your pets!\n- Decorate the plaza in your own style with beautiful and magical items!\n- Random magical events can happen at any time underwater! Keep an eye out for what's going on around you! \n- Unlock special and exclusive items while playing with your pets. The more you play with a creature, the more your love power will increase... When your love power is full, your magical friend will give you a fantastic reward!\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 625999872
     },
     "70010000042011": {
         "id": "010063101531C000",
@@ -32424,7 +32597,7 @@
         "languages": [
             "en"
         ],
-        "size": 2003828736
+        "size": 2823815168
     },
     "70010000043233": {
         "id": "0100FB401589A000",
@@ -33810,7 +33983,7 @@
         "languages": [
             "en"
         ],
-        "size": 126877696
+        "size": 165675008
     },
     "70010000043775": {
         "id": "0100C46015AA0000",
@@ -35069,6 +35242,55 @@
             "en"
         ],
         "size": 122683392
+    },
+    "70010000044720": {
+        "id": "010057C01330A000",
+        "rightsId": null,
+        "name": "Bonfire Peaks",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70010000044720,
+        "category": [
+            "Puzzle",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 12,
+        "developer": null,
+        "publisher": "Draknek",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/883433a1bc99f79782dea736f39e4e54c34ca7efe4d1ef8a0354b001497674da.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f8a9afe9db0aba42ded44ddfa1848de9972ea58d73d817a5aae3a224fe3382fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2292f9ac4afda20990e5f476e314b98c4783992cb6fbdde415079fa95b961701.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f35ce2a57cfaa7de5bf045f01140fa813813d55ff13aa574844dcb74f2df4509.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/430c0273ec1bb89d5137914adaa41a2f72f00f2fbc84349068af671b5da656df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73bec229b91d67c3223624b58b5b74e548e14effd4838e0a8c8d7379c0bd013a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9b0b0e5b2c94fc1386f3c05f2d31565355cdd7e04b25d054a2ecc42b3b76bd0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1b3c606f14a8fa5cff670f204cd6aec03d4c7a4fe780bcdeb61a6e82d87719bb.jpg",
+        "intro": "Set your belongings on fire on a beautiful voxel art puzzle island.",
+        "description": "Move onwards, move upwards, and leave nothing behind.\nBonfire Peaks is a puzzle game about closure, by Corey Martin and published as well as co-produced by Draknek, creator of A Monster\u2019s Expedition and Cosmic Express.\n\nNavigate over 200 expertly designed puzzles in a breathtakingly lovely voxel-based world. Filler content has been burned away to create a perfectly fine-tuned experience, filled with richly rewarding challenges and surprising new mechanics that\u2019ll keep sparking your interest right through to the end.\n\nCreated by Pipe Push Paradise and Hiding Spot developer Corey Martin, co-designed with Alan Hazelden, and with art by Mari Khaleghi and Zach Soares.\n\n\"A serene puzzler that wants you to let the past burn.\" - Chris Schilling, Edge Magazine\n\n\u201cI'm already sold on the absolute serenity of his voxel woods.\u201d - Natalie Clayton, Rock Paper Shotgun\n\n\u201cThis is voxel art so unbelievably lush and gorgeous that, for at least a brief moment, it makes you forget that this is actually a puzzle game about burning stuff.\u201d - Kyle LeClair, Hardcore Gamer",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 980418560
     },
     "70010000044767": {
         "id": "0100FE1015F16000",
@@ -37227,6 +37449,34 @@
         "languages": null,
         "size": 959447040,
         "parentId": "010031B0145B4000"
+    },
+    "70030000014266": {
+        "id": null,
+        "rightsId": null,
+        "name": "Bonfire Peaks (Demo)",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000014266,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 376438784,
+        "parentId": "010057C01330A000"
     },
     "70030000014425": {
         "id": null,
@@ -62010,6 +62260,39 @@
             "0100969015B05002"
         ]
     },
+    "70050000029679": {
+        "id": null,
+        "rightsId": null,
+        "name": "KT's ROMANCE OF THE THREE KINGDOMS Series App Officer CG Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210915,
+        "nsuId": 70050000029679,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Linguagem Impr\u00f3pria",
+            "Compras on-line"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b691880baa3b58e01c7d5ad6d669ca8797da0f7f16bbe789bee1c93b2d07348e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c26f936cc96ea2352b4784b0c71b21124165947df952100065f3596cc0ddc3e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06293dbe8b4ed7a0a1eefaec8b0b6a7ff8ecb61d95b65be9c4b8108f39870411.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cdfe3d7c748555548846d5b91a54896fd64434d84aee95858c3a4464f93cc16a.jpg",
+        "intro": null,
+        "description": "30 portraits from the KT's ROMANCE OF THE THREE KINGDOMS Series App that can be used through the Editor in the \"ROMANCE OF THE THREE KINGDOMS XIV: Diplomacy and Strategy Expansion Pack Bundle\". \nPortraits of famous officers such as Lu Bu and Liu Bei will be added, as well as those of original characters. Please enjoy the various illustrations of officers featured in the app.\n\n\u25bcHow to use\nSelect Editor and then \"Register Orig. Officer\" or \"Edit Historical Officers\" from the Start Menu. On the edit screen, select Portrait. A list of the portraits will be displayed, and you can set the officer CG from the Special tab.",
+        "languages": null,
+        "size": 38797312
+    },
     "70050000029742": {
         "id": "0100ABC01313701C",
         "rightsId": null,
@@ -63896,7 +64179,7 @@
         "intro": null,
         "description": "Collect the best vehicles in the Hot Wheels\u2122 universe, build spectacular tracks and dive into breathtaking races.\n\nEnjoy HOT WHEELS UNLEASHED\u2122 more completely with the Collectors Edition containing:\n- Full game\n- HOT WHEELS\u2122 Pass Vol. 1\n\nCOLLECTOR OR ARTIST? BOTH\nThe most iconic and sought after Hot Wheels\u2122 vehicles are waiting for you. Get ready to make them race at full speed!\nStand out in the crowd by setting off your personality with the exclusive livery editor.\n\nALWAYS RUNNING\nProve your skills by competing in awesome races and get ready for pure fun! Drift, charge the booster and launch yourself into spectacular loops. But be careful! If you're too slow gravity will do its job.\n\nThe bigger the challenge, the greater the glory.\nRace side by side with your friends in split screen mode for 2 players or face up to 12 opponents in online challenges.\n\nCREATE THE SHAPE OF YOUR TRACK\nWaiting to host your races are enormous interactive environments with their own distinguishing features, where every object can become an integral part of the track.\n\nUnleash your creativity with the most exciting track editor ever! Build your track by taking advantage of what surrounds you, and create amazing layouts inside and outside the race course. Bend and stretch the iconic \"orange piece\", add loops, special boosters, obstacles and special elements to make an incredible amusement park for your races. \nShare your craziest creations online and try those of other players.\n\nRACE IN YOUR WORLD\nFurnish your own personal room with a huge number of elements that you will collect during your adventure and host the most amazing races inside it.",
         "languages": null,
-        "size": 4254072832
+        "size": 6193938432
     },
     "70070000012224": {
         "id": null,
@@ -63928,7 +64211,7 @@
         "intro": null,
         "description": "Collect the best vehicles in the Hot Wheels\u2122 universe, build spectacular tracks and dive into breathtaking races.\n\nEnjoy HOT WHEELS UNLEASHED\u2122 even more completely with the Ultimate Stunt Edition containing:\n- Full game\n- HOT WHEELS\u2122 Pass Vol. 1\n- HOT WHEELS\u2122 Pass Vol. 2\n\nCOLLECTOR OR ARTIST? BOTH\nThe most iconic and sought after Hot Wheels\u2122 vehicles are waiting for you. Get ready to make them race at full speed!\nStand out in the crowd by setting off your personality with the exclusive livery editor.\n\nALWAYS RUNNING\nProve your skills by competing in awesome races and get ready for pure fun! Drift, charge the booster and launch yourself into spectacular loops. But be careful! If you're too slow gravity will do its job.\n\nThe bigger the challenge, the greater the glory.\nRace side by side with your friends in split screen mode for 2 players or face up to 12 opponents in online challenges.\n\nCREATE THE SHAPE OF YOUR TRACK\nWaiting to host your races are enormous interactive environments with their own distinguishing features, where every object can become an integral part of the track.\n\nUnleash your creativity with the most exciting track editor ever! Build your track by taking advantage of what surrounds you, and create amazing layouts inside and outside the race course. Bend and stretch the iconic \"orange piece\", add loops, special boosters, obstacles and special elements to make an incredible amusement park for your races. \nShare your craziest creations online and try those of other players.\n\nRACE IN YOUR WORLD\nFurnish your own personal room with a huge number of elements that you will collect during your adventure and host the most amazing races inside it.",
         "languages": null,
-        "size": 4254072832
+        "size": 6193938432
     },
     "70070000012230": {
         "id": null,
@@ -65573,7 +65856,7 @@
         "intro": "Start writing the story of your victory in the menacing M6A2E1!",
         "description": "Start writing the story of your victory in the menacing M6A2E1!\nIt is a reliable heavy with decent frontal armor and a powerful gun. Slowly but surely, it can confidently push the flanks as it advances toward the enemy. Imagine how cool it will look in the Radioactive Glow animated camouflage!\nCharge into battle\u2014victories await!\nThe items in this bundle can be purchased separately in the Store. Please consider this when purchasing the bundle.\n\nMeet the legendary free-to-play 3D tank shooter for Nintendo Switch\u2122! Become part of the community of players from around the world and join this modern shooting game and battle in a 7x7 format on your own or with friends. Research and upgrade armoured vehicles, use various tactics from aggressive onslaught to stealthy survival, and win! Choose a tank and become a battlefield hero!\n\nGAME FEATURES\n\u2022 An enormous world of tanks: over 350 unique and exclusive combat vehicles with thoroughly elaborate 3D models! Historically accurate vehicles, experimental tanks based on blueprints of famous engineers, armoured monsters from popular alternative universes\u2014here they fight together!\n\u2022 Dynamic 7x7 battles with different modes in over 25 battle arenas. Each combat encounter is unpredictable as outcomes depend on you and your team.\n\u2022 Jam-packed with action! In-game events featuring rare vehicles as rewards and battles with dramatically different gameplay. Become an invisible (and more) hero of battle arenas in Mad Games. Test yourself in tough survival Realistic Battles. Or... become a mighty force as a little battle duck for April 1st!\n\u2022 A shooting game with a well-developed progression system. Research vehicles from Tier I tanks to monstrous Tier X machines. Change guns, set equipment, wear camouflage, and increase your survival odds. Tune your combat vehicle to match your playstyle and strike the enemy with the sheer force of your  steel war machine!\n\u2022 Spectacular 3D graphics that automatically optimise to your device. Enjoy the eye-catching features of every battle arena, highly detailed tank models, massive explosions, and flying blown-off turrets. Manual settings will help you find the balance between a fantastic picture and high FPS.\n\u2022 Teamplay! Join forces with your friends in platoons or become a clan member to battle alongside like-minded players in Rating battles and participate in tournaments for prizes! Coordinate your actions and strike the enemy as one!\n\nThis shooting game is free to play.\nLearn more at https://wotblitz.com/\n2021 Wargaming.net",
         "languages": null,
-        "size": 4033871872
+        "size": 4032823296
     },
     "70070000012787": {
         "id": null,

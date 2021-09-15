@@ -8120,7 +8120,7 @@
             "zh",
             "zh"
         ],
-        "size": 23206035456
+        "size": 25973227520
     },
     "70010000025496": {
         "id": "0100D0B00FB74000",
@@ -9408,7 +9408,7 @@
             "zh",
             "zh"
         ],
-        "size": 4033871872
+        "size": 4032823296
     },
     "70010000029016": {
         "id": "0100B04011742000",
@@ -11752,6 +11752,51 @@
         ],
         "size": 11487150080
     },
+    "70010000037451": {
+        "id": "0100436013EF6000",
+        "rightsId": null,
+        "name": "ConnecTank\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210928,
+        "nsuId": 70010000037451,
+        "category": [
+            "Acci\u00f3n",
+            "Aventura",
+            "Multijugador",
+            "Rompecabezas"
+        ],
+        "ratingContent": [
+            "Violencia moderada de fantasia"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Natsume Inc.",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/53334bbeb0b716a2122f11f7c211bcc9942ae3ce5c0f762ec5d16e93ef948dd2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/022d02492aba9de5661b485bb21576f6e6cc85249931c36399f1b99e3912db7b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3e4994a56ccba4592c8fe671c7ec10c1f42431f9e8dd3b596e60b0d170fd8c2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab00e17f3b3a01c8e226087fd091dcd7f8175cb920d94565a4835de364dcc88e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1eb1acccf2df12d75e7d3e7942b538ad7e431ef97f87c76b6653be553b12c6cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7931cb3f4b51f5ea5361493e9b6ad35f982b57d93d75cc8b402835617da1dbdd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2557715a06791cc8ab67c3047168762d0d48e1c92c7f1199df92f6375a63105.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a63d0a360a7c0e472ef761dc9ba39d3201add2118ffdf2c7d092f3d653f19e05.jpg",
+        "intro": "\u00a1CUIDADO! \u00a1UNA BATALLA CON TANQUES ENORMES EN NEW PANGEA! ",
+        "description": "Ser mensajero no es un trabajo f\u00e1cil. \u00bfY si adem\u00e1s de eso hay que enfrentarse a enormes tanques destructivos? Esa es la vida de los nuevos trabajadores de Finneas Fat Cat XV, \u00a1uno de los magnates m\u00e1s importantes de New Pangea! \n \nPor suerte, tendr\u00e1s un tanque del tama\u00f1o de un mamut para hacer las entregas. Conecta cintas transportadoras y destruye tanques enemigos con la munici\u00f3n que fabriques. Consigue nueva munici\u00f3n y artilugios para deshacerte de los tanques m\u00e1s descomunales. \u00a1Adem\u00e1s, puedes reunir sus partes para usarlos! \n \n\u00bfTienes lo necesario para ser el mejor mec\u00e1nico de Finneas Fat Cat y lograr que sea a\u00fan m\u00e1s famoso y rico? \u00a1Finneas cuenta contigo! ",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "de",
+            "zh"
+        ],
+        "size": 1613758464
+    },
     "70010000037986": {
         "id": "0100BC701417A000",
         "rightsId": null,
@@ -11840,7 +11885,7 @@
             "zh",
             "zh"
         ],
-        "size": 7861174272
+        "size": 7415529472
     },
     "70010000038218": {
         "id": "0100D99014262000",
@@ -12324,12 +12369,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/54604856f8c6f02490034aaf4f4c739caef5cd061f6fe6e7beb4d418b078725c.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/f8cd0a415ddbb373cccae2203fc38679e03f2a2ca0e5f11d6e04142fea13e353.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/29d5098bba162ce9d4fa2de1357e94a85e055f3801108fe10c81f3b8460da7e8.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/833134a529c2b580610e40e2fe7af5cf3e6e365ca4f4fc76ccc1bc5be4fd9a83.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/8b9de7bd72eb16ac5a53ec3bf949f0cd685c77e7fc3fdb2669e401547d580d49.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/db19ba1c8751f9b577b91bc23bde9374690b2990449b0c6303f2f8342f034396.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f3146e85ebf1f44342788e95e7dbea4bce8340868045208fa258f6109f7de6bb.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/99ea0fd78720f21e9b599222dc45346f25198e589660ac5ccb48e5a675e494c2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c618d13c6acc850ae8d702adf0ad33866d521493e73aa7f33873b1c8ea1700a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b1e8c029f8fdf8a02b93e2e96c7d4272b69d642eafa0b273a99f1037da8f2211.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8393d7e860d8525c897d032021828eed068f34fc9b3ab0de92c006ba7f8c790b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f5d8fa02ef628209ce0fe89f67b88f9da893315f3ab3654a5c1d68c81f1b6b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ca18ed1d7a23b84a9c02a291bfa074fcb42b2fd5bfe6b98d82734284f819117.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cb09ee16b75620d7dde00fdb2c54312ac9d29265555864d79484eecb1d3583da.jpg",
         "intro": "How will you lead?",
@@ -12764,6 +12809,47 @@
             "zh"
         ],
         "size": 427819008
+    },
+    "70010000041760": {
+        "id": "01005C50152DC000",
+        "rightsId": null,
+        "name": "Warp Frontier",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210928,
+        "nsuId": 70010000041760,
+        "category": [
+            "Aventura",
+            "Rompecabezas"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Uso de alcohol",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Brawsome",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6ae57f082e579433c5d923df6165a7a19531216cb883aef6b0c4d99877b6e582.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/25513700e204ba57defbb7d1fe7523cda8c0b6ce34a18c72e088b3d762597f73.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ad03f1cd908c86c4e25971d5117abfe1dd934bf38580cc37322d492afe38f8d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/024a0c69602142a8754acbf8a774f35583e53167352ac4394f92244e86590e9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bdf8105c588874459481cc6c2e58799807c909d5ac9e5c39b1369b779f3341f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b0d622785b8f4aff2bb5ffffd10ce5f03d1cd583685056df7e959b176dd424b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4a944ec645288d6792f368c04141384148ba9d28b83f68db70b07296e2162b0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f40a8fdc08771596b1647cd390f89d3b3e835ec72a7698bc6a41cb573ca36a06.jpg",
+        "intro": "In the year 2215, orbiting humanity's newest extrasolar colony, Police Captain Vincent Cassini, becomes embroiled in an intersystem conspiracy to bury past war crimes.",
+        "description": "Vincent Cassini, decorated war hero, but still just a Captain in the police force he started, is patrolling the orbital slums of his home planet Cetus, when he stumbles across a lead in a war crime that resulted in the mysterious disappearance of thousands of Cetans, including his first wife and best friend. Captain Cassini and his robot partner MAC, must ally with morally questionable characters to stop an old enemy before their crimes are erased forever.\n\nPlayers solve puzzles, in point and click adventure style, and navigate branching narratives to manage Vince\u2019s relationships with his family, allies and enemies. Decisions players make in conversations and the order in which they undertake tasks result in outcomes that could cost the lives of thousands. Players actions ultimately decide what type of father, partner, friend, officer and saviour Vince will be.\n\nFeatures:\n- Make decisions that affect the lives of thousands of people, and determine relationships between family and friends\n- A 2D point and click adventure in HD\n- 6-8 hours of gameplay with branching decisions resulting in multiple unique ending sequences\n- Authentic Australian feel voiced by a predominantly Australian cast\n- An alternate timeline of humanity branching from a catastrophic singularity event\n- Original Soundtrack by Thomas Regin\n- Explore via ship from the planet surface, through the orbital community to the outer reaches of the planetary ring",
+        "languages": [
+            "en"
+        ],
+        "size": 1103101952
     },
     "70010000042151": {
         "id": "010086901543E000",
@@ -31211,7 +31297,7 @@
         "intro": null,
         "description": "Apex Legends - Di\u00e1logo de personajes en franc\u00e9s\n",
         "languages": null,
-        "size": 2123366400,
+        "size": 2156920832,
         "ids": [
             "0100D9500FC67001"
         ]
@@ -31244,7 +31330,7 @@
         "intro": null,
         "description": "Apex Legends - Di\u00e1logo de personajes en alem\u00e1n\n",
         "languages": null,
-        "size": 2356150272,
+        "size": 2389704704,
         "ids": [
             "0100D9500FC67002"
         ]
@@ -31277,7 +31363,7 @@
         "intro": null,
         "description": "Apex Legends - Di\u00e1logo de personajes en italiano\n\n",
         "languages": null,
-        "size": 2355101696,
+        "size": 2387607552,
         "ids": [
             "0100D9500FC67003"
         ]
@@ -31310,7 +31396,7 @@
         "intro": null,
         "description": "Apex Legends - Di\u00e1logo de personajes en japon\u00e9s\n",
         "languages": null,
-        "size": 2300575744,
+        "size": 2335178752,
         "ids": [
             "0100D9500FC67004"
         ]
@@ -31343,7 +31429,7 @@
         "intro": null,
         "description": "Apex Legends - Di\u00e1logo de personajes en coreano\n\n",
         "languages": null,
-        "size": 2235564032,
+        "size": 2267021312,
         "ids": [
             "0100D9500FC67005"
         ]
@@ -31376,7 +31462,7 @@
         "intro": null,
         "description": "Apex Legends - Di\u00e1logo de personajes en mandar\u00edn\n\n",
         "languages": null,
-        "size": 2067791872,
+        "size": 2101346304,
         "ids": [
             "0100D9500FC67006"
         ]
@@ -31409,7 +31495,7 @@
         "intro": null,
         "description": "Apex Legends - Di\u00e1logo de personajes\n\n",
         "languages": null,
-        "size": 2347761664,
+        "size": 2381316096,
         "ids": [
             "0100D9500FC67008"
         ]
@@ -31442,7 +31528,7 @@
         "intro": null,
         "description": "Apex Legends - Di\u00e1logo de personajes en espa\u00f1ol\n\n",
         "languages": null,
-        "size": 2361393152,
+        "size": 2393899008,
         "ids": [
             "0100D9500FC67009"
         ]
@@ -42098,7 +42184,7 @@
         "intro": "Paquete del ganador.\n\u00a1Comienza a escribir la historia de tus victorias con el amenazador M6A2E1!",
         "description": "\u00a1Comienza a escribir la historia de tus victorias con el amenazador M6A2E1!\nEs un carro pesado fiable con un buen blindaje frontal y un ca\u00f1\u00f3n potente. Lento pero seguro, va socavando los flancos mientras avanza hacia el enemigo. \u00a1Y queda genial con el camuflaje animado \u00abBrillo radiactivo\u00bb!\nL\u00e1nzate a la batalla, \u00a1las victorias te esperan!\nLos art\u00edculos de este paquete se pueden comprar por separado en la tienda. Tenlo en cuenta a la hora de comprar este paquete.\n\n\u00a1Te presentamos el legendario Tank Shooter gratis en 3D para Nintendo Switch\u2122! Forma parte de una comunidad de jugadores de todo el mundo. \u00danete a este moderno juego de disparos de 2020 y lucha en formato 7x7 por tu cuenta o con tus amigos, desarrolla y mejora veh\u00edculos blindados, usa diferentes t\u00e1cticas que van de arremetidas sin piedad a la supervivencia sigilosa, y gana. \u00a1Elige un carro y alcanza el hero\u00edsmo en el campo de batalla!\n\nCARACTER\u00cdSTICAS DEL JUEGO\n\u2022 Un mundo de carros enorme: \u00a1m\u00e1s de 350 veh\u00edculos de combate \u00fanicos y exclusivos en detallad\u00edsimos modelos en 3D! Veh\u00edculos hist\u00f3ricamente precisos, carros experimentales basados en los planos de ingenieros famosos, monstruos blindados de populares universos alternativos... \u00a1Aqu\u00ed combaten todos juntos!\n\u2022 Din\u00e1micas batallas 7x7 con modos diferentes en m\u00e1s de 25 arenas de batalla. Cada encuentro de combate es impredecible, ya que el resultado depende de ti y de tu equipo. \n\u2022 \u00a1Acci\u00f3n imbatible! Eventos dentro del juego con veh\u00edculos raros como recompensa y batallas con una din\u00e1mica totalmente distinta. Hazte invisible (y no solo) y m\u00e1rcate heroicidades en las arenas de batalla en Mad Games. Ponte a prueba en dur\u00edsimas batallas realistas de supervivencia, o... \u00a1transf\u00f3rmate en una fuerza imparable en forma de patito batalla por el 1 de abril!\n\u2022 Un shooter con un sistema de progresi\u00f3n bien planteado. Desarrolla veh\u00edculos desde el nivel I y transf\u00f3rmalos en monstruosas m\u00e1quinas de nivel X. Cambia ca\u00f1ones, configura el equipamiento, ponte el camuflaje y aumenta tus posibilidades de supervivencia. \u00a1Tunea tu veh\u00edculo de combate para que encaje con tu estilo de juego y ataca a los oponentes con la fuerza bruta de tu m\u00e1quina de guerra de acero!\n\u2022 Gr\u00e1ficos espectaculares en 3D que se optimizan autom\u00e1ticamente para tu dispositivo. Disfruta de las atractivas caracter\u00edsticas de la arena de batalla, modelos de carro detallados, explosiones inmensas, y torretas reventadas que pasan volando. Los ajustes manuales te ayudar\u00e1n a encontrar el equilibrio entre una imagen fant\u00e1stica y muchos FPS. \n\u2022 \u00a1Juego en equipo! Une fuerzas con tus amigos en pelotones, o \u00fanete a un clan para luchar juntos con otros jugadores afines en las batallas de clasificaci\u00f3n y participa en torneos con premios. \u00a1Coordinad vuestras acciones y atacad al enemigo como uno!\n\nEste shooter se puede jugar gratis.\nM\u00e1s informaci\u00f3n en https://wotblitz.com/\n2021 Wargaming.net",
         "languages": null,
-        "size": 4033871872
+        "size": 4032823296
     },
     "70070000012799": {
         "id": null,
