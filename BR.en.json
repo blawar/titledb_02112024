@@ -3607,6 +3607,56 @@
         ],
         "size": 160432128
     },
+    "70010000012305": {
+        "id": null,
+        "rightsId": null,
+        "name": "Diablo III: Eternal Collection",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20191212,
+        "nsuId": 70010000012305,
+        "category": [
+            "Action",
+            "Adventure",
+            "RPG",
+            "Party"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bf924a38ce1da69413bdba496afad2ef562f73ea5273621c09cac878ab7ad0b5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/30ddc24d80d1c532c99662c208df1850f3efbc37d25c73e20e6bf21b6052232d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c640f6a515c6e056d8412dc36c8cdd8419758e6f30380a64837ead855e6371a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/72c46b7f2fbd234258fdff9240b05c449a8417db1d0e37134478459672eb7220.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5057241a584fb59b94e369bef10d9f23f2c68d85dff346255ce18f1f659b22a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bee5fbcb625278d1e8adb25adefba0a94f64321d2002039362b7a525b99271a5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9d8f95e20b59b76eab1a74aaefdabbabe6438b6761efc4efa6306dde638987f3.jpg",
+        "intro": "Raise Some Hell",
+        "description": "Ages ago, angels and demons birthed your world in a forbidden union. Now they\u2019ve come to claim it. Stand tall among Sanctuary\u2019s meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.\n\nUnholy Trinity\nThe Diablo III game, the Reaper of Souls expansion, and the Rise of the Necromancer pack are all part of the Eternal Collection: 7 classes, 5 acts, and seasons\u2019 worth of demon-smashing.\n\nNintendo Switch\u2122 Exclusives\nDiscover pieces of Zelda\u2019s world in Sanctuary. The Eternal Collection on Switch\u2122 includes the Cucco companion pet, a Triforce portrait frame, and an exclusive transmogrification set that will let your heroes sport Ganondorf's iconic armor. You\u2019ll also receive unique cosmetic wings.\n\nDefy the Darkness\nYou\u2019re a surrounded world\u2019s only defense against Heaven and Hell. Arm yourself with a Joy-Con\u2122 or the Pro Controller, and choose from 7 dark fantasy classes, each with its own way to slay.\n\nEternal Replayability\nEvil is never vanquished forever. Whether you\u2019re testing yourself against new difficulty settings, playing through the epic story campaign, searching for the perfect skill combo, expanding your collection of gear, racing through random dungeons, or traveling Sanctuary anew each season, you\u2019ll always have a fresh challenge to seek out.\n\nAssemble the Perfect Arsenal\nAs you charge through Diablo III\u2019s five story acts, you\u2019ll collect gear from Sanctuary\u2019s furthest reaches, including legendary items that change your entire playstyle and armor sets that provide dynamic bonuses as you uncover more pieces.\n\nYour Path to Power\nDiablo III\u2019s power-building system is flexible enough for an afternoon or a full season. Push back the Burning Hells with spears, storms, and zombie dogs\u2014over 800 unique abilities to unlock and master. Turn fire into lightning, split your magic blasts, and change your skills to create devastating power combinations.\n\nIt\u2019s Dangerous to Go Alone\nJump into local, action-RPG multiplayer with up to three friends, and crush demons from your comfiest couch cushions, no internet required\u2014or fill out the ranks of your party online. You can play Diablo III shared-screen on a single Nintendo Switch\u2122, remotely on up to four Nintendo Switch \u2122 consoles, or combine TV and handheld play.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 16330522624
+    },
     "70010000012332": {
         "id": "01006A800016E000",
         "rightsId": "01006A800016E0000000000000000005",
@@ -6840,7 +6890,7 @@
             "zh",
             "zh"
         ],
-        "size": 1846542336
+        "size": 1857028096
     },
     "70010000024168": {
         "id": "010066C00FA94000",
@@ -9366,7 +9416,7 @@
             "de",
             "it"
         ],
-        "size": 3152019456
+        "size": 3314548736
     },
     "70010000032086": {
         "id": "0100E390124D8000",
@@ -10995,7 +11045,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 2021,
+        "releaseDate": 2022,
         "nsuId": 70010000034325,
         "category": [
             "Shooter",
@@ -11007,7 +11057,7 @@
             "Compras on-line"
         ],
         "numberOfPlayers": null,
-        "rating": 10,
+        "rating": 12,
         "developer": null,
         "publisher": "Zynga",
         "frontBoxArt": null,
@@ -12383,7 +12433,8 @@
             "Other"
         ],
         "ratingContent": [
-            "Viol\u00eancia Fantasiosa"
+            "Viol\u00eancia Fantasiosa",
+            "Compras on-line"
         ],
         "numberOfPlayers": 1,
         "rating": 0,
@@ -13228,7 +13279,7 @@
             "en",
             "es"
         ],
-        "size": 221249536
+        "size": 299892736
     },
     "70010000035987": {
         "id": "0100F4C013866000",
@@ -13262,7 +13313,7 @@
             "https://img-eshop.cdn.nintendo.net/i/daf225c8a3ccba00c118f44b1f01c134fe302e1e31a282210f938ca8a18fc021.jpg",
             "https://img-eshop.cdn.nintendo.net/i/a3aa04513b717c8b8be4633725d953aaf5bad38ae99692ec002fc6d284818d77.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d48fdd08e093700094cb428565b20d45e13e3f63c167db9f7f8e7a9eb622522e.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aeb5ee8b1fe6b41c2f795ff6480f9ed7a2019ce7553a086d2b5f63893ddc20ef.jpg",
         "intro": "A lonely office worker finds that reality is not quite as it seems",
         "description": "A time-and-mind bending adventure game...\nIt's your final day at the office, it is time to clock out and return home - loomed over by a cosmic anomaly with an oppressive, otherworldly force. Helpless over the\ncosmos, all you know is that you must return to your family, as soon as you can.\n\nFind your way home by any means...\nAs you progress through the dystopic cityscape, you quickly you realise all is not as it should be. Did it always take this long? Were the streets always a labyrinth?\nWhere even is \"home\"? All you know is that you must keep pushing ever onwards, you must keep going.\n\nNavigate through a dystopian society\nNavigate beautifully and elaborately designed, otherworldly environments and solve unusual puzzles to keep Solo moving through each area. Players have the option\nto figure out puzzles step-by-step with no hints, or activate a little guidance on your impossible journey through 'Assisted-Mode'.\nA sinister presence follows\n\nKeep Solo moving. \nOnwards, to his family, back home. Do not stop, do not turn back. Is Solo being watched?",
         "languages": [
@@ -14328,7 +14379,7 @@
             "zh",
             "zh"
         ],
-        "size": 2120220672
+        "size": 2144337920
     },
     "70010000036785": {
         "id": "01004A2013ACE000",
@@ -15422,6 +15473,56 @@
         ],
         "size": 1742733312
     },
+    "70010000037364": {
+        "id": "01001A6013E8A000",
+        "rightsId": null,
+        "name": "Nira",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211014,
+        "nsuId": 70010000037364,
+        "category": [
+            "Adventure",
+            "Action",
+            "Multiplayer",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Graffiti Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a63b18821ea710b16ed4765b666cae3b2d61476ff8e61de028cb52baccca8ca9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ce45be2ea647f438863907a45ca3e503619be48f8a8ce3b9674c6872dc26c2ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/85da69515028c563597461ef65f07ef2403f53006d43e8d8633bccb210269f50.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/721e10b269147cf36535a6ac99af771cd8bbcbbcb6f731c94319e119eb77b3d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/965b74221fc3cafa82de7c0edd805eeae5c0b6df3962b66c1c45c85af8469c4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1eeedc057554b836a9dd1b31f5788ddf2de15a3e9e5baf2ac48bdc758e4c8ede.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b73d1f7b556f102d49a2c12a5f8ac60563a8f7d36fdbf0d6c2d5e243d219fcc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f3503d10ca77db8b96dd7c25c7aa9f69c3e3ff9568a445da572630235b7391fd.jpg",
+        "intro": "Explore procedurally generated islands in this fast-paced, sandbox survival adventure filled with building, crafting, fighting, farming and quests.",
+        "description": "The Ultimate Survival Adventure Awaits\n\nWelcome to a world filled with diverse islands to explore and mysteries to uncover. Set forth on your journey to survive this procedurally generated universe by crafting tools to construct a shelter, build transportation, farm food, catch a tasty meal and more. Forge weapons to protect yourself from the dangers at night, when an array of enemies come to shorten your time on the islands. Upgrade your character to improve your odds of survival and take on even bigger challenges in dungeons. \n\n* Unravel the story of a mysterious Totem\n\nBefriend a peculiar Totem and take on the quests it gives. Offer items to gain experience and upgrade the Totem to unlock superior quests that grant even more experience. Make the Totem happy and become its best friend forever. \n\n* Gather resources to craft tools, deadly weapons and armor sets\n* Level up your skills to unlock new weapons and recipes\n* Build a fortress to defend yourself from enemies\n* Battle hordes of goblins and ogres\n* Plant and grow crops\n* Hunt for food and cook meals to heal\n* Complete quests given by a mysterious Totem to level up your character\n* Discover dungeons throughout the game that teleport you to another world where you have to fight waves of enemies\n* Build vehicles\n* Tame and ride animals\n* Play solo or with a friend in local co-op",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "zh"
+        ],
+        "size": 186646528
+    },
     "70010000037378": {
         "id": "01001BB013EAA000",
         "rightsId": null,
@@ -15605,6 +15706,43 @@
             "zh"
         ],
         "size": 1321205760
+    },
+    "70010000037430": {
+        "id": "01004DE013EDE000",
+        "rightsId": null,
+        "name": "Youtubers Life 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211019,
+        "nsuId": 70010000037430,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Raiser Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1e456bf9ecd1d5dafb31943a24eb9789451d0c6da43314df723597d7e7bc479e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8eb9ecbd06a99fa46a826ce985db147bea2cf5803894007e814d36e50ce914cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee06f852e9f3a1093ea5846ee96e87d61759164dab48366230b7c5974df8bfb8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f1ff2a2dc91393551ad6d877985e56ebe78ff1c74cd0be62d11e1d4500d2113.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d0e59263a67fce24a140613de7040644e1847fc1553581e5296f82d8a7f30444.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a302bd9cb6a5c9dd8e29cf2afe8ceaa9c7d205c512ab4a23c51a2b9e1c9b6a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/062988ce6559e9321d5b7265932a32db14f25826041d2b37a717cc67b78e3362.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5277f013a5be147070010bfa6545bafd50eccf50fabf953438085a46ae793310.jpg",
+        "intro": "Become the trendiest youtuber in the world and live your dream. Make friends, deal with rivals, attend events, film and edit videos, and share it all !!",
+        "description": "BECOME THE TRENDSETTER WITH YOUR VIDEOS!\nCreate your own channel and decide which is the best content to cover: trending video games, improvised streamings, professional reviews... Or all of them!\nCollect cards to make the best content and choose the most suitable reaction for each video and situation.\nRecord, edit, and publish high-quality videos to get your first subscribers and views, and make money in no time.\n\nEXPLORE NEWTUBE CITY!\nDiscover every corner of the city! Record videos on the way or post photos on Instalife, capture popular trends. Investigate each location to discover secret areas, iconic characters, and new missions to win exclusive prizes for your videos.\nWith three main neighborhoods: Downtown, City Hall, and Port, you'll have lots of places to explore, shops, cinema, gym, and even a disco. Find new trending topics in each place to create amazing content!\n\nGROW YOUR CHANNEL AND MEET YOUR FANS!\nImprove your setup and identify trending topics to produce viral videos. Join forces with powerful allies, gain access to unique VIP events, unveil worldwide exclusives, and expand your social media presence to keep climbing up!\n\nCOLLABORATE WITH FAMOUS CONTENT CREATORS!\nInteract with the community to make new friends and develop relationships with them. Find your soulmate on your way to fame. Meet popular youtubers and help them to receive new items, cards, and skills!\n\nCUSTOMIZE EVERYTHING FROM YOUR HOME TO YOURSELF!\nDesign every aspect of your character and your place by buying all sorts of clothes, items, furniture, accessories, and much more. Expand your flat and express yourself to the fullest with more personalization than ever!\n\nA whole new way of playing is waiting for you! New social media channels, new locations, new content, new customizable options, new features, new quests...\nStay tuned to know which content works best on each social network!",
+        "languages": [
+            "en",
+            "es"
+        ],
+        "size": 2949644288
     },
     "70010000037438": {
         "id": "01009AB013EE2000",
@@ -18539,6 +18677,57 @@
         ],
         "size": 319815680
     },
+    "70010000038819": {
+        "id": "0100726014352000",
+        "rightsId": null,
+        "name": "Diablo\u00ae II: Resurrected\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210923,
+        "nsuId": 70010000038819,
+        "category": [
+            "Action",
+            "Adventure",
+            "Party",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Extrema"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3555961fefd935624036664963fdcc3b4409d223802a52eb30040b3a84d256bc.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/25e703d3a92e596d94643234836405cb5ce3c5776f3f4c0f866b1541c1e7410b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7320b2e44902da4c90e172b7869f32fddcb3b5c26ee6645336033eb751254fca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abe5e623d79fc79ec459dc27c4b63e3a773352077f569ef7c6b1d89aa69153b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bdc4fe0bf793fb881ae589da66f293dd2fe316a5bc4ab089f32a967c07fe2cab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46ae60e809c275888d61ee1795b868a065895c483f3d231625233ac8d8a4324d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60a39bb80dd29686b1cce128fda679d760d01ef99f4c0cac12047432c5495bc1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/adc402fe085d3d58b963269d9498beea90e46623841c034a3e727ff0e6dcce9e.jpg",
+        "intro": "Relive the epic adventure that defined the action RPG genre for decades",
+        "description": "Diablo\u00ae II: Resurrected\u2122 is the definitive remastering of Diablo\u00ae II and its Lord of Destruction\u00ae expansion\u2014two hallmark entries in Blizzard Entertainment\u2019s genre-defining action role-playing series. Veteran players, as well as those who missed out when the original game was first released on PC twenty years ago, can now experience Diablo\u00ae II\u2019s timeless gameplay with modern visuals and audio that take advantage of today\u2019s gaming hardware. \n\nAscend the Forgotten Tower, blaze a trail through the jungles of Kurast, and storm the gates of Hell to defeat Diablo himself. Then, scale the peak of Mount Arreat to face Baal, the Lord of Destruction, in Worldstone Keep. \n\nSeven of Sanctuary\u2019s greatest champions await at the iconic campfire screen\u2014the Amazon, Assassin, Barbarian, Druid, Necromancer, Paladin, and Sorceress. Each is highly customizable with countless build and gear options for players to explore. \n\nDiablo\u00ae II: Resurrected can be played as a solo experience, or grab some friends on your preferred platform and enjoy multiplayer co-op. Then blow off some steam and claim a few ears by engaging in thrilling PvP duels outside of town.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 8295284736
+    },
     "70010000038824": {
         "id": "01001FA01451C000",
         "rightsId": null,
@@ -18738,7 +18927,7 @@
         "developer": null,
         "publisher": "Atomic Realm",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3edb1345fb131502010a4098566633ee294eadff42a8a75f9db58a97a339ac25.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/279dc55eea69ee485c0a8fbb816b17725fba79c2610570307590d2815886c9aa.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/beb881878fb6962f226fac14206dd122e8cad42c32fda3e0a23a7273e0eb3eb9.jpg",
             "https://img-eshop.cdn.nintendo.net/i/c5978bba4013a499d07e01ecc002133bd98ff1412de41fdb25b1bf276a1ae697.jpg",
@@ -18753,7 +18942,7 @@
         "languages": [
             "en"
         ],
-        "size": 1288699904
+        "size": 1589641216
     },
     "70010000038940": {
         "id": "0100C06014588000",
@@ -19588,6 +19777,51 @@
         ],
         "size": 1196425216
     },
+    "70010000039167": {
+        "id": "01008C9014694000",
+        "rightsId": null,
+        "name": "My friend Peppa Pig",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211022,
+        "nsuId": 70010000039167,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Outright Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5b8dcbcbdafbe45f8c40985ea1b1b0816ecee155014f498bd67e86cb06a72d5e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/11403a98726e86922d792aa3fe273f1d765c832812b71f0757fc4147501e6db3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f8b1a324acc628057ed57ab78c1a5a43ca75b4f41e867bf16536cf623b9c47ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a7e9c62e1149751e79a711ed17a61dcc433d26cb8b6efa4ecb6d7c158d92d54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c435284b70e1c75d89f80521f14308e30955216b9e16b08bda4595a08b99fec2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8cd8c6c13b7aa6eb25ea11ad723014c2d3f930c14599024ec6a05e4a41143062.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48e7e914babd3ef8f9ecb39710561289eee9258f14bf7059bdb952c637fedce1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2415dd2c176fe6bbf8cce4d067667490f2c39e5556ee2504269aa443fdb1e50.jpg",
+        "intro": "Start a fun-filled adventure with Peppa Pig. Create your style, meet favorite characters, and play in Peppa\u2019s world. It\u2019s just like being in the TV show!",
+        "description": "Have a fun-filled adventure by becoming Peppa Pig\u2019s new friend! \n\nCreate and dress your character, ring Peppa\u2019s doorbell, and begin a story that\u2019s all up to you Peppa suggests activities everywhere you go \u2013 help Daddy Pig find his glasses, follow the animal tracks in the Forest, splash in muddy puddles, and much more! It\u2019s just like being in an episode of the TV show, where all your favorite characters are excited to meet you. From the Beach to the Museum and even Potato City, every playtime is a new experience with your friend Peppa Pig.\n\n\nBUILD YOUR CHARACTER \u2013 Choose and dress your avatar\n\nPLAY WITH PEPPA \u2013 Learn and adventure with your new friend\n\nEXPLORE HER WORLD \u2013 Visit the beach , the Forest, Potato City and beyond\n\nMAKE FRIENDS \u2013 Your favorite Peppa Pig characters want to meet you\n\nGET CREATIVE \u2013 Young players star in their own unique story\n\nPARENTS, YOU'RE IN CHARGE \u2013 Easily set a time limit in Settings. Peppa ends the game when playtime is over",
+        "languages": [
+            "ja",
+            "es",
+            "pt",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "zh"
+        ],
+        "size": 2520776704
+    },
     "70010000039169": {
         "id": "0100DDB014698000",
         "rightsId": null,
@@ -19974,7 +20208,7 @@
             "zh",
             "zh"
         ],
-        "size": 3625975808
+        "size": 3795845120
     },
     "70010000039315": {
         "id": "0100EB9014722000",
@@ -20868,6 +21102,46 @@
         ],
         "size": 966787072
     },
+    "70010000039521": {
+        "id": "0100F5501483C000",
+        "rightsId": null,
+        "name": "Rift Adventure",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210916,
+        "nsuId": 70010000039521,
+        "category": [
+            "Action",
+            "Adventure",
+            "RPG",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "QUByte Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0b998b1403aa33c6ea1571b1a94f26691da416a77a3cc6d0df0e23c2d5a20565.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2ace2279e1627583dc528324105cd7ad7ec8a178589ef02659fc56ded83a2ee8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a63118c14053e4a9c7660feedc9238aa66a0193983c12898c95537cb94fecf18.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ccf9b0484d8dd1621469e1d20e4df035ced0a2790f539291d0d4383dde6914e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/503ac76df418bc5529e5b9121356c13df7819ed351ad21bcb66f37f3787d4fcc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/229510015693b753f4d13b2b324979934cd9c329dcbf9500be026b83915e7cfc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f25d98cc7d090bac5fa31ff5e9370bf1230661d74d389478a1e3bd6cd584af2b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a8a09b590a63d684289214890add383e3c06e4c0cbb015647f06db5bfc4c6b11.jpg",
+        "intro": "Rift Adventure is a pixelart platform in a magical world full of adventures and with a functional tax system.",
+        "description": "Rift Adventure is a 2D platformer of action and adventure and RPG elements with retro pixel art style that seeks to educate and raise awareness of young people, teenagers and also homesick players about tax, tax education, citizenship and the cause and consequence of their actions.\n\nAll this in a fantasy medieval universe where all characters are animalized. The protagonist is an adventurer who seeks treasure and excitement, but sees his best friend and adventure partner being possessed and kidnapped by a powerful and evil being from the underworld.\n",
+        "languages": [
+            "en",
+            "pt"
+        ],
+        "size": 174063616
+    },
     "70010000039547": {
         "id": "010057801486C000",
         "rightsId": null,
@@ -21303,6 +21577,45 @@
             "en"
         ],
         "size": 161480704
+    },
+    "70010000039670": {
+        "id": "010003C01491A000",
+        "rightsId": null,
+        "name": "Mountain Bike Hill Climb Race: Real 2D Arcade Dirt Racing Games",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210923,
+        "nsuId": 70010000039670,
+        "category": [
+            "Racing",
+            "Sports",
+            "Simulation",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Alcyone Studio",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/72d9950ada610491ec240bce20c9b4ffe77575069b83f40a31d866ac80ee50e4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/01499dd85c77b02784d346b851637bedbe509176c849e6ac70d5cc2011d9b0a4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5955c218bf81d2a81e1034d463bd7ea71d996958f1b9b27862cb6a61de1fbcb2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e8d9694b637e91da4839c0f37f935216b51cf029b51840655d2184309eda1bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1feba083c03189376a4e2510dc37893695f3d41dd5a67f20088256dcc16087e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/66abcb9607262ada5a5624be36492e8a03594aab8cc78f9c9ceacfad461d8842.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1896e7af022355fc346195fa94f7efc86a9b239c51ba8b31dccb9a94b83bc7c5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/211b826bd2883037d89dd3e76e6b79a88f06a7b426abb6d228b4513a16b8fe7a.jpg",
+        "intro": "Very addictive physics based bicycle driving game!",
+        "description": "Mountain Bike Hill Climb Race is an exciting, 2D action Bicycle driving game based on real physics with funny cartoon graphics and parallax scrolling. Drive your mountain bike through paths and hurdles over beautifull hills and amazing mountains. It is a very addictive, simple 2D game, yet challenging to play. Use the left control stick to lean back or forward and the right control stick to speed up and slow down.\n\nMake stunts, run through jumps and flips, lean back on a rear wheel drive while browsing the 42 challenging levels available now. Go uphill or downhill on glaciers in the mountains and dangerous slopes with obstacles like tree trunks and rocks. Discover extreme sensations on a half pipe or pyramid in a snow resort to achieve the best time. The more you play, the better you become in handling the bicycle at high speed, but accelerate with caution as you may have a steep fall or sharp rising around the next corner. The challenge lies in landing savely on just two wheels and mastering the handling of your bicycle in order to become a 2D simulator stunts champ. So don't wait any longer, perform different cycling stunts, tricks and indulge yourself in this cycling excitement to get an adrenaline rush through the huge, beautifull mountains and hills!",
+        "languages": [
+            "en"
+        ],
+        "size": 307232768
     },
     "70010000039682": {
         "id": "010065F01375E000",
@@ -22416,6 +22729,103 @@
             "de"
         ],
         "size": 2254438400
+    },
+    "70010000039968": {
+        "id": "0100491014980000",
+        "rightsId": null,
+        "name": "The Lightbringer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211007,
+        "nsuId": 70010000039968,
+        "category": [
+            "Platformer",
+            "Puzzle",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Zordix",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1fd259bcaeedf45f76907366ce09f75c8db171822182ca0a363c7eebcdec3cbe.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8f32b7521ad231ba2fcb76a3114a3cb3b049f39d3d33833e76f9372b9b00fa7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4b9ca93962f5d5399ff545ddf0531ac3d9aef5b41dbcc5236081b5afa37b2eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afe82f107d6abef0ec4a22cacc9754a9adc20844f2f3c967d1b14e9850a31850.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fe23ad43c68e650e559dcfda341e60a56cdf4c0762ad720675e5100305178b99.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7fd2be2cfaa9a6489dd5ed73da8206891e4da92ca392de86bb992468e465daa0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1fae4a8951cb18ba030a0b176be1cebcaffdd932a99d00d6cf7637c619571d3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2a5379f3b447abc5ec7613ea2e8b203a5565a64546465f160b97c59b0009886.jpg",
+        "intro": "The Lightbringer is a story-driven adventure platform game, set in a beautiful world claimed by a vile corruption.",
+        "description": "Dear brother, \nwhen this letter reaches your hands, I will no longer be protecting our lands. \nWith great sorrow I pass this duty onto you. \nDo not be afraid, as I will guide you through.\n\nYou will travel these lands across the shores, across the skies.\nI\u2019ll be there for you, with all of my heart, kind words and eyes.\n\nAncient puzzles will challenge the mind.\nSolve them all and see what you\u2019ll find.\n\nOn your journey, you\u2019ll face the corruption.\nFight it my brother, there\u2019s no other option.\n\nLightbringer, your story is about to begin. \nDo you have enough courage and light within?",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "zh"
+        ],
+        "size": 3107979264
+    },
+    "70010000039990": {
+        "id": "01008F4014A74000",
+        "rightsId": null,
+        "name": "UnMetal",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210928,
+        "nsuId": 70010000039990,
+        "category": [
+            "Action",
+            "Adventure",
+            "Other"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Conte\u00fado Sexual",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "Versus Evil",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/70f146f3d954491f4d6ffd26149cb4297c45ae71658bd1b6cf4447550de36a59.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/18f856a788edf369994cf76c8b7615c8e89043bc221fe54fa7f5febf1dce6866.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/340e947fb072d78efe2fef41f5ddae250c1e2cfd40c1ce0f742086e920e93975.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbe523a0f11cbedecabcda7aff3aa65bc12de761c196af305bb075a22e051ced.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e042cc797e40653757f0af88ab4149ca605314a823faa93a245fe73246dd5af1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b567d1b4edf6703a06aaf184a46870b00c75c7a1acf6c45bf59e3bda482dac3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fb6046d7a50ee0e329c8c283f7224185531e36da6ee7dbf36c4c1750132a2756.jpg",
+        "intro": null,
+        "description": "You play as Jesse Fox who finds himself imprisoned in a covert military base where he was arrested for a crime he didn't commit. Jesse must now escape using his dry wits, quick words, improvised skills, arsenal of warfare, violent explosives, MacGuyvered gadgets, and an elaborate explanation of how it all went down. If that all fails, he'll use his fists.\n\n\u2022 Uncover a clandestine plot as you escape from an enemy base where you were imprisoned for a crime you didn't commit.\n\u2022 Modern gameplay mechanics that pay homage to a solid classic.\n\u2022 Gain experience and skills by utilizing stealth to take down your enemies.\n\u2022 Deceive, adapt, and do whatever is necessary to escape\u2026 even if you have to impersonate a cat.\n\u2022 Enjoy the thrill of interrogation as you elaborate specifics of your great escape to a lieutenant who seeks to scrutinize Jesse's every word in an intricate report.\n\u2022 Decipher a plethora of satirical culture, gaming and movie references. You'll laugh, you'll cry and you'll fall in love with them.\n\u2022 Collect an arsenal of classic gear, things that go \"pew-pew\", maybe a thing or two that goes \"BOOM!\", and some things that go \"BOING!\", and definitely a thing that goes \"SCRATCH\".\n\u2022 Does this smell like chloroform to you?",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 560988160
     },
     "70010000039997": {
         "id": "0100BE60149F2000",
@@ -23905,6 +24315,55 @@
             "en"
         ],
         "size": 104857600
+    },
+    "70010000040588": {
+        "id": "0100FF6014BEE000",
+        "rightsId": null,
+        "name": "UNSIGHTED",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70010000040588,
+        "category": [
+            "Action",
+            "Adventure",
+            "RPG",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Conte\u00fado Sexual",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Humble Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/92df10090c104725efe383dae45368a525867583004b4cad98004850c37db0a6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cbc0f0c38ac3da053041f2286f7530a2284443f7e38f48c9f9448d5efa3ec719.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d5b0d7cdc9e65ce369f49e9f67faae12ad265e6aaa4b9697a3b5ef71ac1f881a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/454d495f97e2240a8bbccde8d079b5f4185ba0ebadd2a40ad31b754576b72d52.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7865bfcf526fffea7342256677c1a7ee912732f52aa7b59dac16ce64e9ffe91.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06153612b1035265f0ba2cfe7b2f30f7222ac1c5164709312502d6dbe08ed7a9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/def35a4d9c62f2892d33153205e9c945a357df4ed702af905c93abc56a5154f6.jpg",
+        "intro": null,
+        "description": "After a long war with the humans, the few androids that remain in Arcadia are running out of Anima, the energy that gives all robots consciousness.\n\nIt's up to you, Alma, to find a way to recover your memories and save your friends from becoming UNSIGHTED. Explore the vast ruins of Arcadia, using every tool you can find. Time is ticking. They need you, Alma.\n\n- Explore the interconnected paths of Arcadia, finding its shortcuts and secrets.\n- Time is always ticking, don't let your (and anyone else's) Anima run out.\n- Solve puzzles and gather new abilities and tools to get past obstacles.\n- Many different weapons, from melee to ranged, to suit your play style.\n- Need more stamina? Upgrade yourself with a wide variety of chips.\n- Highly replayable and non-linear, try to find the fastest route to your objectives.\n- Cooperative gameplay available.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "ko",
+            "zh"
+        ],
+        "size": 2639265792
     },
     "70010000040596": {
         "id": "010003A014D3A000",
@@ -26616,6 +27075,53 @@
         ],
         "size": 82837504
     },
+    "70010000041231": {
+        "id": "01001C6014772000",
+        "rightsId": null,
+        "name": "Steel Assault",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210928,
+        "nsuId": 70010000041231,
+        "category": [
+            "Platformer",
+            "Arcade",
+            "Action"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia Fantasiosa"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Tribute Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1f7a917e66af0a917242dc32643b3689582db52184d96be8fcdc101cb59f40f6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/aa885fefc9dd11806cb18177061d638d8bc6d87f914a1162bc801968b4a7e9db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1103fd4034bd7e240644b49de08bd9a8607e609f69bc8f9c4abecd9aa0b722cf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1ed19c6719ccbb03f258a4902c6c9b3ccfeaea54f93969f8bdcc2cd31e5657a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/64374b17637c4ae720e86504b578a9fa4a68de2eb609970b9c35493ddd70c7f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04ef0d9a35d2b5d4af511cfef8ddf0f2fbbb1850f63fad9f5a73c9dd5c0232bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a909e6088c20a21b975523e52b88d00fb8ca2168d2c5b5807b71855ec0fdc2d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7d29e88b63b5d970e06da08830a35f24911a648fda87bfe93f836bf1c0d42ec2.jpg",
+        "intro": "Punch, whip, and zipline your way through a post-apocalyptic America in this retro-style action platformer! ",
+        "description": "Play as Taro Takahashi, a resistance soldier on a revenge mission against the dictator who lords over the ashes.  \n\n- Fast-paced 2D platforming: Dynamic, fluid sidescrolling combat with a stylish moveset and tons of enemies / bosses to fight  \n\n- 16-bit post-apoc style: A beautifully fleshed-out sci-fi world, rendered in detailed pixel art and backed by fiery FM-synthesized tunes\n\n- Unique zipline action: A new twist on classic grappling-hook mechanics, opening up fun movement possibilities\n\n- Classic gaming experience: Beautifully hand-crafted stage-based action with optimal screen resolution for CRT gaming",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "zh"
+        ],
+        "size": 292552704
+    },
     "70010000041236": {
         "id": "01005CE015080000",
         "rightsId": null,
@@ -27382,9 +27888,9 @@
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e847ead5f169368daad5d308d47a1fcf1c98889afdbdcce20a1f290c9d5784af.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/c9197676286b2ab93189effd7dd48327433324179b8738b222d2836d1e31430f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7a08d5410ec99c780787301882a93ac968ee7f8baf4fee523af39ba8c0cee453.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/e6332b8b3da1eda26cbb88a10128d0d8f2a3e1313cb14aed218dccb730d9d244.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/15335aaf251401ba317930b29049fa5c06a5f44c8b64430c0be63e54dec63a39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4328f2a1a31db29ff05814888ab5f0d0e38f37ec48165b313971ff4e59d87913.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b1aed5749406f1eef402761624e22b19fe7a9cb5e2e72537b41c014286f2137.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a38fc462fae462741716979e0a190dd31343b3751b452a7a10494a7bd16c4dc.jpg",
             "https://img-eshop.cdn.nintendo.net/i/6174d385702b80a3e74a0193f0b9ded078a219216dd052b061fe919b84fc5966.jpg",
             "https://img-eshop.cdn.nintendo.net/i/c125d90ffcf9923f37426ee2799341704c9c2aa1eee958892eb1de705892aa89.jpg"
         ],
@@ -27608,7 +28114,7 @@
             "de",
             "ru"
         ],
-        "size": 572522496
+        "size": 577765376
     },
     "70010000041552": {
         "id": "01006F3015228000",
@@ -27729,6 +28235,48 @@
             "en"
         ],
         "size": 76546048
+    },
+    "70010000041581": {
+        "id": "01007BB015210000",
+        "rightsId": null,
+        "name": "SGC - Short Games Collection #1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211001,
+        "nsuId": 70010000041581,
+        "category": [
+            "Adventure",
+            "Arcade",
+            "Multiplayer",
+            "Action"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Conte\u00fado Sexual",
+            "Nudez"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Nerd Monkeys",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/555f40d2f2a01ce4ebe8533304d12f1ccbb6004df5cd06693888134f712b0168.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c09c117f14e458e37fefd7221c457c2b4480e5f92a48897381200787072e8729.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c79ba47ad81a412806d6104116c394e843ca32042b36a9ec1fb176d9d89cc5d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9a101461d168f92e19c20366395c52b81c6443ea850fa6d1a21d934e1c490a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6661ff6410da060a993d1b9ab2cefdc6c6189296c374c88a8754ed239f5a4208.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/334eb1b6a7dffbb4723e1c5932e140f22c611bcd847793f1a2061de54c3945ea.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6746428aae77ba893ec7399cdfc02461fcef580ac2b3677320aeb7142a64ddd6.jpg",
+        "intro": "A curated selection of unique short videogame experiences, wrapped in an immersive dynamic menu. These gems are sure to fulfill every gamer's appetite for new, bite-sized experiences.",
+        "description": "Time is running short but you still want to play meaningful games that leave you with a sense of accomplishment. Well, look no further! The SGC - Short Games Collection has gathered five amazing gaming experiences that you can play through from start to finish and still have time to enjoy other fine things in life. \n\nEncased in a beautiful 3D menu environment created originally for the SGC you will find: The Good Time Garden; Swallow the Sea; A Game Literally About Doing Your Taxes; Ghostein; and Uranus.\nThese acclaimed gems are available on Nintendo Switch\u2122 for the very first time.\nExperience the most psychedelic and thought provoking games anytime and anywhere.",
+        "languages": [
+            "en"
+        ],
+        "size": 2573205504
     },
     "70010000041584": {
         "id": "0100341015246000",
@@ -28230,7 +28778,7 @@
         "languages": [
             "en"
         ],
-        "size": 1103101952
+        "size": 1102053376
     },
     "70010000041784": {
         "id": "01006700152AE000",
@@ -30556,7 +31104,7 @@
             "zh",
             "zh"
         ],
-        "size": 1050673152
+        "size": 1372585984
     },
     "70010000042449": {
         "id": "010042B015582000",
@@ -31728,6 +32276,45 @@
         ],
         "size": 70254592
     },
+    "70010000042921": {
+        "id": "01007330142E0000",
+        "rightsId": null,
+        "name": "Antonball Deluxe",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210928,
+        "nsuId": 70010000042921,
+        "category": [
+            "Platformer",
+            "Arcade",
+            "Multiplayer",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Proponent Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4ed5573d0e933d9d0dc9c1fd01ddc243b3fe573ecef7a7194d1161cd962368c7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/23dbc06baa9b27254f49ce282949103e433d74c7c4a447f5f00e73c3d4d06aeb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1a573ece917bb31de12e5b22709f13023cd329a4db5dd13d43b0bde871af50c4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ebfce55ef88e3ba70ad405866655a5ab029908a9d58d0d79283d361a7a2c952.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a03b2e8c5019528e0b3e0047ae10af63f38235afb1585cf7da83ae6de11dd55d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c4ff09cab5be1b01209024add1fd879bfd892881beeb6f5cda7c0e7003131f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d8e5da60520a6c974d3879037c94965c2ca15551d1cea3f7593b2f01b914fa77.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/efa726d146dc5dd5c0665a08f1e24e7630603ec7a15af42fa7df3d8e980a2033.jpg",
+        "intro": "Get ready to Antonball... wherever you are!",
+        "description": "The breakout title from Summitsphere, Antonball Deluxe is a retro, high-octane smorgasbord of brickbreaking arcade action! Starring a little red man named Anton - Boiler City\u2019s top exterminator - Antonball Deluxe quite literally turns the breakout genre on its head, blending traditional brick-breaking gameplay with tight, intense platforming.\n\nNo slouch on content, Antonball Deluxe truly lives up to its name in including three separate games:\n\nANTONBALL is an enhanced low-definition remake of Summitsphere\u2019s legendary game jam title! After a long night on the town, Anton, Boiler City's resident exterminator and overconsumer of fizzy libation, is struggling to find his way back home from Brulo's Casino. Using his trusty Antonball, Anton decides to take the most direct path home after an unfortunate trip into the sewers: breaking straight through every single wall between the sewers and the city he calls home in 30 stages of brick-smashing fun!\n\nPUNCHBALL is the tale of Anton's building-mate Annie, and her indefatigable need to be the absolute best. When Annie discovers the Punchball Tourney being held at Brulo's Casino, with the grand prize being a lifetime supply of Ballble Tea, she sets out to win first place! You'll need to help her defeat all of the trickster beasts that have volunteered to take part in Brulo's wild game. Use the Punchball to slam enemies, then kick 'em off the stage! Do you have what it takes to be the Punchball Champion?\n\nVS. ANTONBALL is Antonball but competitive! Each team has their own brick wall and aims to break the other team's wall first. Defeat the other team by destroying their wall! Play 1v1, 2v2, or even 2v1 (if you're into that)! Many power-ups are in play, with some twists and turns depending on which arena you're having your ball-based blitz in! You can even pick some up and throw them!\n\nIncludes the \"BETTER THAN NOTHING\" and \"FIXED GOLD EVIL BABY PAUL (SHINY)\" DLC!",
+        "languages": [
+            "en"
+        ],
+        "size": 104857600
+    },
     "70010000042924": {
         "id": "010093801237C000",
         "rightsId": null,
@@ -31922,6 +32509,57 @@
             "nl"
         ],
         "size": 0
+    },
+    "70010000042969": {
+        "id": "01008950156C4000",
+        "rightsId": null,
+        "name": "Survival Z",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211001,
+        "nsuId": 70010000042969,
+        "category": [
+            "Action",
+            "Arcade",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "Ember Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c825cf4d71dc6a18cf91c8e0be83035984b750d0737c2047e8171a58007dc331.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/03801a215a2ff1378aeee820ef7dc82a5ff43aca137bbe5b1f93d183d24d2217.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/795b1b6e8791fed8999fa51a4f89bc6c065ab037abf7724213ebd4eb6d83a979.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee0bb02ba89eae11b646ae6839f96ca987d1e69bb213d0c9327da816f09eba9d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87304927111f7430b0fa1264c75e88d18e1cd9673c609256761b9b55ff8e2333.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/556bf615d5f719f3c8a51c154a1fc6b69da439ad4c71c1639ccc0ca1a3dff196.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62bfd50ac19db15fe87541955e311476275728fc23ddfbe7b0a6ef5df8ea5532.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/79e2ecb83b18a4ef874f1a63be91b3be82d2863acb5de12d9dbb749b540ab0f7.jpg",
+        "intro": null,
+        "description": "After the event, humanity lies on the brink while zombies dominate the landscape! You are a survivor. Armed with your wits and bravado, you are determined to save all who remain.\n\nYour goal is clear: find survivors and seek out a way to exterminate the undead menace. Choose your way along randomly generated routes to build and battle your way through environments crawling with zombies.\n\nFeatures:\n\u2022 Blast your way through a wide range of zombie types.\n\u2022 Place traps and obstacles to increase your chances of survival.\n\u2022 Collect and upgrade equipment to power up your character.\n\u2022 Ever-changing routes create endless replayability. No two runs are the same!\n\u2022 Bring other survivors into the fold and fight alongside them.\n\u2022 Unique story events that with extra rewards...for those who can survive them.\n\u2022 Over 15 playable characters, 50 unique levels, and infinite possibilities for fun!",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "pt",
+            "es",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 702545920
     },
     "70010000042987": {
         "id": "0100F9101573E000",
@@ -32484,6 +33122,53 @@
             "zh"
         ],
         "size": 104857600
+    },
+    "70010000043149": {
+        "id": "01006A0015812000",
+        "rightsId": null,
+        "name": "Death's Gambit: Afterlife",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70010000043149,
+        "category": [
+            "Action",
+            "RPG",
+            "Platformer",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Drogas L\u00edcitas"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "Serenity Forge",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5fef9e4f17d488d754c5c6f8940576d75244ebbf9b5e47449b738735db156917.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4f6a2e203e466a9def1a8471771505c72da69fea7b910f9d3c1dbaf1bc2e0e74.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e096b084a332a3ba97bc4769a778d097804130d41370f0657e142467ecc74aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5cdcbf10031cf916f911b3f2e3353d3d82f048bee61ac4ee22e804e22edec3f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/260159a04c19fc13d93eca69bbba1d6f02fbaf8e65f52460784d0e35d9dc52f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd986953b016775488434d858af327a88d726cbbe14e185d786c9f5bbe7eb6d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35c4990b00cdbe4674da2a51c392b0c847c100824eac5b2390a01fe4073524fb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/449eb0001782663e9a75ce80e415b8b2377969eb6280cd480a43889d3febf08f.jpg",
+        "intro": "A contract binds you to Death who seeks to eradicate immortality. Will you do his bidding and restore the natural order, or succumb to its power in this hardcore 2D action RPG?",
+        "description": "The promise of immortality lies at the heart of Siradon. As Death's right hand, challenge the undying guardians of the realm and endure the eternal struggle to purge their souls. \n \nDeath's Gambit: Afterlife is the new and expanded edition of the original hardcore 2D RPG action platformer. Master the precise combat, utilizing a wide variety of weapons and abilities to confront the horrors that lurk within Siradon. Explore a mysterious and unforgiving world and uncover the true price of immortality.\n \nAfterlife offers players a wealth of new content to experience on top of the original game, including 10 new levels, over 30 weapons, 5 new bosses, mechanical overhauls, and more. Your choices will affect the epic finale to Sorun\u2019s tale.\n \nKey Features:\n\u2022 Expansive World \u2013 Travel across a massive world of over 20 beautifully rendered levels. Meet quirky characters from all walks of life and uncover their secrets.\n\u2022 Metroidvania \u2013 Unlock unique movement and combat upgrades that open and expand the world.\n\u2022 Character Classes \u2013 Choose from 7 playable classes, pick from over 100 talents in the skill tree, and multi-class to tailor the combat style to your preference.\n\u2022 Incredible Bosses \u2013 Hunt 20 towering monsters and other creatures of legend. Each boss is a test of skill, requiring unique strategies to defeat.\n\u2022 Heroic Mode \u2013 Defeated bosses experience a second wind in an exponentially harder heroic mode accessible immediately after defeating them. Give yourself an all new challenge and master their new abilities.\n\u2022 Non-Linear Exploration \u2013 Explore levels and bosses in a non-linear order, discover side areas with more secrets to unravel and enemies to purge. \n\u2022 Character Customization \u2013 Outfit your character with over 30 weapons including bows, scythes, longswords, halberds and more. Customize how you wield them with a plethora of abilities and upgrades.\n\u2022 Alternate Endings \u2013 Determine Sorun\u2019s fate as you progress through the story by achieving certain goals and making key decisions along the way.\n\u2022 Crafting \u2013 Scavenge, hunt and dismantle items you find throughout the world to create new and useful equipment for your struggle through Siradon.\n\u2022 Evocative Score \u2013 Experience an intricately crafted score that sets the tone for Death's Gambit: Afterlife\u2019s world with nearly 3 hours of evocative music composed by Kyle Hnedak.\n\u2022 New Game Plus \u2013 Complete Afterlife to unlock New Game+ in brackets of three that allow you to set your own difficulty. Endure Sorun\u2019s journey all over again with new enemy variants and modifiers unique to New Game+.",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 986710016
     },
     "70010000043217": {
         "id": "0100A2A01586C000",
@@ -33532,6 +34217,49 @@
         ],
         "size": 319815680
     },
+    "70010000043495": {
+        "id": "0100AC6015996000",
+        "rightsId": null,
+        "name": "Fight of Animals: Arena",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211014,
+        "nsuId": 70010000043495,
+        "category": [
+            "Party",
+            "Fighting"
+        ],
+        "ratingContent": [
+            "Compras on-line"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 0,
+        "developer": null,
+        "publisher": "JUSTDAN",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f3c970fc84e29643ba668b60cb78bb9ab4a77ed05f11fe9f9785dac60b092e83.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/871e3184d2c0366aa3a44027c0f19ac69ee3523b2a8c5958c2fa3c6956527e22.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1435f9f2d8870d47e7a6f6649a61e8f573c5fa23b62b1f672ae66c6f099b3144.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bdad104068558ff0e7c88964f649b547b84833e3c3ce09393f9c721d2f821b8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de18dd565e83b6fba6fc6d82129f93f98826ce6b43c8b273eabca2c5d4822088.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d97e4141044738c984567a1483d4f5767d75a8637bb0141a030d1a0756df4e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c88b430de7f56cd762626661558099ef016ac4926e0806d2ea9cf9cd0a032cb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b3355a517fd83177b3ce4155554ad85d7da742c191aa6668e7048adca04835ee.jpg",
+        "intro": "Fight of Animals: Arena is a fighting party game with meme animals! \nThe game supports up to 4 players offline or multiplayer!",
+        "description": "Players take on the role of cute meme animals, and defeat all other animals through intense fighting.\n6 different stages and 2 game modes are provided to players to choose from. \nPlayers can enjoy funny and decisive battles through the single-player or multiplayer mode!\n\nMeme animals strike again!\nIn Fight of Animals: Arena, all 12 characters from Fight of Animals are provided for selection.\nWhat sparks will arise from their battles!? You decide!\n\nSimple controls!\nOther than directional buttons, all combos and skills can be performed by 4 buttons. \n\"Double jump\" and \"Dash\" features have been added to make the battle more exciting!\n\nWe've got items and weapons!\nDepending on the stage, 9 different items will be dropped randomly. \nIn Nintendo Switch\u2122 version, unique items such as pineapple, xiao long bao, and harisen have been added!\nA variety of items, can be used to smack, throw, and eat!?\n\nWatch out for traps!\nPlayers can choose from 6 different themed stages, each with 10 variations of environment and traps. \nEnvironments include swamps that slow you down, icebergs that make you slide around, or even bushes you can hide in to sneak on your opponents! \nUse the environment to your advantage and grasp the key to victory!\n\nBecome the King of Animals\nDefeat all other strong \"animals\" to obtain the honorable title: The King of Animals!",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 972029952
+    },
     "70010000043504": {
         "id": "01002DF01599E000",
         "rightsId": null,
@@ -33860,6 +34588,47 @@
             "en"
         ],
         "size": 70254592
+    },
+    "70010000043669": {
+        "id": "01005BD015A3C000",
+        "rightsId": null,
+        "name": "Kirakira stars idol project Memories",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210923,
+        "nsuId": 70010000043669,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Conte\u00fado Sexual",
+            "Drogas L\u00edcitas"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "Edia",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/875262c6fb0b05573c181b164a51726898022f998b9ccca433c2315a4b6f5ae3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/39136e90f363338e5f984a129cf6670e53c0f58e13773885f77fe99c76df4c3c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb5c33cbc81b559c07c465ce1f28c5b1277043a86c285d8a5bdce8f2cf7681bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e537940409657f1154a5bc362da71e5a4a7033ec45367d8dd9083f29f6af15d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a89d810b354c6145e5bc1c2c50e6fda3c83902cd51c35a5650aa874909ee084.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d3223240bb2fc957e7a3e7f833a9e19cbe41be56c88666b5816272d79653a6f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a9179f61c322f5a4b7c618fba5881922883a6c816c6d0b22270e608f54e18e86.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1813faee1a4e6f0fe6a16115e006544342fb27b33053558dc1608a97dff1a3d8.jpg",
+        "intro": "The three \"Kirakira stars\" games are now available in one package!",
+        "description": "The three titles of the \"Kirakira stars\" series can be enjoyed in this one package.\n\nNobuyuki Kinoshita, a fledgling idol producer, and his childhood friend Ai Amane, Nagisa Yukishiro, a top idol, and Reika Aiba, a senior idol.\nThis is the story of the growth of producers and idols in ODA Production, a weak entertainment company!\n\n-Contents-\nKirakira stars idol project Ai\nKirakira stars idol project Nagisa\nKirakira stars idol project Reika",
+        "languages": [
+            "ja",
+            "en",
+            "zh"
+        ],
+        "size": 3473932288
     },
     "70010000043674": {
         "id": "01008180157AC000",
@@ -34661,6 +35430,42 @@
         ],
         "size": 249561088
     },
+    "70010000044091": {
+        "id": "010040A015C04000",
+        "rightsId": null,
+        "name": "Crypto Is Dead",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210916,
+        "nsuId": 70010000044091,
+        "category": [
+            "Simulation",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "The Moon Pirates",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1ce90a113ee63fe9de2b54abb97a3b251c50b2c8eaeee79e593f6132589dfd7b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1d48a5e72827cde0aa85cdfc153584d712b4beb4d45d3bd0e7b68e93efc52ba4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc376f4eff739b6e6349e283e19a2f59aadb8ff62df295adb5d68614e7bf8c20.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b90f5c79d04c74c284e860af5790dafdf50106a8b14dcf9afcb691a075917e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/86e5e0be305117367c852dbfb5352a563996fd38d7fba093eeb0357932179b64.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/243557388107adf9c3c1b8a4186e133c2fff381daa44579f9ae335e3f997934b.jpg",
+        "intro": null,
+        "description": "This morning, on the newspaper :\n\n\"Crypto Is Dead\", this is what you can read everywhere on social networks and in the street. A 51% attack against the global cryptocurrency succeeded yesterday, paralyzing the entire global economy.\nTo remedy the problem and give itself time to get the system back on track, the Central Bank has decided to put the old physical currency back into circulation.\nIn order to do this, it is asking the banks to equip themselves and to find people qualified in banknote verification.\n\nThe World Bank estimates that the situation will remain in this state for a month.\n\nWe will follow this situation closely to keep our loyal readers informed.\"\n\nArticle by Ranf Bardern\n\nFinally, the opportunity you've been waiting for has come to you. You, notaphilist since your youngest age, will finally be able to make a living out of your passion and who knows, maybe even get rich?\n\nArmed with your encyclopedia on old bill, you set up your new business, acquire your bill sending machine and open your bank, the day after this news.\n\nFor the next month, you'll have to help the financial system get back on its feet by checking whether the bills deposited in your bank are real bills... or fake ones.\n\nYou will start with only your encyclopedia and your knowledge. Get a bill, find the error, send your expertise to the central bank, gain reputation, get more customers, buy material from the dozen machines available to follow the demand and start again.\nAll this, during only 30 days... Eh, simple, no?\n\nMaybe cryptocurrency is dead, but you are alive and well and ready to work.",
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "size": 103809024
+    },
     "70010000044136": {
         "id": "0100A55014E2C000",
         "rightsId": null,
@@ -34888,6 +35693,53 @@
             "en"
         ],
         "size": 464519168
+    },
+    "70010000044318": {
+        "id": "0100DB8010DBE000",
+        "rightsId": null,
+        "name": "Gearshifters",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70010000044318,
+        "category": [
+            "Action",
+            "Arcade",
+            "Racing",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Numskull Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cdeee113718079bc154168d8018ae70b7b4b6f8d120db34e3c30dc38e35976db.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/08241bcb45913177556d7c6ce04fb72d1514d028754956b2325d971513f7ecb7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f1e72cf40de54e3820fd980c9b01d29916a3b2424b4cf24f97f9b5d8a8da8d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35651efcf4d0f04f5aaa511c9ca831c03ad36fdd929ebef42c88824d288609d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9793dcf8f6eaa62f9677ae8e411a7e9089497ae41d9bf04b6990f6e81290dbdc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a730bf0e5874ff3ce4ad2d071fe758a1adc85414ecdefc277ef27d075dca24d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84158ee4ed7fd517bbc1aa72dfe16685f92db10ac9ee0d05b167ca3acaa2e423.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/09da7d4c866745af78eb980d7504b7c70a66e4c63bc5029bc23e098474cf77b5.jpg",
+        "intro": "Drive. Destroy. Get paid. Upgrade!",
+        "description": "An arcade-action shoot-\u2018em-up rogue-lite. Steer, drift, spin, smash and gun through waves of enemy vehicles. Go to war against extreme-machine bosses. Build up and tune your tactical loadout of car mods, defences and weaponry for each treacherous transport mission. Drive. Destroy. Get Paid. Upgrade!\n\nDRIVE and DESTROY. Employ precision control and expert driving skills to race rings around foes, dodge incoming projectiles, and unleash intense attacks. High-octane action at every turn, slide, and spin.\n\nMEGA-VEHICLE BOSS BATTLES. Defeat the lawless factions that dominate dystopian future Europe, and take down their insane, heavily armoured boss machines.\n\nGET PAID and UPGRADE! Tackle dangerous delivery missions to ensure the safe arrival of precious cargo. Get paid, and modify your car with offensive, defensive, cosmetic, and performance-based customisations. \n\nEXPLOSIVE DELIVERY. Expand your territory across the post-apocalyptic continent. Only the most skilled Gearshifter can take on the most perilous routes and reach the mysterious Citadel.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 419430400
     },
     "70010000044410": {
         "id": "010062B015D28000",
@@ -35163,6 +36015,45 @@
         ],
         "size": 156237824
     },
+    "70010000044667": {
+        "id": "010018E0159BA000",
+        "rightsId": null,
+        "name": "Cube Samurai: Run Squared",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210922,
+        "nsuId": 70010000044667,
+        "category": [
+            "Arcade",
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Red Meat Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3896fa17ed3002e5fd546f2ff14edf2d05beb43774a4041f970d82e84dc9734b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a7ca1ccaf02d7943be9807b4e0a2db75b830628eec635e354b05103347171abf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c78b302d4e5f002cc2d1224bd75e7c7686e52bae2b4c0b5b1b8b1358a5a46713.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/238d6a7236664e4de8a7b135a37a94e13f1c4bb482272fe75b7425963d6fc85c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a1454e005b986ad282812ceeb1efd31122a0446a7b2ef7ecc3fc9f9c603bfe5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/750e6d605bd63ce9876b97500ae0cfeaddf437e425b4c884f4868204d3eed263.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d149c09a218fafd88256022d104a5f94b093d5dde3b146362530ecb71cfb6dc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/42832e4add9f882aed4c86f27ae43c25b200e37f0a2206718c0d01b3f827fc7f.jpg",
+        "intro": "Defeat epic bosses in this endless runner.",
+        "description": "The Cube Samurai is back in an all new endless runner! Eliminate the Conetrooper threat once and for all. Run, Jump, Slash and Slam your way across distant planets to become the hero our universe needs.\nA great game for kids, but don't worry, the whole family can get in on the action with this fun running game.",
+        "languages": [
+            "en"
+        ],
+        "size": 91226112
+    },
     "70010000044707": {
         "id": "010062E015ED6000",
         "rightsId": null,
@@ -35290,7 +36181,52 @@
             "zh",
             "zh"
         ],
-        "size": 980418560
+        "size": 1245708288
+    },
+    "70010000044750": {
+        "id": "01006DF015F00000",
+        "rightsId": null,
+        "name": "Don't Forget Me",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210916,
+        "nsuId": 70010000044750,
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "The Moon Pirates",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4dce161b686b072951a00fa4addf9188cbfd1ce5d00948606c0e55fe7f65f601.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/953e451f80bb2037d3db702c9c1012ec1c260d1630d5e4ffc7b330a1138bf1d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/264986d92717e77797063e28c2e4ff5962819777596fc5ee5d59d9a39177d0fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3fa8a2a77741cb83c6a6d4f8b818d4921044fcd1dd19e3233fea784cbf80e9a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae558c1cd9c8b08c0cba07a86c1cbe5f193ba2699fe3ba8ec9d7fc3885384723.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d5f41db1b70a5d4a136e6a983b3982d938dfaa84b17e5dca6f3363fea4f51ce3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5de21cef5b7ed03c2daf1437a8c91fe4b178cfa01e399ecceba5ebdc634bd5ee.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cc2a3ca6d9e88203b159d03cd406a6064d9216570a89131c4dbe0b9007e95c9c.jpg",
+        "intro": "Dive into the memories of your patients, use your own observations to unwrap their minds and uncover a dark conspiracy set to claim dominion over humanity.",
+        "description": "Where are you? *Who* are you? As amnesiac Fran, you awake from a mind-consuming reverie on the doorstep of one of the world\u2019s foremost experts in memory manipulation. Taken in by the kindly Bernard, you begin your life anew, diving into the minds of patients to uncover and copy their memories.. But it\u2019s not long before the secrets you left behind catch up with you...and the fate of the world comes knocking at your door.\n\nInspired by games like Her Story and The Red Strings Club, Don\u2019t Forget Me combines classic adventure gameplay with a modern puzzle system. Enter the minds of patients and use deduction to access their memories and progress your story.\n\nMnemonic Detective:\nBecome the detective through an intricate puzzle system designed to test your observation and deduction skills. Each new patient requires you to consult your own knowledge of their interests and history and assign keywords to explore their memories and reveal their secrets.\n\nRemembrance of the future:\nSet in a world both startlingly different and strangely familiar to our own, Don\u2019t Forget Me\u2019s enchanting characters draw you into a universe with a deep history and exciting future. Join Fran and Bernard as they pick apart this world\u2019s mysteries and prove there is hope left for mankind.\n\nRetro-futurism:\nWith a spellbinding soundtrack of original jazz and synthwave music alongside gorgeous pixel art and charming characters, Don\u2019t Forget Me immerses the player in a unique vision of the future, a future whose path you can still change.\n\nFeatures:\n\n    A unique vision of the future set to an original jazz and synthwave score.\n    Unique text based puzzle system, where observation and empathy are as important as logic and reason.\n    Decision based gameplay that will test the limits of your morality.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "ru"
+        ],
+        "size": 622854144
     },
     "70010000044767": {
         "id": "0100FE1015F16000",
@@ -35507,6 +36443,55 @@
         ],
         "size": 1747976192
     },
+    "70010000044852": {
+        "id": "0100FEF015F74000",
+        "rightsId": null,
+        "name": "Jigsaw Masterpieces EX - Kawaii Cute Goddesses -",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210916,
+        "nsuId": 70010000044852,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Practical",
+            "Lifestyle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "BottleCube",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a6ab43bb0805fe83132d9b4941198f545126ad69ddfd5dd2a7c7fbd2c999a8f2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/26c7ed21fec1de6c6f7734fa805f2bc7adb465732a7eb2d6d6299883a1cf5843.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/738aa0ea6abc1bd01a991a7b72716e16b11dea1ae6acdb5a6dba9005e8d82ced.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a25016b8f9c38be3f406bb1276dcbbfd61845bf57b11d6143c70aa48c5c6e6f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70e6c1a096a5d078ad8ad2db5092b0e7aa58f066fe55a0f3e8b31bd39f13fef1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/82daf0bc1c9fbf49640b5d9da66820476f6c0f23d2f3d33829e04a6c73fd79a4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca573376018274e169578624f944cc31dd4955e6af3fcd1a998f3975135a5007.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/043292317e98363e9203e66f7066bd836c7af1c1ef1000b363dd4eebb9303ff8.jpg",
+        "intro": "This is a jigsaw puzzle game with only cute girls based on mythical goddesses.",
+        "description": "\"Jigsaw Masterpieces\" series is a digital jigsaw puzzle game that is easy for anyone to play. Many convenient functions for completing the puzzle, such as the function to separate edge and inner pieces and the auto save function for playing lighthearted at any time.\n\"Jigsaw Masterpieces EX - Kawaii Cute Goddesses -\" contains a total of 120 images of 24 cute girls based on mythical goddesses.\nEach puzzle has three different numbers of pieces, so you can have a lot of fun. There are 70 pieces for everyone, 260 pieces for a bit of challenge, and 400 pieces for the professional level. Which game level do you want to play first?\n\nIf it is a digital jigsaw puzzle...\nYou don't have to worry about losing the pieces.\nYou don't have to need prepare a large space to suspend the puzzle.\n\nLet's have fun playing the jigsaw puzzle with \"Jigsaw Masterpieces\"!\n\nFeatures:\n-Easy-to-play traditional jigsaw puzzle\n-Selection of ten background colors\n-For each jigsaw puzzle, 3 difficulty levels can be set\n-Separate edge and inner pieces\n-Ability to snap individual pieces together\n-Auto save\n-A gallery mode that allows you to slowly view the pictures you have completed",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 232783872
+    },
     "70010000044860": {
         "id": "0100944015F78000",
         "rightsId": null,
@@ -35547,6 +36532,48 @@
             "de"
         ],
         "size": 224395264
+    },
+    "70010000044869": {
+        "id": "0100425015F7E000",
+        "rightsId": null,
+        "name": "Sakura Swim Club",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210923,
+        "nsuId": 70010000044869,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Conte\u00fado Sexual",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "Gamuzumi",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ed3283570cc7b286553bc9339cd9b50ef9041bef434025252fd816fb68ccba60.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e3a741c806e4fd8bc8f2d22473f94bc0faa8bf4eedc786ec90f3f16f0f46515e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3940d3aa9d34325c94b69674869f1f3171236e50002fc70585d3a3b6877c68d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd8d2da71b8f7e4013e9247bd435eb83dc13962d4977eed64ec45fefb2d97f87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2826d86eeec2f447d058335224ba1e3d9e8f36ac1404d87d334a0a42d596a38a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f8dbd1e20a6347f0db1ed7a4f5f458949f18a8cd809783a76e42e7a81bde3ceb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51a7d4aebe0a9e3d396952ae324a144706a913adfdadeee6633d15b666a2a59a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2f6bd58b13bff0e2b6f063d53fce92407ebb7d86cecd316f5f2d8297d9cd3976.jpg",
+        "intro": "Spend some extra-curricular time with cute girls who look great in the pool!",
+        "description": "In Sakura Swim Club, follow the story of Kaede, just your average guy. Upon transferring to a new university, he meets two beautiful girls in the swim club. Things haven't gone well for the swim club lately, but with Kaede's help, that all changes.\n\nMake a splash as the new hero to the swim club, meet beautiful girls in bathing suits, and make decisions which impact the story. \n\nSoon you\u2019ll be meeting together outside of practice to share some extra time together, and seeing where it leads!\n\nFeatures \n* Visual novel\n* Multiple story paths\n* Beautiful manga art\n* Gorgeous, athletic girls to romance",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "de"
+        ],
+        "size": 255852544
     },
     "70010000044951": {
         "id": null,
@@ -35629,7 +36656,7 @@
         "languages": [
             "en"
         ],
-        "size": 402653184
+        "size": 606076928
     },
     "70010000045010": {
         "id": "0100807015FF4000",
@@ -35916,6 +36943,129 @@
         ],
         "size": 100663296
     },
+    "70010000045346": {
+        "id": "0100098016148000",
+        "rightsId": null,
+        "name": "Monster Truck Arena",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70010000045346,
+        "category": [
+            "Simulation",
+            "Racing",
+            "Action",
+            "Sports"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Pixelmob",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/df3b2f9ed67f1d7199b8850df731d072a603c9b7ca29109ab39e860424847b20.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d701d07f13c5410d30602a9df768da2c63935d3e561fd02c39c15b71eb473334.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a92a49b6ac8975fa0746ccbedc936ef0c0cd8eadeb53a37fbcad5118c2985fa5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4a69b8e5aadad08b6c3b61d1553d75b0eb3e907132a19a32e0eb408463012ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8ac636ad53f8bf75f1505b308e207ed0effb9760735fd47eece44ceede0261a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1844872be98e0f46a13c90aef2c62fe4a0b6939c2379460cb5a9f7b541e9d34a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df047b3a4008598a2c000c5884c88e9398a04bed0515709ebea5ab99544b783c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e5cd2cd7d12c741e415d9ba59207f697e8003da9dbc1cc884f8d0df8395e9f0e.jpg",
+        "intro": "Enter the Monster Truck Arena and drive the biggest, meanest, most exciting Monster Trucks & Cars!",
+        "description": "Use ramps as an excuse for amazing jumps, drive your Monster Truck across cars that look like toys compared to you, do loop-the-loops... Most importantly, do all of it with style. The game's controls are designed in a way that makes pulling off mind-blowing tricks easy and effortless. 50 different missions will not only test your driving skills, but allow you to show off your inventiveness and imagination.\n\nGAME FEATURES\n\u25b6 VARIED VEHICLES: Drive 10 Unique and Different Vehicles\n\u25b6 OBJECTIVES: Over 50 Driving Missions to Pass!\n\u25b6 ARENA: Each track is a challenge full of obstacles and opportunities.\n\u25b6 ALL FOR SHOW: Drive through flames, watch fireworks, feel like a part of an exciting event.\n\u25b6 CAMERAS: Multiple cameras including First Person view\n\nA SELECTION OF MONSTER TRUCKS, EACH ONE BIGGER THAN THE LAST\nThe game features 10 different variations of Monster Trucks. Select the biggest available Pickup, Van, Sports Car, Army Truck... there's even place for a Monster Truck version of a classic Fuel Truck and a School Bus. As long as it's larger than life and looks unbelievably cool - we have it!\n\nENTER THE VAST ARENA PACKED FULL OF CHEERING CROWD\nYour exploits are part of an event enjoyed by thousands of spectators. You're not supposed to drive safely here. Be as flashy as you possibly can and have fun. All of the game's 50 missions are set up in a way to not only challenge you, but give you a means of expressing yourself through breath-taking tricks.\n\nMASTER THE CONTROLS TO PULL OF AMAZING TRICKS\nControlling your Monster Truck doesn't stop while you're in the air. Manage your speed to do backflips and land on four wheels.",
+        "languages": [
+            "en"
+        ],
+        "size": 458227712
+    },
+    "70010000045348": {
+        "id": "0100DA801614A000",
+        "rightsId": null,
+        "name": "Work Trip",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210919,
+        "nsuId": 70010000045348,
+        "category": [
+            "Adventure",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/81f0d0baf69c8eb641e0da2a024d896436f7277bf0ca05be923dd0cba5e5669f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/478cb009e918135a12ef7816572ff3df2e2e783c47ffea6cf953e1d5078606fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d39ed7769790ceb125e6d213af9f740876bbcf0eed075eec46f867d06dbf0206.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa5759c800a8b1dc3a57e7826864808dea768a982d1fc55fb243c86565c57ddb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/986d1511dde650d43c6d2418718b10a96f5693d9e3529c868a9d1054165eaf23.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39dc54e3dcce8597871f03f2019dc385635a952670126970f5990d65bb3c9a6e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb0de69a21e581f40aaa1172602dd5e8a5be456b7eb0c8e89d422868d2561e67.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a512755bb4e11684bd3ee920504356fe65a03e3873a1c390c6872ea123baa04.jpg",
+        "intro": "Fun, relaxing, and easy low poly adventure through different zones with fun missions and secrets.",
+        "description": "You're on your way to work when suddenly a tree falls over your car and smashes it broke. Your goal is to find someone to help you with fixing the car and getting you back on the road. You will travel through beautiful zones designed to please your eye, in these zones, you'll find different NPC's who will help you progress through the main story of the game. The gameplay is easy, fun, and relaxing with an easing soundscape.\n\nThe game has a lot of sweet features to keep you busy! The main story with quests and different NPC's placed in few unique worlds littered with secrets & achievements. The game has been tested to remove and fix all game-breaking bugs to make your experience better.\nEnjoy your trip through the giant mystical forest and find out what it has to show! ",
+        "languages": [
+            "en"
+        ],
+        "size": 612368384
+    },
+    "70010000045449": {
+        "id": "0100B4C0161BE000",
+        "rightsId": null,
+        "name": "Creepy Tale 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211007,
+        "nsuId": 70010000045449,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Action",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "No Gravity Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5e62ccfd1780694960a1ff60993bd5c835b2d8d52e387863f4fa595759c2648d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3e173a52a3b793aa98622b5d54c7cdba47f978001b13d799772e038b75ba2843.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87eb4f3c606e129614a3abb85d0f58481cb39882841de3fc16c65d9e29464ed7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4797678369700e5ebd97b0a9ec402ee7bcb8817ca93fd6d4ae0e0ac719bec6ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08b13070bb4246f04f2163113044066421ae4d4c9ef626367363d9acfaea8509.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e5b21e88a6de18df9ba6cd99bc8d947a337b7bd56f1aaac3b18c93b6146dd1f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4764204a5258c6e2d5875e2d44e8eda330f5fcb13142280a3e077bbcb41434a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8606ddaa6198168e3cadea706ff5b3da51c559ce7ac1e6b4aad98df978d18321.jpg",
+        "intro": "Experience the creepy tension of a Brothers Grimm fairy tale in this puzzle adventure game. Follow the young and brave Lars as he embarks on a dangerous journey to save his sister!",
+        "description": "Once upon a time, young Lars left his father\u2019s cabin to rescue his little sister, spirited away by an evil power\u2026\nIt all started when the lean years came. An unknown force of evil began terrorizing a peaceful kingdom, kidnapping their children and the innocent inhabitants of the forest. What was once a peaceful kingdom where humans and fantastic creatures lived together in harmony became a land of gloom and fear.\n\nNo one was free from misfortune and tragedy in those times -- neither was Lars and his family. One day, two spooky guests visited his father\u2019s cabin. Lars\u2019s father was beaten to the brink of death, and his little sister Ellie fell under the visitors\u2019 mind control magic and left with them. Lars managed to escape, and thanks to the new magical friends he\u2019s making on his way, he\u2019s determined to bring his sister back to safety.\n\nCreepy Tale 2 is a spooky cartoon puzzle adventure inspired by ancient European fairy tales, a new entry in the Creepy Tale series. Help Lars through a spinning carousel of dark events as he travels around his land to find Ellie, his little sister, and other girls kidnapped by an unnamed evil. Fight your fears, gather new allies, and solve numerous puzzles that will lead you to the truth.\n\nFEATURES:\n\u25aa Solve clever puzzles to help Lars rescue his little sister\n\u25aa Enjoy narrative-focused, accessible gameplay suitable for newcomers and veterans alike\n\u25aa Explore a magical kingdom inspired by the legends of Central European oral tradition, once compiled by the Grimm Brothers, where magic creatures try to coexist peacefully with mankind \u2014 and sometimes, even protect them from evil forces.\n\u25aa Feel the gloomy essence of this creepy tale through its decadent cartoonish art style.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 713031680
+    },
     "70010000045547": {
         "id": "0100F8F015D3C000",
         "rightsId": null,
@@ -35957,6 +37107,47 @@
             "ru"
         ],
         "size": 245366784
+    },
+    "70010000045654": {
+        "id": "0100077016288000",
+        "rightsId": null,
+        "name": "Haustoria",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70010000045654,
+        "category": [
+            "Puzzle",
+            "Adventure",
+            "Platformer",
+            "Action"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "RedDeerGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/81e922e4c4a364429823309a179c847058d0ac64aca8a0a350f4c7155dc8fee6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/20cbe23d537490eee370fe3aa6d7d431c7d0036b4a76e47129a69f09195faf09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b790f9bfd95426b0fd67aaef4357307cf4300df5b738532453c9c70f1b40a8ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70615d362c984065e4d09af50ad32a8eddfdb9bee4fbdaa9ea9fcca45bc6adef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/947dc5067c50354c9e003ae01a285e6acb27284670b5bbece5611ab2d10f2823.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a57cd1d59e570b27df4ff65072111971a1203f311b7d335072405a533e27fb11.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a690b68a689c0d11909649ae3473b5fc69afeab89bfe3941e5ba612b9f44103b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ada359dee14ca46d0c80bc3a24819b804ee8f3bc7458e72c8dec5d05a0bc5817.jpg",
+        "intro": "The universe has fallen under the curse of an ancient cosmic being known as the Haustoria - confront its darkness while exploring a harsh, hand-drawn world.",
+        "description": "EXPLORE THE CURSED WORLD\nPlay as a young boy and travel across a weird forest, explore a cursed house, creep around in pitch black caves, and avoid dangerous traps in an old dungeon.\n\nMAGICAL THUMBTACK\nUse the magical thumbtack to pin and unpin various game objects, cross paths, overcome obstacles and solve puzzles to advance through the game.\n\nFOREST FRIENDS\nForest Dwellers are there to help you along your difficult journey through Haustoria\u2019s unique world. Some of them can be spotted and collected. Some, when combined with the magical thumbtack, will help clear your path of monstrous creatures.\n\nKey features:\n- hand-drawn illustrated book-style graphics\n- harsh adventure through the peculiar game world\n- various tough challenges and weird cosmic creatures at each level\n- innovative \"magical thumbtack\" system to solve puzzles, cross paths and overcome obstacles",
+        "languages": [
+            "en"
+        ],
+        "size": 168820736
     },
     "70010000045749": {
         "id": "010032B013CE4000",
@@ -36158,6 +37349,80 @@
             "en"
         ],
         "size": 54525952
+    },
+    "70010000046053": {
+        "id": "010092C016480000",
+        "rightsId": null,
+        "name": "Top Down Racer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210924,
+        "nsuId": 70010000046053,
+        "category": [
+            "Racing"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8cd5b7389e2cbbf62c47919b9639e80933971292a6f6a65f985dc5b0998327e5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f5e5889e4a33dc7c8cec32faddcb4317fa01c0340f98c523e5682c325c9f8e3d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/008a553d11c4b220bdf7a4a499f457e4e33113efc131952a89ed08a8042f100b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95f7151283be899525ba2b8657cad0f14149b295407fbbdef982a78fd1575e72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/612958ef738ee36781dc716e7595e5e1e594e72ff9b10a2226c86149e083cd9b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f06f5f6ff91fa2b7f3b62d44ec344b8010751f7415d010a6b9351b5d5e61f392.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff2cf780ddd154ea8f8c4809dabb096903bb476e24d13bff8b0cbd897661a5f0.jpg",
+        "intro": null,
+        "description": "Top Down Racer is the classic racing game at its best realization.\n\nDrive on different tracks in a race of six cars that will ask you dexterity and skills.\n\nBe cautious with your car to not risk car crash, collect repair power ups and speed boosts.\n\nOvertake your competitors and be first on the finish line!",
+        "languages": [
+            "en"
+        ],
+        "size": 110100480
+    },
+    "70010000046255": {
+        "id": "0100C7301658C000",
+        "rightsId": null,
+        "name": "Toree 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211004,
+        "nsuId": 70010000046255,
+        "category": [
+            "Platformer",
+            "Action",
+            "Arcade",
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 0,
+        "developer": null,
+        "publisher": "Diplodocus Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c8d03bde88d35f68d7ae5caf03859523d2e66c197f91003a6099bb1110913ca2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ac72bcdd58ff2cf82aeedd55a9923d6fd89a99b3d52637eca86c3b1a6647e6b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e3d8813f27b528bbbb8ca12b7cc0b6834a09f581a9afa196db9875a4eaf19c39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/190d269fa2cd91b6e2519e4f3bb6b489136361268036387ab88dcc4b0cf07453.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aff35ea0cdc7f6137170eca5256acdbbdf0f132eef5c0ce43682818227444191.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b9bb2c6f6b7689aee53b29711fbbe6736af82c09a759ce0b6921cae166267c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e461b4449fface57c854624286a5cf901b8045b0e6ee789c5c2d7b1aa14d08d8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b13e00ccca124fbe73c9a8b2ec24cc2ef0e7589d0ec5463b92b03b00dc775d25.jpg",
+        "intro": "The fast paced budget platformer returns for more ice cream chasing!",
+        "description": "Toree 2, the sequel to the surprise hit Toree 3D is a bite-sized 3D Platformer with more focus on the things people enjoyed in the first game like fast gameplay, flow focused levels and cute costumes (two this time).\n\n- More late 90s low poly aesthetic\n- Fast gameplay, flow focused levels\n- Weird elements make a comeback.\n- 9 levels with unique elements\n- Some secret characters to unlock\n- The epic conclusion of the ice cream arc",
+        "languages": [
+            "en"
+        ],
+        "size": 328204288
     },
     "70030000003461": {
         "id": null,
@@ -36921,6 +38186,36 @@
         "size": 972029952,
         "parentId": "0100749013DCE000"
     },
+    "70030000013426": {
+        "id": null,
+        "rightsId": null,
+        "name": "UNSIGHTED Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000013426,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Conte\u00fado Sexual",
+            "Linguagem Impr\u00f3pria"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1145044992,
+        "parentId": "0100FF6014BEE000"
+    },
     "70030000013457": {
         "id": null,
         "rightsId": null,
@@ -37087,6 +38382,34 @@
         "languages": null,
         "size": 778043392,
         "parentId": "01004F0013BAA000"
+    },
+    "70030000013746": {
+        "id": null,
+        "rightsId": null,
+        "name": "Okinawa Rush demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000013746,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 507510784,
+        "parentId": "0100D7B013BA8000"
     },
     "70030000013751": {
         "id": null,
@@ -37308,6 +38631,34 @@
         "size": 245366784,
         "parentId": "0100BDA014578000"
     },
+    "70030000014007": {
+        "id": null,
+        "rightsId": null,
+        "name": "The Lightbringer Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000014007,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 2062548992,
+        "parentId": "0100491014980000"
+    },
     "70030000014063": {
         "id": null,
         "rightsId": null,
@@ -37449,6 +38800,34 @@
         "languages": null,
         "size": 959447040,
         "parentId": "010031B0145B4000"
+    },
+    "70030000014253": {
+        "id": null,
+        "rightsId": null,
+        "name": "Fight of Animals: Arena",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000014253,
+        "category": null,
+        "ratingContent": [
+            "Compras on-line"
+        ],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 709885952,
+        "parentId": "0100AC6015996000"
     },
     "70030000014266": {
         "id": null,
@@ -61596,6 +62975,33 @@
             "0100F30013BFD00B"
         ]
     },
+    "70050000029212": {
+        "id": null,
+        "rightsId": null,
+        "name": "Pirate Hat",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210917,
+        "nsuId": 70050000029212,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0ef38eafda746407220435c9d91a7d083a93c69222eaf1c1cd077560f6046410.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd487d8114dcb2713ee31133c974bc8600611a7211c7e56f8ec466ae26d7a8cf.jpg",
+        "intro": null,
+        "description": "Customise Nyanza's appearance with the following items:\n- Pirate Hat",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000029213": {
         "id": "0100F30013BFD00D",
         "rightsId": null,
@@ -62293,6 +63699,35 @@
         "languages": null,
         "size": 38797312
     },
+    "70050000029722": {
+        "id": null,
+        "rightsId": null,
+        "name": "PAC-MAN\u2122 99 Custom Theme: Tank Battalion",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210916,
+        "nsuId": 70050000029722,
+        "category": null,
+        "ratingContent": [
+            "Compras on-line"
+        ],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5b92d529607e4c85a71160321fd923fc6730fcc76b1f4441170461ac403dc89e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/93884a1beb7f745695fd9ae26018a49cde684a7a2c15621546e65cf14560e55f.jpg",
+        "intro": null,
+        "description": "Custom Theme \"Tank Battalion\" will be playable by selecting SETTING\uff1eCUSTOM THEME.\n\nHop back to the past with this retro theme!",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000029742": {
         "id": "0100ABC01313701C",
         "rightsId": null,
@@ -62874,6 +64309,120 @@
         "ids": [
             "010051C0134F900E"
         ]
+    },
+    "70050000029899": {
+        "id": "0100A49012D11001",
+        "rightsId": null,
+        "name": "Street Outlaws 2: Winner Takes All - Digital Deluxe",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210921,
+        "nsuId": 70050000029899,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Linguagem Impr\u00f3pria",
+            "Compras digitais"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Game Mill",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c74e3e69a5e8239cf3e953a87ea3121dd6f5a10478f181218ef56e645099c609.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09dabc00931f73fc4e0d6968bc1cb2479308dcfb330b41f11f2685115ab013c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f8891db75afef2a35594e821abdbcf30c44aed0435796851100460f47833473a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7e603e8a01118d82dff5d088d21d128e9f325ba6196cd6655eeaebe985a0ff3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0d60318a272382a760796c880dbf396f1da6219d449c7c0d08e3706ac320a56f.jpg",
+        "intro": null,
+        "description": "The stakes have just been raised! In this high-octane release, you have to prove your mettle in some of the roughest and most unforgiving drag and street races across the United States. Your success depends on how you perform, your strategy on modding your car, and how much reputation you ultimately earn along the way.\n\nThe Unreal Engine brings Street Outlaws to a whole new level of visual fidelity with improved lighting, textures, and everything else! You can customize your car, but you can also customize your team garage to truly make it your own, plus the Digital Deluxe version includes additional content not included in the base game!\n\nDigital Deluxe Edition Includes:\n\n\u2022 The OG Crow Car \u2013 Get behind the wheel of Justin \u201cBig Chief\u201d Shearer\u2019s first automotive love.\n\u2022 The Custom Rims Pack \u2013 3 sets of unique rims to expand the customization options in your garage.\n\u2022 Exclusive Tire Smoke Colors \u2013 Show your American pride with red, white, and blue tire smoke.\n\u2022 The Black Skull Parachute \u2013 Intimidate racers you\u2019ve just blown away by deploying your black skull parachute when your brakes aren\u2019t enough to slow you down.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100A49012D11001"
+        ]
+    },
+    "70050000030003": {
+        "id": null,
+        "rightsId": null,
+        "name": "Ephemeral Page Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210916,
+        "nsuId": 70050000030003,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "lowiro",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aa0aaab0ac6a4bf948cb2c29f04a15f00fee451731471071d976abc24a4555b4.jpg",
+        "intro": null,
+        "description": "Reality seems constantly within reach, yet it can never truly be grasped...\n\nDiscover truths and falsehoods alike as you travel with Alice and Tenniel, experiencing eight brand-new stylish and upbeat songs along the way.\n\nThis is DLC for the base game Arcaea. No progression in the base game is required beforehand\u2014you will have access to several songs from this DLC right away, and be able to unlock others as soon as you like! In addition, all content is permanent once purchased.\n\nSongs included in this pack:\n- \"Eccentric Tale\" by Yamajet\n- \"Alice \u00e0 la mode\" by Masanori Akita\n- \"Alice's Suitcase\" by Endorfin.\n- \"Jump\" by Rasmus Faber\n- \"Felis\" by M2U\n- \"Beside You\" by \u6c5f\u53e3\u5b5d\u5b8f\n- \"Heart Jackin'\" by Yu_Asahina\n- \"To: Alice Lidell\" by \u30e2\u30ea\u30e2\u30ea\u3042\u3064\u3057\n\nPartners included in this pack:\n- Alice & Tenniel (with story)",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000030010": {
+        "id": null,
+        "rightsId": null,
+        "name": "Esoteric Order Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210916,
+        "nsuId": 70050000030010,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 0,
+        "developer": null,
+        "publisher": "lowiro",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9b968670af9b8aed2cb195409bd90712d883924a91dd5381226e13ac103068dd.jpg",
+        "intro": null,
+        "description": "A girl stands, alone, at the very ends of the Arcaea world, beyond what anyone else has seen...\n\nFeaturing Lagrange and Charon, this pack includes eight winners of the Arcaea Song Contest 2020!\n\nThis is DLC for the base game Arcaea. No progression in the base game is required beforehand\u2014you will have access to several songs from this DLC right away, and be able to unlock others as soon as you like! In addition, all content is permanent once purchased.\n\nSongs included in this pack:\n- \"Paper Witch\" by Yu-dachi\n- \"Crystal Gravity\" by Tanchiky vs.siromaru\n- \"Far Away Light\" by technoplanet feat. \u306f\u308b\u306e & \u9ed2\u6ca2\u30c0\u30a4\u30b9\u30b1\n- \"L\u00f6schen\" by BlackY feat. Risa Yuzuki\n- \"Aegleseeker\" by Silentroom vs Frums\n- \"Coastal Highway\" by Glitch Droids\n- \"\u039f\u0394\u03a5\u03a3\u03a3\u0395\u0399\u0391\" by Sober Bear\n- \"Overwhelm\" by xi\n\nPartners included in this pack:\n- Lagrange (with story)",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000030028": {
+        "id": null,
+        "rightsId": null,
+        "name": "Diablo\u00ae Prime Evil Collection - Diablo\u00ae III In-Game Items AOC",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210923,
+        "nsuId": 70050000030028,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8868927893c4dbbfc0537d09b8e808564b2640c0a5140d6f7e1b2de836fd6011.jpg",
+        "intro": null,
+        "description": "This AOC unlocks the Mephisto Pet and the Hatred's Grasp Wings for Diablo\u00ae III when you purchase the Diablo\u00ae Prime Evil Collection.\n\n*Requires Diablo III. Diablo III is rated M (Blood and Gore, Partial Nudity, Violence, Users Interact) by the ESRB.\n",
+        "languages": null,
+        "size": 3145728
     },
     "70070000002241": {
         "id": null,
@@ -64556,7 +66105,7 @@
         "intro": "Go Bananas with your favorite monkey gang in the ultimate Super Monkey Ball adventure!\n",
         "description": "Roll through wondrous worlds with AiAi and friends as you race to stop monkey mad scientist Dr. Bad-Boon from blowing up Jungle Island! Join the all-star monkey team of AiAi, MeeMee, GonGon, Baby, YanYan and Doctor as you bounce, tilt, and roll your way across hundreds of delightfully crafted levels and mazes. It\u2019s monkey business for the gang as you take down Dr. Bad-Boon and steal back your beloved bananas!\n\nFeatures:\n\u2022 The ultimate Super Monkey Ball Experience \u2013 More than 300 stages from Super Monkey Ball, Super Monkey Ball 2 and Super Monkey Ball Deluxe. \n\u2022 Go Bananas with 12 fun minigames including Monkey Racing, Monkey Soccer, Monkey Bowling, Monkey Baseball and much more! \n\u2022 Challenge your friends as you compete for top banana on the online leaderboards!\n\u2022 Immerse yourself in the Super Monkey Ball world with creative comic book-style story telling in Story Mode.\n\u2022 Want to be the coolest monkey on the block? Customize your character and Super Monkey Ball to make it your own! \n\nSuper Monkey Ball Banana Digital Deluxe Edition includes: 4 Day Early Access (10/1/2021), Classic Character Pack, Golden Banana Mode, SEGA Legends Pack, Classic Soundtrack and Customization Pack.",
         "languages": null,
-        "size": 3292528640
+        "size": 3455057920
     },
     "70070000012373": {
         "id": null,
@@ -65213,6 +66762,40 @@
         "languages": null,
         "size": 29360128
     },
+    "70070000012488": {
+        "id": null,
+        "rightsId": null,
+        "name": "Diablo\u00ae Prime Evil Collection",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210923,
+        "nsuId": 70070000012488,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia Extrema"
+        ],
+        "numberOfPlayers": null,
+        "rating": 16,
+        "developer": null,
+        "publisher": "Blizzard Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/25e703d3a92e596d94643234836405cb5ce3c5776f3f4c0f866b1541c1e7410b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7320b2e44902da4c90e172b7869f32fddcb3b5c26ee6645336033eb751254fca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abe5e623d79fc79ec459dc27c4b63e3a773352077f569ef7c6b1d89aa69153b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bdc4fe0bf793fb881ae589da66f293dd2fe316a5bc4ab089f32a967c07fe2cab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46ae60e809c275888d61ee1795b868a065895c483f3d231625233ac8d8a4324d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60a39bb80dd29686b1cce128fda679d760d01ef99f4c0cac12047432c5495bc1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9ac62ff2c24e9d63e3d35d79115a7f0eb5f1de1227ea042c0ca9fdcbaec13b3c.jpg",
+        "intro": "Relive the epic adventure that defined the action RPG genre for decades",
+        "description": "The Diablo\u00ae Prime Evil Collection includes: \n- Diablo\u00ae III: Eternal Collection game*\n- Diablo\u00ae II: Resurrected\u2122 game\n- Diablo\u00ae III: Hatred\u2019s Grasp Wings DLC*\n- Diablo\u00ae III: Mephisto Pet DLC* \n\nDiablo\u00ae II: Resurrected\u2122 is the definitive remastering of Diablo\u00ae II and its Lord of Destruction\u00ae expansion\u2014two hallmark entries in Blizzard Entertainment\u2019s genre-defining action role-playing series. Veteran players, as well as those who missed out when the original game was first released on PC twenty years ago, can now experience Diablo\u00ae II\u2019s timeless gameplay with modern visuals and audio that take advantage of today\u2019s gaming hardware. \n\nAscend the Forgotten Tower, blaze a trail through the jungles of Kurast, and storm the gates of Hell to defeat Diablo himself. Then, scale the peak of Mount Arreat to face Baal, the Lord of Destruction, in Worldstone Keep. \n\nSeven of Sanctuary\u2019s greatest champions await at the iconic campfire screen\u2014the Amazon, Assassin, Barbarian, Druid, Necromancer, Paladin, and Sorceress. Each is highly customizable with countless build and gear options for players to explore. \n\nDiablo\u00ae II: Resurrected can be played as a solo experience, or grab some friends on your preferred platform and enjoy multi-player co-op. Then blow off some steam and claim a few ears by engaging in thrilling PvP duels outside of town.\n\nFind your way back to New Tristram in Diablo\u00ae III: Eternal Collection, 20 years following the events in Diablo II: Resurrected. Return to where it all began and investigate rumors of a fallen star: the first sign of evil's rebirth, and an omen that the End Times have begun. Harness the might of your heroic birthright as one of seven playable classes.",
+        "languages": null,
+        "size": 24628953088
+    },
     "70070000012493": {
         "id": null,
         "rightsId": null,
@@ -65499,7 +67082,7 @@
         "intro": "Build Your Greatest Empire on Nintendo Switch\u2122\n",
         "description": "This bundle contains Civilization VI and all previously-released Civilization VI content on consoles*. It is intended for people new to Civilization VI. \n\nMAKE HISTORY in one of the most critically acclaimed and influential game franchises in strategy game history. Choose a leader and pursue agendas inspired by their real-life counterparts. Explore new land, research technology, and go head-to-head with historical leaders as you lead your civilization from rocks to rockets. Cities expand physically across the map, create new strategic possibilities through the game as you pursue multiple ways to achieve victory and build an empire to stand the test of time. \n\n\n\nSid Meier\u2019s Civilization VI Anthology includes the Sid Meier\u2019s Civilization VI game, six add-on content packs, the expansions Rise and Fall and Gathering Storm, and the full New Frontier Pass.\n\n\n\u2022\tCIVILIZATION VI: RISE AND FALL: Experience new game mechanics including Great Ages and Governors, upgrades to the Diplomacy and Government systems, and an additional 8 civilizations, 9 leaders, and several units, districts, wonders, and buildings.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM: Explore an active planet in an expansion that introduces climate changes for the first time in series history. Contend with natural disasters and other new Environmental Effects, complete great Engineering Projects, and manage electrical power. New features including a World Congress, new Diplomatic Victory condition, and an all-new era added to the Technology and Civics tree. Also includes new civilizations, leaders, units, and buildings.\n\n\n\u2022\tNEW FRONTIER PASS: Introducing 6 new game modes, recruitable heroes from history and myth, 8 new civilizations and 9 leaders, dialed-up natural disasters in Apocalypse Mode, and the addition of secret societies that can enhance or undermine your empire.\n\n*The Red Death playable scenario released on PC isn\u2019t available on consoles. ",
         "languages": null,
-        "size": 12213813248
+        "size": 12212764672
     },
     "70070000012600": {
         "id": null,
@@ -65554,7 +67137,7 @@
         "intro": "Build Your Greatest Empire on Nintendo Switch\u2122\n",
         "description": "This bundle is intended for people new to Civilization VI and contains Civilization VI, six add-on content packs as well as the Rise and Fall and Gathering Storm expansions. The New Frontier Pass is not included in the Platinum Edition. \n\nMAKE HISTORY in one of the most critically acclaimed and influential game franchises in strategy game history. Choose a leader and pursue agendas inspired by their real-life counterparts. Explore new land, research technology, and go head-to-head with historical leaders as you lead your civilization from rocks to rockets. Cities expand physically across the map, create new strategic possibilities through the game as you pursue multiple ways to achieve victory and build an empire to stand the test of time. \n\nSid Meier\u2019s Civilization VI: Platinum Edition is the classic collection of Civilization VI content, including the Sid Meier\u2019s Civilization VI game, six add-on content packs as well as the Rise and Fall and Gathering Storm expansions.\n\nThe Sid Meier\u2019s Civilization VI Platinum Edition contains both major expansion packs: \n\u2022\tCIVILIZATION VI: RISE AND FALL: Experience new game mechanics including Great Ages and Governors, upgrades to the Diplomacy and Government systems, and an additional 8 civilizations, 9 leaders, and several units, districts, wonders, and buildings.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM: Explore an active planet in an expansion that introduces climate changes for the first time in series history. Contend with natural disasters and other new Environmental Effects, complete great Engineering Projects, and manage electrical power. New features including a World Congress, new Diplomatic Victory condition, and an all-new era added to the Technology and Civics tree. Also includes new civilizations, leaders, units, and buildings.",
         "languages": null,
-        "size": 9070182400
+        "size": 9069133824
     },
     "70070000012633": {
         "id": null,
@@ -65622,7 +67205,7 @@
         "intro": null,
         "description": "A delightfully cute action-adventure RPG with farming and crafting - Armed with a sword, bow, and spellbook, fight against a rising darkness threatening the world. Plunder dungeons in search of relics and resources, tend to your farm to grow your own provisions, and work with your village neighbors to craft new gear. \n\nWelcome to the world of Kitaria - A peaceful land where nature lives in harmony - until now. As the wildlife around Paw Village becomes increasingly aggressive, The Empire has called upon you to investigate and defend its citizens.\n\nReal-time Combat - Wield melee weapons, bows, and forge new spells. Kit your loadout in a way that suits your preferred style of battle and craft magic, weapons, and armor which compliment your play style. \n\nLearn an Ancient Magic - When an age-old spellbook comes into your possession, use it to learn a kind of magic long-ago outlawed by The Empire - and give you the edge in combat! \n\nGather, Craft and Farm! - Kitaria is full of resources for you to use to your advantage! Slay monsters for ingredients, plant seeds and tend to your crops for provisions, and gather materials and ores to craft more powerful weapons, armor, and accessories. \n\nMake Your Home in Paw Village - Kitaria is full of friendly (and not so friendly!) citizens. Make yourself known to your neighbors and fulfill their requests. The more you bond with your new friends, the more rewards you will receive as your relationships grow! \n\nLocal Co-Op Mode \u2013 Take on quests solo, or with a friend! Double your firepower and use the freedom of Kitaria Fables' flexible combat system to complement each other's strengths.\n\nCustomize Nyanza's appearance with the following items:\n- Sakura Skin\n- Pink Wings\n- Black Cat Skin\n- Evil Horns\n- Phantom Wings\n- Blue Cat Skin\n- Blue Mythical Wings\n- Siamese Skin\n- Bengal Skin\n- Beach Hat\n- Gladiator Helmet\n- Dark Mythical Wings\n- Green Mythical Wings\n- Red Mythical Wings\n- Dark Butterfly Wings",
         "languages": null,
-        "size": 2167406592
+        "size": 2191523840
     },
     "70070000012670": {
         "id": null,
@@ -65856,7 +67439,7 @@
         "intro": "Start writing the story of your victory in the menacing M6A2E1!",
         "description": "Start writing the story of your victory in the menacing M6A2E1!\nIt is a reliable heavy with decent frontal armor and a powerful gun. Slowly but surely, it can confidently push the flanks as it advances toward the enemy. Imagine how cool it will look in the Radioactive Glow animated camouflage!\nCharge into battle\u2014victories await!\nThe items in this bundle can be purchased separately in the Store. Please consider this when purchasing the bundle.\n\nMeet the legendary free-to-play 3D tank shooter for Nintendo Switch\u2122! Become part of the community of players from around the world and join this modern shooting game and battle in a 7x7 format on your own or with friends. Research and upgrade armoured vehicles, use various tactics from aggressive onslaught to stealthy survival, and win! Choose a tank and become a battlefield hero!\n\nGAME FEATURES\n\u2022 An enormous world of tanks: over 350 unique and exclusive combat vehicles with thoroughly elaborate 3D models! Historically accurate vehicles, experimental tanks based on blueprints of famous engineers, armoured monsters from popular alternative universes\u2014here they fight together!\n\u2022 Dynamic 7x7 battles with different modes in over 25 battle arenas. Each combat encounter is unpredictable as outcomes depend on you and your team.\n\u2022 Jam-packed with action! In-game events featuring rare vehicles as rewards and battles with dramatically different gameplay. Become an invisible (and more) hero of battle arenas in Mad Games. Test yourself in tough survival Realistic Battles. Or... become a mighty force as a little battle duck for April 1st!\n\u2022 A shooting game with a well-developed progression system. Research vehicles from Tier I tanks to monstrous Tier X machines. Change guns, set equipment, wear camouflage, and increase your survival odds. Tune your combat vehicle to match your playstyle and strike the enemy with the sheer force of your  steel war machine!\n\u2022 Spectacular 3D graphics that automatically optimise to your device. Enjoy the eye-catching features of every battle arena, highly detailed tank models, massive explosions, and flying blown-off turrets. Manual settings will help you find the balance between a fantastic picture and high FPS.\n\u2022 Teamplay! Join forces with your friends in platoons or become a clan member to battle alongside like-minded players in Rating battles and participate in tournaments for prizes! Coordinate your actions and strike the enemy as one!\n\nThis shooting game is free to play.\nLearn more at https://wotblitz.com/\n2021 Wargaming.net",
         "languages": null,
-        "size": 4032823296
+        "size": 4213178368
     },
     "70070000012787": {
         "id": null,
@@ -65987,6 +67570,38 @@
         "languages": null,
         "size": 7104102400
     },
+    "70070000012852": {
+        "id": null,
+        "rightsId": null,
+        "name": "DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET - Pre-Order DLC Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70070000012852,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 12,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8680f02e9de3c678c2b17b8ac0ecf0382bdd5eb58d7c3c19090f9fc87675ff18.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/889b61a709197966db0428f56dfae10d7e9f3f453c57b2c5fe15b34667984ebd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b506783ab7863b7821c5810a602f9cd9d0abe23eb35fe1117d2f8b97e7e30c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b61b011eb49b888370ffb46498bc1bd46eaae20839c82b6022ce4aa9fee0a54c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5eedc98a022fc6fb31b8405f18eb765b5d6e02517fcb0281f39784d8270869c7.jpg",
+        "intro": null,
+        "description": "Get access to:\n\u2022 1 Cooking Item that gives you permanent Melee ATK and HP stat boosts\n\u2022 An exclusive sub-quest: A Competitive Party with Friends\n\u2022 The Early Unlock to Bonyu\u2019s Training, a new Character created by the author, Akira Toriyama.\n\u2022 10 D Medals",
+        "languages": null,
+        "size": 12582912
+    },
     "70070000012854": {
         "id": null,
         "rightsId": null,
@@ -66086,5 +67701,39 @@
         "description": "From some of the best puzzle designers in the world comes the Draknek and Friends Puzzle Bundle, a collection of four of the best puzzle games in the last decade. With dozens of hours of fun, this bundle is a must-have for puzzle fans.\n\nHeadlining the bundle is critically beloved A Monster\u2019s Expedition, an open world puzzle game about exploring the museum of Human Englandland. Players of all skill levels can enjoy hundreds of islands - some right in front of you, others well off the beaten track for true puzzle lovers\n\nIn Cosmic Express, create pathways to navigate the galaxy\u2019s most awkward space colony. It's cute, harder than it looks, and guaranteed to give you hours of challenging fun across hundreds of levels. \n\nIn A Good Snowman is Hard to Build, players can continue exploring the world of A Monster\u2019s Expedition while rolling up snowballs to become snowfriends. The easiest and most accessible of the four games, this game is a delight for all ages.\n\nIn Sokobond, move atoms to form increasingly complex molecules through over one hundred levels of challenging puzzles in Draknek\u2019s first commercial release.",
         "languages": null,
         "size": 1547698176
+    },
+    "70070000013016": {
+        "id": null,
+        "rightsId": null,
+        "name": "Street Outlaws 2: Winner Takes All Digital Deluxe",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210921,
+        "nsuId": 70070000013016,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Linguagem Impr\u00f3pria",
+            "Compras digitais"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Game Mill",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c74e3e69a5e8239cf3e953a87ea3121dd6f5a10478f181218ef56e645099c609.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09dabc00931f73fc4e0d6968bc1cb2479308dcfb330b41f11f2685115ab013c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f8891db75afef2a35594e821abdbcf30c44aed0435796851100460f47833473a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7e603e8a01118d82dff5d088d21d128e9f325ba6196cd6655eeaebe985a0ff3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0d60318a272382a760796c880dbf396f1da6219d449c7c0d08e3706ac320a56f.jpg",
+        "intro": null,
+        "description": "The stakes have just been raised! In this high-octane release, you have to prove your mettle in some of the roughest and most unforgiving drag and street races across the United States. Your success depends on how you perform, your strategy on modding your car, and how much reputation you ultimately earn along the way.\n\nThe Unreal Engine brings Street Outlaws to a whole new level of visual fidelity with improved lighting, textures, and everything else! You can customize your car, but you can also customize your team garage to truly make it your own, plus the Digital Deluxe version includes additional content not included in the base game!\n\nDigital Deluxe Edition Includes:\n\n\u2022 The OG Crow Car \u2013 Get behind the wheel of Justin \u201cBig Chief\u201d Shearer\u2019s first automotive love.\n\u2022 The Custom Rims Pack \u2013 3 sets of unique rims to expand the customization options in your garage.\n\u2022 Exclusive Tire Smoke Colors \u2013 Show your American pride with red, white, and blue tire smoke.\n\u2022 The Black Skull Parachute \u2013 Intimidate racers you\u2019ve just blown away by deploying your black skull parachute when your brakes aren\u2019t enough to slow you down.",
+        "languages": null,
+        "size": 5034213376
     }
 }
