@@ -12113,7 +12113,7 @@
         "languages": [
             "en"
         ],
-        "size": 724566016
+        "size": 1031798784
     },
     "70010000038612": {
         "id": "01002DA013484000",
@@ -15359,6 +15359,32 @@
         "languages": null,
         "size": 222298112,
         "parentId": "0100563010E0C000"
+    },
+    "70030000014465": {
+        "id": null,
+        "rightsId": null,
+        "name": "Hampuzz Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000014465,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 263192576,
+        "parentId": "0100D85016326000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
@@ -42877,7 +42903,8 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/89359c02831517a22c71556b672bcbcc8aae791cd476336c48a4bdcc30f57064.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/0d0858dfecf279caf21112637f2555b9aa12f68ef6952984dc55e6b3d93bbeb9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f83215ae46c66077383fae7dd7d8bba54eb70467f6c353787f98e2dce378530f.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/114cfe466d163385f9aec81269c257fb81607e47e4236d05394cc5f74169d16a.jpg",
         "intro": "Cualquiera, en cualquier lugar",
