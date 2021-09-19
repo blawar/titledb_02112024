@@ -13739,6 +13739,50 @@
         ],
         "size": 0
     },
+    "70010000045474": {
+        "id": "0100D730161DA000",
+        "rightsId": null,
+        "name": "Colsword",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211001,
+        "nsuId": 70010000045474,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "D-Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9ba9dcb1cfd3304ac01189a1acadb59fe278564f81341c84b4a831bac127cead.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/458914eebf4c8c5e9aa146ea41df8b425214123b43a9e775854921f3bc78730d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d3861704277ec60e0b7dfd5af3f35b09dd9007393010e44a7432cdab63e9654.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c701b41562531799f6305a703cee86e66374489c88eabba36860d3991695de9e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ce77e205ffd344a978ba62e879eb9430748f01102ac018f04f3b357793f8b5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/83eeac339ff6e1eb0efd515a9642c3588dd9a67d4a81e3ccfff70e07f33f43e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5f43f3ea86e266d3a1e627cd7de457f6f44a0e93a61a977841c275c972a0023.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fd4e97c52f6bc102c2284063461c5910f94232bcc0f4f2d245abb7b9b7f671ff.jpg",
+        "intro": "Use the full power of the swords",
+        "description": "Logic puzzle game in which you have to paint the cubes in the desired sequence using your colored magic swords.\n\nFeatures:\n- 42 levels with increasing complexity\n- Extremely easy to learn and complex to master\n- Simple touch controls make playing easy",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 102760448
+    },
     "70010000045547": {
         "id": "0100F8F015D3C000",
         "rightsId": null,
