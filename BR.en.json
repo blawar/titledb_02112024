@@ -2138,6 +2138,51 @@
         ],
         "size": 7129268224
     },
+    "70010000004346": {
+        "id": "0100416008A12000",
+        "rightsId": "0100416008A120000000000000000005",
+        "name": "Onimusha: Warlords",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210920,
+        "nsuId": 70010000004346,
+        "category": [
+            "Action"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f37baa57b1e8a7d774823601890a6aa25970adc4c959d78835ab21161cd7a2e5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d68a4354b4c6d51569263eb79ffe7a886e6aa10ad1d100794ba0ba2da2d4795a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a7ec0e32c2f101750e63f7480c7038cf191c0495d6f6b52a15dfc6430013450.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5db29a99700bc4d97f6937ef519f697ae4a76d08088813c26ff37288b85e4d42.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/edf316e845c9e2663bd9923e0b7b1541cd3d221a8812f19139e268d3431be4b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4d5f63c99ff67610a233a419977e4f902216b64a6064f531b50d60c1a6da2c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2977b82e866b1433c3465c3ee2d0aabd39cdcd5c8ba70ed99d040e1d9fc65109.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0db8018ea1247e0af220c016bccdbfb511ee5a860e3189bb3d3fcbb5d81a8856.jpg",
+        "intro": "Capcom\u2019s riveting samurai adventure returns!",
+        "description": "This version includes the original game\u2019s intense swordplay and dramatic revenge story, plus improved controls, widescreen display, a new soundtrack, and more. Experience this enhanced version of the best-selling action-adventure classic!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh",
+            "zh"
+        ],
+        "size": 10360979456
+    },
     "70010000004582": {
         "id": "01009D3008D20000",
         "rightsId": "01009D3008D200000000000000000003",
@@ -3894,6 +3939,48 @@
         ],
         "size": 2070937600
     },
+    "70010000012850": {
+        "id": "010097000BC10000",
+        "rightsId": null,
+        "name": "Resident Evil 0",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210920,
+        "nsuId": 70010000012850,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 14,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/48af36203e08639ef73ef3250be1dd2b09944d543bf1591e7bf3c3c8a54d26da.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c3a368b54f1f108d84b036bdaf95b2281ae98529c0e3950bd65346e8d55ebe20.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/819a6688a557186acfeed5c0c180dffdbdd4b954ad89ae61230324935072981a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd40b4ab99840cb33a798f08571179ecb0a5e1017e53204912a85f96c8a22b41.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/75eb0b31887bf0d66a40553f978172ba49c8d1404016d5054a27995b9f45bc55.jpg",
+        "intro": "Live the nightmare that started it all.",
+        "description": "This entry in the Resident Evil series expands on and enriches the excitement and intrigue of the survival horror genre. Learn of the events that preceded the series' first game, and experience thrilling new gameplay systems as you alternate between its two playable characters to solve the mystery.\n\nIn 1998, the American town of Raccoon City has been host to a series of strange and grisly murders. Rebecca Chambers, a new member of the elite special forces team known as S.T.A.R.S., has been dispatched along with the other Bravo Team members to investigate. Her search leads her to a train which has stopped in the middle of the forest. Little does she know, that this train is bound only for the realm of nightmares...",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh",
+            "zh"
+        ],
+        "size": 14529069056
+    },
     "70010000012854": {
         "id": "010050F00BC1A000",
         "rightsId": null,
@@ -5404,6 +5491,98 @@
             "it"
         ],
         "size": 1838153728
+    },
+    "70010000017205": {
+        "id": "0100E8000D5B8000",
+        "rightsId": null,
+        "name": "Devil May Cry",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210920,
+        "nsuId": 70010000017205,
+        "category": [
+            "Action"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Linguagem Impr\u00f3pria",
+            "Conte\u00fado Impactante"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a96fa78bc47e0b7f3c468a0c6d051e2db5e9462c6d34e6566b021a53da3c6777.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/197ed9d968d7a25575517d3b8a7566c3d675f16fa359b8da1543a6f081cf7cc5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f387a884cb696605b7f86af3752eb18cfab47df42d4672f64ab0207ce3b7554.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bbb89e6316321c6ace1090b8005769f011d3313e6fe34a61108f863f06d32f3e.jpg",
+        "intro": "The legendary stylish action classic is back!",
+        "description": "The first appearance of Dante, the ultimate devil hunter! With the blood of a legendary demon warrior flowing through his veins, Dante takes on a mission from the mysterious Trish to travel to Mallet Island and defeat Mundus, the king of the underworld. But this is no ordinary job for Dante, who is also motivated by revenge...\n\nUse your sword and dual guns to pull off flashy combos in this classic title which introduced the \"stylish action\" genre to the world.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh",
+            "zh"
+        ],
+        "size": 9903800320
+    },
+    "70010000017206": {
+        "id": "01007CF00D5BA000",
+        "rightsId": null,
+        "name": "Devil May Cry 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210920,
+        "nsuId": 70010000017206,
+        "category": [
+            "Action",
+            "Adventure",
+            "Other"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia",
+            "Linguagem Impr\u00f3pria",
+            "Conte\u00fado Impactante"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 16,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/37cf30b1c9e5a3c4a4bdbbe501c4cf8431cc1ad9aa1d1a3bf854bf58c9881396.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/503e8da0b01641c119f1f7c25e6eed62130d906515abeb59417061462dfb8f1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efaad165dbe7c635dcca5fbf2798a245374c31376d610be59475ad9a47f8101f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40611bb79d21f06aa27eb6061e2f6407d42085f3cab2ce7c494c0453c7b59216.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e779cbb66ca32078bb3c49d0de01087386c79bc657930c11c2172f2cc19985a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9bdbf1d7008f5cc53f8071f447ee8fbbae3fede654dc3fb041f42b860978ff2c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fb210bb0a14603bfadde3469296fe1ba62aa84408383c10f4d8caeec0e3d3161.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/be8ee0d15e4e111ed18038a0bae25a287d788b2e50cab619d458c6f9fc245d29.jpg",
+        "intro": "Dance with the Devil",
+        "description": "Dance with the devil once again. \n\nSet some time after the events of Devil May Cry, this sequel adds even more moves to Dante's arsenal and brings it to the next level of stylishness. Use the wall run to get the vantage point on your enemies, then assault them with a spinning barrage of bullets using Rain Storm. Reprise your role as Dante, or play as the new femme fatale, Lucia, who prefers deadly throwing daggers to bullets and utilizes her speed with ninja-like reflexes. Build up your Devil Trigger gauge, then transform into a powerful demon with enhanced power and speed. While in demon form, Dante and Lucia can also utilize Devil Hearts - amulets that give them special powers like the ability to fly, super speed or even slowing down time.\n\nDevil May Cry 2 also introduces the unlockable bonus mode, Bloody Palace - where players can earn Red Orbs while trying to clear wave after wave of enemies.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh",
+            "zh"
+        ],
+        "size": 1914699776
     },
     "70010000017211": {
         "id": "01007B600D5BC000",
@@ -7263,6 +7442,56 @@
             "zh"
         ],
         "size": 6123683840
+    },
+    "70010000026633": {
+        "id": "01004EE0104F6000",
+        "rightsId": null,
+        "name": "Shinsekai Into the Depths\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210920,
+        "nsuId": 70010000026633,
+        "category": [
+            "Adventure",
+            "Action"
+        ],
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/13d3d262dc4fb1f5b2cec8cfa600957a49b5974bfb8e979b5823e468427c3cc4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a4834f482cfec041ca3547af656f3b32dafeed6358bdcc6b7536162e93a4928e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5de5604061bdd853d4a3a7150056d8559e17ed508b277c3cc8e76045c3ba03f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/600c383d10c4e2f5c579ccd8c27c41aa9f10c559c159824ec7a072c7567477bf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7dbf3da1633ab3429642ee0d84573153d88502e37946c5046c65ced01145074.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70cbf46d09dcfd82d5043ba4325b6c0c7a24d47ae7cbbaeea3725e303e535c45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e6e192d3751135cffd070c90f6d26afc1c47b90aa6c87f91f77baea734fe8969.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b4587864df44718eee80d6210e905f2fdc4960000a134c5ad9b1a3a8ff023c8d.jpg",
+        "intro": "Wondrous Discovery",
+        "description": "Capcom presents a fresh and original undersea exploration game, filled with unique visual and audio experiences for you to discover.\n\nThe land has slowly but steadily been covered with ice, forcing mankind to take refuge in the ocean. Even the sea cannot protect them forever. The ice overtakes the undersea home of a lone aquanaut, forcing an unplanned journey of exploration and discovery. Take control and follow a mysterious mechanical creature ever deeper... Could there be others still living on so far beneath the surface?\n\nManage your oxygen reserves as you make your way through this magnificent underwater world teeming with life. Maintain your suit's pressure resistance as you proceed deeper into the ruins of past civilizations. This hauntingly beautiful aquascape is truly the final frontier for this intrepid last aquanaut.\n\nWe hope you'll enjoy this incredible adventure \u2014 the result of Capcom's signature creativity and design.",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "pt",
+            "es",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2461007872
     },
     "70010000027419": {
         "id": "0100CE4010AAC000",
@@ -67883,5 +68112,32 @@
         "description": "The stakes have just been raised! In this high-octane release, you have to prove your mettle in some of the roughest and most unforgiving drag and street races across the United States. Your success depends on how you perform, your strategy on modding your car, and how much reputation you ultimately earn along the way.\n\nThe Unreal Engine brings Street Outlaws to a whole new level of visual fidelity with improved lighting, textures, and everything else! You can customize your car, but you can also customize your team garage to truly make it your own, plus the Digital Deluxe version includes additional content not included in the base game!\n\nDigital Deluxe Edition Includes:\n\n\u2022 The OG Crow Car \u2013 Get behind the wheel of Justin \u201cBig Chief\u201d Shearer\u2019s first automotive love.\n\u2022 The Custom Rims Pack \u2013 3 sets of unique rims to expand the customization options in your garage.\n\u2022 Exclusive Tire Smoke Colors \u2013 Show your American pride with red, white, and blue tire smoke.\n\u2022 The Black Skull Parachute \u2013 Intimidate racers you\u2019ve just blown away by deploying your black skull parachute when your brakes aren\u2019t enough to slow you down.",
         "languages": null,
         "size": 5034213376
+    },
+    "70070000013051": {
+        "id": null,
+        "rightsId": null,
+        "name": "Sid Meier\u2019s Civilization\u00ae VI Anthology Upgrade Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210920,
+        "nsuId": 70070000013051,
+        "category": null,
+        "ratingContent": [
+            "Viol\u00eancia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b9711f23aae942da1374f4189be9a2d0020ae0e66e042907a86d8a583390fee4.jpg",
+        "intro": "Build Your Greatest Empire on Nintendo Switch\u2122",
+        "description": "This is the complete collection* of all available add-on content and is intended for people who already have Civilization VI, but do not yet own any of the add-on content. Civilization VI is required to access add-on content.\n\nMAKE HISTORY in one of the most critically acclaimed and influential game franchises in strategy game history. Choose a leader and pursue agendas inspired by their real-life counterparts. Explore new land, research technology, and go head-to-head with historical leaders as you lead your civilization from rocks to rockets. Cities expand physically across the map, create new strategic possibilities through the game as you pursue multiple ways to achieve victory and build an empire to stand the test of time. \n\nThe Civilization VI Anthology Upgrade Bundle includes six add-on content packs, the expansions Rise and Fall  and Gathering Storm, and the full New Frontier Pass.\n\n\u2022\tCIVILIZATION VI: RISE AND FALL: Experience new game mechanics including Great Ages and Governors, upgrades to the Diplomacy and Government systems, and an additional 8 civilizations, 9 leaders, and several units, districts, wonders, and buildings.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM: Explore an active planet in an expansion that introduces climate changes for the first time in series history. Contend with natural disasters and other new Environmental Effects, complete great Engineering Projects, and manage electrical power. New features including a World Congress, new Diplomatic Victory condition, and an all-new era added to the Technology and Civics tree. Also includes new civilizations, leaders, units, and buildings.\n\n\n\u2022\tNEW FRONTIER PASS: Introducing 6 new game modes, recruitable heroes from history and myth, 8 new civilizations and 9 leaders, dialed-up natural disasters in Apocalypse Mode, and the addition of secret societies that can enhance or undermine your empire.\n\n*The Red Death playable scenario released on PC isn\u2019t available on consoles. ",
+        "languages": null,
+        "size": 3152019456
     }
 }
