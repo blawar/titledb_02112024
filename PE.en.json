@@ -2009,7 +2009,7 @@
             "zh",
             "zh"
         ],
-        "size": 1625292800
+        "size": 2064646144
     },
     "70010000002722": {
         "id": "01009BF0072D4000",
@@ -6978,6 +6978,94 @@
         ],
         "size": 3772776448
     },
+    "70010000018923": {
+        "id": "010018900DD00000",
+        "rightsId": null,
+        "name": "DOOM (1993)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210920,
+        "nsuId": 70010000018923,
+        "category": [
+            "First-Person Shooter",
+            "Action"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c08be09f3cf012e5c69e39dafe5b83b363ab2726eb2c7dc93bedc96062552706.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/70f8bd1a8aa0a91cbc6e6168aab3b792080180b04f3ca34a4ca9f0ff2248136e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/812dfb503d89e997edfe453a6b3f1346a513557f561f263c9b4243fecec16407.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cc2c99ebcabf918a2991b3d1640689d0bd88cff1c9aa8b79cde639bb2b1920bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f83a4e7050ca8950794e541b37704b2baa5fac2752fa616f31356c765a1e91a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef9a53d7eace6eaf71799d2aba8507101d890c22d62a6f869a7852ab37e51e0d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e6777be7504c3528276cdb96f064710edb21685d034972542ca8a079c3bac049.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d3aded1e0752535a6aa95175dedf0c450227e108a0462288d3123393fa20ac7a.jpg",
+        "intro": null,
+        "description": "Celebrate DOOM\u2019s 25th anniversary with the  re-release of the original DOOM (1993). First released in 1993, DOOM introduced millions of gamers to the fast-paced, white-knuckle, demon-slaying action the franchise is known for.\n\nExperience the classic demon-blasting fun that popularized the genre home or on-the-go.\n\nDOOM (1993) includes:\n - The expansion, Episode IV: Thy Flesh Consumed, with 9 additional action-packed levels \n- Local 4 player deathmatch\n- Local 4 player co-op ",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 689963008
+    },
+    "70010000018925": {
+        "id": "0100D4F00DD02000",
+        "rightsId": null,
+        "name": "DOOM II (Classic)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210920,
+        "nsuId": 70010000018925,
+        "category": [
+            "Action",
+            "First-Person Shooter"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bec32f6a3d00bc5173fccccf15f6a4fbb6cd9780eb7432c35b7ef3958f5ef2c7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/94a3ba5fd4083a6d9e631ba6b710fc430e0848342e92580fd81913871257c7a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/914d98653b084c4e062eb6d417d6b1df814b6e8fe25b02e86d9992976ae403ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b1d7792d8252fc59df5faf39b4d7584c977d6da5483a00a29b5316586577ca11.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/187c8affd5d83458d1dc7c59fccc3556223e83d79d1143c85a9ffb2b8f101098.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f1a7047adc17753bc9a9cc7986667b5379c9222dde07ea483d340573b5ba73e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15c860e68a0d3d408776493489e555ae03899051bfd9d33c784d70ec1c6404ca.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1892afd16e56eaedb6a3d73ef6d936c4f24e3f40bd17a541d360c1a47e564f83.jpg",
+        "intro": null,
+        "description": "Celebrate DOOM's 25th anniversary with the re-release of DOOM II. This beloved sequel to the groundbreaking DOOM (1993) gave players the brutal Super Shotgun to bear against deadlier demons, and the infamous boss, the Icon of Sin. \n\nBattle the demon hordes at home or on-the-go on Nintendo Switch.\n\nThe re-release of DOOM II includes:  \n- The Master Levels, 20 additional levels made by the community and supervised by the developers \n- Local 4 player multiplayer\n- Local 4 player co-op\n\nTo save Earth, you must descend into the depths of hell, survive demon hordes, and take part in the fiercest battle ever.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 682622976
+    },
     "70010000019033": {
         "id": "01006BB00D45A000",
         "rightsId": null,
@@ -7739,6 +7827,95 @@
             "zh"
         ],
         "size": 1181745152
+    },
+    "70010000020403": {
+        "id": "010029D00E740000",
+        "rightsId": null,
+        "name": "DOOM 3",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210920,
+        "nsuId": 70010000020403,
+        "category": [
+            "First-Person Shooter",
+            "Action"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fb2947fb7e2b19b6419627807327b6ba120971291728442b442107664b0c9620.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/84e4cb3b839dbcda34e8861e788e16b6e6de98e44000bd23d52a98275c92fa09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f62b2c5a894f6d3dbbe2d28748e1e0bb63d284171c80635ca702092bee2b70ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a90ddc6a05ff3ae3db105e0071964d5ba429930afef387283abca58c2b253d70.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1bb96d46494a158546e2c907701578e09eb2894ab3a9b9d59ab222ed4561b7d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ba9b14a44cff71d1ecbce93aa5655215688e3118480daa4deee19003b7dc8d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1dc1fe9e7617174c0c72443c021a643ebac4b13640b774e05fc2cf64704fc9d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/70fa2d08dc8dbed920a7530ca5c666aac04aa55ca311b658bc8924e28cba2d75.jpg",
+        "intro": null,
+        "description": "Celebrate DOOM's 25th anniversary  with the release of DOOM 3, available for the first time on Nintendo consoles. \n\nIn this critically acclaimed action-horror re-telling of the original DOOM, players must battle their way through a demon-infested facility before entering the abyss to battle Hell's mightiest warrior - and put an end to the invasion.\n\nDOOM 3 includes the Resurrection of Evil and The Lost Missions expansion packs. ",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 9510584320
+    },
+    "70010000020406": {
+        "id": "01005D700E742000",
+        "rightsId": null,
+        "name": "DOOM 64",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210920,
+        "nsuId": 70010000020406,
+        "category": [
+            "First-Person Shooter",
+            "Action"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3c60a98369e56e116c09ee41924ce4a400585f66d16b59cdcb0b98c1e15f0af5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0ddfbc0421ce472a9c2cac7ee8b8c72b3238c61bb8348f56ee87529324814a08.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/982b34525c34a6387c4b5b6430bcfafafc683ad046db60271867f9608d470b82.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a750dc2f4e5aba9aac07d05db72995756495924f954aabf677aee9220cede75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9740cc783f03a70b2c22689518133f5823a0e4002805fbd8a2cd12cb741ee191.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bba8435564bfb923109676030a701839d5bb0f5ecebc8bd56acba78bb55abe2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a750dc2f4e5aba9aac07d05db72995756495924f954aabf677aee9220cede75.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2b5a83e47598a93c3e1e89e5f2d627409cc78a9973d98aace023c539c7edf11.jpg",
+        "intro": null,
+        "description": "Celebrate DOOM's 25th anniversary  with DOOM 64, originally released on Nintendo 64 in 1997. Take the fight to Hell at home or on-the-go with DOOM 64's triumphant return to Nintendo Switch\u2122!\n\nFight against demons in your crusade to hunt down the Mother of Demons and stop Hell's invasion. As you battle through more than 30 action-packed levels, be on the lookout for enhanced weapons and secrets to help you put an end to the demonic threat.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 166723584
     },
     "70010000020488": {
         "id": "0100B9500D1B0000",
@@ -10249,7 +10426,7 @@
             "https://img-eshop.cdn.nintendo.net/i/ec2cb1179673526bd1d21f5ffb982ad5bac2c1717af64cefaeccc2a46d0ccce6.jpg",
             "https://img-eshop.cdn.nintendo.net/i/d86b1fdaccb8810a0005706a8cbd1efc4a182c40a37e12e57044d1c93399f7f6.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/461026ab32eb9812f78a2460a5d54f999a58874b8f2a2ca4323f5241b3cf4549.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/61d7237ead3264ef217abd1b0c7636ece0a966c0f26b4a9104e8ffa20b907b6d.jpg",
         "intro": "Action-packed MMO with PvP tank battles.",
         "description": "Meet this Legendary free-to-play 3D Tank Shooter for Nintendo Switch\u2122! Become part of a community of players from across the world. Join this modern 2020 shooting game and battle 7x7 on your own or with friends, research and upgrade armored vehicles, use various tactics from aggressive onslaught to stealthy survival, and win. Pick a tank and become a battlefield hero!\n\nGAME FEATURES\n\u2022 An enormous world of tanks numbering over 350 unique and exclusive combat vehicles with thoroughly elaborate 3D models! Historically accurate vehicles, experimental tanks based on blueprints of famous engineers, and armored monsters from popular alternative universes fight together here!\n\u2022 Dynamic 7x7 battles with different modes in over 25 battle arenas. Each combat encounter is unpredictable as the outcome depends on you and your team. \n\u2022 Jam-packed action! In-game events feature rare vehicles as rewards and battles with dramatically different gameplay. Become an invisible (and not only) hero of battle arenas in Mad Games. Challenge yourself to a test of survival in Realistic Battles. Or... become a mighty force as a little battle duck for April 1!\n\u2022 A shooting game with a well-developed progression system. Research vehicles from Tier I tanks to monstrous Tier X machines. Change guns, pick equipment, wear camouflage, and increase your survival odds. Tune your combat vehicle to suit your playstyle and strike opponents with the sheer force of your  steel war machine!\n\u2022 Spectacular 3D graphics that automatically optimize to your device. Enjoy the eye-catching features of every battle arena, highly detailed tank models, massive explosions, and flying, blown-off turrets. Manual settings will help you find the balance between a fantastic picture and high FPS. \n\u2022 Teamplay! Join forces with your friends in platoons, become a clan member to battle alongside like-minded players in Rating battles, and participate in tournaments with prizes! Coordinate your actions and strike the enemy as one!\n\nThis shooting game is free-to-play.\nLearn more at https://wotblitz.com/\n2020 Wargaming.net",
         "languages": [
@@ -13343,16 +13520,16 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3555961fefd935624036664963fdcc3b4409d223802a52eb30040b3a84d256bc.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/25e703d3a92e596d94643234836405cb5ce3c5776f3f4c0f866b1541c1e7410b.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7320b2e44902da4c90e172b7869f32fddcb3b5c26ee6645336033eb751254fca.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/abe5e623d79fc79ec459dc27c4b63e3a773352077f569ef7c6b1d89aa69153b2.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/bdc4fe0bf793fb881ae589da66f293dd2fe316a5bc4ab089f32a967c07fe2cab.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/46ae60e809c275888d61ee1795b868a065895c483f3d231625233ac8d8a4324d.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/60a39bb80dd29686b1cce128fda679d760d01ef99f4c0cac12047432c5495bc1.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/5e5c9a0080d93f532d2c07df863ca91e5b9b07542c0aa98752ab65fc840df24d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a480cfd32241fe5df12f37d93cd87aee2d5f4eb2c7b2f3444e8009c003cbdb5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d62be42a553adefd689cd65b3d0621b9a828f5b89fb34a235d19ce6458ecbd5b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb8a56178b1e7cd98f7a3b0ca112800a61d0ac987dfb6e9ec38f6e37fe2c0cb8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40248ce927d6b67fc705d07bbb39470978a7841ea17aea333bc5fd1b5c3ed270.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f65920b9cd380d05866f2319ae482586b6d8f1e577c7154a5ac3e84d24382580.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/adc402fe085d3d58b963269d9498beea90e46623841c034a3e727ff0e6dcce9e.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/353b407a48c000cc6fce107d5e0295917a97adc1c79f16dbb58a1740f2648a01.jpg",
         "intro": "Relive the epic adventure that defined the action RPG genre for decades",
-        "description": "Diablo\u00ae II: Resurrected\u2122 is the definitive remastering of Diablo\u00ae II and its Lord of Destruction\u00ae expansion\u2014two hallmark entries in Blizzard Entertainment\u2019s genre-defining action role-playing series. Veteran players, as well as those who missed out when the original game was first released on PC twenty years ago, can now experience Diablo\u00ae II\u2019s timeless gameplay with modern visuals and audio that take advantage of today\u2019s gaming hardware. \n\nAscend the Forgotten Tower, blaze a trail through the jungles of Kurast, and storm the gates of Hell to defeat Diablo himself. Then, scale the peak of Mount Arreat to face Baal, the Lord of Destruction, in Worldstone Keep. \n\nSeven of Sanctuary\u2019s greatest champions await at the iconic campfire screen\u2014the Amazon, Assassin, Barbarian, Druid, Necromancer, Paladin, and Sorceress. Each is highly customizable with countless build and gear options for players to explore. \n\nDiablo\u00ae II: Resurrected can be played as a solo experience, or grab some friends on your preferred platform and enjoy multiplayer co-op. Then blow off some steam and claim a few ears by engaging in thrilling PvP duels outside of town.\n",
+        "description": "Diablo\u00ae II: Resurrected\u2122 is the definitive remastering of Diablo\u00ae II and its Lord of Destruction\u00ae expansion\u2014two hallmark entries in Blizzard Entertainment\u2019s genre-defining action role-playing series. Veteran players, as well as those who missed out when the original game was first released on PC twenty years ago, can now experience Diablo\u00ae II\u2019s timeless gameplay with modern visuals and audio that take advantage of today\u2019s gaming hardware. \n\nAscend the Forgotten Tower, blaze a trail through the jungles of Kurast, and storm the gates of Hell to defeat Diablo himself. Then, scale the peak of Mount Arreat to face Baal, the Lord of Destruction, in Worldstone Keep. \n\nSeven of Sanctuary\u2019s greatest champions await at the iconic campfire screen\u2014the Amazon, Assassin, Barbarian, Druid, Necromancer, Paladin, and Sorceress. Each is highly customizable with countless build and gear options for players to explore. \n\nDiablo\u00ae II: Resurrected\u2122  can be played as a solo experience, or grab some friends on Nintendo Switch\u2122 and enjoy multiplayer co-op. Then blow off some steam and claim a few ears by engaging in thrilling PvP duels outside of town.\n",
         "languages": [
             "ja",
             "en",
@@ -14813,6 +14990,45 @@
         ],
         "size": 577765376
     },
+    "70010000044148": {
+        "id": "0100CAF015C32000",
+        "rightsId": null,
+        "name": "Sports & Adventure Pinball",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211001,
+        "nsuId": 70010000044148,
+        "category": [
+            "Simulation",
+            "Sports",
+            "Arcade",
+            "Party"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SuperPowerUpGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8d597a7bc1ed3c482896a396619b8dd24932f5cecf98ffa94377d40e38f05002.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a231eaf92e72f2ec1c4ae31846417fd4c8b330ead5f37e4df3d882340d36a866.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00aaa526f9371df3742c28170811ace85eefc90a7762ccff2e5ec8ded97f8614.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04a67a264e5035990c22bec4ae3d3c94b1f1f2e02acc7aa1b671a8f5fa61c051.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/53b2053e80715471906d3f8d551cd731b1bde97fa5f9123209c26b09983565f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38a9d36e856916f21ee32d1f9ac19585a7da5583cc028460edf4db987445e306.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/633ae93dd7c97bff14a27a8ccb798fba6e4e48d3ed05ad15061eb6f59a9f3409.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dc1642ffce4b5b0cfd58447c3ce35f095fdf23abfde3c28bc8ce7586024f43af.jpg",
+        "intro": "This pack includes the games: World Soccer Pinball, Touchdown Pinball, Basketball Pinball, Dragon Pinball, Pirates Pinball and Titan Pinball.",
+        "description": "Enjoy 6 games in one with the perfect reproduction of real pinball machines, with all kinds of graphic details and sounds.\n\nIf you prefer, you can also purchase them separately in the Nintendo eShop.",
+        "languages": [
+            "en"
+        ],
+        "size": 673185792
+    },
     "70010000044951": {
         "id": null,
         "rightsId": null,
@@ -14862,6 +15078,57 @@
             "zh"
         ],
         "size": 0
+    },
+    "70010000045286": {
+        "id": "0100D12015CCA000",
+        "rightsId": null,
+        "name": "\u96e8\u97f3\u30b9\u30a4\u30c3\u30c1 -AmaneSwitch-",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211005,
+        "nsuId": 70010000045286,
+        "category": [
+            "Adventure",
+            "Simulation",
+            "Other"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "CyberStep",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9e4862a7e731bcf54cc0f8cb0d131fac4413694c26277225e9ea61c3b737cf49.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7a3c6daf4a9f9981b339c2ca098bd2c68a2401263de4cb440421e5b9e5dc500f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac5504dab96b25862f19733412cd29cc4d911af42f01bf713c9e677842881d11.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d562108ad04d4e01a0a90f44600f4e994050496c76af9c2eb67ac4d1e3245ac8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74e9b566b6f924f6bd862c71e715f3528d540f5f89735d6975ff0b2af242e275.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87defd6be7769e76f504f4261b8780b0775f5e73948f2e6ea1699853eb97c80d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/73457e03b2349d2128d30cb4de7bc6c5dea97ddc0097b393b436e5f5a9ffa359.jpg",
+        "intro": "Is there truly such a thing...as a happy ending?\nAn adventure game themed around rain, yandere characters, and strange abnormalities.",
+        "description": "Amane Switch is a visual novel game remake updated for international audiences.\nNew voiceovers have been implemented for the remake, including the main protagonist, who is now voiced by VTuber Kyoko Kuramochi of the Stellar Cycle Campus VTuber group!\n\n\nSynopsis\nShinji Mizushima leads a normal life with average athletic and academic performance before becoming acquainted with a mysterious girl named Amane Satonaka.\nShortly after Amane transfers to Shuei Academy, Shinji finds himself drawn to her when he sees her standing outside in the rain without an umbrella, humming a melancholic melody to herself. The sight of her figure drenched in the downpour of rain is so beautiful it seems otherworldly to him. In that moment, her existence becomes transcendent.\nTransfixed, Shinji can only watch in amazement until he realizes the beautiful girl before him is on the verge of collapsing. He rushes to her, catching her in his arms. He does not yet realize that this moment will change his life forever...\n\nCharacters\nA recent transfer student to Shuei Academy who joined Class 2-C. Due to her introverted personality and the mysterious air she sometimes exudes, she often finds herself alone. She is an enigmatic girl who never uses an umbrella even when it rains.\nAn outgoing, cheerful girl in Class 2-A of Shuei Academy. She excels at taking care of others and is often the center of attention, being popular with both boys and girls. She and Shinji previously dated, and even though they broke up, she still has feelings for him.\nA third-year student at Shuei Academy, serving as the student council president. She is a model student adored by all of her schoolmates for her serious yet friendly personality. She loves her younger sister Shizuku Kizaki more than anything else in the world.\nFirst-year student at Shuei Academy and the small and cute younger sister of Izumi Kizaki. Despite being introverted at times, she is actually a member of the drama club. Due to her shyness, she is afraid of talking to people until she has had a chance to get to know them better. However, she is kind and cheerful to those who she does feel comfortable with. She loves her older sister, but is worried that she is often compared to her perfect sibling.\nShinji's elder cousin who attends Shuei Academy University's Faculty of Education. She has doted on Shinji ever since he lost his father as a child, and often visits to look after him. Kind and generous, she is a motherly woman.\n\nNew Scenario for Fans of the Original!\nOriginally a title for adults only, the scenario has been adjusted and new scenarios have been added so that a wider audience can enjoy the game. Not only have the graphics and other aspects of the game been revamped, but this visual novel title now features a fully voiced scenario with a brand new cast.\nSome of the newly recorded voiceovers have been performed by the Stellar Cycle Campus VTubers Kyoko Kuramochi and Nemea Iori!\n\nRecommended for:\n-Visual Novel and Adventure Game fans\n-Fans of yandere characters\n-Virtual YouTuber fans\n-Players that enjoy games with a gloomy atmosphere\n\nDisclaimer:\nThis application does not support data recovery. Please take care to manage and backup your application data to avoid any loss of data.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 174063616
     },
     "70010000045295": {
         "id": "01001E30126A0000",
@@ -15570,7 +15837,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 2117074944,
+        "size": 2116026368,
         "parentId": "01002A000CD48000"
     },
     "70030000008961": {
@@ -15630,7 +15897,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 2666528768,
+        "size": 2665480192,
         "parentId": "010018100CD46000"
     },
     "70030000009061": {
@@ -21868,7 +22135,7 @@
         "intro": "The Fantastic Four join the alliance!",
         "description": "Expand your adventure and roster of playable characters in the MARVEL ULTIMATE ALLIANCE 3: The Black Order game with the paid Expansion Pass, which grants access to three exclusive DLC packs that will become available as they release one at a time after the game\u2019s launch and will not be available for individual purchase. \n\n\u25a0DLC 1 \u2013 Marvel Knights: Curse of the Vampire\n\nPrepare to step into the boots of Punisher, Blade, Moon Knight, and Morbius\u2014the Marvel Knights are joining the alliance! These playable characters are part of DLC Pack 1 included with the MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass*, which also includes a new mode! \n\nIn Gauntlet Mode, up to four players** take on a frenzied series of co-op challenges in rapid succession to earn rewards. Once you\u2019ve cleared a Gauntlet, you\u2019ll unlock a survival-style version of it with ongoing waves of challenges. Find out how long you can last and see how your score stacks up with online*** rankings!  \n\n\u25a0DLC 2 \u2013 X-Men: Rise of the Phoenix\n\nDark Phoenix, the infinitely powerful cosmic entity from one of the X-Men's greatest sagas, unleashes an era of fiery destruction! Four more X-Men join the alliance\u2014Phoenix, Gambit, Ice Man, and Cable\u2014 with the purchase of the MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass. \n\nCompete against friends and foes in the newly added Danger Room mode! Players compete to see who can take down enemies while being barraged by buffs and debuffs.\nw\n\n\u25a0DLC 3 - Fantastic Four: Shadow of Doom\n\nMarvel\u2019s First Family, the Fantastic Four\u2014Mr. Fantastic, Invisible Woman, Human Torch, and The Thing\u2014join the alliance with the purchase of the MARVEL ULTIMATE ALLIANCE 3: The Black Order Expansion Pass. \n\nHead to the kingdom of Latveria in an added storyline that pits your team of Marvel Super Heroes against the man in the iron mask himself, Doctor Doom. \n\n",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "010060700AC51001"
         ]
@@ -42515,7 +42782,7 @@
         "intro": "Assemble your ultimate team of Marvel Super Heroes",
         "description": "The MARVEL ULTIMATE ALLIANCE series returns for the first time in 10 years\u2014with a new action RPG\u2014exclusively on the Nintendo Switch\u2122 system! Assemble your ultimate team of Marvel Super Heroes from a huge cast including the Avengers, the Guardians of the Galaxy, the X-Men, and more! Team up with friends to prevent galactic devastation at the hands of the mad cosmic tyrant Thanos and his ruthless warmasters, The Black Order.\n\nExpand your adventure and roster of playable characters in the MARVEL ULTIMATE ALLIANCE 3: The Black Order game with the paid Expansion Pass, which grants access to three exclusive DLC packs that will become available as they release one at a time after the game\u2019s launch and will not be available for individual purchase. \n\nThis paid Expansion Pass includes 3 DLC packs, which will become available as they release one at a time after the launch of MARVEL ULTIMATE ALLIANCE 3: The Black Order and will not be sold individually \n\nDLC 1 \u2013 Marvel Knights: Curse of the Vampire\nDLC 2 \u2013 X-Men: Rise of the Phoenix \nDLC 3 \u2013 Fantastic Four: Shadow of Doom\n\n\u2022\tDLC packs will contain new content such as playable characters, modes, and additional story\n\u2022\tIncludes content from popular franchises, like the Fantastic Four, the X-Men, and the Marvel Knights\n\u2022\tFirst DLC pack will be available in Fall 2019 \n\u2022\tPurchase the Expansion Pass to receive an in-game alternative-color chef outfit for Deadpool at game launch.",
         "languages": null,
-        "size": 19173212160
+        "size": 19172163584
     },
     "70070000006541": {
         "id": null,
@@ -45055,6 +45322,42 @@
         "languages": null,
         "size": 6121586688
     },
+    "70070000012441": {
+        "id": null,
+        "rightsId": null,
+        "name": "DOOM Slayers Collection",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210920,
+        "nsuId": 70070000012441,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d011307437cb99b293b56daf929e0d668197833255b4580b9c0a46a920a8c617.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/310a9e496895683cfd59857ae1ed7c1996ea9143cf031ed069319d9b712ed973.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c647a20f230fd652bb735e24e8dd49e2bd34b3daef78b582741c08819031faa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/092aab1d6fe762ef09f650d3879278c2bd67d44bdfbf283b4a487f8ec8e1a927.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/804f3bb075a395ec30923ffcd5c65a298059fae9566fe9854d465dc608f3ca3e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f204ca4d59747628f1f0ec03cb273878049d3d014fd67086e2bd7d8cbf16186f.jpg",
+        "intro": null,
+        "description": "The DOOM Slayers Collection takes players through more than two decades of demon slaying \u2013 from the classic games that popularized the first-person shooter to the fan favorite franchise reboot, wield an arsenal of powerful weapons as you battle demon hordes on Mars, on Earth, and across Hell in five critically acclaimed games: DOOM, DOOM II, DOOM 3, DOOM 64 and 2016's Action Game of the Year, DOOM (2016).\n\nGet even more out of the DOOM Slayers Collection by joining the Slayers Club, DOOM's official fan club. Once you join the club simply login to DOOM, DOOM II and DOOM 3 with your Bethesda.net account to unlock unique players skins in DOOM Eternal, \"one of the best first-person shooters ever.\" (GameRevolution).",
+        "languages": null,
+        "size": 34662776832
+    },
     "70070000012473": {
         "id": null,
         "rightsId": null,
@@ -45777,6 +46080,7 @@
         "intro": "Build Your Greatest Empire on Nintendo Switch\u2122",
         "description": "This is the complete collection* of all available add-on content and is intended for people who already have Civilization VI, but do not yet own any of the add-on content. Civilization VI is required to access add-on content.\n\nMAKE HISTORY in one of the most critically acclaimed and influential game franchises in strategy game history. Choose a leader and pursue agendas inspired by their real-life counterparts. Explore new land, research technology, and go head-to-head with historical leaders as you lead your civilization from rocks to rockets. Cities expand physically across the map, create new strategic possibilities through the game as you pursue multiple ways to achieve victory and build an empire to stand the test of time. \n\nThe Civilization VI Anthology Upgrade Bundle includes six add-on content packs, the expansions Rise and Fall  and Gathering Storm, and the full New Frontier Pass.\n\n\u2022\tCIVILIZATION VI: RISE AND FALL: Experience new game mechanics including Great Ages and Governors, upgrades to the Diplomacy and Government systems, and an additional 8 civilizations, 9 leaders, and several units, districts, wonders, and buildings.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM: Explore an active planet in an expansion that introduces climate changes for the first time in series history. Contend with natural disasters and other new Environmental Effects, complete great Engineering Projects, and manage electrical power. New features including a World Congress, new Diplomatic Victory condition, and an all-new era added to the Technology and Civics tree. Also includes new civilizations, leaders, units, and buildings.\n\n\n\u2022\tNEW FRONTIER PASS: Introducing 6 new game modes, recruitable heroes from history and myth, 8 new civilizations and 9 leaders, dialed-up natural disasters in Apocalypse Mode, and the addition of secret societies that can enhance or undermine your empire.\n\n*The Red Death playable scenario released on PC isn\u2019t available on consoles. ",
         "languages": null,
-        "size": 3152019456
+        "size": 3152019456,
+        "ids": []
     }
 }
