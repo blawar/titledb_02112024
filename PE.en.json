@@ -3505,7 +3505,7 @@
             "ko",
             "zh"
         ],
-        "size": 1589641216
+        "size": 1653604352
     },
     "70010000006801": {
         "id": "010008900705C000",
@@ -5401,7 +5401,7 @@
             "zh",
             "zh"
         ],
-        "size": 3191865344
+        "size": 3190816768
     },
     "70010000015034": {
         "id": "010049D00C8B0000",
@@ -13543,7 +13543,7 @@
             "zh",
             "zh"
         ],
-        "size": 8295284736
+        "size": 9201254400
     },
     "70010000039214": {
         "id": "0100D670126F6000",
@@ -14002,6 +14002,86 @@
             "zh"
         ],
         "size": 560988160
+    },
+    "70010000040004": {
+        "id": "0100235014746000",
+        "rightsId": null,
+        "name": "Rainbow Billy: The Curse of the Leviathan",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211005,
+        "nsuId": 70010000040004,
+        "category": [
+            "Adventure",
+            "RPG"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Skybound Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c0a1c71b7216b34293acb3c582d4dddbc057b611dd8994710c429d9a16560a4c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e209386d7826726e8212f08e9a8c70c2a24e1ce97fe1b0a51672d2d8ec0bb06f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a08eff9ee149fc2a18f57086b64ec475ecfec619df6b765d7964cb322f9fd072.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/455e1ae9c0791868a7bdedcc1e0ec7c9415181a62e7a94794b3b54f69162273a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4470b1806f84b40fbc6c644a99712432721ae7ea2c812981e5bcb4582f9b1f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7b02908da3450631a84f909a2ea3210626c128c14237c0fda762272b9adb558.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5475e937f85ba81a571d3a30ccfdf261a464cb7e29fdf073a24f59920099c0cf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/533b01728508e7cdd7dd625e0b3157964ccd6ef19d176a1ca64606e36832eea6.jpg",
+        "intro": "HEROES COME IN ALL COLORS.",
+        "description": "Rainbow Billy: The Curse of the Leviathan is a wholesome, creature capture, 2.5D Adventure-Puzzle-Platformer with RPG elements. It is a family-friendly and openly accessible adventure in which you must save whimsical creatures by bringing back color to the world you once knew! \n\nRainbow Billy tells a universal coming of age story about dealing with changes in the world and accepting ourselves and the others around us! Sometimes it only takes a conversation, empathy, and a new point of view to make a world of a difference.\n\nEXPLORE A WONDROUS WORLD!\nFrom dark caverns on secret islands to hidden coves off in the stormy seas, explore a rich world filled with treasure, fish (because every great game has a fishing minigame!), friendship and... danger!\n\nSOLVE ENVIRONMENTAL PUZZLES!\nEach world is filled with clever challenges and secrets that unlock new areas to explore!\n\nBEFRIEND CURIOUS CREATURES!\nMeet over 60 strange, lovable creatures and help them with their problems in non-violent encounters! Create your own unique team to save the day!\n\nRECOLOR THE WORLD!\nRestore color to a monochrome world and help your friends find the courage to be their true selves in a story about empathy and growth.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de"
+        ],
+        "size": 4202692608
+    },
+    "70010000040076": {
+        "id": "0100090014ABE000",
+        "rightsId": null,
+        "name": "Kyle is Famous: Complete Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211001,
+        "nsuId": 70010000040076,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Party",
+            "Other"
+        ],
+        "ratingContent": [
+            "Crude Humor"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "New Blood",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7832d2693a2a849c74fe96cbfd82076bb184a3fdec65e4cb984b359f7c0e6dd6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0346bd63e68c461260757d336b271b6c7cbaa027ca02862a100df7c85d2a7c77.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba5aaf89e64dbe787434f93e62a25d12f9fc264173163a17b7cd4f835a366dc5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fea20129db56e2185fb652e0736fb4fbea6f97875b71c014844058a36b3e6f14.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7eda4f5a35a3634e742236c24678e58bcc725f2bff51b57c218026b11a75267d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f12d988705fb6413f470577f0663f7343f061b199c615192591f89e25e97083.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e52fb24004f020e50d2304a11ded922e0f7a6d7d17b99b1e13ee1907fe041b64.jpg",
+        "intro": "Kyle tries to prepare for his most important interview yet. Choose his path through 117 endings and accept the consequences in this comedic adventure.",
+        "description": "Take Control of Kyle in this Text-Based Adventure. . .\n-----------------\nMake decisions for Kyle that will affect every part of his day. Take Kyle's hand through 117 unique endings, each determined by what Kyle has done and who he has interacted with. He needs you. Be kind.\n\n\nKyle just woke up. . .\n-----------------\n. . .and Kyle needs to prepare to conduct an interview with a very, very important guest on his show. Collect items, make choices, and solve mysteries.\n\n\nKyle can swallow the fridge. . .\n-----------------\n. . .and Kyle can travel time and steal from the locals and dump lard on his neighbor and many, many other things that KYLE SHOULD NOT DO. Take Kyle's hand. Direct him. Tell him what he ABSOLUTELY SHOULD NOT DO. Confidently help Kyle. He needs you.\n\n\nKyle has 117 endings. . .\n-----------------\n. . .but only one of them is the good, well-prepared ending that you are going to guide Kyle to. Who knows what would happen if you weren't there for him? Would he destroy the city? Gossip about his neighbor? Fight crime? Revive a dead loved one?",
+        "languages": [
+            "en"
+        ],
+        "size": 384827392
     },
     "70010000040418": {
         "id": "010077A00CB58000",
@@ -14797,15 +14877,19 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/91e382e3e87726746dc714d3cab616a57ead6d797cff8c2f757b448534ce7cf4.jpg",
         "intro": "Team up and take down the opposition in Pok\u00e9mon\u2019s first 5-on-5 strategic team battle game!",
-        "description": "Join Trainers from around the world as they head for Aeos Island to compete in Unite Battles! In Unite Battles, Trainers face off in 5-on-5 team battles to see who can score the most points within the allotted time. Teamwork is key as you and your teammates defeat wild Pok\u00e9mon, level up and evolve your partner Pok\u00e9mon, and knock out the opposing team\u2019s Pok\u00e9mon to prevent them from scoring points. Put your teamwork to the test, and take home the win!\n\n\u2022 BATTLE IN STYLE: Take to the field while looking your best in Holowear! Thanks to a special technology developed using Aeos energy, Trainers can deck out their Pok\u00e9mon in a variety of holographic outfits\u2014with new styles arriving regularly!\n\n\u2022 UNITE MOVES: Unleash the true power of your Pok\u00e9mon with Unite Moves! Leverage these all-new Pok\u00e9mon moves, which are only possible while in Unite Battles, and turn the tide of even the direst situations.\n\n\u2022 RANK UP: Looking to prove how skilled you are? Participate in ranked matches, and earn points as you climb up the global leaderboard!\n\n\u2022 COMMUNICATION IS KEY: Even the most skilled Trainers recognize how important communication is to their team\u2019s success. Leverage signals, quick-chat messages, and\u2014for the first time in a Pok\u00e9mon title\u2014voice chat to communicate and stay in sync with your team.\n\n\u2022 CROSS-PLATFORM PLAY: Play with Trainers around the world on the Nintendo Switch\u2122 system or on a compatible smartphone (available this September) thanks to cross-platform support. Trainers may use their Pok\u00e9mon Trainer Club account or Nintendo Account on both Nintendo Switch and mobile to easily keep their progress synced between devices.",
+        "description": "Join Trainers from around the world as they head for Aeos Island to compete in Unite Battles! In Unite Battles, Trainers face off in 5-on-5 team battles to see who can score the most points within the allotted time. Teamwork is key as you and your teammates defeat wild Pok\u00e9mon, level up and evolve your partner Pok\u00e9mon, and knock out the opposing team\u2019s Pok\u00e9mon to prevent them from scoring points. Put your teamwork to the test, and take home the win!\n\n\u2022 BATTLE IN STYLE: Take to the field while looking your best in Holowear! Thanks to a special technology developed using Aeos energy, Trainers can deck out their Pok\u00e9mon in a variety of holographic outfits\u2014with new styles arriving regularly!\n\n\u2022 UNITE MOVES: Unleash the true power of your Pok\u00e9mon with Unite Moves! Leverage these all-new Pok\u00e9mon moves, which are only possible while in Unite Battles, and turn the tide of even the direst situations.\n\n\u2022 RANK UP: Looking to prove how skilled you are? Participate in ranked matches, and earn points as you climb up the global leaderboard!\n\n\u2022 COMMUNICATION IS KEY: Even the most skilled Trainers recognize how important communication is to their team\u2019s success. Leverage signals, quick-chat messages, and\u2014for the first time in a Pok\u00e9mon title\u2014voice chat to communicate and stay in sync with your team.\n\n\u2022 CROSS-PLATFORM PLAY: Play with Trainers around the world on the Nintendo Switch\u2122 system or on a compatible smartphone thanks to cross-platform support. Trainers may use their Pok\u00e9mon Trainer Club account or Nintendo Account on both Nintendo Switch and mobile to easily keep their progress synced between devices.",
         "languages": [
             "ja",
             "en",
+            "es",
+            "fr",
+            "de",
+            "it",
             "ko",
             "zh",
             "zh"
         ],
-        "size": 973078528
+        "size": 1182793728
     },
     "70010000043430": {
         "id": "01001E30126A0000",
@@ -15296,6 +15380,53 @@
             "en"
         ],
         "size": 265289728
+    },
+    "70010000045957": {
+        "id": "010048B016406000",
+        "rightsId": null,
+        "name": "Between Time: Escape Room",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210928,
+        "nsuId": 70010000045957,
+        "category": [
+            "Puzzle",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Mild Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "mc2games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4fb4272628ebda8af30601bf7e9bb75aebb6e8593366e5d1e9402d48dc448bfd.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/698267ad027b51edf46f149db9187e02722cc483debd29cb815ab9dc72a51bd3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/44a1f89b46e85d3cdf02661c4242f8cd7bda96cb3d4f47ed1d04b3aab430b425.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb0e1ef05066af9b8bf77273f220d53f833ef78aa092afb0b4025daa7611f1ea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a0eb280506bde5a2c4b09af3814cc7dde8f3dd6a4c0ae9cbc7c992c616248eea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b30a6881f163e40350de948dd958a3b79fb19734b5864e4e1c645dc8840d126.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ac524898abc07893e716a32b1e4f832030bb465f4242f263161bbbdbdde95381.jpg",
+        "intro": "You are going to steal a time machine. In this escape room, you must travel through time, explore mysterious places and solve puzzles to obtain untold treasures. Will you come back alive?",
+        "description": "You are going to travel through time to steal priceless treasures. Will you be able to make it back alive?\n\nBetween Time is an escape room that will test your skills. Travel through time, explore mysterious places around the planet, solve puzzles, decode secret codes, and find hidden objects and treasures.\n\nSolve this mystery by traveling through time to five different places in human history. Will you be able to escape?\n\nCharacteristics:\n*Solve puzzles based on logic.\n*Explore five rooms set at different times in human history.\n*Find out more about A.I.T.M.A. (Artificial Intelligence Time Machine Assistant).",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 7334789120
     },
     "70010000046255": {
         "id": "0100C7301658C000",
@@ -42984,7 +43115,7 @@
         "intro": null,
         "description": "Get a headstart with the Asphalt 9: Legends Starting Racer Bundle! Unlock incredible supercars and resources to boost your progress, and challenge your friends and family in split-screen multiplayer right from the beginning.\nThis bundle contains:\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Asphalt 9: Legends game\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20 Blueprints to unlock the BMW 3.0 CSL Hommage \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20 Blueprints to unlock the DS Automobiles DS E-Tense \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20 Blueprints to unlock the Lotus Evora Sport 410 \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20 Blueprints to unlock the Dodge Challenger 392 HEMI Scat Pack\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 25 Blueprints to unlock the Porsche 911 Carrera GTS \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 200,000 Credits\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 300 Tokens",
         "languages": null,
-        "size": 3196059648
+        "size": 3195011072
     },
     "70070000007782": {
         "id": null,
@@ -43811,7 +43942,7 @@
         "intro": null,
         "description": "Fire up your engine and unlock five of the most powerful Asphalt beasts, along with a bag full of resources to help you on your path to becoming a Nintendo Switch\u2122 legend.\nThe pack contains:\n\u2022         Asphalt 9: Legends game\n\u2022         30 Blueprints to unlock the Ferrari F12tdf\n\u2022         45 Blueprints to unlock the Aston Martin Vulcan\n\u2022         40 Blueprints to unlock the SCG 003S\n\u2022         30 Blueprints to unlock the SIN R1 550\n\u2022         45 Blueprints to unlock the Dodge Viper GTS\n\u2022         300,000 Credits\n\u2022         200 Tokens",
         "languages": null,
-        "size": 3196059648
+        "size": 3195011072
     },
     "70070000010402": {
         "id": null,
@@ -43879,7 +44010,7 @@
         "intro": null,
         "description": "Get on the fast track to becoming a Legend with the Triple Threat Bundle! Feel the unbridled power of 3 exclusive Class-C cars, plus a load of resources to fuel your drive to the top!\nThis bundle contains:\n\u2022 Asphalt 9: Legends game\n\u2022 50 Blueprints to unlock the Artega Scalo Superelletra\n\u2022 35 Blueprints to unlock the Maserati Alfieri\n\u2022 35 Blueprints to unlock the Arrinera Hussarya 33\n\u2022 1 exclusive decal for the Artega Scalo Superelletra\n\u2022 750,000 Credits \n\u2022 750 Tokens",
         "languages": null,
-        "size": 3196059648
+        "size": 3195011072
     },
     "70070000010562": {
         "id": null,
@@ -44375,7 +44506,7 @@
         "intro": null,
         "description": "Get a taste of some of the best Italian car manufacturers with 3 class-A vehicles from Ferrari, Lamborghini and Pagani. And boost your progression with Tokens and Credits, also included in this bundle! \nThis bundle contains:\n\u2022 The Asphalt 9: Legends game\n\u2022 50 blueprints to unlock the Ferrari 812 Superfast\n\u2022 50 blueprints to unlock the Lamborghini Aventador J\n\u2022 50 blueprints to unlock the Pagani Huayra BC\n\u2022 1,300,000 Credits\n\u2022 1,300 Tokens",
         "languages": null,
-        "size": 3196059648
+        "size": 3195011072
     },
     "70070000011160": {
         "id": null,
@@ -44919,7 +45050,7 @@
         "intro": null,
         "description": "Dominate the Multiplayer Seasons by unlocking these high-performance power cars, including the 2-STAR Lotus Elise Sprint 220, the Pininfarina H2 Speed, and the Chevrolet Corvette Grand Sport. You\u2019ll also receive a bundle of Tokens and Credits to help accelerate your progress.\nThis pack contains:\nThe Asphalt 9: Legends game\n30 Blueprints to unlock the 2-STAR Lotus Elise Sprint 220\n35 Blueprints to unlock the Pininfarina H2 Speed\n30 Blueprints to unlock the Chevrolet Corvette Grand Sport\n1,500,000 Credits\n1,500 Tokens",
         "languages": null,
-        "size": 3195011072
+        "size": 3193962496
     },
     "70070000011785": {
         "id": null,
@@ -45498,7 +45629,7 @@
         "intro": "Relive the epic adventure that defined the action RPG genre for decades",
         "description": "The Diablo\u00ae Prime Evil Collection includes: \n- Diablo\u00ae III: Eternal Collection game*\n- Diablo\u00ae II: Resurrected\u2122 game\n- Diablo\u00ae III: Hatred\u2019s Grasp Wings DLC*\n- Diablo\u00ae III: Mephisto Pet DLC* \n\nDiablo\u00ae II: Resurrected\u2122 is the definitive remastering of Diablo\u00ae II and its Lord of Destruction\u00ae expansion\u2014two hallmark entries in Blizzard Entertainment\u2019s genre-defining action role-playing series. Veteran players, as well as those who missed out when the original game was first released on PC twenty years ago, can now experience Diablo\u00ae II\u2019s timeless gameplay with modern visuals and audio that take advantage of today\u2019s gaming hardware. \n\nAscend the Forgotten Tower, blaze a trail through the jungles of Kurast, and storm the gates of Hell to defeat Diablo himself. Then, scale the peak of Mount Arreat to face Baal, the Lord of Destruction, in Worldstone Keep. \n\nSeven of Sanctuary\u2019s greatest champions await at the iconic campfire screen\u2014the Amazon, Assassin, Barbarian, Druid, Necromancer, Paladin, and Sorceress. Each is highly customizable with countless build and gear options for players to explore. \n\nDiablo\u00ae II: Resurrected can be played as a solo experience, or grab some friends on your preferred platform and enjoy multi-player co-op. Then blow off some steam and claim a few ears by engaging in thrilling PvP duels outside of town.\n\nFind your way back to New Tristram in Diablo\u00ae III: Eternal Collection, 20 years following the events in Diablo II: Resurrected. Return to where it all began and investigate rumors of a fallen star: the first sign of evil's rebirth, and an omen that the End Times have begun. Harness the might of your heroic birthright as one of seven playable classes.",
         "languages": null,
-        "size": 24628953088
+        "size": 25534922752
     },
     "70070000012493": {
         "id": null,
@@ -45907,7 +46038,7 @@
         "intro": null,
         "description": "The American Season is here! \nFeel the adrenaline rush of racing American supercars with this limited-time DLC. Unlock the Ford GT, Dodge Viper ACR, and Ford Shelby GT350R, plus a load of resources to fuel your drive to the top!\n\nThis bundle contains:\n- The Asphalt 9: Legends game\n- 35 blueprints to unlock the Ford GT\n- 35 blueprints to unlock the Dodge Viper ACR\n- 20 blueprints to unlock the Ford Shelby GT350R\n- 500,000 Credits\n- 500 Tokens\n\n",
         "languages": null,
-        "size": 3195011072
+        "size": 3193962496
     },
     "70070000012774": {
         "id": null,
