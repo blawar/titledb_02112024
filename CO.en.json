@@ -1995,7 +1995,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0beb41e342fc129c51b54cd9075c212ed208bdce61a15ac54dd7dc7e3426e118.jpg",
         "intro": "Build-As-You-Play Party Platformer!",
-        "description": "Ever wish you were a wall-jumping, arrow-dodging, trap-setting horse, besting your animal pals in a race through a peril-laden obstacle course that you all built together? \n \nWish Granted! \n \nUltimate Chicken Horse is a party platformer where you and your friends build the level as you play, placing deadly traps before trying to reach the end of the level. If you can make it but your friends can't, you score points! Play online or locally with your animal buddies and experiment with a wide variety of platforms to find new ways to mess with your friends.\n \n- Online and local play for up to 4 players\n- PC & Switch cross-play\n- Unique game flow, from strategic block placement to twitch control platforming\n- 15 levels with unique gameplay features \n- Build and share custom levels\n- Compete for global best times on Challenge levels across all platforms\n- Huge library of blocks to create an infinite variety of levels\n- Customizable rule sets and game modes\n- Shared controller mode to play multiplayer with one controller\n- Sweet funky soundtrack",
+        "description": "Ever wish you were a wall-jumping, arrow-dodging, trap-setting horse, besting your animal pals in a race through a peril-laden obstacle course that you all built together? \n \nWish Granted! \n \nUltimate Chicken Horse is a party platformer where you and your friends build the level as you play, placing deadly traps before trying to reach the end of the level. If you can make it but your friends can't, you score points! Play online or locally with your animal buddies and experiment with a wide variety of platforms to find new ways to mess with your friends.\n \n- Online and local play for up to 4 players\n- PC & Switch cross-play\n- Unique game flow, from strategic block placement to twitch control platforming\n- 18 levels with unique gameplay features \n- Build and share custom levels\n- Compete for global best times on Challenge levels across all platforms\n- Huge library of blocks to create an infinite variety of levels\n- Customizable rule sets and game modes\n- Shared controller mode to play multiplayer with one controller\n- Sweet funky soundtrack",
         "languages": [
             "ja",
             "en",
@@ -3505,7 +3505,7 @@
             "ko",
             "zh"
         ],
-        "size": 1589641216
+        "size": 1653604352
     },
     "70010000006801": {
         "id": "010008900705C000",
@@ -5401,7 +5401,7 @@
             "zh",
             "zh"
         ],
-        "size": 3191865344
+        "size": 3190816768
     },
     "70010000015034": {
         "id": "010049D00C8B0000",
@@ -8985,7 +8985,56 @@
             "zh",
             "zh"
         ],
-        "size": 25973227520
+        "size": 26049773568
+    },
+    "70010000025388": {
+        "id": "0100FA400FF78000",
+        "rightsId": null,
+        "name": "SkateBIRD",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210923,
+        "nsuId": 70010000025388,
+        "category": [
+            "Sports",
+            "Racing",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Lyrics"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Glass Bottom Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9dc5e9b5b137e9b72f47816557f77c6e55e3adf93dba068e8689a7970c45a68d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ad85da1130d3198f9231819a2f0aba9c3ccc40258ee54a1a05f9176f8b72130d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e04f88efcd55b04da9c2e0c0507fa38db1aab8bcbae153e7050108df734531ec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6fc4ea1211dbf13f5504009821e399d4fc3cb17e9a5b0fa6a1408c7f875e95e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a38803c01ba091ce60f634f4870efc3b8677c22487743f237d64562f78f5eb5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6983fe2f5f065e648a3d62b568f059b7d133d7b67ac24dd83e08e8324302cd6e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6bb3d03c4abf602acb7c3e173fa4358709db7734f57ed7244050dd8bad40b21.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a690c32650bc67d5ddfae8a65bb525ea80d3ba3052ca6621591e2f839b85a06.jpg",
+        "intro": "Grind on bendy straws, kick-flip over staplers, and carve killer lines through cardboard and sticky tape parks. Above all else, skate birds try their best! ",
+        "description": "Grind on bendy straws, kick-flip over staplers, and carve killer lines through cardboard and sticky tape parks, in SKATEBIRD\u00ae!\n\nYou're a lonely lil' bird, and your Big Friend has hung up their board for good. Their job sucks, and lately, they're barely ever home to play with you. You're gonna fix all that with the power of being a chill little skateboarding bird. You may be tiny, but the more you skate, the more following you get, the more the world of bird skating will open up. Birds will come check out your park, help you find more parks, and together you'll (somehow) fix Big Friend's life! Above all else, skate birds try their best!\n\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 3300917248
     },
     "70010000025496": {
         "id": "0100D0B00FB74000",
@@ -12396,6 +12445,56 @@
         ],
         "size": 7104102400
     },
+    "70010000036028": {
+        "id": "01002220138AE000",
+        "rightsId": null,
+        "name": "The Mean Greens - Plastic Warfare",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210922,
+        "nsuId": 70010000036028,
+        "category": [
+            "Shooter",
+            "Action",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Users Interact"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Virtual Basement",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9ceac722d046fce8700939b679440b0012909006f351262106f04d396885016e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a7cef33891bb1f5db173dec92a33de7ca3950d1b5f0f5a2ec00f3cc264037c53.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fad213a0cb64f16454b5a9c6a49a9ba25f99b7724de16ae2fa4f52a12aeadf16.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ccb76541483b7eed38ce788b80191294c21edab00166966ff6f868e6f00e38ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba364587c6440723763949b20cb7609e204fb519c419cf58c242aae133e39d14.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e278f1bf410c0ff09cdadf8da8bba82b9927bb1a2d5d805e58de19f61d7314c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/50ab3b9ea157898b8faeafcdad0ff69aaf21f3a28babd6f7f8a7c2a2faed4c49.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b3d462ebfe74585c7b051aba355f15eb35947b8cf778db80904e1f5a6620423f.jpg",
+        "intro": "Take part in history\u2019s greatest battle of Green VS. Tan. Fight amongst and against others online. Jump, shoot and roll your way into victory with fast-paced objective-based gameplay. ",
+        "description": "The Mean Greens is a 3rd-person shooter played from the perspective of toy army soldiers. Match up with others online for some friendly multiplayer competition. Enjoy a huge battle of up to 10 players in each environmentally unique map.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 3320840192
+    },
     "70010000036098": {
         "id": "0100B0C013912000",
         "rightsId": null,
@@ -12959,7 +13058,7 @@
             "de",
             "zh"
         ],
-        "size": 1613758464
+        "size": 1771044864
     },
     "70010000037986": {
         "id": "0100BC701417A000",
@@ -13425,7 +13524,7 @@
             "zh",
             "zh"
         ],
-        "size": 8295284736
+        "size": 9201254400
     },
     "70010000039214": {
         "id": "0100D670126F6000",
@@ -13635,7 +13734,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cb09ee16b75620d7dde00fdb2c54312ac9d29265555864d79484eecb1d3583da.jpg",
         "intro": "How will you lead?",
-        "description": "As President Rayne, lead the nation of Sordland in your first term of this text-based RPG. Navigate a political drama driven by conversations with your cabinet members. With looming war, rooted corruption, economic crisis and reform needed, the choices fall on your shoulders. How will you lead?\n\nYOU ARE THE PRESIDENT\nAs President Anton Rayne, lead Sordland during your first term. Navigate a political drama, driven by conversations with your cabinet members and other significant figures in a country with its own complicated history. With looming border conflicts, entrenched corruption, economic crisis and people desperate for reform, as leader the difficult choices fall on your shoulders as you strive to uphold your election promises.\n\nA COUNTRY IN TURMOIL\nIn 1954, the country of Sordland is emerging from a 20-year dictatorship, following a bloody civil war. You play as a charismatic young man, Anton Rayne, who has surprised everyone by rising to the top of the party in power and getting elected as the new President of Sordland.\n\nThe people are hungry for democratic reforms after decades under a traditionalist power. The economy is in shambles and the political landscape is shifting. Neighboring superpowers are watching closely, and there are military threats on the horizon.\n\nAs President, you have the final say but every choice you make has an impact. Your colleagues, the opposition, corporations; everyone has a point of view. Think and act carefully: once enacted your choices can not be reversed.\nGood luck, Mr. President.\n\nWHO WILL YOU TRUST?\nWork closely with the Cabinet and prominent figures to forge strong policies and practices. You will need to keep your allies on your side and carefully consider where you will compromise your values and who you will make an enemy of. Everyone has their own ambitions in play.\n\nWHAT WILL YOU SACRIFICE?\nLeading a country is demanding. Face constant conflict about which is more important, serving the country or supporting your family. Is it possible to be a good father and a good president at the same time?\n\nHOW WILL YOU LEAD?\nWeighty, dramatic conversations: Navigate intricate conversations in this 400K-word branching political drama.\nEvery choice has consequences: Make difficult choices on security, economy, diplomacy and more. Even outside the office, your values and beliefs will be challenged.\nMake allies and enemies: Interact with a wide array of characters with different personalities and ideologies.\nThe oath of office versus family and values: See the real impact of the choices made in office on your family and close relationships\nPay attention to current events: Follow the situation in Sordland through reports and news.\nWhat will your legacy be?: You can take the country in many different directions, resulting in one of 9 different major endings.\nEvery decision you make is final: there is an autosave feature that does not allow loading earlier saves. Make choices carefully.",
+        "description": "As President Rayne, lead the nation of Sordland in your first term of this text-based RPG. Navigate a political drama driven by conversations with your cabinet members. With looming war, rooted corruption, economic crisis and reform needed, the choices fall on your shoulders. How will you lead?\n\nYOU ARE THE PRESIDENT\nAs President Anton Rayne, lead Sordland during your first term. Navigate a political drama, driven by conversations with your cabinet members and other significant figures in a country with its own complicated history. With looming border conflicts, entrenched corruption, economic crisis and people desperate for reform, as leader the difficult choices fall on your shoulders as you strive to uphold your election promises.\n\nA COUNTRY IN TURMOIL\nIn 1954, the country of Sordland is emerging from a 20-year dictatorship, following a bloody civil war. You play as a charismatic young man, Anton Rayne, who has surprised everyone by rising to the top of the party in power and getting elected as the new President of Sordland.\n\nThe people are hungry for democratic reforms after decades under a traditionalist power. The economy is in shambles and the political landscape is shifting. Neighboring superpowers are watching closely, and there are military threats on the horizon.\n\nAs President, you have the final say but every choice you make has an impact. Your colleagues, the opposition, corporations; everyone has a point of view. Think and act carefully: once enacted your choices can not be reversed.\nGood luck, Mr. President.\n\nWHO WILL YOU TRUST?\nWork closely with the Cabinet and prominent figures to forge strong policies and practices. You will need to keep your allies on your side and carefully consider where you will compromise your values and who you will make an enemy of. Everyone has their own ambitions in play.\n\nWHAT WILL YOU SACRIFICE?\nLeading a country is demanding. Face constant conflict about which is more important, serving the country or supporting your family. Is it possible to be a good father and a good president at the same time?\n\nHOW WILL YOU LEAD?\n\u25cf Weighty, dramatic conversations: Navigate intricate conversations in this 400K-word branching political drama.\n\n\u25cf Every choice has consequences: Make difficult choices on security, economy, diplomacy and more. Even outside the office, your values and beliefs will be challenged.\n\n\u25cf Make allies and enemies: Interact with a wide array of characters with different personalities and ideologies.\n\n\u25cf The oath of office versus family and values: See the real impact of the choices made in office on your family and close relationships\n\n\u25cf Pay attention to current events: Follow the situation in Sordland through reports and news.\n\n\u25cf What will your legacy be?: You can take the country in many different directions, resulting in one of 9 different major endings.\n\n\u25cf Every decision you make is final: there is an autosave feature that does not allow loading earlier saves. Make choices carefully.",
         "languages": [
             "en"
         ],
@@ -14293,6 +14392,93 @@
         ],
         "size": 427819008
     },
+    "70010000041504": {
+        "id": "0100FBE0151DC000",
+        "rightsId": null,
+        "name": "THE Card Battle: Eternal Destiny",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70010000041504,
+        "category": [
+            "Adventure",
+            "Board Game",
+            "Simulation",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Suggestive Themes"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "D3 Publisher",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a8ab193b5f5c4ecb1b33b13dd9e9d7d39520240d252c0e547fc95455d4bdc157.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2389c6b563ddd1cc5a6eaaa7d18e26381d966cd1527ecaa54a557495375b057a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3dbb3cfa049e1cca070fc658dd6a4bf75c9ccbb95ece699d4ebf8b25770418cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ff2e953ec96a996a1556e3e9355b3a809a361f880770cff6250bfa713fa182f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e6ce1381afc70a921cc89dd93efd0d241a73543812f381a3f7f5125574dc210.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09251d6c0e025d145f8ccf5808afaf392cc59d7771fa82ef14da250289f519d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1785ef9e4c7ac18296a73d5e1bcb0c43fab20e168800637d93f8eab73fa1bb09.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bde493c6a099e7b4e7fef3d878b0f92ce3615506c9ac9a712a0c2340cd825aef.jpg",
+        "intro": "Exhilarating battles with moving cards!\nTeam up with unique characters to win it all!",
+        "description": "THE Card Battle: Eternal Destiny is an epic card game inspired by myths and legends, featuring 600+ cards with delightful animation! \nBuild your own deck with various cards, and beat enemies with high-level strategy combining evolutions, abilities, and attributes.\n\nStory:\nEarth: the Millennium of humans has approached its end. History has come to a halt. Demons, angelic Kells, and human Cybers are in a three way conflict with no end in sight. Weary of fighting, people have placed their hopes on the Infinita Sacrament, said to have the power to change the world. An independent organization, \u201cThe Agency\u201d, was created to search for it.\nWho will obtain the Infinita Sacrament and take command of the next Millennium? The future is shrouded in dark mystery. You are the new Agent.\n\nFeatures:\n-600+ cards, all with eye-catching animation\n-Evolve your cards by stacking two of the same card!\n-Defeat enemies by combining cards with various skills, abilities, and attributes\n-Story mode: solve problems as a new Agent with unique allies, and enjoy visual-novel-style storytelling\n-Dungeon mode: explore dungeons, level up, and obtain rare cards\n-Collect unique cards inspired by famous myths and legends\n-Pick sides and choose your favorite faction!\n-Play and unlock exclusive art",
+        "languages": [
+            "ja",
+            "en",
+            "zh",
+            "zh"
+        ],
+        "size": 2723151872
+    },
+    "70010000041729": {
+        "id": "0100E010152CA000",
+        "rightsId": null,
+        "name": "Cupid Parasite",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211102,
+        "nsuId": 70010000041729,
+        "category": [
+            "RPG",
+            "Adventure",
+            "Lifestyle",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Language",
+            "Sexual Themes"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Idea Factory",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/26238498ba8afd26e2652023e7d569e819dc1b3a59855df1ff5b044fceb2fe28.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cbe29d6fe19b11fd09c7da2fb1293694a49c4a2b35ae82d2e07914952ab914c5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1daec03d114eed496f2d6139f5f34c546390ac130dfa0624ee83217c1b2f9393.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17969341240ca066bdca7173ea3a40276354f647d74d4e60a4ac843662fb1777.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c44243006a63f8bfa7d51bf6f6cdd7de2a72973908ffceedf38c04e3b6563bfd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/edd86f55cfd0e872677651c12b8c1c20a8593235635c599c7a5c0d49bd1fc817.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f953b757517c9c19016cc0c6a5a36b2ec042be9972cd515aeddbf8b2ec61f781.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3f19d1a89dce0d486de8e79fbda8e0490eb84895e709aed64fc73436e903f625.jpg",
+        "intro": "In finding love for the Parasite 5, will Cupid find love herself?",
+        "description": "What's love got to do with it? In this divine romantic comedy, play as Lynette Mirror, Cupid Corporation's top bridal advisor and none other than Celestia's Goddess of Love, Cupid! Determined to prove that love is more than bows and arrows, she meets her biggest challenge yet - the infamous Parasite 5.\n\nBut in finding love for the Parasite 5, will Cupid find love herself?\n\nKey Features\n\nFrom Boys to Men  \u2013 Help the Parasite 5 find true love through \"practice dates\" to prepare them for their future partners. Maybe you'll find your true love along the way?\n\nAre U That Somebody? \u2013 Find your ideal love type through the dating questionnaire! Each Parasite 5 member has a different love type, which means the partner you end up with will depend on the results of the questionnaire. Want to explore the different love types? New Game+ allows players to manually select your character route, and may even unlock more love connections...\n\nFirst Comes Love, Then Comes Marriage \u2013 The answers you choose during story choices can increase your Love Level with a character. If a character likes your answer, you'll experience a Love Surge. You can take the difficulty up a notch by turning off the Love Surge animations in the menu. A specific Love Level is needed to get a route's true ending!\n\nGo With The Flow \u2013 A Flow Chart is available to keep track of story progression. Hop to and from already experienced scenes to revisit your story choices. Use the Flow Chart to re-do routes and/or relive any memorable scenes!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 6402605056
+    },
     "70010000041760": {
         "id": "01005C50152DC000",
         "rightsId": null,
@@ -14759,15 +14945,19 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/91e382e3e87726746dc714d3cab616a57ead6d797cff8c2f757b448534ce7cf4.jpg",
         "intro": "Team up and take down the opposition in Pok\u00e9mon\u2019s first 5-on-5 strategic team battle game!",
-        "description": "Join Trainers from around the world as they head for Aeos Island to compete in Unite Battles! In Unite Battles, Trainers face off in 5-on-5 team battles to see who can score the most points within the allotted time. Teamwork is key as you and your teammates defeat wild Pok\u00e9mon, level up and evolve your partner Pok\u00e9mon, and knock out the opposing team\u2019s Pok\u00e9mon to prevent them from scoring points. Put your teamwork to the test, and take home the win!\n\n\u2022 BATTLE IN STYLE: Take to the field while looking your best in Holowear! Thanks to a special technology developed using Aeos energy, Trainers can deck out their Pok\u00e9mon in a variety of holographic outfits\u2014with new styles arriving regularly!\n\n\u2022 UNITE MOVES: Unleash the true power of your Pok\u00e9mon with Unite Moves! Leverage these all-new Pok\u00e9mon moves, which are only possible while in Unite Battles, and turn the tide of even the direst situations.\n\n\u2022 RANK UP: Looking to prove how skilled you are? Participate in ranked matches, and earn points as you climb up the global leaderboard!\n\n\u2022 COMMUNICATION IS KEY: Even the most skilled Trainers recognize how important communication is to their team\u2019s success. Leverage signals, quick-chat messages, and\u2014for the first time in a Pok\u00e9mon title\u2014voice chat to communicate and stay in sync with your team.\n\n\u2022 CROSS-PLATFORM PLAY: Play with Trainers around the world on the Nintendo Switch\u2122 system or on a compatible smartphone (available this September) thanks to cross-platform support. Trainers may use their Pok\u00e9mon Trainer Club account or Nintendo Account on both Nintendo Switch and mobile to easily keep their progress synced between devices.",
+        "description": "Join Trainers from around the world as they head for Aeos Island to compete in Unite Battles! In Unite Battles, Trainers face off in 5-on-5 team battles to see who can score the most points within the allotted time. Teamwork is key as you and your teammates defeat wild Pok\u00e9mon, level up and evolve your partner Pok\u00e9mon, and knock out the opposing team\u2019s Pok\u00e9mon to prevent them from scoring points. Put your teamwork to the test, and take home the win!\n\n\u2022 BATTLE IN STYLE: Take to the field while looking your best in Holowear! Thanks to a special technology developed using Aeos energy, Trainers can deck out their Pok\u00e9mon in a variety of holographic outfits\u2014with new styles arriving regularly!\n\n\u2022 UNITE MOVES: Unleash the true power of your Pok\u00e9mon with Unite Moves! Leverage these all-new Pok\u00e9mon moves, which are only possible while in Unite Battles, and turn the tide of even the direst situations.\n\n\u2022 RANK UP: Looking to prove how skilled you are? Participate in ranked matches, and earn points as you climb up the global leaderboard!\n\n\u2022 COMMUNICATION IS KEY: Even the most skilled Trainers recognize how important communication is to their team\u2019s success. Leverage signals, quick-chat messages, and\u2014for the first time in a Pok\u00e9mon title\u2014voice chat to communicate and stay in sync with your team.\n\n\u2022 CROSS-PLATFORM PLAY: Play with Trainers around the world on the Nintendo Switch\u2122 system or on a compatible smartphone thanks to cross-platform support. Trainers may use their Pok\u00e9mon Trainer Club account or Nintendo Account on both Nintendo Switch and mobile to easily keep their progress synced between devices.",
         "languages": [
             "ja",
             "en",
+            "es",
+            "fr",
+            "de",
+            "it",
             "ko",
             "zh",
             "zh"
         ],
-        "size": 973078528
+        "size": 1182793728
     },
     "70010000043430": {
         "id": "01001E30126A0000",
@@ -14854,6 +15044,56 @@
         ],
         "size": 3473932288
     },
+    "70010000044013": {
+        "id": "010046701597E000",
+        "rightsId": null,
+        "name": "Aeon Drive",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70010000044013,
+        "category": [
+            "Arcade",
+            "Action",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Critical Reflex",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f7c37de0768bc6d942dc96317aed5e61eac2ca1cf444ae6a17e8cdbe6cf8a0d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ca6bd2edf3e6538d140229900ca4c202c64ce14e5bf9fac3ef1f7bad2c89b609.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d46022a9db48bbd3084cca21e8a4d2baf9907b59738cf15192ebe5d40a5b00e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32626cdbfa55eb731b948b6cf01c7d2cb1ef118cd48d56d7920dcca318bf4e5e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae3f92d056d3d5750a0ea67fec23ddb46b721e73cbc81a92c1d1df235c2cdd8e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32626cdbfa55eb731b948b6cf01c7d2cb1ef118cd48d56d7920dcca318bf4e5e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/15aa53864deb0b99ba3ac4259c953dc8aab060900e5733c039834ee7c3fef6bd.jpg",
+        "intro": "Set in the neon-colored landscape of Neo Barcelona, Aeon Drive is an action platformer with a speedrunning twist!",
+        "description": "Set in the neon-colored landscape of Neo Barcelona, Aeon Drive is an action platformer with a speedrunning twist!\nYou\u2019ll play as Jackelyne, a young space ranger from another dimension. Desperately trying to get home, she crash-lands her spaceship into the middle of a bustling metropolis, Neo Barcelona. \nWith the power sword, teleportation dagger and unique skill to control time, Jackelyne has to find all the Drive Cores to fix her ship - and save the city from impending doom. \nRun through time itself! Aeon Drive features a unique time-warping system that saves players the frustration of repetition and keeps the challenge fresh.\nTeleport through lasers, spikes or saws, crouch-dash at the last moment to evade that incoming shot and run through 100 levels across several areas of Neo Barcelona! \nUse Jackelyne\u2019s Power Sword, Teleportation Dagger and time-bending abilities in this action platformer with a speedrunning twist\nModern & retro looks come together in the game\u2019s pixel-art style!\nEnjoy a dashing (get it?) vacation in a cyberpunk version of the tourist darling, Neo Barcelona!\nAdvanced scoring system that enables long term replayability!\nReal-time difficulty adjustment \u2013 collect time-warping devices and use them strategically! ",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 497025024
+    },
     "70010000044024": {
         "id": "0100D6A015B12000",
         "rightsId": null,
@@ -14922,7 +15162,7 @@
             "Use of Tobacco"
         ],
         "numberOfPlayers": 1,
-        "rating": 13,
+        "rating": 10,
         "developer": null,
         "publisher": "Mindscape",
         "frontBoxArt": null,
@@ -15305,6 +15545,54 @@
             "zh"
         ],
         "size": 7334789120
+    },
+    "70010000046238": {
+        "id": "01004E6016370000",
+        "rightsId": null,
+        "name": "Panmorphia",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211007,
+        "nsuId": 70010000046238,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "LKMAD",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7759173778beff10ce75b8e07edf565553831436963cf1a829abb9a08ad9fcbc.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1471ba68c369b5f92101815123818448fafa05f167b786273ff4ef7a55aee0aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e325ebf7aa4a2a8795b875d4a1b95f0c8df14ade2268ee5cf315b56698854fa3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3286c6857019086da51318d122adf9bf24bf2c19f26f28f7972a51f170346862.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a48eb383a9b740de4783d7900951e21ccb8f9963aac7b1a80dc3924dc29e7aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b416efff50d780d2df67d2b683c0d41879093450ed55c9b0480e8168ed250a31.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a2168b9a46106a5ffd95aa1878d5d1352646fad5f5587be16c371ac1bad5cf0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b89597497efd8754522b3bf6bcc6ba820d94b5181d12f98bddca005ba3ec1bf.jpg",
+        "intro": "A point and click, puzzle adventure game set in the magical world of Panmorphia.",
+        "description": "\u2022 The Legend of Panmorphia \u2022\n\nThe legend goes that in each generation a child is born, a sentinel, bound to the land of Panmorphia and the four elements that govern it.\n\nThe sentinels have the ability to wield each element and transform themselves into an animal that best represents it.\n\nWith the use of the amulet they are able to combine all four elements and travel through the aether.\n\nThey are called upon for help in times of need.\n\nFeatures:\n\u2022 Point and click, puzzle adventure game!\n\u2022 A beautiful world to discover!\n\u2022 Morph into a cat, bird or fish and gain unique perspective in the world! \n\u2022 Many items to collect and puzzles to solve!\n\u2022 Dynamic map and notebook that track your discoveries!\n\u2022 An 'Easy Mode' for those wanting a more relaxed gaming experience!\n\u2022 An 'Arrows' navigation option!\n\u2022 A Hint System that gives you the next task and highlights the location on the map!\n\u2022 Original soundtrack and sound effects!\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 193986560
     },
     "70010000046255": {
         "id": "0100C7301658C000",
@@ -42993,7 +43281,7 @@
         "intro": null,
         "description": "Get a headstart with the Asphalt 9: Legends Starting Racer Bundle! Unlock incredible supercars and resources to boost your progress, and challenge your friends and family in split-screen multiplayer right from the beginning.\nThis bundle contains:\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Asphalt 9: Legends game\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20 Blueprints to unlock the BMW 3.0 CSL Hommage \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20 Blueprints to unlock the DS Automobiles DS E-Tense \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20 Blueprints to unlock the Lotus Evora Sport 410 \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 20 Blueprints to unlock the Dodge Challenger 392 HEMI Scat Pack\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 25 Blueprints to unlock the Porsche 911 Carrera GTS \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 200,000 Credits\n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 300 Tokens",
         "languages": null,
-        "size": 3196059648
+        "size": 3195011072
     },
     "70070000007782": {
         "id": null,
@@ -43820,7 +44108,7 @@
         "intro": null,
         "description": "Fire up your engine and unlock five of the most powerful Asphalt beasts, along with a bag full of resources to help you on your path to becoming a Nintendo Switch\u2122 legend.\nThe pack contains:\n\u2022         Asphalt 9: Legends game\n\u2022         30 Blueprints to unlock the Ferrari F12tdf\n\u2022         45 Blueprints to unlock the Aston Martin Vulcan\n\u2022         40 Blueprints to unlock the SCG 003S\n\u2022         30 Blueprints to unlock the SIN R1 550\n\u2022         45 Blueprints to unlock the Dodge Viper GTS\n\u2022         300,000 Credits\n\u2022         200 Tokens",
         "languages": null,
-        "size": 3196059648
+        "size": 3195011072
     },
     "70070000010402": {
         "id": null,
@@ -43888,7 +44176,7 @@
         "intro": null,
         "description": "Get on the fast track to becoming a Legend with the Triple Threat Bundle! Feel the unbridled power of 3 exclusive Class-C cars, plus a load of resources to fuel your drive to the top!\nThis bundle contains:\n\u2022 Asphalt 9: Legends game\n\u2022 50 Blueprints to unlock the Artega Scalo Superelletra\n\u2022 35 Blueprints to unlock the Maserati Alfieri\n\u2022 35 Blueprints to unlock the Arrinera Hussarya 33\n\u2022 1 exclusive decal for the Artega Scalo Superelletra\n\u2022 750,000 Credits \n\u2022 750 Tokens",
         "languages": null,
-        "size": 3196059648
+        "size": 3195011072
     },
     "70070000010562": {
         "id": null,
@@ -44384,7 +44672,7 @@
         "intro": null,
         "description": "Get a taste of some of the best Italian car manufacturers with 3 class-A vehicles from Ferrari, Lamborghini and Pagani. And boost your progression with Tokens and Credits, also included in this bundle! \nThis bundle contains:\n\u2022 The Asphalt 9: Legends game\n\u2022 50 blueprints to unlock the Ferrari 812 Superfast\n\u2022 50 blueprints to unlock the Lamborghini Aventador J\n\u2022 50 blueprints to unlock the Pagani Huayra BC\n\u2022 1,300,000 Credits\n\u2022 1,300 Tokens",
         "languages": null,
-        "size": 3196059648
+        "size": 3195011072
     },
     "70070000011160": {
         "id": null,
@@ -44928,7 +45216,7 @@
         "intro": null,
         "description": "Dominate the Multiplayer Seasons by unlocking these high-performance power cars, including the 2-STAR Lotus Elise Sprint 220, the Pininfarina H2 Speed, and the Chevrolet Corvette Grand Sport. You\u2019ll also receive a bundle of Tokens and Credits to help accelerate your progress.\nThis pack contains:\nThe Asphalt 9: Legends game\n30 Blueprints to unlock the 2-STAR Lotus Elise Sprint 220\n35 Blueprints to unlock the Pininfarina H2 Speed\n30 Blueprints to unlock the Chevrolet Corvette Grand Sport\n1,500,000 Credits\n1,500 Tokens",
         "languages": null,
-        "size": 3195011072
+        "size": 3193962496
     },
     "70070000011785": {
         "id": null,
@@ -45507,7 +45795,7 @@
         "intro": "Relive the epic adventure that defined the action RPG genre for decades",
         "description": "The Diablo\u00ae Prime Evil Collection includes: \n- Diablo\u00ae III: Eternal Collection game*\n- Diablo\u00ae II: Resurrected\u2122 game\n- Diablo\u00ae III: Hatred\u2019s Grasp Wings DLC*\n- Diablo\u00ae III: Mephisto Pet DLC* \n\nDiablo\u00ae II: Resurrected\u2122 is the definitive remastering of Diablo\u00ae II and its Lord of Destruction\u00ae expansion\u2014two hallmark entries in Blizzard Entertainment\u2019s genre-defining action role-playing series. Veteran players, as well as those who missed out when the original game was first released on PC twenty years ago, can now experience Diablo\u00ae II\u2019s timeless gameplay with modern visuals and audio that take advantage of today\u2019s gaming hardware. \n\nAscend the Forgotten Tower, blaze a trail through the jungles of Kurast, and storm the gates of Hell to defeat Diablo himself. Then, scale the peak of Mount Arreat to face Baal, the Lord of Destruction, in Worldstone Keep. \n\nSeven of Sanctuary\u2019s greatest champions await at the iconic campfire screen\u2014the Amazon, Assassin, Barbarian, Druid, Necromancer, Paladin, and Sorceress. Each is highly customizable with countless build and gear options for players to explore. \n\nDiablo\u00ae II: Resurrected can be played as a solo experience, or grab some friends on your preferred platform and enjoy multi-player co-op. Then blow off some steam and claim a few ears by engaging in thrilling PvP duels outside of town.\n\nFind your way back to New Tristram in Diablo\u00ae III: Eternal Collection, 20 years following the events in Diablo II: Resurrected. Return to where it all began and investigate rumors of a fallen star: the first sign of evil's rebirth, and an omen that the End Times have begun. Harness the might of your heroic birthright as one of seven playable classes.",
         "languages": null,
-        "size": 24628953088
+        "size": 25534922752
     },
     "70070000012493": {
         "id": null,
@@ -45916,7 +46204,7 @@
         "intro": null,
         "description": "The American Season is here! \nFeel the adrenaline rush of racing American supercars with this limited-time DLC. Unlock the Ford GT, Dodge Viper ACR, and Ford Shelby GT350R, plus a load of resources to fuel your drive to the top!\n\nThis bundle contains:\n- The Asphalt 9: Legends game\n- 35 blueprints to unlock the Ford GT\n- 35 blueprints to unlock the Dodge Viper ACR\n- 20 blueprints to unlock the Ford Shelby GT350R\n- 500,000 Credits\n- 500 Tokens\n\n",
         "languages": null,
-        "size": 3195011072
+        "size": 3193962496
     },
     "70070000012774": {
         "id": null,
