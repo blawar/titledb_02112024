@@ -4226,7 +4226,7 @@
             "ru",
             "ko"
         ],
-        "size": 13848543232
+        "size": 14297333760
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -7445,7 +7445,7 @@
             "ru",
             "ko"
         ],
-        "size": 14794358784
+        "size": 14863564800
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -9014,7 +9014,7 @@
             "it",
             "zh"
         ],
-        "size": 3974103040
+        "size": 3973054464
     },
     "70010000024294": {
         "id": "010036E00FB20000",
@@ -11745,7 +11745,49 @@
             "ko",
             "zh"
         ],
-        "size": 6197084160
+        "size": 6196035584
+    },
+    "70010000033296": {
+        "id": "0100A78012A76000",
+        "rightsId": null,
+        "name": "Angry Alligator",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211019,
+        "nsuId": 70010000033296,
+        "category": [
+            "Adventure",
+            "Action",
+            "Simulation",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Crude Humor",
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Orange One",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6897d8b62195a42b113b13ba787d396c7f685467202de9298e03c7784b54d64e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/17af3cce71dcfd16cb58add66880ca9f404781e90ce366f99eebf6f4ef235c1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/328598fd66a89bc81b5544f16d0f20f67c2214d98ee637eccc002128d723cf33.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3691bc555a04750bc241438de748a2e8623ffcb2c2f49a0e622c8f99f9e93f8c.jpg",
+        "intro": "Embark on a swamptastic adventure to grow into the biggest, baddest gator of your swamp town!",
+        "description": "Come on down to the swamp and go on an adventure like no other! Start as a small baby gator and grow into the biggest, baddest reptile around. Eat everything that moves, and more, so you can grow big and strong to face all challenges ahead. \nThe fate of the swamp and all that reside within, lies on your scaled shoulders! Horrible hoomans have taken over and only you can scare them away! But never fear! You won\u2019t be alone. Listen to the words of Wisecroc - the wisest croc in town - as he guides you along the squishy and swampy path to gator greatness. \n\nUse your wits, your jaws and all goofy equipment you can find to change the swamp back to the fun, safe haven it once was! Rescue your fellow gators from the clutches of the horrid hoomans and their wicked experiments. Scare away pesky tourists littering your beautiful swamp, flee from drones trying to capture you and face off against big bad boss beasts!\n\nAre you hungry for adventure? The whole swamp is counting on you!\n\n\u2022 Join a small alligator on a big adventure to free his home from those horrible hoomans! Nobody messes with your swamp!\n\u2022 Become one with the wisdom of Wisecroc and learn the ways of the swamp.\n\u2022 Explore a colorful and massive open world filled with creatures to meet and eat, hoomans to scare away, boss beasts to fight and plenty of secrets to discover!\n\u2022 Grow into the biggest gator in the swamp and eat everything that\u2019s in your way: from frogs, birds and even bears, to the source of all evil - hoomans! \n\u2022  Choose from various alligators to play as - or even dress them up! Who said alligators can\u2019t wear hats? Or wigs?\n\u2022  Do all you can to mess with those stinky hoomans! Raid their camps, pull them through toilets or even blow things up using EXPLOSIONS! It\u2019s revenge time!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "pt"
+        ],
+        "size": 902823936
     },
     "70010000033299": {
         "id": "01008DF012A7A000",
@@ -14766,6 +14808,47 @@
         ],
         "size": 320864256
     },
+    "70010000041635": {
+        "id": "010050F015280000",
+        "rightsId": null,
+        "name": "The Jackbox Party Pack 8",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211014,
+        "nsuId": 70010000041635,
+        "category": [
+            "Party"
+        ],
+        "ratingContent": [
+            "Crude Humor",
+            "Fantasy Violence",
+            "Language",
+            "Sexual Themes",
+            "Users Interact"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Jackbox Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2ec40e01e98921315eb53e00387aaae2a9129f5e130747bd3d90c04cb4a96696.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6caba88c94e29f71e9df17bb63b6a0cf6b0febc24417f46f0252040a3e061146.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dea966d4f7e38604b01277b1ccc0efdfb003651d4490694fd035af9ab1c2bb6a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce500950afffbae81b5b42176f2be4c11e5db398262800daa999bdbc47bb939a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abeac4781ea433cdb1633004bf11ab685fd71ecb2a29ba93b5e9fd57c8e14489.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd3bd65398ed9166b58d3fea979ec69624679504f51ab121af629ebd8969da37.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9dba039087e728d79edd30024054aea899f0fbc82b9db824e3a21d0914e731a4.jpg",
+        "intro": null,
+        "description": "About The Jackbox Party Pack 8\n\nThe eighth installment of the beloved Jackbox Party Pack franchise is here! Five hilarious new games will energize your next game night, holiday party, happy hour, or video call. \n\nNo extra controllers needed - players use their phones or tablets to play along! Got a bigger group? Play with up to 10 players and up to 10,000 audience members. \n\nThe Jackbox Party Pack 8 is currently in English only. This game does not support online matchmaking but can still be enjoyed remotely using livestreaming services or video conferencing tools. \n\n\nAbout Each Game\n\n\nDrawful Animate (3 -10 players) - It\u2019s alive! The guessing game with terrible drawings and hilariously wrong answers makes a dynamic return. In this revamped title, players create looping, two-frame animations based on weird and random titles.\n\nThe Wheel of Enormous Proportions (2-8 players) - Trivia has never been so large! A fantastic, mystical wheel challenges you with a variety of trivia prompts. Winners are awarded slices of the Wheel\u2019s face with a chance to win big with each nail-biting spin. In the end, one player will have their most burning question answered by the great Wheel.\n\nJob Job (3-10 players) - Use other people\u2019s words to create unique and funny answers to classic job interview questions. Go head to head to see who scores the job!\n\nThe Poll Mine (2-10 players) - A survey game that\u2019s all about YOU! Split into teams and see who can escape from the witch\u2019s lair! Players individually rank their choices to a difficult question, then must guess how the group answered as a whole. How well do you know your friends?!\n\nWeapons Drawn (4-8 players) - A social deduction game where everyone is both a murderer and a detective. Players doodle all the clues, hiding a letter from their name in the weapon drawings. Can you solve murders while trying to get away with your own?",
+        "languages": [
+            "en"
+        ],
+        "size": 1408237568
+    },
     "70010000041661": {
         "id": "010049E013134000",
         "rightsId": null,
@@ -15968,6 +16051,47 @@
         ],
         "size": 0
     },
+    "70010000045222": {
+        "id": "01007740160D4000",
+        "rightsId": null,
+        "name": "DUSK",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70010000045222,
+        "category": [
+            "First-Person Shooter",
+            "Action",
+            "Shooter",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Use of Alcohol and Tobacco",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "New Blood",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ae107563f340968eb9de7e47eb63827e56967ca0659ee6b0569c6d15040d9b09.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/200caf001c91d8db52a90935b2240b30036339412ac6eda7ec0a791ce3c625b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98ef394117f8eb26d2750b8a420f4e2ba5a3ef3d28ac000eb5c9e6bd8f20628d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35809406d4a7489a85ad30f437a06a1e396acca8ca3f783fccef4fc4e4e5278a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be27ef435a26f00417c49e7e5ff359ee6898195bc6ac6b3ceeee9ea7f460401f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c5745d76421f345413594f121de3c805a7f658d0255c9174ee537be0ad532e3.jpg",
+        "intro": "Don't trust your eyes.",
+        "description": "Battle through an onslaught of mystical backwater cultists, possessed militants & even darker forces as you attempt to discover just what lurks beneath the Earth in this retro FPS.",
+        "languages": [
+            "en"
+        ],
+        "size": 2897215488
+    },
     "70010000045267": {
         "id": "01000000160F6000",
         "rightsId": null,
@@ -16366,7 +16490,7 @@
         "languages": [
             "en"
         ],
-        "size": 328204288
+        "size": 377487360
     },
     "70010000046322": {
         "id": null,
@@ -16413,6 +16537,48 @@
             "zh"
         ],
         "size": 0
+    },
+    "70010000046617": {
+        "id": "01002FB016784000",
+        "rightsId": null,
+        "name": "DUSK '82",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210928,
+        "nsuId": 70010000046617,
+        "category": [
+            "Puzzle",
+            "Arcade",
+            "Adventure",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "New Blood",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0d04a0635f42285a3ef8cb204cebf56f9e0812f8ef0b2d07cdd471e45d7df3d5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f348d43a2662a64f76e2c83b414f79d62d83303e7b8c9c016172e33902a27b34.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c812b8f6dbef1526822f2924fea502ee88e09a037a6ba24bc4495ca65486626d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/887f382722e2dd929eaca92673f197fbe27cbff94a89abfdf044c214cc88ed22.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad7c5c4406cdbbafd57ade72b029c11801a1f4ba017f514b458a8ffd0935bcc1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a648785aa5275479fbaadb30823cc5d2b5c7f94ede5bd49407a6bbb0563d5e26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d81a809a774c86f1f6d55e712e0d762e0ec3de6fdff8117dd26437ee8c03394b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1d77e34a72f21804eeefb30c3840e1697d789e8d1de6e85baac5670c2cbca863.jpg",
+        "intro": "DUSK / DEMADE",
+        "description": "DUSK '82 is a a simple but addictive 8-bit action-puzzler. A 30 level prequel demake of the cult shooter DUSK, inspired by classics like Chip's Challenge and Sokoban.",
+        "languages": [
+            "en"
+        ],
+        "size": 78643200
     },
     "70030000000042": {
         "id": null,
@@ -19593,7 +19759,7 @@
         "intro": null,
         "description": "Amanitore leads Nubia in Sid Meier\u2019s Civilization VI! Nubia\u2019s ranged units are strong, easy to build and quick promote, and they can use their unique Nubian Pyramid improvement to boost the construction and yield of districts. If you want to build a strong foundation early in the game for success, then Nubia is the right civ for you. \n\nIncludes the Nubian Civilization with Amanitore, the Pitati Archer unique unit, Nubian Pyramid unique improvement, and the new Jebel Barkal Wonder.\n\n\u2022 Civ Unique Ability: Nubia gets bonus production towards Ranged units, and all Ranged units gain combat experience faster. Mines provide extra production over strategic resources, and extra gold over luxury resources.\n\n\u2022 Leader Unique Ability: Amanitore gives Nubia bonus production towards building Districts, which can be boosted further if there is a Nubian Pyramid adjacent to the City Center.\n\n\u2022 Unique Unit: The Pitati Archer replaces the Ancient Era Archer. It is stronger and faster than the ancient Archer and upgrades to Crossbowman.\n\n\u2022 Unique Infrastructure: The Nubian Pyramid can be built on Desert, Desert Hills, or Floodplains, and provides Faith, as well as additional yields based on the adjacent District, or Food for the City Center.\n\nNew \u201cGifts of the Nile\u201d Scenario:\n\u2022 Choose Nubia or Egypt as you compete against the other civ to be the first to complete 7 Temples to Amun in this scenario set along the banks of the great Nile River.\n\n\u2022 Includes unique rules and gameplay, and the Nile River is navigable by Naval units.\n\n\u2022 125 Turn limit.\n\nNew Jebel Barkal Wonder:\n\u2022 This Wonder provides extra Faith to all nearby Cities, and must be built on Desert Hills.",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "010044500C183001"
         ]
@@ -19633,7 +19799,7 @@
         "intro": null,
         "description": "Jayavarman VII leads Khmer and Dyah Gitarja leads Indonesia in Sid Meier\u2019s Civilization VI! Though each is versatile and unique, both civilizations bring new challengers to the religious game. Indonesia is a strong coastal civilization with potential for a huge Jong-powered navy, and the Khmer thrive in their populous riverside cities. Both of these civilizations come into play in the new \u201cPath to Nirvana\u201d scenario, where you compete to have the most followers of your religion on a unique Southeast Asia map. \n\nIncludes the Khmer civilization with Jayavarman VII, the Domrey unique unit, and the Prasat unique improvement.\n\n\u2022 Civ Unique Ability: The \u201cGrand Barays\u201d ability gives Khmer additional food when Farms are built next to Aqueducts, and Aqueducts provide both Faith and an Amenity. \n\n\u2022 Leader Unique Ability: Jayavarman\u2019s \u201cMonasteries of the King\u201d ability lets Khmer grab adjacent territory as well as Food and Housing when Holy Sites are built on a river. \n\n\u2022 Unique Unit: The Domrey, a ballista mounted on an elephant, is stronger than a Catapult, can move and shoot on the same turn, and exerts Zone of Control. \n\n\u2022 Unique Building: The Prasat replaces the Temple and provides a Relic Great Work slot. Missionaries that are produced here gain a new attribute when killed in religious combat: they generate a Relic.\n\nAlso includes the Indonesian civilization with Dyah Gitarja, the Jong unique unit, and the Kampung unique improvement:\n\n\u2022 Civ Unique Ability: With the \u201cGreat Nusantara\u201d ability, Coastal Tiles provide Indonesia with minor adjacency bonuses for certain districts and Entertainment Complexes give an extra Amenity if they are adjacent to a non-lake Coastal Tile.\n\n\u2022 Leader Unique Ability: Gitarja has the \u201cExalted Goddess of the Three Worlds\u201d ability, granting bonus Faith to coastal cities and allowing her to purchase Naval units with Faith at a discount, as well as eliminating movement cost for Religious unit to embark or disembark.\n\n\u2022 Unique Unit: Indonesia\u2019s unique unit is the Jong, which replaces the Frigate. It is faster, gains extra combat power if it\u2019s in a formation, and all of the units in its formation gain its movement speed. \n\n\u2022 Unique Improvement: The Kampung provides Housing, Production and Food for each adjacent Fishing Boat, and can be improved through further tech research later in the game. \n\nNew \u201cPath to Nirvana\u201d Scenario:\n\u2022 The lands around the Indian Ocean flourish with many religions and many people. Heaven has chosen you to bring the light to all these lands. Is your faith up to the challenge? In this 50 turn scenario, compete to have the most followers of your religion, the most faith per turn, and the most foreign cities following your religion.\n\nNew Wonder:\n\u2022 Angkor Wat: The largest religious monument in the world returns to Civilization! This temple must be built adjacent to an Aqueduct and provides Faith, plus it adds Housing and a Citizen to every one of the owner\u2019s cities when built.\n\nNew Natural Wonder:\n\u2022 Ha Long Bay: This breathtaking bay was designated one of the New Seven Wonders of the World in 2012, and provides Food, Production, and Culture, in addition to providing a large combat bonus to naval units in its tiles.\n\nNew Map:\n\u2022 Spread your empire through Southeast Asia in this new map, with a True Start and random location option.",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "010044500C183002"
         ]
@@ -31050,7 +31216,7 @@
         "intro": "Raze Hell",
         "description": "DOOM\u00ae Eternal, the award-winning game and \u201cone of the best first-person shooters ever\u201d according to GameRevolution, is coming to Nintendo Switch. Developed by id Software and Panic Button, DOOM Eternal is the direct sequel to DOOM\u00ae, winner of The Game Awards\u2019 Best Action Game of 2016. \n\nHell\u2019s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear\u2026is you. \n\nFeatures:   \n\nSlayer Threat Level at Maximum \n\nExperience the ultimate combination of speed and power in DOOM Eternal\u2014the next leap in first-person combat powered by idTech 7. Armed with a shoulder-mounted flamethrower, wrist-mounted blade, upgraded guns, new abilities and more, you\u2019re the greatest demon slayer in existence. \n\nPush-Forward Combat \n\nTake what you need from your enemies. Glory Kill demons to recover health, incinerate them to receive armor and cut them down with the Chainsaw to stock up on ammo.  \n\nMotion Aiming Ready \n\nImprove your aim with a control option that allows you to aim using gyro controls. The option can be used in conjunction with the control stick for the perfect blend of immersion and accuracy. ",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "0100B1A00D8CF003"
         ]
@@ -31146,7 +31312,7 @@
         "intro": null,
         "description": "The Ancient Gods \u2013 Part One is the first campaign expansion for the critically acclaimed DOOM Eternal. \n\nYour war is not over\u2026 slaying the Khan Maykr left an imbalance of power  that threatens all of creation. The legions of Hell have razed the heavens, threatening to expand their control across dimensions. With the aid of an old ally, battle your way back to Urdak and decide the fate of the cosmos. Your mission is now your own.\n\nNEW MISSION\nExperience a new mission in your eternal fight against evil. Unleash your vengeance and face your greatest test as you march back to the Maykr\u2019s realm. Defeat powerful new threats, restore order to the heavens and unearth the corruption that has thrown the universe into chaos.\n\nNEW LOCATIONS\nFrom the industrial rain-swept decks of the oceanic UAC Atlantica Facility on Earth to the corpse littered Blood Swamps of Hell to the crumbling ruins of a demon-infested Urdak, you will visit epic new locations to eviscerate the armies of Hell. \n\nNEW ENEMIES\nChange your tactics as you face Hell\u2019s newest threats that add more depth and challenge to combat. Face the Spirit, an ethereal enemy that buffs other demons with added strength and speed, and the Blood Maykr \u2013 a corrupted Maykr Angel armed with a powerful staff that can be hurled with thunderbolt force. ",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "0100B1A00D8CF004"
         ]
@@ -31178,7 +31344,7 @@
         "intro": null,
         "description": "The Ancient Gods \u2013 Part Two is the epic conclusion to the DOOM Slayer\u2019s Saga and the second campaign expansion to the critically acclaimed DOOM Eternal.  \n\nYou denied the gods and awoke an ancient evil. Now rally the scattered Sentinel armies, lay siege to the last bastion of Hell, break through the fortress walls, and face the Dark Lord himself. The soul of the universe hangs in the balance. \n\nYour war against Hell ends here. \n\nEXPERIENCE THE END OF THE SLAYER\u2019S SAGA \nExperience the epic conclusion to the DOOM Slayer\u2019s saga. From the moment you were activated by Samuel Hayden at the UAC facility on Mars to the destruction of the Icon of Sin, all your battles have led to this. Prepare to siege Immora, the last bastion of the dark realm, challenge the Dark Lord in combat, and seal the demons within Hell for good. \n\nFIGHT ACROSS EPIC BATTLEFIELDS \nFrom the ruins of ancient Sentinel settlements and the cosmic wonders of the World Spear, to a devastated and overgrown city on Earth hiding a mysterious gateway, face Hell\u2019s armies in never-before-seen locations as you fight your way to Immora, the last bastion of the Dark Lord protected by towering walls and powered by advanced technology. \n\nFACE CHALLENGING ENEMY VARIANTS \nFace new, deadly variants of demons. The Armored Baron wears special armor and uses a charged fist attack. The Stone Imp possesses a nearly impenetrable hide and prefers close combat. The Screecher is a zombie that empowers nearby demons when killed. The Cursed Prowler is a mutation with venomous, cursed claws. Exploit their weaknesses to destroy them. \n\nWIELD THE SENTINEL HAMMER \nDeliver more destruction with the Sentinel Hammer, an ancient weapon capable of stopping any demons caught within its shockwave. Use it to stun demons or combine it with the Ice Bomb or Flame Belch to extract much-needed health or armor. ",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "0100B1A00D8CF005"
         ]
@@ -45708,7 +45874,7 @@
         "intro": "Raze Hell",
         "description": "DOOM\u00ae Eternal, the award-winning game and \u201cone of the best first-person shooters ever\u201d according to GameRevolution, is coming to Nintendo Switch. Developed by id Software and Panic Button, DOOM Eternal is the direct sequel to DOOM\u00ae, winner of The Game Awards\u2019 Best Action Game of 2016. \n\nHell\u2019s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear\u2026is you. \n\nFeatures:   \n\nSlayer Threat Level at Maximum \n\nExperience the ultimate combination of speed and power in DOOM Eternal\u2014the next leap in first-person combat powered by idTech 7. Armed with a shoulder-mounted flamethrower, wrist-mounted blade, upgraded guns, new abilities and more, you\u2019re the greatest demon slayer in existence. \n\nPush-Forward Combat \n\nTake what you need from your enemies. Glory Kill demons to recover health, incinerate them to receive armor and cut them down with the Chainsaw to stock up on ammo.  \n\nMotion Aiming Ready \n\nImprove your aim with a control option that allows you to aim using gyro controls. The option can be used in conjunction with the control stick for the perfect blend of immersion and accuracy. \n\nEnter BATTLEMODE \n\nA new 2 versus 1 multiplayer experience pits a fully-armed DOOM Slayer against two player-controlled demons, fighting it out in a best-of-five round match of intense first-person combat. ",
         "languages": null,
-        "size": 30633099264
+        "size": 30632050688
     },
     "70070000011026": {
         "id": null,
@@ -45740,7 +45906,7 @@
         "intro": "Raze Hell",
         "description": "Hell\u2019s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you. \n\nExperience the ultimate combination of speed and power in DOOM Eternal - the next leap in push-forward, first-person combat. \n\nThe Deluxe Edition includes: \n\nDOOM Eternal: The Ancient Gods - Expansion Pass: \nAccess to two campaign expansions - The Ancient Gods - Part One and Part Two - for the critically acclaimed DOOM Eternal. Your war is not over\u2026 slaying the Kahn Maykr left an imbalance of power in the cosmos that threatens all of creation.\n\nIn The Ancient Gods \u2013 Part One \nThe legions of Hell have razed the heavens, threatening to expand across dimensions. Battle your way back to Urdak and decide the fate of the cosmos. Your mission is now your own.\n\nThe Ancient Gods - Part Two\nYou denied the gods and awoke an ancient evil. Now rally the scattered Sentinel armies, lay siege to the last bastion of Hell, break through the fortress walls, and face the Dark Lord himself. The soul of the universe hangs in the balance.\n\nThis edition also comes with;\n- Demonic Slayer Skin \n- Classic Weapon Sound Pack\n",
         "languages": null,
-        "size": 30633099264
+        "size": 30632050688
     },
     "70070000011027": {
         "id": null,
@@ -47278,7 +47444,7 @@
         "intro": "Build Your Greatest Empire on Nintendo Switch\u2122\n",
         "description": "This bundle contains Civilization VI and all previously-released Civilization VI content on consoles*. It is intended for people new to Civilization VI. \n\nMAKE HISTORY in one of the most critically acclaimed and influential game franchises in strategy game history. Choose a leader and pursue agendas inspired by their real-life counterparts. Explore new land, research technology, and go head-to-head with historical leaders as you lead your civilization from rocks to rockets. Cities expand physically across the map, create new strategic possibilities through the game as you pursue multiple ways to achieve victory and build an empire to stand the test of time. \n\n\n\nSid Meier\u2019s Civilization VI Anthology includes the Sid Meier\u2019s Civilization VI game, six add-on content packs, the expansions Rise and Fall and Gathering Storm, and the full New Frontier Pass.\n\n\n\u2022\tCIVILIZATION VI: RISE AND FALL: Experience new game mechanics including Great Ages and Governors, upgrades to the Diplomacy and Government systems, and an additional 8 civilizations, 9 leaders, and several units, districts, wonders, and buildings.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM: Explore an active planet in an expansion that introduces climate changes for the first time in series history. Contend with natural disasters and other new Environmental Effects, complete great Engineering Projects, and manage electrical power. New features including a World Congress, new Diplomatic Victory condition, and an all-new era added to the Technology and Civics tree. Also includes new civilizations, leaders, units, and buildings.\n\n\n\u2022\tNEW FRONTIER PASS: Introducing 6 new game modes, recruitable heroes from history and myth, 8 new civilizations and 9 leaders, dialed-up natural disasters in Apocalypse Mode, and the addition of secret societies that can enhance or undermine your empire.\n\n*The Red Death playable scenario released on PC isn\u2019t available on consoles. ",
         "languages": null,
-        "size": 12212764672
+        "size": 12210667520
     },
     "70070000012600": {
         "id": null,
@@ -47341,7 +47507,7 @@
         "intro": "Build Your Greatest Empire on Nintendo Switch\u2122\n",
         "description": "This bundle is intended for people new to Civilization VI and contains Civilization VI, six add-on content packs as well as the Rise and Fall and Gathering Storm expansions. The New Frontier Pass is not included in the Platinum Edition. \n\nMAKE HISTORY in one of the most critically acclaimed and influential game franchises in strategy game history. Choose a leader and pursue agendas inspired by their real-life counterparts. Explore new land, research technology, and go head-to-head with historical leaders as you lead your civilization from rocks to rockets. Cities expand physically across the map, create new strategic possibilities through the game as you pursue multiple ways to achieve victory and build an empire to stand the test of time. \n\nSid Meier\u2019s Civilization VI: Platinum Edition is the classic collection of Civilization VI content, including the Sid Meier\u2019s Civilization VI game, six add-on content packs as well as the Rise and Fall and Gathering Storm expansions.\n\nThe Sid Meier\u2019s Civilization VI Platinum Edition contains both major expansion packs: \n\u2022\tCIVILIZATION VI: RISE AND FALL: Experience new game mechanics including Great Ages and Governors, upgrades to the Diplomacy and Government systems, and an additional 8 civilizations, 9 leaders, and several units, districts, wonders, and buildings.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM: Explore an active planet in an expansion that introduces climate changes for the first time in series history. Contend with natural disasters and other new Environmental Effects, complete great Engineering Projects, and manage electrical power. New features including a World Congress, new Diplomatic Victory condition, and an all-new era added to the Technology and Civics tree. Also includes new civilizations, leaders, units, and buildings.",
         "languages": null,
-        "size": 9069133824
+        "size": 9067036672
     },
     "70070000012670": {
         "id": null,
@@ -47579,7 +47745,7 @@
         "intro": "Build Your Greatest Empire on Nintendo Switch\u2122",
         "description": "This is the complete collection* of all available add-on content and is intended for people who already have Civilization VI, but do not yet own any of the add-on content. Civilization VI is required to access add-on content.\n\nMAKE HISTORY in one of the most critically acclaimed and influential game franchises in strategy game history. Choose a leader and pursue agendas inspired by their real-life counterparts. Explore new land, research technology, and go head-to-head with historical leaders as you lead your civilization from rocks to rockets. Cities expand physically across the map, create new strategic possibilities through the game as you pursue multiple ways to achieve victory and build an empire to stand the test of time. \n\nThe Civilization VI Anthology Upgrade Bundle includes six add-on content packs, the expansions Rise and Fall  and Gathering Storm, and the full New Frontier Pass.\n\n\u2022\tCIVILIZATION VI: RISE AND FALL: Experience new game mechanics including Great Ages and Governors, upgrades to the Diplomacy and Government systems, and an additional 8 civilizations, 9 leaders, and several units, districts, wonders, and buildings.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM: Explore an active planet in an expansion that introduces climate changes for the first time in series history. Contend with natural disasters and other new Environmental Effects, complete great Engineering Projects, and manage electrical power. New features including a World Congress, new Diplomatic Victory condition, and an all-new era added to the Technology and Civics tree. Also includes new civilizations, leaders, units, and buildings.\n\n\n\u2022\tNEW FRONTIER PASS: Introducing 6 new game modes, recruitable heroes from history and myth, 8 new civilizations and 9 leaders, dialed-up natural disasters in Apocalypse Mode, and the addition of secret societies that can enhance or undermine your empire.\n\n*The Red Death playable scenario released on PC isn\u2019t available on consoles. ",
         "languages": null,
-        "size": 3152019456,
+        "size": 3149922304,
         "ids": []
     }
 }

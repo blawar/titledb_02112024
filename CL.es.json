@@ -4226,7 +4226,7 @@
             "ru",
             "ko"
         ],
-        "size": 13848543232
+        "size": 14297333760
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -7445,7 +7445,7 @@
             "ru",
             "ko"
         ],
-        "size": 14794358784
+        "size": 14863564800
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -9014,7 +9014,7 @@
             "it",
             "zh"
         ],
-        "size": 3974103040
+        "size": 3973054464
     },
     "70010000024294": {
         "id": "010036E00FB20000",
@@ -11745,7 +11745,49 @@
             "ko",
             "zh"
         ],
-        "size": 6197084160
+        "size": 6196035584
+    },
+    "70010000033296": {
+        "id": "0100A78012A76000",
+        "rightsId": null,
+        "name": "Angry Alligator",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211019,
+        "nsuId": 70010000033296,
+        "category": [
+            "Aventura",
+            "Acci\u00f3n",
+            "Simulaci\u00f3n",
+            "Juego de rol"
+        ],
+        "ratingContent": [
+            "Humor vulgar",
+            "Violencia de fantasia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Orange One",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6897d8b62195a42b113b13ba787d396c7f685467202de9298e03c7784b54d64e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/17af3cce71dcfd16cb58add66880ca9f404781e90ce366f99eebf6f4ef235c1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/328598fd66a89bc81b5544f16d0f20f67c2214d98ee637eccc002128d723cf33.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3691bc555a04750bc241438de748a2e8623ffcb2c2f49a0e622c8f99f9e93f8c.jpg",
+        "intro": "\u00a1Emb\u00e1rcate en una aventura pantan\u00e1stica para convertirte en el caim\u00e1n m\u00e1s grande y malo de tu cenagoso pueblo!",
+        "description": "\u00a1Ven al pantano y vive una aventura sin igual! Empieza como una peque\u00f1a cr\u00eda de caim\u00e1n y crece hasta convertirte en el reptil m\u00e1s grande y malo de todos. Come todo lo que se mueva, y m\u00e1s, para que puedas crecer grande y fuerte y as\u00ed afrontar todos los retos que te esperan.\n\n\u00a1El destino del pantano y de todos los que residen en \u00e9l recae sobre tus hombros escamados! Unos horribles hoomanos se han apoderado de \u00e9l y s\u00f3lo t\u00fa puedes ahuyentarlos. \u00a1Pero no temas! No estar\u00e1s solo. Escucha las palabras de Wisecroc, el cocodrilo m\u00e1s sabio de la ciudad, que te guiar\u00e1 por el camino de la grandeza de los caimanes.\n\nUtiliza tu ingenio, tus mand\u00edbulas y todo el rid\u00edculo equipamiento que puedas encontrar para que el pantano vuelva a ser el divertido y seguro refugio que era antes. Rescata a tus compa\u00f1eros caimanes de las garras de los horribles hoomanos y sus malvados experimentos. Ahuyenta a los molestos turistas que ensucian tu hermoso pantano, huye de los drones que intentan capturarte y enfr\u00e9ntate a los grandes y malvados jefes bestiales.\n\n\u00bfTienes hambre de aventura? \u00a1Todo el pantano cuenta contigo!\n\n\u2022 \u00a1Acompa\u00f1a a un peque\u00f1o caim\u00e1n en una gran aventura para liberar su hogar de esos horribles hoomanos! \u00a1Nadie se mete con tu pantano!\n\u2022 Hazte uno con la sabidur\u00eda de Wisecroc y aprende los caminos del pantano.\n\u2022 Explora un colorido y enorme mundo abierto repleto de criaturas a las que conocer y comer, de hoomanos a los que asustar, de jefes bestiales contra los que luchar y de un mont\u00f3n de secretos que descubrir.\n\u2022 Convi\u00e9rtete en el mayor caim\u00e1n del pantano y c\u00f3mete todo lo que se interponga en tu camino: desde ranas, p\u00e1jaros e incluso osos, hasta la fuente de todos los males: \u00a1los hoomanos!\n\u2022 Elige entre varios caimanes para jugar, \u00a1o incluso disfr\u00e1zalos! \u00bfQui\u00e9n dijo que los caimanes no pueden llevar sombrero? \u00bfO pelucas?\n\u2022 \u00a1Haz todo lo que puedas para molestar a esos apestosos hoomanos! \u00a1Asalta sus campamentos, arr\u00e1stralos a trav\u00e9s los retretes o incluso haz que todo salga volando por los aires usando EXPLOSIONES! \u00a1Es la hora de la venganza!\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "pt"
+        ],
+        "size": 902823936
     },
     "70010000033299": {
         "id": "01008DF012A7A000",
@@ -12721,7 +12763,8 @@
         "ratingContent": [
             "Violencia de fantasia",
             "Bajo contenido de sangre",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
@@ -12750,9 +12793,11 @@
             "it",
             "nl",
             "ru",
-            "ko"
+            "ko",
+            "zh",
+            "zh"
         ],
-        "size": 616562688
+        "size": 615514112
     },
     "70010000036178": {
         "id": "01006B5012B32000",
@@ -14230,7 +14275,7 @@
             "fr",
             "de"
         ],
-        "size": 4202692608
+        "size": 3448766464
     },
     "70010000040076": {
         "id": "0100090014ABE000",
@@ -14762,6 +14807,47 @@
         ],
         "size": 320864256
     },
+    "70010000041635": {
+        "id": "010050F015280000",
+        "rightsId": null,
+        "name": "The Jackbox Party Pack 8",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211014,
+        "nsuId": 70010000041635,
+        "category": [
+            "Fiesta"
+        ],
+        "ratingContent": [
+            "Humor vulgar",
+            "Violencia de fantasia",
+            "Lenguaje",
+            "Temas sexuales",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Jackbox Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2ec40e01e98921315eb53e00387aaae2a9129f5e130747bd3d90c04cb4a96696.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6caba88c94e29f71e9df17bb63b6a0cf6b0febc24417f46f0252040a3e061146.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dea966d4f7e38604b01277b1ccc0efdfb003651d4490694fd035af9ab1c2bb6a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce500950afffbae81b5b42176f2be4c11e5db398262800daa999bdbc47bb939a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abeac4781ea433cdb1633004bf11ab685fd71ecb2a29ba93b5e9fd57c8e14489.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd3bd65398ed9166b58d3fea979ec69624679504f51ab121af629ebd8969da37.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9dba039087e728d79edd30024054aea899f0fbc82b9db824e3a21d0914e731a4.jpg",
+        "intro": null,
+        "description": "Acerca de The Jackbox Party Pack 8\n\u00a1La octava edici\u00f3n de la amada franquicia de Jackbox Party Pack ya est\u00e1 aqu\u00ed! Cinco divertidos juegos nuevos que llenar\u00e1n de energ\u00eda tu pr\u00f3xima noche de juegos, fiesta, hora feliz o videollamada. \n\nNo se necesitan controles extra, \u00a1los jugadores usan sus tel\u00e9fonos o tabletas para jugar! \u00bfTu grupo es m\u00e1s grande? Juega con hasta 10 jugadores y hasta 10,000 miembros de la audiencia. \n\nPor ahora, el Jackbox Party Pack 8 solo est\u00e1 disponible en ingl\u00e9s. Este juego no permite hacer equipos en l\u00ednea, pero de todos modos puede disfrutarse por v\u00eda remota usando los servicios de transmisi\u00f3n en vivo o las herramientas de videoconferencia. \n\nAcerca de cada juego\n\nDrawful Animate (3 a 10 jugadores): \u00a1Est\u00e1 vivo! El juego de adivinanzas a partir de terribles dibujos y las respuestas m\u00e1s graciosas y erradas vuelve con un gran dinamismo. En esta nueva versi\u00f3n, los jugadores crean im\u00e1genes m\u00f3viles de dos cuadros a partir de t\u00edtulos extra\u00f1os al azar.\n\nThe Wheel of Enormous Proportions (2 a 8 jugadores): \u00a1Los juegos de preguntas nunca hab\u00edan sido tan grandes! Una rueda m\u00edstica y fant\u00e1stica te reta con una gran variedad de preguntas. Los ganadores reciben como premio partes de la car\u00e1tula de la rueda y cada una ofrece la oportunidad de ganar un gran premio con cada emocionante vuelta. Al final, un jugador recibir\u00e1 de la Gran Rueda la respuesta a su pregunta m\u00e1s candente.\n\nJob Job (3 a 10 jugadores): Usa las palabras de los dem\u00e1s para crear respuestas \u00fanicas y graciosas a las cl\u00e1sicas preguntas de las entrevistas de trabajo. \u00a1Compitan unos con otros para ver qui\u00e9n se queda con el trabajo!\n\nThe Poll Mine (2 a 10 jugadores): \u00a1Un juego de encuestas donde todo se trata de TI! \u00a1Formen equipos y vean qui\u00e9n puede escapar de la guarida de la bruja! Los jugadores califican individualmente sus opciones de respuesta a una pregunta dif\u00edcil, despu\u00e9s deben adivinar c\u00f3mo respondi\u00f3 el grupo en conjunto. \u00a1Aqu\u00ed sabr\u00e1s qu\u00e9 tan bien conoces a tus amigos!\n\nWeapons Drawn (4 a 8 jugadores): Un juego de deducci\u00f3n social donde todos son un asesino y un detective al mismo tiempo. Los participantes dibujan todas las pistas, escondiendo una letra de su nombre en los dibujos de las armas. \u00bfPodr\u00e1s resolver los asesinatos mientras tratas de salirte con la tuya?",
+        "languages": [
+            "en"
+        ],
+        "size": 1408237568
+    },
     "70010000041661": {
         "id": "010049E013134000",
         "rightsId": null,
@@ -14800,7 +14886,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f9a04bb40a8a29ecf9a67e7a921b153eb4414657c4c6a4e4c97122bc301b466.jpg",
         "intro": "Crea y destruye todo lo que te apetezca: el cielo, la tierra y la humanidad.",
-        "description": "Vuelve a disfrutar del cl\u00e1sico Actraiser de los noventa.\n\nINFORMACI\u00d3N\nActraiser Renaissance combina acci\u00f3n y plataformas en 2D (fase de acci\u00f3n) con simulaci\u00f3n y construcci\u00f3n de ciudades (fase de simulaci\u00f3n) en la batalla definitiva entre el bien y el mal.\nIncluye la banda sonora que dej\u00f3 estupefactos a los jugadores de todo el mundo en su d\u00eda, compuesta por el legendario Yuzo Koshiro \u00a1y ahora remasterizada!\n\nAyuda a que la humanidad prospere en el papel del Lord of Light y su leal \u00e1ngel en un mundo asolado por el mal.\n\nCARACTER\u00cdSTICAS NUEVAS\n- Gr\u00e1ficos remasterizados en 2D que presentan el juego en impresionante alta definici\u00f3n.\n- 15 canciones nuevas, adem\u00e1s de nuevas versiones de los temas originales de Yuzo Koshiro, el compositor de Actraiser.\n- Nuevas historias, jugabilidad ampliada en las fases de acci\u00f3n y simulaci\u00f3n, niveles de acci\u00f3n adicionales, una regi\u00f3n in\u00e9dita y enemigos nuevos y m\u00e1s poderosos.\n- Guardado autom\u00e1tico y niveles de dificultad.\n\nSISTEMA DE JUEGO\nFase de acci\u00f3n: Utiliza magia de fuego, hielo, etc. de forma estrat\u00e9gica en los niveles de acci\u00f3n en 2D. Los humanos volver\u00e1n para reclamar la regi\u00f3n en cuanto hayas conquistado estos niveles, y as\u00ed podr\u00e1s empezar a desarrollar tus asentamientos.\n\nSe han incorporado nuevos tipos de magia que no estaban disponibles en el juego original, adem\u00e1s de la posibilidad de esquivar ataques. Ahora tambi\u00e9n es posible atacar movi\u00e9ndote arriba y abajo para a\u00f1adir dinamismo a la acci\u00f3n del juego. Tendr\u00e1s que valerte de todos tus recursos si quieres derrotar a los poderosos enemigos que encontrar\u00e1s al final de los nuevos niveles de acci\u00f3n.\n\nFase de simulaci\u00f3n: Ayuda a que la humanidad prospere desarrollando tus asentamientos y ejerciendo de gu\u00eda. Usa tus poderes divinos para invocar rayos y terremotos con los que eliminar \u00e1rboles y rocas que impiden el progreso de tus s\u00fabditos. Juega en el papel del \u00e1ngel del Lord of Light y usa tu prodigioso arco para disparar flechas que hagan retroceder a los malvados monstruos que amenazan a tu pueblo.\n\nProtege tus asentamientos de asaltos enemigos en combates estrat\u00e9gicos en tiempo real. La posici\u00f3n de tus fuertes y el momento en el que ejecutas tus milagros son cruciales para alcanzar la victoria en estas contiendas.\n\nDescubre nuevas historias sobre las penurias de la humanidad, observa c\u00f3mo superan sus defectos y fracasos y aprenden a amar al pr\u00f3jimo y a apoyarse mutuamente. En total, con estos nuevos niveles hay el doble de historias que en el juego original. \u00a1Explora la nueva regi\u00f3n y disfruta construyendo asentamientos durante mucho m\u00e1s tiempo que antes!\n\nM\u00daSICA\nEl compositor original de Actraiser, Yuzo Koshiro, ha creado nuevas versiones para todos los temas cl\u00e1sicos y ha incorporado 15 canciones nuevas. Podr\u00e1s elegir entre escuchar la banda sonora original o las versiones nuevas mientras juegas. Y, si alguna vez te cansas de proteger a tus s\u00fabditos, siempre puedes relajarte y ponerte a escuchar la m\u00fasica sin m\u00e1s.",
+        "description": "Vuelve a disfrutar del cl\u00e1sico Actraiser de los noventa.\n\nINFORMACI\u00d3N\nActraiser Renaissance combina acci\u00f3n y plataformas en 2D (fase de acci\u00f3n) con simulaci\u00f3n y construcci\u00f3n de ciudades (fase de simulaci\u00f3n) en la batalla definitiva entre el bien y el mal.\nIncluye la banda sonora que dej\u00f3 estupefactos a los jugadores de todo el mundo en su d\u00eda, compuesta por el legendario Yuzo Koshiro \u00a1y ahora remasterizada!\n\nAyuda a que la humanidad prospere en el papel del Lord of Light y su leal \u00e1ngel en un mundo asolado por el mal.\n\nCARACTER\u00cdSTICAS NUEVAS\n- Gr\u00e1ficos remasterizados en 2D que presentan el juego en impresionante alta definici\u00f3n.\n- 15 canciones nuevas, adem\u00e1s de nuevas versiones de los temas originales de Yuzo Koshiro, el compositor de Actraiser.\n- Nuevas historias, jugabilidad ampliada en las fases de acci\u00f3n y simulaci\u00f3n, niveles de acci\u00f3n adicionales, una regi\u00f3n in\u00e9dita y un jefe nuevo y poderoso.\n- Guardado autom\u00e1tico y niveles de dificultad.\n\nSISTEMA DE JUEGO\nFase de acci\u00f3n: Utiliza magia de fuego, hielo, etc. de forma estrat\u00e9gica en los niveles de acci\u00f3n en 2D. Los humanos volver\u00e1n para reclamar la regi\u00f3n en cuanto hayas conquistado estos niveles, y as\u00ed podr\u00e1s empezar a desarrollar tus asentamientos.\n\nSe han incorporado nuevos tipos de magia que no estaban disponibles en el juego original, adem\u00e1s de la posibilidad de esquivar ataques. Ahora tambi\u00e9n es posible atacar movi\u00e9ndote arriba y abajo para a\u00f1adir dinamismo a la acci\u00f3n del juego. Tendr\u00e1s que valerte de todos tus recursos si quieres derrotar a los poderosos enemigos que encontrar\u00e1s al final de los nuevos niveles de acci\u00f3n.\n\nFase de simulaci\u00f3n: Ayuda a que la humanidad prospere desarrollando tus asentamientos y ejerciendo de gu\u00eda. Usa tus poderes divinos para invocar rayos y terremotos con los que eliminar \u00e1rboles y rocas que impiden el progreso de tus s\u00fabditos. Juega en el papel del \u00e1ngel del Lord of Light y usa tu prodigioso arco para disparar flechas que hagan retroceder a los malvados monstruos que amenazan a tu pueblo.\n\nProtege tus asentamientos de asaltos enemigos en combates estrat\u00e9gicos en tiempo real. La posici\u00f3n de tus fuertes y el momento en el que ejecutas tus milagros son cruciales para alcanzar la victoria en estas contiendas.\n\nDescubre nuevas historias sobre las penurias de la humanidad, observa c\u00f3mo superan sus defectos y fracasos y aprenden a amar al pr\u00f3jimo y a apoyarse mutuamente. En total, con estos nuevos niveles hay el doble de historias que en el juego original. \u00a1Explora la nueva regi\u00f3n y disfruta construyendo asentamientos durante mucho m\u00e1s tiempo que antes!\n\nM\u00daSICA\nEl compositor original de Actraiser, Yuzo Koshiro, ha creado nuevas versiones para todos los temas cl\u00e1sicos y ha incorporado 15 canciones nuevas. Podr\u00e1s elegir entre escuchar la banda sonora original o las versiones nuevas mientras juegas. Y, si alguna vez te cansas de proteger a tus s\u00fabditos, siempre puedes relajarte y ponerte a escuchar la m\u00fasica sin m\u00e1s.",
         "languages": [
             "ja",
             "en",
@@ -15518,9 +15604,7 @@
             "Acci\u00f3n",
             "Arcade"
         ],
-        "ratingContent": [
-            "Violencia moderada de fantasia"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 2,
         "rating": 6,
         "developer": null,
@@ -15966,6 +16050,47 @@
         ],
         "size": 0
     },
+    "70010000045222": {
+        "id": "01007740160D4000",
+        "rightsId": null,
+        "name": "DUSK",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70010000045222,
+        "category": [
+            "Acci\u00f3n en primera persona",
+            "Acci\u00f3n",
+            "Disparos",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Derramamiento de sangre",
+            "Uso de Alcohol y Tabaco",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "New Blood",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ae107563f340968eb9de7e47eb63827e56967ca0659ee6b0569c6d15040d9b09.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/200caf001c91d8db52a90935b2240b30036339412ac6eda7ec0a791ce3c625b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98ef394117f8eb26d2750b8a420f4e2ba5a3ef3d28ac000eb5c9e6bd8f20628d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35809406d4a7489a85ad30f437a06a1e396acca8ca3f783fccef4fc4e4e5278a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be27ef435a26f00417c49e7e5ff359ee6898195bc6ac6b3ceeee9ea7f460401f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c5745d76421f345413594f121de3c805a7f658d0255c9174ee537be0ad532e3.jpg",
+        "intro": "Don't trust your eyes.",
+        "description": "Battle through an onslaught of mystical backwater cultists, possessed militants & even darker forces as you attempt to discover just what lurks beneath the Earth in this retro FPS",
+        "languages": [
+            "en"
+        ],
+        "size": 2897215488
+    },
     "70010000045267": {
         "id": "01000000160F6000",
         "rightsId": null,
@@ -16364,7 +16489,7 @@
         "languages": [
             "en"
         ],
-        "size": 328204288
+        "size": 377487360
     },
     "70010000046322": {
         "id": null,
@@ -16411,6 +16536,48 @@
             "zh"
         ],
         "size": 0
+    },
+    "70010000046617": {
+        "id": "01002FB016784000",
+        "rightsId": null,
+        "name": "DUSK '82",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210928,
+        "nsuId": 70010000046617,
+        "category": [
+            "Rompecabezas",
+            "Arcade",
+            "Aventura",
+            "Estrategia"
+        ],
+        "ratingContent": [
+            "Bajo contenido de sangre",
+            "Violencia moderada de fantasia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "New Blood",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0d04a0635f42285a3ef8cb204cebf56f9e0812f8ef0b2d07cdd471e45d7df3d5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f348d43a2662a64f76e2c83b414f79d62d83303e7b8c9c016172e33902a27b34.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c812b8f6dbef1526822f2924fea502ee88e09a037a6ba24bc4495ca65486626d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/887f382722e2dd929eaca92673f197fbe27cbff94a89abfdf044c214cc88ed22.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad7c5c4406cdbbafd57ade72b029c11801a1f4ba017f514b458a8ffd0935bcc1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a648785aa5275479fbaadb30823cc5d2b5c7f94ede5bd49407a6bbb0563d5e26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d81a809a774c86f1f6d55e712e0d762e0ec3de6fdff8117dd26437ee8c03394b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1d77e34a72f21804eeefb30c3840e1697d789e8d1de6e85baac5670c2cbca863.jpg",
+        "intro": "DUSK / DEMADE",
+        "description": "DUSK '82 is a simple but addictive action-puzzler demake of the cult shooter DUSK, inspired by classics like Chip's Challenge and Sokoban.",
+        "languages": [
+            "en"
+        ],
+        "size": 78643200
     },
     "70030000000042": {
         "id": null,
@@ -19591,7 +19758,7 @@
         "intro": null,
         "description": "\u00a1Amanitore dirige Nubia en Sid Meier's Civilization VI! Las unidades a distancia de Nubia son fuertes, f\u00e1ciles de crear y de ascenso r\u00e1pido. Adem\u00e1s, se puede usar la mejora exclusiva Nubian Pyramid para mejorar la construcci\u00f3n y la producci\u00f3n de los distritos. Si quieres una civilizaci\u00f3n con unos cimientos s\u00f3lidos desde el principio para luego obtener la victoria, Nubia es perfecta para ti.\n\nIncluye la civilizaci\u00f3n nubia con Amanitore, la unidad exclusiva Pitati Archer, la mejora exclusiva Nubian Pyramid y la nueva Jebel Barkal Wonder.\n\n\u2022 Civ Unique Ability: Nubia recibe bonificaciones de producci\u00f3n para las Ranged units y todas estas units consiguen experiencia de combate m\u00e1s r\u00e1pidamente. Las Minas aportan bonificaciones de producci\u00f3n sobre los recursos estrat\u00e9gicos y bonificaciones de Oro sobre los recursos de lujo.\n\n\u2022 Leader Unique Ability: Amanitore otorga a Nubia una bonificaci\u00f3n en la producci\u00f3n para la construcci\u00f3n de Districts, que se puede aumentar a\u00fan m\u00e1s si hay una Nubian Pyramid junto al City Center.\n\n\u2022 Unique Unit: el Pitati Archer reemplaza al Ancient Era Archer. Es una unidad m\u00e1s fuerte y r\u00e1pida que la de la Ancient Archer y se mejora a Crossbowman.\n\n\u2022 Unique Infrastructure: la Nubian Pyramid se puede construir en un Desert, Desert Hills o Floodplains. Adem\u00e1s de Faith, tambi\u00e9n proporciona rendimiento adicional en funci\u00f3n del District adyacente, o Food para el City Center.\n\nNuevo escenario \"\"Gifts of the Nile\"\":\n\u2022 Elige Nubia o Egipto mientras compites contra la otra civilizaci\u00f3n para ver qui\u00e9n es la primera en completar 7 Temples dedicados a Amun en este escenario situado a la orilla del r\u00edo Nilo.\n\n\u2022 Incluye unique rules y funciones de juego exclusivas. Adem\u00e1s, las Naval units pueden atravesar el Nilo.\n\n\u2022 L\u00edmite de 125 turnos.\n\nNueva Jebel Barkal Wonder:\n\u2022 Esta maravilla proporciona Faith adicional a todas las ciudades cercanas; debe construirse en Desert Hills. \"",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "010044500C183001"
         ]
@@ -19631,7 +19798,7 @@
         "intro": null,
         "description": "\u00a1Jayavarman VII lidera a los jemeres y Dyah Gitarja a los indonesios en Sid Meier's Civilization VI! Aunque cada civilizaci\u00f3n es \u00fanica y vers\u00e1til, ambas aportan nuevos desaf\u00edos al juego religioso. Indonesia es una poderosa civilizaci\u00f3n costera con una gran armada basada en el Jong, y los jemeres prosperan en sus pobladas ciudades construidas a la ribera de los r\u00edos. Ambas civilizaciones entran en juego en el nuevo escenario \"\"\u201cPath to Nirvana\"\", en el que competir\u00e1s por tener el mayor n\u00famero de adeptos a tu religi\u00f3n en un mapa exclusivo del sureste asi\u00e1tico.\n\nIncluye la civilizaci\u00f3n jemer con Jayavarman VII, la unidad exclusiva Domrey y la mejora exclusiva Prasat.\n\n\u2022 Habilidad exclusiva de civilizaci\u00f3n: la habilidad \"\"Grand Barays\"\" proporciona a los jemeres alimento adicional cuando las Farms se construyen adyacentes a Aqueducts, y los Aqueducts proporcionan Faith y Amenity.\n\n\u2022 Habilidad exclusiva de l\u00edder: la habilidad \"\"Monasteries of the King\"\" de Jayavarman permite a los jemeres apoderarse de los territorios adyacentes y adem\u00e1s proporciona Food y Housing si los Holy Sites se construyen en un r\u00edo.\n\n\u2022 Unidad exclusiva: el Domrey es una balista montada a lomos de un elefante, m\u00e1s fuerte que la catapulta, que puede moverse y disparar en el mismo turno y que ejerce una zona de control.\n\n\u2022 Edificio exclusivo: el Prasat sustituye al Temple y proporciona un espacio de gran obra de reliquia. Los Missionaries que se produzcan aqu\u00ed ganar\u00e1n un nuevo atributo cuando mueran en combate religioso: generan una reliquia.\n\nTambi\u00e9n incluye la civilizaci\u00f3n indonesia con Dyah Gitarja, la unidad exclusiva Jong y la mejora exclusiva Kampung:\n\n\u2022 Habilidad exclusiva de civilizaci\u00f3n: con la habilidad \"\"Great Nusantara\"\", las casillas de costa otorgan a los indonesios peque\u00f1as bonificaciones por adyacencia para algunos distritos, y los Entertainment Complexes proporcionan Amenity adicionales si est\u00e1n adyacentes a una casilla que no sea de costa.\n\n\u2022 Habilidad exclusiva de l\u00edder: Gitarja tiene la habilidad \"\"Exalted Goddess of the Three Worlds\"\", que concede una bonificaci\u00f3n a Faith a las ciudades costeras y otorga un descuento al comprar unidades navales con Faith, adem\u00e1s de eliminar los costos de movimiento al embarcar o desembarcar unidades religiosas.\n\n\u2022 Unidad exclusiva: la unidad exclusiva de los indonesios es el Jong, que sustituye a la Frigate. Es m\u00e1s r\u00e1pida, obtiene m\u00e1s poder de combate si est\u00e1 en una formaci\u00f3n y todas las unidades en su misma formaci\u00f3n igualan su velocidad de movimiento.\n\n\u2022 Mejora exclusiva: el Kampong proporciona Housing, Production y Food por cada Fishing Boat adyacente y, a medida que avanza la partida, puede mejorarse mediante la investigaci\u00f3n tecnol\u00f3gica.\n\nNuevo escenario \"\"Path to Nirvana\"\":\n\u2022 En las tierras alrededor del oc\u00e9ano \u00cdndico abundan las religiones y los pueblos. El cielo te ha elegido para que ilumines estas tierras. \u00bfEst\u00e1 tu fe a la altura del desaf\u00edo? Compite en este escenario de 50 turnos para conseguir el mayor n\u00famero de seguidores para tu religi\u00f3n, la mayor cantidad de Faith por turno y el mayor n\u00famero de ciudades extranjeras que profesen tu religi\u00f3n.\n\nNueva maravilla:\n\u2022 Angkor Wat: \u00a1el mayor monumento religioso del mundo regresa a Civilization! Este templo se debe construir adyacente a un Aqueduct y proporcionar\u00e1 Faith, adem\u00e1s de Housing y un Citizen para cada una de tus ciudades.\n\nNueva maravilla natural:\n\u2022 Ha Long Bay: esta pintoresca bah\u00eda fue elegida una de las Siete Nuevas Maravillas del Mundo en 2012. Proporciona Food, Production y Culture, adem\u00e1s de una gran bonificaci\u00f3n al combate para las unidades navales en sus casillas.\n\nMapa nuevo:\n\u2022 Expande tu imperio por el sudeste asi\u00e1tico en este nuevo mapa, con una True Start de inicio y una opci\u00f3n de posici\u00f3n aleatoria.",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "010044500C183002"
         ]
@@ -31048,7 +31215,7 @@
         "intro": "Arrasa el infierno",
         "description": "DOOM\u00ae Eternal, el galardonado juego y \u201cuno de los mejores shooters en primera persona de la historia\u201d seg\u00fan GameRevolution, llega a Nintendo Switch. DOOM Eternal, desarrollado por id Software y Panic Button, es la secuela directa de DOOM\u00ae, ganador del premio al Mejor juego de acci\u00f3n de 2016 en los Game Awards.\n\nLos ej\u00e9rcitos del infierno han invadido la Tierra. Convi\u00e9rtanse en el Slayer en una campa\u00f1a \u00e9pica para un jugador donde tendr\u00e1n que enfrentarse a los demonios en distintas dimensiones e impedir la destrucci\u00f3n definitiva de la humanidad. No le tienen miedo a nada... salvo a ti.\n\nFUNCIONALIDADES:  \n\nNivel de amenaza de Slayer al m\u00e1ximo\nDisfruta de la mejor combinaci\u00f3n de velocidad y potencia en DOOM Eternal, que trae un salto cualitativo en el combate en primera persona, gracias a la tecnolog\u00eda idTech 7. Armado con un lanzallamas en el hombro, una hoja retr\u00e1ctil en la mu\u00f1eca, armas mejoradas, nuevas habilidades y mucho m\u00e1s, ser\u00e1s el mejor matademonios que haya existido nunca.\n\nCombate en avance continuo\nObt\u00e9n lo que necesites de tus enemigos. Ejecuta demonios para recuperar salud, incin\u00e9ralos para obtener armadura y destr\u00edpalos con la motosierra para conseguir munici\u00f3n. \n\nApuntado por movimiento disponible\nMejora la punter\u00eda con una opci\u00f3n que permite apuntar mediante controles girosc\u00f3picos. Esta puede usarse junto con la palanca de control para conseguir una mezcla ideal de inmersi\u00f3n y precisi\u00f3n.",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "0100B1A00D8CF003"
         ]
@@ -31144,7 +31311,7 @@
         "intro": null,
         "description": "The Ancient Gods, primera parte es la primera expansi\u00f3n de la campa\u00f1a para el aclamado DOOM Eternal.\n\nTu guerra no ha terminado... La muerte de la Khan Maykr provoc\u00f3 un desequilibrio de poder que amenaza a toda la creaci\u00f3n. Las legiones del infierno arrasaron los cielos y amenazan con expandir su dominio de una dimensi\u00f3n a otra. Con la ayuda de un antiguo aliado, \u00e1brete paso hasta Urdak y decide el destino del cosmos. Ahora eres el \u00fanico due\u00f1o de tu misi\u00f3n.\n\nNUEVA MISI\u00d3N\nEnfr\u00e9ntate a una nueva misi\u00f3n en tu lucha eterna contra el mal. Desata tu venganza y enfr\u00e9ntate a tu mayor reto en el regreso al mundo de los Maykr. Derrota a peligrosos enemigos nuevos, devuelve el orden a los cielos y destierra la corrupci\u00f3n que sumi\u00f3 al universo en el caos.\n\nNUEVAS UBICACIONES\nVisitar\u00e1s \u00e9picas ubicaciones nuevas en las que destripar a las tropas del infierno, desde las lluviosas cubiertas industriales de la estaci\u00f3n atl\u00e1ntica de la UAC en la Tierra hasta las Ci\u00e9nagas de la Sangre del infierno, repletas de cad\u00e1veres, y las ruinas decadentes de un Urdak infestado de demonios.\n\nNUEVOS ENEMIGOS\nCambia de t\u00e1ctica seg\u00fan vayas enfrent\u00e1ndote a los nuevos peligros del infierno, que har\u00e1n m\u00e1s complejos y dif\u00edciles los combates. Enfr\u00e9ntate al esp\u00edritu, un enemigo et\u00e9reo que mejora la fuerza y velocidad de otros demonios, y al Maykr de sangre, un \u00e1ngel Maykr corrupto armado con un poderoso bast\u00f3n que lanza con la fuerza de un rel\u00e1mpago.",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "0100B1A00D8CF004"
         ]
@@ -31176,7 +31343,7 @@
         "intro": null,
         "description": "The Ancient Gods, segunda parte, es la \u00e9pica conclusi\u00f3n de la saga del DOOM Slayer y la segunda expansi\u00f3n de la campa\u00f1a del aclamado DOOM Eternal.\n\nNegaste a los dioses y despertaste un mal ancestral. Ahora debes reunir las dispersas fuerzas de los Centinelas, poner bajo asedio el \u00faltimo basti\u00f3n del infierno, derribar las murallas de su fortaleza y enfrentarte al Se\u00f1or Oscuro en persona. El alma misma del universo est\u00e1 en juego.\n\nAqu\u00ed termina tu guerra contra el infierno.\n\nVIVE EL FINAL DE LA SAGA DEL SLAYER\nVive la emocionante conclusi\u00f3n de la saga del DOOM Slayer. Desde el momento en que te activ\u00f3 Samuel Hayden en las instalaciones de la UAC en Marte, hasta la destrucci\u00f3n del Icono del Pecado, todas tus batallas han conducido hasta este momento. Prep\u00e1rate para poner bajo asedio Immora, \u00faltimo basti\u00f3n del Reino Oscuro, desafiar al Se\u00f1or Oscuro a un combate singular y dejar a los demonios encerrados en el infierno para siempre.\n\nLUCHA EN CAMPOS DE BATALLA \u00c9PICOS\nLucha contra los ej\u00e9rcitos del infierno en ubicaciones in\u00e9ditas, desde las ruinas de los antiguos asentamientos de los Centinelas y las maravillas de la Lanza del Mundo hasta una ciudad devastada e invadida por la maleza en la Tierra donde se oculta un misterioso portal, para llegar a Immora, \u00faltimo basti\u00f3n del Se\u00f1or Oscuro, protegido por colosales murallas y la tecnolog\u00eda m\u00e1s avanzada.\n\nENFR\u00c9NTATE A PELIGROSAS VARIANTES DE ENEMIGOS\nLucha contra nuevas y mort\u00edferas variantes de los demonios. El bar\u00f3n blindado lleva una armadura especial y ataca con pu\u00f1etazos cargados. El imp de piedra, dotado de una piel casi impenetrable, prefiere combatir a corta distancia. El chill\u00f3n es un zombi que aumenta el poder de los demonios cercanos al morir. El merodeador maldito es una mutaci\u00f3n con garras venenosas que transmiten una maldici\u00f3n. Aprovecha sus debilidades para destruirlos.\n\nESGRIME EL MARTILLO DE CENTINELA\nAumenta a\u00fan m\u00e1s el nivel de destrucci\u00f3n con el martillo de Centinela, un arma ancestral capaz de detener a cualquier demonio atrapado en su onda de choque. \u00dasalo para aturdir a los demonios o comb\u00ednalo con la bomba de hielo o el escupellamas para conseguir esa armadura y salud que tanto necesitas.",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "0100B1A00D8CF005"
         ]
@@ -45706,7 +45873,7 @@
         "intro": "Arrasa el infierno",
         "description": "DOOM\u00ae Eternal, el galardonado juego y \u201cuno de los mejores shooters en primera persona de la historia\u201d seg\u00fan GameRevolution, llega a Nintendo Switch. DOOM Eternal, desarrollado por id Software y Panic Button, es la secuela directa de DOOM\u00ae, ganador del premio al Mejor juego de acci\u00f3n de 2016 en los Game Awards.\n\nLos ej\u00e9rcitos del infierno han invadido la Tierra. Convi\u00e9rtanse en el Slayer en una campa\u00f1a \u00e9pica para un jugador donde tendr\u00e1n que enfrentarse a los demonios en distintas dimensiones e impedir la destrucci\u00f3n definitiva de la humanidad. No le tienen miedo a nada... salvo a ti.\n\nFUNCIONALIDADES:  \n\nNivel de amenaza de Slayer al m\u00e1ximo\nDisfruta de la mejor combinaci\u00f3n de velocidad y potencia en DOOM Eternal, que trae un salto cualitativo en el combate en primera persona, gracias a la tecnolog\u00eda idTech 7. Armado con un lanzallamas en el hombro, una hoja retr\u00e1ctil en la mu\u00f1eca, armas mejoradas, nuevas habilidades y mucho m\u00e1s, ser\u00e1s el mejor matademonios que haya existido nunca.\n\nCombate en avance continuo\nObt\u00e9n lo que necesites de tus enemigos. Ejecuta demonios para recuperar salud, incin\u00e9ralos para obtener armadura y destr\u00edpalos con la motosierra para conseguir munici\u00f3n. \n\nApuntado por movimiento disponible\nMejora la punter\u00eda con una opci\u00f3n que permite apuntar mediante controles girosc\u00f3picos. Esta puede usarse junto con la palanca de control para conseguir una mezcla ideal de inmersi\u00f3n y precisi\u00f3n.\n\nPresentamos BATTLEMODE\nUna nueva experiencia multijugador 2 contra 1 que enfrenta a un DOOM Slayer armado hasta los dientes contra dos demonios controlados por jugadores para disputarse la victoria al mejor de cinco rondas de intenso combate en primera persona.",
         "languages": null,
-        "size": 30633099264
+        "size": 30632050688
     },
     "70070000011026": {
         "id": null,
@@ -45738,7 +45905,7 @@
         "intro": "Arrasa el infierno",
         "description": "El infierno ha invadido la Tierra. Ponte en la piel del Slayer en una campa\u00f1a \u00e9pica y mata demonios para impedir la destrucci\u00f3n de la humanidad. No le tienen miedo a nada... salvo a ti.\n\nDisfruta de la mejor combinaci\u00f3n de velocidad y potencia en DOOM Eternal, que trae un salto cualitativo del combate en primera persona. \n\nLa Deluxe Edition incluye:\n\nDOOM Eternal: The Ancient Gods - Pase de expansi\u00f3n\nAcceso a dos expansiones de la campa\u00f1a de DOOM Eternal: The Ancient Gods, primera y segunda parte. Tu guerra no ha terminado... La muerte de la Khan Maykr provoc\u00f3 un desequilibrio de poder en el cosmos que amenaza a toda la creaci\u00f3n.\n\nEn The Ancient Gods, primera parte, las legiones del infierno arrasaron los cielos y amenazan con saltar de una dimensi\u00f3n a otra. Llega hasta Urdak y decide el destino del cosmos. Ahora eres el \u00fanico due\u00f1o de tu misi\u00f3n.\n\nEn The Ancient Gods, segunda parte, negaste a los dioses y despertaste un mal ancestral. Ahora debes reunir las dispersas fuerzas de los Centinelas, poner bajo asedio el \u00faltimo basti\u00f3n del infierno, derribar las murallas de su fortaleza y enfrentarte al Se\u00f1or Oscuro en persona. El alma misma del universo est\u00e1 en juego.\n\nEsta edici\u00f3n tambi\u00e9n incluye:\n- Dise\u00f1o del Slayer demon\u00edaco\n- Paquete de sonidos cl\u00e1sicos para armas\n",
         "languages": null,
-        "size": 30633099264
+        "size": 30632050688
     },
     "70070000011027": {
         "id": null,
@@ -47276,7 +47443,7 @@
         "intro": "Levanta tu mejor imperio en Nintendo Switch\u2122\n",
         "description": "Este lote contiene Civilization VI y todos los contenidos ya publicados de Civilization VI en consolas*. Est\u00e1 pensado para reci\u00e9n llegados a Civilization VI. \n\nHAZ HISTORIA en uno de los juegos de estrategia m\u00e1s aclamados e influyentes de la historia. Elige a un l\u00edder y completa agendas inspiradas en sus contrapartidas de la vida real. Explora nuevos territorios, investiga tecnolog\u00edas y enfr\u00e9ntate a l\u00edderes de la historia para que tu civilizaci\u00f3n pase de ser un grano de arena a una monta\u00f1a. Ampl\u00eda ciudades por todo el mapa y crea nuevas posibilidades estrat\u00e9gicas a lo largo del juego mientras luchas por alzarte con la victoria y crear un imperio que resista el paso del tiempo. \n\n\n\nSid Meier's Civilization VI Anthology incluye el juego Sid Meier's Civilization VI, seis packs de contenido adicional, las expansiones Rise and Fall y Gathering Storm, y el New Frontier Pass completo.\n\n\n\u2022\tCIVILIZATION VI: RISE AND FALL - Disfruta de nuevas mec\u00e1nicas de juego como grandes eras y Gobernadores, mejoras en los sistemas de gobierno y diplomacia, as\u00ed como de 8 civilizaciones y 9 l\u00edderes nuevos, y una gran variedad de nuevas unidades, distritos, maravillas y edificios.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM - Explora un planeta activo en una expansi\u00f3n que introduce cambios de clima por primera vez en la historia de la saga. Enfr\u00e9ntate a desastres naturales y a otros efectos medioambientales, completa incre\u00edbles proyectos de ingenier\u00eda y gestiona energ\u00eda el\u00e9ctrica. Nuevas caracter\u00edsticas, como el World Congress, una nueva condici\u00f3n de victoria diplom\u00e1tica y una nueva \u00e9poca a\u00f1adida al \u00e1rbol tecnol\u00f3gico y de principios. Tambi\u00e9n incluye nuevas civilizaciones, l\u00edderes, unidades y edificios.\n\n\n\u2022\tNEW FRONTIER PASS: incluye seis nuevos modos de juego, h\u00e9roes hist\u00f3ricos y mitol\u00f3gicos reclutables, ocho nuevas civilizaciones, nueve l\u00edderes adicionales, desastres naturales en el modo Apocalipsis y las sociedades secretas, que mejorar\u00e1n tu imperio... o lo destruir\u00e1n.\n\n*El escenario de la Muerte Roja que se public\u00f3 para PC no estar\u00e1 disponible en consolas. ",
         "languages": null,
-        "size": 12212764672
+        "size": 12210667520
     },
     "70070000012600": {
         "id": null,
@@ -47339,7 +47506,7 @@
         "intro": "Levanta tu mejor imperio en Nintendo Switch\u2122\n",
         "description": "Este lote est\u00e1 pensado para reci\u00e9n llegados a Civilization VI e incluye Civilization VI, seis packs de contenido adicional y las expansiones Rise and Fall y Gathering Storm. El New Frontier Pass no est\u00e1 incluido en la Platinum Edition. \n\nHAZ HISTORIA en uno de los juegos de estrategia m\u00e1s aclamados e influyentes de la historia. Elige a un l\u00edder y completa agendas inspiradas en sus contrapartidas de la vida real. Explora nuevos territorios, investiga tecnolog\u00edas y enfr\u00e9ntate a l\u00edderes de la historia para que tu civilizaci\u00f3n pase de ser un grano de arena a una monta\u00f1a. Ampl\u00eda ciudades por todo el mapa y crea nuevas posibilidades estrat\u00e9gicas a lo largo del juego mientras luchas por alzarte con la victoria y crear un imperio que resista el paso del tiempo. \n\nSid Meier's Civilization VI Platinum Edition es la colecci\u00f3n cl\u00e1sica de contenido de Civilization VI, con el juego Sid Meier's Civilization VI, seis packs de contenido adicional y las expansiones Rise and Fall y Gathering Storm.\n\nLa Sid Meier's Civilization VI Platinum Edition incluye las dos enormes expansiones: \n\u2022\tCIVILIZATION VI: RISE AND FALL - Disfruta de nuevas mec\u00e1nicas de juego como grandes eras y Gobernadores, mejoras en los sistemas de gobierno y diplomacia, as\u00ed como de 8 civilizaciones y 9 l\u00edderes nuevos, y una gran variedad de nuevas unidades, distritos, maravillas y edificios.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM - Explora un planeta activo en una expansi\u00f3n que introduce cambios de clima por primera vez en la historia de la saga. Enfr\u00e9ntate a desastres naturales y a otros efectos medioambientales, completa incre\u00edbles proyectos de ingenier\u00eda y gestiona energ\u00eda el\u00e9ctrica. Nuevas caracter\u00edsticas, como el World Congress, una nueva condici\u00f3n de victoria diplom\u00e1tica y una nueva \u00e9poca a\u00f1adida al \u00e1rbol tecnol\u00f3gico y de principios. Tambi\u00e9n incluye nuevas civilizaciones, l\u00edderes, unidades y edificios.",
         "languages": null,
-        "size": 9069133824
+        "size": 9067036672
     },
     "70070000012670": {
         "id": null,
@@ -47577,7 +47744,7 @@
         "intro": "Levanta tu mejor imperio en Nintendo Switch\u2122",
         "description": "Esta es la colecci\u00f3n completa* de todos los contenidos adicionales disponibles, y est\u00e1 pensada para los reci\u00e9n llegados a Civilization VI que a\u00fan no tienen todos los contenidos adicionales del juego. Para jugar a los contenidos adicionales se necesita Civilization VI.\n\nHAZ HISTORIA en uno de los juegos de estrategia m\u00e1s aclamados e influyentes de la historia. Elige a un l\u00edder y completa agendas inspiradas en sus contrapartidas de la vida real. Explora nuevos territorios, investiga tecnolog\u00edas y enfr\u00e9ntate a l\u00edderes de la historia para que tu civilizaci\u00f3n pase de ser un grano de arena a una monta\u00f1a. Ampl\u00eda ciudades por todo el mapa y crea nuevas posibilidades estrat\u00e9gicas a lo largo del juego mientras luchas por alzarte con la victoria y crear un imperio que resista el paso del tiempo. \n\nEl lote Sid Meier's Civilization VI Anthology Upgrade incluye seis packs de contenido adicional, las expansiones Rise and Fall y Gathering Storm, y el New Frontier Pass completo.\n\n\u2022\tCIVILIZATION VI: RISE AND FALL - Disfruta de nuevas mec\u00e1nicas de juego como grandes eras y Gobernadores, mejoras en los sistemas de gobierno y diplomacia, as\u00ed como de 8 civilizaciones y 9 l\u00edderes nuevos, y una gran variedad de nuevas unidades, distritos, maravillas y edificios.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM - Explora un planeta activo en una expansi\u00f3n que introduce cambios de clima por primera vez en la historia de la saga. Enfr\u00e9ntate a desastres naturales y a otros efectos medioambientales, completa incre\u00edbles proyectos de ingenier\u00eda y gestiona energ\u00eda el\u00e9ctrica. Nuevas caracter\u00edsticas, como el World Congress, una nueva condici\u00f3n de victoria diplom\u00e1tica y una nueva \u00e9poca a\u00f1adida al \u00e1rbol tecnol\u00f3gico y de principios. Tambi\u00e9n incluye nuevas civilizaciones, l\u00edderes, unidades y edificios.\n\n\n\u2022\tNEW FRONTIER PASS: incluye seis nuevos modos de juego, h\u00e9roes hist\u00f3ricos y mitol\u00f3gicos reclutables, ocho nuevas civilizaciones, nueve l\u00edderes adicionales, desastres naturales en el modo Apocalipsis y las sociedades secretas, que mejorar\u00e1n tu imperio... o lo destruir\u00e1n.\n\n*El escenario de la Muerte Roja que se public\u00f3 para PC no estar\u00e1 disponible en consolas. ",
         "languages": null,
-        "size": 3152019456,
+        "size": 3149922304,
         "ids": []
     }
 }
