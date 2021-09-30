@@ -4226,7 +4226,7 @@
             "ru",
             "ko"
         ],
-        "size": 13848543232
+        "size": 14297333760
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -7445,7 +7445,7 @@
             "ru",
             "ko"
         ],
-        "size": 14794358784
+        "size": 14863564800
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -7966,7 +7966,7 @@
             "it",
             "ru"
         ],
-        "size": 7262437376
+        "size": 7261388800
     },
     "70010000020674": {
         "id": "0100B7000D89E000",
@@ -8290,7 +8290,7 @@
             "zh",
             "zh"
         ],
-        "size": 7480541184
+        "size": 7755268096
     },
     "70010000021364": {
         "id": "01000B900D8B0000",
@@ -9014,7 +9014,7 @@
             "it",
             "zh"
         ],
-        "size": 3974103040
+        "size": 3973054464
     },
     "70010000024294": {
         "id": "010036E00FB20000",
@@ -9593,7 +9593,7 @@
             "pt",
             "fr"
         ],
-        "size": 15446573056
+        "size": 15450767360
     },
     "70010000027023": {
         "id": "0100DBF01000A000",
@@ -10158,7 +10158,7 @@
             "it",
             "ru"
         ],
-        "size": 15109980160
+        "size": 15168700416
     },
     "70010000028523": {
         "id": "010015F008C54000",
@@ -11745,7 +11745,7 @@
             "ko",
             "zh"
         ],
-        "size": 6197084160
+        "size": 6196035584
     },
     "70010000033296": {
         "id": "0100A78012A76000",
@@ -12763,7 +12763,8 @@
         "ratingContent": [
             "Violencia de fantasia",
             "Bajo contenido de sangre",
-            "Interacci\u00f3n de usuarios"
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
@@ -12792,9 +12793,11 @@
             "it",
             "nl",
             "ru",
-            "ko"
+            "ko",
+            "zh",
+            "zh"
         ],
-        "size": 616562688
+        "size": 615514112
     },
     "70010000036178": {
         "id": "01006B5012B32000",
@@ -12988,6 +12991,54 @@
             "zh"
         ],
         "size": 744488960
+    },
+    "70010000036509": {
+        "id": "01007F5013AFA000",
+        "rightsId": null,
+        "name": "TRIOS - ritmos lofi / n\u00fameros para relajarse",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70010000036509,
+        "category": [
+            "Rompecabezas",
+            "Educativo",
+            "Aprendizaje",
+            "Entrenamiento"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Samurai Punk",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1614e44f329802fed22c6797e5235649f0911c075def8eefc9c26e2da20e8857.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9741dad28be99b32358baee5f955cf6fb79a7d85bdb78128e1a73f7725bff266.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/83ad06a2dbb6afc0f0783ad7a576b43303f6f8438ce02ff8cad932cde5d36742.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24ab24235e0e39a2d63879cc5458de3fe52f2fc530e7f3d9cfa8d6ffd18c84d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d79382b23bd1993ae132a0ba62a65f5c5bd3a9b0076a0a199bbb5e014fb1791.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e5e2f02246443cf1145a6ee34ea00f7e7e7d046acc77534d9f0e5286b5f54fbd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a8d67e19714e3b346c52172017df0cf5c112e6becc488e4863ca479738ebb9e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8c03917e61115eecbd3bd62e5a2adccde3399fd681d5db70218f95ce29e554f0.jpg",
+        "intro": "Un juego relajante y minimalista de puzles matem\u00e1ticos.",
+        "description": "TRIOS es un juego que va de n\u00fameros y de lo mucho que puedes divertirte con ellos. Aparentemente sencillo, sorprendentemente estimulante.\n\nSelecciona dos n\u00fameros y una operaci\u00f3n matem\u00e1tica y ve c\u00f3mo se combinan para crear un nuevo n\u00famero. Usa todos tus n\u00fameros para alcanzar el objetivo.\n\nCaracter\u00edsticas:\n- Modo viaje: una serie de puzles que van subiendo de dificultad\n- Modo infinito: puzles generados aleatoriamente cuya dificultad se adapta a tu ritmo\n- Una selecci\u00f3n de temas musicales chill y relajantes y fondos preciosos para dejarte que fluyas",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 141557760
     },
     "70010000036695": {
         "id": "0100D7B013BA8000",
@@ -14272,7 +14323,7 @@
             "fr",
             "de"
         ],
-        "size": 4202692608
+        "size": 3448766464
     },
     "70010000040076": {
         "id": "0100090014ABE000",
@@ -14363,6 +14414,50 @@
             "zh"
         ],
         "size": 778043392
+    },
+    "70010000040472": {
+        "id": "0100AEF014C82000",
+        "rightsId": null,
+        "name": "Catty & Batty: The Spirit Guide",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211013,
+        "nsuId": 70010000040472,
+        "category": [
+            "Rompecabezas",
+            "Fiesta",
+            "Multijugador",
+            "Otros"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Sometimes You",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d7892461799f72b7b25032988fdb1878ca7c8ff2e0dbad8825504fd681d48652.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/75f8284e7fff0fe6092680e977ad10208993d80fdaf7f914efd368eea33316f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39977574de106478ddce04ed9a2da89eef93aa172dc83c2e665f42a705fd9116.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f208d93378563cc6bf5019dcab0c0bc371134d63b745be9543546d3e27e5ada1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a64ef7911ab63037c1c9394815938203f33e8f0bf24c81fb5bffafe56df8df9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/edb0a1da8a589c58f33363536a16816518359af7f19e19a9377a3454557a8e6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e577a7475e438a5296f216200da5a9deae877132e4c2f83782de58d8dc008c84.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/82b1591977e361e61b1974d20ece3443789b837b6ce66f73527c0ce7c2ae9b43.jpg",
+        "intro": "Construye de forma cooperativa un camino para guiar a los esp\u00edritus a casa.",
+        "description": "Catty & Batty: The Spirit Guide es un divertido juego de rompecabezas cooperativo, inspirado en Lemmings y Tower Defense. Juega con Catty o Batty y construye un camino para guiar a los esp\u00edritus a casa.\n\nCaracter\u00edsticas:\n- Campa\u00f1a con 30 niveles para 1-2 jugadores (cooperativo local)\n- Cambia de personaje al instante cuando juegues en solitario\n- M\u00e1s de 800 gr\u00e1ficos dibujados a mano\n- M\u00e1s de 150 animaciones\n- M\u00e1s de 100 sonidos nuevos\n- Banda sonora original\n- 6 modos de color (blanco, sepia, gris, oscuro, invertido, gameboy)\n- Alrededor de 2 horas de juego\n\nPermisos de streaming\nTienes permiso para hacer streaming y crear v\u00eddeos de este juego (Twitch, YouTube, etc.), incluso con la monetizaci\u00f3n activada. La m\u00fasica es una banda sonora original que se puede transmitir sin problemas. \u00a1Divi\u00e9rtete!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "de",
+            "pt",
+            "ru"
+        ],
+        "size": 622854144
     },
     "70010000041054": {
         "id": "0100B94014F8E000",
@@ -14553,7 +14648,7 @@
             "ko",
             "zh"
         ],
-        "size": 2283798528
+        "size": 2397044736
     },
     "70010000041440": {
         "id": "010009F014D98000",
@@ -14685,6 +14780,50 @@
             "zh"
         ],
         "size": 2723151872
+    },
+    "70010000041579": {
+        "id": "0100E1E01523A000",
+        "rightsId": null,
+        "name": "The Sundew",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211014,
+        "nsuId": 70010000041579,
+        "category": [
+            "Aventura",
+            "Rompecabezas"
+        ],
+        "ratingContent": [
+            "Referencia al alcohol",
+            "Bajo contenido de sangre",
+            "Violencia moderada de fantasia",
+            "Lenguaje moderado"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "2054",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8ceb3f1f3dc8dd8655146d3fd1668a77c474d1c68a014bc6fd88c3ea7178dca7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/aa89ca08623671a6647985bd9ebb836d45f302d1c6527803e75367af94822847.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c282742cf492c15242fb2c66b72d82e0464bd58ba1deded068a6a09520b8e44a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d63f81205700319a52ada7d72c110d6e9a998217e3e060588d5e65fd364be4f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb6888f131607720a5e862b48a4a66ddead6addae073a2eec9b43dc8f303e85c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/064d29510e64bad0f7fe164f16a3129631e819649232e6c81928ff5c0f3b0c49.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/53504d8dd54934da1334ebd4ca307eb51f46e95eeda6b41bf5898f917ba9a636.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/533925cec45b48926c3fdfdfdcbe1cbe37060266602c43e6e2505754bb1d5cb3.jpg",
+        "intro": "You are Anna Isobe, a cyborg cop abandoned by progress and thrust into the midst of a global conspiracy. Experience classic point and click gameplay as you travel across the dark future.",
+        "description": "ABOUT THIS GAME\nShibukawa, capital of Japan, 2054. Water drips from the cracked ceiling onto the edge of your bed as the incessant rain masks the whine of a refrigerator and the neon hum of the city outside. You don\u2019t recognise the heavy breath in your ear nor the warmth of the body lying next to you...\n\nThe world\u2019s gone to hell, and it\u2019s taking you down with it.\n\nWelcome to Shibukawa\n\nYou are Anna Isobe, a cybernetically enhanced cop in a world that\u2019s left you behind. Once a shining hope for the future, cyborgs have become taboo, replaced by drones and automata that make even your heightened abilities obsolete. Stuck in a thankless job surrounded by indifferent eyes you still have a duty to protect and serve, and that\u2019s just what you\u2019re going to do.\n\nThe Sundew is a dark adventure game set in the aftermath of a devastating future war, where the world as we know it was twisted by flames into a terrifying new dystopia. What begins as a normal day quickly becomes something else, and soon a lonely beat cop will hold the fate of the world in her hands.\n\nThe dark future, realised\n\nThe Sundew pays homage to classic adventure games of old while reflecting contemporary issues and gameplay. Beautifully drawn pixel-art and stunning sound design brings this dark future to life and grounds you in a vision of humanity\u2019s progress that is both alien and strangely familiar...\n\nBrave New World\n\nJapan lies in ruins, save for the bustling haven of Shibukawa. Guide Anna through this new megalopolis and beyond in her search for the mystery behind a growing conspiracy. Travel from the backstreets of the city to far-flung isles, and the most notorious prison this side of the Steppe.\n\nChoose your fate and that of the world\n\nAlongside classic point-and-click gameplay The Sundew will ask you to make decisions that will change the future of humanity. Playing off contemporary issues, the choices offered are never black and white. Where do you believe mankind\u2019s interests lie, and what means are acceptable to achieve them?\n\nFeatures\n\n- Guide Anna Isobe, a cyborg cop with a dark past, through the unravelling of a global conspiracy.\n- Experience a diverse cast of characters, each with their own secrets and history.\n- Explore Shibukawa and the remnants of the old world.\n- Make decisions that will change the fate of humanity, for better or worse.",
+        "languages": [
+            "en",
+            "fr",
+            "de"
+        ],
+        "size": 297795584
     },
     "70010000041611": {
         "id": "0100A18015268000",
@@ -14883,7 +15022,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f9a04bb40a8a29ecf9a67e7a921b153eb4414657c4c6a4e4c97122bc301b466.jpg",
         "intro": "Crea y destruye todo lo que te apetezca: el cielo, la tierra y la humanidad.",
-        "description": "Vuelve a disfrutar del cl\u00e1sico Actraiser de los noventa.\n\nINFORMACI\u00d3N\nActraiser Renaissance combina acci\u00f3n y plataformas en 2D (fase de acci\u00f3n) con simulaci\u00f3n y construcci\u00f3n de ciudades (fase de simulaci\u00f3n) en la batalla definitiva entre el bien y el mal.\nIncluye la banda sonora que dej\u00f3 estupefactos a los jugadores de todo el mundo en su d\u00eda, compuesta por el legendario Yuzo Koshiro \u00a1y ahora remasterizada!\n\nAyuda a que la humanidad prospere en el papel del Lord of Light y su leal \u00e1ngel en un mundo asolado por el mal.\n\nCARACTER\u00cdSTICAS NUEVAS\n- Gr\u00e1ficos remasterizados en 2D que presentan el juego en impresionante alta definici\u00f3n.\n- 15 canciones nuevas, adem\u00e1s de nuevas versiones de los temas originales de Yuzo Koshiro, el compositor de Actraiser.\n- Nuevas historias, jugabilidad ampliada en las fases de acci\u00f3n y simulaci\u00f3n, niveles de acci\u00f3n adicionales, una regi\u00f3n in\u00e9dita y enemigos nuevos y m\u00e1s poderosos.\n- Guardado autom\u00e1tico y niveles de dificultad.\n\nSISTEMA DE JUEGO\nFase de acci\u00f3n: Utiliza magia de fuego, hielo, etc. de forma estrat\u00e9gica en los niveles de acci\u00f3n en 2D. Los humanos volver\u00e1n para reclamar la regi\u00f3n en cuanto hayas conquistado estos niveles, y as\u00ed podr\u00e1s empezar a desarrollar tus asentamientos.\n\nSe han incorporado nuevos tipos de magia que no estaban disponibles en el juego original, adem\u00e1s de la posibilidad de esquivar ataques. Ahora tambi\u00e9n es posible atacar movi\u00e9ndote arriba y abajo para a\u00f1adir dinamismo a la acci\u00f3n del juego. Tendr\u00e1s que valerte de todos tus recursos si quieres derrotar a los poderosos enemigos que encontrar\u00e1s al final de los nuevos niveles de acci\u00f3n.\n\nFase de simulaci\u00f3n: Ayuda a que la humanidad prospere desarrollando tus asentamientos y ejerciendo de gu\u00eda. Usa tus poderes divinos para invocar rayos y terremotos con los que eliminar \u00e1rboles y rocas que impiden el progreso de tus s\u00fabditos. Juega en el papel del \u00e1ngel del Lord of Light y usa tu prodigioso arco para disparar flechas que hagan retroceder a los malvados monstruos que amenazan a tu pueblo.\n\nProtege tus asentamientos de asaltos enemigos en combates estrat\u00e9gicos en tiempo real. La posici\u00f3n de tus fuertes y el momento en el que ejecutas tus milagros son cruciales para alcanzar la victoria en estas contiendas.\n\nDescubre nuevas historias sobre las penurias de la humanidad, observa c\u00f3mo superan sus defectos y fracasos y aprenden a amar al pr\u00f3jimo y a apoyarse mutuamente. En total, con estos nuevos niveles hay el doble de historias que en el juego original. \u00a1Explora la nueva regi\u00f3n y disfruta construyendo asentamientos durante mucho m\u00e1s tiempo que antes!\n\nM\u00daSICA\nEl compositor original de Actraiser, Yuzo Koshiro, ha creado nuevas versiones para todos los temas cl\u00e1sicos y ha incorporado 15 canciones nuevas. Podr\u00e1s elegir entre escuchar la banda sonora original o las versiones nuevas mientras juegas. Y, si alguna vez te cansas de proteger a tus s\u00fabditos, siempre puedes relajarte y ponerte a escuchar la m\u00fasica sin m\u00e1s.",
+        "description": "Vuelve a disfrutar del cl\u00e1sico Actraiser de los noventa.\n\nINFORMACI\u00d3N\nActraiser Renaissance combina acci\u00f3n y plataformas en 2D (fase de acci\u00f3n) con simulaci\u00f3n y construcci\u00f3n de ciudades (fase de simulaci\u00f3n) en la batalla definitiva entre el bien y el mal.\nIncluye la banda sonora que dej\u00f3 estupefactos a los jugadores de todo el mundo en su d\u00eda, compuesta por el legendario Yuzo Koshiro \u00a1y ahora remasterizada!\n\nAyuda a que la humanidad prospere en el papel del Lord of Light y su leal \u00e1ngel en un mundo asolado por el mal.\n\nCARACTER\u00cdSTICAS NUEVAS\n- Gr\u00e1ficos remasterizados en 2D que presentan el juego en impresionante alta definici\u00f3n.\n- 15 canciones nuevas, adem\u00e1s de nuevas versiones de los temas originales de Yuzo Koshiro, el compositor de Actraiser.\n- Nuevas historias, jugabilidad ampliada en las fases de acci\u00f3n y simulaci\u00f3n, niveles de acci\u00f3n adicionales, una regi\u00f3n in\u00e9dita y un jefe nuevo y poderoso.\n- Guardado autom\u00e1tico y niveles de dificultad.\n\nSISTEMA DE JUEGO\nFase de acci\u00f3n: Utiliza magia de fuego, hielo, etc. de forma estrat\u00e9gica en los niveles de acci\u00f3n en 2D. Los humanos volver\u00e1n para reclamar la regi\u00f3n en cuanto hayas conquistado estos niveles, y as\u00ed podr\u00e1s empezar a desarrollar tus asentamientos.\n\nSe han incorporado nuevos tipos de magia que no estaban disponibles en el juego original, adem\u00e1s de la posibilidad de esquivar ataques. Ahora tambi\u00e9n es posible atacar movi\u00e9ndote arriba y abajo para a\u00f1adir dinamismo a la acci\u00f3n del juego. Tendr\u00e1s que valerte de todos tus recursos si quieres derrotar a los poderosos enemigos que encontrar\u00e1s al final de los nuevos niveles de acci\u00f3n.\n\nFase de simulaci\u00f3n: Ayuda a que la humanidad prospere desarrollando tus asentamientos y ejerciendo de gu\u00eda. Usa tus poderes divinos para invocar rayos y terremotos con los que eliminar \u00e1rboles y rocas que impiden el progreso de tus s\u00fabditos. Juega en el papel del \u00e1ngel del Lord of Light y usa tu prodigioso arco para disparar flechas que hagan retroceder a los malvados monstruos que amenazan a tu pueblo.\n\nProtege tus asentamientos de asaltos enemigos en combates estrat\u00e9gicos en tiempo real. La posici\u00f3n de tus fuertes y el momento en el que ejecutas tus milagros son cruciales para alcanzar la victoria en estas contiendas.\n\nDescubre nuevas historias sobre las penurias de la humanidad, observa c\u00f3mo superan sus defectos y fracasos y aprenden a amar al pr\u00f3jimo y a apoyarse mutuamente. En total, con estos nuevos niveles hay el doble de historias que en el juego original. \u00a1Explora la nueva regi\u00f3n y disfruta construyendo asentamientos durante mucho m\u00e1s tiempo que antes!\n\nM\u00daSICA\nEl compositor original de Actraiser, Yuzo Koshiro, ha creado nuevas versiones para todos los temas cl\u00e1sicos y ha incorporado 15 canciones nuevas. Podr\u00e1s elegir entre escuchar la banda sonora original o las versiones nuevas mientras juegas. Y, si alguna vez te cansas de proteger a tus s\u00fabditos, siempre puedes relajarte y ponerte a escuchar la m\u00fasica sin m\u00e1s.",
         "languages": [
             "ja",
             "en",
@@ -15500,7 +15639,46 @@
             "zh",
             "zh"
         ],
-        "size": 2397044736
+        "size": 2425356288
+    },
+    "70010000043653": {
+        "id": "01009BE015A20000",
+        "rightsId": null,
+        "name": "Drum Box",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211007,
+        "nsuId": 70010000043653,
+        "category": [
+            "M\u00fasica",
+            "Arcade",
+            "Educativo",
+            "Estilo de vida"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Sanuk Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9644fe056ae0921018802f7366c8aac7dbc534efd68349a2ed3f191f38040944.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8c1371a67e0f5cbaa7b21b3ef7a60c645fbdff126492d62757a6f4b8f643da6d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/50918ec821d35ec76bf8f86292f38d4766effa75b75843e62022d598feb57b75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/162908a9181b78196e2a9c45d68877a9ec1a0a0173ca8e8bd0852aa31928b452.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f2499cb49af07f83d4adc4a6601e90c61f6d83aabe26813a394c1deb7b537f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9482390343327ac8c015b0e064c10e0ba21596a0f8bc8db00ae26f88142d87dc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/33c0e5131f7dc75eff90a8fb5c408d4d1b5f11dc7d614e9364406c6057fa8f47.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0340e300dce4d3fa0cc223f8bb6d0639a00ec99dbc6b73d98c97136a6a6ea28a.jpg",
+        "intro": "\u00a1El juego de bater\u00eda m\u00e1s completo de la Nintendo Switch\u2122!",
+        "description": "Drum Box te desaf\u00eda a tocar las partes de la bater\u00eda en 8 g\u00e9neros musicales. Empieza con una dificultad f\u00e1cil y desarrolla tus habilidades. En cada paso, un modo de entrenamiento te ense\u00f1ar\u00e1 los patrones y un modo de actuaci\u00f3n te desafiar\u00e1 a superar tu propia puntuaci\u00f3n. Tambi\u00e9n puedes tocar con estilo libre, a tu propio ritmo. \u00bfEst\u00e1s listo para aceptar el desaf\u00edo?\n\nCaracter\u00edsticas clave:\n\n- Toca las partes de la bater\u00eda de 8 g\u00e9neros musicales: Reggae, Rock, Blues, Hip Hop, Metal, Jazz, Funk, Salsa.\n- Pistas de acompa\u00f1amiento famosas de \"Drum! Drum! Drum!\" - el proveedor m\u00e1s reconocido de pistas de acompa\u00f1amiento para los bater\u00edas en Youtube.\n- 3 niveles de dificultad para desbloquear. \n- Un modo de entrenamiento para aprender y practicar los distintos patrones.\n- Un modo de actuaci\u00f3n en el que te puedes desafiar a ti mismo. \u00a1Crea grupos, supera tu propia puntuaci\u00f3n y gana medallas!\n- Un modo de estilo libre para que puedas tocar la bater\u00eda a tu propio ritmo.",
+        "languages": [
+            "en"
+        ],
+        "size": 240123904
     },
     "70010000043669": {
         "id": "01005BD015A3C000",
@@ -15601,9 +15779,7 @@
             "Acci\u00f3n",
             "Arcade"
         ],
-        "ratingContent": [
-            "Violencia moderada de fantasia"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 2,
         "rating": 6,
         "developer": null,
@@ -15860,7 +16036,7 @@
             "it",
             "nl"
         ],
-        "size": 169869312
+        "size": 232783872
     },
     "70010000044378": {
         "id": "0100B33014710000",
@@ -16049,6 +16225,45 @@
         ],
         "size": 0
     },
+    "70010000045042": {
+        "id": "01007B6016018000",
+        "rightsId": null,
+        "name": "Halloween Snowball Bubble",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211029,
+        "nsuId": 70010000045042,
+        "category": [
+            "Rompecabezas",
+            "Estrategia",
+            "Fiesta",
+            "Otros"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "FuriouSoftPhoenix",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/212a3105c66e06989f1c8928b80cf0ba5221245d32611290c5dd4c757152f457.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/90e15baa97cafbb4746d72e3acff473afa4df449007db12e15c14ce0c889fbc3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b428a5154239dc86a6be23d278a99ee52e781a432002d6b6a6e65de071ab3ecc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/76290c2fd1a931512246b7cc0e6f231af0d04ebfd555b0cb44b3474d0617cd59.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/583783e776041331d4cc1f500481ea8f2621df4560228726bbc8eeb03093d359.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84c3955367a7b6863362da5ed181c58ecf14a24d3e881bd7228ac6351fb3eac3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a64bba38890bd2baebfed90229836fab756a703527bfadd8df9504e05136371e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f88bf59f30393313770046fc1da2fa1524c73164dde0e6f5639ba075fed89d03.jpg",
+        "intro": "Divi\u00e9rtete en el juego cl\u00e1sico de burbujas, con la novedad de descubrir las figuras que esconden cada una de las bolas de nieve. ",
+        "description": "Crea, mientras juegas, personajes m\u00edticos de <Halloween> combinando las burbujas del mismo color.\n\nPuedes realizar \u2018Combos\u2019 o conseguir varios especiales \u2018PowerUp\u2019: como el cohete dirigido, la bomba destructora y el arrollador l\u00e1ser, todo ello para llegar a lo m\u00e1s alto de la puntuaci\u00f3n.\n\nBonitos y nost\u00e1lgicos gr\u00e1ficos ambientados en una encantadora tienda de juguetes de anta\u00f1o, que nos trasladar\u00e1 a nuestra infancia m\u00e1s retro.\n\nRelajante e inmersivo pasatiempos donde quedar\u00e1s atrapado hasta descubrir que ins\u00f3lito personaje esconde tras cada bola de nieve.\n",
+        "languages": [
+            "en"
+        ],
+        "size": 641728512
+    },
     "70010000045222": {
         "id": "01007740160D4000",
         "rightsId": null,
@@ -16229,7 +16444,7 @@
             "zh",
             "zh"
         ],
-        "size": 2397044736
+        "size": 2425356288
     },
     "70010000045474": {
         "id": "0100D730161DA000",
@@ -16488,7 +16703,7 @@
         "languages": [
             "en"
         ],
-        "size": 328204288
+        "size": 377487360
     },
     "70010000046322": {
         "id": null,
@@ -19757,7 +19972,7 @@
         "intro": null,
         "description": "\u00a1Amanitore dirige Nubia en Sid Meier's Civilization VI! Las unidades a distancia de Nubia son fuertes, f\u00e1ciles de crear y de ascenso r\u00e1pido. Adem\u00e1s, se puede usar la mejora exclusiva Nubian Pyramid para mejorar la construcci\u00f3n y la producci\u00f3n de los distritos. Si quieres una civilizaci\u00f3n con unos cimientos s\u00f3lidos desde el principio para luego obtener la victoria, Nubia es perfecta para ti.\n\nIncluye la civilizaci\u00f3n nubia con Amanitore, la unidad exclusiva Pitati Archer, la mejora exclusiva Nubian Pyramid y la nueva Jebel Barkal Wonder.\n\n\u2022 Civ Unique Ability: Nubia recibe bonificaciones de producci\u00f3n para las Ranged units y todas estas units consiguen experiencia de combate m\u00e1s r\u00e1pidamente. Las Minas aportan bonificaciones de producci\u00f3n sobre los recursos estrat\u00e9gicos y bonificaciones de Oro sobre los recursos de lujo.\n\n\u2022 Leader Unique Ability: Amanitore otorga a Nubia una bonificaci\u00f3n en la producci\u00f3n para la construcci\u00f3n de Districts, que se puede aumentar a\u00fan m\u00e1s si hay una Nubian Pyramid junto al City Center.\n\n\u2022 Unique Unit: el Pitati Archer reemplaza al Ancient Era Archer. Es una unidad m\u00e1s fuerte y r\u00e1pida que la de la Ancient Archer y se mejora a Crossbowman.\n\n\u2022 Unique Infrastructure: la Nubian Pyramid se puede construir en un Desert, Desert Hills o Floodplains. Adem\u00e1s de Faith, tambi\u00e9n proporciona rendimiento adicional en funci\u00f3n del District adyacente, o Food para el City Center.\n\nNuevo escenario \"\"Gifts of the Nile\"\":\n\u2022 Elige Nubia o Egipto mientras compites contra la otra civilizaci\u00f3n para ver qui\u00e9n es la primera en completar 7 Temples dedicados a Amun en este escenario situado a la orilla del r\u00edo Nilo.\n\n\u2022 Incluye unique rules y funciones de juego exclusivas. Adem\u00e1s, las Naval units pueden atravesar el Nilo.\n\n\u2022 L\u00edmite de 125 turnos.\n\nNueva Jebel Barkal Wonder:\n\u2022 Esta maravilla proporciona Faith adicional a todas las ciudades cercanas; debe construirse en Desert Hills. \"",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "010044500C183001"
         ]
@@ -19797,7 +20012,7 @@
         "intro": null,
         "description": "\u00a1Jayavarman VII lidera a los jemeres y Dyah Gitarja a los indonesios en Sid Meier's Civilization VI! Aunque cada civilizaci\u00f3n es \u00fanica y vers\u00e1til, ambas aportan nuevos desaf\u00edos al juego religioso. Indonesia es una poderosa civilizaci\u00f3n costera con una gran armada basada en el Jong, y los jemeres prosperan en sus pobladas ciudades construidas a la ribera de los r\u00edos. Ambas civilizaciones entran en juego en el nuevo escenario \"\"\u201cPath to Nirvana\"\", en el que competir\u00e1s por tener el mayor n\u00famero de adeptos a tu religi\u00f3n en un mapa exclusivo del sureste asi\u00e1tico.\n\nIncluye la civilizaci\u00f3n jemer con Jayavarman VII, la unidad exclusiva Domrey y la mejora exclusiva Prasat.\n\n\u2022 Habilidad exclusiva de civilizaci\u00f3n: la habilidad \"\"Grand Barays\"\" proporciona a los jemeres alimento adicional cuando las Farms se construyen adyacentes a Aqueducts, y los Aqueducts proporcionan Faith y Amenity.\n\n\u2022 Habilidad exclusiva de l\u00edder: la habilidad \"\"Monasteries of the King\"\" de Jayavarman permite a los jemeres apoderarse de los territorios adyacentes y adem\u00e1s proporciona Food y Housing si los Holy Sites se construyen en un r\u00edo.\n\n\u2022 Unidad exclusiva: el Domrey es una balista montada a lomos de un elefante, m\u00e1s fuerte que la catapulta, que puede moverse y disparar en el mismo turno y que ejerce una zona de control.\n\n\u2022 Edificio exclusivo: el Prasat sustituye al Temple y proporciona un espacio de gran obra de reliquia. Los Missionaries que se produzcan aqu\u00ed ganar\u00e1n un nuevo atributo cuando mueran en combate religioso: generan una reliquia.\n\nTambi\u00e9n incluye la civilizaci\u00f3n indonesia con Dyah Gitarja, la unidad exclusiva Jong y la mejora exclusiva Kampung:\n\n\u2022 Habilidad exclusiva de civilizaci\u00f3n: con la habilidad \"\"Great Nusantara\"\", las casillas de costa otorgan a los indonesios peque\u00f1as bonificaciones por adyacencia para algunos distritos, y los Entertainment Complexes proporcionan Amenity adicionales si est\u00e1n adyacentes a una casilla que no sea de costa.\n\n\u2022 Habilidad exclusiva de l\u00edder: Gitarja tiene la habilidad \"\"Exalted Goddess of the Three Worlds\"\", que concede una bonificaci\u00f3n a Faith a las ciudades costeras y otorga un descuento al comprar unidades navales con Faith, adem\u00e1s de eliminar los costos de movimiento al embarcar o desembarcar unidades religiosas.\n\n\u2022 Unidad exclusiva: la unidad exclusiva de los indonesios es el Jong, que sustituye a la Frigate. Es m\u00e1s r\u00e1pida, obtiene m\u00e1s poder de combate si est\u00e1 en una formaci\u00f3n y todas las unidades en su misma formaci\u00f3n igualan su velocidad de movimiento.\n\n\u2022 Mejora exclusiva: el Kampong proporciona Housing, Production y Food por cada Fishing Boat adyacente y, a medida que avanza la partida, puede mejorarse mediante la investigaci\u00f3n tecnol\u00f3gica.\n\nNuevo escenario \"\"Path to Nirvana\"\":\n\u2022 En las tierras alrededor del oc\u00e9ano \u00cdndico abundan las religiones y los pueblos. El cielo te ha elegido para que ilumines estas tierras. \u00bfEst\u00e1 tu fe a la altura del desaf\u00edo? Compite en este escenario de 50 turnos para conseguir el mayor n\u00famero de seguidores para tu religi\u00f3n, la mayor cantidad de Faith por turno y el mayor n\u00famero de ciudades extranjeras que profesen tu religi\u00f3n.\n\nNueva maravilla:\n\u2022 Angkor Wat: \u00a1el mayor monumento religioso del mundo regresa a Civilization! Este templo se debe construir adyacente a un Aqueduct y proporcionar\u00e1 Faith, adem\u00e1s de Housing y un Citizen para cada una de tus ciudades.\n\nNueva maravilla natural:\n\u2022 Ha Long Bay: esta pintoresca bah\u00eda fue elegida una de las Siete Nuevas Maravillas del Mundo en 2012. Proporciona Food, Production y Culture, adem\u00e1s de una gran bonificaci\u00f3n al combate para las unidades navales en sus casillas.\n\nMapa nuevo:\n\u2022 Expande tu imperio por el sudeste asi\u00e1tico en este nuevo mapa, con una True Start de inicio y una opci\u00f3n de posici\u00f3n aleatoria.",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "010044500C183002"
         ]
@@ -31214,7 +31429,7 @@
         "intro": "Arrasa el infierno",
         "description": "DOOM\u00ae Eternal, el galardonado juego y \u201cuno de los mejores shooters en primera persona de la historia\u201d seg\u00fan GameRevolution, llega a Nintendo Switch. DOOM Eternal, desarrollado por id Software y Panic Button, es la secuela directa de DOOM\u00ae, ganador del premio al Mejor juego de acci\u00f3n de 2016 en los Game Awards.\n\nLos ej\u00e9rcitos del infierno han invadido la Tierra. Convi\u00e9rtanse en el Slayer en una campa\u00f1a \u00e9pica para un jugador donde tendr\u00e1n que enfrentarse a los demonios en distintas dimensiones e impedir la destrucci\u00f3n definitiva de la humanidad. No le tienen miedo a nada... salvo a ti.\n\nFUNCIONALIDADES:  \n\nNivel de amenaza de Slayer al m\u00e1ximo\nDisfruta de la mejor combinaci\u00f3n de velocidad y potencia en DOOM Eternal, que trae un salto cualitativo en el combate en primera persona, gracias a la tecnolog\u00eda idTech 7. Armado con un lanzallamas en el hombro, una hoja retr\u00e1ctil en la mu\u00f1eca, armas mejoradas, nuevas habilidades y mucho m\u00e1s, ser\u00e1s el mejor matademonios que haya existido nunca.\n\nCombate en avance continuo\nObt\u00e9n lo que necesites de tus enemigos. Ejecuta demonios para recuperar salud, incin\u00e9ralos para obtener armadura y destr\u00edpalos con la motosierra para conseguir munici\u00f3n. \n\nApuntado por movimiento disponible\nMejora la punter\u00eda con una opci\u00f3n que permite apuntar mediante controles girosc\u00f3picos. Esta puede usarse junto con la palanca de control para conseguir una mezcla ideal de inmersi\u00f3n y precisi\u00f3n.",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "0100B1A00D8CF003"
         ]
@@ -31278,7 +31493,7 @@
         "intro": null,
         "description": "Arrasa el infierno con la Deluxe Edition de DOOM Eternal. Incluye:\n\n- Dise\u00f1o del Slayer demon\u00edaco\n- Paquete de sonidos cl\u00e1sicos para armas - Efectos de sonido cl\u00e1sicos para tus armas de DOOM Eternal\n",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "0100B1A00D8CF002"
         ]
@@ -31310,7 +31525,7 @@
         "intro": null,
         "description": "The Ancient Gods, primera parte es la primera expansi\u00f3n de la campa\u00f1a para el aclamado DOOM Eternal.\n\nTu guerra no ha terminado... La muerte de la Khan Maykr provoc\u00f3 un desequilibrio de poder que amenaza a toda la creaci\u00f3n. Las legiones del infierno arrasaron los cielos y amenazan con expandir su dominio de una dimensi\u00f3n a otra. Con la ayuda de un antiguo aliado, \u00e1brete paso hasta Urdak y decide el destino del cosmos. Ahora eres el \u00fanico due\u00f1o de tu misi\u00f3n.\n\nNUEVA MISI\u00d3N\nEnfr\u00e9ntate a una nueva misi\u00f3n en tu lucha eterna contra el mal. Desata tu venganza y enfr\u00e9ntate a tu mayor reto en el regreso al mundo de los Maykr. Derrota a peligrosos enemigos nuevos, devuelve el orden a los cielos y destierra la corrupci\u00f3n que sumi\u00f3 al universo en el caos.\n\nNUEVAS UBICACIONES\nVisitar\u00e1s \u00e9picas ubicaciones nuevas en las que destripar a las tropas del infierno, desde las lluviosas cubiertas industriales de la estaci\u00f3n atl\u00e1ntica de la UAC en la Tierra hasta las Ci\u00e9nagas de la Sangre del infierno, repletas de cad\u00e1veres, y las ruinas decadentes de un Urdak infestado de demonios.\n\nNUEVOS ENEMIGOS\nCambia de t\u00e1ctica seg\u00fan vayas enfrent\u00e1ndote a los nuevos peligros del infierno, que har\u00e1n m\u00e1s complejos y dif\u00edciles los combates. Enfr\u00e9ntate al esp\u00edritu, un enemigo et\u00e9reo que mejora la fuerza y velocidad de otros demonios, y al Maykr de sangre, un \u00e1ngel Maykr corrupto armado con un poderoso bast\u00f3n que lanza con la fuerza de un rel\u00e1mpago.",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "0100B1A00D8CF004"
         ]
@@ -31342,7 +31557,7 @@
         "intro": null,
         "description": "The Ancient Gods, segunda parte, es la \u00e9pica conclusi\u00f3n de la saga del DOOM Slayer y la segunda expansi\u00f3n de la campa\u00f1a del aclamado DOOM Eternal.\n\nNegaste a los dioses y despertaste un mal ancestral. Ahora debes reunir las dispersas fuerzas de los Centinelas, poner bajo asedio el \u00faltimo basti\u00f3n del infierno, derribar las murallas de su fortaleza y enfrentarte al Se\u00f1or Oscuro en persona. El alma misma del universo est\u00e1 en juego.\n\nAqu\u00ed termina tu guerra contra el infierno.\n\nVIVE EL FINAL DE LA SAGA DEL SLAYER\nVive la emocionante conclusi\u00f3n de la saga del DOOM Slayer. Desde el momento en que te activ\u00f3 Samuel Hayden en las instalaciones de la UAC en Marte, hasta la destrucci\u00f3n del Icono del Pecado, todas tus batallas han conducido hasta este momento. Prep\u00e1rate para poner bajo asedio Immora, \u00faltimo basti\u00f3n del Reino Oscuro, desafiar al Se\u00f1or Oscuro a un combate singular y dejar a los demonios encerrados en el infierno para siempre.\n\nLUCHA EN CAMPOS DE BATALLA \u00c9PICOS\nLucha contra los ej\u00e9rcitos del infierno en ubicaciones in\u00e9ditas, desde las ruinas de los antiguos asentamientos de los Centinelas y las maravillas de la Lanza del Mundo hasta una ciudad devastada e invadida por la maleza en la Tierra donde se oculta un misterioso portal, para llegar a Immora, \u00faltimo basti\u00f3n del Se\u00f1or Oscuro, protegido por colosales murallas y la tecnolog\u00eda m\u00e1s avanzada.\n\nENFR\u00c9NTATE A PELIGROSAS VARIANTES DE ENEMIGOS\nLucha contra nuevas y mort\u00edferas variantes de los demonios. El bar\u00f3n blindado lleva una armadura especial y ataca con pu\u00f1etazos cargados. El imp de piedra, dotado de una piel casi impenetrable, prefiere combatir a corta distancia. El chill\u00f3n es un zombi que aumenta el poder de los demonios cercanos al morir. El merodeador maldito es una mutaci\u00f3n con garras venenosas que transmiten una maldici\u00f3n. Aprovecha sus debilidades para destruirlos.\n\nESGRIME EL MARTILLO DE CENTINELA\nAumenta a\u00fan m\u00e1s el nivel de destrucci\u00f3n con el martillo de Centinela, un arma ancestral capaz de detener a cualquier demonio atrapado en su onda de choque. \u00dasalo para aturdir a los demonios o comb\u00ednalo con la bomba de hielo o el escupellamas para conseguir esa armadura y salud que tanto necesitas.",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "0100B1A00D8CF005"
         ]
@@ -42432,6 +42647,412 @@
             "010007301138300F"
         ]
     },
+    "70050000028956": {
+        "id": null,
+        "rightsId": null,
+        "name": "Contenido adicional: \"Arcueid Round Announcements\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70050000028956,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5ae320441822415c22fa50e48b3043a1490f9dd26f00e880b1df8c498877cb3.jpg",
+        "intro": "\"Arcueid Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "description": "Cuando compres este producto, \"Arcueid Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028959": {
+        "id": null,
+        "rightsId": null,
+        "name": "Contenido adicional: \"Hisui Round Announcements\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70050000028959,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/db4467a10f382bb056e092918ee56136ad31cefdff8dc7b0972347ec3728e919.jpg",
+        "intro": "\"Hisui Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "description": "Cuando compres este producto, \"Hisui Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028962": {
+        "id": null,
+        "rightsId": null,
+        "name": "Contenido adicional: \"Akiha Tohno Round Announcements\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70050000028962,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0f7343b546b06a0062bbe7c86a1add564e31ad6dac52746f8cf5c229e10e2fc7.jpg",
+        "intro": "\"Akiha Tohno Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "description": "Cuando compres este producto, \"Akiha Tohno Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028965": {
+        "id": null,
+        "rightsId": null,
+        "name": "Contenido adicional: \"Shiki Tohno Round Announcements\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70050000028965,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e6dc2fc9b40ead89e7b3a758da57af2207cbb21b78ab0060f535b8195d739e56.jpg",
+        "intro": "\"Shiki Tohno Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "description": "Cuando compres este producto, \"Shiki Tohno Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028968": {
+        "id": null,
+        "rightsId": null,
+        "name": "Contenido adicional: \"Kohaku Round Announcements\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70050000028968,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f5e6060d4a7fee30fbabb836f5c701ef0a44e3b3a45181a9722097d60d6c4124.jpg",
+        "intro": "\"Kohaku Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "description": "Cuando compres este producto, \"Kohaku Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028971": {
+        "id": null,
+        "rightsId": null,
+        "name": "Contenido adicional: \"Roa Round Announcements\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70050000028971,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ef8a83ce970b7007b323d3ef7f7380727c02e7aa296d5164e08252e0464c6ac5.jpg",
+        "intro": "\"Roa Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "description": "Cuando compres este producto, \"Roa Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028974": {
+        "id": null,
+        "rightsId": null,
+        "name": "Contenido adicional: \"Kouma Kishima Round Announcements\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70050000028974,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/49312129da1f26b5cfb67f1516da2f87e87e3cbbe4fac7f3a4ce846dc1199645.jpg",
+        "intro": "\"Kouma Kishima Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "description": "Cuando compres este producto, \"Kouma Kishima Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028977": {
+        "id": null,
+        "rightsId": null,
+        "name": "Contenido adicional: \"Noel Round Announcements\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70050000028977,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/76529b8e4d2298a66eb23873751ae491be1c68a20f51993de0f75622efb7bdcf.jpg",
+        "intro": "\"Noel Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "description": "Cuando compres este producto, \"Noel Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028980": {
+        "id": null,
+        "rightsId": null,
+        "name": "Contenido adicional: \"Vlov Round Announcements\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70050000028980,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4521578efc9b882c785b05c89d240ac9d00b8c9c087085d7b1fb080121c2ad6f.jpg",
+        "intro": "\"Vlov Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "description": "Cuando compres este producto, \"Vlov Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028983": {
+        "id": null,
+        "rightsId": null,
+        "name": "Contenido adicional: \"Red Arcueid Round Announcements\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70050000028983,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ec47d49d9d1092146dcc16994a442313f3dc9f730b50e1f9bcac7f390ff4eaea.jpg",
+        "intro": "\"Red Arcueid Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "description": "Cuando compres este producto, \"Red Arcueid Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028986": {
+        "id": null,
+        "rightsId": null,
+        "name": "Contenido adicional: \"Ciel Round Announcements\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70050000028986,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7fe76cf655cfa0eef776e551b641e59f8524e1db79ca3d6635a3a8bea745bb39.jpg",
+        "intro": "\"Ciel Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "description": "Cuando compres este producto, \"Ciel Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028989": {
+        "id": null,
+        "rightsId": null,
+        "name": "Contenido adicional: \"Saber Round Announcements\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70050000028989,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c6ce60c1724cce58b59c3dc841839295b6d4838e278d7af0f39beed9c025ab0.jpg",
+        "intro": "\"Saber Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "description": "Cuando compres este producto, \"Saber Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028992": {
+        "id": null,
+        "rightsId": null,
+        "name": "Contenido adicional: \"Miyako Arima Round Announcements\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70050000028992,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff6bf4edb488058d8c00b3b4eb2b7c63f5e3e65a91e5fec3d4883af86bad4c4e.jpg",
+        "intro": "\"Miyako Arima Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "description": "Cuando compres este producto, \"Miyako Arima Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000028995": {
+        "id": null,
+        "rightsId": null,
+        "name": "Voces de comienzo de ronda - Pack de voces de 13 personajes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210930,
+        "nsuId": 70050000028995,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DELiGHTWORKS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a191215103b950586245733b38fcfb24076080091518e09aaaaebed305ee1083.jpg",
+        "intro": "\"Pack de voces de 13 personajes\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
+        "description": "Cuando compres este producto, el \"Pack de voces de 13 personajes\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".\nContiene las voces de Shiki Tohno, Arcueid, Ciel, Akiha Tohno, Hisui, Kohaku, Noel, Vlov, Roa, Red Arcueid, Kouma Kishima, Miyako Arima y Saber.",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000029003": {
         "id": "010071400F837003",
         "rightsId": null,
@@ -45708,7 +46329,7 @@
         "intro": "\u00a1Vive un s\u00faper enfrentamiento lleno de acci\u00f3n y f\u00fatbol sin igual en Captain Tsubasa!",
         "description": "La Deluxe Edition incluye:\n- Captain Tsubasa: Rise of New Champions (juego completo)\n- Pase de personajes\n\nExtras con la Deluxe Edition:\n- Accesorios de V Jump.\n\nCaptain Tsubasa: Rise of New Champions, basado en la serie de anim\u00e9 tan aclamada en todo el mundo, es un juego de f\u00fatbol y acci\u00f3n con las gr\u00e1ficas m\u00e1s nuevas y todas las jugadas espectaculares que ser\u00e1n el deleite de chicos y grandes.",
         "languages": null,
-        "size": 15486418944
+        "size": 15490613248
     },
     "70070000010923": {
         "id": null,
@@ -45872,7 +46493,7 @@
         "intro": "Arrasa el infierno",
         "description": "DOOM\u00ae Eternal, el galardonado juego y \u201cuno de los mejores shooters en primera persona de la historia\u201d seg\u00fan GameRevolution, llega a Nintendo Switch. DOOM Eternal, desarrollado por id Software y Panic Button, es la secuela directa de DOOM\u00ae, ganador del premio al Mejor juego de acci\u00f3n de 2016 en los Game Awards.\n\nLos ej\u00e9rcitos del infierno han invadido la Tierra. Convi\u00e9rtanse en el Slayer en una campa\u00f1a \u00e9pica para un jugador donde tendr\u00e1n que enfrentarse a los demonios en distintas dimensiones e impedir la destrucci\u00f3n definitiva de la humanidad. No le tienen miedo a nada... salvo a ti.\n\nFUNCIONALIDADES:  \n\nNivel de amenaza de Slayer al m\u00e1ximo\nDisfruta de la mejor combinaci\u00f3n de velocidad y potencia en DOOM Eternal, que trae un salto cualitativo en el combate en primera persona, gracias a la tecnolog\u00eda idTech 7. Armado con un lanzallamas en el hombro, una hoja retr\u00e1ctil en la mu\u00f1eca, armas mejoradas, nuevas habilidades y mucho m\u00e1s, ser\u00e1s el mejor matademonios que haya existido nunca.\n\nCombate en avance continuo\nObt\u00e9n lo que necesites de tus enemigos. Ejecuta demonios para recuperar salud, incin\u00e9ralos para obtener armadura y destr\u00edpalos con la motosierra para conseguir munici\u00f3n. \n\nApuntado por movimiento disponible\nMejora la punter\u00eda con una opci\u00f3n que permite apuntar mediante controles girosc\u00f3picos. Esta puede usarse junto con la palanca de control para conseguir una mezcla ideal de inmersi\u00f3n y precisi\u00f3n.\n\nPresentamos BATTLEMODE\nUna nueva experiencia multijugador 2 contra 1 que enfrenta a un DOOM Slayer armado hasta los dientes contra dos demonios controlados por jugadores para disputarse la victoria al mejor de cinco rondas de intenso combate en primera persona.",
         "languages": null,
-        "size": 30633099264
+        "size": 30632050688
     },
     "70070000011026": {
         "id": null,
@@ -45904,7 +46525,7 @@
         "intro": "Arrasa el infierno",
         "description": "El infierno ha invadido la Tierra. Ponte en la piel del Slayer en una campa\u00f1a \u00e9pica y mata demonios para impedir la destrucci\u00f3n de la humanidad. No le tienen miedo a nada... salvo a ti.\n\nDisfruta de la mejor combinaci\u00f3n de velocidad y potencia en DOOM Eternal, que trae un salto cualitativo del combate en primera persona. \n\nLa Deluxe Edition incluye:\n\nDOOM Eternal: The Ancient Gods - Pase de expansi\u00f3n\nAcceso a dos expansiones de la campa\u00f1a de DOOM Eternal: The Ancient Gods, primera y segunda parte. Tu guerra no ha terminado... La muerte de la Khan Maykr provoc\u00f3 un desequilibrio de poder en el cosmos que amenaza a toda la creaci\u00f3n.\n\nEn The Ancient Gods, primera parte, las legiones del infierno arrasaron los cielos y amenazan con saltar de una dimensi\u00f3n a otra. Llega hasta Urdak y decide el destino del cosmos. Ahora eres el \u00fanico due\u00f1o de tu misi\u00f3n.\n\nEn The Ancient Gods, segunda parte, negaste a los dioses y despertaste un mal ancestral. Ahora debes reunir las dispersas fuerzas de los Centinelas, poner bajo asedio el \u00faltimo basti\u00f3n del infierno, derribar las murallas de su fortaleza y enfrentarte al Se\u00f1or Oscuro en persona. El alma misma del universo est\u00e1 en juego.\n\nEsta edici\u00f3n tambi\u00e9n incluye:\n- Dise\u00f1o del Slayer demon\u00edaco\n- Paquete de sonidos cl\u00e1sicos para armas\n",
         "languages": null,
-        "size": 30633099264
+        "size": 30632050688
     },
     "70070000011027": {
         "id": null,
@@ -46676,7 +47297,7 @@
         "intro": "\u00a1Vuelve la serie de RPG por turnos de Monster Hunter en esta segunda parte! \u00bfTu lazo especial con estos monstruos traer\u00e1 esperanza o destrucci\u00f3n?",
         "description": "La Deluxe Edition de Monster Hunter Stories 2: Wings of Ruin posee una variedad de contenido adicional para mejorar tu experiencia de juego:\n\n \u30fb Atuendo de Ena: Abrigo de Kuan\n \u30fb Armadura superpuesta de Rider: Armadura Ratha Kalapteron Alfa y Beta\n \u30fb Peinado de Rider: Nergal de punta\n \u30fb Ropas de Navirou: Trajes de Nergigante y Pukei-Pukei\n \u30fb Sets de pegatinas: Compis de andanzas 2 y 3\n\nNota: Este es el mismo contenido adicional de Monster Hunter Stories 2: Wings of Ruin Deluxe Kit. Parte del contenido solo ser\u00e1 utilizable tras progresar en el juego.\n\nUna nueva aventura te espera en esta segunda parte de la serie de RPG por turnos ambientada en el mundo de Monster Hunter. Convi\u00e9rtete en un Rider y forma v\u00ednculos con monstruos amistosos llamados Monsties para luchar junto a ellos en una historia \u00e9pica.\n\nT\u00fa eres descendiente de Red, un Rider legendario. La historia comienza con un encuentro trascendental con Ena, una chica wyveriana responsable de un huevo del que podr\u00eda nacer un legendario Rathalos, el cual podr\u00eda traer el caos si se despertara su poder destructivo.\n\nEmb\u00e1rcate en una traves\u00eda que pondr\u00e1 a prueba tus lazos de amistad en un mundo cambiante y descubre la verdad detr\u00e1s de las leyendas ancestrales.",
         "languages": null,
-        "size": 15136194560
+        "size": 15194914816
     },
     "70070000012256": {
         "id": null,
@@ -47442,7 +48063,7 @@
         "intro": "Levanta tu mejor imperio en Nintendo Switch\u2122\n",
         "description": "Este lote contiene Civilization VI y todos los contenidos ya publicados de Civilization VI en consolas*. Est\u00e1 pensado para reci\u00e9n llegados a Civilization VI. \n\nHAZ HISTORIA en uno de los juegos de estrategia m\u00e1s aclamados e influyentes de la historia. Elige a un l\u00edder y completa agendas inspiradas en sus contrapartidas de la vida real. Explora nuevos territorios, investiga tecnolog\u00edas y enfr\u00e9ntate a l\u00edderes de la historia para que tu civilizaci\u00f3n pase de ser un grano de arena a una monta\u00f1a. Ampl\u00eda ciudades por todo el mapa y crea nuevas posibilidades estrat\u00e9gicas a lo largo del juego mientras luchas por alzarte con la victoria y crear un imperio que resista el paso del tiempo. \n\n\n\nSid Meier's Civilization VI Anthology incluye el juego Sid Meier's Civilization VI, seis packs de contenido adicional, las expansiones Rise and Fall y Gathering Storm, y el New Frontier Pass completo.\n\n\n\u2022\tCIVILIZATION VI: RISE AND FALL - Disfruta de nuevas mec\u00e1nicas de juego como grandes eras y Gobernadores, mejoras en los sistemas de gobierno y diplomacia, as\u00ed como de 8 civilizaciones y 9 l\u00edderes nuevos, y una gran variedad de nuevas unidades, distritos, maravillas y edificios.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM - Explora un planeta activo en una expansi\u00f3n que introduce cambios de clima por primera vez en la historia de la saga. Enfr\u00e9ntate a desastres naturales y a otros efectos medioambientales, completa incre\u00edbles proyectos de ingenier\u00eda y gestiona energ\u00eda el\u00e9ctrica. Nuevas caracter\u00edsticas, como el World Congress, una nueva condici\u00f3n de victoria diplom\u00e1tica y una nueva \u00e9poca a\u00f1adida al \u00e1rbol tecnol\u00f3gico y de principios. Tambi\u00e9n incluye nuevas civilizaciones, l\u00edderes, unidades y edificios.\n\n\n\u2022\tNEW FRONTIER PASS: incluye seis nuevos modos de juego, h\u00e9roes hist\u00f3ricos y mitol\u00f3gicos reclutables, ocho nuevas civilizaciones, nueve l\u00edderes adicionales, desastres naturales en el modo Apocalipsis y las sociedades secretas, que mejorar\u00e1n tu imperio... o lo destruir\u00e1n.\n\n*El escenario de la Muerte Roja que se public\u00f3 para PC no estar\u00e1 disponible en consolas. ",
         "languages": null,
-        "size": 12212764672
+        "size": 12210667520
     },
     "70070000012600": {
         "id": null,
@@ -47505,7 +48126,7 @@
         "intro": "Levanta tu mejor imperio en Nintendo Switch\u2122\n",
         "description": "Este lote est\u00e1 pensado para reci\u00e9n llegados a Civilization VI e incluye Civilization VI, seis packs de contenido adicional y las expansiones Rise and Fall y Gathering Storm. El New Frontier Pass no est\u00e1 incluido en la Platinum Edition. \n\nHAZ HISTORIA en uno de los juegos de estrategia m\u00e1s aclamados e influyentes de la historia. Elige a un l\u00edder y completa agendas inspiradas en sus contrapartidas de la vida real. Explora nuevos territorios, investiga tecnolog\u00edas y enfr\u00e9ntate a l\u00edderes de la historia para que tu civilizaci\u00f3n pase de ser un grano de arena a una monta\u00f1a. Ampl\u00eda ciudades por todo el mapa y crea nuevas posibilidades estrat\u00e9gicas a lo largo del juego mientras luchas por alzarte con la victoria y crear un imperio que resista el paso del tiempo. \n\nSid Meier's Civilization VI Platinum Edition es la colecci\u00f3n cl\u00e1sica de contenido de Civilization VI, con el juego Sid Meier's Civilization VI, seis packs de contenido adicional y las expansiones Rise and Fall y Gathering Storm.\n\nLa Sid Meier's Civilization VI Platinum Edition incluye las dos enormes expansiones: \n\u2022\tCIVILIZATION VI: RISE AND FALL - Disfruta de nuevas mec\u00e1nicas de juego como grandes eras y Gobernadores, mejoras en los sistemas de gobierno y diplomacia, as\u00ed como de 8 civilizaciones y 9 l\u00edderes nuevos, y una gran variedad de nuevas unidades, distritos, maravillas y edificios.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM - Explora un planeta activo en una expansi\u00f3n que introduce cambios de clima por primera vez en la historia de la saga. Enfr\u00e9ntate a desastres naturales y a otros efectos medioambientales, completa incre\u00edbles proyectos de ingenier\u00eda y gestiona energ\u00eda el\u00e9ctrica. Nuevas caracter\u00edsticas, como el World Congress, una nueva condici\u00f3n de victoria diplom\u00e1tica y una nueva \u00e9poca a\u00f1adida al \u00e1rbol tecnol\u00f3gico y de principios. Tambi\u00e9n incluye nuevas civilizaciones, l\u00edderes, unidades y edificios.",
         "languages": null,
-        "size": 9069133824
+        "size": 9067036672
     },
     "70070000012670": {
         "id": null,
@@ -47743,7 +48364,7 @@
         "intro": "Levanta tu mejor imperio en Nintendo Switch\u2122",
         "description": "Esta es la colecci\u00f3n completa* de todos los contenidos adicionales disponibles, y est\u00e1 pensada para los reci\u00e9n llegados a Civilization VI que a\u00fan no tienen todos los contenidos adicionales del juego. Para jugar a los contenidos adicionales se necesita Civilization VI.\n\nHAZ HISTORIA en uno de los juegos de estrategia m\u00e1s aclamados e influyentes de la historia. Elige a un l\u00edder y completa agendas inspiradas en sus contrapartidas de la vida real. Explora nuevos territorios, investiga tecnolog\u00edas y enfr\u00e9ntate a l\u00edderes de la historia para que tu civilizaci\u00f3n pase de ser un grano de arena a una monta\u00f1a. Ampl\u00eda ciudades por todo el mapa y crea nuevas posibilidades estrat\u00e9gicas a lo largo del juego mientras luchas por alzarte con la victoria y crear un imperio que resista el paso del tiempo. \n\nEl lote Sid Meier's Civilization VI Anthology Upgrade incluye seis packs de contenido adicional, las expansiones Rise and Fall y Gathering Storm, y el New Frontier Pass completo.\n\n\u2022\tCIVILIZATION VI: RISE AND FALL - Disfruta de nuevas mec\u00e1nicas de juego como grandes eras y Gobernadores, mejoras en los sistemas de gobierno y diplomacia, as\u00ed como de 8 civilizaciones y 9 l\u00edderes nuevos, y una gran variedad de nuevas unidades, distritos, maravillas y edificios.\n\n\u2022\tCIVILIZATION VI: GATHERING STORM - Explora un planeta activo en una expansi\u00f3n que introduce cambios de clima por primera vez en la historia de la saga. Enfr\u00e9ntate a desastres naturales y a otros efectos medioambientales, completa incre\u00edbles proyectos de ingenier\u00eda y gestiona energ\u00eda el\u00e9ctrica. Nuevas caracter\u00edsticas, como el World Congress, una nueva condici\u00f3n de victoria diplom\u00e1tica y una nueva \u00e9poca a\u00f1adida al \u00e1rbol tecnol\u00f3gico y de principios. Tambi\u00e9n incluye nuevas civilizaciones, l\u00edderes, unidades y edificios.\n\n\n\u2022\tNEW FRONTIER PASS: incluye seis nuevos modos de juego, h\u00e9roes hist\u00f3ricos y mitol\u00f3gicos reclutables, ocho nuevas civilizaciones, nueve l\u00edderes adicionales, desastres naturales en el modo Apocalipsis y las sociedades secretas, que mejorar\u00e1n tu imperio... o lo destruir\u00e1n.\n\n*El escenario de la Muerte Roja que se public\u00f3 para PC no estar\u00e1 disponible en consolas. ",
         "languages": null,
-        "size": 3152019456,
+        "size": 3149922304,
         "ids": []
     }
 }
