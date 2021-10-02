@@ -4522,7 +4522,7 @@
             "zh",
             "zh"
         ],
-        "size": 18233688064
+        "size": 18232639488
     },
     "70010000012523": {
         "id": "01003D200BAA2000",
@@ -9638,7 +9638,7 @@
             "pt",
             "fr"
         ],
-        "size": 15446573056
+        "size": 15450767360
     },
     "70010000027023": {
         "id": "0100DBF01000A000",
@@ -9831,6 +9831,54 @@
             "ru"
         ],
         "size": 1595932672
+    },
+    "70010000027316": {
+        "id": "01006D00109FE000",
+        "rightsId": null,
+        "name": "Hidden Through Time",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211001,
+        "nsuId": 70010000027316,
+        "category": [
+            "Rompecabezas",
+            "Educativo"
+        ],
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Rogueside",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2bad1a41694e47eb50ea1839c5dd6ec10f7196ba115cd810ac391c4b27afbb2d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/39b41aab45bf11dee224a57c61e1763561b348374e7f925f92c7fd23c22e1954.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06044c5ee1687f29c612945fd7591f72490759ff04663c211a7742f379c0987c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ae387bcf1f945dc663f2e152ee01a1b7a13728316f08389f72e25170a24ec51.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f292cc882bd77137c6ab794db63fee91d461e6a510504c5023e95644eb9d2e7f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0ecb18319bd5c2eb74d9a8c3b7e6317c4f375ae55d96e2e96e5bcb1e6f5fd1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec5f16a6d9156d09e343bf2ae48ed722e56cb690e29a4fd366e3e2880b471dbe.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/19100aab73e4bf569d098b4053de46d00bf70b560ef1574c23653bbdfb03587e.jpg",
+        "intro": "\u00a1Descubre, crea y comparte mundos con tus propios tesoros ocultos en Hidden Through Time!",
+        "description": "Hidden Through Time es un juego muy mono que consiste en encontrar objetos esparcidos por la maravillosa historia de nuestro mundo. Usa pistas cr\u00edpticas para descubrir todos los secretos a medida que exploras coloridos niveles dibujados a mano.\nEncuentra suficientes objetos para avanzar hasta la siguiente fase y supera las cuatro grandes edades.\n\n\u00bfA\u00fan quieres m\u00e1s y deseas desatar tu creatividad? \u00a1Nuestro editor est\u00e1 disponible para todo el mundo y te permitir\u00e1 crear tus propios niveles y compartirlos en nuestra nube! \u00a1Aqu\u00ed tambi\u00e9n podr\u00e1s descubrir, jugar y calificar niveles dise\u00f1ados por otros creadores de todo el mundo!\n\n\u00a1As\u00ed que \u00fanete a Clicky en su maravillosa aventura en Hidden Through Time!",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 987758592
     },
     "70010000027329": {
         "id": null,
@@ -10203,7 +10251,7 @@
             "it",
             "ru"
         ],
-        "size": 15109980160
+        "size": 15168700416
     },
     "70010000028523": {
         "id": "010015F008C54000",
@@ -10633,7 +10681,7 @@
             "it",
             "ru"
         ],
-        "size": 10767826944
+        "size": 10810818560
     },
     "70010000029020": {
         "id": "01000A001171A000",
@@ -12552,6 +12600,44 @@
         ],
         "size": 3550478336
     },
+    "70010000035039": {
+        "id": "010071C013390000",
+        "rightsId": null,
+        "name": "BLUE REFLECTION: Second Light",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211109,
+        "nsuId": 70010000035039,
+        "category": [
+            "Juego de rol"
+        ],
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/106256ca92b954026a2e6c6e432d59c9875fea23a9fb2c10949ba56658124274.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/09ddd351f7e26892486c9ded1ed0c9f4086238d95191c46137c8a0080638bc45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/45089a69001057c1b714725f3377d037323eb55de975ce654dadf230c747ec26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51651061ed1b7d60d3b2cca1d1b4c42ebacc7df042713bfafff900102b6e17a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bd67a47d70bab4e12a0737276c69639d59bf6a9144765e9df7322faa9a2c8a5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4ab827dc6620a11021e2a3f9e23f4fa8831a8cbd87d852e5ef75e1283769082f.jpg",
+        "intro": "Todo queda iluminado al desvanecerse el \u00faltimo d\u00eda de verano.",
+        "description": "Con espectaculares dise\u00f1os transl\u00facidos de Mel Kishida y una historia que muestra la vida de unas chicas j\u00f3venes y realistas, basada en tem\u00e1ticas de la identidad y las relaciones humanas, llega una nueva entrega de la serie BLUE REFLECTION!\n\nHistoria\nBajo un cielo azul y rodeada de aguas cristalinas, la luz del sol abrasa la piel de Ao Hoshizaki.\nLa chica, mirando el escenario veraniego, parec\u00eda haberse adentrado en un mundo que la hab\u00eda dejado atr\u00e1s.\nEn un colegio perdido en la lejan\u00eda viven tres chicas que han perdido la memoria.\nLo \u00fanico que recuerdan es sus nombres.\nAo, envuelta en confusi\u00f3n, empieza a llevar una curiosa vida en com\u00fan con las otras chicas y buscar pistas sobre un posible m\u00e9todo para volver a su mundo de origen.\n\nUn d\u00eda, en este mundo donde el colegio est\u00e1 rodeado solo por agua, apareci\u00f3 un camino que lleva a nuevos lugares.\nAl final del camino hay un lugar misterioso lleno de cosas inexplicablemente familiares.\nPara poder entender la situaci\u00f3n, las chicas decidieron adentrarse, pero, al dar los primeros pasos, se encontraron con un monstruo al que nunca hab\u00edan visto.\nCuando las cosas parec\u00edan ser desesperadas, las chicas obtuvieron un misterioso poder.\n\nEn un mundo atrapado por el verano, unas chicas j\u00f3venes han perdido la memoria.\n\n\u00bfQu\u00e9 obtendr\u00e1n si resuelven el misterio?\n\nCaracter\u00edsticas\n\u25a0\u00a1Desarrolla tu propio colegio con \"School Development\"!\nLas chicas son las \u00fanicas que viven en este colegio rodeado de agua. Puedes construir Facilities \u00fatiles para ellas a partir de sus ocurrencias, incluyendo un \"Puesto de Takoyaki\" o una \"Piscina\". Al construir las cosas que les gustan a tus chicas favoritas o las que te resultan \u00fatiles, ir\u00e1s construyendo un colegio ideal para ti.\n\n\u25a0Las batallas dirigidas son m\u00e1s r\u00e1pidas que nunca. \u00a1\"Emocionantes batallas en tiempo real\"!\nLas batallas en tiempo real del juego anterior vuelven de forma mucho m\u00e1s emocionante! \u00a1Acelera el ritmo en funci\u00f3n del paso del tiempo y de las habilidades que uses! Encadena habilidades para formar combos y maximizar el da\u00f1o. \u00a1La velocidad y la potencia de estas batallas emociona a cualquiera!\n\n\u25a0\u00a1Comun\u00edcate con las chicas de diversas formas!\nEscucha las peticiones de las chicas, ten citas con ellas, y mucho m\u00e1s. Podr\u00e1s comunicarte de distintas formas con las chicas del colegio. Refuerza tus v\u00ednculos con las chicas para que se desarrollen y puedas obtener m\u00e1s objetos.\n\n\u25a0\u00a1Explora mundos maravillosos y misteriosos!\nEn este juego explorar\u00e1s los Heartscapes, lugares que simbolizan el coraz\u00f3n y la mente de cada personaje. En ellos puedes visitar un mundo misterioso que revive la voz y las memorias del personaje.\n\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: El juego tambi\u00e9n est\u00e1 incluido en los lotes \"BLUE REFLECTION: Second Light Digital Deluxe Edition\" y \"BLUE REFLECTION: Second Light Ultimate Edition\". Ten cuidado para no comprar las cosas dos veces.",
+        "languages": [
+            "en"
+        ],
+        "size": 7244611584
+    },
     "70010000035320": {
         "id": "010044A0134E8000",
         "rightsId": null,
@@ -13168,7 +13254,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67a841ed19852d4d89603d95da83bfead818a7c18687d900c59295b3aea7d4b2.jpg",
         "intro": "Ponte en la piel de los maestros de las artes marciales Hiro, Meilin o Shin mientras se enfrentan a una lucha salvaje por sus vidas contra el clan Black Mantis.",
-        "description": "CARACTER\u00cdSTICAS:\n\u2022 Mec\u00e1nicas de batalla especialmente dise\u00f1adas para el juego con movimientos \u00fanicos para cada personaje.\n\u2022 Lucha con espadas, nunchakus y bastones bo.\n\u2022 Historia cautivadora contada con cinem\u00e1ticas de pixel art creadas con mucho mimo.\n\u2022 Muchos enemigos distintos, cada uno con su propios movimientos y armas.\n\u2022 Intensas batallas contra jefes.\n\u2022 Modo arcade para los que quieran saltar directamente a la acci\u00f3n.\n\u2022 \u00a1Bloquea cualquier ataque, proyectil o trampa!\n\u2022 \u00a1Sube tus puntuaciones m\u00e1s altas y compite con otros jugadores de todo el mundo!\n\u2022 \u00a1Descubre muchos secretos y \u00e1reas ocultas!\n\u2022 \u00a1Juega en compa\u00f1\u00eda con el modo cooperativo local y curaos entre vosotros para alcanzar la victoria!\n\nRESUMEN:\nPonte en la piel de los maestros de las artes marciales Hiro, Meilin o Shin mientras luchan salvajemente por sus vidas contra el clan Black Mantis. DOBLE CAOS: Tr\u00e1ete a un amigo y luchad contra ninjas, demonios y mucho m\u00e1s en el modo cooperativo local para dos jugadores de este juego de acci\u00f3n y aventura plataformero, ambientado en una versi\u00f3n fant\u00e1stica y m\u00edstica de Okinawa.\n\nEl sistema de combate r\u00e1pido y fluido permite realizar muchos movimientos, combos, acrobacias y tiene un intuitivo sistema de bloqueo.\n\n\u00a1Lucha para alcanzar el primer puesto en nuestro marcador en l\u00ednea!",
+        "description": "CARACTER\u00cdSTICAS:\n\u2022 Mec\u00e1nicas de batalla especialmente dise\u00f1adas para el juego con movimientos \u00fanicos para cada personaje.\n\u2022 Lucha con espadas, nunchakus y bastones bo.\n\u2022 Historia cautivadora contada con cinem\u00e1ticas de pixel art creadas con mucho mimo.\n\u2022 Muchos enemigos distintos, cada uno con su propios movimientos y armas.\n\u2022 Intensas batallas contra jefes.\n\u2022 Modo arcade para los que quieran saltar directamente a la acci\u00f3n.\n\u2022 \u00a1Bloquea cualquier ataque, proyectil o trampa!\n\u2022 \u00a1Descubre muchos secretos y \u00e1reas ocultas!\n\u2022 \u00a1Juega en compa\u00f1\u00eda con el modo cooperativo local y curaos entre vosotros para alcanzar la victoria!\n\nRESUMEN:\nPonte en la piel de los maestros de las artes marciales Hiro, Meilin o Shin mientras luchan salvajemente por sus vidas contra el clan Black Mantis. DOBLE CAOS: Tr\u00e1ete a un amigo y luchad contra ninjas, demonios y mucho m\u00e1s en el modo cooperativo local para dos jugadores de este juego de acci\u00f3n y aventura plataformero, ambientado en una versi\u00f3n fant\u00e1stica y m\u00edstica de Okinawa.\n\nEl sistema de combate r\u00e1pido y fluido permite realizar muchos movimientos, combos, acrobacias y tiene un intuitivo sistema de bloqueo.",
         "languages": [
             "ja",
             "en",
@@ -13179,6 +13265,47 @@
             "pt"
         ],
         "size": 756023296
+    },
+    "70010000036763": {
+        "id": "0100328013BCA000",
+        "rightsId": null,
+        "name": "DUNGEON ENCOUNTERS",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211014,
+        "nsuId": 70010000036763,
+        "category": [
+            "Juego de rol"
+        ],
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "SQUARE ENIX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f2b1409bcba37c22fe43edab3d7cc307ce933d0c61654ba6c5e68923a357637f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b1efa68166f4240b66a9c63a2cd59bb11135bf08be87455286ff20fa57342e2c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/992f587738bdc704cfaa38c05f66345cee62709b3335aa1971dbe90fb7108d1f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2f32df3baab166bbf697d0e152948fc835635438b5e04b8f3d9dafe392aa9138.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/825aeff8d7ce1f3f07a6ecfcc8c14623a2e2cda6f37cee38167222adfc00c136.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/263daa0b9a466179dad048886cac4e383e17499cd04969fd5cae04ce417f2d0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a4b11ae523f1d1d162805db60490391eef9c1f6faccbfe3f1eab402c24071ad.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/696d35706618fb8139faf1f19c0a3c49ab357820a1e87d8b625892247ec749cd.jpg",
+        "intro": "\u00a1Un RPG de exploraci\u00f3n de mazmorras donde usar\u00e1s la estrategia para sobrevivir!",
+        "description": "Un laberinto de otro mundo ha aparecido de repente a las afueras de un tranquilo pueblo. \u00a1Haz un uso inteligente de tus habilidades para explorar hasta el \u00faltimo rinc\u00f3n, superar obst\u00e1culos y vencer a tus enemigos en batallas emocionantes!\n\nDe la mano del equipo de desarrollo de la legendaria franquicia FINAL FANTASY, DUNGEON ENCOUNTERS es un RPG de exploraci\u00f3n de mazmorras en el que tendr\u00e1s que usar la estrategia para sobrevivir. Su interfaz sencilla te da la libertad para preparar y gestionar tu grupo mientras te esfuerzas por llegar a la \u00faltima planta.\n\nDurante tus expediciones, descubrir\u00e1s objetos poderosos y raros, conocer\u00e1s a aventureros errantes que podr\u00edan convertirse en nuevos aliados y te enfrentar\u00e1s cara a cara a monstruos letales.\n\n\u00bfTendr\u00e1s lo necesario para superar las muchas pruebas que te esperan y descubrir los secretos de la mazmorra?\n\n\u25a0Eventos\nAl descubrir y visitar los espacios con n\u00fameros blancos, obtendr\u00e1s objetos, desbloquear\u00e1s y cambiar\u00e1s habilidades, recuperar\u00e1s la salud de tu grupo, encontrar\u00e1s a comerciantes escondidos y mucho m\u00e1s.\n\nLos enfrentamientos, marcados con n\u00fameros negros, est\u00e1n escondidos a lo largo del mapa. Sin embargo, se pueden revelar con una habilidad especial, por lo que podr\u00e1s elegir cu\u00e1ndo y d\u00f3nde enfrentarte a tus enemigos.\n\nLos eventos que hayas descubierto con anterioridad se registrar\u00e1n en el historial de eventos, un valioso recurso que te permitir\u00e1 revisar las experiencias pasadas para enfrentarte a los desaf\u00edos futuros.\n\n\n\u25a0Batallas\nPrueba tu estrategia en batallas emocionantes con el sistema BTA (batalla de tiempo activo), que se hizo famoso con la saga FINAL FANTASY.\n\nBajo la direcci\u00f3n de Ito Hiroyuki, creador del sistema BTA, las batallas se jugar\u00e1n en tiempo real, con una versi\u00f3n optimizada y pulida del dise\u00f1o cl\u00e1sico, lo que promete combates divertidos y desafiantes.\n\n\n\u25a0Mapa\nUn mapa en blanco te espera. Mediante la exploraci\u00f3n e investigaci\u00f3n de las casillas de cada nivel, obtendr\u00e1s puntos de habilidad. \u00a1Supera obst\u00e1culos que incluyen pasadizos secretos y trampas ocultas y conquista la mazmorra!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 1925185536
     },
     "70010000036878": {
         "id": "010043B013C5C000",
@@ -13272,6 +13399,53 @@
             "zh"
         ],
         "size": 731906048
+    },
+    "70010000037127": {
+        "id": "0100366013DA8000",
+        "rightsId": null,
+        "name": "Gas Guzzlers Extreme",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70010000037127,
+        "category": [
+            "Carreras",
+            "Acci\u00f3n",
+            "Peleas",
+            "Disparos"
+        ],
+        "ratingContent": [
+            "Derramamiento de sangre",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Funbox Media",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/522fd8a618bb0a809a727ca4d07e6ed3db3f2a286f96ac7680a84a19f85b5ba7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9dc554851ba26946f4efe89d719b7ca5a581dc9c5443a5fdad0ddba8e37e06fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d5f8ed373e35b1e1b0c76dc8939a2aaa2f274d84bfc64031b692db0bc5ac1517.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bf3322ccddc3bb43bf3cded6b9c8bc146deccb25b13c0b5ed23ace63d516c8f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d7fe1f968ab71d137dd9cf83c1675439f64527f5edc0f49eca6463b6e470a46.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cebb1326e6d00fc3f145527210c800105cdcf2626a2f66bf1fb92a10fd0460c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f5f19c6f9a7eb52fcd4d43545d90f536833722eccc6c1fbd261cab29f6974366.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b9f492b688d02b54ec3ad4d3227daf8595ef278d8d10b6481d96df8590b82d94.jpg",
+        "intro": "\u00a1Tirador r\u00e1pido, furioso, armado hasta los dientes y con gatillo f\u00e1cil, puesto en marcha m\u00e1xima!",
+        "description": "Da un paseo con los nudillos blancos en este juego de carreras de combate incre\u00edblemente adictivo que cuenta con una tonelada de veh\u00edculos, armas, mejoras, bonificaciones en la pista y entornos. Gas Guzzlers Extreme es un nuevo y emocionante giro en la experiencia de combate de autom\u00f3viles con la adici\u00f3n de furiosas batallas de combate en equipo / clan.\n\nLos jugadores comienzan con veh\u00edculos de bajo rendimiento y pronto se abren camino hacia modelos de alto rendimiento, ganando dinero en una serie de carreras de alto octanaje y batallas en la arena. Se desbloquean nuevos modos de juego, pistas y veh\u00edculos a medida que los jugadores avanzan en el juego. Adem\u00e1s de desarrollar sus habilidades de conducci\u00f3n y lucha, los jugadores pueden gastar su dinero, personalizar su veh\u00edculo para que coincida con los miembros de su clan o mejorar su veh\u00edculo para el camino a la gloria.\n\nCARACTER\u00cdSTICAS CLAVE\n\u2022 Combate las carreras en su m\u00e1xima expresi\u00f3n, con una campa\u00f1a de bombeo de sangre para un jugador con m\u00e1s de 12 horas de juego.\n\u2022 M\u00e1s de 350 millas de carretera en 40 pistas, 8 arenas y 7 entornos diferentes.\n\u2022 12 armas \u00fanicas, bonificaciones en la pista y potenciadores.\n\u2022 18 coches personalizables (m\u00e1s de 12 mejoras, color, llantas, pegatinas, etc.).\n\u2022 Pistas de rutas m\u00faltiples y eventos patrocinados.\n\u2022 Im\u00e1genes de alta definici\u00f3n bellamente mostradas con da\u00f1os extensos al veh\u00edculo, efectos de desenfoque de movimiento y trabajos de pintura personalizados.\n\u2022 Repleto de toneladas de humor y personalidad \u00fanicos.\n\u2022 Sobrevive contra hordas de zombis en los modos Survivor y Defiende la base.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 5851054080
     },
     "70010000037238": {
         "id": "0100BE7013E06000",
@@ -13862,7 +14036,7 @@
             "zh",
             "zh"
         ],
-        "size": 13552844800
+        "size": 13645119488
     },
     "70010000038819": {
         "id": "0100726014352000",
@@ -14440,7 +14614,7 @@
         "developer": null,
         "publisher": "New Blood",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7832d2693a2a849c74fe96cbfd82076bb184a3fdec65e4cb984b359f7c0e6dd6.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3fea2afe3dae70ad0ae774a74179a2e14abcffd71183007ed2e79eac853cb158.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/0346bd63e68c461260757d336b271b6c7cbaa027ca02862a100df7c85d2a7c77.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ba5aaf89e64dbe787434f93e62a25d12f9fc264173163a17b7cd4f835a366dc5.jpg",
@@ -14454,7 +14628,7 @@
         "languages": [
             "en"
         ],
-        "size": 384827392
+        "size": 837812224
     },
     "70010000040418": {
         "id": "010077A00CB58000",
@@ -14609,7 +14783,9 @@
             "Acci\u00f3n"
         ],
         "ratingContent": [
-            "Violencia de fantasia"
+            "Referencia al alcohol",
+            "Violencia de fantasia",
+            "Uso de tabaco"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
@@ -14706,9 +14882,10 @@
             "Rompecabezas"
         ],
         "ratingContent": [
-            "Referencia al alcohol",
             "Violencia de fantasia",
-            "Bajo contenido de sangre"
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Uso de alcohol"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
@@ -15205,6 +15382,98 @@
         ],
         "size": 1103101952
     },
+    "70010000042085": {
+        "id": "01004A1015408000",
+        "rightsId": null,
+        "name": "Enigmatis 3: The Shadow of Karkhala",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211008,
+        "nsuId": 70010000042085,
+        "category": [
+            "Aventura",
+            "Rompecabezas"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Artifex Mundi",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1a938d082779a311e5f826e270b6200fa8bda742ad6187aac91197cd4a839cce.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4ec7e488384a04c7db3ac042297f0c18feca4355247b6f3b5c08fd2fedb30550.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/182cf887ff44c7044b2cabbaf98eb24050997035e033d2cd9c0bc77d16833e7b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b61a1f1741558e6fb8972601437dc102323e835dcdffd0a0b971ea755ed99c83.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5063486bc8bbad884e3147c17f56b15763c336cecfb33a511299d76c5b556f66.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a6795d56f2bde79b871c937bbc95605745629cbdccf4dd1b4acd56ca314c0d8a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/179751eab0ae23c4744c7721452c26ec51741c1cb37e66cad5f78a7bb9ce3e4f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/543f1c98652a5fadfcd2db1e00c1a6614cc839926fd31cc17a96fb20514684b6.jpg",
+        "intro": "\u00a1Descubre el desenlace de esta fascinante saga de detectives!",
+        "description": "El predicador demoniaco escap\u00f3 a la monta\u00f1a m\u00e1s remota siguiendo la pista de un oscuro secreto que podr\u00eda otorgarle el poder definitivo. Ya consigui\u00f3 librarse de nuestra detective protagonista y su socio Hamilton en dos ocasiones: la primera en Maple Creek y despu\u00e9s en Ravenwood. No cabe duda: esta vez es algo personal.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 1028653056
+    },
+    "70010000042124": {
+        "id": "0100CCC0153F6000",
+        "rightsId": null,
+        "name": "Big Rumble Boxing: Creed Champions",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211001,
+        "nsuId": 70010000042124,
+        "category": [
+            "Peleas",
+            "Deportes",
+            "Arcade",
+            "Fiesta"
+        ],
+        "ratingContent": [
+            "Lenguaje",
+            "Violencia"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Survios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d7d0da0c068f7abc81c22c461f74ca40689e3c2733478893c3539b9e7edeeef0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/55cb06c9ca97bafa59970075d344b39a18b7ee47e658961005064c3778526e56.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/34db19778a4492a6663dc5bb158d7a49f1e54f986fee9e0525df7375deaf823c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b227f631f10defb442939188af1cb30662dd17200c4e347398b6e37fb945c76.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/186b987433e1ede4b5e06f68b2107805277d5266f901de162695c8e59c57d32e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3fb3c1566e8b444b908da0800935076d9843a589e958e3ae8dcc41e3bc51213e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5981f73684cac393c461e6ee054ec8c8465111053f97525afb16f7e4ab500b52.jpg",
+        "intro": "\u00bfTienes lo necesario para convertirte en campe\u00f3n? \u00a1Entrena, pelea y gana como Adonis Creed y Rocky Balboa en este juego de boxeo impactante!",
+        "description": "\u00bfQuieres convertirte en campe\u00f3n de boxeo? Sube al ring y muestra tus habilidades en una experiencia impactante de estilo arcade. Pelea como uno de los 20 personajes emblem\u00e1ticos de las pel\u00edculas de Creed y Rocky. Enfrenta oponentes de clase mundial en diferentes ubicaciones emocionantes, o desaf\u00eda a tus amigos y familiares en batallas intensas mano a mano.\n \n Boxeo libra por libra para todos\n - Controles intuitivos y f\u00e1ciles de usar \n - Mec\u00e1nica s\u00f3lida de boxeo\n - Estilos de boxeo y combos din\u00e1micos\n - Remates espec\u00edficos de cada boxeador para obtener knockouts cinem\u00e1ticos impactantes\n \n Universo de boxeo de Creed y Rocky\n - Historias legendarias de 20 personajes emblem\u00e1ticos y \u00fanicos\n - Personajes y atuendos para desbloquear \n - Momentos cl\u00e1sicos de entrenamiento de Creed y Rocky en minijuegos tem\u00e1ticos\n - 13 arenas de boxeo nuevas y originales\n \n Campeones legendarios de Creed y Rocky\n - Adonis Creed\n - Rocky Balboa\n - Apollo Creed\n - Clubber Lang\n - Ivan Drago\n - Viktor Drago\n y m\u00e1s...\n \n Diversi\u00f3n emocionante con tus amigos y familiares \n - Elige tu campe\u00f3n y tu escenario \n - Pelea en el modo de enfrentamiento local \n \n Big Rumble Boxing: Creed Champions es la segunda colaboraci\u00f3n entre Survios y MGM Studios Inc., y te trae la intensidad emocionante del boxeo de Creed a las consolas por primera vez.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 7155482624
+    },
     "70010000042147": {
         "id": "0100DBD01543A000",
         "rightsId": null,
@@ -15304,6 +15573,48 @@
             "zh"
         ],
         "size": 1453326336
+    },
+    "70010000042626": {
+        "id": "0100BEB015604000",
+        "rightsId": null,
+        "name": "FATAL FRAME: Maiden of Black Water",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70010000042626,
+        "category": [
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Temas insinuantes",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e2b3f45bf2f7988581d4d254ef901dfeee472a945d1326510eb7b57bfe0a3a5f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/951b373e9f7a8254f263a3d0890c3bf6294ed0db8875474cc00549c8067f6030.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1aefd106a991f685181bba18ea33232b7d407cbb09a2b1117ecf63ffa8ac91db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/017104c08a5d6ab4479244e404b64074ecaa8f86ea741d12a2134e27d2c3c18e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/79906cbd43136123257cb328c415dfac01ed2a7c140528d2d3e4bcaaa104eb6f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c8d204b5c14bd8dafc9e3c2f656eac7d9f5d9e8e56605a6cef633332537177c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eebefbc2545073d4e9b9ee37fced66c97ae7a8fdaded47b929dd3daa3535af43.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2a5b9fa104c8edbb45c9b84853c10d78f6b8d29008c165addbc012ff2ca5c1bf.jpg",
+        "intro": "Belleza y terror",
+        "description": "\u201cFATAL FRAME: Maiden of Black Water\u201d llega a Nintendo Switch\u2122 por primera vez para celebrar el 20.\u00ba aniversario de la serie de terror y aventura FATAL FRAME.\n\n[Historia]\nEl Mt. Hikami  se consideraba anta\u00f1o un lugar de gran fuerza espiritual.\nEn \u00e9l se desarroll\u00f3 una religi\u00f3n \u00fanica con creencias y costumbres basadas en la adoraci\u00f3n del agua como deidad, y se dice que ha sido escenario de un gran n\u00famero de incidentes macabros y fen\u00f3menos inexplicables.\nEsta historia entrelazada llena de misterios sigue a tres protagonistas (Yuri Kozukata, Miu Hinasaki y Ren Hojo) mientras exploran el siniestro Mt. Hikami, un lugar al que mucha gente acude para morir, y los secretos que encierra.\n\n[Jugabilidad]\nLos jugadores cuentan con la Camera Obscura, una c\u00e1mara especial que puede rechazar a los esp\u00edritus vengativos y sellar su poder, mientras exploran el Mt. Hikami y los incidentes que han tenido lugar en \u00e9l.\nLa historia se divide en misiones, cada una protagonizada por uno de los personajes principales.\nAdem\u00e1s de sellar los esp\u00edritus malignos que te atacan, la Camera Obscura tambi\u00e9n puede revelar cosas que el ojo humano no puede ver y te ayudar\u00e1 a recuperar objetos perdidos.\n\n[Nuevos elementos]\n- Resoluci\u00f3n de pantalla mejorada\n- Nuevos trajes y accesorios\n- Nuevo Snap Mode en el que puedes colocar personajes y esp\u00edritus libremente para sacar fotos creativas\n- Ghost List actualizada\n- Controles actualizados\ny m\u00e1s.\n\n\nNota: Tambi\u00e9n est\u00e1 disponible \u201cFATAL FRAME: Maiden of Black Water Digital Deluxe Edition\u201d, que incluye el juego principal y contenido adicional. Ten cuidado y evita comprar lo mismo dos veces.\n",
+        "languages": [
+            "en",
+            "fr",
+            "de"
+        ],
+        "size": 15143534592
     },
     "70010000042733": {
         "id": "0100136015456000",
@@ -15670,6 +15981,50 @@
         ],
         "size": 702545920
     },
+    "70010000043052": {
+        "id": "01000BE0156B2000",
+        "rightsId": null,
+        "name": "Nexomon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211001,
+        "nsuId": 70010000043052,
+        "category": [
+            "Juego de rol",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Violencia de fantasia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3656b264ca9ffade1d02a753c68cdc70267d9f91308bc6a7bb0e3c5dc78250ab.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ba3cdf2d37ef35d348d2a08df27ff9b76543e7050270106dff24a82506cd40b2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d17e1bed7a51643b46f96e15ea134001418dcdc3a9b4e4dff39490b304a8007f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74ec209b697b42039f5a621eaf5d8c79be0e679b48a9b4581b10697b39bc77c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbbbd3b419db12d98b5f07c5e3d5b94112b326cc5f644ef5dae14501ce3cc3bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e5dcbc5b756e9a9269ebaa2b1cbf256eb2676a0d6f880d965051a4f37d12a11.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efc9f9171433fe09cd2d388a7b671a34452fd93beba718f45d538eb4ef92ed5f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d9c66a3192fb7aee47c33a07463133d64e339450104ff16e2d16bbeecf5ef29d.jpg",
+        "intro": "\u00a1Vive la historia original de Nexomon, por primera vez en consolas!",
+        "description": "\u00a1Prep\u00e1rate para explorar un mundo en el que podr\u00e1s atrapar, evolucionar y coleccionar a m\u00e1s de 300 Nexomon \u00fanicos! Embarca en una aventura \u00e9pica y construye tu equipo definitivo para enfrentarte a poderosos domadores y a sus temibles Nexomon.\n\nCONVI\u00c9RTETE EN UN H\u00c9ROE\nElige entre siete \u00fanicos Nexomon iniciales para comenzar tu aventura. \u00a1Construye un equipo formidable para enfrentarse a poderosos enemigos y salvar al mundo del despiadado Nexolord!\n\nQUE COMIENCE LA BATALLA\n\u00a1Participa en emocionantes batallas por turnos animadas en 2D contra Nexomon salvajes, compa\u00f1eros domadores y campeones legendarios! Tendr\u00e1s que dominar los siete tipos elementales para tener la ventaja durante la batalla.\n\nCONSTRUYE TU EQUIPO\nDebilita a Nexomon salvajes para capturarlos y a\u00f1adirlos a tu equipo. Con m\u00e1s de 300 Nexomon que descubrir, hay muchas opciones para personalizar tu equipo a tu gusto.\n\nDESCUBRE EL MUNDO DE NEXOMON\nDesde densos bosques hasta volcanes peligrosos y preciosos paisajes nevados: cada zona repleta de Nexomon. Atrapa, entrena y evoluciona a tus Nexomon mientras viajes por diez regiones diferentes con tus compa\u00f1eros.\n\nCONOCE A AMIGOS Y ENEMIGOS DE BATALLA\nCada ciudad, pueblo y puesto de avanzada est\u00e1 habitado por una serie de personajes \u00fanicos, cada uno con su propia historia. Algunos se convertir\u00e1n en leales aliados. Otros intentar\u00e1n frenarte en seco... ",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ko",
+            "zh"
+        ],
+        "size": 861929472
+    },
     "70010000043149": {
         "id": "01006A0015812000",
         "rightsId": null,
@@ -15706,7 +16061,7 @@
             "https://img-eshop.cdn.nintendo.net/i/cd986953b016775488434d858af327a88d726cbbe14e185d786c9f5bbe7eb6d2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/35c4990b00cdbe4674da2a51c392b0c847c100824eac5b2390a01fe4073524fb.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/449eb0001782663e9a75ce80e415b8b2377969eb6280cd480a43889d3febf08f.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9b2529da4ad26b6d575601f8aedbc5ca2b0dc9013e783a46b1e71d0a47aee87c.jpg",
         "intro": "Un contrato te vincula con la Muerte, que busca erradicar la inmortalidad. \u00bfLa obedecer\u00e1s o sucumbir\u00e1s en este RPG extremo de acci\u00f3n en 2D?",
         "description": "La inmortalidad prometida yace en el coraz\u00f3n de Siradon. Como la mano derecha de la Muerte, deber\u00e1s desafiar a los guardianes inmortales del reino y superar las pruebas necesarias a fin de purgar sus almas. \n \nDeath's Gambit: Afterlife es la nueva edici\u00f3n extendida de la versi\u00f3n original del RPG extremo de acci\u00f3n y plataformas en 2D. Domina el combate preciso y utiliza una gran variedad de armas y habilidades para enfrentar a los horrores que acechan en Siradon. Explora un mundo misterioso y despiadado a fin de revelar el verdadero precio de la inmortalidad.\n \nAfterlife ofrece a los jugadores una enorme cantidad de contenido nuevo, adem\u00e1s del contenido del juego original, como 10 niveles nuevos, m\u00e1s de 30 armas, 5 jefes nuevos, mejoras mec\u00e1nicas y mucho m\u00e1s. Tus decisiones impactar\u00e1n en el \u00e9pico final de la historia de Sorun.\n \nCaracter\u00edsticas principales\n\u2022 Mundo extenso: recorre un mundo inmenso con m\u00e1s de 20 niveles y dise\u00f1os incre\u00edbles. Conoce a personajes extravagantes con diferentes estilos de vida y descubre sus secretos.\n\u2022 Metroidvania: desbloquea mejoras \u00fanicas de combate y movimiento que te permiten explorar el mundo m\u00e1s a fondo.\n\u2022 Clases de personajes: elige entre 7 clases jugables, descubre m\u00e1s de 100 talentos en el \u00e1rbol de talentos y aprovecha las multiclases para adaptar tu estilo de combate seg\u00fan tus preferencias.\n\u2022 Jefes formidables: derrota a 20 monstruos imponentes y a otras criaturas legendarias. Cada jefe es una prueba de habilidad y deber\u00e1s idear estrategias \u00fanicas para derrotarlos.\n\u2022 Modo heroico: derrota a los jefes para acceder inmediatamente a un modo heroico en el que deber\u00e1s volver a derrotarlos en una batalla mucho m\u00e1s dif\u00edcil. Acepta este desaf\u00edo in\u00e9dito y domina sus nuevas habilidades.\n\u2022 Exploraci\u00f3n no lineal: explora los niveles y jefes en un orden no lineal; descubre \u00e1reas secundarias repletas de secretos que revelar y enemigos que purgar. \n\u2022 Personalizaci\u00f3n de personajes: equipa a tu personaje con m\u00e1s de 30 armas, como arcos, guada\u00f1as, espadas largas, alabardas y m\u00e1s. Elige c\u00f3mo prefieres empu\u00f1ar tus armas con una gran cantidad de habilidades y mejoras.\n\u2022 Finales alternativos: decide el destino de Sorun a medida que progresas en la historia, completas objetivos espec\u00edficos y tomas decisiones importantes.\n\u2022 Fabricaci\u00f3n: busca, recoge y recicla los objetos que encuentres en tu aventura para crear equipo nuevo que te ayude a recorrer Siradon.\n\u2022 M\u00fasica evocadora: disfruta de casi 3 horas de melod\u00edas cuidadosamente compuestas por Kyle Hnedak que dan vida al mundo de Death's Gambit: Afterlife.\n\u2022 Modo plus: completa Afterlife para desbloquear el modo plus en ciclos de tres que te permiten establecer tu propia dificultad. Vive el viaje de Sorun desde el comienzo y descubre nuevas variantes de enemigos y modificadores exclusivos del modo plus.",
         "languages": [
@@ -15717,7 +16072,7 @@
             "de",
             "it"
         ],
-        "size": 986710016
+        "size": 1285554176
     },
     "70010000043209": {
         "id": null,
@@ -16707,6 +17062,56 @@
         ],
         "size": 102760448
     },
+    "70010000045540": {
+        "id": "0100952016222000",
+        "rightsId": null,
+        "name": "Sophia's World",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211007,
+        "nsuId": 70010000045540,
+        "category": [
+            "Plataformas",
+            "Educativo",
+            "Arcade",
+            "Aventura"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Asylum Square Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/29465d97439316c78315d5672e3b38ab45aa3a17e526e858698bda13bf1f416b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3fbd66339c7485d1e766c2e8958f7760901bb1723585a2e7180936d98abb3243.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a1305f8bf6fee7a26ee4f34fc643ae060c5814aca6ada373b66f79ff068877d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/930192594c31db99646bdb28f693c388cdfdf6166281aeb309c6111bae2d22b8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fe720c42533b4c1f69389d9e8f63dedebf9cc1047d7850eb387f3a2c2a78c9ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ba97d80e3f198c5ba592d0077d0b9bd79d1ba5cee175c3bdb70e7a9883464df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd2eb61387614b6de49f3be79be05ecb3e07cab532e3b00eed8e30e8485cb4c8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e9d0b783bb434cbe7eb66cd220f2420413084f10745e92698688398dc0ebfd34.jpg",
+        "intro": "El juego de plataformas para toda la familia",
+        "description": "\u00a1\u00danete a Sophia en un safari emocionante y busca monedas valiosas!\n\n\u00a1Diversi\u00f3n para todos los grupos de edad!\nEn este juego de plataformas no violento para todos los grupos de edad, guiar\u00e1s a Sophia a trav\u00e9s de niveles y mundos coloridos. En cada nivel, se ocultan numerosas monedas para que las descubras, pero evita animales como las serpientes, los murci\u00e9lagos y las tortugas. Sophia puede usar algunos animales como cama el\u00e1stica con un salto bien dirigido. Sin embargo, no te preocupes: a los animales no les pasar\u00e1 nada; el caracol se ocultar\u00e1 en su concha cuando lo asustes, pero saldr\u00e1 de nuevo cuidadosamente tan pronto como se aleje el peligro.\n\n\u00a1Modo de juego de plataformas cl\u00e1sico con un enfoque moderno!\nEl modo de juego de plataformas cl\u00e1sico presenta gr\u00e1ficos intemporales de colores brillantes y personajes adorables. Diversi\u00f3n para toda la familia: desde los ni\u00f1os m\u00e1s peque\u00f1os hasta los abuelos. En un santiam\u00e9n, todo el mundo se quedar\u00e1 fascinado por el concepto y no podr\u00e1 parar de jugar hasta haber encontrado todas las monedas del nivel.\n\nNiveles de d\u00eda y noche\n\nEl modo de juego alterna entre niveles de d\u00eda y noche. 72 niveles emocionantes est\u00e1n listos para que los explores.\n\n- \u00a1\u00a1\u00a172 niveles cautivadores!!!\n- Horas de diversi\u00f3n para toda la familia\n- Apto para ni\u00f1os\n- Fant\u00e1stica m\u00fasica de fondo motivadora\n- \u00bfPuedes encontrar y recoger todas las monedas?",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 40894464
+    },
     "70010000045547": {
         "id": "0100F8F015D3C000",
         "rightsId": null,
@@ -16748,6 +17153,43 @@
             "ru"
         ],
         "size": 245366784
+    },
+    "70010000045670": {
+        "id": "01008890162A8000",
+        "rightsId": null,
+        "name": "Medieval Tower Defense",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211009,
+        "nsuId": 70010000045670,
+        "category": [
+            "Estrategia"
+        ],
+        "ratingContent": [
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/689ee1a04faa09ca10353e2be05dc2bcffdbeea802068da899d5672cb8297620.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/200999ce6745951f636d9aaeb2881dc02916f6cfe8de304a758fa43c87cce1a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b1cfcbe5363e7e8d81625c1340fcf997baa3317d41391b3a4488256c2484196.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dfe1d4362af4e046949b8030fbe39269ad6aa45ff8a98bbc58c1f20dee127acc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b08aff8dc44839a8e3d6e955796251b08088b4dcb03d3b3ea14b31234ce0c7a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/01d0c3f4bf9ddd505d66f5150e75efcbc858a48a6077d2f0cd56b4f3ec440c48.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9795b7c7124804db11802decb5b4b47c82fdfdbe75f7b816b295d79d3ade3e81.jpg",
+        "intro": null,
+        "description": "Imagina un mundo de caballeros en el que debes defender los recursos de los habitantes bajo tu protecci\u00f3n de la invasi\u00f3n de las hordas b\u00e1rbaras. Para ello, tendr\u00e1s que gestionar tu presupuesto adquiriendo y utilizando las mejores armas de la \u00e9poca, catapultas y ca\u00f1ones.\n\nMedieval Tower Defense, con sus excepcionales gr\u00e1ficos, te proporcionar\u00e1 horas de diversi\u00f3n estrat\u00e9gica....",
+        "languages": [
+            "en"
+        ],
+        "size": 418381824
     },
     "70010000045754": {
         "id": "0100D85016326000",
@@ -16832,6 +17274,45 @@
             "zh"
         ],
         "size": 7334789120
+    },
+    "70010000046103": {
+        "id": "0100D0A0164C6000",
+        "rightsId": null,
+        "name": "Wild & Horror Pinball",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000046103,
+        "category": [
+            "Arcade",
+            "Fiesta",
+            "Rompecabezas",
+            "Simulaci\u00f3n"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SuperPowerUpGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e082985caea95f5148f35e365c45150ee3a42b3f3381bda77bda96f6210c8d5b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5222744bad754a24f06b0d3c4f5a959486e41d934ebbe3628eb097781cb20610.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/561b811573e7eb83dd7cc426db4ce93cf0b684070fde032fe3e1fcdf06935556.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/67a6a7201a0c62fcaf2e389d097961137694c9de8f2b1929642826ac26dc4448.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c1f65305e1af71c0d90d5fc6c40929da5372fffd3497609b9a73ae8f54816c5b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d0eef85ef98fd8542cfca9e859a2611094ea02253671d3c28e6011d72cebff1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/76df1726b4b658129c87ccb5da44d66911829a07e7bf928edc8685d991a45623.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bc6c88ab40f630bbe05bb0e5441370bd9ce5f061f785f5ad1fe8539e5787e7c7.jpg",
+        "intro": "Este pack incluye los juegos: Jurassic Pinball, Safari Pinball y Shark Pinball, Halloween Pinball, Werewolf Pinball, Mummy Pinball.",
+        "description": "Disfruta de 6 juegos en 1 con una perfecta reproducci\u00f3n de los pinball reales, con todo tipo de detalles gr\u00e1ficos y sonoros.\n\nDescubre todos los secretos, encuentra todos los dinosaurios, salva a los animales de \u00e1frica, encuentra la tumba de la bruja, enfr\u00e9ntate a la maldici\u00f3n del hombre lobo. \u00bfTendr\u00e1s el valor de descubrirlos todos?.\n\nCompleta todas las misiones y convi\u00e9rtete en el n\u00famero 1 del mundo o el mejor entre tus amigos, publicando tu puntuaci\u00f3n m\u00e1s alta en la tabla de clasificaci\u00f3n en l\u00ednea.\n\n- Dise\u00f1o arcade.\n- M\u00e1s de 8 misiones para cumplir. \u00bfEstas preparado para enfrentarte a todos los retos?\n- Multiball, Extraball, Skillshot, Jackpots ...\n- Reproducci\u00f3n con todo lujo de detalles, luces y sonido.\n- 4 c\u00e1maras diferentes para elegir.\n- Modo de juego vertical, usando toda la pantalla de la consola en modo port\u00e1til.\n- Tabla de clasificaci\u00f3n online.\n\nLos juegos incluidos en este pack, tambi\u00e9n puedes adquirirlos por separado en la Nintendo eShop si lo deseas.",
+        "languages": [
+            "en"
+        ],
+        "size": 557842432
     },
     "70010000046130": {
         "id": "0100C6F0163B0000",
@@ -18493,6 +18974,35 @@
         "languages": null,
         "size": 1457520640,
         "parentId": "01003DA010E8A000"
+    },
+    "70030000013610": {
+        "id": null,
+        "rightsId": null,
+        "name": "THE Card Battle: Eternal Destiny (trial version)",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000013610,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 2043674624,
+        "parentId": "0100FBE0151DC000"
     },
     "70030000013883": {
         "id": null,
@@ -25694,7 +26204,7 @@
         "intro": null,
         "description": "Este es un set que incluye el Arsenal \"Prototype Arsenal\", el cual te permite cambiar la apariencia de tu Arsenal, y el traje para Outer \"Prototype Suit\" que puede ser equipado por un Outer.\n\n\u203bEstos objetos son los mismos de la bonificaci\u00f3n por compra temprana, \"Prototype Arsenal\" y \"Prototype Suit\".\n\n\u203bSe requiere el juego DAEMON X MACHINA para disfrutar de este contenido.\n\n\u203bEste contenido no es equipamiento, son objetos que cambian la apariencia. No habr\u00e1 cambios en los estados al usar este contenido.\n",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "0100B6400CA57001"
         ]
@@ -31867,7 +32377,7 @@
         "intro": null,
         "description": "Arrasa el infierno con la Deluxe Edition de DOOM Eternal. Incluye:\n\n- Dise\u00f1o del Slayer demon\u00edaco\n- Paquete de sonidos cl\u00e1sicos para armas - Efectos de sonido cl\u00e1sicos para tus armas de DOOM Eternal\n",
         "languages": null,
-        "size": 4194304,
+        "size": 3145728,
         "ids": [
             "0100B1A00D8CF002"
         ]
@@ -43022,7 +43532,7 @@
         ]
     },
     "70050000028956": {
-        "id": null,
+        "id": "01001E30126A1005",
         "rightsId": null,
         "name": "Contenido adicional: \"Arcueid Round Announcements\"",
         "version": null,
@@ -43048,10 +43558,13 @@
         "intro": "\"Arcueid Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "description": "Cuando compres este producto, \"Arcueid Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01001E30126A1005"
+        ]
     },
     "70050000028959": {
-        "id": null,
+        "id": "01001E30126A1008",
         "rightsId": null,
         "name": "Contenido adicional: \"Hisui Round Announcements\"",
         "version": null,
@@ -43077,10 +43590,13 @@
         "intro": "\"Hisui Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "description": "Cuando compres este producto, \"Hisui Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01001E30126A1008"
+        ]
     },
     "70050000028962": {
-        "id": null,
+        "id": "01001E30126A1007",
         "rightsId": null,
         "name": "Contenido adicional: \"Akiha Tohno Round Announcements\"",
         "version": null,
@@ -43106,10 +43622,13 @@
         "intro": "\"Akiha Tohno Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "description": "Cuando compres este producto, \"Akiha Tohno Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01001E30126A1007"
+        ]
     },
     "70050000028965": {
-        "id": null,
+        "id": "01001E30126A100A",
         "rightsId": null,
         "name": "Contenido adicional: \"Shiki Tohno Round Announcements\"",
         "version": null,
@@ -43135,10 +43654,13 @@
         "intro": "\"Shiki Tohno Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "description": "Cuando compres este producto, \"Shiki Tohno Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01001E30126A100A"
+        ]
     },
     "70050000028968": {
-        "id": null,
+        "id": "01001E30126A1009",
         "rightsId": null,
         "name": "Contenido adicional: \"Kohaku Round Announcements\"",
         "version": null,
@@ -43164,10 +43686,13 @@
         "intro": "\"Kohaku Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "description": "Cuando compres este producto, \"Kohaku Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01001E30126A1009"
+        ]
     },
     "70050000028971": {
-        "id": null,
+        "id": "01001E30126A100E",
         "rightsId": null,
         "name": "Contenido adicional: \"Roa Round Announcements\"",
         "version": null,
@@ -43193,10 +43718,13 @@
         "intro": "\"Roa Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "description": "Cuando compres este producto, \"Roa Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01001E30126A100E"
+        ]
     },
     "70050000028974": {
-        "id": null,
+        "id": "01001E30126A100B",
         "rightsId": null,
         "name": "Contenido adicional: \"Kouma Kishima Round Announcements\"",
         "version": null,
@@ -43222,10 +43750,13 @@
         "intro": "\"Kouma Kishima Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "description": "Cuando compres este producto, \"Kouma Kishima Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01001E30126A100B"
+        ]
     },
     "70050000028977": {
-        "id": null,
+        "id": "01001E30126A100C",
         "rightsId": null,
         "name": "Contenido adicional: \"Noel Round Announcements\"",
         "version": null,
@@ -43251,10 +43782,13 @@
         "intro": "\"Noel Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "description": "Cuando compres este producto, \"Noel Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01001E30126A100C"
+        ]
     },
     "70050000028980": {
-        "id": null,
+        "id": "01001E30126A100D",
         "rightsId": null,
         "name": "Contenido adicional: \"Vlov Round Announcements\"",
         "version": null,
@@ -43280,10 +43814,13 @@
         "intro": "\"Vlov Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "description": "Cuando compres este producto, \"Vlov Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01001E30126A100D"
+        ]
     },
     "70050000028983": {
-        "id": null,
+        "id": "01001E30126A1010",
         "rightsId": null,
         "name": "Contenido adicional: \"Red Arcueid Round Announcements\"",
         "version": null,
@@ -43309,10 +43846,13 @@
         "intro": "\"Red Arcueid Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "description": "Cuando compres este producto, \"Red Arcueid Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01001E30126A1010"
+        ]
     },
     "70050000028986": {
-        "id": null,
+        "id": "01001E30126A1006",
         "rightsId": null,
         "name": "Contenido adicional: \"Ciel Round Announcements\"",
         "version": null,
@@ -43338,10 +43878,13 @@
         "intro": "\"Ciel Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "description": "Cuando compres este producto, \"Ciel Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01001E30126A1006"
+        ]
     },
     "70050000028989": {
-        "id": null,
+        "id": "01001E30126A1011",
         "rightsId": null,
         "name": "Contenido adicional: \"Saber Round Announcements\"",
         "version": null,
@@ -43367,10 +43910,13 @@
         "intro": "\"Saber Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "description": "Cuando compres este producto, \"Saber Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01001E30126A1011"
+        ]
     },
     "70050000028992": {
-        "id": null,
+        "id": "01001E30126A100F",
         "rightsId": null,
         "name": "Contenido adicional: \"Miyako Arima Round Announcements\"",
         "version": null,
@@ -43396,10 +43942,13 @@
         "intro": "\"Miyako Arima Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "description": "Cuando compres este producto, \"Miyako Arima Round Announcements\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01001E30126A100F"
+        ]
     },
     "70050000028995": {
-        "id": null,
+        "id": "01001E30126A1012",
         "rightsId": null,
         "name": "Voces de comienzo de ronda - Pack de voces de 13 personajes",
         "version": null,
@@ -43425,7 +43974,10 @@
         "intro": "\"Pack de voces de 13 personajes\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".",
         "description": "Cuando compres este producto, el \"Pack de voces de 13 personajes\" se a\u00f1adir\u00e1 al juego principal \"MELTY BLOOD: TYPE LUMINA\".\nContiene las voces de Shiki Tohno, Arcueid, Ciel, Akiha Tohno, Hisui, Kohaku, Noel, Vlov, Roa, Red Arcueid, Kouma Kishima, Miyako Arima y Saber.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01001E30126A1012"
+        ]
     },
     "70050000029003": {
         "id": "010071400F837003",
@@ -43749,7 +44301,7 @@
         ]
     },
     "70050000029162": {
-        "id": null,
+        "id": "0100216014473005",
         "rightsId": null,
         "name": "Comentarios del juego de FIFA 22 - \u00c1rabe",
         "version": null,
@@ -43774,10 +44326,13 @@
         "intro": "Powered by Football\u2122",
         "description": "Comentarios del juego en \u00e1rabe",
         "languages": null,
-        "size": 439353344
+        "size": 439353344,
+        "ids": [
+            "0100216014473005"
+        ]
     },
     "70050000029167": {
-        "id": null,
+        "id": "0100216014473003",
         "rightsId": null,
         "name": "Comentarios del juego de FIFA 22 - Polaco",
         "version": null,
@@ -43802,10 +44357,13 @@
         "intro": "Powered by Football\u2122",
         "description": "Comentarios del juego en polaco",
         "languages": null,
-        "size": 233832448
+        "size": 233832448,
+        "ids": [
+            "0100216014473003"
+        ]
     },
     "70050000029168": {
-        "id": null,
+        "id": "0100216014473002",
         "rightsId": null,
         "name": "Comentarios del juego de FIFA 22 \u2013 Ruso",
         "version": null,
@@ -43830,10 +44388,13 @@
         "intro": "Powered by Football\u2122",
         "description": "Comentarios del juego en ruso",
         "languages": null,
-        "size": 452984832
+        "size": 452984832,
+        "ids": [
+            "0100216014473002"
+        ]
     },
     "70050000029171": {
-        "id": null,
+        "id": "0100216014473004",
         "rightsId": null,
         "name": "Comentarios del juego de FIFA 22 - Neerland\u00e9s",
         "version": null,
@@ -43858,10 +44419,13 @@
         "intro": "Powered by Football\u2122",
         "description": "Comentarios del juego en neerland\u00e9s",
         "languages": null,
-        "size": 665845760
+        "size": 665845760,
+        "ids": [
+            "0100216014473004"
+        ]
     },
     "70050000029172": {
-        "id": null,
+        "id": "0100216014473006",
         "rightsId": null,
         "name": "Comentarios del juego de FIFA 22 \u2013 Portugu\u00e9s (Brasil)",
         "version": null,
@@ -43886,7 +44450,10 @@
         "intro": "Powered by Football\u2122",
         "description": "Comentarios del juego en portugu\u00e9s (Brasil)",
         "languages": null,
-        "size": 534773760
+        "size": 534773760,
+        "ids": [
+            "0100216014473006"
+        ]
     },
     "70050000029389": {
         "id": "01007B000C835008",
@@ -44324,6 +44891,819 @@
         "size": 3145728,
         "ids": [
             "01001B300B9BF065"
+        ]
+    },
+    "70050000030124": {
+        "id": "010071C013391320",
+        "rightsId": null,
+        "name": "Bunny Ear Headband\u00a0- Accessory",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211109,
+        "nsuId": 70050000030124,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ab5f335c32ed43205ea9fadebe95c8ab4bf82cf5aa79ab72f5c038a9a2ee1be3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bcdc5fc9898aed2e9d771e0658d5f54f1d398f7f33b83de229e436acce866a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/093684223d53bce4ac37feb24aad3536dc24b1e87429bf84eb1cecb03ddcd82f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4398e0f0a929c4af8602a27bdc49a936820641e96ff28457b82edf0fbb61bff8.jpg",
+        "intro": "\u00a1Con estas orejas ser\u00e1s el centro de atenci\u00f3n!",
+        "description": "A\u00f1ade el accesorio para la cabeza de Ao \"Bunny Ear Headband\".\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s ponerte este accesorio con las taquillas del \"Locker Room\".\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010071C013391320"
+        ]
+    },
+    "70050000030126": {
+        "id": "010071C0133910C9",
+        "rightsId": null,
+        "name": "Summer Bikini - Costume for Ao",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211109,
+        "nsuId": 70050000030126,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9324789cb81c7b66cfc299eacd6e806be742191124e3c3a942d0586a7c45ffcd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b79b9442324ae75ebf7b853a8d5c31b07e2571b69224a4e43e2f6bb9db81be1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b97cedf59d3a01772d073704a7ad05761c75639f677f36c4d21eb37e4640eafc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/84899fc4b3e671cb0157082d93235d9466aae1a02abee181c2354bc86b8ec36c.jpg",
+        "intro": "\u00a1La mayor belleza de la playa!",
+        "description": "A\u00f1ade un atuendo para Ao: \"Summer Bikini\".\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s cambiar a este atuendo con las taquillas del \"Locker Room\".\nNota: Es posible que este contenido est\u00e9 a la venta posteriormente.\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010071C0133910C9"
+        ]
+    },
+    "70050000030127": {
+        "id": "010071C0133910CA",
+        "rightsId": null,
+        "name": "Hoshinomiya Extreme Makeover Swimsuit - Costume Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211109,
+        "nsuId": 70050000030127,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fb5008e872c088062a67d4c66889614f26f21fd42cb5747338a9b40953b4df75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af315a9e7a33c1e65ca0f6f9c8b9d9d39cbedc7c542f5b0f5d384fe717062bb7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e332491af9af89b3056da0abeb3d86ba50b828a0cd2786c3d90340a792a380e4.jpg",
+        "intro": "\u00a1El atuendo m\u00e1s popular del juego anterior vuelve!",
+        "description": "A\u00f1ade atuendos \"Hoshinomiya Extreme Makeover Swimsuit\" para Kokoro, Rena, Yuki, Shiho, Hinako, Kirara, Hiori, Mio y Uta, un total de 9 variantes.\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s cambiar a los atuendos con las taquillas del \"Locker Room\". (Solo podr\u00e1s hacerlo si la chica en cuesti\u00f3n es amiga tuya).\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Este producto est\u00e1 incluido en el lote de DLC para quienes hayan comprado \"BLUE REFLECTION: Second Light Digital Deluxe Edition\" o \"BLUE REFLECTION: Second Light Ultimate Edition\".",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010071C0133910CA"
+        ]
+    },
+    "70050000030130": {
+        "id": "010071C0133910CB",
+        "rightsId": null,
+        "name": "Uniform Alt. Color - Costume Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211109,
+        "nsuId": 70050000030130,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a819d0aa6ae8ee0aafba152db849a5a132e2b23058595c82b5ebc8529337b5ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e62c2fd7eebb6498e2b625a0224b87e94ae981dd6e641973547552be2c92f7e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/307f540e321ad3b8dc089b075bdb97999218b24ca6e633cf3844f227104ca25c.jpg",
+        "intro": "\u00a1Cambia de uniforme para dar un toque personal a tu vida escolar!",
+        "description": "A\u00f1ade un atuendo \"Uniform Alt. Color\" para Ao, Kokoro, Rena, Yuki, Shiho, Hinako, Kirara, Hiori, Mio y Uta, un total de 10 variantes.\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s cambiar a los atuendos con las taquillas del \"Locker Room\". (Solo podr\u00e1s hacerlo si la chica en cuesti\u00f3n es amiga tuya).\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Este producto est\u00e1 incluido en el lote de DLC para quienes hayan comprado \"BLUE REFLECTION: Second Light Digital Deluxe Edition\" o \"BLUE REFLECTION: Second Light Ultimate Edition\".",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010071C0133910CB"
+        ]
+    },
+    "70050000030132": {
+        "id": "010071C0133913E8",
+        "rightsId": null,
+        "name": "Extreme School Makeover Kit",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211109,
+        "nsuId": 70050000030132,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/35b4ce8de21acb9dcbd92877e35a57985c427d5fc4c27e8539d30d785404f9d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d72e485ea640d9240f2a10fe44163071e1818cafad2f699974811b796c4b52b0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f27cc74afb2685f542f017fbefc9e11a95a4c6bbe2ea64794784e6b061358725.jpg",
+        "intro": "\u00a1Remodela el colegio por completo!",
+        "description": "A\u00f1ade Facilities a School Development: \"Beach Chair (Extreme Makeover)\" y \"Animal Rides (Extreme Makeover)\".\n\nNota: Podr\u00e1s usar las Facilities tras desbloquear School Development en la Work Room.\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Este producto est\u00e1 incluido en el lote de DLC para quienes hayan comprado \"BLUE REFLECTION: Second Light Digital Deluxe Edition\" o \"BLUE REFLECTION: Second Light Ultimate Edition\".",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010071C0133913E8"
+        ]
+    },
+    "70050000030134": {
+        "id": "010071C01339144C",
+        "rightsId": null,
+        "name": "Jump Start Fragment Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211109,
+        "nsuId": 70050000030134,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/077c4a82685ed76f433fe5000300e19f5fd581ec68ad6a2cbc61c50d0798bbd4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7925fa336a2c1d344e9a341326df846632f01b570dc144370e87602cd2badbb8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8931ca84cf866463b280cf021049970998de552722170804f4813db53d240071.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67a3dcdde0ec5b451312425d52801f1a89ec87f01a45a2bf8458f153a5622f59.jpg",
+        "intro": "\u00a1Empieza el juego con ventaja t\u00e1ctica!",
+        "description": "A\u00f1ade los Fragments \"Warm Guidance\", \"Silent Support\" y \"Reaching Prayer\".\n\nNota: Podr\u00e1s usar los Fragments una vez desbloquees la opci\u00f3n Fragments del men\u00fa principal.\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Este producto est\u00e1 incluido en el lote de DLC para quienes hayan comprado \"BLUE REFLECTION: Second Light Digital Deluxe Edition\" o \"BLUE REFLECTION: Second Light Ultimate Edition\".",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010071C01339144C"
+        ]
+    },
+    "70050000030138": {
+        "id": "010071C013391384",
+        "rightsId": null,
+        "name": "Special Photo Frame - Bulletin Board",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211109,
+        "nsuId": 70050000030138,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/146fedb0765806df6260476ee18ece941ccbc030bc88dbd9b70bf3c3dafc1642.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4b133fb66994fe30a368774d3a1ecdb9a755401e4376a84cc4ea6aeac969601.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/edf7640f9f6239aa0e3a37309b21acbb89f33e757fdda02be6e3ba5e05d23315.jpg",
+        "intro": "\u00a1Muestra tus mejores recuerdos en el tabl\u00f3n!",
+        "description": "A\u00f1ade el Photo Frame \"Bulletin Board\".\n\nNota: Este contenido se puede usar en el Photo Mode.\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Este producto est\u00e1 incluido en el lote de DLC para quienes hayan comprado \"BLUE REFLECTION: Second Light Digital Deluxe Edition\" o \"BLUE REFLECTION: Second Light Ultimate Edition\".",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010071C013391384"
+        ]
+    },
+    "70050000030140": {
+        "id": "010071C013391322",
+        "rightsId": null,
+        "name": "Sunflower Headband & Summer Sunglasses",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211109,
+        "nsuId": 70050000030140,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/aaf8149a369297cb55d921784e42ccac8db9f8edda1f5f6800f3f33b62e47bfe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d5dffa92e0e8b20a231eedde0733eb2bbb5ad3b19ea780c6d7e29be4e63a844.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/56ddd362f94fe86ceeef405d85c1500281b27077164b61e4278216af1286f4b6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/02395b57d80f2fba6f2fc709ab5e79b2a15cad0868a5e5de39c5668037fb28df.jpg",
+        "intro": "\u00a1Accesorios ideales para el verano!",
+        "description": "A\u00f1ade los accesorios \"Sunflower Headband\" and \"Summer Sunglasses\".\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s ponerte estos accesorio con las taquillas del \"Locker Room\".\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Este producto est\u00e1 incluido en el lote de DLC para quienes hayan comprado \"BLUE REFLECTION: Second Light Ultimate Edition\".",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010071C013391322"
+        ]
+    },
+    "70050000030152": {
+        "id": "010071C0133910CC",
+        "rightsId": null,
+        "name": "Hoshinomiya Uniform - Costume Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211109,
+        "nsuId": 70050000030152,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1d88c718ec06845c0e2251653f8f63880d6e1ea4f9fe9e7b697a19dcf6f0d7a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3548d1bc7709148d37c48c002f6390fe926efeb3d5ae29805d9cf7c4386f961f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b8365649a121e4e1a1eb522ae4ae59f2b8f55a9d2ec09c65372e696cb2d0bb58.jpg",
+        "intro": "\u00a1Explora este mundo misterioso con uniformes conjuntados!",
+        "description": "A\u00f1ade atuendos \"Hoshinomiya Uniform\" basados en el uniforme de Hinako, la protagonista de \"BLUE REFLECTION\", para Ao, Kokoro, Rena, Yuki, Shiho, Kirara, Hiori, Mio y Uta, un total de 9 variantes.\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s cambiar a este atuendo con las taquillas del \"Locker Room\".\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Este producto est\u00e1 incluido en el lote de DLC para quienes hayan comprado \"BLUE REFLECTION: Second Light Ultimate Edition\" o \"BLUE REFLECTION: Second Light Season Pass\".",
+        "languages": null,
+        "size": 188743680,
+        "ids": [
+            "010071C0133910CC"
+        ]
+    },
+    "70050000030156": {
+        "id": null,
+        "rightsId": null,
+        "name": "Ao Costume - Hospitable Kitty",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000030156,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c1126c9a6268b0e2165b34364d42c3490ab323c7c5f2bfaedb03f6210806bece.jpg",
+        "intro": null,
+        "description": "A\u00f1ade un atuendo para Ao: \"Hospitable Kitty\".\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s cambiar a este atuendo con las taquillas del \"Locker Room\".\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Las fechas de lanzamiento est\u00e1n sujetas a cambios.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000030160": {
+        "id": null,
+        "rightsId": null,
+        "name": "Kokoro, Kirara & Hiori Costumes - Hospitable Kitties",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000030160,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9172497f2a40bdb9b767c0144d4829530770d778761e2b0866d527bc2eaabee3.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el atuendo \"Hospitable Kitty\" para Kokoro, Kirara y Hiori, un total de 3 variantes.\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s cambiar a los atuendos con las taquillas del \"Locker Room\". (Solo podr\u00e1s hacerlo si la chica en cuesti\u00f3n es amiga tuya).\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Las fechas de lanzamiento est\u00e1n sujetas a cambios.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000030162": {
+        "id": null,
+        "rightsId": null,
+        "name": "Rena, Hinako & Uta Costumes - Hospitable Kitties",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000030162,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/53280e21c56646a81c7b564b36942e648d59608ac3a5c01185268aa3218ee030.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el atuendo \"Hospitable Kitty\" para Rena, Hinako y Uta, un total de 3 variantes.\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s cambiar a los atuendos con las taquillas del \"Locker Room\". (Solo podr\u00e1s hacerlo si la chica en cuesti\u00f3n es amiga tuya).\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Las fechas de lanzamiento est\u00e1n sujetas a cambios.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000030164": {
+        "id": null,
+        "rightsId": null,
+        "name": "Yuki, Shiho & Mio Costumes - Hospitable Kitties",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000030164,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c4ecca6299b819275b128a0f25067c09a74df22ab7edbc7a641404995ca29c94.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el atuendo \"Hospitable Kitty\" para Yuki, Shiho y Mio, un total de 3 variantes.\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s cambiar a los atuendos con las taquillas del \"Locker Room\". (Solo podr\u00e1s hacerlo si la chica en cuesti\u00f3n es amiga tuya).\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Las fechas de lanzamiento est\u00e1n sujetas a cambios.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000030168": {
+        "id": null,
+        "rightsId": null,
+        "name": "Crafting Function - Ether Synthesis",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000030168,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dbf4831ed273872be382fdd017164f1ffbac23237b7453ed76488e1b707f4a82.jpg",
+        "intro": null,
+        "description": "A\u00f1ade una \u00fatil funci\u00f3n para crear objetos.\n\nNota: Para usar este contenido debes avanzar suficientemente en el juego.\nNota: Las fechas de lanzamiento est\u00e1n sujetas a cambios.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000030170": {
+        "id": null,
+        "rightsId": null,
+        "name": "Additional Map - Hidden Southern Island",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211231,
+        "nsuId": 70050000030170,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eaba925405e38eeb6771f8f9a8e99f997b2b7cd3bf9c1e6a7313a438d2e10287.jpg",
+        "intro": null,
+        "description": "A\u00f1ade una nueva isla y su mapa, adem\u00e1s del evento correspondiente (sin voces).\n\nNota: Para usar este contenido debes avanzar suficientemente en el juego.\nNota: Las fechas de lanzamiento est\u00e1n sujetas a cambios.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000030174": {
+        "id": null,
+        "rightsId": null,
+        "name": "Ao Costume - Beachside Puppy",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220131,
+        "nsuId": 70050000030174,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8c60d29cfbdf51da89d4a2e2d835e822c1b252f6ceb235ee85d71a386854fa91.jpg",
+        "intro": null,
+        "description": "A\u00f1ade un atuendo para Ao: \"Beachside Puppy\".\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s cambiar a este atuendo con las taquillas del \"Locker Room\".\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Las fechas de lanzamiento est\u00e1n sujetas a cambios.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000030176": {
+        "id": null,
+        "rightsId": null,
+        "name": "Kokoro, Kirara & Hiori Costumes - Beachside Puppies",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220131,
+        "nsuId": 70050000030176,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d9fd785ae05dd918373af985c614be697ded77e2f9c5f65bec9809c168037f33.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el atuendo \"Beachside Puppies\" para Kokoro, Kirara y Hiori, un total de 3 variantes.\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s cambiar a los atuendos con las taquillas del \"Locker Room\". (Solo podr\u00e1s hacerlo si la chica en cuesti\u00f3n es amiga tuya).\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Las fechas de lanzamiento est\u00e1n sujetas a cambios.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000030178": {
+        "id": null,
+        "rightsId": null,
+        "name": "Rena, Hinako & Uta Costumes - Beachside Puppies",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220131,
+        "nsuId": 70050000030178,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f2a2223904fbcea255662f0c59bb8da5a520e61926f6e46745984280e9fba3ff.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el atuendo \"Beachside Puppy\" para Rena, Hinako y Uta, un total de 3 variantes.\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s cambiar a los atuendos con las taquillas del \"Locker Room\". (Solo podr\u00e1s hacerlo si la chica en cuesti\u00f3n es amiga tuya).\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Las fechas de lanzamiento est\u00e1n sujetas a cambios.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000030181": {
+        "id": null,
+        "rightsId": null,
+        "name": "Yuki, Shiho & Mio Costumes - Beachside Puppies",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220131,
+        "nsuId": 70050000030181,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/858307f7b367021ff0aac7049b920a40802840ed1930b5663dcbd6ef52b24668.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el atuendo \"Beachside Puppy\" para Yuki, Shiho y Mio, un total de 3 variantes.\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s cambiar a los atuendos con las taquillas del \"Locker Room\". (Solo podr\u00e1s hacerlo si la chica en cuesti\u00f3n es amiga tuya).\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Las fechas de lanzamiento est\u00e1n sujetas a cambios.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000030183": {
+        "id": null,
+        "rightsId": null,
+        "name": "School Development Facility - Summer Night Vacation",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220131,
+        "nsuId": 70050000030183,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2bc81ed6ed427a77d5574ff031506d54939999f3ebdbe9bf6211abef14c7d36.jpg",
+        "intro": null,
+        "description": "Adem\u00e1s de 3 nuevas Facilities para School Development, incluye citas con cada personaje (sin voces).\n\nNota: Para usar este contenido debes avanzar suficientemente en el juego.\nNota: Las fechas de lanzamiento est\u00e1n sujetas a cambios.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000030185": {
+        "id": null,
+        "rightsId": null,
+        "name": "Additional Map - Atelier Ryza Collab Dungeon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220131,
+        "nsuId": 70050000030185,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/267f4c3a5896ae012937a3629f7276d717109700c7e6fb57a4f09ab36d9a564e.jpg",
+        "intro": null,
+        "description": "A\u00f1ade un nuevo Heartscape y su mapa, adem\u00e1s del evento correspondiente (sin voces).\n\nNota: Para usar este contenido debes avanzar suficientemente en el juego.\nNota: Las fechas de lanzamiento est\u00e1n sujetas a cambios.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000030266": {
+        "id": "0100BEB015605004",
+        "rightsId": null,
+        "name": "Yuri/Miu/Ren Exclusive Costume: Camera Obscura Hat & Yuri/Miu Exclusive Costume:  Witch's Hat",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70050000030266,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Temas insinuantes",
+            "Violencia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/eb69372d70e8aab5a0b672daf4b84a06b6759a0c61708c87ac225135a19b468c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e33f0213c5fa91c48222126b3e0187ebbb367b8584a3568bc389288796c3f41c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e1761902c3dc9e6f6e3934c64c62b0c2e475f37e8408803050c9d20fc2b4b0e6.jpg",
+        "intro": "Accesorios de Halloween graciosos",
+        "description": "Un conjunto de accesorios para los protagonistas.\nIncluye los siguientes art\u00edculos:\n- Yuri/Miu/Ren Exclusive Costume: Camera Obscura Hat \n- Yuri/Miu Exclusive Costume:  Witch's Hat\n\nNota: Este contenido se incluye de forma gratuita con la compra del juego hasta el 27 de octubre de 2021. Puede estar disponible a la venta por separado m\u00e1s adelante.",
+        "languages": null,
+        "size": 50331648,
+        "ids": [
+            "0100BEB015605004"
+        ]
+    },
+    "70050000030270": {
+        "id": "0100BEB015605003",
+        "rightsId": null,
+        "name": "Yuri Exclusive Costume: Ryza Outfit, Ryza Hat",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70050000030270,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Temas insinuantes",
+            "Violencia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c53489415734de6db113d3469cd9a97a31ab9513d053bc954a5a2b8de19741ca.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3a93fa47bb35e0ebc2511676ed845dd425dc9fe4629cf1ebdd6c600e3daab263.jpg",
+        "intro": "Emb\u00e1rcate en una aventura de terror vestida como Ryza",
+        "description": "Un traje para que Yuri se vista como Ryza, la protagonista de la serie \u201cAtelier Ryza\u201d.\nIncluye los siguientes art\u00edculos:\n- Yuri Exclusive Costume: Ryza Outfit\n- Yuri Exclusive Costume: Ryza Hat\n\nNota: Este contenido se incluye de forma gratuita con la compra del juego hasta el 11 de noviembre de 2021. Puede estar disponible a la venta por separado m\u00e1s adelante.",
+        "languages": null,
+        "size": 49283072,
+        "ids": [
+            "0100BEB015605003"
+        ]
+    },
+    "70050000030274": {
+        "id": "0100BEB015605001",
+        "rightsId": null,
+        "name": "20th Anniversary Digital Artbook",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70050000030274,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Temas insinuantes",
+            "Violencia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/df32cd0021ed2914f2220740eb604f9eaf20fa8e1aa512f0ca4678879423aafb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c1dbd1c298f5857690973fe01f02f5e32235c89e6bc39ae829b99e9ea0173ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70f88fc808a9df9ff73dbea7b841cb2eaeb2e5c4bb4954f2ce92d6aac7ee4267.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed01ad2fd01b0e7ab2323a9e467acb00442a35c100670672ad0697daf92c629e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/874797392d8d35417d15a2c538bc74e515de8853b12a3153ff99744bbad991df.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2cd37543a5847f923ff975bbb07bedccdb9902b508f9213fce682d2753ab62de.jpg",
+        "intro": "Sigue la historia de la serie FATAL FRAME",
+        "description": "El libro de arte digital de aniversario incluye ilustraciones y m\u00fasica de la banda sonora de otros t\u00edtulos de la serie FATAL FRAME. Puedes acceder a \u00e9l desde el men\u00fa del juego.",
+        "languages": null,
+        "size": 4094689280,
+        "ids": [
+            "0100BEB015605001"
+        ]
+    },
+    "70050000030278": {
+        "id": "0100BEB015605002",
+        "rightsId": null,
+        "name": "Past Protagonists Costume Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70050000030278,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Temas insinuantes",
+            "Violencia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/64d1d60a666dfd11c7d2beb2bac60148322787cf5096d872d11718e54e208af2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7d734d19854290c00a25eb6dcb4ab4d69c0000c4c75d5f0ee5bec09977e4963.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19e002222f4c1e663c20ffef7949206f5f61ffca4122e31abea7c00ecb1cad9b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c8ed271d30a3cdd4234232ce0796bd6904dc5bea9b87c35081ba6ba185730a29.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ab13962def38ddd0e94a4af90c11f84cd10551d83194102a52793a4297acb03.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7068335c92a0885ccb437fb618b539c38509a345d1403884a20c9849710b02e9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/209a6762343fb1c5d403e88a3a78ceea775230e8383124e29b8e585f62e7ccb2.jpg",
+        "intro": "V\u00edstete como otros h\u00e9roes que se enfrentaron al terror",
+        "description": "Este conjunto incluye los trajes de antiguos protagonistas de los juegos de la serie FATAL FRAME.\n\n- Mio Amakura Outfit (de \u201cFATAL FRAME \u2161 Crimson Butterfly\u201d)\n- Rei Kurosawa Outfit (de \u201cFATAL FRAME \u2162 The Tormented\u201d)\n- Miku Hinasaki Outfit 1 (de \u201cFATAL FRAME\u201d)\n- Miku Hinasaki Outfit 2 (de \u201cFATAL FRAME\u201d)\n- Mayu Amakura Outfit (de \u201cFATAL FRAME \u2161 Crimson Butterfly\u201d)\n- Kei Amakura Outfit (de \u201cFATAL FRAME \u2162 The Tormented\u201d)",
+        "languages": null,
+        "size": 246415360,
+        "ids": [
+            "0100BEB015605002"
         ]
     },
     "70070000000041": {
@@ -46875,7 +48255,7 @@
         "intro": "\u00a1Vive un s\u00faper enfrentamiento lleno de acci\u00f3n y f\u00fatbol sin igual en Captain Tsubasa!",
         "description": "La Deluxe Edition incluye:\n- Captain Tsubasa: Rise of New Champions (juego completo)\n- Pase de personajes\n\nExtras con la Deluxe Edition:\n- Accesorios de V Jump.\n\nCaptain Tsubasa: Rise of New Champions, basado en la serie de anim\u00e9 tan aclamada en todo el mundo, es un juego de f\u00fatbol y acci\u00f3n con las gr\u00e1ficas m\u00e1s nuevas y todas las jugadas espectaculares que ser\u00e1n el deleite de chicos y grandes.",
         "languages": null,
-        "size": 15486418944
+        "size": 15490613248
     },
     "70070000010923": {
         "id": null,
@@ -47207,7 +48587,7 @@
         "intro": "\u00a1Preparaos para\nsentir la emoci\u00f3n\ny el desaf\u00edo de la caza!",
         "description": "\u00a1Incluye MONSTER HUNTER RISE junto con un pack de fant\u00e1sticos contenidos adicionales!\n\nJuego principal \"MONSTER HUNTER RISE\"\n    - Set de armadura superpuesta para cazador \"Kamurai\"\n    - Pieza de armadura superpuesta para camarada Canyne \"collar shuriken\"\n    - Pieza de armadura superpuesta para camarada \"collar de pez\"\n    - Set de gestos (4 saltos)\n    - Set de poses de samur\u00e1i\n    - Pintura facial \"Kabuki\"\n    - Peinado \"coleta Izuchi\"\n\nNuevos monstruos. Nuevas habilidades. Nuevos escenarios. \u00a1Una nueva y original forma de cazar monstruos!\n\n\u00a1Coged vuestra Nintendo Switch\u2122 y cazad juntos!",
         "languages": null,
-        "size": 10789847040
+        "size": 10832838656
     },
     "70070000011195": {
         "id": null,
@@ -47843,7 +49223,7 @@
         "intro": "\u00a1Vuelve la serie de RPG por turnos de Monster Hunter en esta segunda parte! \u00bfTu lazo especial con estos monstruos traer\u00e1 esperanza o destrucci\u00f3n?",
         "description": "La Deluxe Edition de Monster Hunter Stories 2: Wings of Ruin posee una variedad de contenido adicional para mejorar tu experiencia de juego:\n\n \u30fb Atuendo de Ena: Abrigo de Kuan\n \u30fb Armadura superpuesta de Rider: Armadura Ratha Kalapteron Alfa y Beta\n \u30fb Peinado de Rider: Nergal de punta\n \u30fb Ropas de Navirou: Trajes de Nergigante y Pukei-Pukei\n \u30fb Sets de pegatinas: Compis de andanzas 2 y 3\n\nNota: Este es el mismo contenido adicional de Monster Hunter Stories 2: Wings of Ruin Deluxe Kit. Parte del contenido solo ser\u00e1 utilizable tras progresar en el juego.\n\nUna nueva aventura te espera en esta segunda parte de la serie de RPG por turnos ambientada en el mundo de Monster Hunter. Convi\u00e9rtete en un Rider y forma v\u00ednculos con monstruos amistosos llamados Monsties para luchar junto a ellos en una historia \u00e9pica.\n\nT\u00fa eres descendiente de Red, un Rider legendario. La historia comienza con un encuentro trascendental con Ena, una chica wyveriana responsable de un huevo del que podr\u00eda nacer un legendario Rathalos, el cual podr\u00eda traer el caos si se despertara su poder destructivo.\n\nEmb\u00e1rcate en una traves\u00eda que pondr\u00e1 a prueba tus lazos de amistad en un mundo cambiante y descubre la verdad detr\u00e1s de las leyendas ancestrales.",
         "languages": null,
-        "size": 15136194560
+        "size": 15194914816
     },
     "70070000012256": {
         "id": null,
@@ -48917,6 +50297,112 @@
         "description": "La horda llega a Nintendo Switch\u2122. \n\nWorld War Z, el intenso shooter de zombis que ha cautivado a 15 millones de jugadores, llega a Nintendo Switch\u2122. World War Z se inspira en la pel\u00edcula de Paramount Pictures y se centra en una fren\u00e9tica jugabilidad de shooter en tercera persona contra hordas de cientos de zombis.\n\nLa humanidad est\u00e1 al borde de la extinci\u00f3n. Desde Nueva York a Mosc\u00fa, pasando por Jerusal\u00e9n, el apocalipsis sigue extendi\u00e9ndose. Unos pocos supervivientes se unen para enfrentarse a las hordas y sobrevivir a los muertos.\n\nLa Deluxe Edition contiene el juego World War Z, \u00e9xito en ventas, junto con 28 objetos adicionales exclusivos, incluyendo atuendos y aspectos y variantes de arma.\n",
         "languages": null,
         "size": 7104102400
+    },
+    "70070000012889": {
+        "id": null,
+        "rightsId": null,
+        "name": "BLUE REFLECTION: Second Light Digital Deluxe Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211109,
+        "nsuId": 70070000012889,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/09ddd351f7e26892486c9ded1ed0c9f4086238d95191c46137c8a0080638bc45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/45089a69001057c1b714725f3377d037323eb55de975ce654dadf230c747ec26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51651061ed1b7d60d3b2cca1d1b4c42ebacc7df042713bfafff900102b6e17a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bd67a47d70bab4e12a0737276c69639d59bf6a9144765e9df7322faa9a2c8a5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/beafc066d7482266d1c4bbfd2d7e63bc2689f3738a35d1d3d955b89c28290576.jpg",
+        "intro": "Todo queda iluminado al desvanecerse el \u00faltimo d\u00eda de verano.",
+        "description": "Con espectaculares dise\u00f1os transl\u00facidos de Mel Kishida y una historia que muestra la vida de unas chicas j\u00f3venes y realistas, basada en tem\u00e1ticas de la identidad y las relaciones humanas, llega una nueva entrega de la serie BLUE REFLECTION!\n\nContenido del lote\n\u25cfBLUE REFLECTION: Second Light\n\n\u25cfHoshinomiya Extreme Makeover Swimsuit - Costume Set\n\u00a1El atuendo m\u00e1s popular del juego anterior vuelve!\nA\u00f1ade atuendos Hoshinomiya Extreme Makeover Swimsuit para Ao, Kokoro, Rena, Yuki, Shiho, Hinako, Kirara, Hiori, Mio y Uta, un total de 10 variantes.\n\n\u25cfUniform Alt. Color\n\u00a1Cambia de uniforme para dar un toque personal a tu vida escolar!\nA\u00f1ade un atuendo Uniform Alt. Color para Ao, Kokoro, Rena, Yuki, Shiho, Hinako, Kirara, Hiori, Mio y Uta, un total de 10 variantes.\n\n\u25cfExtreme School Makeover Kit\n\u00a1Remodela el colegio por completo!\nA\u00f1ade Facilities a School Development: \"Beach Chair (Extreme Makeover)\" y \"Animal Rides (Extreme Makeover)\".\n\n\u25cfJump Start Fragment Set\n\u00a1Empieza el juego con ventaja t\u00e1ctica!\nA\u00f1ade los Fragments \"Warm Guidance\", \"Silent Support\" y \"Reaching Prayer\".\n\n\u25cfSpecial Photo Frame - Bulletin Board\n\u00a1Muestra tus mejores recuerdos en el tabl\u00f3n!\nA\u00f1ade el Photo Frame \"Bulletin Board\".\n\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: El juego \"BLUE REFLECTION: Second Light\" tambi\u00e9n se vende por separado y como parte del lote \"BLUE REFLECTION: Second Light Ultimate Edition\", que incluye el mismo contenido. Ambos est\u00e1n a la venta. Ten cuidado para no comprar las cosas dos veces.",
+        "languages": null,
+        "size": 7260340224
+    },
+    "70070000012890": {
+        "id": null,
+        "rightsId": null,
+        "name": "BLUE REFLECTION: Second Light Ultimate Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211109,
+        "nsuId": 70070000012890,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/09ddd351f7e26892486c9ded1ed0c9f4086238d95191c46137c8a0080638bc45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/45089a69001057c1b714725f3377d037323eb55de975ce654dadf230c747ec26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51651061ed1b7d60d3b2cca1d1b4c42ebacc7df042713bfafff900102b6e17a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bd67a47d70bab4e12a0737276c69639d59bf6a9144765e9df7322faa9a2c8a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1d88c718ec06845c0e2251653f8f63880d6e1ea4f9fe9e7b697a19dcf6f0d7a8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3548d1bc7709148d37c48c002f6390fe926efeb3d5ae29805d9cf7c4386f961f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8f574526f293c8895dbd2700c27b62e47befb0e6ac825c35d7d75f029d368d90.jpg",
+        "intro": "Todo queda iluminado al desvanecerse el \u00faltimo d\u00eda de verano.",
+        "description": "Con espectaculares dise\u00f1os transl\u00facidos de Mel Kishida y una historia que muestra la vida de unas chicas j\u00f3venes y realistas, basada en tem\u00e1ticas de la identidad y las relaciones humanas, llega una nueva entrega de la serie BLUE REFLECTION!\n\nContenido del lote\n\u25cfBLUE REFLECTION: Second Light Digital Deluxe Edition\n\u25cfBLUE REFLECTION: Second Light Season Pass: Te permite obtener 6 tipos de DLC que a\u00f1adiremos pr\u00f3ximamente. Los contenidos \u2460~\u2465 del Season Pass que se detallan m\u00e1s adelante se publicar\u00e1n sucesivamente, empezando en noviembre de 2021.\n\u25cfEl Season Pass incluye un extra por comprar la Digital Deluxe version: \"Sunflower Headband & Summer Sunglasses\", un accesorio de verano para Ao.\n\u25cfExtra por comprar el Season Pass: \"Hoshinomiya Uniform - Costume Set\", un lote de atuendos para todos los personajes (en total 9) basados en el uniforme de Hinako, la protagonista de \"BLUE REFLECTION\".\n\nContenido del Season Pass\n\u2460Lote de atuendos \"Hospitable Kitties\"\n\u2461Lote de atuendos \"Beachside Puppies\"\n\u2462Facility adicional para School Development:\"Vacaciones nocturnas de verano\"\n\u2463Mapa adicional \"Isla oculta del sur\"\n\u2464Mapa adicional \"Mazmorra de colaboraci\u00f3n con Atelier Ryza\"\n\u2465Crafting Function \"Ether Synthesis\"\n\nNota \u2460: Atuendos de criada gatita para todos los personajes (10 en total).\nNota \u2461: Trajes de ba\u00f1o con orejas de perro para todos los personajes (10 en total).\nNota \u2462: Adem\u00e1s de 3 nuevas facilities para School Development, incluye citas con cada personaje (sin voces).\nNota \u2463: Adem\u00e1s de una nueva isla y su mapa, a\u00f1ade el evento correspondiente (sin voces).\nNota \u2464: Adem\u00e1s de un nuevo Heartscape y su mapa, a\u00f1ade el evento correspondiente (sin voces).\nNota \u2465: Una \u00fatil funci\u00f3n para crear objetos.\n\nNota: \u2460\u2463 y \u2465 deber\u00edan de estar disponibles para final de diciembre de 2021, mientas que \u2461\u2462\u2464 estar\u00e1 disponible para final de enero de 2022.\n\nNota: Tras desbloquear la funci\u00f3n Change Outfit en el \"Locker Room\" junto a la piscina, podr\u00e1s cambiar a los atuendos con las taquillas del \"Locker Room\". (Solo podr\u00e1s hacerlo si la chica en cuesti\u00f3n es amiga tuya).\nNota: Para usar los contenidos \u2462~\u2465, deber\u00e1s avanzar suficientemente en el juego.\n\nNota: El contenido del Season Pass y los detalles y nombres del mismo est\u00e1 sujeto a cambios sin previo aviso, al igual que las fechas y el orden de lanzamiento.\nNota: Para saber m\u00e1s sobre el contenido, visita la web oficial.\nNota: Los contenidos \u2460~\u2465 incluidos en el Season Pass se vender\u00e1n por separado en un futuro. Ten cuidado para no comprar las cosas dos veces.\nNota: Tanto el juego como un lote de productos separado que incluye este contenido se encuentran a la venta ahora mismo. Ten cuidado para no comprar las cosas dos veces.",
+        "languages": null,
+        "size": 7452229632
+    },
+    "70070000012990": {
+        "id": null,
+        "rightsId": null,
+        "name": "FATAL FRAME: Maiden of Black Water Digital Deluxe Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70070000012990,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Temas insinuantes",
+            "Violencia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/951b373e9f7a8254f263a3d0890c3bf6294ed0db8875474cc00549c8067f6030.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1aefd106a991f685181bba18ea33232b7d407cbb09a2b1117ecf63ffa8ac91db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/017104c08a5d6ab4479244e404b64074ecaa8f86ea741d12a2134e27d2c3c18e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df32cd0021ed2914f2220740eb604f9eaf20fa8e1aa512f0ca4678879423aafb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7d734d19854290c00a25eb6dcb4ab4d69c0000c4c75d5f0ee5bec09977e4963.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ab13962def38ddd0e94a4af90c11f84cd10551d83194102a52793a4297acb03.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0d73cd5b4367aa3b544897a20267ad8fb4ec35afba487e60504c016f2e77cf74.jpg",
+        "intro": "Belleza y terror",
+        "description": "\u201cFATAL FRAME: Maiden of Black Water\u201d llega a Nintendo Switch\u2122 por primera vez para celebrar el 20.\u00ba aniversario de la serie de terror y aventura FATAL FRAME.\n\n\u25cf 20th Anniversary Digital Artbook\nEl libro de arte digital de aniversario incluye ilustraciones y m\u00fasica de la banda sonora de otros t\u00edtulos de la serie FATAL FRAME y puedes acceder a \u00e9l desde el men\u00fa del juego.\n\n\u25cf Past Protagonists Costume Set\nEn el juego estar\u00e1n disponibles los trajes de antiguos protagonistas de los juegos de FATAL FRAME:\n- Mio Amakura Outfit (de \u201cFATAL FRAME \u2161 Crimson Butterfly\u201d)\n- Rei Kurosawa Outfit (de \u201cFATAL FRAME \u2162 The Tormented\u201d)\n- Miku Hinasaki Outfit 1 (de \u201cFATAL FRAME\u201d)\n- Miku Hinasaki Outfit 2 (de \u201cFATAL FRAME\u201d)\n- Mayu Amakura Outfit (de \u201cFATAL FRAME \u2161 Crimson Butterfly\u201d)\n- Kei Amakura Outfit (de \u201cFATAL FRAME \u2162 The Tormented\u201d)\n\n[Historia]\nEl Mt. Hikami  se consideraba anta\u00f1o un lugar de gran fuerza espiritual.\nEn \u00e9l se desarroll\u00f3 una religi\u00f3n \u00fanica con creencias y costumbres basadas en la adoraci\u00f3n del agua como deidad, y se dice que ha sido escenario de un gran n\u00famero de incidentes macabros y fen\u00f3menos inexplicables.\nEsta historia entrelazada llena de misterios sigue a tres protagonistas (Yuri Kozukata, Miu Hinasaki y Ren Hojo) mientras exploran el siniestro Mt. Hikami, un lugar al que mucha gente acude para morir, y los secretos que encierra.\n\n[Jugabilidad]\nLos jugadores cuentan con la Camera Obscura, una c\u00e1mara especial que puede rechazar a los esp\u00edritus vengativos y sellar su poder, mientras exploran el Mt. Hikami y los incidentes que han tenido lugar en \u00e9l.\nLa historia se divide en misiones, cada una protagonizada por uno de los personajes principales.\nAdem\u00e1s de sellar los esp\u00edritus malignos que te atacan, la Camera Obscura tambi\u00e9n puede revelar cosas que el ojo humano no puede ver y te ayudar\u00e1 a recuperar objetos perdidos.\n\n[Nuevos elementos]\n- Resoluci\u00f3n de pantalla mejorada\n- Nuevos trajes y accesorios\n- Nuevo Snap Mode en el que puedes colocar personajes y esp\u00edritus libremente para sacar fotos creativas\n- Ghost List actualizada\n- Controles actualizados\ny m\u00e1s.\n\n\nNota: Tamb\u00e9n est\u00e1 disponible \u201cFATAL FRAME: Maiden of Black Water\u201d por separado. Ten cuidado y evita comprar lo mismo dos veces. \nNota: La Digital Deluxe Edition incluye el contenido de FATAL FRAME 20th Anniversary DLC. Ten cuidado y evita comprar lo mismo dos veces.",
+        "languages": null,
+        "size": 19484639232
     },
     "70070000013051": {
         "id": null,
