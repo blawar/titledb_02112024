@@ -3555,6 +3555,59 @@
         ],
         "size": 855638016
     },
+    "70010000007275": {
+        "id": "0100118009C68000",
+        "rightsId": "0100118009C680000000000000000004",
+        "name": "Figment",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211002,
+        "nsuId": 70010000007275,
+        "category": [
+            "Adventure",
+            "Action",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Crude Humor",
+            "Fantasy Violence",
+            "Language",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Bedtime Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/31be985fefd499aba59bf2e4026b9b957ac7df79b5509c1a2cf69a0d04cd2b51.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0afb399fd66853c534e3d827fd396da8f3bab0645ce2bbf122e6157c69fc7230.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2829caca94269ba9d4b20a9ea68d63190689c37ad9469071b96acc2d9a007853.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70a670fce15fdc7ed84cb92ea5ace62aaddaaf697f75fe083aab932493166c8e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/664df78ef8eb89cb6972614eb8d8f5d4059d5f92c1e98246db47171f980a9940.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/044555226dde8ec2f28cd6eb352a9555f1bc1f1f76c8b0ed2bfbd919078797b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a2d322c7e5109f685a1c471f2520097241cb03f16a7a836990b02fbf597b05b7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f4559b3956615e14e17e8fad94a14daf9815fc6c1fa1ccc6f0a319e9127316a7.jpg",
+        "intro": "Join Dusty and his optimistic friend, Piper, on an adventure through the mind",
+        "description": "A action-adventure set in the recesses of the human mind... Welcome to the world of Figment. A strange and surreal world; a place filled with our deepest thoughts, urges and memories, populated by the many voices we hear in our heads.\n\nThis mind has been quiet and calm for many years. But something has changed. New thoughts have started to emerge - taking the shape of nightmarish creatures who spread fear wherever they go. The only hope is for the grumpy Dusty, the mind's former voice of courage, to get back to his old self and help the mind to face its fears.\n\nJoin Dusty and his ever-optimistic friend, Piper, on an adventure through the different sides of the mind, solving puzzles to set things straight, beating back the nightmares and seeking to restore the courage that's been lost.\n\n\u201cBEAUTIFULLY UNIQUE STUNNER IS ONE OF THE YEAR\u2019S BEST GAMES\u201d\n9/10 \u2013 COG Connected\n\n\u201cthere is so much to love in Figment that you\u2019ll adore spending time in its colourful world.\u201d\n9/10 \u2013 God is a Geek\n\n\u201cIt\u2019s a dynamic score that is visualised in the world as it plays, and I adore it.\u201d\nRock Paper Shotgun\n\nA Whimsical Hand-Drawn World\nExperience how traditionally hand-painted brushstrokes come to life in a world filled with surreal art, colorful illustrations and charming characters. Experience the unique artstyles of the joyful Freedom Isles, the radiant Clockwork Town and the ominous Pathways.\n\nEnjoy a Full Score of Musical Performance\nMusic is an integral part of Figment. Explore a rhythmic environment full of trumpet trees, piano houses and singing enemies and discover how your actions influence this musical universe and its dynamic soundtrack.\n\nFight Nightmares Head-On\nTake an emotional journey to face universal human fears and help Dusty bring peace to the mind again. Overcome the Nightmares by using their dirty tricks to your advantage.\n\nUse Both Brawn and Brain\nFigment offers various challenges for all kind of players. Swing your sword skillfully at the enemies, rack your brain to solve puzzles and combine the two in epic musical boss battles.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1886388224
+    },
     "70010000007606": {
         "id": "010055D009F78000",
         "rightsId": null,
@@ -14684,7 +14737,7 @@
             "ko",
             "zh"
         ],
-        "size": 778043392
+        "size": 790626304
     },
     "70010000040472": {
         "id": "0100AEF014C82000",
