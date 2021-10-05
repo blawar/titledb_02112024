@@ -13602,6 +13602,57 @@
         ],
         "size": 186646528
     },
+    "70010000037414": {
+        "id": "01001B2013D72000",
+        "rightsId": null,
+        "name": "Evil Tonight",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211014,
+        "nsuId": 70010000037414,
+        "category": [
+            "Adventure",
+            "Action",
+            "Shooter",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "DYA GAMES",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dc9fae9f6f4c0e7a822972f1a07263ca6b21e887033755ff4ba009c6c35bf8da.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e44b86f0cc3e8e6d2209cb8ddc87901526f0706a93c5fbfb4921b2733c0de361.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab12b7340bdb01d36b7378f121967fbe424a403c42df72c6129a480b9c643d38.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd7c8eb59daafd6a28a07a85ec6559bc381f425558ad87abfcdf481393b6f4d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be2fc8502253137aa6e0c97b3a663ecf25a774bd0af2ad4632e34389f6e7899d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a08a27a0225e65c93976568dfdc482716829dea007dc10bee030e5ea2e577e6c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8211df4def59eaab5a10b5c2a162e68b49aaf3b786407cb1f082211540fbb2d8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/59d864bbde0e57135fb47fa894734e5b9a615838f5352d80985e7c2ddff79183.jpg",
+        "intro": "Prepare to face... Evil Tonight!",
+        "description": "Silvia isn't afraid of evil. Evil is her job. As a modern exorcist, Silvia has overcome countless horrors with her ability to materialize the evil of haunted places... But tonight... things don't go as planned\u2026 Fight, survive, explore, solve puzzles and uncover the mystery of... Evil Tonight!\n\nNo map. No hand holding. Like classic survival horror games of old, Evil Tonight features exploration in its purest form. Find items, discover hidden paths, solve puzzles, manage scarce ammunition, and fight for your life against the evil that lurks in an abandoned Performing Arts School where no two rooms look alike... With an array of evil creatures and memorable boss battles, prepare to be challenged!\n\nFeaturing stunning audio-visuals, Evil Tonight is presented in the highest quality of detailed pixel art graphics, with custom color palettes, handmade lighting effects, and a haunting full original score... it is an unforgettable and immersive experience like no other!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 122683392
+    },
     "70010000037430": {
         "id": "01004DE013EDE000",
         "rightsId": null,
@@ -15248,7 +15299,9 @@
             "Arcade",
             "Multiplayer"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
         "numberOfPlayers": 2,
         "rating": 6,
         "developer": null,
@@ -17122,6 +17175,47 @@
         ],
         "size": 102760448
     },
+    "70010000045521": {
+        "id": "0100F58016212000",
+        "rightsId": null,
+        "name": "SHINRAI - Broken Beyond Despair",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211029,
+        "nsuId": 70010000045521,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Language",
+            "Sexual Themes",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bdc4687d45f803fee4075a494446bd6a505d2c930cf48c4a29c04457fa786eb5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ebbb49ae39a841e8e81b6b8b35d5e13582a3808e37c9918852c2c606f5956be7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7207db6c4ec986ef995065d7f312c907da3cc1c3318bc22d259f72a4669b426.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/56d173d2488a4c35451bb38fb8885cc096714469e785d30c715e3ffc684f8fc7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d82753fea36950dbd47d9bee856b0087f8145df05dfbef3e422c073d7552337.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d545d3a71114ceb149baee34d52cb262bc7a838336f82a4541f3990379155db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2caf492497f9c321e766023fa675c852aa1e3c3cf81af0e4976219c6ea8738c3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a12fdf6f769249e9fa64f14b3d5a746f45e9183d673faf8477856cba1d236ebf.jpg",
+        "intro": "Will you be able to reach the truth and uncover the culprit\u2019s identity?",
+        "description": "A group of ten friends gathers at a secluded mountain resort to spend the night of All Hallows' Eve together. \n\nHowever, what was originally intended to be a fun little Halloween party quickly turns into an actual night of horrors. When one of the attendees is found dead, fear and uncertainty spread among the group as the friends realize they are trapped with a murderer. \n\nInvestigate, interrogate and present evidence as you solve various mysteries throughout the night. \n\nMaybe you will even be able to save a life! Or will your deductions lead you to blame someone completely innocent...?\n\nFeatures:\n* 150,000 word mystery visual novel\n* 5 different endings, including 4 bad endings and 1 true culprit ending\n* Clue notebook to keep track of the case facts\n* Detective ranking system\n* Unlockable bonus content\n* Original soundtrack",
+        "languages": [
+            "en"
+        ],
+        "size": 369098752
+    },
     "70010000045540": {
         "id": "0100952016222000",
         "rightsId": null,
@@ -17287,6 +17381,42 @@
             "en"
         ],
         "size": 265289728
+    },
+    "70010000045773": {
+        "id": "01007E201634C000",
+        "rightsId": null,
+        "name": "Puzzle 9",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000045773,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7eacad8c7e8c2ad1f17c350ee5a0de73514bb2f8b86f739500ca1700700d1999.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8cb4766eb6fc5ba75d8d31c098cf0a00a3c02bc23c1049ff0cd1240a50e45164.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ba0c55064205b8affb4813d1ff42116d0a75221fbbe072a486c57bf61f522c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f6e4fbe2d0f356b97ad716cd53d4bae52348a57b7d12b3e171e06eda488877f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b6ca4fb8995c9e18b2e246e1a39839daf1c8b7de987d7e93704f7ab71d0bf5b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/586e599ada81e1d3422791b54e612c13d1b9b8cb62eac3ba5aa029b131d5bfc9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb555c9b40c8df82b14be40b6deda992007317838b29d3ba3850ea212c9512e2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3b211b64dbede469ba58825d10ddfc7fdd491f354c8dea339c2d6108dc11fafb.jpg",
+        "intro": null,
+        "description": "Puzzle 9 can surely train your brain and increase your memory power with its 9 unique puzzle games.\n\nImprove your thinking and decision skills while having fun, for much less than one dollar a game!",
+        "languages": [
+            "en"
+        ],
+        "size": 48234496
     },
     "70010000045957": {
         "id": "010048B016406000",

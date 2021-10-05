@@ -13596,6 +13596,57 @@
         ],
         "size": 186646528
     },
+    "70010000037414": {
+        "id": "01001B2013D72000",
+        "rightsId": null,
+        "name": "Evil Tonight",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211014,
+        "nsuId": 70010000037414,
+        "category": [
+            "Aventura",
+            "Acci\u00f3n",
+            "Disparos",
+            "Rompecabezas"
+        ],
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "DYA GAMES",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dc9fae9f6f4c0e7a822972f1a07263ca6b21e887033755ff4ba009c6c35bf8da.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e44b86f0cc3e8e6d2209cb8ddc87901526f0706a93c5fbfb4921b2733c0de361.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab12b7340bdb01d36b7378f121967fbe424a403c42df72c6129a480b9c643d38.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd7c8eb59daafd6a28a07a85ec6559bc381f425558ad87abfcdf481393b6f4d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be2fc8502253137aa6e0c97b3a663ecf25a774bd0af2ad4632e34389f6e7899d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a08a27a0225e65c93976568dfdc482716829dea007dc10bee030e5ea2e577e6c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8211df4def59eaab5a10b5c2a162e68b49aaf3b786407cb1f082211540fbb2d8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/59d864bbde0e57135fb47fa894734e5b9a615838f5352d80985e7c2ddff79183.jpg",
+        "intro": "Prep\u00e1rate para hacer frente a\u2026 \u00a1Evil Tonight!",
+        "description": "El mal no le asusta. De hecho, es su trabajo. Silvia, exorcista, ha superado incontables horrores gracias a su habilidad de materializar el mal que habita en sitios encantados. Pero esta noche\u2026 las cosas se torcer\u00e1n. Explora, resuelve acertijos, sobrevive y descubre los misterios de\u2026 \u00a1Evil Tonight!\n\nSin mapa. Sin ayuda. Como en los cl\u00e1sicos juegos de terror y supervivencia, Evil Tonight propone exploraci\u00f3n en su forma m\u00e1s pura. Encuentra objetos, descubre caminos ocultos, administra la escasa munici\u00f3n, resuelve enigmas y lucha por tu vida, enfrent\u00e1ndote al mal que acecha en una Escuela de Arte Dram\u00e1tico abandonada, donde ninguna habitaci\u00f3n ser\u00e1 como la anterior\u2026 \u00a1Un inquietante elenco de malvadas criaturas y memorables combates contra jefes te pondr\u00e1n a prueba!\n\nExhibiendo espectaculares recursos audio-visuales, Evil Tonight que se presenta con precioso y detallado pixel art, paletas de color personalizadas, efectos de luz hechos a mano y una escalofriante banda sonora original que elevar\u00e1 la atm\u00f3sfera opresiva a su m\u00e1ximo exponente. Desde luego, \u00a1ser\u00e1 una experiencia inolvidable y absorbente como pocas!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 122683392
+    },
     "70010000037430": {
         "id": "01004DE013EDE000",
         "rightsId": null,
@@ -15241,7 +15292,9 @@
             "Arcade",
             "Multijugador"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violencia moderada de fantasia"
+        ],
         "numberOfPlayers": 2,
         "rating": 6,
         "developer": null,
@@ -17115,6 +17168,47 @@
         ],
         "size": 102760448
     },
+    "70010000045521": {
+        "id": "0100F58016212000",
+        "rightsId": null,
+        "name": "SHINRAI - Broken Beyond Despair",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211029,
+        "nsuId": 70010000045521,
+        "category": [
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Lenguaje",
+            "Temas sexuales",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bdc4687d45f803fee4075a494446bd6a505d2c930cf48c4a29c04457fa786eb5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ebbb49ae39a841e8e81b6b8b35d5e13582a3808e37c9918852c2c606f5956be7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7207db6c4ec986ef995065d7f312c907da3cc1c3318bc22d259f72a4669b426.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/56d173d2488a4c35451bb38fb8885cc096714469e785d30c715e3ffc684f8fc7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d82753fea36950dbd47d9bee856b0087f8145df05dfbef3e422c073d7552337.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d545d3a71114ceb149baee34d52cb262bc7a838336f82a4541f3990379155db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2caf492497f9c321e766023fa675c852aa1e3c3cf81af0e4976219c6ea8738c3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a12fdf6f769249e9fa64f14b3d5a746f45e9183d673faf8477856cba1d236ebf.jpg",
+        "intro": "\u00bfSer\u00e1s capaz de descubrir la verdad y la identidad del culpable?",
+        "description": "Un grupo de diez amigos se re\u00fane en una rec\u00f3ndita casa de monta\u00f1a para pasar juntos la noche de la v\u00edspera de Halloween. \n\nSin embargo, lo que deb\u00eda haber sido una divertida fiesta de Halloween, pronto se convierte en una noche del terror muy real. Cuando uno de los asistentes aparece muerto, el miedo y la incertidumbre se extienden entre el grupo de amigos al darse cuenta de que est\u00e1n atrapados con un asesino. \n\nInvestiga, interroga y re\u00fane pruebas mientras resuelves varios misterios a lo largo de la noche. \n\n\u00a1Quiz\u00e1 hasta le salves la vida a alguien! \u00bfO quiz\u00e1 tus deducciones te lleven a culpar a alguien completamente inocente...?\n\nCaracter\u00edsticas:\n* Novela visual de misterio de 150\u00a0000 palabras.\n* 5 finales distintos: 4 finales malos y el final del aut\u00e9ntico culpable.\n* Cuaderno de pistas, para ir guardando las pistas del caso.\n* Sistema de ranking de detectives.\n* Contenido desbloqueable adicional.\n* Banda sonora original.",
+        "languages": [
+            "en"
+        ],
+        "size": 369098752
+    },
     "70010000045540": {
         "id": "0100952016222000",
         "rightsId": null,
@@ -17280,6 +17374,42 @@
             "en"
         ],
         "size": 265289728
+    },
+    "70010000045773": {
+        "id": "01007E201634C000",
+        "rightsId": null,
+        "name": "Puzzle 9",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000045773,
+        "category": [
+            "Rompecabezas"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7eacad8c7e8c2ad1f17c350ee5a0de73514bb2f8b86f739500ca1700700d1999.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8cb4766eb6fc5ba75d8d31c098cf0a00a3c02bc23c1049ff0cd1240a50e45164.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ba0c55064205b8affb4813d1ff42116d0a75221fbbe072a486c57bf61f522c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f6e4fbe2d0f356b97ad716cd53d4bae52348a57b7d12b3e171e06eda488877f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b6ca4fb8995c9e18b2e246e1a39839daf1c8b7de987d7e93704f7ab71d0bf5b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/586e599ada81e1d3422791b54e612c13d1b9b8cb62eac3ba5aa029b131d5bfc9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb555c9b40c8df82b14be40b6deda992007317838b29d3ba3850ea212c9512e2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3b211b64dbede469ba58825d10ddfc7fdd491f354c8dea339c2d6108dc11fafb.jpg",
+        "intro": null,
+        "description": "Puzzle 9 seguramente entrenar\u00e1 tu cerebro y aumentar\u00e1 tu poder de memoria con sus 9 juegos de rompecabezas \u00fanicos.\n\nMejora tus habilidades de pensamiento y decisi\u00f3n mientras te diviertes, \u00a1por mucho menos de un d\u00f3lar por juego!",
+        "languages": [
+            "en"
+        ],
+        "size": 48234496
     },
     "70010000045957": {
         "id": "010048B016406000",
