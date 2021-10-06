@@ -6520,6 +6520,45 @@
         ],
         "size": 6866075648
     },
+    "70010000017793": {
+        "id": "0100BFB00D6E4000",
+        "rightsId": null,
+        "name": "Regency Solitaire",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211019,
+        "nsuId": 70010000017793,
+        "category": [
+            "Juego de mesa",
+            "Rompecabezas",
+            "Estilo de vida",
+            "Estrategia"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Jake Birkett",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7cb7092116590cec306c6a0429f8b7e6987c186d7d7ceb0f6e589bee07ded63b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e855935e8ec7e1d2bf16705dadcb886106f632cfd584eb0705585b7e297f1081.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/362b665494acc279a61233f0afb3edc5a5482b87c649583ac8389da83d7c8eb9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/469a204f96a72eabd0b8f79d9686f17fb418b98b3f143b814f4388534451293c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9c781411cfe2d9e23e8dcd0e87d2743a609b06819ad66452eccf6d34411a0d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b6d12e30709ff2b26497c9f838f5b4347564918ec80953eab6266e5bd2c876e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c94c5026af1d4f509bdc709e314579c55cdde8a256b089f985a7e7dffac2c8a1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/640710d1671e74bd7cb0e67ea51fb5d537b1ef73030ea434a0eb516e26db8bf7.jpg",
+        "intro": "Experience the romance of Regency England in this sumptuous solitaire game. Help Bella take charge of her destiny and create the ballroom of her dreams.",
+        "description": "Play your cards right as you tour historic locations, from stately homes and lavish gardens to the fashionable towns of London, Brighton and Bath. Decorate the family ballroom to unlock gameplay features and improve Bella\u2019s chances of finding true love!\n\nAvoid the clutches of the odious Mr. Bleakley, and reclaim a lost fortune. Cupid\u2019s arrow can\u2019t fail to find his target - in Regency Solitaire, love is always just around the corner.\n\nFeatures:\n\n* Smooth, satisfying solitaire gameplay.\n* Makeover Bella's ballroom and costume.\n* Sumptuous art and romantic storyline.\n* 180 unique levels spread over 20 chapters.\n* Unlock 31 exciting gameplay upgrades.\n* Normal and Hard modes.\n* Specially-composed, classical music.",
+        "languages": [
+            "en"
+        ],
+        "size": 260046848
+    },
     "70010000018023": {
         "id": "0100B1A00D8CE000",
         "rightsId": null,
@@ -9306,6 +9345,53 @@
         ],
         "size": 3300917248
     },
+    "70010000025461": {
+        "id": "01006F600FFC8000",
+        "rightsId": null,
+        "name": "LEGO\u00ae Superh\u00e9roes de Marvel\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211005,
+        "nsuId": 70010000025461,
+        "category": [
+            "Acci\u00f3n",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Violencia de caricatura"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 10,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8b533fc1405205f238b1b333e4c47ce0361d52bc9b0de3a3a408554c1f57d186.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/67b27735fe77b14f58e6621c3cac27be77dc76c524edd14c0e33dc5b714ab8d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c5b260b675c68e8b41d3b928caed2da42ee9139e53bab8e97a31f462f0510d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8961ce93df9688d17a88c9c2bf5234405c2eed11928bb68cf5504868e08c3091.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/afad3be7241fe2b84a6a896de088c158c067baa5ed2b57ab15440fd8c2bbc2f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/244f07fbb66f68ca0743a04cf3f3d333de64fb173684c57ae1cafcdacd543ca7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6a58e04a1eedcd6ae89666fb304514c1a9ce687522985228274428e3d5171a1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a87b6c21c03139337dccc2b7b89c15278c52997e65bdd088e52ba7006d0e3de.jpg",
+        "intro": "LEGO\u00ae Superh\u00e9roes de Marvel\u2122 tiene una historia original con todo el Universo MARVEL.",
+        "description": "LEGO\u00ae Superh\u00e9roes de Marvel\u2122 tiene una historia original con todo el Universo Marvel. Los jugadores toman control de Iron Man, Spiderman, Hulk, Capit\u00e1n Am\u00e9rica, Wolverine y muchos otros personajes de Marvel, quienes se unen para evitar que Loki y una multitud de villanos de Marvel construyan un arma capaz de destruir al mundo.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "size": 6325010432
+    },
     "70010000025496": {
         "id": "0100D0B00FB74000",
         "rightsId": null,
@@ -10829,6 +10915,50 @@
             "ru"
         ],
         "size": 11053039616
+    },
+    "70010000029068": {
+        "id": null,
+        "rightsId": null,
+        "name": "Slice of Life",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211008,
+        "nsuId": 70010000029068,
+        "category": [
+            "Juego de rol",
+            "Deportes",
+            "Arcade",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Referencia a drogas",
+            "Lenguaje fuerte",
+            "Temas insinuantes",
+            "Uso de alcohol"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Smallrave Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e8638bc779f23206683688e565443ef3714fde3e8a225cbf34f8dca984033f11.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b38da2f3b9b08036fc9b15db58c594dfb58de43ec18c140f6c6d400f4e3aa1d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f8e21c638d0453943b8f50cc796fb92df207dceb96947404b6ca9b419960af8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ba9fe583b7537457fe7d7e607dc6ca59a2f46558ca2d5c0e9fb2b5a3b557f90.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7cd719f2eeb52ff896d1fac6704324ccc0740fd59a84a20e6bb2a3cfb7cdb41a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15701468d2d870dfdf37d2de05244e532376bf465233b1575cb15f4d9afc88c3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a7b44189a43043c26058e8802a962e816f6fb5c9a0885e9dab1c0416087d6af.jpg",
+        "intro": "What Will We Do Today? Step into the shoes of Drake Lacasse as he starts a new life at Rosegate University. Battle on the court and search for answers to your past.",
+        "description": "Experience a twisting narrative filled with interesting friends and foes. Slice of Life features fast-paced arcade-style tennis action, a deep perk-based customization system and many\ncharacter driven storylines and social links. With tons of Sub-Games and several local multiplayer modes, you'll have a packed semester at Rosegate University.",
+        "languages": [
+            "en"
+        ],
+        "size": 0
     },
     "70010000029168": {
         "id": "01002D2011850000",
@@ -17168,6 +17298,54 @@
             "zh"
         ],
         "size": 2425356288
+    },
+    "70010000045333": {
+        "id": "01009AB01613E000",
+        "rightsId": null,
+        "name": "Duo Zombies",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211019,
+        "nsuId": 70010000045333,
+        "category": [
+            "Acci\u00f3n",
+            "Plataformas",
+            "Rompecabezas"
+        ],
+        "ratingContent": [
+            "Violencia moderada de fantasia"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Refold",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/415473000262d80f37fd11597c001fbcb2199f16ee68fe01ad61cd9d94a466d8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/419cbea8b3fd9e8b251017a483754536ecc90106c50cb0fc05556254a9f5fb2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3414a261b87e38c0cf69cf5b7690cb5efae76450fefd6fc9e8c13ac37f670af.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e0e68a2f02c3f0bf23725e9f2f0490643b1c981069211fd57e9875c19bf192af.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46306edfdb4cfa67f3eac9880510b86288522d528214235e6ceb112b8a30f632.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/623d5d2a2defc488434cb0b6fe2ec228934ec5c0e3d01f9f0b680f009443794b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30e6470192cb449831497f9e3c5f0260221b143aacc2465775910f6a4bbf7cfd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cc11713b7804b63720cd8fcdaaf6b421300b2bbed22f4a95f3ea3be7e85a8e62.jpg",
+        "intro": "Some friendships last a lifetime, but some last longer.",
+        "description": "Duo Zombies is a cooperative game where you help two zombie friends escape an evil facility through obstacle filled levels.\n\nUse your BRAAIIIIINS and logic to solve all the puzzles, avoid getting caught and most importantly, never leave your friend behind.\n\nSome friendships last a lifetime, but some last longer.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru"
+        ],
+        "size": 90177536
     },
     "70010000045474": {
         "id": "0100D730161DA000",
