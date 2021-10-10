@@ -16525,7 +16525,7 @@
         "languages": [
             "en"
         ],
-        "size": 1103101952
+        "size": 1102053376
     },
     "70010000042085": {
         "id": "01004A1015408000",
@@ -18912,6 +18912,51 @@
             "en"
         ],
         "size": 418381824
+    },
+    "70010000045728": {
+        "id": "01009B10162F4000",
+        "rightsId": null,
+        "name": "Zumba Aqua",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70010000045728,
+        "category": [
+            "Rompecabezas",
+            "Arcade",
+            "Acci\u00f3n",
+            "Disparos"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/61618c11a2c83584499c08780f8ceaad9e6a82aacf5f8f1cd1f473bf9e06ec03.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0681ca527bba70b6e5b41e0a7d036f2a0df01325a9f479f4e4b0bc0ac1dbb965.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/93324d7028c5299d647a2a8bc0ca0af8a22bed3e5542367c07d1d0736269a6cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8c4aa107350d3348b7a7e5e22810ae9d4ca27dce3b4dfce646168427462ce048.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/601b8d3712388dd7c4d26628607c9f8c1fd6a2e651e965325b7774a2983efb29.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d325d2ff26ac0e1ac3d8ec531ce41f697a4804dc390dfa2561bbc38858376a3b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cfed1c68e4568660d1e1291c7b636fd4cdaf965aa8eaeb52473d7a3579d84405.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a92824748714bbec2cbecd13127feb4582b2191decf1f319f08634b38c950918.jpg",
+        "intro": "Disfruta de un juego f\u00e1cil y sencillo de apuntar y disparar. Apunta con cuidado y destruye las gemas del mar. Explora todos los niveles y divi\u00e9rtete.",
+        "description": "Mejora tu punter\u00eda con uno de los juegos de puzles m\u00e1s populares. Dispara gemas e intenta completar todos los niveles con tres estrellas. \n\nDisfruta de un juego sencillo y adictivo.\n\nCaracter\u00edsticas del juego\n- Gr\u00e1ficos \u00fanicos\n- 4 potenciadores disponibles\n- 60 niveles distintos\n- Para ni\u00f1os y adultos\n",
+        "languages": [
+            "pt",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 75497472
     },
     "70010000045754": {
         "id": "0100D85016326000",
