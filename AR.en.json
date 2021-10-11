@@ -14144,6 +14144,44 @@
         ],
         "size": 731906048
     },
+    "70010000037110": {
+        "id": "0100C6D013D9A000",
+        "rightsId": null,
+        "name": "Space Invasion",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211016,
+        "nsuId": 70010000037110,
+        "category": [
+            "Shooter",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a544e39ab72cc6d7fb326073c47abd883e1c3f865bb369e016a365080f415755.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/43a95cc82b561ba872717ac1da22ddf8febc6951902ce8c284197f924c47c04d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd6d1fe88293fd3015c9e3c20b0e9d91e989e684488409a2931460998a3cce7b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/364b1e746572e2d05f86ad097020cbeb32cfb96f631efabce0023980bb096ae3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b56920a1c7dc82232a13e862365a4e96536f7c98c53b125878ebcb43a79e0b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d45a35ca97df29eaf466ded37f0260d18500e1e91f39e4df55199f4d3e3063ac.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8c826408c0401fedc09ed6cef6960613dd50af00e1623603de3dc332f1e016f3.jpg",
+        "intro": null,
+        "description": "Invaders come back from Space in this modernized top-of-the-art version.\n\nGet back into 80's with this old time classic alien shooter game. Enjoy the enhanced version with today device capabilities and revive the gameplay simple yet addictive of first generation video-games.\n\nCollectable weapons, many different types of invaders will guarantee hours of intense fun.\n\nShow off your shooting skills and destroy aliens waves after waves.\n\nIt's time for you to protect the planet from deadly invaders. Best of luck, Captain!\n\n\nEasy to master Gamepad controls",
+        "languages": [
+            "en"
+        ],
+        "size": 199229440
+    },
     "70010000037127": {
         "id": "0100366013DA8000",
         "rightsId": null,
@@ -19117,6 +19155,45 @@
             "en"
         ],
         "size": 1076887552
+    },
+    "70010000046108": {
+        "id": "01004510164CC000",
+        "rightsId": null,
+        "name": "Horror & Adventure Pinball",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211029,
+        "nsuId": 70010000046108,
+        "category": [
+            "Arcade",
+            "Simulation",
+            "Sports",
+            "Party"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SuperPowerUpGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/84b96b92a8a52470f2f05dcfa50b3c7fc3c485a557a7bb2611acf37c5a55f38c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a231eaf92e72f2ec1c4ae31846417fd4c8b330ead5f37e4df3d882340d36a866.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c1f65305e1af71c0d90d5fc6c40929da5372fffd3497609b9a73ae8f54816c5b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04a67a264e5035990c22bec4ae3d3c94b1f1f2e02acc7aa1b671a8f5fa61c051.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/76df1726b4b658129c87ccb5da44d66911829a07e7bf928edc8685d991a45623.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38a9d36e856916f21ee32d1f9ac19585a7da5583cc028460edf4db987445e306.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d0eef85ef98fd8542cfca9e859a2611094ea02253671d3c28e6011d72cebff1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f8e41a252896da41cd8a5cc82f73aa98fff60b061c6c96658ca4cc5a9158c8c3.jpg",
+        "intro": "This pack includes the games: Halloween Pinball, Werewolf Pinball, Mummy Pinball, Dragon Pinball, Pirates Pinball and Titan Pinball.",
+        "description": "Enjoy 6 games in one with the perfect reproduction of real pinball machines, with all kinds of graphic details and sounds.\n\nIf you prefer, you can also purchase them separately in the Nintendo eShop.",
+        "languages": [
+            "en"
+        ],
+        "size": 674234368
     },
     "70010000046130": {
         "id": "0100C6F0163B0000",
