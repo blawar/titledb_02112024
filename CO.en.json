@@ -5026,7 +5026,7 @@
             "fr",
             "de"
         ],
-        "size": 4168089600
+        "size": 4167041024
     },
     "70010000013359": {
         "id": "0100A4400BE74000",
@@ -5552,6 +5552,58 @@
         ],
         "size": 3190816768
     },
+    "70010000015023": {
+        "id": "01009C400C88C000",
+        "rightsId": null,
+        "name": "Almost There: The Platformer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211011,
+        "nsuId": 70010000015023,
+        "category": [
+            "Platformer",
+            "Action",
+            "Arcade",
+            "Racing"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "The Quantum Astrophysicists Guild",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/52cd4f581a0703c462c751f22f4e6959489c6cbed96eb1a42c9fe3477b0a6bc3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/85dcbdb426ee4083593e0ffe6e08a26a3e5c1f8168e3c0a76225b0ed70f562d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60bae298ad63d63859a835c0ceb67e2c5aeb36b78045109306949e60b2fdb9fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b833c251fc350851ac3f024973d96f92c5e427a438b8b71b081ff36000bfe2cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b9de46184146f2221df794d1cd79ab92ed8e0be86602a439346cc22641bac39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3774c5112c55f024a3cb7e72b0c0a4709c2acaf90d75de9919a17bad235e5467.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4b8423df3651c53daa35728a9d3b37d6e538d2927291d8e0ca2a7af55f50e6f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1596708b7c82a46e3338cc1301f335afb4b79b78400dfa2a6fd8f449ae9935d6.jpg",
+        "intro": "Pure. Precision. Platforming.",
+        "description": "Sprint between saw blades while dodging homing missiles. Duck under lasers while the floor crumbles beneath you. Almost There was designed specifically for hardcore platforming fans - you've been warned.\n\n100% Dexterity Platforming\nAlmost There provides uninterrupted platforming awesomeness.\n\nHours and Hours of Gameplay\nWith over 150 stages and timed challenges, Almost There will kill you thousands of times.\n\nSpikes, Saws, Lasers, Missiles, Oh My!\nEverything in Almost There is designed to kill you. Enjoy.\n\nCreated for platformer fans -- by platformer fans",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 389021696
+    },
     "70010000015034": {
         "id": "010049D00C8B0000",
         "rightsId": null,
@@ -5747,6 +5799,57 @@
             "zh"
         ],
         "size": 26536312832
+    },
+    "70010000015364": {
+        "id": "010037900CB1C000",
+        "rightsId": "010037900CB1C0000000000000000006",
+        "name": "Viviette",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70010000015364,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Action",
+            "Other"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "DYA GAMES",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f0fe95d8422146ce365473ca90f5fe358656024a24a91539c62d0cc9c3820701.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/819628da40dd3afcea2eceacf3c3f620aff1ea5bbf7a98d30febc4749d196331.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/384cb9f137d705946ba8d8a7191febcb1a25cb13802207f368e086d9122921e3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b71592c15bb44e3c02deff8208eafa44735e179a4eb901cf41a1e9b034d7f4ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a6d40f7d790c615c1d066f0ae696e3cb9182a3cbcda66c3045bf2689b5264408.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/757e352a770fae7a41005f768a25bfc5cd4af4ecc201d20dbca5b7f851b6774b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d499d95f9789fe4a5c2bf51c9649fc65d745a71ca69164210feb17cb0d53393.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2d255e788d49b3199a53ba5f1b7a3c494c81a83a0062515bd7257324f386bdce.jpg",
+        "intro": "Exploration, puzzles and a touch of classic horror awaits you!",
+        "description": "Uncover the secrets and mysteries of Neuville's Mansion. Test your logic against diverse puzzles, locate and use a variety of items, and don't lose your sense of direction, as navigation itself becomes an obstacle in your path.\n\n- Immersive exploration-horror experience. Unravel the mysteries and forgotten events of a place haunted and consumed by secrets, as you find mysterious documents that only hint at its tragic and macabre past... There is no map and no help. Just you, your alchemical lamp and... \u201csomething\u201d else\u2026\n\n- The \u201cMonster\u201d. It can appear anywhere, and at anytime. Yes, you can try to run... but for how long? Will you switch off your lamp and use the shadows and natural light to your advantage? Will \u201cIt\u201d detect you if you stand but an inch away in total stillness? You hear its footsteps approach\u2026 What will you do?!\n\n- Challenging puzzles. Facing ingenious and unique puzzles with no obvious and simplistic answers, you will need to use all the clues the environment provides to find the hidden answer.\n\n- Items and inventory. Find and use a diverse and creative assortment of items in order to progress through the adventure. A well designed inventory keeps your belongings carefully sorted and provides descriptions that, in some cases, even hide clues...\n\n- Multiple endings. The best one, the \"GOOD\" ending, is not the norm - it is the exception. It is a reward for players who think differently, explore every shadow and mystery, and for those who hold luck on their side...\n\n- Original and Breathtaking Audio-Visuals. This handcrafted adventure is presented with high quality 16-bit pixel art visuals. A labor of love created by a single artist. There is a fully unique and explorable mansion \u2013 With no two rooms the same and each individually designed with its own identity. Every pixel, every detail, every crack in the wall has been intentionally placed and designed by hand meticulously to tell players a story using no words. Our outstanding 90\u2019s visuals are enhanced by lighting effects, disturbing 3D positional audio, and a completely original atmospheric soundtrack.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "zh"
+        ],
+        "size": 132120576
     },
     "70010000015568": {
         "id": "0100E5D00CC0C000",
@@ -5945,6 +6048,55 @@
         ],
         "size": 18920505344
     },
+    "70010000015897": {
+        "id": "010065C00CD98000",
+        "rightsId": null,
+        "name": "Bot Vice",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70010000015897,
+        "category": [
+            "Action",
+            "Arcade",
+            "Shooter",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "DYA GAMES",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/599bac51cf4b5d14b39be7f6cf157b2f0dd9ab940e58fa4c9b15e7d7473c75d4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/55dfc69fba44d04118feb78a84ad8bb8f62232bfe50137708f779bfa01a47da6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c28382eda0b77cf04a0ef9646f7f4c3ccd596190d7c36a012c4eca102ddaceb1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39be3a8cceeb51d37ec178faec97087f4085f3c197d99e991f96ce479e5104ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3ded643275a79d3bb7b98a3f0efbf26913d6c1db981b3f13721da64a4cc0aaa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b3198b3b472730f8caba27a5928a74277848b3eb788ee184f29b427f1dd6c72f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1b363ab1bf4ba6f9adc6b4e4a909dc50e12f89062be266637712cdea445100d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3b8c3f804da57667c54ecb5fac9e3be1234f23bf4bbd0bd4a941d9016e57984c.jpg",
+        "intro": "Fast paced action-packed gallery shooter!",
+        "description": "Show off your skills and reflexes in this frantic gallery shooter arcade action title - Filled with bullets, bots, and explosions! You play as Erin Saver, who carries out a personal vendetta against the criminal gang the Wildbots while bringing them to justice.\n\nBot Vice features an automatic aiming system that completely redefines the gallery shooting genre and lets you focus on what really matters: shooting, dodging, and having fun! Master the controls until you find yourself FLOWING to the rhythm of the most intense gallery shooter ever made. Erin won\u2019t level up, but YOU will.... Are you ready for the challenge?\n\n- Super intense arcade shooting action!\n- New enemies, dangers, and bosses at each stage!\n- Unlockable \u201cExtra Missions\u201d mode.\n- Three difficulty levels: Insane, Warrior, and Rookie.\n- Polished and colorful pixel art visuals.\n- Catchy 90\u2019s synth-rock soundtrack.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 170917888
+    },
     "70010000015971": {
         "id": "010027400CDC6000",
         "rightsId": null,
@@ -5996,6 +6148,56 @@
             "zh"
         ],
         "size": 12730761216
+    },
+    "70010000016120": {
+        "id": "010060600CFDE000",
+        "rightsId": null,
+        "name": "Strikey Sisters",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70010000016120,
+        "category": [
+            "Arcade",
+            "Action",
+            "Adventure",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Alcohol Reference",
+            "Mild Fantasy Violence",
+            "Mild Language"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "DYA GAMES",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e62f2a04662f4f16c3b41011aa824cb6a9250b533be0d565056e8e4723d62b52.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ae3eeb4ddae6b6c6e2e49678d28a7579e15aa9c612c2db9f6b09e6b373ca7195.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77ebcf62b3177d91deb832f30258c2e0d2748b1cf303f870632d72e8931925f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce411bbb745132c64c7c7f4420fc2bb517f1ae230039c78395a96f4c442c759a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22e484c51fc650349c4eb57ac4274e0f47757a51bad13e406b44817a409becf2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1740169b1e8cf20083da386c3ab4496a984f3af0d61b1218e0d1ad5be35ee4da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1542a1c12e195b793f200881af2cf1dc216aed37d1a39d0144a50f2f636c37cc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7779d48fa0f8eb877d0be1b4c21e594e4e201a50cec2701654ac38c4c8b6b8cf.jpg",
+        "intro": "Brick breaker action arcade plus local 2 player co-op mode!",
+        "description": "Say hello to a fantasy themed arcade action brick breaker! Featuring cute characters, silly humor, powerful magic, crazy boss battles, and even a local 2 player co-op mode!\n\n- Fast-paced brick breaker action!\n- Intense boss battles!\n- Local 2 player co-op mode.\n- Three difficulty modes.\n- Travel and conquer the world map in any order you want!\n- Unique player, ball, and spell power-ups!\n- Highly replayable! Uncover all the map, collect gems, unlock secret areas and extra levels, and complete the bestiary!\n- Polished and colorful pixel art visuals.\n- Catchy synth-fantasy soundtrack.\n- Cheesy 90's game voice acting!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 178257920
     },
     "70010000016211": {
         "id": "0100F9F00C696000",
@@ -6833,6 +7035,55 @@
             "zh"
         ],
         "size": 807403520
+    },
+    "70010000018422": {
+        "id": "0100A0F00DA68000",
+        "rightsId": null,
+        "name": "Monster Sanctuary",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211012,
+        "nsuId": 70010000018422,
+        "category": [
+            "RPG",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood",
+            "Tobacco Reference",
+            "Users Interact"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Team17",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7920755d3d074e86efcf38a5a5924ca1ee0e2ec43a1c35033807fcbdfbfb03ec.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/34a1161a1b2046e6e62d19b0ea0c476ad6049a3611047fe1bf4fd679a51a7eef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bf7d76a4f50fff35bf1c59a5ff99e51b2a843632ec63039707c31e676f060fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/037683b3c96987be9f2d99eb7ff731fd6569d809d038cb7f68df3fac6f1e6e3d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94a4202585bb63f556a86171487fd9b22ed68ce160f81fa0aa131331ff546c78.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/800b43cab824d61f2bfea457aea84d9aefa64b006cd21c4b3148749869bd8ceb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f2cc5addd27b18e41e44fc924153399f45f5043eff6807fc6b605013a563179d.jpg",
+        "intro": "Monster taming meets metroidvania. Collect, train and battle monsters in a lovely side-view pixel world.",
+        "description": "Choose your spectral familiar and follow in your ancestors\u2019 footsteps to become a Monster keeper and save the Monster Sanctuary.\n\nEmbark on an epic adventure using the powers of the monsters you collect, and the team you build, to unlock an ever-expanding world. On your quest to become the ultimate Monster Keeper you\u2019ll unravel the cause of a mystery that threatens the peace between humans and monsters.\n\nExplore a Metroidvania inspired world.\n\nThe powers of your monsters will allow you to explore and expand the world. Cut down vines, smash down walls and glide over gaps- all with the help of your monsters.\n\nAssemble your team.\n\nHatch collect and train monsters from across the world and build your team. Every monster has a unique skill tree to allow you to customize and tailor your party.\n\nClash in tactical 3V3 combat.\n\nStrategically order your attacks for maximum efficiency, stacking your blows to create combos. Grind and find the best combo to earn the rarest monster eggs!\n\nBattle Monster Keepers across the world!\n\nGo head to head in a test of skill and ability in online player vs player! Gather and train monsters, max out their skill trees and take on friends and foes in an epic battle until your monsters are the last standing.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 677380096
     },
     "70010000018502": {
         "id": "0100B6400CA56000",
@@ -8441,6 +8692,55 @@
         ],
         "size": 1001390080
     },
+    "70010000021116": {
+        "id": "01000D700EAA0000",
+        "rightsId": null,
+        "name": "Gurgamoth",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211011,
+        "nsuId": 70010000021116,
+        "category": [
+            "Action",
+            "Fighting",
+            "Multiplayer",
+            "Party"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 10,
+        "developer": null,
+        "publisher": "The Quantum Astrophysicists Guild",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9428c703301bda6f65970b0f92763167facbed8f42cd21f0987b20bb9cce87ce.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/da2a599a79aac44cb6961b58f7b56d08cf4ca35f290ef0efbbcebc2104983b80.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e51a3f694a2e7f3a2bc317d514577cf4a246a4a674e0392866a921d553813c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a2c8c20f1f38878e3366d2db34df9f8c51c3b495e3cde7a65027f2ecb16d840.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/28928241c88dc2406fcf752279c1aa96038e495cbbb1231a781cc83da0bbca25.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c80a70ae27dcfa2e872b6288c9d0dbe0a9899e906c592aee2e63fe8db6417033.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5f6b16930cab43144ad0b62778470af0ea9edb821889a69c4adbcfed3f6a665e.jpg",
+        "intro": "Gurgamoth is a flying fighting game where the level is your weapon.",
+        "description": "Gurgamoth is the perfect mix of party chaos and competitive strategy, ideal for sitting around on the couch with a couple of friends.  \n\nYour only weapon is the level itself: a shifting battlefield with different hazards.  Gurgamoth is fast, relying on quick timing, but also your ability to read your opponent.  Will they dodge your attack and send you flying into a spinning saw blade?  Will they spend their attacks on a power-up, leaving them temporarily vulnerable?  Will they anticipate your attack and stun you while you're recovering?\n\nGet inside their minds and earn the honor of awakening Gurgamoth.\n\nGurgamoth features:\n\u2022Unique levels, each with their own dangers.\n\u2022Game-changing power-ups.\n\u2022Tight flying mechanics.\n\u2022Fantastic visual design.\n\u2022Fast, party-friendly matches.\n\u2022Face killer bots.\n\u2022The most fun you'll have summoning an elder god.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru"
+        ],
+        "size": 406847488
+    },
     "70010000021243": {
         "id": "01007C600EB42000",
         "rightsId": null,
@@ -9249,6 +9549,59 @@
             "pt"
         ],
         "size": 227540992
+    },
+    "70010000023327": {
+        "id": "010074300F7F6000",
+        "rightsId": null,
+        "name": "Roundguard",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211011,
+        "nsuId": 70010000023327,
+        "category": [
+            "Arcade",
+            "RPG",
+            "Puzzle",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "The Quantum Astrophysicists Guild",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/72abe3c62a5396818d4565abdd3600f8b07180512928f98a03a4a7ce549250c8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a7e547139422219c3c17278a14efe0e0e67d98a09175dfc01b88989cb4998968.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40a49f1ce0a0cefd19e788000e2f9614318ceac665a00e513a45e555e4487de8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f3fd12f0102258571269a7ab370a06ac77658880693f72449834cc87fc89395.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f7e0c506ce3034d8aba24aff3e372b37e83d666b57ebfdbdac5b761697fb8fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c344cf7bd5c4fecf5a6d3cfacfc3d20503519018a8268570b4c9966161d797c5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d09e5497f9373519ae04fde6365b9d1effe6c3e7122f85863388168ad81652aa.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9570edd3d6690c6fe82dde370d8f0cacdc857b97271ab29a13b765533abb315b.jpg",
+        "intro": "A bouncy dungeon crawler with pinball physics, lots of loot, and a randomized castle full of oddballs.",
+        "description": "Castle Springbottom is under attack! It's up to the Roundguard to save the king and -- more importantly -- recover his gold! Fling your hero into the face of danger and bounce off hordes of dangerously cute monsters to reach the bottom of the dungeon. With only one life, you'll need to learn how to navigate hazards, make strategic choices, and master your hero's skills if you hope to defeat the final boss. But don't worry, the Roundguard always bounces back!\n\n\u2022 Bouncy Fun: Intuitive pinball-physics-based gameplay like no other dungeon crawler.\n\u2022 Multiple Classes: Play as the Warrior, the Rogue, or the Wizard, each with their own unique skills, items, and cheeky sense of humor.\n\u2022 Randomized Dungeon: Each time you play, levels are procedurally generated, and quest events and elite monsters are randomly placed.\n\u2022 Permadeath with Benefits: When you die, you\u2019ll have a chance to bring a special trinket with you on your next run. The more gold you grab, the better your chances to collect one of the most powerful trinkets.\n\u2022 A Cast of Oddballs: Chat with the castle\u2019s colorful cast to pick up quests and learn why some rats want their king dead, what\u2019s irritating the local teenage skeleton today, or what the Warrior will do if you can\u2019t get to a bathroom quickly enough.\n\u2022 Lots of Loot: Over 100 items and trinkets, each with effects that present strategic choices and combo possibilities.\n\u2022 Show Off Your Skills: Compete on the leaderboards and try to master all the challenging, rule-bending relics.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 307232768
     },
     "70010000023569": {
         "id": "01000B600F918000",
@@ -11224,7 +11577,7 @@
         "languages": [
             "en"
         ],
-        "size": 3106930688
+        "size": 3160408064
     },
     "70010000029168": {
         "id": "01002D2011850000",
@@ -11998,6 +12351,53 @@
         ],
         "size": 4358930432
     },
+    "70010000031099": {
+        "id": "0100DCF0120D2000",
+        "rightsId": null,
+        "name": "Space Otter Charlie",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211011,
+        "nsuId": 70010000031099,
+        "category": [
+            "Platformer",
+            "Adventure",
+            "Action",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 10,
+        "developer": null,
+        "publisher": "The Quantum Astrophysicists Guild",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b342e09a3edb2c53c06135ccd82d3b601d9964af5caaf8ace1c1a046fd237c09.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b91cd9ba05e529ed8dd77ed102ad7a9c5b19600ff7defd62bad8433e4bb52409.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1b2e2b5f4d056d415967f88a8e04a0219fe7ed73b09b55aa279b7860382a5c6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d74bbb8ee842d246c65da3a8cebf0d52362ae44ac258785797daacd4ef462f1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9d647a2f9b5d05f8efff6e816ea6131aae9c4c0284df713dde406b34a54c92b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b786d2f06d47b76e998a3ad29cc4768ae054ffb1bdb6413631a9029f1cd0b5a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b777ef49da1c219c24961dbbd2faaf2202770e2318b96eb9b04707c0a07cdb55.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/38916301857fad136454bba66e3f40f2f7f97f721801a9b29f8bfc86053b8e76.jpg",
+        "intro": "Jump, Float, and Rocket through Otter Space in this Zero-G Puzzle Platformer!\n",
+        "description": "With humanity gone, it\u2019s up to the otters to save animal-kind from an inhospitable Earth. Join Charlie and his ragtag crew of critters on a daring mission through Otter Space as they search for a new planet to call home. Explore derelict space stations, battle unhinged robots, and enjoy some otterly terrific puns as you jump, float, and fly through over a dozen levels of furry fun.\n\nZero gravity gives classic puzzle platforming a whole new twist. Anything that\u2019s not bolted down floats freely, making for a plethora of fresh new puzzles and predicaments. On your way, you\u2019ll find plans to craft all kinds of gear, from jetpacks to ray guns - even a foam shark suit?! It all helps you on your quest for a furrier future!\n\nFeatures:\n\u2022 Zero-G Platforming - Turn your brain upside down as you jump, float, and rocket your way through physics-fueled levels.\n\u2022 Cool Gear and Upgrades - Craft new gear and unlock new space otter skills from parts you find along the way. Pull out your Reflector Ray to ricochet your shots around corners or leave a path of destruction as you slide through enemies with the Electric Slide. From Jetpacks to missile launchers, Charlie\u2019s got all the coolest toys.\n\u2022 Wacky Space Suits - Sure, an otter\u2019s gotta wear a suit to survive the deadly vacuum of space, but he can still look great (and CUTE) doing it! Plans for new suits are hidden through the game - each with a fun new look and its own unique and powerful weapon! Want to see an otter wearing a shark suit? Charlie\u2019s got you covered.\n\u2022 Action-Packed Multiplayer - Looking for more action? Battle your friends in frantic 4-player arenas. Fight for food supremacy in So Urchin mode, or just let the fur fly in a Furry Fury deathmatch. \n\u2022 Become an Otternaut - Just how many hairs are in a square inch of sea otter fur? Dazzle your friends with this knowledge and more as you uncover all kinds of fun facts about sea otters hidden throughout the game.\n\u2022 Fun for Everyone - packed with action, puzzles, and a healthy dose of cute, Space Otter Charlie is designed for all ages to enjoy.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 1479540736
+    },
     "70010000031707": {
         "id": "010026D0122B8000",
         "rightsId": null,
@@ -12559,7 +12959,7 @@
             "de",
             "it"
         ],
-        "size": 2459959296
+        "size": 2513436672
     },
     "70010000034025": {
         "id": "0100B82012E86000",
@@ -14627,11 +15027,11 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/072aa9b8997dba6dd332d3078368ad5f27edb7f3b42624f2a986cc31d8987848.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/59305aac27529a0476f5937540c10aa63bfccb4e2868d7390a33236fdd72e1d6.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/6c97f182bfff8fb1a49b306cddc7b375a182c10ceee022bc8d536928b76d605e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25a3f7efebf40266e0ffc7d483dc9cc76bb54afb30ab4d490b7bc3e284451782.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8280bf19865f8a9ff63d4380139e1416ac966cbd723c06c9484fd03097890e62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a0efbf417552698f827545644728d04c3471fa112626909d64330890ec6ff6ad.jpg",
             "https://img-eshop.cdn.nintendo.net/i/74ae0dbaeba8ae69d75018b4c84b7269dacf26daa21ec244f98755cb6f6abd26.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b41e365f493c3d876362fd7b837813233dd1cde3b26c024cc7a279570a6c7a23.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/a598a5596a3d28149f0d2c779dbc9db97a4598f63fd9dfa27ee258b60dd49c24.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f5d9b52b6c1e9f85de3e2677dda931320bc959c96a4f8b8b25b9b3f6cc5a2635.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5b970df519ce26caaba0e12b8cc3b94e2cefc20b2fbb9be24b0fd9e0eb3e144f.jpg",
@@ -15733,6 +16133,57 @@
         ],
         "size": 843055104
     },
+    "70010000040287": {
+        "id": "0100EA6014BB8000",
+        "rightsId": null,
+        "name": "Just Dance\u00ae 2022",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211104,
+        "nsuId": 70010000040287,
+        "category": [
+            "Music"
+        ],
+        "ratingContent": [
+            "Comic Mischief",
+            "Lyrics",
+            "Mild Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 6,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9e25cca32a94beeda51a79be7b043242cd645e53cd5647e79600ec26391655d9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0c150b12f8b96319e67ec0d71af0fa8636f3811a7aaed42be5943372b841b3be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/02057bd85e7bd204dbc4bfaa480ad36992b9bad0116e53ab5d13190ae455454a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aaa8cac4e57381e99f9f1a7ebc92318c06cf7cc8c970401f4e3c633006e30401.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/72492f4875b785e12a59be74fd47e9a0e9ffa175557654c48149f6e90e5b833e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f70ebf624f6f5472139c36cf8bef0d31aadaf8575aec1fe64198a62c6f10144f.jpg",
+        "intro": null,
+        "description": "Just Dance\u00ae 2022, the ultimate dance game, is back with new universes and 40 hot new tracks from chart-topping hits like \"\"Believer\"\" by Imagine Dragons, \"\"Level Up\"\" by Ciara, and more!\n\nLooking for the perfect game to dance to the latest hits and share some fun with friends and family? Just Dance 2022 is for you!\n\n\u2022 Exercise while having fun and start your own your routine with Sweat mode.\n\u2022 Team up with your friends and rule the dance floor in Co-op mode.\n\u2022 Engage the little ones with eight kid-friendly songs and choreographies with Kids mode.\n\nJoin more than 138 million players around the world and dance it out!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 7046430720
+    },
     "70010000040418": {
         "id": "010077A00CB58000",
         "rightsId": null,
@@ -16214,6 +16665,7 @@
             "Multiplayer"
         ],
         "ratingContent": [
+            "Fantasy Violence",
             "Suggestive Themes"
         ],
         "numberOfPlayers": 2,
@@ -16627,6 +17079,46 @@
         ],
         "size": 1404043264
     },
+    "70010000042149": {
+        "id": "0100A1B01543C000",
+        "rightsId": null,
+        "name": "Damn Dolls",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211011,
+        "nsuId": 70010000042149,
+        "category": [
+            "Action",
+            "Adventure",
+            "Other"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "QUByte Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/68742040feb6410d50088e89089b831e93384ec4f41514ab0a5e5cdba3154032.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cab5ebbda71f2e92034115efa1644e43672e27a9811f78c598778b5a60fb60eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23c7880298349e1f09062dfd8cc09cde85eebd100c2737fed0d93bff57041443.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/82428ba8b3af3ffc0dc3047252ddaf4bc224b6a90b2c9c2d3c0c968c03b4715c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b7c1480abe9162ee6c6ad543c812f56e08ad368b63a0bf0892fcc6d0750c67f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b762ace17ee7f7baad08bfbe8380ccdefd4b18742bdff6250a90134c72d4564b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f2dbc1f2a8ed60e738f505a219d5a6f0d9f50127090be145e9ffa29eb0c7ec73.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4044184fd5c7a2b5819455e2f65397f43fb1bf9731996d629062963f62752fc0.jpg",
+        "intro": "Survive the dolls' attacks and eliminate the source of evil in order to leave the house.",
+        "description": "Damn Dolls is a first person horror explore that set in an abandoned house in the forest. You are Suzi and your best friend \"Ana\" is missing and the only evidence you have is that \"Ana\" was seen near this mansion, that the former owner of the property was killed by local residents for being accused of kidnapping and killing a girl. \n\nFind ammunition to load your weapon, discover hidden messages on the walls and grab keys to unlock doors.\n\nYou will find presences in the house that do not want your company, like three possessed dolls and a big creature with huge teeth.\n\nBe careful, this game has several Jump Scare and is inspired by a lot of games of terror and suspense.",
+        "languages": [
+            "en"
+        ],
+        "size": 429916160
+    },
     "70010000042151": {
         "id": "010086901543E000",
         "rightsId": null,
@@ -16680,6 +17172,46 @@
             "zh"
         ],
         "size": 1453326336
+    },
+    "70010000042256": {
+        "id": "0100FF5015492000",
+        "rightsId": null,
+        "name": "Demon Turf",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211104,
+        "nsuId": 70010000042256,
+        "category": [
+            "Platformer",
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Playtonic",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7671012259f6ac82af13da64babaf809d00670104d47a782f0d2873fc5f577c9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b2764baee06d7add6463e8f24a6d0b02d814d19cf52227c2aacdc945b28d2381.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/169155325f26c48119370205d9d6ec5cc60a88715a0c20d195e57c27bd02ea89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c435b20cc61a39c544d4b980c946353bb83420a79e0baf752521eff0e08ac9e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/89dd9dfa698477acb9afa6954a29c2c8a429bfd4cbd66bae2737921d249d46d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7888e5f24909e1700f60532141190bd22d8a4e403017fcb1f5bcebd6b3dfaa16.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af3c2a55a810e226dc1861f0b459007d9ff9bea7b8b5682ebe4c1c6e9a302b29.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a1becd83e044c62eae8c814ca24ab4a7d16e97f83f94cfca731eeb71e43fc865.jpg",
+        "intro": null,
+        "description": "The Demon World is inhabited by all kinds of nasties... Most of them lumped into gangs battling for dominion, each led by its own head honcho. Yet even these bad dudes are no match for the Demon King himself! Instead, the task falls to Beebz, a young demon barely a thousand years old, who decides it\u2019s time for her to kick every turf leader\u2019s butt and become the Demon Queen herself.\n\n\u2022\tA unique aesthetic combining the expressiveness of 2D illustrations with the depth and sense of exploration 3D environments can offer!\n\u2022\tA world chock-full of humor and style, from the music accompanied by the protagonist\u2019s rapping to the colorful characters inhabiting the world!\n\u2022\tA unique take on progression! Take a victory lap and explore previously beaten levels to discover their liberated state, with plenty of mechanical and environmental changes to uncover. Or take some time off in the hub town taking on sidequests and other distinct challenges instead.\n\u2022\tPull off some clever platforming combinations or get physical with a special physics-driven combat system that ramps up the chaos and fun. Push, pull and spin your enemies out of your way.\n\u2022\tA different take on checkpoints, freeing the player to place them wherever they want. Show off without them for a perfect run, or place one in preparation for a challenging section.\n\u2022\tUnique challenges like the \u201cPhoto Hunt\u201d mode where you\u2019re tasked to take pictures of hidden locations & surprising moments! Or simply take pictures and selfies for fun and share them across all social media!\n\u2022\tAn awesome collection of purchasable mods that can be combined in clever ways to completely change your playstyle! Or you could buy some dyes & pets instead, the world's your oyster!\n\u2022\tTons of carefully crafted levels that constantly introduce new challenges as well as engaging bosses full of character and life! Until Beebz gets to them...\n\nFrom the makers of Slime-san comes their newest creation! The team used everything they learned from their 2D platformer to elevate this 3D platformer to the next level!",
+        "languages": [
+            "en"
+        ],
+        "size": 3272605696
     },
     "70010000042626": {
         "id": "0100BEB015604000",
@@ -16816,7 +17348,10 @@
             "Multiplayer",
             "Action"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Fantasy Violence",
+            "Mild Language"
+        ],
         "numberOfPlayers": 4,
         "rating": 6,
         "developer": null,
@@ -17182,7 +17717,7 @@
         "size": 1285554176
     },
     "70010000043209": {
-        "id": null,
+        "id": "0100854015868000",
         "rightsId": null,
         "name": "STAR WARS\u2122: Knights of the Old Republic\u2122",
         "version": null,
@@ -17204,7 +17739,7 @@
         "developer": null,
         "publisher": "Aspyr",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2d45579b8ceed8a0bb4ea22c54a702da2d2d8bd4666a152cece31c90f4243238.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/60a1b0d661e4b6959c2d0cb7672d24d301bf913cc17cedec319f0baa43ebd0a9.jpg",
             "https://img-eshop.cdn.nintendo.net/i/8103ef6ad0067ebad7d5b02d89919351308b4df019cf4f6eaac02ff9f7613963.jpg",
@@ -17215,7 +17750,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e708cb17b0efa88729f5818e2101022beb1071e262aad0e96a98e4bd49c1428d.jpg",
         "intro": "The legendary RPG classic, now on Nintendo Switch\u2122. ",
-        "description": "Four thousand years before the Galactic Empire, hundreds of Jedi Knights have fallen in battle against the ruthless Sith and you are the last hope of the Jedi Order. Can you master the awesome power of the Force and save the Republic? Or will you fall to the lure of the dark side? \n\nA Star Wars epic set in the untouched era before the rise of the Empire, filled with unique characters, creatures, vehicles and planets.\nA deep RPG experience with customizable characters and meaningful choices that impact the story, your squad, and even yourself.\nHarness the power of the Force with over 40 different abilities and wield your own lightsaber.\nAdventure through eight enormous and iconic Star Wars worlds, including Tatooine and Kashyyyk, in your own starship, the Ebon Hawk.\nChoose your party from and build everlasting bonds with nine unique crewmates, including Twi\u2019leks, droids and Wookies.\n\nHero or villain, savior or conqueror... you alone will determine the fate of the entire galaxy!",
+        "description": "Four thousand years before the Galactic Empire, hundreds of Jedi Knights have fallen in battle against the ruthless Sith and you are the last hope of the Jedi Order. Can you master the awesome power of the Force and save the Republic? Or will you fall to the lure of the dark side? \n\n-- A Star Wars epic set in the untouched era before the rise of the Empire, filled with unique characters, creatures, vehicles and planets.\n\n-- A deep RPG experience with customizable characters and meaningful choices that impact the story, your squad, and even yourself.\n\n-- Harness the power of the Force with over 40 different abilities and wield your own lightsaber.\n\n-- Adventure through eight enormous and iconic Star Wars worlds, including Tatooine and Kashyyyk, in your own starship, the Ebon Hawk.\n\n-- Choose your party from and build everlasting bonds with nine unique crewmates, including Twi\u2019leks, droids and Wookies.\n\nHero or villain, savior or conqueror... you alone will determine the fate of the entire galaxy!",
         "languages": [
             "en",
             "es",
@@ -17223,7 +17758,7 @@
             "de",
             "it"
         ],
-        "size": 0
+        "size": 12603883520
     },
     "70010000043292": {
         "id": "0100939011ED4000",
@@ -18599,7 +19134,9 @@
             "Arcade",
             "Adventure"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
         "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
@@ -18881,6 +19418,48 @@
         ],
         "size": 75497472
     },
+    "70010000045750": {
+        "id": "0100B9A01631E000",
+        "rightsId": null,
+        "name": "Reminiscence in the Night",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211022,
+        "nsuId": 70010000045750,
+        "category": [
+            "Adventure",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2b479758943b9c8217ea83b1333de3e91c8235eaf8d4e608dc08988056ba2bc5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/06c35d91ade39b17b05a4c062d9b7ed0fc1a756d9e60199ff866b24fa3fcf470.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c47ca931cb74ea6cc4a647a9399e1c431444e5fd459fba230009aeb8d24a761a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e13ff270584fe5611bdd61724b63f9c86703a334cf32306fa95164ea6c30706b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dfb40a30fead180ee76ca02751083e61ee440bbddf156de01ba979082bed3860.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b863e26c46da7f3a901e4be7bab9b4c4ee883903f64c6e46df6b927247b2af2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e26aff7d4510d3331994044eab7ab01069438dc3546aa02c6116534f340e6a1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a7765e113cc62bf985b6f367dad82ea853ce4e8ec4f5714622bd596c5d6f3d2d.jpg",
+        "intro": "Unlock your memories and discover the emotional wounds of your past.",
+        "description": "You\u2019re trapped in your apartment. You have no memory of your past.\n\nAs you try to escape, you rapidly understand that you must confront your traumas, and the only way to do this is to let your choices guide you to freedom.\n\nInteract with different items in the apartment to invoke new scenes and memories, speak on the computer with your childhood friend, Sofia, to further the story.\n\t\t\nYour choices matter. \n\nWhat happens to the main character and their memories is in your hands.\n\nFeatures:\n* Visual novel interface with choices\n* Point and click puzzle gameplay\n* Your choices change the outcome of the story\n* Somber, enigmatic artistic aesthetic",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de"
+        ],
+        "size": 256901120
+    },
     "70010000045754": {
         "id": "0100D85016326000",
         "rightsId": null,
@@ -18953,6 +19532,90 @@
             "en"
         ],
         "size": 48234496
+    },
+    "70010000045796": {
+        "id": "010010001636E000",
+        "rightsId": null,
+        "name": "Robot Car War: Transform Battle Machines",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211011,
+        "nsuId": 70010000045796,
+        "category": [
+            "Action",
+            "Fighting",
+            "Racing",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Game Mavericks",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/16784ea3e54f999636411e4cdb640f2491816a4b467928c6efc81da6b5425b27.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9d270d9c286c92848f2eae82a5f9d5096a8a1c14ee3de45af316419bda642697.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94b2b92331e71e5efbb1cd86fe04fba00fb847056c242fb0c449f63c7b85b73b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/663f94596630c64a3e20c6c9e297edc29540b06f3426abc47262407e0e2f1ecf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c30c9097f88927aabb3d4b244e368afa842b212be7fb9fc59569b439ddbd7349.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ddebd4e3dedd070de70c67bd91112aae582cdd4af2d5012364706f693cf0834b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a6ae3b2b63faaf5a8cfe4ea9a1ce5f18f862e720f55b5c041edc7ab70146104.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c79b5d7e6ce29ab7ef25ef3fe71bbb8841da159ee5ebc887b88423a8eccea17e.jpg",
+        "intro": "City robot battle is raging on - take part in a full scaled robot invasion! Become a fighting robot and wreak havoc.",
+        "description": "City robot battle is raging on - take part in a full scaled robot invasion! Become a fighting robot and wreak havoc - defeat armies of shooting robots and humans alike. Fight your robotic battle your way - shoot, throw, transform and unleash your ultimate robot smash power in the battle of city robots!\n\nRobot Car War features:\n \n> LOTS OF GUNS - use varity of destructive weapons\n> TRANSFORMATIONS - turn into tanks, cars and aircrafts\n> OPEN WORLD ACTION - explore huge city torn by war \n> BOSS BATTLES - defeat huge and armed ti the teeth robots\n\nSTOP THE ROBOT INVASION\nCity robot battle begins - and with it start your action packed robot action adventure. Plunge into chaos of war between robots and humans and win this battle, no matter the side! Play intense sci-fi action game as it should be!\n\nUNLEASH ROBOT FIGHTING POWER\nPick a fight and pack a punch - you have all the power your need! Fight your enemies with numerous powerful use, pick and throw cars to use them as a weapon, transform to evade fire and traverse the city - your fighting robot is an ultimate battle machine of immense firepower. Thrust right into heavy robot action!\n\nBATTLE ALL OVER THE CITY\nEntire huge city is your battlefield. Be ready to have a battle anywhere any anytime - on streets and on rooftops, hand-to-hand or with firearms. Go through the series of challenging battles in an epic story campaign, or explore the city find those in need for help. Each victory will let you become stronger for the next battle!\n\nFIGHT THE MOST CHALLENGING ENEMIES\nDefeat the hordes of enemies, humans and robots alike, and get ready for the big brawl with big battle robots. Face unique and dangerous bosses, that will put all of your combat skills to the test! Gather power ups and weapons and come up with unique tactics for every boss battle!\n\nAction, adventure and invasion - smash robots and save the city!",
+        "languages": [
+            "en"
+        ],
+        "size": 359661568
+    },
+    "70010000045811": {
+        "id": "0100A340154E6000",
+        "rightsId": null,
+        "name": "Endocrisis",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70010000045811,
+        "category": [
+            "Arcade",
+            "Shooter",
+            "Action",
+            "Other"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Buschmann Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1319277783ae3d6d9c61618c9b6642ba391386a486ca1700fe37db27748d8927.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/88c350ebd68b97cd64e7eb830cf12f428ae76f7f78836e02d0050ec26abedab1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e8a47192ad41165b1bb07f39af7b0a4746a830a144209c2e8d6972aaa441ac9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae94e695e48c0729d7801eb16419fff3442a67311fc4ebdc012eb391f4a5e1e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5583336b3b1a96bf4d363e7035b8e52e20063d543612e69c7b843b53ce17083d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b5d414c82679afe902f79c44b2ff8d1a52360d8dc322d68dd74cf11f2e88783.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f93a6f04afc893fac8fb4542578ae6170aeab11600f7ece609870abcbe77a32.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d99cea809c0deb215e44dc33353ddb8e66a95faebd388298c99d5f7f99423669.jpg",
+        "intro": "Absorb or use your armor against the bullets!. Endocrisis is a technical shoot'em up. Combat against big bosses and increase the power of your ship through levels. ",
+        "description": "It is not just evading bullets!. Endocrisis is sometimes described as a Puzzle Shoot 'em up. Bosses have attack patterns that you must learn, which are suitable to absorb or better to block. \n\nThe game's main goal is to increase your power and learn new abilities to beat the 6 guardian bosses that will allow you to face the game's final boss. \n\nIt is a non-linear game. You can choose any order to complete the game and get upgrades.\n\nYou have 60 Continues when you start a New Game. If you lost all of them, you could still play, but you can't continue on the same level., so use it wisely.\n\n- Lose power while are you shooting\n- You can block bullets and impacts by stoping shooting\n- Recover power absorbing yellow bullets\n- A green bomb can protect you if you have enough power\n\nBut be careful other bullets you must have to evade it or block it.\n",
+        "languages": [
+            "en",
+            "es"
+        ],
+        "size": 1251999744
     },
     "70010000045957": {
         "id": "010048B016406000",
@@ -19412,6 +20075,40 @@
             "en"
         ],
         "size": 78643200
+    },
+    "70010000046895": {
+        "id": "0100B11016870000",
+        "rightsId": null,
+        "name": "Pro Flight Simulator",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211022,
+        "nsuId": 70010000046895,
+        "category": [
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8b06e12c01fc98c07fae61fb77c2d91c151936b06dd28c23013c6ab3eeb3f4c2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8068d4141652dabfd567b36660e1de8f9b6da5b26bebd15d139c54cfd1a05a2f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49ebaea9c745f75ab6df5494b6fb731d258a9be7502bd4d594156a875630ac6a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f537c3999ccccf69f433801d5a1265fafe8a9a0c2f2faff0b2491c577823ad6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/53d28894f03bd92f2345afeaa414d2737b9351f10be235f74f3e3e1f6046da40.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7d95ba8035e43c49dac1daad858fbc7e404e8adc063a5b2ead5433971541d395.jpg",
+        "intro": null,
+        "description": "Take flight in real airplanes across this massively detailed open-world flight simulator. Explore high resolution sceneries. Take off, fly and land successfully back to airport.\n\nThis very complete flight simulator will allow you to fliy on modern fighter like Fairchild Republic A-10 Thunderbolt II as well as tourist airplane, like Embraer EMB 314 Super Tucano.\n\nEnjoy the joy of flying while listening to 'Pix Arts Pro Flight Simulator' playlist on the leading music streaming service.",
+        "languages": [
+            "en"
+        ],
+        "size": 843055104
     },
     "70030000000042": {
         "id": null,
