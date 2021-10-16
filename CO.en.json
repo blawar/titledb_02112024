@@ -5429,7 +5429,7 @@
             "de",
             "it"
         ],
-        "size": 121634816
+        "size": 123731968
     },
     "70010000013197": {
         "id": "0100A5B00BDC6000",
@@ -8670,6 +8670,53 @@
         ],
         "size": 16195256320
     },
+    "70010000019422": {
+        "id": "01007DD00DFDE000",
+        "rightsId": null,
+        "name": "Dyna Bomb",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000019422,
+        "category": [
+            "Action",
+            "Platformer",
+            "Arcade",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "7 Raven Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/85551afc2da959a16f7eab7fa5e6ad50b131e848a94618bd372f02f6ce140855.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cef425d400f794cc942b74483e4e5f05d0b68e567e71e839f604789b69eb8dcd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74d8876a49994453b5c488a720b2f0f3c22c6dbb592a23585228b7b553016a35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f953cdc37b752899a3d48228150681881e7f194144b668693b6cf0169fa01ff5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b61a8acfc64e6d044829c35c6110117bc4591ae4ad4e60cf87dc1992b8bfbca0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61c3af38003519eaddb409b9474a4be3354ba54e9ee3093b63b3c28db01b65bf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58d626d0520cedbda4ba184bb6d7ca36c9027dbd65af20521bcd0aff00b36f0f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c8b5aa8c76020f6f4cda994447295121efe7dbbe82774dbf84321b31e239bc2.jpg",
+        "intro": "With 64 explosive levels - and 8 gloriously animated worlds. This arcade smash is a real feast for the senses, with superb artwork and thunderous explosions - oh so many explosions!",
+        "description": "Experience the manic arcade action as you dodge enemies, fling bombs and grab the treasure - before making a mad dash for the exit. Do you have the skills to find the secret levels? Can you master all the different power ups and dominate the worlds?\n\nIf it moves, detonate it. Dyna Bomb has an intuitive arcade action game play, with a blast of humor . Enjoy features like, the wheel of fortune to discover hidden extras, player powerups, different characters designs and much, much more!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt"
+        ],
+        "size": 145752064
+    },
     "70010000019477": {
         "id": "01008D100DE46000",
         "rightsId": null,
@@ -9202,6 +9249,53 @@
             "ru"
         ],
         "size": 1329594368
+    },
+    "70010000020171": {
+        "id": "01002DE00E5D0000",
+        "rightsId": null,
+        "name": "Metaloid: Origin",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000020171,
+        "category": [
+            "Action",
+            "Platformer",
+            "Adventure",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "7 Raven Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/325e4115c0d362779cf30ea6f67372d27bd29e552799a93e24edf7caa5953b9f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/827594a0bceb4733462b977361cc7d01627abf6f8d128e126e8071cb56258670.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c4f983f12d6ce188fdd2b7f1193d2e7703e392965e162d37d89a9a6cfc2b91a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06a7084ddb6a3efba05a482476a2c2ee2582e606c0ebc1a1c91ce6c05890974e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e2287f9fa96b8f0bd29ef9101a66fe0b4707018424e657534c573c5f80a421d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4c4e3c0a9825a62a5ccbb978ba43195bd5dcb47c07f4d9982ecdfa592994244.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2dd335a568a734612bb949470a296dfe714d499ba6474d71b9e7ed6e20e8cf1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/469f7ead279b8385fbed4c2394fa515a06d54637d1d928eefe01040fb6e52c3f.jpg",
+        "intro": "Metaloid: Origin is a wonderful action platform game full of colors and explosions.",
+        "description": "Metaloid: Origin is an fast-paced gun\u2019n run 2D platformer. Take on the role of one out of three android warrior's known as \u201cPredator\u201d and dash through 9 different levels in order to save their planet from an robot army led by Lucian Corp, whom invade their planet and exploit the planetary resources to fuel their galactic war efforts.\n\n3 Playable Character\nChoose and play as one from three characters which all offer different set of abilities and weapons!, Play as Erika and flood entire screen with barrage of bullet fire, alternatively reduce giant enemies to ashes in the blink of an eye as Zeta using atomic thunder or fly as Neva across the level equipped with jetpack to bring aerial doom.\n\nDash through 9 levels with unique tileset theaters and gameplay mechanics.\nFrom waterfall cave to scooter interception in desert, riding cart in volcano mine and fighting a giant walker on a snow field.\n\nCollect Soulrium and unlock new equipment\nCollect Soulrium gems from levels and enemies, then use them to purchase new weapons and unlock new powers from anywhere in the game by simply opening pause menu, however some upgrades will require more than Soulrium to unlock them.\n\nDifficulty Settings\nMetaloid: Origin features 2 difficulty settings to choose from for the player, some gimmick or enemies would function differently depending on which setting you did choose. On the hard difficulty mode enemies would move faster, deal more damage or even gain new attack type.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt"
+        ],
+        "size": 110100480
     },
     "70010000020339": {
         "id": "010032E00E6E2000",
@@ -12289,6 +12383,104 @@
         ],
         "size": 1600126976
     },
+    "70010000027475": {
+        "id": "0100CD3010AE2000",
+        "rightsId": null,
+        "name": "Crysis 3 Remastered",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000027475,
+        "category": [
+            "Action",
+            "Shooter",
+            "First-Person Shooter"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Strong Language",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Crytek",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9743b1bb18f8b7e40947a037557131be402985046b4e57f7c2c4796abe024b30.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7c764849735de78bf14170e4cc85a2134cf809529a8ee9c6fa3ddd9ac0aa1ad9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed97ed95ed031e518d401a37c6d27f443f4b40fd6f5b6b0bbef61156cfebf57d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b658114b798a38134bb478d132d7bdbc445d3b640f4b156ddf8fa5b74dce539.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9e6c3a1d29e2c9b57021a0694415ae251e046a409092751374c773a9b41e450.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0fc15bd32dbb9f8869430b59ab1982d51610c56b59021b3db0d2e60af8c0c89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f1d1668b8b2fbadb7339b5986729c1ffdb4a1d6bf9640dcc4f5c37639410a84.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ae76641741b91fe093da2fe3a8d4da30afc276ac4a3b225cd87f5332ac792b2c.jpg",
+        "intro": "Experience the single-player experience  from the iconic first-person shooter, Crysis 3, optimized to take advantage of today's hardware in Crysis 3 Remastered.",
+        "description": "In Crysis 3 Remastered, the fate of the world is once again in your hands. Returning to the fight as super-soldier Prophet, wielding a powerful auto-loading Predator Bow that fires electric, explosive, and carbon arrows, take on new and old enemies that threaten the peace you worked so hard to achieve. The search for the alien Alpha Ceph continues, but now you must also expose the truth behind the C.E.L.L. corporation, which has turned New York City into a sprawling urban rainforest sheltered by a giant nanodome. Equipped with your legendary Nanosuit, you must assess, adapt, and attack as you choose your path and fight through seven distinct districts. Decimate your opponents in a blaze of brute force using the Nanosuit's superior technology, or use stealth to achieve your goals and become humanity's silent savior. There's no wrong way to save the world.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 11003756544
+    },
+    "70010000027478": {
+        "id": "0100582010AE0000",
+        "rightsId": null,
+        "name": "Crysis 2 Remastered",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000027478,
+        "category": [
+            "Action",
+            "Shooter",
+            "First-Person Shooter"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Strong Language",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Crytek",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/628f3436b87a02061bf9014ee7949fc379564c75364e66dca290fb1e54e9c095.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b7b4c23583a7f5cca962b8e439e1eae64916275afebcf42bf39a1a1bf4cdd0d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/916509c70dc7239e8fc2947c1eb00f5893a46dfb7888afa466337b67362b90a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3dee6a6577e64c61655e2790a0e319c5fa4fc67eb68bb46b597f883f31e47e2f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad4311db0118ac673163b2a1278142ff4132edb8650c610e719c255ef197f633.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5074d68ddc59d967d6b80d4e55249bd8627eea027a07037aa48f2b433b15ee47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61c37f562e770b2b84a56486df015349db4d668b90acbf77cc5076616002ecf5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3110f153cfa60db65b1b2f578f98005c43e73739afc213c98891e13927618f06.jpg",
+        "intro": "Relive the legendary single-player campaign  from the classic first-person shooter, Crysis 2, optimized for today's hardware in Crysis 2 Remastered. ",
+        "description": "Following the events of the groundbreaking original Crysis, aliens have returned to a world ravaged by climate disasters. As the invaders lay waste to New York and begin an assault that threatens the total annihilation of humankind, only you have the technology to lead the fightback. Playing as a super-soldier equipped with the upgraded Nanosuit 2.0, you must adapt to the battlefield using its game-changing Stealth, Armor, and Power abilities. Customize your Nanosuit and weapons in real-time and unlock incredible new powers as you battle for humanity's survival. ",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 11161042944
+    },
     "70010000027499": {
         "id": "010018F010CD2000",
         "rightsId": null,
@@ -12387,6 +12579,45 @@
         ],
         "size": 7644119040
     },
+    "70010000027790": {
+        "id": "0100589010EFE000",
+        "rightsId": null,
+        "name": "Containment",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000027790,
+        "category": [
+            "Strategy",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Finite Reflection Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ac6b3e12893a8ebdbe722d91a5f080b6b87524119281bc5eb5ebe28353dbe5d8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/384518c2283d2212c0c49124cca17fed23a95a26561a08d0885116464f86ce58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fe4287915ea24e6f69af6d6fcf488f2b49c50b8e21edb475eef52c2327af0ae9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de62b1ea5ef902cac773d2674030272200fd762a9e30fc0c40165a5aebc87221.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b221f678f1c86368bab8d52ea659917a84ef6aa2c61862e863b1f3ac3c795ff3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5224ceb2839efd4961fb4e0a9b9ff2a739caa9d5015a36089cd7f86c9494d468.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/491ff92143035d6ba62d5556b68cff93dfcf6ea81104d3a610224a786f6d630a.jpg",
+        "intro": "Simple Rules - Deep Gameplay, Cute Visuals - Serious Strategy, Easy to learn - Challenging to master",
+        "description": "Containment is a small, minimalist strategy/simulation game where you try to maintain the growth of bacteria. The core gameplay is easy to pick up but very challenging to master. The game can be completed in one sitting, but has leaderboards and challenging goals to accomplish that might take longer!\n\nCore Gameplay\nContainment is turn-based; the bacteria proliferate, you fight back, and the cycle continues. There are a number of rules that give depth to the strategy involved in achieving three stars on each level:\n- You have a limited number of doses\n- Intentionally ending your turn early and letting the bacteria grow lets you research stronger antibiotics\n- All bacteria lose one health per turn\n- Any bacteria without neighbors die the next turn\n- Every isolated bacteria gains you bonus points\n- Each extra dose at the end of the game earns you bonus points\n\nAesthetic\nThe game features a mix of cute and sleek design with a visually pleasing color palette and satisfying interactions in every corner. The music is soothing and relaxing to listen to while you battle the unending bacterial proliferation.\n\nContent\nThe game contains the following amount of content:\n- Comprehensive and interactive tutorial\n- 14 brain-teasing and challenging levels\n- A creative sandbox mode (unlocked at the end of the game)",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de"
+        ],
+        "size": 166723584
+    },
     "70010000027858": {
         "id": "0100C56010FD8000",
         "rightsId": null,
@@ -12437,6 +12668,47 @@
             "zh"
         ],
         "size": 6899630080
+    },
+    "70010000027931": {
+        "id": "01004B301108C000",
+        "rightsId": null,
+        "name": "Ghost Sweeper",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000027931,
+        "category": [
+            "Arcade",
+            "Action",
+            "Puzzle",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "7 Raven Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4dd948051e0a204c90379eef5e7b29cebfb399aa70907ca00b5e8c92b769e4b0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1968b7f8f219b425665533940f7fa359d78fe2ff6b239a2764751eedce4c3716.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b5bbcf381a398df7d7b1b79e6423168dfb09d339a89a762b1b959e002a6e17eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd744bffad82f98e4e8ee811c68c76d6beaa5e76591675e12db2209eda9828c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9cb615fa953af0730be294c10c39f47f080d7dac0e45aa472eb33d47b75d97c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20dfb0883d916f8fc03be79bbf3f56765db856926d18e727b4d0e2e899cf04bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b3ae87a0cf3e1db35fe5887ecceb38f0d94fc92389c58e02c8a78e8ba5378c1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e5ac29d434cfd941800845aade4973d4edb4bf47c168e08f5cc2e511996b3125.jpg",
+        "intro": "Amazing classic game in a modern view.\n\"Solomon's key\" inspired game with many add-on",
+        "description": " After many centuries the dark lord is resurrected from his ashes, coming back to his castle and cursing the lands all around!!\nNow many ghosts and undead wander freely haunting every place, giving to the people only one option, escape!\nBut when the hopes seem fade away... usually the heroes appear!  The \"Ghost Sweepers\" are here! Ready to kick out some clumsy monsters! \n\nPrepare yourself to face the most fun army of darkness ever seen! Rounded ghosts, laughing pumpkins,  creaking skeletons and many other weird creatures are waiting for you!\n\nYou will explore 8 different zones from the Dark forest to The Evil Lord Lair passing trough the haunted villages and graveyards. Each zone have many levels and many secret levels!\nIf you manage to find all the secrets, the gates to an hidden zone will be opened as reward! \n\nMany items, cartoon graphics with many fun details, a game-play that mixes action and puzzle.\nYou can count on your agility and quickness or maybe plan a perfect strategy and avoid any risk, is all up to you!\n\nChoose the \"Ghost Sweeper\" who fit more with your style, ( or maybe more appropriate for a specific stage). Look everywhere in search of treasures and use those treasures to buy useful items In the shop!\n\nAre you smart and skilled enough to defeat the dark lord? (And maybe steal all his gold!!?? )\n\nGhost Sweeper:\n8 Different Worlds\n2 Hidden Worlds\n8 Levels for each world\nHidden levels\n2 Different Heroes\n",
+        "languages": [
+            "en"
+        ],
+        "size": 135266304
     },
     "70010000027969": {
         "id": "0100DD30110CC000",
@@ -12583,7 +12855,7 @@
             "ko",
             "zh"
         ],
-        "size": 7675576320
+        "size": 7674527744
     },
     "70010000028226": {
         "id": "0100DCA011262000",
@@ -13334,7 +13606,7 @@
         "languages": [
             "en"
         ],
-        "size": 3160408064
+        "size": 3159359488
     },
     "70010000029168": {
         "id": "01002D2011850000",
@@ -13847,6 +14119,55 @@
             "de"
         ],
         "size": 5307891712
+    },
+    "70010000029804": {
+        "id": "01000C6011AC2000",
+        "rightsId": null,
+        "name": "Rusty Spout Rescue Adventure",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000029804,
+        "category": [
+            "Puzzle",
+            "Arcade",
+            "Fighting",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Mild Language"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "7 Raven Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8c6efa5922efeac35ddf31ad1d6f59e337358811406548e8b830d1503da039ab.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1e49f93e910b0898543d89561687ecf624cabdaf9802c8dd3bc9554f2b65dd04.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/173049ae27f5043e44d4ff6cb7d6f60fabb3b618f62f0a1e02c2fbf3461006a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad49e2d0e0b32d48f12124bcdb99e3a107bbbd5257f69c7ac04c74e106a66e92.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9100a8001a4885bf70e23e262a8ef80228f9363af9b8aecab4c01ce257ebcf59.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0856bd5e17e5ac337d76e706a42558550529bab5f319659a433dbaed1a23a20e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5edea839a2a210eb479deda0dad1f9635333fdf49228569e638c4e4c3f290d5b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c781cf564baa27766b7f80f360d08a05017a668f905617ccfc1c71a8180a975a.jpg",
+        "intro": "5 Different Worlds\n50 Different Levels\n7 Characters to use in Endless Mode and Battle Mode",
+        "description": "\"Rusty Spout is a lonely but honest pirate. He sails around the world looking for new adventures and always helps people in need.  \n\nCocco the evil pirate has kidnapped all the children from Rusty's village. \nNow, he needs you to help him defeat Cocco and his monsters.   \n\nNavigate with Rusty Spout through five different beautiful worlds, each one with 10 amazing levels.   \n\nBeat Cocco's monsters at the end of each world in an epic boss battle. \nFree all the children to unlock special characters. You can use them in either Endless or Battle mode.\"\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru"
+        ],
+        "size": 242221056
     },
     "70010000030011": {
         "id": "0100BF9011B52000",
@@ -14382,6 +14703,52 @@
         ],
         "size": 278921216
     },
+    "70010000031917": {
+        "id": "0100E66010ADE000",
+        "rightsId": null,
+        "name": "Crysis Remastered",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000031917,
+        "category": [
+            "First-Person Shooter",
+            "Shooter",
+            "Action"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Strong Language",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Crytek",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7f4d41bf9dbc8f7379e2f7530b8e969220dfdc933506ec8eaab7085267533a50.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e20dcb3832b1173e0714fde093af8dd834d16165533349e74016a74e603227b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6bacee18417d46a1e5171fadbdf84cf5e98481d026d5f337360e1be7320109f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14284afe15b514941547c5fbff30c66811faa08f992c86c2dda845dc02dca526.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f9ae817e7616514399c4bce8f6035b7afb54937da5da7c9fbb074ad65a54d24.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ae2a723e147a3a25ffce4d2263486099a721020729ce4a22e47427d806efa590.jpg",
+        "intro": "The classic first person shooter from Crytek is back with the action-packed gameplay, sandbox world, and thrilling epic battles you loved the first time around.",
+        "description": "Suit up:  Your Nanosuit\u2019s speed, strength, armor, and cloaking allow creative solutions for every kind of fight. \n\nAdapt: In an ever-changing environment, adapt your tactics to dominate on battlefields ranging from frozen jungle to alien environments.\n\nCustomize:  A huge arsenal of modular weaponry provides unprecedented control over play style, with options ranging from the experimental to the alien. \n\nConquer:  Life-like enemy AI require a strategic and flexible playstyle, as new challenges \u2013 including a zero-g battlefield\u2013 require players to take the offensive and be proactive.\n\nExplore: Choose your own path through the open world of Crysis, destroying obstacles, driving vehicles, and using the environment itself against your enemies.\n\nWhat begins as a simple rescue mission becomes the battleground of a new war as alien invaders swarm over a North Korean island chain. Armed with a powerful Nanosuit, players can become invisible to stalk enemy patrols, or boost strength to lay waste to vehicles. The Nanosuit\u2019s speed, strength, armor, and cloaking allow creative solutions for every kind of fight, while a huge arsenal of modular weaponry provides unprecedented control over play style. In the ever-changing environment, adapt tactics and gear to dominate your enemies, in an enormous sandbox world.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 8044675072
+    },
     "70010000032052": {
         "id": "0100B4D012490000",
         "rightsId": null,
@@ -14470,6 +14837,55 @@
             "zh"
         ],
         "size": 1572864000
+    },
+    "70010000032459": {
+        "id": "010017C012726000",
+        "rightsId": null,
+        "name": "Fantasy Friends",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000032459,
+        "category": [
+            "Simulation",
+            "Lifestyle",
+            "Party"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "JUST FOR GAMES",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b4b5392c306135d4ce3d6417833ca0466f1c4e23dbaf69376e6c831ef2bbaa66.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a6372bb447cb780e3f5e302e1e42a93fcc22c2f5a8936cfe785451b9379d92aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/071b9cf66cc4361d47aa046f4dcc13f9b54063f76c5b112fbfb2268033128676.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e90e9495e53c671008400988a3a3091b769b2faba92cb2892e1df0d0bc1eac47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b986f8543130f30d10c0148631111304acb384d949ee104737fe7d449b4596b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d185f550789b957aaef9355c8058b07355b78dcfda5c71544d12bbdd807dfe68.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b6bc65fd5417bd5ddbb741834e116e1ee686f9e1f57d59a579e0bdf7ec62c114.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/71bbb99c8c80640e6e1023a4bd421fd48f87d0eb99270ae5df00ca77335bdb77.jpg",
+        "intro": null,
+        "description": "Fantasy Friends takes place in a gorgeous fantasy forest where anything is possible! With the help of Aurea, the magic fairy, you will care for 12 adorable new pet friends! Take care of them and make sure you give them all the love they need. If you do, your pets will grow up and play with you!\nThe more you care for them, keeping them happy and healthy, the more mana you will earn. Use your mana to get new creatures, buy them new clothes or even cooler toys to play with, and decorate the forest with incredible fun items!\n\n- From a flying panda to a rainbow unicorn, discover 12 incredible creatures you'll love to cuddle and play with. As soon as they hatch, all of them will need your attention.\n- Each animal needs a specific food you'll have to produce. They each live in their own house and have an original game that they like best. Have fun while getting to know them all!\n- Collect hundreds of colors and skins for your pets and challenge your friends to see who will have the most unique creatures. Be the first to find the rarest ones!\n- Get cool accessories (hats, sunglasses, ribbons, etc.) to customize each of your pets! \n- Decorate the forest in your own style with beautiful buildings, plants, and magical objects! Some of them may suprise you.\n- Random magical events can happen at any time\u2026 You can earn more mana or even get exclusive skins!\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 762314752
     },
     "70010000032509": {
         "id": "01009C4012284000",
@@ -16159,7 +16575,7 @@
             "zh",
             "zh"
         ],
-        "size": 1133510656
+        "size": 1146093568
     },
     "70010000035838": {
         "id": "0100A12011CC8000",
@@ -16452,6 +16868,44 @@
             "zh"
         ],
         "size": 615514112
+    },
+    "70010000036137": {
+        "id": "0100DC7013938000",
+        "rightsId": null,
+        "name": "NASCAR Heat Ultimate Edition+",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211119,
+        "nsuId": 70010000036137,
+        "category": [
+            "Racing",
+            "Sports"
+        ],
+        "ratingContent": [
+            "Mild Lyrics"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Motorsport Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4b4991fcd213b39d525d10268a6590fc615c4cf54db0426f0db4cdfc776ef73c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c409ebdd3b95fc5c28dcdec98962fdd3255ceac91cf4a96e090ec28bbeb89739.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/68eb694a874189f20ff48283039fde203dd46844777ec41628d800dd52e893d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f78543fbb467bbbe44e68262d86969bab325bdc8421cf97da09fe6e225874b79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8733119ce8624761f2334f7c499df2be58b2fcf5dfcc89e617a28a7e415f08e7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/795ac2095f4f44fda0add8804a5101916653d066e3b1b658f0eda64602088986.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e6e78d9bfa88960f419e14841cd31fdf465d10fb4ab8565d55074f81070d40fa.jpg",
+        "intro": null,
+        "description": "NASCAR Heat Ultimate Edition+, the official video game of the 2020 season, the world\u2019s most popular stockcar racing series puts you behind the wheel and challenges you to become the NASCAR Cup Series champion. Features the 2020 official teams, drivers, cars and schedule from the three NASCAR National Series as well as the Xtreme Dirt Tour, racing on 39 authentic tracks. \n\nUltimate Edition+ includes everything in NASCAR Heat 5 Ultimate Edition, plus the 2021 NASCAR Cup Series Cars Roster and 2021 primary paint schemes.  \n\nFeatured content includes 2020 Throwback and Playoff paint schemes, Tony Stewart as a playable character, plus more! \n \nFEATURES: \n\u2022 Career Mode \u2013 Progress through the feeder series (Xtreme Dirt, Gander Trucks and Xfinity Series) to reach the NASCAR Cup Series or jump right in and start at the top.  \n\u2022 Improved Stats \u2013 Track your progress through the Career with more detailed and improved statistics offering far more insight.  \n\u2022 Gameplay Enhancements \u2013 Improved AI, more player camera options and DNFs.  \n\u2022 Brand-new Testing Mode \u2013 Perfect your racing lines and experiment to find the best car setup for each track.  \n\u2022 Challenge Mode \u2013 Brand-new Online Challenge Mode gives you unique race scenarios to complete with a variety of gameplay.  \n\u2022 Official Tracks \u2013 39 authentic tracks for you to race on across the various series, including Daytona International Speedway, Indianapolis Motor Speedway, Indianapolis Motor Speedway road course and Talladega Superspeedway, plus 9 dirt tracks. \n\u2022 Multiplayer \u2013 Race online with up to 16 players or enjoy local split-screen multiplayer with a friend.  \n\u2022 Paint Booth \u2013 Even more enhancements, including new number fonts and schemes.",
+        "languages": [
+            "en"
+        ],
+        "size": 7484735488
     },
     "70010000036178": {
         "id": "01006B5012B32000",
@@ -17410,6 +17864,56 @@
         ],
         "size": 111149056
     },
+    "70010000037915": {
+        "id": "01007D50140E4000",
+        "rightsId": null,
+        "name": "The Skylia Prophecy",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000037915,
+        "category": [
+            "Adventure",
+            "Platformer",
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Language",
+            "Partial Nudity",
+            "Sexual Themes",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "7 Raven Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a73a32aac8d2074053747a4b9c4cbdabae60de841ad8ac745b24de54db6d7bdf.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e52ed66d3a8d0bac3576d109749ee206e26a850bc6e11210b81874b49ddfc805.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/368bc7d5ea6f14cde98f09fd775294534eb43684e51e18310ce16506a49911e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7fc325d4ea08f1888dfb02794f3923ad654b3806a834f71fdeefe5482889237.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/44d5d2b0cc9351aeb40918dd6d9fa1322098f8aa4fa8a0ab82bae31ce5579f3d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e8bc1e850f9b7b26f3c5ac4d7a91292f3751bb9c7660c5c105229813d276ab4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa7c1f6ce29570d5ea60c792807913093c5f234ea611ba44a3b7521b725467b6.jpg",
+        "intro": "Upgrade Mirenia with a level and magic system\nOver a dozen different locations\nBeautiful pixel art",
+        "description": "Mirenia is an 18 year old girl on a quest for redemption. After unleashing an evil power when she was a teenager, she is now on her way to Tirkin Fortress to perform an ancient spell that should help her vanquish the very evil she unleashed three years ago. \nNow, nearing the end of her quest, she arrives in the villages just outside the fortress, where monsters ravage; young women are being taken and men are being slaughtered. Armed with her trusted Shield Blade, Mirenia is so close to undoing the mistakes of her past. Will she succeed or ultimately only make matters worse?\n\nThe Skylia Prophecy is a sidescrolling action RPG set in a medieval fantasy world. As Mirenia, you will journey throughout the lands and towns, explore ancient dungeons and battle hordes of the undead in this hard as hell adventure inspired by the 'kill the player' philosophy of the 'Souls' games. Along your way you will meet the people of these lands, who will ask you to help them, sell you powerful items and reveal secrets to aid you on your journey. By interacting with the townsfolk, you will ultimately receive rewards that make the game easier in the long run - thus, you set the difficulty for the final stretch yourself!\nWill you find redemption or ultimately end up among the dead?\n\nThe Skylia Prophecy will challenge you on every turn with its hard but fair difficulty, powerful bosses and exploration based riddles.\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 494927872
+    },
     "70010000037986": {
         "id": "0100BC701417A000",
         "rightsId": null,
@@ -18266,7 +18770,7 @@
             "https://img-eshop.cdn.nintendo.net/i/66abcb9607262ada5a5624be36492e8a03594aab8cc78f9c9ceacfad461d8842.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1896e7af022355fc346195fa94f7efc86a9b239c51ba8b31dccb9a94b83bc7c5.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/211b826bd2883037d89dd3e76e6b79a88f06a7b426abb6d228b4513a16b8fe7a.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4f243dec6e06d749e5addb3637cc70afb09275b170f133fd7a3ec8750da40fe3.jpg",
         "intro": "Very addictive physics based bicycle driving game!",
         "description": "Mountain Bike Hill Climb Race is an exciting, 2D action Bicycle driving game based on real physics with funny cartoon graphics and parallax scrolling. Drive your mountain bike through paths and hurdles over beautifull hills and amazing mountains. It is a very addictive, simple 2D game, yet challenging to play. Use the left control stick to lean back or forward and the right control stick to speed up and slow down.\n\nMake stunts, run through jumps and flips, lean back on a rear wheel drive while browsing the 42 challenging levels available now. Go uphill or downhill on glaciers in the mountains and dangerous slopes with obstacles like tree trunks and rocks. Discover extreme sensations on a half pipe or pyramid in a snow resort to achieve the best time. The more you play, the better you become in handling the bicycle at high speed, but accelerate with caution as you may have a steep fall or sharp rising around the next corner. The challenge lies in landing savely on just two wheels and mastering the handling of your bicycle in order to become a 2D simulator stunts champ. So don't wait any longer, perform different cycling stunts, tricks and indulge yourself in this cycling excitement to get an adrenaline rush through the huge, beautifull mountains and hills!",
         "languages": [
@@ -18717,6 +19221,47 @@
         ],
         "size": 843055104
     },
+    "70010000040161": {
+        "id": "01003BF014B18000",
+        "rightsId": null,
+        "name": "ReactorX",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70010000040161,
+        "category": [
+            "Puzzle",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "TERNOX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/566f0be3c2be1946bc198c0b706d89de77250cf9d83796e0ad922328d5de9289.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/864ba045ecffc530bda108e3a65a5c5c1d94905272f5fd40cf805ab643ef0540.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dca0fae744e6d05ea36402f542354b4fab6dd457f33ea06ae9c0abd413f7cf3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abea7fe3f79fa74707809404da18cb71f79fd0686699fff2aac1c72ae8a038d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06c1bd011724fa5e4eeee832caa2e259a1ff67de5d5b88f15bc85a738cf67548.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b25342560f1a5c29f8547dca27ec875e5f5cf28672d867dd591eac5316a7220d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee7c335903f9b677a741e055207f9ae6f58f6cee70d02b803e47c8163e037fd2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/07ff4c9344050f93d63ef14b8f80da53d37af18ddbcd1b790e3854cff276c72b.jpg",
+        "intro": "This is a relaxing game about moving boxes on energy grids in a sci-fi setting, in order to repair the space ship which was hit by a meteor.",
+        "description": "- Easy to play, exactly what you need to rest from the dynamics of big games;\n- Level-design with no dead ends, so you don't have to restart any level except if you really want to start anew;\n- Short animated cutscenes with story elements.\n\nEngine rooms include such elements as:\n\n1. Power grid: it receives the power from the reactors. Each reactor has a distinct shape of routing the energy it contains. Objective of each level is to have every power grid cell filled with energy.\n2. Coloring rays: they change the color of the reactor which it touches. Game starts with only red-colored reactors, then proceeds to include yellow-colored, blue-colored and non-colored, which must be first exposed to the coloring rays. Upon going into the coloring ray, player can lose the level.\n3. Various obstacles that block the way.",
+        "languages": [
+            "ja",
+            "en",
+            "ru"
+        ],
+        "size": 53477376
+    },
     "70010000040287": {
         "id": "0100EA6014BB8000",
         "rightsId": null,
@@ -18817,6 +19362,45 @@
             "zh"
         ],
         "size": 790626304
+    },
+    "70010000040456": {
+        "id": "0100FA2014C78000",
+        "rightsId": null,
+        "name": "Nyakamon Adventures",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70010000040456,
+        "category": [
+            "Puzzle",
+            "Arcade",
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "TERNOX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1068c58e61fc2996ee3fe550168f9fc60289af5bec3afcb54f49bb09bb99e597.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/81af69584a5bb7ef54aa7638c8a61780d11ada4399ba9969102667be3d70fc77.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d5c363bf4e38fee21d74e0d0e86742552caefd82514be7aaee0da70f405974b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b7367a0a59661d61cb50e46938cc5faef6e9579ffeb90bef421cb4a09d00e43.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5fea63ec84c07a6fbc088907e2edcb183af84eed05cdd63524a69a10803eaded.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e60e0c3a03f709fec2fe752e3c0a18c0868042ce7c46eacfdf6bf29148388852.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ee8214a9ec724cc13fd36b112c5d1189decf4c5b44e782433442f82e1203160.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ad49d5c1dd6adadb1cb3921dca4526dd63c566088088884f6e818080622e019a.jpg",
+        "intro": "Help NyaKaMon to get through challenging levels of sokoban!\n",
+        "description": "- 30 levels of normal mode + 30 levels of hadrcore mode\n- Match the runes in the normal mode\n- 2 biomes - light and dark\n- Cute graphics\n- Relaxing music",
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "size": 76546048
     },
     "70010000040472": {
         "id": "0100AEF014C82000",
@@ -19630,6 +20214,45 @@
         ],
         "size": 6402605056
     },
+    "70010000041754": {
+        "id": "01004F10143E4000",
+        "rightsId": null,
+        "name": "Ekstase",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000041754,
+        "category": [
+            "Puzzle",
+            "Music",
+            "Arcade",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Raskal Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6dac759abc43597be77080b47ab90ca30ccb79c99c58747eac29ca5fcb6861a6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ac5a8b978f95b2c7cc4cb1bb586ed3691ad28190f43ef7a39294476a326ff7e3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c1f957f4ad7ef3705695674ff2c0310b47a397ee320394880ff14f253727ca6e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/788475adb90ee1ba895ceb9d43ee0a2c2d9b56bba77a8e443e5bc62c550170f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a8225595c37963e0c081c45ea84e8115841be0587a06babdab2d8ec7f77fa98.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e6f14145ef305eba5aa8e52a6e84618ca085ceb4b0426031193f323232570695.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a29c4b252ca0be8fd9dd8065070552b686bb12baf4f9a9f059639605ca4dcab3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/526e29462665fdfcc06fa44ed3a24110a87da00efeaeec62deec033d1fb92c22.jpg",
+        "intro": null,
+        "description": "Ekstase\nEkstase is a love letter to Berlin and its techno scene. Amazing techno beats and beautiful visuals set the stage for a game that honors the long forgotten falling block puzzle genre. Fresh but familiar gameplay ensures that Ekstase is easy to pick up and sink many hours into. With both classic and new game modes, there is something here for both the casual and the hardcore puzzle game player.\n\nGameplay description\nIn Ekstase, shapes of 3-5 blocks fall from the top, and as soon as they hit something, they fall apart. The scan line changes color every cycle and removes the squares you formed with blocks of the same color.\n\nGame modes\nReach a \"state-of-flow\" in Flow mode\nFlow mode is the frictionless \"jump in\" game mode in which the game adapts to how you play. Are you getting better? The game will ramp up its difficulty. Are you getting worse? The game becomes easier. In doing so, the game teases out a \"state-of-flow\" in the player, a state in which you are fully immersed in a feeling of energized focus, involvement, and enjoyment.\n\nKeep a beat with Beat99\nBeat99 is the rhythm mode in Ekstase . The goal is to rank up your multiplier by dropping shapes to the beat. You'll be given 99 \"lives\", dropping a shape subtracts one life, missing a beat subtracts ten! Try to survive as long as possible and try to score as high as you possibly can.\n\nPick your own challenge in Classic mode\nIn Classic mode you set the challenge. Choose the amount of colors and the speed of the shapes.\n\nTime Attack\nCan you stack efficiently? Prove it in Time Attack mode. Beat the highscore in a set amount of time.\n\nTwo rotation modes\nEkstase can be enjoyed in two different play styles; play style \"A\" and play style \"B\". In A you rotate the colors in a stationary shape, in B you rotate the shapes. This way you get two games for the price of one!\nAccessibility\nAre you colorblind? No worries, I've got you covered! In the options menu, pick your type of color blindness for the appropriate color palette, or hand pick the colors yourself. Motor challenges? No biggie! Ekstase comes with custom button mapping and co-pilot. Do you find the background animations too distracting?! Not a problem! Turn it down, or all the way off, from the options menu.\nIn Raskal's games everyone gets to play.",
+        "languages": [
+            "en"
+        ],
+        "size": 1411383296
+    },
     "70010000041760": {
         "id": "01005C50152DC000",
         "rightsId": null,
@@ -19993,6 +20616,47 @@
             "en"
         ],
         "size": 3272605696
+    },
+    "70010000042469": {
+        "id": "0100E21015588000",
+        "rightsId": null,
+        "name": "My Mait\u00ea",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211022,
+        "nsuId": 70010000042469,
+        "category": [
+            "Platformer",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "TERNOX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cbe22effc603ff2c1205ef931cc4409a69d9184d208fe156da63e5ef0770ad2e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f3b4e1b174f78efe8a6af26cb272884d875d5d1166dd40b09c99eec33b98cc81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bff98019f9338a14b2509fca9ff74b7b038e58d47be3c3b6a7ed40fd7d5a15b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7364e19a02fb6ff606350d3b424085be619c0bcc1038ade30ff2a4a81747ca7a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0b9c4a30e521c3ffe841b1f8088e2f43c46f11e029b25bf101e4a7fe06633bf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9a60bb8738ab04787e0ead9397ce52f58d4fef0ece1b399d597ac0baf4aa573.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91f1aa33a09c366c826b89bd2bd2745b7df27e038d6382cd8507f2cce8a0016b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e1c9ac352f51056393149a9a8b26e6c6f14b64b50af6129992971917608d7806.jpg",
+        "intro": "Father loves his daughter Mait\u00ea so much he would even go to the Moon just to bring her back to Earth.",
+        "description": "Mait\u00ea is a very intelligent girl, but she lives over the moon. This is why her dad  has to go there and bring her back to Earth in this 50 stages long incredible adventure.\n\nJump over clouds, balloons, trampolines and into special portals in order to get to the ending of this pixel art made beautiful game.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "ru"
+        ],
+        "size": 36700160
     },
     "70010000042626": {
         "id": "0100BEB015604000",
@@ -21293,6 +21957,42 @@
             "nl"
         ],
         "size": 232783872
+    },
+    "70010000044242": {
+        "id": "010031F015C98000",
+        "rightsId": null,
+        "name": "Easy Flight Simulator",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211016,
+        "nsuId": 70010000044242,
+        "category": [
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/aaf9ea661c868721873cc633e1bc7972acbb7051a6ed7d3fa392465ad34cf6ac.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1c2a628820ba5b6b7c9a1f3bc7c47d09870e5a5df35bcbd3b451a80080ccff6e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cbaf1d97797243953038f14d4868bcb3ae835af15996c4a21bb05ea46875d378.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/13f7330d1055dc41ff3d2d7607bc05f070c6ad78e2f2ed6f79da6dd3872cdff5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1abc5b6beb65678476d4ccdb9d55bd4ca6ef90a934250d58d96d67192e097127.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1c8312edfaa69cbf34ae4f8986bba4ee491b2bd08e3316a31672b5e52f83cabf.jpg",
+        "intro": null,
+        "description": "Have you ever dreamed to take commands of fantastic planes like jet, super jumbo, cargo or stunt plane?\nThis game is a real flight simulator with commands designed to be easily taken over at all age.\nFly from checkpoints to checkpoints showing your pilot skills in different weather and time of the day conditions and complete all levels.\nIf you always wanted to fly but thought it was over complicated, this game will prove you can do it!",
+        "languages": [
+            "en"
+        ],
+        "size": 141557760
     },
     "70010000044378": {
         "id": "0100B33014710000",
@@ -23224,6 +23924,54 @@
         ],
         "size": 84934656
     },
+    "70010000046378": {
+        "id": "0100D7E016684000",
+        "rightsId": null,
+        "name": "New York Mysteries: High Voltage",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000046378,
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "FIVE-BN STUDIO",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9d04bb9d220468216e8160edbf0a8e270c322fd81db3539f20340de69b0c8a09.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0050db3d8a5c4d49a38eb1d36bab26bbcc86d22429a0ac9f79ed9f19581bee4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5a71d6a5463ea53a61f5626ad13cc4b5fa766a628c37ee160b4c88544109142b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a515fe7aa7149c6456a493f6bea6f2527c46465989b3704f94b3b16c3f2170d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40221e19cfd75d431c29367005d0c3c8d38b7e01bb492327b72ac815e841604f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ad334faedfcc1645e8129939dabd2c3d95c0a353471dd72de87efc3d0e44350.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7466f91604e0105349545b55de4583cde46279d17a6096eaddc23d5c4ac67b38.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e3a4cad8bff828da5c905adbb7522cc9c202f95f0f01f2aa91be38debb853eb0.jpg",
+        "intro": null,
+        "description": "Fearless journalist Laura is again brought in to investigate strange murders taking place in New York. Immerse yourself in an exciting crime story and solve the mystery of a dangerous criminal surrounded by lightning!\n\nNew York Mysteries: High Voltage - an adventurous hidden object game-quest with puzzles and mini-games that tells about mysterious events that took place in the 50s, New York.\n\nNew York City, sometime in the 1950s. A wave of mysterious murders has swept through the city. At each crime scene, only a pile of ash remains. Witnesses claim to have seen a ball of lightning. Could a human being be capable of such a thing? Who is behind the cryptic killings? Are they connected with a strange incident which took place during an execution at the Sing Sing penitentiary? The police are unable to answer any of these questions... and so the White Stone Order takes the reins. Fearless journalist Laura is again brought in to investigate murders nobody can explain!\nImmerse yourself in an exciting crime story and visit uncharted locations from 1950s New York!\n\nGame features:\n\u2022 Explore over 50 stunning locations\n\u2022 Complete over 40 different mini-games\n\u2022 Challenge yourself with interactive hidden object scenes\n\u2022 Assemble collections, gather morphing objects, and gain achievements\n\nSolve dozens of puzzles and learn more about the White Stone Order!\nCreate the one of a kind mechanism and stop the vicious criminal!\nMeet the variety of characters, they won't leave you indifferent!\nLook at things in a new light in the Bonus chapter!\nVisit the numerous uncharted locations in New York of the 50s!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko"
+        ],
+        "size": 1217396736
+    },
     "70010000046482": {
         "id": "0100F5601653C000",
         "rightsId": null,
@@ -23390,6 +24138,86 @@
         ],
         "size": 350224384
     },
+    "70010000046731": {
+        "id": "0100542016718000",
+        "rightsId": null,
+        "name": "Pocket Soccer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000046731,
+        "category": [
+            "Sports",
+            "Party",
+            "Multiplayer",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Gametry",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9aeb09b10db22933ed59c0d818d5ed2af2c2dd1d85174784101ccce49979a061.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/52ee7832688ba0d46895fb139b7dde188413b1b7264cd7eeca3ab1663ea3fcbf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da6ec9d3c258c906bbf14aef622026d078a1d1895508296d3b49c4b91f259353.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cde02bcea976189e85dbf9f1b235f67740acbf5a9c61c310dd2e2c5c0d5b48a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f35ff9270793a389bbfedfdd7098a3edb119c3dcbe169af5908226dc28fe0461.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a363d3a099a60ba919df9897d10965e831fb025d9b6658ea7bf8a794f8701abf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63f90408e759c48eb3c5b47dec3c2271f1840ad7840b1c6a5dd146d901b0491f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f856037bee8d6f9e2f72bd6abdbeba9e14e966e0f4b225275c0c2dccfdb47d93.jpg",
+        "intro": null,
+        "description": "Pocket Soccer lets you experience the beauty of football on your console, in high quality, and with great cartoon graphics. The game features a multitude of modes in which you can play against the CPU or your friends - up to 4 players in multiplayer.\n\nIf you love football and you want to play a clever, fun, and exciting game where you get to test your skills, check out Pocket Soccer right now. Test out your skills and immerse yourself in one of the best and most impressive soccer game experiences out there!\n\nFeatures:\n\t\u2022\tMultiple game modes to choose from\n\t\u2022\tTeams with varied playstyles\n        \u2022\tMultiple difficulty levels\n\t\u2022\tEngaging, one of a kind game mechanics",
+        "languages": [
+            "en"
+        ],
+        "size": 142606336
+    },
+    "70010000046850": {
+        "id": "0100BD3010934000",
+        "rightsId": null,
+        "name": "Hell's High Harmonizers",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000046850,
+        "category": [
+            "Simulation",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Alcohol Reference",
+            "Mild Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "PLiCy",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b63f65f5b47a41115071a8fc0bda9eef2ff08948af553da57a2ce8fd94e43449.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6715e9e3c7f8cfb9c3cedc8f927b9adf4988029322ef4dfaa35414614b5cfae5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4caa69d5df069153125cfd780a89771d4a185d6ae177d0a0682ba5c67be88415.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/561c41d0261c50fdd7d43f6a28579813ce536e5c27e36267c490ba4454f302b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/93b49f698179f35c5b098965b5933c9292fdb1e73896736648c5f24f0cb2aac1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2f11f8a07bb9eb8f5334e5d76cb0ae016dee36af09fc627ddf8dec7560a5471e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6cf3e8528ef8a36f94b35d1e3f3a3a3b07353219be6831279394a060274145e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/73799e496030f323e346beee6d42cbe4349144ed0c282ea9d7006ea694a998a3.jpg",
+        "intro": "Hell is lively today!\nA loose life simulation of living in Hell.",
+        "description": "Hell, it's a place where the dead live.\nThe inhabitants are always busy with reckoning, remorse, slacking off, and rebellion.\nYou are the Harmonizer, an official of Hell. You will work for the peace of your newly assigned ward 69371.\n\nSometimes we'll consult with the residents, sometimes we'll cooperate with them, and sometimes we'll enjoy life in Hell!\n\nCharacter Create\nPeople, inorganics, and everything else! Freedom and unique character create.\n\nVarious Unique Residents\nPeople, lizards, bones, and machines? The residents of Hell, who are diverse in appearance and birth.",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 261095424
+    },
     "70010000046895": {
         "id": "0100B11016870000",
         "rightsId": null,
@@ -23423,6 +24251,47 @@
             "en"
         ],
         "size": 843055104
+    },
+    "70010000047154": {
+        "id": "0100B4801683A000",
+        "rightsId": null,
+        "name": "Battle of Archers",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70010000047154,
+        "category": [
+            "Arcade",
+            "Fighting",
+            "Party"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Gametry",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0a5c8b3a2d8914e1c3fb1e3ca10d444b96482f1af8db1863e8fd9f64413b0af0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/75e183deb809b3b97d996b8e43b14941d6c8f10d25dfb0dd7ba5dc42b648d2ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7bb6fbc96831f8b396dbd55d1199ddd3161fcba6cf3a0fb27811f1ee39af9e19.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa76c121410d95d110fc2b1406d206f6c56c65e3e40cead516823f9869c70f77.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a3f656497abdd7d71235db9fb658b596dc33f3e1f91007ef148ee3aee291def.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48fc73fb0612dba1d617b3742014859124fd5675d3afe34c5a277a173648e5bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e99d718795788c75184ca2f585f45864cd7f5f33fb3cf9cfc7d9a9a040c4dd03.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/beacc2f6d679f8eb8a1fc9d62297eae56ce11ef001c1de44ca6e9327e17615f5.jpg",
+        "intro": null,
+        "description": "Battle of Archers is an exciting archery game where you need to do everything you can in order to battle your enemies and win. You can face other archers, hunt birds or you just play against a friend if you want.\n\nIn Battle of Archers, you will also need to follow birds and try to catch them with your bow. It\u2019s an exciting and fun arcade game that\u2019s testing all your skills while improving your aim. You will find it a very creative and enjoyable experience that everyone should try out. If you love archery or testing your aim, this is the game for you!\n\nFeatures:\n\t\u2022\tAction-packed archery game\n\t\u2022\tIntense, very fun to play\n\t\u2022\tGreat graphics\n\t\u2022\tMultiple game modes",
+        "languages": [
+            "en"
+        ],
+        "size": 76546048
     },
     "70030000000042": {
         "id": null,
@@ -25058,6 +25927,34 @@
         "languages": null,
         "size": 1109393408,
         "parentId": "010083E013188000"
+    },
+    "70030000014586": {
+        "id": null,
+        "rightsId": null,
+        "name": "New York Mysteries: High Voltage (Demo)",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000014586,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 935329792,
+        "parentId": "0100D7E016684000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
@@ -47119,6 +48016,40 @@
             "0100E21011447020"
         ]
     },
+    "70050000026729": {
+        "id": null,
+        "rightsId": null,
+        "name": "Horizon Chase Turbo - Senna Forever",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211020,
+        "nsuId": 70050000026729,
+        "category": null,
+        "ratingContent": [
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "AQUIRIS",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3b4c593abea97496f4b8869fe1321455f7224d6591d762c3c1d9ba81864d75f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/10fda44d5e7c4b31c50b06d49dd03ab4f94e875ca8e6c9010d25bea400da409a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/914c7debfdd181dca31e6cc693f10903de029a08cefc79444a7f481d4ef94823.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d569f1610c997823b1b9784bdbd0e0fa042655e8cb07db6018e67799c72556b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/43f61d722240543cd739768a0f58e684fd392bdcbb96b4efe3dae435065952e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1891cced391586bdec5df39035e85fde43f0f80dd13499d4c9cf2a595096e4a7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00e7c13a8ffbb1198f010cfb08a702304ce12bb4c914185ee8bfb1279ecaebc0.jpg",
+        "intro": "A homage to the legendary driver Ayrton Senna, this Expansion Pack brings a completely new set of cars, tracks, and features to the game, inspired by Senna's career.",
+        "description": "RELIVE THE GREATEST AYRTON SENNA\u2019S MOMENTS\nIn Horizon Chase Turbo - Senna Forever you will follow the steps of the legendary Brazilian pilot on an exclusive 5-chapters Single Player Career Mode. \nFeel the heat of the moment from the inside of a cockpit with the brand new first-person view (Senna Forever-specific).\nMake tough choices with the new race strategies mechanics (Senna Forever-specific),  choose your car setup considering each race track and weather conditions. \nPursuit over 130 Senna\u2019s Marks on Career Mode, trying to achieve the pilot\u2019s outstanding historical performance.\n\nBECOME A LEGEND YOURSELF\nChoose one of the 18 different teams and dominate the world circuit racing through three different categories on the Championship Mode. Unlock more than 30 cars to play in this game mode.\n\nRACE ENDLESS CHAMPIONSHIPS WITH YOUR FRIENDS\nPlaying alone or up to 4 local players, experience unique runs on each championship with the unpredictability of randomized weathers, tracks and competitors.",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000026745": {
         "id": "0100E1F01367506F",
         "rightsId": null,
@@ -53125,6 +54056,42 @@
             "0100BEB015605002"
         ]
     },
+    "70050000030669": {
+        "id": null,
+        "rightsId": null,
+        "name": "Animal Crossing: New Horizons \u2013 Happy Home Paradise",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211105,
+        "nsuId": 70050000030669,
+        "category": null,
+        "ratingContent": [
+            "Comic Mischief",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/94b2abe173a0301031b998c5dfaddb0f4d74d7e04862b0929a20c8cf3f4fbbd2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f8b621611e955de3964c3375f696fed7df4d1eba5aa8b55e6e47d730e3d2dfb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da7fc0c8b609123c4fd3aca179be4e0f3a65844fb12f6676da5bd9e3dbf49f85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b60ba5bd5a58d4da0e4d923873d0d8ac242dd860e34fe0ec2b65d454e8588170.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a50a83ac829c659fd3b706dbc9b216bfeb35c53b9c7c761eb274552f532c444.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ffae623c7d2a04ee3c421fc5d5a45167dccea1bf9fa53808c505064299e76c4a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0cc4c2382ba7c7d6a9f0471e9b8ab155ff754cc97735c32289133c8b83141eb5.jpg",
+        "intro": "Download and play at no additional cost with an active Nintendo Switch Online + Expansion Pack membership",
+        "description": "Expand your horizons and help create vacation homes for clients on all-new resort islands\n\nJoin Lottie\u2019s Paradise Planning team and travel to a distant group of beautiful resort islands with a diverse set of landscapes. This time, you are in charge of inviting characters as clients and helping them live out their own dream vacations. Choose from a variety of islands, with different terrain and climates and find one that matches your client\u2019s vision. Then start designing and start making their vacation dreams come true. Just wait until you see the look on your clients\u2019 faces after you reveal the vacation home decorated just for them.\n\nAdd personalized touches to your client\u2019s resort island\n\nCustomize everything from home exteriors and interiors, the yard and even customize the weather to either be sunny or rainy. Handpick the picture-book spot for your resort creation and use the Paradise Planning team\u2019s expansive inventory to deck out vacation homes without being limited to your own inventory, recipes, or resources. The editing tools make decorating a snap! It\u2019s a breeze to go back and redecorate as you like, so change and rearrange to your heart\u2019s content.  \n\nAs you design more vacation homes for your clients, facilities like cafes and schools around the Paradise Planning office will open up. Decorate these into inviting locales, choose roles for different characters, then watch your clients spend time together. Why not stop by and check in to see how things are going in paradise?\n\nYou can up your design game on your own island, too! Design options that you acquire while working as a Paradise Planning team member can be used on your island as they become available. Build partition walls and pillars, set the mood with lighting, and add soundscapes to both your residents\u2019 homes as well as your own.\n\nShare your masterpieces with friends\n\nTake in-game photos of your designs and add them to your portfolio. Show them to other characters and you may get more requests to create vacation homes! Share the photos with other players using the in-game Showroom* in the Happy Home Network app and they can tour your personally-designed resort islands or go tour theirs for some relaxation and inspiration. ",
+        "languages": null,
+        "size": 0
+    },
     "70050000030684": {
         "id": "0100B6E012EBF008",
         "rightsId": null,
@@ -57826,6 +58793,40 @@
         "languages": null,
         "size": 4213178368
     },
+    "70070000012790": {
+        "id": null,
+        "rightsId": null,
+        "name": "Lovixsama Sokoban Bundle (Nyakamon Adventures + ReactorX)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70070000012790,
+        "category": null,
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "TERNOX",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/81af69584a5bb7ef54aa7638c8a61780d11ada4399ba9969102667be3d70fc77.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b7367a0a59661d61cb50e46938cc5faef6e9579ffeb90bef421cb4a09d00e43.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5fea63ec84c07a6fbc088907e2edcb183af84eed05cdd63524a69a10803eaded.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/864ba045ecffc530bda108e3a65a5c5c1d94905272f5fd40cf805ab643ef0540.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abea7fe3f79fa74707809404da18cb71f79fd0686699fff2aac1c72ae8a038d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee7c335903f9b677a741e055207f9ae6f58f6cee70d02b803e47c8163e037fd2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c6fff13421f48630ad9480f62a252d99375be892d80a88497e9a2a353c26c2f2.jpg",
+        "intro": "Bundle of two sokoban puzzle games from Lovixsama \u2014 Nyakamon Adventures and ReactorX.",
+        "description": "Nyakamon Adventures \u2014 help NyaKaMon to get through challenging levels of sokoban!\n\n- 30 levels of normal mode + 30 levels of hadrcore mode\n- Match the runes in the normal mode\n- 2 biomes - light and dark\n- Cute graphics\n- Relaxing music\n\nReactorX is a relaxing game about moving boxes on energy grids in a sci-fi setting, in order to repair the space ship which was hit by a meteor.\n\n- Easy to play, exactly what you need to rest from the dynamics of big games;\n- Level-design with no dead ends, so you don't have to restart any level except if you really want to start anew;\n- Short animated cutscenes with story elements.\n\nEngine rooms include such elements as:\n\n1. Power grid: it receives the power from the reactors. Each reactor has a distinct shape of routing the energy it contains. Objective of each level is to have every power grid cell filled with energy.\n2. Coloring rays: they change the color of the reactor which it touches. Game starts with only red-colored reactors, then proceeds to include yellow-colored, blue-colored and non-colored, which must be first exposed to the coloring rays. Upon going into the coloring ray, player can lose the level.\n3. Various obstacles that block the way.",
+        "languages": null,
+        "size": 130023424
+    },
     "70070000012799": {
         "id": null,
         "rightsId": null,
@@ -58115,6 +59116,42 @@
         "description": "\u201cFATAL FRAME: Maiden of Black Water\u201d comes to Nintendo Switch\u2122 for the first time to celebrate the 20th anniversary of the horror-adventure series FATAL FRAME.\n\n\u25cf 20th Anniversary Digital Artbook\nThe special anniversary digital artbook features artwork and BGM tracks from past titles of the FATAL FRAME series and can be accessed from the game menu.\n\n\u25cf Past Protagonists Costume Set\nOutfits of various past protagonists of the FATAL FRAME titles will be available in the game:\n- Mio Amakura Outfit (from \u201cFATAL FRAME \u2161 Crimson Butterfly\u201d)\n- Rei Kurosawa Outfit (from \u201cFATAL FRAME \u2162 The Tormented\u201d)\n- Miku Hinasaki Outfit 1 (from \u201cFATAL FRAME\u201d)\n- Miku Hinasaki Outfit 2 (from \u201cFATAL FRAME\u201d)\n- Mayu Amakura Outfit (from \u201cFATAL FRAME \u2161 Crimson Butterfly\u201d)\n- Kei Amakura Outfit (from \u201cFATAL FRAME \u2162 The Tormented\u201d)\n\n[The Story]\nMt. Hikami was once revered as a spiritual place.\nIt housed a unique religion based on beliefs and customs of worshipping water as a deity and is said to have been a site of many gruesome incidents and mysterious phenomena.\nThis mysterious and intertwined story follows three protagonists\u2014Yuri Kozukata, Miu Hinasaki, and Ren Hojo\u2014as each of them explores the ominous Mt. Hikami, a place where many came to die, and the secrets it hides.\n\n[Gameplay]\nPlayers use Camera Obscura, a special camera capable of repelling vengeful ghosts and sealing away their powers, to explore Mt. Hikami and the numerous incidents that took place there in the past.\nThe story is divided into separate missions, and each mission is led by a new protagonist.\nIn addition to sealing the evil spirits that attack you, Camera Obscura can be used to reveal other things that can\u2019t be seen with the human eye and will help in the recovery of lost items.\n\n[New Elements]\n- Improved screen resolution\n- New outfits and accessories\n- New Snap Mode where you can freely place characters and spirits for creative shots\n- Updated Ghost List\n- Updated controls\nand more.\n\n\nNote: \u201cFATAL FRAME: Maiden of Black Water\u201d is also available for purchase on its own. Please be careful to avoid making a redundant purchase. \nNote: The Digital Deluxe Edition set includes the contents of the FATAL FRAME 20th Anniversary DLC. Please be careful to avoid making a redundant purchase.",
         "languages": null,
         "size": 19484639232
+    },
+    "70070000013037": {
+        "id": null,
+        "rightsId": null,
+        "name": "Crysis Remastered Trilogy",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211015,
+        "nsuId": 70070000013037,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Strong Language",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Crytek",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b7b4c23583a7f5cca962b8e439e1eae64916275afebcf42bf39a1a1bf4cdd0d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad4311db0118ac673163b2a1278142ff4132edb8650c610e719c255ef197f633.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed97ed95ed031e518d401a37c6d27f443f4b40fd6f5b6b0bbef61156cfebf57d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b658114b798a38134bb478d132d7bdbc445d3b640f4b156ddf8fa5b74dce539.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e20dcb3832b1173e0714fde093af8dd834d16165533349e74016a74e603227b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8566d5ea08e59c0be013295cd5c5e0ed7004213fd06e87a41f4868bc0c19632.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f015b19d19c7cab1030927d757f09acdf49c62b453afb186e03aa97e39fed8a.jpg",
+        "intro": "Crysis Remastered Trilogy includes each of the single-player campaigns from the legendary first-person shooters Crysis, Crysis 2, and Crysis 3, optimized for today's hardware.   ",
+        "description": "Crysis Remastered Trilogy includes:\n\nCrysis Remastered:\nWhat begins as a simple rescue mission becomes the battleground of a new war as alien invaders swarm over a chain of North Korean islands. Playing as super-soldier Prophet, you are armed with a powerful Nanosuit equipped with Speed, Strength, Armor, and Cloaking abilities. Use a vast arsenal of modular weaponry and adapt your tactics and gear to dominate enemies in an enormous sandbox world.\n\nCrysis 2 Remastered:\nAliens have returned to a world ravaged by climate disasters. As the invaders lay waste to New York and begin an assault that threatens the total annihilation of humankind, only you have the technology to lead the fightback. Equipped with the upgraded Nanosuit 2.0, customize your suit and weapons in real-time and unlock powerful new abilities in the battle for humanity's survival. \n\nCrysis 3 Remastered:\nReturning to the fight as super-soldier Prophet, the search for the alien Alpha Ceph continues, but now you must also expose the truth behind the C.E.L.L. corporation, which has turned New York City into a sprawling urban rainforest sheltered by a giant nanodome. Fight through seven distinct districts and decimate your opponents in a blaze of brute force using the Nanosuit's superior technology, or use stealth to achieve your goals and become humanity's silent savior. Equipped with your powerful and deadly new Predator Bow, there's no wrong way to save the world.  ",
+        "languages": null,
+        "size": 30209474560
     },
     "70070000013051": {
         "id": null,
