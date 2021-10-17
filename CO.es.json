@@ -9886,6 +9886,45 @@
         ],
         "size": 6671040512
     },
+    "70010000020848": {
+        "id": "010074F00DE4A000",
+        "rightsId": null,
+        "name": "Run the Fan",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70010000020848,
+        "category": [
+            "Arcade",
+            "Rompecabezas",
+            "Estrategia",
+            "Acci\u00f3n"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0913c54fd2320189460d6d97d20d54ffb4a812aa65aa4016441024207623cb3c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/21545fd4961eca8ee48dc7eb46e6502ab456bb5d5a7fb2d3f149193f03282ff5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f6ac7beb610690ab04aba1760fa4ee5679c8688d65f1bc060f5e324278a46f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/269df3af991f4dcb7690c0dbcf3ce1aad4d7ec2733f7e4604700b3ec8201601d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f79bb2f1a8c6c7267158f5e24d88653674561d27c5ffd717ddf548b3444483f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c4303c3671d5266f3825de0622df11ae33f63f7cdaa4f1b9d4a4b677f894072.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e392027fc3a82bb3a9ec24f439f248d1352ff40330a29d529fddb24c70e08fe1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6e8c060d6d3d9cd4b00ac0703abf37640f0aa7e69ff4384e6fa654046a154c1f.jpg",
+        "intro": "Run the Fan es un juego \u00fanico que requiere mucha planificaci\u00f3n estrat\u00e9gica, habilidades manuales y precisi\u00f3n.",
+        "description": "El juego consta de m\u00e1s de 50 niveles en los que el jugador tendr\u00e1 un mismo objetivo: encender el ventilador. \u00a1Tendr\u00e1s que hacer mucho m\u00e1s que solo presionar botones para lograrlo!\n\nEn cada nivel hay un generador de corriente conectado al ventilador mediante un circuito, \u00a1pero est\u00e1 roto en algunos lugares! Para hacer que la corriente llegue de forma continua, debes crear un arco el\u00e9ctrico en las partes donde el circuito est\u00e1 incompleto.\n\n\u00bfTe parece complicado? No te preocupes, \u00a1no necesitas ser electricista!\n\nSolo debes mover la esfera de metal con destreza y crear arcos el\u00e9ctricos donde sea necesario. Es muy sencillo e intuitivo.\n\nTen en cuenta que en cada nivel tendr\u00e1s que enfrentar nuevos desaf\u00edos. Piensa primero hacia d\u00f3nde deber\u00edas hacer tu siguiente movimiento y luego ejec\u00fatalo con cuidado.\n\n\u00a1Buena suerte! \n\nCARACTER\u00cdSTICAS:\n- El juego fue desarrollado pensando espec\u00edficamente en Nintendo Switch.\n- Combina los juegos de puzle y arcade.\n- Requiere planificaci\u00f3n estrat\u00e9gica, habilidades manuales y precisi\u00f3n.\n- C\u00f3modo control al usar el aceler\u00f3metro.\n- Banda sonora din\u00e1mica.\n- Hermosos gr\u00e1ficos, luces din\u00e1micas y efectos especiales.\n- M\u00e1s de 50 niveles.\n",
+        "languages": [
+            "en"
+        ],
+        "size": 200278016
+    },
     "70010000020855": {
         "id": "0100C6A00E94A000",
         "rightsId": null,
@@ -38529,7 +38568,7 @@
         ]
     },
     "70050000021151": {
-        "id": null,
+        "id": "01006A800016F088",
         "rightsId": null,
         "name": "Paquete de mejora de esp\u00edritus 2 - Alcanzar el niv. M\u00c1X.",
         "version": null,
@@ -38557,7 +38596,11 @@
         "intro": null,
         "description": "El siguiente contenido descargable es una oferta exclusiva para los suscriptores de pago a Nintendo Switch Online. Se podr\u00e1n utilizar de forma gratuita en el juego Super Smash Bros. Ultimate una vez efectuada la descarga.\n\nEl paquete incluye:\n\u30fb3000 PS\n\u30fbAperitivo grande x 30",
         "languages": null,
-        "size": 6291456
+        "size": 6291456,
+        "ids": [
+            "01006A800016F087",
+            "01006A800016F088"
+        ]
     },
     "70050000021424": {
         "id": "010053401147D001",

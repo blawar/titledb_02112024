@@ -9892,6 +9892,45 @@
         ],
         "size": 6671040512
     },
+    "70010000020848": {
+        "id": "010074F00DE4A000",
+        "rightsId": null,
+        "name": "Run the Fan",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70010000020848,
+        "category": [
+            "Arcade",
+            "Puzzle",
+            "Strategy",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0913c54fd2320189460d6d97d20d54ffb4a812aa65aa4016441024207623cb3c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/21545fd4961eca8ee48dc7eb46e6502ab456bb5d5a7fb2d3f149193f03282ff5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f6ac7beb610690ab04aba1760fa4ee5679c8688d65f1bc060f5e324278a46f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/269df3af991f4dcb7690c0dbcf3ce1aad4d7ec2733f7e4604700b3ec8201601d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f79bb2f1a8c6c7267158f5e24d88653674561d27c5ffd717ddf548b3444483f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c4303c3671d5266f3825de0622df11ae33f63f7cdaa4f1b9d4a4b677f894072.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e392027fc3a82bb3a9ec24f439f248d1352ff40330a29d529fddb24c70e08fe1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6e8c060d6d3d9cd4b00ac0703abf37640f0aa7e69ff4384e6fa654046a154c1f.jpg",
+        "intro": "Run the Fan is a unique game that requires strong strategic planning, as well as quick reflexes and precision.",
+        "description": "The game consists of over 50 boards, and your goal is the same on each of them: to switch on the fan.\nBut to achieve that, you must do much more than just push the button!\n\nThere is a current generator on each of the boards, linked to the fan through a path. Problem is, the path is broken in several places!\nTo ensure that the current reaches the fan uninterrupted, you must create an electric arc wherever the circuit was damaged.\n\nSeems complicated? Don't worry. No electrical know-how is required!\n\nYou just need to skillfully operate a metal ball and build electric arcs with it where needed. It's quite simple and intuitive.\n\nBear in mind that with each board comes with new challenges. Always start by planning your next move, then carefully execute it.\n\nGood luck!\n\nFeatures:\n\u2013 the game was developed specifically with Nintendo Switch in mind\n\u2013 it mixes puzzle and arcade game mechanics\n\u2013 the game requires strategic planning, precision, and quick reflexes\n\u2013 comfortable controls using the accelerometer\n\u2013 dynamic score\n\u2013 beautiful graphics, dynamic lights and special effects\n\u2013 over 50 levels\n",
+        "languages": [
+            "en"
+        ],
+        "size": 200278016
+    },
     "70010000020855": {
         "id": "0100C6A00E94A000",
         "rightsId": null,
@@ -38538,7 +38577,7 @@
         ]
     },
     "70050000021151": {
-        "id": null,
+        "id": "01006A800016F088",
         "rightsId": null,
         "name": "Spirit Booster Bundle #2 - Reaching Lv. MAX",
         "version": null,
@@ -38566,7 +38605,11 @@
         "intro": null,
         "description": "This bonus content is an exclusive offer for those with an active Nintendo Switch Online membership. You will be able to download items, which can be used in Super Smash Bros. Ultimate, for free.\n\nThe set contains the following:\n\u30fb3000 SP\n\u30fbSnack (L) x30",
         "languages": null,
-        "size": 6291456
+        "size": 6291456,
+        "ids": [
+            "01006A800016F087",
+            "01006A800016F088"
+        ]
     },
     "70050000021424": {
         "id": "010053401147D001",

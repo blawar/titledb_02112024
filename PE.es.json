@@ -4623,7 +4623,7 @@
             "ru",
             "ko"
         ],
-        "size": 14297333760
+        "size": 14305722368
     },
     "70010000010276": {
         "id": "01006D4003BCE000",
@@ -5429,7 +5429,7 @@
             "de",
             "it"
         ],
-        "size": 121634816
+        "size": 123731968
     },
     "70010000013197": {
         "id": "0100A5B00BDC6000",
@@ -5474,7 +5474,7 @@
             "fr",
             "de"
         ],
-        "size": 4168089600
+        "size": 4167041024
     },
     "70010000013359": {
         "id": "0100A4400BE74000",
@@ -6223,7 +6223,7 @@
             "zh",
             "zh"
         ],
-        "size": 3190816768
+        "size": 3278897152
     },
     "70010000015023": {
         "id": "01009C400C88C000",
@@ -9087,7 +9087,7 @@
             "ru",
             "ko"
         ],
-        "size": 14862516224
+        "size": 15099494400
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -9633,7 +9633,7 @@
         "developer": null,
         "publisher": "Phoenix Labs",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/05ded4ae3fa779032dd79edff39ed09c7acf37bf90f9c9443019885e31cba748.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cfa432de7b20ccaaa1504194118bebacd978d4893deb159999d977919f7c8759.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/8a826f1a14025572cfb048e7640fadb08f469d787170a8d0adce7c9a0c73d326.jpg",
             "https://img-eshop.cdn.nintendo.net/i/23c9afdc1f2875df176c75183022bd7f264c86bd111561f7a6f99095db0849ca.jpg",
@@ -9642,7 +9642,7 @@
             "https://img-eshop.cdn.nintendo.net/i/f0e6d8b1bea5dc2c859cb43f92671259b13f9ed34c42f65f89664ad1d5aa992e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/58bb4309ee0f54ed4f10f1ccc0cab8090dd099bb0fc2c60d88fd5f6fcc35fcfd.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1f441c1264d51db7332d9e861a398628cff809c8c202bbe1619870c0a7a0b411.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fceb1a9093353fb42302f15ede4b71d1695f1a7b034446b45f010c73d2e7a18c.jpg",
         "intro": null,
         "description": "Lucha por la supervivencia al filo del mundo. Como Slayer, es tu deber cazar a los enormes Behemoths que devoran la tierra. Forma equipo con millones de jugadores y domina desafiantes batallas cooperativas, crea poderosas armas y armaduras, y forja tu leyenda como Slayer de Ramsgate.\n\nDauntless es un RPG de acci\u00f3n en l\u00ednea gratuito de Phoenix Labs. Espera actualizaciones frecuentes, eventos de temporada, nuevos Behemoths y m\u00e1s en este mundo en constante evoluci\u00f3n.",
         "languages": [
@@ -9655,7 +9655,7 @@
             "it",
             "ru"
         ],
-        "size": 7261388800
+        "size": 7338983424
     },
     "70010000020542": {
         "id": "0100B2B00E7AA000",
@@ -9891,6 +9891,45 @@
             "zh"
         ],
         "size": 6671040512
+    },
+    "70010000020848": {
+        "id": "010074F00DE4A000",
+        "rightsId": null,
+        "name": "Run the Fan",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70010000020848,
+        "category": [
+            "Arcade",
+            "Rompecabezas",
+            "Estrategia",
+            "Acci\u00f3n"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0913c54fd2320189460d6d97d20d54ffb4a812aa65aa4016441024207623cb3c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/21545fd4961eca8ee48dc7eb46e6502ab456bb5d5a7fb2d3f149193f03282ff5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f6ac7beb610690ab04aba1760fa4ee5679c8688d65f1bc060f5e324278a46f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/269df3af991f4dcb7690c0dbcf3ce1aad4d7ec2733f7e4604700b3ec8201601d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f79bb2f1a8c6c7267158f5e24d88653674561d27c5ffd717ddf548b3444483f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c4303c3671d5266f3825de0622df11ae33f63f7cdaa4f1b9d4a4b677f894072.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e392027fc3a82bb3a9ec24f439f248d1352ff40330a29d529fddb24c70e08fe1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6e8c060d6d3d9cd4b00ac0703abf37640f0aa7e69ff4384e6fa654046a154c1f.jpg",
+        "intro": "Run the Fan es un juego \u00fanico que requiere mucha planificaci\u00f3n estrat\u00e9gica, habilidades manuales y precisi\u00f3n.",
+        "description": "El juego consta de m\u00e1s de 50 niveles en los que el jugador tendr\u00e1 un mismo objetivo: encender el ventilador. \u00a1Tendr\u00e1s que hacer mucho m\u00e1s que solo presionar botones para lograrlo!\n\nEn cada nivel hay un generador de corriente conectado al ventilador mediante un circuito, \u00a1pero est\u00e1 roto en algunos lugares! Para hacer que la corriente llegue de forma continua, debes crear un arco el\u00e9ctrico en las partes donde el circuito est\u00e1 incompleto.\n\n\u00bfTe parece complicado? No te preocupes, \u00a1no necesitas ser electricista!\n\nSolo debes mover la esfera de metal con destreza y crear arcos el\u00e9ctricos donde sea necesario. Es muy sencillo e intuitivo.\n\nTen en cuenta que en cada nivel tendr\u00e1s que enfrentar nuevos desaf\u00edos. Piensa primero hacia d\u00f3nde deber\u00edas hacer tu siguiente movimiento y luego ejec\u00fatalo con cuidado.\n\n\u00a1Buena suerte! \n\nCARACTER\u00cdSTICAS:\n- El juego fue desarrollado pensando espec\u00edficamente en Nintendo Switch.\n- Combina los juegos de puzle y arcade.\n- Requiere planificaci\u00f3n estrat\u00e9gica, habilidades manuales y precisi\u00f3n.\n- C\u00f3modo control al usar el aceler\u00f3metro.\n- Banda sonora din\u00e1mica.\n- Hermosos gr\u00e1ficos, luces din\u00e1micas y efectos especiales.\n- M\u00e1s de 50 niveles.\n",
+        "languages": [
+            "en"
+        ],
+        "size": 200278016
     },
     "70010000020855": {
         "id": "0100C6A00E94A000",
@@ -10372,7 +10411,7 @@
             "zh",
             "zh"
         ],
-        "size": 7111442432
+        "size": 7152336896
     },
     "70010000021451": {
         "id": "01006C300E9F0000",
@@ -12973,7 +13012,7 @@
             "ko",
             "zh"
         ],
-        "size": 7675576320
+        "size": 7674527744
     },
     "70010000028226": {
         "id": "0100DCA011262000",
@@ -13444,7 +13483,7 @@
             "ko",
             "zh"
         ],
-        "size": 16720592896
+        "size": 18556649472
     },
     "70010000028905": {
         "id": "010040E0116B8000",
@@ -13724,7 +13763,7 @@
         "languages": [
             "en"
         ],
-        "size": 3160408064
+        "size": 3159359488
     },
     "70010000029168": {
         "id": "01002D2011850000",
@@ -15765,7 +15804,7 @@
             "nl",
             "ru"
         ],
-        "size": 4388290560
+        "size": 4389339136
     },
     "70010000034148": {
         "id": "01006980127F0000",
@@ -16691,7 +16730,7 @@
             "zh",
             "zh"
         ],
-        "size": 1133510656
+        "size": 1146093568
     },
     "70010000035838": {
         "id": "0100A12011CC8000",
@@ -18886,7 +18925,7 @@
             "https://img-eshop.cdn.nintendo.net/i/66abcb9607262ada5a5624be36492e8a03594aab8cc78f9c9ceacfad461d8842.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1896e7af022355fc346195fa94f7efc86a9b239c51ba8b31dccb9a94b83bc7c5.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/211b826bd2883037d89dd3e76e6b79a88f06a7b426abb6d228b4513a16b8fe7a.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4f243dec6e06d749e5addb3637cc70afb09275b170f133fd7a3ec8750da40fe3.jpg",
         "intro": "\u00a1Un juego de conducci\u00f3n de bicicletas basado en la f\u00edsica muy adictivo!",
         "description": "Mountain Bike Hill Climb Race es un emocionante juego de conducci\u00f3n de bicicletas de acci\u00f3n en 2D basado en la f\u00edsica real con divertidos gr\u00e1ficos de dibujos animados y desplazamiento de paralaje. Conduce tu bicicleta de monta\u00f1a a trav\u00e9s de senderos y obst\u00e1culos sobre hermosas colinas y monta\u00f1as incre\u00edbles. Es un juego 2D simple y muy adictivo, pero desafiante para jugar. Utilice la palanca s de control izquierdo para inclinarse hacia atr\u00e1s o hacia adelante y la palanca de control derecho para acelerar y reducir la velocidad.\n\nRealiza acrobacias, corre a trav\u00e9s de saltos y volteretas, recu\u00e9state con la tracci\u00f3n trasera mientras exploras los 42 desafiantes niveles disponibles ahora. Vaya cuesta arriba o cuesta abajo en glaciares en las monta\u00f1as y pendientes peligrosas con obst\u00e1culos como troncos de \u00e1rboles y rocas. Descubre sensaciones extremas en media pipa o pir\u00e1mide en una estaci\u00f3n de nieve para conseguir el mejor tiempo. Cuanto m\u00e1s juegue, mejor podr\u00e1 manejar la bicicleta a alta velocidad, pero acelere con precauci\u00f3n, ya que puede tener una ca\u00edda pronunciada o una subida pronunciada en la siguiente esquina. El desaf\u00edo consiste en aterrizar de forma segura sobre solo dos ruedas y dominar el manejo de su bicicleta para convertirse en un campe\u00f3n de acrobacias en simuladores 2D. \u00a1As\u00ed que no esperes m\u00e1s, realiza diferentes acrobacias y trucos de ciclismo y disfruta de esta emoci\u00f3n de ciclismo para obtener una descarga de adrenalina a trav\u00e9s de las enormes y hermosas monta\u00f1as y colinas!",
         "languages": [
@@ -19987,7 +20026,7 @@
             "ru",
             "zh"
         ],
-        "size": 427819008
+        "size": 436207616
     },
     "70010000041504": {
         "id": "0100FBE0151DC000",
@@ -20094,6 +20133,7 @@
             "Multijugador"
         ],
         "ratingContent": [
+            "Violencia de fantasia",
             "Temas insinuantes"
         ],
         "numberOfPlayers": 2,
@@ -20956,7 +20996,10 @@
             "Multijugador",
             "Acci\u00f3n"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violencia moderada de fantasia",
+            "Lenguaje moderado"
+        ],
         "numberOfPlayers": 4,
         "rating": 6,
         "developer": null,
@@ -21062,8 +21105,8 @@
             "https://img-eshop.cdn.nintendo.net/i/f6b898a9f358e84fbf2e55a8b0413f5dcf664da0e8f211a14be815c727a69180.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ae4cfa387a655265e12fb41c45f421a6172d3f06b838c97164e67b3c082a33e8.jpg",
-        "intro": "Una locura de microjuegos llega a la consola Nintendo Switch\u2122",
-        "description": "Enfr\u00e9ntate a m\u00e1s de 200 veloces microjuegos repletos de fren\u00e9tica diversi\u00f3n, \u00a1solo o con tus amigos! Cuando su \u00faltimo y descabellado plan de negocios sale mal, Wario deber\u00e1 usar su peculiar estilo (y olor) para remediarlo. \u00bfC\u00f3mo? \u00a1Pues jugando en una disparatada colecci\u00f3n de microjuegos! Bien sea que debas ensamblar un robot o arrancar el vello de la axila de una estatua, el juego WarioWare\u2122: Get It Together! es una mezcla de comedia y juego cooperativo.\n\nEncuentra divertidos combates en una monta\u00f1a de microjuegos\n\nEn el modo Historia deber\u00e1s ayudar a Wario, el infame dise\u00f1ador de juegos, despu\u00e9s de que es absorbido por su \u00faltima creaci\u00f3n. Disfruta esta aventura solo o con un amigo en el modo cooperativo para 2 jugadores, \u00a1es toda una novedad para la serie! Podr\u00e1n jugar en la misma consola* o a trav\u00e9s de la comunicaci\u00f3n inal\u00e1mbrica local*. A medida que avances en esta descabellada historia podr\u00e1s desbloquear a\u00fan m\u00e1s modos de juego. Presume de tus habilidades para los microjuegos mientras te enfrentas y pones a prueba tus reflejos con hasta tres jugadores* m\u00e1s en Rinc\u00f3n de variedades. Juega otra vez tus microjuegos favoritos en Juegopedia, completa Misiones y regresa cada semana a la Copa Wario para disfrutar de una colecci\u00f3n de retos que ser\u00e1n alternados semanalmente.\n\nJuega como Wario y su colorido equipo\n\nPor primera vez en la serie T\u00da podr\u00e1s controlar a Wario y sus amigos dentro de sus propios ca\u00f3ticos juegos. Utiliza sus absurdas habilidades para enfrentarte a una gran cantidad de microjuegos. \u00a1Mece a un beb\u00e9 para que se duerma con la ayuda del aceler\u00f3n de Wario o los hechizos de Ashley! Obt\u00e9n monedas del juego mientras juegas y despu\u00e9s canj\u00e9alas por art\u00edculos para personalizar a tus personajes. \u00a1En el juego WarioWare: Get It Together! podr\u00e1s mezclar y combinar personajes y juegos para divertirte al m\u00e1ximo!\n\nWario est\u00e1 poniendo a prueba su suerte nuevamente en los videojuegos, pero esta vez s\u00ed se est\u00e1 metiendo de lleno, \u00a1literalmente! Ayuda a Wario y sus amigos a salir de un mundo muy singular al enfrentarte a m\u00e1s de 200 fren\u00e9ticos microjuegos.\n\nCuando no est\u00e9s ocupado cazando errores en el modo Historia, visita la Juegopedia para mejorar las habilidades de cada personaje en los microjuegos. Pasa tiempo con cada exc\u00e9ntrico personaje y dales art\u00edculos que mejorar\u00e1n sus estad\u00edsticas. \u00a1Esas estad\u00edsticas aumentadas ser\u00e1n de gran provecho si quieres obtener el mejor r\u00e9cord durante la Copa Wario que se lleva a cabo semanalmente! En el modo clasificatorio** podr\u00e1s comparar tus r\u00e9cords en la Copa Wario con los de tus amigos y jugadores de todo el mundo.",
+        "intro": "\u00a1Te damos la bienvenida a la locura de los microjuegos!",
+        "description": "Enfr\u00e9ntate a m\u00e1s de 200 veloces y extravagantes microjuegos, \u00a1solo o con tus amigos*! \u00bfPero no sabes qu\u00e9 es un microjuego? Primero seleccionar\u00e1s a tu personaje entre un descabellado elenco (cada uno con sus propias habilidades); despu\u00e9s se mostrar\u00e1n instrucciones claras y precisas, y finalmente usar\u00e1s la habilidad de tu personaje para seguir las instrucciones y completar el microjuego dentro de un corto periodo de tiempo. Por ejemplo, elige a \u201cWario\u201d, lee la instrucci\u00f3n \u201c\u00a1Depila!\u201d y \u00a1usa su aceler\u00f3n para depilar los vellos de la axila de una estatua! \n\nDescubre la diversi\u00f3n fren\u00e9tica en una monta\u00f1a de microjuegos\n\nJuega a trav\u00e9s del modo Historia (solo o con un segundo jugador) y enfr\u00e9ntate a microjuegos para ayudar a Wario y sus amigos a escapar de un videojuego lleno de errores. Los microjuegos se dividen en categor\u00edas como Fantas\u00eda y Nintendo; supera consecutivamente suficientes microjuegos para avanzar en la historia y desbloquear m\u00e1s personajes y modos. En Rinc\u00f3n de variedades podr\u00e1s poner a prueba tus habilidades en los microjuegos jugando contra hasta tres jugadores* m\u00e1s en varios divertidos y competitivos juegos (\u00bfalguien quiere jugar voleibol?).\n\n\u00c9chale un vistazo a WarioWare con la versi\u00f3n de prueba gratuita\n\nPon a prueba el descabellado mundo del juego WarioWare\u2122: Get It Together! al descargar la versi\u00f3n de prueba gratuita desde Nintendo eShop. Disfruta una selecci\u00f3n de microjuegos del modo Historia que forman parte del juego completo. Completa una variedad de microjuegos de manera individual o con un amigo, y prueba diferentes personajes para descubrir sus habilidades. \u00bfPerdiste todas tus vidas? \u00a1Comienza de nuevo e intenta superar tu puntuaci\u00f3n!\n\nWario est\u00e1 poniendo a prueba su suerte nuevamente en los videojuegos, pero esta vez s\u00ed se est\u00e1 metiendo de lleno, \u00a1literalmente! Ayuda a Wario y sus amigos a salir de un mundo muy singular al enfrentarte a m\u00e1s de 200 fren\u00e9ticos microjuegos.\n\nCuando no est\u00e9s ocupado cazando errores en el modo Historia, visita la Juegopedia para mejorar las habilidades de cada personaje en los microjuegos. Pasa tiempo con cada exc\u00e9ntrico personaje y dales art\u00edculos que los mejorar\u00e1n en Elenco. \u00a1El incrementar sus puntos de t\u00edtulo ser\u00e1 de gran utilidad durante la Copa Wario de la semana mientras intentas obtener el mejor r\u00e9cord! Tambi\u00e9n podr\u00e1s activar el modo clasificatorio** para comparar tus r\u00e9cords en la Copa Wario con los de tus amigos y jugadores de todo el mundo.\n",
         "languages": [
             "ja",
             "en",
@@ -23075,7 +23118,9 @@
             "Arcade",
             "Aventura"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violencia moderada de fantasia"
+        ],
         "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
@@ -37598,7 +37643,7 @@
         ]
     },
     "70050000020351": {
-        "id": null,
+        "id": "01006D00109FF001",
         "rightsId": null,
         "name": "Hidden Through Time - Viking Tales",
         "version": null,
@@ -37628,7 +37673,10 @@
         "intro": "\u00a1El DLC Viking Tales agrega 10 niveles a la campa\u00f1a y 400 objetos tem\u00e1ticos vikingos para que los creadores de niveles puedan crear niveles incre\u00edbles!",
         "description": "\u00a1\u00danete a Clicky en su barco y navega a Escandinavia para descubrir si las historias contadas sobre los vikingos son ciertas!\n\nEl DLC de Viking Tales te enviar\u00e1 a ti y a Clicky en una b\u00fasqueda a trav\u00e9s de la cultura y la mitolog\u00eda n\u00f3rdicas para descubrir todos los tesoros y mitos ocultos que los vikingos nos han ocultado.\n\u00a1Encontrar\u00e1s numerosos clanes vikingos, dioses y elfos n\u00f3rdicos!\n\nEste DLC incluye 10 nuevos niveles que van desde invasiones vikingas hasta aldeas pac\u00edficas \u00e9lficas.\n\u00a1Tambi\u00e9n incluye 400 nuevos objetos tem\u00e1ticos vikingos que est\u00e1n disponibles en el editor de niveles para aquellos de ustedes que no pueden tener suficiente de estos clanes saqueadores!\n\nLas personas que no poseen este DLC a\u00fan podr\u00e1n jugar a trav\u00e9s de mapas creados por el usuario que usan objetos del DLC de Viking Tales.\n\nSea r\u00e1pido, p\u00f3ngase su casco vikingo y saquee este DLC para explorar los mitos escandinavos sobre asaltantes despiadados, valquirias aladas y gigantes colosales.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01006D00109FF001"
+        ]
     },
     "70050000020368": {
         "id": "01007B000C835004",
@@ -38567,7 +38615,7 @@
         ]
     },
     "70050000021151": {
-        "id": null,
+        "id": "01006A800016F088",
         "rightsId": null,
         "name": "Paquete de mejora de esp\u00edritus 2 - Alcanzar el niv. M\u00c1X.",
         "version": null,
@@ -38595,7 +38643,11 @@
         "intro": null,
         "description": "El siguiente contenido descargable es una oferta exclusiva para los suscriptores de pago a Nintendo Switch Online. Se podr\u00e1n utilizar de forma gratuita en el juego Super Smash Bros. Ultimate una vez efectuada la descarga.\n\nEl paquete incluye:\n\u30fb3000 PS\n\u30fbAperitivo grande x 30",
         "languages": null,
-        "size": 6291456
+        "size": 6291456,
+        "ids": [
+            "01006A800016F087",
+            "01006A800016F088"
+        ]
     },
     "70050000021424": {
         "id": "010053401147D001",
@@ -39910,7 +39962,7 @@
         ]
     },
     "70050000022793": {
-        "id": null,
+        "id": "01006D00109FF002",
         "rightsId": null,
         "name": "Hidden Through Time - Legends of Japan",
         "version": null,
@@ -39940,7 +39992,10 @@
         "intro": "Este contenido descargable incluye 10 nuevos niveles que var\u00edan desde templos japoneses hasta torneos de sumo.\n\u00a1Tambi\u00e9n cuenta con m\u00e1s de 300 nuevos objetos.",
         "description": "M\u00e1s all\u00e1 de los templos del Monte Fuji, a trav\u00e9s de los campos de arroz de las colinas, se ocultan secretos por todo Jap\u00f3n.\nSale el sol y los yokai comienzan a pasar del terreno espiritual al reino material.\n\n\u00danete a Clicky en una aventura a trav\u00e9s del Jap\u00f3n feudal en la que disfrutar\u00e1s de los maravillosos festivales de fuegos artificiales y aprender\u00e1s las disciplinadas tradiciones de los samur\u00e1is que entrenan en los dojos.\n\nEste contenido descargable incluye 10 nuevos niveles que var\u00edan desde templos japoneses hasta torneos de sumo.\n\u00a1Tambi\u00e9n cuenta con m\u00e1s de 300 nuevos objetos de tem\u00e1tica japonesa y personajes que estar\u00e1n disponibles en el editor de niveles tras la compra!\n\nAquellos que no tengan el contenido descargable podr\u00e1n jugar a los mapas creados por usuarios que utilicen objetos del contenido descargable Legends of Japan.\n\nCoge tu katana y \u00e1brete paso a trav\u00e9s del bosque de bamb\u00fa para llegar al contenido descargable que aguarda tu llegada.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01006D00109FF002"
+        ]
     },
     "70050000022796": {
         "id": "01007B000C835005",
@@ -40531,7 +40586,7 @@
         "intro": "The Outer Worlds: Peligro en Gorgona es la primera expansi\u00f3n narrativa del galardonado RPG de Obsidian Entertainment y Private Division.",
         "description": "Un brazo cortado y un misterioso mensaje dirigen a la tripulaci\u00f3n de la Falible al asteroide Gorgona, anteriormente uno de los lugares donde Halcyon llevaba a cabo sus planes cient\u00edficos m\u00e1s ambiciosos y desastrosos, hoy convertido en una ca\u00f3tica guarida de monstruos y merodeadores. La rica reclusa Minnie Ambrose encarga a la tripulaci\u00f3n la misi\u00f3n de encontrar respuestas sobre la doctora Olivia Ambrose, su madre y la pobre directora ca\u00edda en desgracia del proyecto, pero pronto se ver\u00e1n enredados en una intriga que cambiar\u00e1 la colonia para siempre.\n\nCaracter\u00edsticas clave:\n\u2022\tIntriga y peligro: investiga las instalaciones abandonadas de Ganga Espacial y encuentra personajes nuevos mientras revelas el misterio que hay detr\u00e1s de la repentina cancelaci\u00f3n del proyecto Gorgona. \n\n\u2022\tNuevas ubicaciones: explora los traicioneros ca\u00f1ones del asteroide Gorgona y enfr\u00e9ntate a enemigos alterados cient\u00edficamente.\n\n\u2022\tM\u00e1s armas de ciencia: descubre tres nuevas armas estrafalarias de ciencia, incluido el P.E.T. (arma de exterminaci\u00f3n de alima\u00f1as), una nueva y divertida arma que atrae a los enemigos para el ataque cuerpo a cuerpo.\n\n\u2022\tPersonalizaci\u00f3n de personajes e historia ampliadas: se aument\u00f3 el nivel m\u00e1ximo y se a\u00f1adieron ventajas y flaquezas, conjuntos de armadura totalmente nuevos y numerosas variantes del equipo actual. Adem\u00e1s, puedes sumergirte en la historia del asteroide Gorgona con los nuevos registros de sonido en fon\u00f3grafos portables que revelan los escabrosos secretos de un experimento que no sali\u00f3 bien.\n\nSe requiere una copia de The Outer Worlds para jugar a la expansi\u00f3n.",
         "languages": null,
-        "size": 2487222272,
+        "size": 2453667840,
         "ids": [
             "0100626011657001"
         ]
@@ -43690,14 +43745,14 @@
         ]
     },
     "70050000025072": {
-        "id": null,
+        "id": "0100626011657002",
         "rightsId": null,
         "name": "The Outer Worlds: Asesinato en Er\u00eddano",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20210908,
         "nsuId": 70050000025072,
         "category": null,
         "ratingContent": [
@@ -43711,12 +43766,19 @@
         "publisher": "Private Division",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa899a55a7cf97ee7313fb30c1769b009c14e9705ce40d3f5cd52ed831875ce2.jpg",
-        "intro": null,
-        "description": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0fd020970486d4d5a3dc7298ea15fba0adfbb134e26e4ff780ed8f76d617ebd0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea3a31fad0dce24b2b658cd3a720885f71c28c6d465459d4ae6e5162f9db2e63.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d3e6dbfa3272dbaac2df2ca018e0bbab49ddadd8f821c32620a2d93de50db0e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0cf71d2b914225c12a10439203faf5c4508876b4f88c0cdf94298eab6cb230de.jpg",
+        "intro": "The Outer Worlds: Asesinato en Er\u00eddano es la \u00faltima expansi\u00f3n narrativa del galardonado RPG de Obsidian Entertainment y Private Division. ",
+        "description": "\u00a1Surca los cielos de Er\u00eddano y desvela el asesinato m\u00e1s misterioso de la colonia de Alci\u00f3n! En este peculiar enigma, todos son sospechosos cuando la portavoz de Rizzo, la famosa Cayetana de Alci\u00f3n, aparece muerta antes del lanzamiento del nuevo Espektrovodka bomb\u00f3n. Junto a tus compa\u00f1eros, recorre las islas flotantes de Er\u00eddano y re\u00fane pistas con el ampliador de discrepancias, un nuevo artilugio que revela informaci\u00f3n que de otro modo pasar\u00eda desapercibida. Este misterio es mucho m\u00e1s de lo que aparenta, y depende de ti (y de tu equipo, si lo prefieres) resolver el caso.\n\nCaracter\u00edsticas:\n\u2022\tUn asesinato misterioso. Crecen las sospechas, y depende de ti llegar al fondo del asesinato de Cayetana de Alci\u00f3n, la celebridad m\u00e1s conocida de la colonia. Usa el nuevo ampliador de discrepancias, la clave para resolver el caso, con el que podr\u00e1s descubrir incoherencias temporales invisibles a simple vista.\n\n\u2022\tUn mundo \u00fanico. Recorre las islas flotantes de Er\u00eddano, desde los lujosos confines del hotel Grand Colonial hasta los coloridos bosques de Rizzo. Pero ten cuidado con los sonrientes empleados que encontrar\u00e1s, pues algo turbio se oculta bajo esa fachada alegre y radiante.\n\n\u2022\tNuevas armas y personalizaci\u00f3n de personajes. Se pueden a\u00f1adir tres nuevas armas de ciencia al arsenal del jugador, junto con las variantes de armadura y armas, para resolver el caso. Aumenta el nivel m\u00e1ximo en tres y emplea nuevas ventajas y flaquezas para crear tu personaje m\u00e1s especial hasta el momento.\n\nThe Outer Worlds: Asesinato en Er\u00eddano es la segunda y \u00faltima expansi\u00f3n de la historia que se puede comprar individualmente o como lote con descuento con el pase de expansi\u00f3n de The Outer Worlds.\n\nSe requiere una copia de The Outer Worlds en la misma plataforma para jugar a las expansiones.",
         "languages": null,
-        "size": 0
+        "size": 2533359616,
+        "ids": [
+            "0100626011657002"
+        ]
     },
     "70050000025172": {
         "id": "0100E1F01367504D",
@@ -48320,7 +48382,7 @@
         ]
     },
     "70050000026919": {
-        "id": null,
+        "id": "01006D00109FF003",
         "rightsId": null,
         "name": "Hidden Through Time : Road to Rome",
         "version": null,
@@ -48350,7 +48412,10 @@
         "intro": "El Imperio romano, un antiguo imperio, cuyo centro era la ciudad de Roma. No solo era famoso por su implacable conquista del mundo, sino tambi\u00e9n por su impresionante arquit",
         "description": "El Imperio romano, un antiguo imperio, cuyo centro era la ciudad de Roma. No solo era famoso por su implacable conquista del mundo, sino tambi\u00e9n por su impresionante arquitectura, fascinante mitolog\u00eda y poderosos emperadores. \n\u00a1En Hidden Through Time \u2013 Roads to Rome, acompa\u00f1ar\u00e1s a Clicky en su aventura a trav\u00e9s de las calles de Roma! \u00a1Escucha el rugido de la arena, marcha hacia la batalla con las tropas y g\u00e1nate el favor de los dioses! Observa tu entorno con cuidado y descubre los secretos ocultos a plena vista.\n\u00a1Este DLC incluye diez nuevos niveles que van desde los asentamientos galos hasta el monumental Coliseo! \u00a1Tambi\u00e9n incluye m\u00e1s de 300 nuevos objetos y personajes con tem\u00e1tica del Imperio romano que estar\u00e1n disponibles en el editor de niveles tras la compra!\nAquellos jugadores que no tengan este DLC podr\u00e1n jugar en los mapas creados por usuarios con objetos del DLC de Roads to Rome.\nT\u00fambate en tu c\u00f3modo lectus, coge un \u00e1nfora con tu bebida favorita y rel\u00e1jate. \nAl fin y al cabo, Roma no se construy\u00f3 en un d\u00eda.\n",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01006D00109FF003"
+        ]
     },
     "70050000026958": {
         "id": "0100E1F013675073",
@@ -54227,7 +54292,7 @@
         "size": 0
     },
     "70050000030684": {
-        "id": null,
+        "id": "0100B6E012EBF008",
         "rightsId": null,
         "name": "DLC The Call of Yara de UNO\u00ae",
         "version": null,
@@ -54253,7 +54318,10 @@
         "intro": null,
         "description": "\u00danete a la revoluci\u00f3n en UNO\u00ae The Call of Yara, el DLC m\u00e1s reciente de UNO, basado en el mundo \u00fanico de Far Cry\u00ae 6. \n\n- Combina tus cartas, deshazte de tu mano y dale sabor la acci\u00f3n con las cartas y reglas cl\u00e1sicas de UNO que ya conoces, pero con una nueva mec\u00e1nica de gesti\u00f3n de recursos para a\u00f1adir profundidad al juego cl\u00e1sico de UNO.\n- Recolecta pesos de Yara y contrata los servicios de \u00edconos guerrilleros tales como Dani Rojas o Juan Cortez para que te ayuden a ganar el juego. \n- Con autos antiguos, colores pastel, palmeras, herramientas artesanales y la m\u00fasica cubana que se encuentra en UNO The Call of Yara, te adentrar\u00e1s en el ambiente tropical y de inspiraci\u00f3n cubana de la isla paradis\u00edaca para que te sientas como un verdadero nativo de Yara.\n\n\u00a1Esto es UNO hecho al modo de Yara!",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100B6E012EBF008"
+        ]
     },
     "70070000000041": {
         "id": null,
@@ -55707,7 +55775,7 @@
         "intro": null,
         "description": "\u00a1Obt\u00e9n una ventaja inicial con el Paquete de Inicio para Corredores en Asphalt 9: Legends! Desbloquea incre\u00edbles super autos y recursos para impulsar tu progreso y retar a tus amigos y familia desde un principio en el multijugador de pantalla dividida.\nEste conjunto contiene: \n\u00b7\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Asphalt 9: Legends\n\u00b7         20 planos para desbloquear el BMW 3.0 CSL Hommage\n\u00b7         20 planos para desbloquear el DS Automobiles DS E-Tense\n\u00b7         20 planos para desbloquear el Lotus Evora Sport 410 \n\u00b7         20 planos para desbloquear el Dodge Challenger 392 HEMI Scat Pack\n\u00b7         25 planos para desbloquear el Porsche 911 Carrera GTS \n\u00b7         200,000 Cr\u00e9ditos\n\u00b7         300 Fichas",
         "languages": null,
-        "size": 3195011072
+        "size": 3283091456
     },
     "70070000007782": {
         "id": null,
@@ -56355,7 +56423,7 @@
         "intro": "\u00a1Expande tu elenco de combatientes con el pase de combatientes VOL. 2 de Super Smash Bros.\u2122 Ultimate!",
         "description": "\u00a1Expande tu elenco de combatientes con el pase de combatientes VOL. 2 de Super Smash Bros.\u2122 Ultimate para el juego Super Smash Bros.\u2122 Ultimate. Tras adquirir el pase de combatientes tendr\u00e1s acceso a contenido adicional que incluye seis combatientes jugables, m\u00e1s escenarios y temas musicales una vez que est\u00e9n disponibles. \u00a1Los combatientes adicionales incluyen a Min Min del juego ARMS\u2122, Steve y Alex de Minecraft\u2122, Sephiroth de la serie Final Fantasy, Pyra / Mythra de Xenoblade Chronicles\u2122 2  y Kazuya Mishima de TEKKEN! \n\nFINAL FANTASY 7 FUE CLASIFICADO PARA ADOLESCENTES POR LA ESRB\nXENOBLADE CHRONICLES 2 FUE CLASIFICADO PARA ADOLESCENTES POR LA ESRB\nLA SERIE TEKKEN HA SIDO CLASIFICADA PARA ADOLESCENTES POR LA ESRB \n\n\nEl pase de combatientes vol. 2 de Super Smash Bros. Ultimate es un set que incluye seis paquetes de combatientes.\n\nEl contenido del paquete de combatiente 11 a\u00fan no han sido anunciado, pero se incluye con la compra de este pase de combatientes.\n\nEl paquete de combatiente 6 incluye a Min Min como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 7 incluye a Steve y Alex como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 8 incluye a Sephiroth como combatiente jugable, un escenario y varias melod\u00edas. \n\nEl paquete de combatiente 9 incluye a Pyra / Mythra como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 10 incluye a Kazuya Mishima como combatiente jugable, un escenario y varias melod\u00edas.\n\nEn la compra de este pase de combatientes VOL. 2 no se incluye el contenido del paquete de combatiente 1 hasta el paquete de combatiente 5 del anterior pase de combatientes para Super Smash Bros. Ultimate que se vende por separado.\n\n\n\n",
         "languages": null,
-        "size": 24117248,
+        "size": 23068672,
         "ids": []
     },
     "70070000010044": {
@@ -56534,7 +56602,7 @@
         "intro": null,
         "description": "Prep\u00e1rate para acelerar y desbloquea cinco de las bestias m\u00e1s impresionantes de Asphalt, junto con un mont\u00f3n de recursos que te ayudar\u00e1n a convertirte en una leyenda de Nintendo Switch\u2122.\nEste paquete contiene:\n\u2022         El juego Asphalt 9: Legends\n\u2022         30 planos para desbloquear el Ferrari F12tdf\n\u2022         45 planos para desbloquear el Aston Martin Vulcan\n\u2022         40 planos para desbloquear el SCG 003S\n\u2022         30 planos para desbloquear el SIN R1 550\n\u2022         45 planos para desbloquear el Dodge Viper GTS\n\u2022         300.000 c\u00e9ditos \n\u2022         200 fichas",
         "languages": null,
-        "size": 3195011072
+        "size": 3283091456
     },
     "70070000010402": {
         "id": null,
@@ -56602,7 +56670,7 @@
         "intro": null,
         "description": "\u00a1Usa el carril r\u00e1pido para convertirte en leyenda con el conjunto de amenaza triple! \u00a1Siente el poder desenfrenado de 3 coches exclusivos de clase C adem\u00e1s de un mont\u00f3n de recursos que te llevar\u00e1n a la cima!\nEste conjunto contiene:\n\u2022 El juego Asphalt 9: Legends\n\u2022 50 planos para desbloquear el Artega Scalo Superelletra\n\u2022 35 planos para desbloquear el Maserati Alfieri\n\u2022 35 planos para desbloquear el Arrinera Hussarya 33\n\u2022 1 vinilo exclusivo para el Artega Scalo Superelletra\n\u2022 750.000 cr\u00e9ditos \n\u2022 750 fichas",
         "languages": null,
-        "size": 3195011072
+        "size": 3283091456
     },
     "70070000010562": {
         "id": null,
@@ -57098,7 +57166,7 @@
         "intro": null,
         "description": "Conduce algunos de los b\u00f3lidos de los mejores fabricantes italianos con veh\u00edculos triple A de Ferrari, Lamborghini y Pagani. \u00a1Y adem\u00e1s mejora tu progreso con las fichas y cr\u00e9ditos incluidos en este conjunto!\nEste conjunto incluye:\n\u2022 El juego Asphalt 9: Legends\n\u2022 50 planos para desbloquear el Ferrari 812 Superfast\n\u2022 50 planos para desbloquear el Lamborghini Aventador J\n\u2022 50 planos para desbloquear el Pagani Huayra BC\n\u2022 1.300.000 de cr\u00e9ditos\n\u2022 1.300 fichas",
         "languages": null,
-        "size": 3195011072
+        "size": 3283091456
     },
     "70070000011160": {
         "id": null,
@@ -57518,7 +57586,7 @@
         "intro": null,
         "description": "Obt\u00e9n la colecci\u00f3n completa de uno de los juegos m\u00e1s ic\u00f3nicos con la edici\u00f3n Ultimate de UNO\u00ae, que contiene UNO\u00ae, UNO FLIP!\u2122, UNO\u00ae Fenyx's Quest, adem\u00e1s de cartas tem\u00e1ticas de invierno de Just Dance\u00ae, Rayman\u00ae y m\u00e1s.  Junta cartas por color o por valor y compite contra otros jugadores. \u00a1Prueba UNO FLIP!\u2122 para un nuevo estilo de partida y lleva el juego por completo al lado oscuro usando las nuevas y divertidas tarjetas de acci\u00f3n como Toma Cinco y Brinca a todos! Juega en la Isla Dorada y obt\u00e9n el apoyo de los poderosos dioses y diosas con el totalmente nuevo UNO\u00ae Fenyx's Quest, un nuevo modo de juego lleno de acci\u00f3n con los personajes de Immortals Fenyx Rising\u2122.  \u00a1Y a\u00f1ade nuevos elementos a tu mazo con las cartas tem\u00e1ticas para verdaderamente cambiar la forma en la que juegas!",
         "languages": null,
-        "size": 4404019200
+        "size": 4405067776
     },
     "70070000011679": {
         "id": null,
@@ -57642,7 +57710,7 @@
         "intro": null,
         "description": "Domina las Temporadas de Multijugador desbloqueando estos potentes autos de alto rendimiento, incluye el 2-STAR Lotus Elise Sprint 220, el Pininfarina H2 Speed, y el Chevrolet Corvette Grand Sport. Tambi\u00e9n recibir\u00e1s un lote de Fichas y Cr\u00e9ditos que te ayudar\u00e1 a acelerar tu progreso.\nEste paquete contiene:\nEl juego Asphalt 9: Legends\n30 mapas para desbloquear el 2-STAR Lotus Elise Sprint 220\n35 mapas para desbloquear el Pininfarina H2 Speed\n30 mapas para desbloquear el Chevrolet Corvette Grand Sport\n1 500 000 Cr\u00e9ditos\n1 500 Fichas",
         "languages": null,
-        "size": 3193962496
+        "size": 3282042880
     },
     "70070000011785": {
         "id": null,
@@ -58148,7 +58216,7 @@
         "intro": "\u00a1Disfruta la edici\u00f3n definitiva ahora mismo!\n\n",
         "description": "Disfruta la historia completa de Minecraft Dungeons, desde el principio hasta el End. Adquiere la edici\u00f3n definitiva, que incluye el juego base y los seis DLC: El despertar de la jungla, El invierno rastrero, Monta\u00f1as aulladoras, Las llamas del inframundo, Las profundidades ocultas y Vac\u00edo resonante, todo por un precio m\u00e1s bajo que si compras el juego y cada DLC por separado. Enfrenta muchas criaturas, explora los niveles que pasan por diferentes dimensiones, y descubre tesoros incre\u00edbles mientras sigues la historia del Archillano y el orbe del dominio. Esta es tu oportunidad para vivir la experiencia completa de Minecraft Dungeons. \u00a1Adquiere tu copia ahora mismo! \n",
         "languages": null,
-        "size": 7140802560
+        "size": 7181697024
     },
     "70070000012481": {
         "id": null,
@@ -58701,7 +58769,7 @@
         "intro": null,
         "description": "\u00a1Ya est\u00e1 aqu\u00ed la temporada americana!\nSiente la adrenalina al conducir supercoches americanos con este contenido de tiempo limitado. Desbloquea el Ford GT, el Dodge Viper ACR y el Ford Shelby GT350R, adem\u00e1s de un mont\u00f3n de recursos que te ayudar\u00e1n a llegar a lo m\u00e1s alto.\n\nEste conjunto contiene:\n- El juego Asphalt 9: Legends\n- 35 planos para desbloquear el Ford GT\n- 35 planos para desbloquear el Dodge Viper ACR\n- 20 planos para desbloquear el Ford Shelby GT350R\n- 500.000 cr\u00e9ditos\n- 500 fichas",
         "languages": null,
-        "size": 3193962496
+        "size": 3282042880
     },
     "70070000012711": {
         "id": null,
