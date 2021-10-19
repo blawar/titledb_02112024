@@ -5815,6 +5815,45 @@
         ],
         "size": 4189061120
     },
+    "70010000014069": {
+        "id": "0100E0D00C336000",
+        "rightsId": "0100E0D00C3360000000000000000005",
+        "name": "Halloween Pinball",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70010000014069,
+        "category": [
+            "Arcade",
+            "Simulaci\u00f3n",
+            "Fiesta",
+            "Deportes"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SuperPowerUpGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/382a9ad6c70105bdc89a24e978eaffdcd409b0f6c7784c3c97524ac66ae4b28f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/835f3b7fc9b83bde9b332f617ab82359934d4e009149d7cc628bd54fafd27953.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/520e6e37467ae4d2653a716dd069ef3792fdcf781e027aa0569f88f67ca3019d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f150292fcfd33b61e7a8b6e1a5f1caed565667ba5e31085d87b118b74d1db467.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/02d02dbcc2efaa8ad17d2617f42943bf5c30d5825c60330c70c45a80fd87c43a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/059314e933d52606b7945f865f2041137629e01bea552c935dd114264e09cdc0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/758ecf26b7e72e0ed22fb362bcd87fffc6c04bfd9567ce2982a879d05bc4e412.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/21e18ab46d118af7f4791654d96bc3fa8e86328c91898acf8fb3f3a643e5c0d6.jpg",
+        "intro": null,
+        "description": "Vuelve el Pinball mas divertido! \n\nDisfruta de Halloween Pinball con una perfecta reproducci\u00f3n de los pinballs reales, con todo tipo de detalles gr\u00e1ficos y sonoros. \n\nDescubre todos los secretos, supera todas sus misiones y consigue ser el n\u00famero 1 del mundo o ser el mejor entre tus Amigos dejando tu m\u00e1xima puntuaci\u00f3n en la tabla de clasificaci\u00f3n online.\n\n- Dise\u00f1o Arcade.\n- Ambientaci\u00f3n Tetrica.\n- Multiball, Extraball, Skillshot,Jackpots...\n- Reproducci\u00f3n con todo lujo de detalles, luces y sonido.\n- 4 Diferentes camaras a seleccionar.\n- Tabla de Clasificaci\u00f3n Online.",
+        "languages": [
+            "en"
+        ],
+        "size": 447741952
+    },
     "70010000014081": {
         "id": "0100C9F009F7A000",
         "rightsId": "0100C9F009F7A0000000000000000005",
@@ -15467,7 +15506,7 @@
         "developer": null,
         "publisher": "Orange One",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6897d8b62195a42b113b13ba787d396c7f685467202de9298e03c7784b54d64e.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/82402d00e7686516531616782a7ed5eeae983b04a1863c33c51607656a26d5e1.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/17af3cce71dcfd16cb58add66880ca9f404781e90ce366f99eebf6f4ef235c1b.jpg",
             "https://img-eshop.cdn.nintendo.net/i/328598fd66a89bc81b5544f16d0f20f67c2214d98ee637eccc002128d723cf33.jpg"
@@ -15480,9 +15519,10 @@
             "es",
             "fr",
             "de",
+            "nl",
             "pt"
         ],
-        "size": 902823936
+        "size": 1606418432
     },
     "70010000033299": {
         "id": "01008DF012A7A000",
@@ -16542,6 +16582,55 @@
             "en"
         ],
         "size": 5142216704
+    },
+    "70010000035298": {
+        "id": "01001A10134B8000",
+        "rightsId": null,
+        "name": "CarX Drift Racing Online",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70010000035298,
+        "category": [
+            "Carreras",
+            "Simulaci\u00f3n",
+            "Deportes",
+            "Multijugador"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "CarX Technologies",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d8ca3a8b29d643ea2000ae4dab83390d8d3e2f44d00fbcb425c45e2cf2df2b47.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5bef28f34a7d775d2ea2e437fb4f99223a3ecb88730a56a31c0c5c5896ee8d3c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/674134d3140f60fd78f25454721f854faf8b863fa71b61d19e42df30b86bd211.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b35e8018d577b6efdc2c5e4dd1eea772213ce073788fcedb23242dff41ff9b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6869ae6860f23b7ca4e47e23834436d5e7e9ae80595243cda46e79447bb16fee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a115662ca9743dbcefd19288fb3230ef5e4e65265363a63cdeaa0ab3b1217803.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b03f6ad32c5544b1629f29a3e2b5d0310ca6039f2a8e1762ef8c7c81c43e327.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bc43bbad17320e8faeaacbd0f1984e5862f93b09b4845d5cc49578b35c9d132b.jpg",
+        "intro": "Drift Racing Online: todo un simulador de drift.\nM\u00e1s de 100 000 000 de fans en todo el mundo.\n\u00a1Ya en Nintendo Switch\u2122!",
+        "description": "EL SIMULADOR DE DRIFT M\u00c1S REALISTA\n\u00b7 CarX Drift Racing te otorga una experiencia \u00fanica conduciendo coches deportivos de forma simple e intuitiva\n\u00b7 Si te gustan los derrapes, prep\u00e1rate para disfrutar de este juego durante muchas horas\n\u00b7 Usa el freno de mano para empezar a derrapar\n\u00b7 Dibuja donuts quemando rueda en el asfalto\n\u00b7 Realiza derrapes humeantes\n\nPERSONALIZA TUS COCHES\n\u00b7 Sensaci\u00f3n fren\u00e9tica pilotando potentes coches deportivos\n\u00b7 Conducci\u00f3n \u00fanica en diferentes superficies: asfalto, hierba, arena\n\u00b7 Conduce m\u00e1s de 70 coches de carreras\n\u00b7 Puedes elegir diferentes configuraciones para cada coche: turbo, de carreras, de drift o el reglaje definitivo\n\nKITS DE CARROCER\u00cdA, PINTURA, VINILOS\n\u00b7 M\u00e1s de 100 kits de carrocer\u00eda completos\n\u00b7 Personaliza tu kit de carrocer\u00eda con m\u00e1s de 1000 piezas distintas\n\u00b7 Pinta tu coche\n\u00b7 Crea vinilos \u00fanicos\n\nDRIFT ONLINE Y COMPETICIONES\n\u00b7 Compite en salas en l\u00ednea (con hasta 16 jugadores)\n\u00b7 Haz drift en t\u00e1ndem con amigos\n\u00b7 Disfruta de c\u00e1maras en directo y repeticiones",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 3929014272
     },
     "70010000035320": {
         "id": "010044A0134E8000",
@@ -19293,7 +19382,7 @@
             "ko",
             "zh"
         ],
-        "size": 590348288
+        "size": 596639744
     },
     "70010000040004": {
         "id": "0100235014746000",
@@ -20693,7 +20782,8 @@
             "Otros"
         ],
         "ratingContent": [
-            "Violencia de fantasia"
+            "Sangre",
+            "Violencia"
         ],
         "numberOfPlayers": 1,
         "rating": 13,
@@ -21665,7 +21755,7 @@
             "ko",
             "zh"
         ],
-        "size": 812646400
+        "size": 1130364928
     },
     "70010000043795": {
         "id": "010001A015AB2000",
@@ -22187,6 +22277,43 @@
             "en"
         ],
         "size": 141557760
+    },
+    "70010000044298": {
+        "id": "010055A015CE6000",
+        "rightsId": null,
+        "name": "Parasomnia Verum",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211019,
+        "nsuId": 70010000044298,
+        "category": [
+            "Otros",
+            "Rompecabezas"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Vidas Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bf6b47d3937d3f5b801a93a06de372930b75f40eab6b0ce7381b210a8dfad174.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9864edc0ba39f71731c8e7e302cfcb1ddd0a30c4107aad399749f25903de6cf2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/411ed44e36b354b9afd7beb568140300afc3b1f12cacb857c4587c81e05db12c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3998557906ecb2c543158d96dfa2d2e1e60810af1f1f32580b9cfc283c3a2113.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63404dce4effa70fb81dd68c47bf4364c7417184bc7785dfccd7624a304dc5f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/193d16c4c217d60531b276ac2a153e55f5d7a63ca1cae363a07e14bf5fe3c1ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17dbf7ba803d00f57bc10edd8352fb7799e9b6fc4b25580b01e2dfb737c2c5cd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5e3263f9429ac8e48fb97d115fd7909151061390ae095c318b22da2c9d338461.jpg",
+        "intro": "Parasomnia Verum is an atmospheric horror game about a recurring dream.",
+        "description": "Parasomnia Verum is an atmospheric horror game about a recurring dream.\n\nYou play as Maddy, who keeps having a recurring nightmare. She tries to figure it out by meeting professor Wilbur, who specializes in dreams and their research, but in her dreams they discover something sinister. After a couple experiments it becomes too hard to tell what is real, what is just a dream and if that dream even belongs to you.\n\nThe game is an atmospheric experience, offering story through exploration, inventory features and a sinister backstory of Maddy and professor Wilbur's research.",
+        "languages": [
+            "en"
+        ],
+        "size": 447741952
     },
     "70010000044378": {
         "id": "0100B33014710000",
@@ -23003,7 +23130,7 @@
             "zh",
             "zh"
         ],
-        "size": 920649728
+        "size": 1455423488
     },
     "70010000045497": {
         "id": "010032C015DA0000",
@@ -23083,7 +23210,7 @@
             "https://img-eshop.cdn.nintendo.net/i/2b226c11e7cef2cc377cf88187bd5e2e7f85d0ceb611967a65b397a908ed9e6e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e8803b5f8564493c63ff3fd4c06c6e2484d0be00f3a6a501b8006da75c405388.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/64b82d25158e1761f41b30ca0cd9f744a3f342941d5377b9809032cc3256d46a.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/01fa10e8131d7d00e6fc3c3cb7cf24c5fb8d1c0e5cf987d81dafff143ce64e45.jpg",
         "intro": "\u00c1brete camino a trav\u00e9s de mundos de dibujos animados dibujados a mano, llenos de monstruos y extraterrestres ... \u00a1Y salva el Sistema Solar con el oso y el almirante!",
         "description": "\u00a1Los residentes del Sistema Solar han sido congelados en Staseo Magnesius y depende de ti rescatarlos!\nJuega como el oso y el almirante (como un jugador o multijugador local) mientras viajas a trav\u00e9s de mundos extra\u00f1os y niveles extra\u00f1os, luchando contra enemigos extra\u00f1os con una variedad de armas y objetos que encuentres en el camino.",
         "languages": [
@@ -23236,6 +23363,47 @@
         ],
         "size": 245366784
     },
+    "70010000045552": {
+        "id": "0100E9D016226000",
+        "rightsId": null,
+        "name": "El Lado Oscuro De La Luna: Un Thriller Interactivo De FMV",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70010000045552,
+        "category": [
+            "Aventura",
+            "Rompecabezas",
+            "Acci\u00f3n",
+            "Otros"
+        ],
+        "ratingContent": [
+            "Lenguaje fuerte"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Tayanna Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/db7e5622d8d147fed7a01809a9972426cbbbb6beead25ad84d2ac29734365832.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c2c6e2bb568d80f04de5729983b181d6d970e65c1dbd0c54ccbe7d11f9139810.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19973463b04f8f3ac23bbaa3aba6cb6785b7466a4aaa07324421129695b79a87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4dc607014e5857f417971977ef5fe32db574e7b257689e23e22db6ee8b3658d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4ed75e78a4a2c649b32568779b7cefef4a836a3e85114ebad930c5695c21d690.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2afc15fcab63188ba485d86047a9b706e50b190656807ea17ba78756a0df81f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dece039288b6438b1a42a51b1c61f27d6e5142b25a1002cb7a7a9df61e30c840.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/14f018cf7fa64d504fe245adb14866e129dca4539dbd0da1b519bd957c063793.jpg",
+        "intro": "Cuando sus 2 hijos peque\u00f1os desaparecen misteriosamente, depende de su padre soltero hacer lo que har\u00eda cualquier buen padre: ir al fin del universo y traerlos de regreso a casa.",
+        "description": "El Lado Oscuro De La Luna es un h\u00edbrido totalmente interactivo de FMV / pel\u00edcula interactiva, que presenta videos de acci\u00f3n en vivo y elementos de apuntar y hacer clic, junto con un total de 5 resultados diferentes.\n\nCuando sus dos hijos desaparecen al azar durante la noche, depende de usted ayudar a Dean Hamilton a traerlos de regreso a casa. A medida que el misterio se profundiza, ser\u00e1 necesario tomar decisiones y depende de usted tomar las correctas. \u00bfEn qui\u00e9n puedes confiar? Quien esta haciendo esto? \u00bfCu\u00e1l es el significado del inminente eclipse solar? \u00bfY qu\u00e9 son esas extra\u00f1as luces brillantes en el cielo?\n\nExplora el peque\u00f1o y pintoresco pueblo de Marywine, resuelve acertijos, haz algunos descubrimientos sorprendentes y ayuda a desentra\u00f1ar lo que realmente est\u00e1 sucediendo en este thriller de ciencia ficci\u00f3n.\n\nUn juego familiar que no se toma a s\u00ed mismo demasiado en serio y est\u00e1 hecho para los fan\u00e1ticos de los juegos FMV exagerados.\n\nCon los talentos de actuaci\u00f3n de Anarosa Butler (Contradiction: Spot The Liar !, The Shapeshifting Detective) como el te\u00f3rico de la conspiraci\u00f3n inform\u00e1tico \"Alyx\" y Rupert Booth (Contradiction: Spot The Liar !, The Shapeshifting Detective) como el malvado \"Gedeon\", The \u00a1Dark Side of the Moon promete traerte una emocionante aventura fuera de este mundo!\n\nEl reloj est\u00e1 corriendo, y ese eclipse est\u00e1 cerca de nosotros ... y cuando sea ... \u00a1adi\u00f3s ni\u00f1os!\n\nSIGUE OBSERVANDO LOS CIELOS.",
+        "languages": [
+            "en"
+        ],
+        "size": 6334447616
+    },
     "70010000045569": {
         "id": "0100D6E015CFC000",
         "rightsId": null,
@@ -23374,10 +23542,10 @@
             "Estrategia"
         ],
         "ratingContent": [
-            "Violencia"
+            "Violencia de fantasia"
         ],
         "numberOfPlayers": 1,
-        "rating": 13,
+        "rating": 10,
         "developer": null,
         "publisher": "Pix Arts",
         "frontBoxArt": null,
@@ -24445,6 +24613,46 @@
             "en"
         ],
         "size": 843055104
+    },
+    "70010000046897": {
+        "id": "0100D22016872000",
+        "rightsId": null,
+        "name": "Super Fowlst",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70010000046897,
+        "category": [
+            "Acci\u00f3n",
+            "Arcade",
+            "Plataformas"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Thomas K Young",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7d11d7f2e72ceb78ccd7d59095111b0db5550adcf8989a36133b0cd292575575.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bae0b820c11fb69dad736578ba87a6ed29d9a8ce53301564b1987d4a7ec662fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/053a15cdecf27aea04965790566f0d8ec1a4ff0b766a9369e37fa23baed74e0b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e6b14d9c7c160f07d8278cf53c404b11c57741893eb8e85db9e324d454e8886.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/10d6728378bdc4c54ebd948876555d0886f3bca2fa62b8c166c6fb5b28b486ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35e4417260a3827c9e0d96802f2364f044c8e3dbacbdf7994324b9650516bd12.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ad9652c6a6201ed49c502892c4c1f7699a233e3ae077cb63a7749a0157b83cb3.jpg",
+        "intro": "El mundo ha sido invadido por demonios y solo hay un pollo que puede detenerlos. \u00bfC\u00f3mo? Chocando contra ellos de cabeza. \u00bfPor qu\u00e9? No estoy seguro.",
+        "description": "Super Fowlst es un juego de acci\u00f3n sobre esquivar balas, aplastar monstruos y agarrar botines. Hay etapas en expansi\u00f3n que conquistar, jefes enormes que derrotar y todo tipo de artilugios y artilugios con los que interactuar. \u00a1Cambia tu tesoro por poderes geniales como bombas de huevo y cohetes para que realmente puedas mostrarles a esos demonios qui\u00e9n manda!\n\n\u2022 Un juego de acci\u00f3n sin fin del creador de Dadish.\n\u2022 Escenarios ilimitados generados por procedimientos que son diferentes cada vez que juegas.\n\u2022 \u00a1Aplasta a los demonios por la mitad!\n\u2022 \u00a1Sierras circulares! \u00a1Turbinas! Tubos! \u00a1Estalactitas! \u00a1Aletas de pinball! \u00a1Otras cosas!\n\u2022 \u00a1Jefes enormes!\n\u2022 \u00a1Dos cabezas de perro unidas por fantasmas!\n\u2022 Cambia tu bot\u00edn por poderosas mejoras.\n\u2022 \u00a1Grandes explosiones!\n\u2022 \u00a130 personajes desbloqueables!\n\u2022 \u00a1Secretos!\n\u2022 \u00a1Dispara cohetes por tu trasero!\n\u2022 \u00a1S\u00faper Fowlst!\n\u2022 \u00a1Es muy bueno!",
+        "languages": [
+            "en"
+        ],
+        "size": 50331648
     },
     "70010000047154": {
         "id": "0100B4801683A000",
@@ -26871,6 +27079,339 @@
             "0100B0C0086B1001"
         ]
     },
+    "70050000005085": {
+        "id": "010024700901B002",
+        "rightsId": "010024700901B0020000000000000004",
+        "name": "Gal*Gun 2 - Bubble Bath Bikini Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005085,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bf72729f3ed4c4a6a5104e9328e92974dbc25937f4b4d596a1f7a7f323606cbb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/99717be8f23e8019a37cfe841602aa0e30eebc3e860f452af5ff6976286df324.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f83b41996410ea66ea53c5c1e75c06bf63bcaa326165216cd40d8bf3f73536cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f21aa4bcb4635efae9def24195e8383bd148fbdce55674b3354a0af680d42a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/535781c777cb7c6da2e0f8471b31a758458fc878a044ea18cb0f99e9399869ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/666ddbcd2077b529b88e748b6f5afa7b4b72cfaa915a8bbf71dfa467dca2ae86.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/078cbf99b300906d0eb16a7f3d985596ec440d89e55def226acaa23fbd2c3910.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Bubble Bath Bikini' \n\u2022 Accesorio 'Rubber Ducky'\n\u2022 Accesorio 'Bubbly Pacifier'\n\u2022 Objeto 'Pink Rubber Ducky'",
+        "languages": null,
+        "size": 14680064,
+        "ids": [
+            "010024700901B002"
+        ]
+    },
+    "70050000005086": {
+        "id": "010024700901B003",
+        "rightsId": "010024700901B0030000000000000004",
+        "name": "Gal*Gun 2 - Meowvelous Sweater Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005086,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4bc0fa597c57031e4806f92f90cb21d9bfe96b673a5240c705cd01bbe8462678.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b77b21056e4d3683003a69dacf0018a5fb5c9576edbc5eb18e57d68fb46a5f08.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/54648810077772a804e3ada5534c7a5985b9629b944d23b5f6b3fd818fb7a5c6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e463ea762aa9cfb893262090476fc9d032561ef560cc8a2b25272ee09d44e9bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/044083a00b5fef1da034132a3ce2afb0df6827f819b271bc927fcf88f3e050ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a5afbc6d66cfde9ca4a8ccd7afb2ea845c3862cea8cff79614e17aa6dd43294.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c00482f727c39225fcad64b4a2ad3aea8220a717ac0c72facb3c10f31de142c2.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Meowvelous Sweater' \n\u2022 Accesorio 'Kitty Ears'\n\u2022 Accesorio 'Kitty Tail'\n\u2022 Objeto 'Kitty Letter'",
+        "languages": null,
+        "size": 34603008,
+        "ids": [
+            "010024700901B003"
+        ]
+    },
+    "70050000005087": {
+        "id": "010024700901B004",
+        "rightsId": "010024700901B0040000000000000004",
+        "name": "Gal*Gun 2 - Classy Bunny Girl Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005087,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fbcb1d9c44fdc5bbde0d583234545061e5ebb60c4885ed29b8d15d8b38e8c2dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1918f57e07079926b5bdb9140f4c7b95322dcbef2f8714da367f8ceb502bec5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa8671c44c750fca5d2306bf07b9574e6d3b0f6448f7d9d08fe1855412c1d8c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d5d5fd25bf0d84edc2959a9b7de7749cec90618efd513190efd1e059ad633dbb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8c70bfb035e139c3612e263722efbcf6fdc37a5079cfe3a198af70cc63f1a7cf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d450e058c946d0f1577c8a6e75a0d08e6d1adcdb3c3713afcceb9b1564b15483.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4a9d200a9ae5c02b90abedb87735331d729b9884bb38ab4b0036c8e87873defb.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Classy Bunny Girl' \n\u2022 Accesorio 'Black Bunny Ribbon'\n\u2022 Objeto 'Is the Order a Love Letter?'",
+        "languages": null,
+        "size": 31457280,
+        "ids": [
+            "010024700901B004"
+        ]
+    },
+    "70050000005089": {
+        "id": "010024700901B005",
+        "rightsId": "010024700901B0050000000000000004",
+        "name": "Gal*Gun 2 - Angelic Nurse Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005089,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/16afdfcd5b4d996631ce3a7b91313887dc78e45f924d734898d06c81e666d97f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa6bc0c6b9e32a80da3cccf03c58c58d1976103088b040d45be8378d7e6650cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c2c8e86de7b5900876a393551edfc4e023044572c678fb308c5f174777bb172e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/836b246dcf0d5101e1856b97e77b9ec7cde8ef1b9d4e36849fe011a3aaeaa350.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b673b5bd10df4ad0055d11e91154082be0b44b6195bc163556d0b1efcf93deb9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/785c572691b3c43ffa70af026f7bb830cab6939ed69e8327ca93d66ce5e291a7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3473418dc56d831d72101c85a204bb907c04fb982f7cac54f9c69d3a6ce5082b.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Angelic Nurse Uniform' \n\u2022 Accesorio 'Nurse's Cap'\n\u2022 Accesorio '\"Shadowy Figure\" (Blue)'\n\u2022 Objeto 'Love Diagnosis'",
+        "languages": null,
+        "size": 30408704,
+        "ids": [
+            "010024700901B005"
+        ]
+    },
+    "70050000005106": {
+        "id": "010024700901B007",
+        "rightsId": "010024700901B0070000000000000004",
+        "name": "Gal*Gun 2 - Black & White Bikini Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005106,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3c0f8cb727e27eddae47c36a02b51fecc97fe397b6669ffaa7e7a932f865ae62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd1f5f10155a9a57cbe4ad7b955684d76e62a43ae2f74babb7766e4eeff35cdb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ae4496cfeb5a286aeeace0cbb667c72af45f3d0e534ac98b00985677f067368.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0803f05f853d13c9d1352bd87c80d54803afa70a3136b3b7b0991b8c88c8beb9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ed4d02095b132fef9dadeac57118f7893b8d18c67335e21e5997e544c3d6d71.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a84f6d295e1a7241adbc4a03a0514d3df1063efd64a35e39c77124229c9bdee5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a445cf3e109ddc4f7c403d1b29e02b2e888550a2d90923315e8aa8f300a8aecc.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Devilishly Dark Bikini' \n\u2022 Traje 'Heavenly White Bikini' \n\u2022 Accesorio 'Hibiscus Hairpin'\n\u2022 Accesorio 'Killer Whale Float'\n\u2022 Objeto 'Tropical Drink'",
+        "languages": null,
+        "size": 60817408,
+        "ids": [
+            "010024700901B007"
+        ]
+    },
+    "70050000005107": {
+        "id": "010024700901B006",
+        "rightsId": "010024700901B0060000000000000004",
+        "name": "Gal*Gun 2 - Super-short Cheongsam Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005107,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ef3a713e398c35d3a7c58007713fcc777d3d078107a4466cb94aad7967920f26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0969597815bb09e939e295fd2c351dff542139363d9d0bb1fdbdc97b00c3fc8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1463694de01af6b33226f151498b1731dac31bec0a80f120fa6ea62e18245137.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c51249c5095acad7342732cac8806ee6def3c6b350d0201df438588797447c04.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9abee56cee934c10a40abf7fe24118a81312d4bbd0bfd14e7b48955c6bce1d39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/51e455af3bab8464205f0aaebe07d1fdee79cbc9105bc0239ea2ea1f2c4be12a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/daab0c013a2d9f7f84430c8ee3f524869c857ac1bc2e0a5f6fc83591b72d1afc.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Super-short Cheongsam' \n\u2022 Accesorio 'Flower Petal Hair Clip'\n\u2022 Objeto 'Happiness is a Warm Bun'",
+        "languages": null,
+        "size": 36700160,
+        "ids": [
+            "010024700901B006"
+        ]
+    },
+    "70050000005185": {
+        "id": "010024700901B008",
+        "rightsId": "010024700901B0080000000000000004",
+        "name": "Gal*Gun 2 - Fighting Spirit Academy Uniform Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005185,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cb155adc11633ddb7a14718edf56808736599d4d8ee0678ee9bb3f409b54ae6a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e6eacfc85e14fa66dc803f9e56bcae16111f6dcbdd8ba0a3ad496bee21c33d30.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9bb76d8e7e97a5ef1d2c487267ec98109d777b3921cfa2af71ab54c5a44068f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4908a44518ed742f5a5ba9978630fa097ecfc4ddf59d8bb1c2f1bc124c57a0b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05c3ce14b6eaa49385d6671f07075df2e945ed711d2346a638a94186a39f2a94.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd669069f69b617a658df698cd214a658257f4e14cf6de98c6fbfc707d39ade1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c7b854ddda35b1c4b40a9681ee5c9b714185137f9cd5a670b150c8e368780d59.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje '\"Fighting Spirit Academy\" Uniform' \n\u2022 Accesorio 'Candy Ribbons'\n\u2022 Accesorio '\"Fighting Spirit Academy\" Hat'\n\u2022 Objeto 'Soccer Team Invitation'",
+        "languages": null,
+        "size": 39845888,
+        "ids": [
+            "010024700901B008"
+        ]
+    },
+    "70050000005186": {
+        "id": "010024700901B009",
+        "rightsId": "010024700901B0090000000000000004",
+        "name": "Gal*Gun 2 - Venus Soccer Uniform Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005186,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ffd22100ffb28690d4fac32a7d2ddb19bb4f01c64892cafe5c82198721835256.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/923a26bc2eb5af851502dc08aefef3a2d3111fde69475d62ed63a55421ecd781.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab73d58272bce504b10021ddb491813155395afd86a550d517134b3ee2061d11.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/176f6618a29955d004288349aebcc508e41301fa5f739b61df700177f45e6275.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d4b5a90c666941488332703a5259765cd851cfb0b45a0fdbe81203f7f9077b4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/254b1ba2b6a06a99b19da22a8f8a89966ca966d4c721d48de165fe70dd0907ea.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/36e2a30c6c9383e8dd29c610c2e7b9296e7c98a51c9b3085da0ec3fbf5247ad2.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Venus Soccer Uniform' \n\u2022 Accesorio 'Soccer Ball'\n\u2022 Objeto 'Championship Trophy'",
+        "languages": null,
+        "size": 39845888,
+        "ids": [
+            "010024700901B009"
+        ]
+    },
+    "70050000005188": {
+        "id": "010024700901B00A",
+        "rightsId": "010024700901B00A0000000000000004",
+        "name": "Gal*Gun 2 - Tiger-striped Oni Bikini Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005188,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9f0b54132c9ecc53c176bb9cdd14c8f7bb77d55894e8dd54b05d8ec9afdf4de9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d4079a99e32fb473543b34b00127ebb5287f43a62e21913bdbc29d59215bee4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80a141c511a69ac3e1950162520d10228ca04fa677202a0e1406037c764d12c2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e55629ecfa0686de0ce49532a3cbaf8d00d13e79f1f2406d6eaa0da89ee460c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af20972f637866ed63adc2f5bf107931e9af56e3a2af1029dae825d1aefc6e69.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b538774b8b0b998d72be2461dba621a3541273c8bf0b71c96178e1054deff01d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fc09a99c89e731880fb0b0db3d0300e310286e63ceb977bf5e80e6d5b0b56f3c.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Tiger-striped Oni Bikini' \n\u2022 Accesorio 'Oni Horns'\n\u2022 Objeto 'Oni Club'",
+        "languages": null,
+        "size": 34603008,
+        "ids": [
+            "010024700901B00A"
+        ]
+    },
     "70050000005321": {
         "id": "01002FC00412D001",
         "rightsId": "01002FC00412D0010000000000000004",
@@ -26933,6 +27474,339 @@
             "01002FC00412D002"
         ]
     },
+    "70050000005347": {
+        "id": "010024700901B00B",
+        "rightsId": "010024700901B00B0000000000000004",
+        "name": "Gal*Gun 2 - Kung-fu Cutie Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005347,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/00ccccdb981e4642cf8bc4a9c9972a09b418d1e5b886e33cd2aa7bd03d7a039b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3369b6cc701f3f4c5be312bf863cd55d104934caafd6564669f18fa0cd1c3ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6511f1d6e0dffd954b3a119997a27b168f8ca3c65c3d04a4d6d40591c2970fd4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d2e6cdc8469a09f53150482fc2a2d824932589a3367935828294918d9a39968.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/548ed353342797e46a6411b1c353e3ca6401a138163390b2ea1b178496260688.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69a401c439137d6ea2e5a2b1a2b6c4aeb64698792e8ef9618ce11ab51a0cba56.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dcab01a6ce18b8f65653eb21907c24f46f63b0f25d5302ec50f9e06a1568e648.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Kung-fu Cutie' \n\u2022 Accesorio 'Bun Covers'\n\u2022 Objeto 'Piping-hot Ramen'",
+        "languages": null,
+        "size": 47185920,
+        "ids": [
+            "010024700901B00B"
+        ]
+    },
+    "70050000005348": {
+        "id": "010024700901B00C",
+        "rightsId": "010024700901B00C0000000000000004",
+        "name": "Gal*Gun 2 - Sexy Shrine Maiden Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005348,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bb52b4ecb23e93b4c0ca8fc1d625615964ed819abf04f8a716b27c51828a6d47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bee4868f1427fa792ace6430062783be5fc2387e75e946ab897a3eda9020b21.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/decadf25f03f2afdfe7d7b7e9e432a65615603e8b5f240038b9f55f84180d4c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a6f317dd660e76f1d74eb5460160361c594a0d17c76c88550e7154a79e4e4cb2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f792d5827568b8a6fd72b45b82fa7ccec43b169a00312a4d2824e58f4b870da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d9d92e94481120484c6e3424bb37564aaf1de04614d90bfc36723152c7f04dc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/22aba46130659f474801a3910aa6f44da26a1c9f93877523e8f35194279d55b5.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Sexy Shrine Maiden' \n\u2022 Accesorio 'Foxy Ears'\n\u2022 Accesorio 'Bamboo Broom'\n\u2022 Objeto 'Wish Board of Love'\n\u2022 Objeto 'Thick-rimmed Glasses (Red)'",
+        "languages": null,
+        "size": 40894464,
+        "ids": [
+            "010024700901B00C"
+        ]
+    },
+    "70050000005349": {
+        "id": "010024700901B00D",
+        "rightsId": "010024700901B00D0000000000000004",
+        "name": "Gal*Gun 2 - Alluring Belly Dancer Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005349,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f3f82d247b4d1b6d8394e99dd1c16fca720cd0ca176947ec34c0b4e3e8561376.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d2517727cafb3de4ba19288dd4e5325bb485ff7e81b235cd55ad9f1e16d486f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0bb89903f4bfc0cddd94c34df895c91432cbd409819654c7e21f3ffbebbfa1ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4d7b3b79c77d1913695646b5afa38f22d40503f072543bb4fea3d20163e2210.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3feec06fe064cf4e2951fb8769420a952c0ea89cb3efff223d69d933a3d16639.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/304bf1985313ce4dd5d026e1b9bdf5531639f11f07b501fdc3b1369c3c85e42f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a3fd560e4272cd6f68b5f8b8b300ec544c017a0e235b2880988894e4ba1094ab.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Alluring Belly Dancer' \n\u2022 Accesorio 'Golden Veil'\n\u2022 Objeto 'Feathery Fan'",
+        "languages": null,
+        "size": 47185920,
+        "ids": [
+            "010024700901B00D"
+        ]
+    },
+    "70050000005350": {
+        "id": "010024700901B00E",
+        "rightsId": "010024700901B00E0000000000000004",
+        "name": "Gal*Gun 2 - Fancy Maid Mini-skirt Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005350,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/011fecb3f783b775edc9f00fe41eba7807ae4bfa4d388f56e1942e5b2ad354b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e740c373c0d3e2813617c99fea4c4daa6a411a194c18951e9b44be43911f60bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f5ca39b26bd6f314443a1afa4c7ce3174a78f4cbd69e5ebdd2b60c308c17fbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8f7750d7a5142f0d154f2747ba8c073272a030116b4c674ab6fe8347fed71a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee981a7ef5ec8ae8fa92f0ae516b2593f56587255759a82197bdadd3e97ce22d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48ff33f71dc7defec1340122d27afe094397fbec8c1f812f61cb0544e3296030.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b2057af787b7a63dfe2563088d1b0bbde626cffcafe2fb46955bfb74b4522bd8.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Fancy Maid Mini-skirt' \n\u2022 Accesorio 'Frilly Maid Headband'\n\u2022 Objeto 'Kawaii Handmade Omelet'",
+        "languages": null,
+        "size": 33554432,
+        "ids": [
+            "010024700901B00E"
+        ]
+    },
+    "70050000005351": {
+        "id": "010024700901B00F",
+        "rightsId": "010024700901B00F0000000000000004",
+        "name": "Gal*Gun 2 - Pole Position Pin-up Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005351,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/28b20e0f4f090a3340df54b5fe9bc78a5a9a2ded2b7ef1e874d3beb20250a97e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4cbecd53f2e10056685c498cbcfdef6db1b7b0a184d9151fa1fd0846d20d974e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bd4e6565df880c298fdf48fa1f49e182ba722d5593a2224bdf1bc3ba6b80c15.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70643d63cc75fe9da2dc05164978e2e707b7f168132c168ec78bfc5abe6e3cd0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23131447f7c627f2d962d7f48d2e6a76d616b94679518a09d754174658c03dfe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5225cb9e2c1f217eb7c9da49f9b6bc1fa65e82daeab9b7b40890868280a907d7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cb15c2966d0c0561d1246922b89117590f6264c1c13eba06c3b911697dee23e0.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022Traje 'Pole Position Pin-up' \n\u2022Accesorio 'Grid Girl Cap'\n\u2022Objeto 'Mini Race Car'",
+        "languages": null,
+        "size": 39845888,
+        "ids": [
+            "010024700901B00F"
+        ]
+    },
+    "70050000005352": {
+        "id": "010024700901B010",
+        "rightsId": "010024700901B0100000000000000004",
+        "name": "Gal*Gun 2 - Risque Apron Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005352,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ba12b00102dca8966c798378fa2b1b6bd5381ca311a38a82c7ecbc86d586e233.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52a5bb8b4d0411e340875f79a40d6f0162cf0853837fc668697d672b99955636.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e1ecc27d66dc6a0bb434514ebdf7c854c88b9997deaa3829d85bcf30e8f5450.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16480bb3abb0414726cf12e0f5aa1cf7e64e3c667c7da72ddfa9d6680c8336a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1008d92b87bcf69758590e93aa86be11306a02a318e2b8927200bf44b61c2bf9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ce9db1b14d862b1966a7ef35b9dd544c25606e83c24017fe91e2745608e3864.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00851892b3e1208364ed41884315cdfeeae5b7d59870898c4ea17211c0479132.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Risque Apron' \n\u2022 Accesorio 'Whipped Cream'\n\u2022 Objeto 'Extra-creamy Cake'",
+        "languages": null,
+        "size": 47185920,
+        "ids": [
+            "010024700901B010"
+        ]
+    },
+    "70050000005505": {
+        "id": "010024700901B011",
+        "rightsId": "010024700901B0110000000000000004",
+        "name": "Gal*Gun 2 - Alice in Doki Doki Land Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005505,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c6a02cada9a57a39a69e71593f1545a7dfdd2f8b978a37d58a3d2d2294294160.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6cad702a34317cc3b3d78acc3c62ce37d99ac92af58e22a2892222b38b5a78da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de53c0375479b763b41fededd8b793ba162c8c9233640f3890dabdcfc3d5426b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a9609b972df5f100e0b5a2b3cca1060dca6f00bb03519afa143999c65992514.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d80f317f1fa1fc40e94300daa531fc01f95dd6f2cd2cbe366b713066e1509c1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/56639b423089014537121f2ff76454782ebaabae6216cee4a2b5d22eebdc56a7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/08bc93df3008e4a96ec8996602d339165d1dee458322b3c9dc129b8edc6603e0.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Alice in Doki Doki Land' \n\u2022 Accesorio 'White Bunny Ribbon'\n\u2022 Objeto 'King of Hearts'",
+        "languages": null,
+        "size": 33554432,
+        "ids": [
+            "010024700901B011"
+        ]
+    },
+    "70050000005506": {
+        "id": "010024700901B012",
+        "rightsId": "010024700901B0120000000000000004",
+        "name": "Gal*Gun 2 - Vice Cop Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005506,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e2174d77d87359b178911385bf269279d126130f7fe79b5ff4cd1ad8923e3d34.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e6dbf69fe205c444c8c5d9fd5a3a34df20b062ede2ab84900e8a30cbb7c55820.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7862d775bc224f2e44b86dc59a1420979cbbdff975162695697cee9ae5cc895d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cbda1319698720d3d46566b2f10b612763d26f9ea7003bfa126120a768f5e05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9fdfd72136be22912239439fa8e135f650a7ca7778ed221cf1cb611d7c7eda16.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5fec09d6b7b5dda78ddc899ad2b2f3d2b99cddcf0df9c653ce17a230ea78d572.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/22070ad70d58a24078a0596fb1267f56683dfb9b3255a68cadbbbbb4f6139e3f.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Vice Cop' \n\u2022 Accesorio 'Officer's Cap'\n\u2022 Accesorio 'Submachine Gun'\n\u2022 Objeto '(Boyfriend) Wanted Poster'",
+        "languages": null,
+        "size": 44040192,
+        "ids": [
+            "010024700901B012"
+        ]
+    },
+    "70050000005507": {
+        "id": "010024700901B013",
+        "rightsId": "010024700901B0130000000000000004",
+        "name": "Gal*Gun 2 - Racy Ribbons Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005507,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/54232ea41cdffd3e2295edbeb3c0b66a0862f8b84a44594e2de9976fd7605c39.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f68adea046626daaded7e6730af711a2b6153cc80b0119bb20c1e2877c17b9d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/81cfe6362f1a3bdac2659d810f54520fc2600d7244e5e4ac19dca3243dbe4100.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9bf9b3cd67c39fc8b2c2bc788eb1de0a0897cb3e31e652cbb8c15b123010fbde.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/192b67b9ad859d5150f05eb3464871e2bf537f853d62579f9a389f3364290633.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/301de312a3385ad9745c096ee41effdd0c467189d216129aed640f374aafa01c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ba10ae6ba0aaade96a1439a25275bac325d717ae02359c7bc58226bea48a80d5.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Racy Ribbons' \n\u2022 Accesorio 'Ribbon Headband'\n\u2022 Accesorio '\"Shadowy Figure\" (Green)'\n\u2022 Objeto 'Heart Pillow'",
+        "languages": null,
+        "size": 26214400,
+        "ids": [
+            "010024700901B013"
+        ]
+    },
     "70050000005541": {
         "id": "01005D100807B001",
         "rightsId": "01005D100807B0010000000000000004",
@@ -26962,6 +27836,117 @@
         "size": 4194304,
         "ids": [
             "01005D100807B001"
+        ]
+    },
+    "70050000005653": {
+        "id": "010024700901B014",
+        "rightsId": "010024700901B0140000000000000004",
+        "name": "Gal*Gun 2 - Sergeant Suspenders Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005653,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1ac64e30294c8da4f8e8db11f1c0ce3390cb22bf1ed978e41eb2b3aedb78283d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f03e95f052bb279b55865b7dd8a24885d23ae7ef28f254e463013112a5b28f56.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f1d4631e837a4036228e76bc63d817a142ad4a37f8a4033dfa782abcc849f68.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e5c09ef6783ba323b55d21228a78898c779ee990b564d3b45df620d3d1adfd72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ff60c374ca06113cd034d0ed118393273daafb345e27334e64b8e4a22b8a03b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fcc5f2195fb6c084c1a453692abfc7f1575e19988a6c23b961883472546d258a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c02fbd9d8fe0b330ce7376bf062d2d20d81676befa47a27564e21f786697dda2.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Sergeant Suspenders' \n\u2022 Accesorio 'Sergeant's Cap'\n\u2022 Accesorio 'Rocket Launcher'\n\u2022 Objeto 'Top Secret Love Docs'",
+        "languages": null,
+        "size": 49283072,
+        "ids": [
+            "010024700901B014"
+        ]
+    },
+    "70050000005654": {
+        "id": "010024700901B015",
+        "rightsId": "010024700901B0150000000000000004",
+        "name": "Gal*Gun 2 - S-Class Demon Buster Suit Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005654,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/34719185f013d8dc52bfa2aa5093c553aa4e363871b0f940995768aa2000dd55.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11d9e47ea65545533cecaa8d6a27acdd99931c5890d1ec59a7897cf7241e6f11.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4bd8782657bcf18b30d3bf2242ebb3b22d97138df05396d472e3df6bc36929e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e33fd221812b4e9ec9b47093a03fc9b4f1ace8a8c70e3954736af7c9c76c0cda.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1a2b92e9dc21326978f9d5984a111bae1a5ea046ebf998970a29469cddf86e19.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65c9c044d5a6ed7b0351e519da58ed494cee26bd45ba934d521c8ed07b08b9fc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/844d5d1a58bf4256cef390c3e0dfb08eb928e645b95a7b86c712d22638473703.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'S-Class Demon Buster Suit' \n\u2022 Accesorio 'Anti-Demon Lasers'\n\u2022 Accesorio 'Demon-detecting Visor'\n\u2022 Objeto 'Heavenly Card Key'",
+        "languages": null,
+        "size": 44040192,
+        "ids": [
+            "010024700901B015"
+        ]
+    },
+    "70050000005655": {
+        "id": "010024700901B016",
+        "rightsId": "010024700901B0160000000000000004",
+        "name": "Gal*Gun 2 - Slime Time Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000005655,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ff3ec1cbd42ef1c35eef3f674de5bb97fdfc36bf8a07ef105d7dd6b0a5c4e327.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74cf8a04ca04583969e41975ebc35ee17ec249b231015bc3801d089c5ccab324.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf26c5712d06a5b3ebcd98a043b97adda25d16259770b81a1075725b2dede3eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/29c0ae03f1ca9ce3674b17d483a9d54b56fbd007da4dd1ed0aff5aadc6ca97aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd356df86165175d58219a48e0d835e4fd617a2119c7a8877595a0fa8627a840.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87e47ba62c7ca990b94140358a0febcca9253df76982ada202618fa41ff7cd51.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fce4789061a32cc65579d9ca00821f9a477161827caece3488159a22e88f4ba1.jpg",
+        "intro": null,
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\nEste conjunto incluye:\n\u2022 Traje 'Slime Time' \n\u2022 Accesorio 'Googly Slime Hat'\n\u2022 Objeto 'Jiggly Jelly'",
+        "languages": null,
+        "size": 54525952,
+        "ids": [
+            "010024700901B016"
         ]
     },
     "70050000005659": {
@@ -37182,12 +38167,12 @@
     "70050000018966": {
         "id": "01006A800016F00C",
         "rightsId": null,
-        "name": "Paquete de aspirante 11",
+        "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 11",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20211231,
+        "releaseDate": 20211018,
         "nsuId": 70050000018966,
         "category": null,
         "ratingContent": [
@@ -37203,10 +38188,17 @@
         "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d1b90d74c18e3b3f5394f7bf63bb5cf475dbca51e83908982ad20154008f36c4.jpg",
-        "intro": null,
-        "description": "Este paquete de contenido descargable incluye:\n\u3000- Un combatiente nuevo\n\u3000- Un escenario nuevo\n\u3000- Varios temas nuevos\n\nSe ofrecer\u00e1 informaci\u00f3n adicional en una fecha posterior.",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a18ce1596bae3a4333daa54dd05cdfe5b9e68ea617a6a59fe3277a572b62c475.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/455b7a7f65e93d022394ad22ef695a17a69d2ff0c9ac427451a0151df12ea15d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1793633246e534da8aca6e1a4660925ebc40a1c86cb5aa37062e63b640ca3580.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09c4e1e6411e0108b185bef5719af542bf70c90afbfcbdbc6fb61b9c8549a3b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a44a3c7461e09f9675de4994ffdc553fca24752538647771a5d30aa45ad12b7e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/920bb60fe68c5ea0ad4f0968f086612fdb435dffc72cae355848e6c931e96f31.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0cc25636018e8ce2da574135f63147df05fbc5db72d547e99642147a81d9ca39.jpg",
+        "intro": "\u00a1Sora se une al combate!",
+        "description": "Sora de la serie KINGDOM HEARTS se une al combate en el juego Super Smash Bros. Ultimate\u2122. Sora blande la llave espada y trae consigo un arsenal de hechizos para luchar. Sora est\u00e1 listo para emplear sus t\u00e9cnicas que le permiten encadenar combos de tres golpes y hacer gala de su estilo a\u00e9reo en combate. El Basti\u00f3n hueco es un nuevo escenario basado en uno de los sitios m\u00e1s emblem\u00e1ticos de la serie y en \u00e9l podr\u00e1s disfrutar de distintas vistas del extravagante y siniestro castillo. Cuando el combate est\u00e9 alcanzando su climax, el fondo cambiar\u00e1 a un area especial inspirada por el Descenso al Coraz\u00f3n que incluye vitrales con reconocidos personajes de la serie KINGDOM HEARTS.\n\nEl estilo de combate de Sora en KINGDOM HEARTS ha sido adaptado fielmente en su APARICI\u00d3N en Super Smash Bros. Ultimate. Su especial normal alterna entre tres poderosos hechizos elementales: Piro++, Electro++ y Hielo++. Sus otras t\u00e9cnicas especiales, incluyendo Estocada veloz y Helic\u00f3ptero, te ayudar\u00e1n a moverte con agilidad en el aire y har\u00e1 que tus acciones sean dif\u00edciles de predecir. El Smash Final, Sellar la cerradura, \u00a1lanzar\u00e1 un rayo a tus adversarios para atraparlos y dejarlos a tu merced!\n",
         "languages": null,
         "size": 3145728,
         "ids": [
@@ -53441,6 +54433,111 @@
             "01001B300B9BF065"
         ]
     },
+    "70050000030081": {
+        "id": null,
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Gorro de Justino",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000030081,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b3ae01972974ad95b377c416ff4ac38605583b6f6798de4af661b52959848a1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7d70e58cefc3c8ec93a44e08fb02a08d2a14ce1a8ab1d111df9a400541e1c09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b150a8328ae8442f4e04265d7e50d7f50ea4b4d158389ba00b32568167f8561.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f1f40bd8cb363b81affcb235cf0af85fc21f9548a7e0f9b36f223cf09c1acd6b.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye el gorro de Justino.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000030082": {
+        "id": null,
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Gorro de octoling",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000030082,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7a0ab7575044dc3fca09b17cf2c8f60c4dadef3f792cfe3765fcdcc57e3c3103.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22070b6f6c1291e494dc3433e2ddc11e45d90b2cb48e088985630f3fac1c9262.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/779e2b2aa4ad34a3eb422e1dd27ecca26f409fca32903593377f8baca527e2ae.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d98503939ad373e28836678df7567e6a6e750067b8fb4889f2b1ec0a578b3638.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye el gorro de octoling.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000030083": {
+        "id": null,
+        "rightsId": null,
+        "name": "\u3010Disfraz\u3011Casco y armadura del DOOM Slayer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70050000030083,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/deb833a334f950d3f8d9cf92ef097715680cff6d135612169bd8b21cdb9c2582.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/637878078f7b35a24d08e8e523e7ae2106cc32ed7321b5541e6a9fcaaad4afce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/248809bb33b811da8b224bc6bea408e6d81faa22551664edd5012fc27d4e0074.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/89d9c0c94fe0da1c583593ec45540744f1ff52121e686ee05fabd364592dcab4.jpg",
+        "intro": null,
+        "description": "Este contenido descargable incluye el casco y la armadura del DOOM Slayer.",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000030124": {
         "id": "010071C013391320",
         "rightsId": null,
@@ -54726,6 +55823,210 @@
         "languages": null,
         "size": 8734638080
     },
+    "70070000001981": {
+        "id": null,
+        "rightsId": null,
+        "name": "Gal*Gun 2 - DLC Set 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70070000001981,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/99717be8f23e8019a37cfe841602aa0e30eebc3e860f452af5ff6976286df324.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f83b41996410ea66ea53c5c1e75c06bf63bcaa326165216cd40d8bf3f73536cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b77b21056e4d3683003a69dacf0018a5fb5c9576edbc5eb18e57d68fb46a5f08.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/044083a00b5fef1da034132a3ce2afb0df6827f819b271bc927fcf88f3e050ff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa8671c44c750fca5d2306bf07b9574e6d3b0f6448f7d9d08fe1855412c1d8c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8c70bfb035e139c3612e263722efbcf6fdc37a5079cfe3a198af70cc63f1a7cf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6e80201e0338029d3d9a4d1fce88d8c714b0dc942960f0edf1bde6acd4819201.jpg",
+        "intro": null,
+        "description": "This bundle includes:\n\u2022 Bubble Bath Bikini Set\n\u2022 Meowvelous Sweater Set\n\u2022 Classy Bunny Girl Set",
+        "languages": null,
+        "size": 80740352
+    },
+    "70070000002004": {
+        "id": null,
+        "rightsId": null,
+        "name": "Gal*Gun 2 - DLC Set 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70070000002004,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/16afdfcd5b4d996631ce3a7b91313887dc78e45f924d734898d06c81e666d97f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa6bc0c6b9e32a80da3cccf03c58c58d1976103088b040d45be8378d7e6650cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef3a713e398c35d3a7c58007713fcc777d3d078107a4466cb94aad7967920f26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0969597815bb09e939e295fd2c351dff542139363d9d0bb1fdbdc97b00c3fc8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3c0f8cb727e27eddae47c36a02b51fecc97fe397b6669ffaa7e7a932f865ae62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ae4496cfeb5a286aeeace0cbb667c72af45f3d0e534ac98b00985677f067368.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b1a4af93dac71a1daf2f09c1ef6619ababcebdebb6a1c7de9de14e6cd3fbfa24.jpg",
+        "intro": null,
+        "description": "Este paquete incluye:\n\u2022 Gal*Gun 2 - Angelic Nurse Set\n\u2022 Gal*Gun 2 - Super-short Cheongsam Set \n\u2022 Gal*Gun 2 - Black & White Bikini Set",
+        "languages": null,
+        "size": 127926272
+    },
+    "70070000002063": {
+        "id": null,
+        "rightsId": null,
+        "name": "Gal*Gun 2 - DLC Set 3",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70070000002063,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cb155adc11633ddb7a14718edf56808736599d4d8ee0678ee9bb3f409b54ae6a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05c3ce14b6eaa49385d6671f07075df2e945ed711d2346a638a94186a39f2a94.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ffd22100ffb28690d4fac32a7d2ddb19bb4f01c64892cafe5c82198721835256.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/923a26bc2eb5af851502dc08aefef3a2d3111fde69475d62ed63a55421ecd781.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f0b54132c9ecc53c176bb9cdd14c8f7bb77d55894e8dd54b05d8ec9afdf4de9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b538774b8b0b998d72be2461dba621a3541273c8bf0b71c96178e1054deff01d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/44c5378277d6472045569d2fafae51a58f2eab12f9028ff0fb59e2c59e3177c0.jpg",
+        "intro": null,
+        "description": "Este paquete incluye:\n\u2022 Gal*Gun 2 - Fighting Spirit Academy Uniform Set\n\u2022 Gal*Gun 2 - Venus Soccer Uniform Set\n\u2022 Gal*Gun 2 - Tiger-striped Oni Bikini Set",
+        "languages": null,
+        "size": 114294784
+    },
+    "70070000002164": {
+        "id": null,
+        "rightsId": null,
+        "name": "Gal*Gun 2 - DLC Set 4",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70070000002164,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/00ccccdb981e4642cf8bc4a9c9972a09b418d1e5b886e33cd2aa7bd03d7a039b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/548ed353342797e46a6411b1c353e3ca6401a138163390b2ea1b178496260688.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bee4868f1427fa792ace6430062783be5fc2387e75e946ab897a3eda9020b21.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f792d5827568b8a6fd72b45b82fa7ccec43b169a00312a4d2824e58f4b870da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d2517727cafb3de4ba19288dd4e5325bb485ff7e81b235cd55ad9f1e16d486f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/304bf1985313ce4dd5d026e1b9bdf5531639f11f07b501fdc3b1369c3c85e42f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6eb7844e8d13a4a548ca419e5d12c58bdccf18faaefbf0efbc29720fc05d4438.jpg",
+        "intro": null,
+        "description": "Este paquete incluye:\n\u2022 Gal*Gun 2 - Kung-fu Cutie Set\n\u2022 Gal*Gun 2 - Sexy Shrine Maiden Set\n\u2022 Gal*Gun 2 - Alluring Belly Dancer Set\"",
+        "languages": null,
+        "size": 135266304
+    },
+    "70070000002165": {
+        "id": null,
+        "rightsId": null,
+        "name": "Gal*Gun 2 - DLC Set 5",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70070000002165,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e740c373c0d3e2813617c99fea4c4daa6a411a194c18951e9b44be43911f60bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f5ca39b26bd6f314443a1afa4c7ce3174a78f4cbd69e5ebdd2b60c308c17fbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bd4e6565df880c298fdf48fa1f49e182ba722d5593a2224bdf1bc3ba6b80c15.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23131447f7c627f2d962d7f48d2e6a76d616b94679518a09d754174658c03dfe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e1ecc27d66dc6a0bb434514ebdf7c854c88b9997deaa3829d85bcf30e8f5450.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ce9db1b14d862b1966a7ef35b9dd544c25606e83c24017fe91e2745608e3864.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ec66793c1dda92398d46e8a6760ee6f45d07c0346b62317d6f8705e44e22ba73.jpg",
+        "intro": null,
+        "description": "Este paquete incluye:\n\u2022 Gal*Gun 2 - Fancy Maid Mini-skirt Set\n\u2022 Gal*Gun 2 - Pole Position Pin-up Set\n\u2022 Gal*Gun 2 - Risque Apron Set",
+        "languages": null,
+        "size": 120586240
+    },
+    "70070000002381": {
+        "id": null,
+        "rightsId": null,
+        "name": "Gal*Gun 2 - DLC Set 6",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70070000002381,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c6a02cada9a57a39a69e71593f1545a7dfdd2f8b978a37d58a3d2d2294294160.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de53c0375479b763b41fededd8b793ba162c8c9233640f3890dabdcfc3d5426b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7862d775bc224f2e44b86dc59a1420979cbbdff975162695697cee9ae5cc895d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cbda1319698720d3d46566b2f10b612763d26f9ea7003bfa126120a768f5e05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/81cfe6362f1a3bdac2659d810f54520fc2600d7244e5e4ac19dca3243dbe4100.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/301de312a3385ad9745c096ee41effdd0c467189d216129aed640f374aafa01c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b3f36a41fa811597b084a3df512c26aa3932dff31fc06d2fa4ee4f3a753d1715.jpg",
+        "intro": null,
+        "description": "Este paquete incluye:\n\u2022 Gal*Gun 2 - Alice in Doki Doki Land Set\n\u2022 Gal*Gun 2 - Vice Cop Set\n\u2022 Gal*Gun 2 - Racy Ribbons Set",
+        "languages": null,
+        "size": 103809024
+    },
     "70070000002404": {
         "id": null,
         "rightsId": null,
@@ -54754,6 +56055,40 @@
         "languages": null,
         "size": 12582912,
         "ids": []
+    },
+    "70070000002581": {
+        "id": null,
+        "rightsId": null,
+        "name": "Gal*Gun 2 - DLC Set 7",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70070000002581,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f03e95f052bb279b55865b7dd8a24885d23ae7ef28f254e463013112a5b28f56.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f1d4631e837a4036228e76bc63d817a142ad4a37f8a4033dfa782abcc849f68.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4bd8782657bcf18b30d3bf2242ebb3b22d97138df05396d472e3df6bc36929e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1a2b92e9dc21326978f9d5984a111bae1a5ea046ebf998970a29469cddf86e19.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74cf8a04ca04583969e41975ebc35ee17ec249b231015bc3801d089c5ccab324.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87e47ba62c7ca990b94140358a0febcca9253df76982ada202618fa41ff7cd51.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5b85cf6970a494f3f818270a1d92e18cb69ea31e07ea19f0ac8dba6d66a8d908.jpg",
+        "intro": null,
+        "description": "Este paquete incluye:\n\u2022 Gal*Gun 2 - Sergeant Suspenders Set\n\u2022 Gal*Gun 2 - S-Class Demon Buster Suit Set\n\u2022 Gal*Gun 2 - Slime Time Set",
+        "languages": null,
+        "size": 147849216
     },
     "70070000003203": {
         "id": null,
@@ -55776,6 +57111,38 @@
         "languages": null,
         "size": 3283091456
     },
+    "70070000007562": {
+        "id": null,
+        "rightsId": null,
+        "name": "Dusk Diver - Angel in White Uniform & News Anchor Costume",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70070000007562,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Temas insinuantes moderados"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a7e868d943772c5063f3abe44f50669a215063fa1a994077fe7e9e91bb0d4177.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d4f1245d21dc0fe4cd15f6d9de03474321949b753fdff1af1f557e3afcb12e64.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ce6d4416cbd4a9f2cf187d304b99905e10ee06dff1c4d9eecb0f25e48e13535.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37a7206783bc559a31b07d7fcbec173d978e8fd21867043fabc3d525f9e7716f.jpg",
+        "intro": "Un brillante RPG de acci\u00f3n con estilo anime con un sistema de combate orientado a la acci\u00f3n en una incre\u00edble Taipei.",
+        "description": "A\u00f1ade el conjunto de ropa al vestuario.\n\nEste conjunto incluye:\n- Angel in white uniform (Yumo)\n- News anchor costume (Yumo)",
+        "languages": null,
+        "size": 13631488
+    },
     "70070000007782": {
         "id": null,
         "rightsId": null,
@@ -56416,11 +57783,12 @@
             "https://img-eshop.cdn.nintendo.net/i/39a117ef0605dc18f879d73d2736e210e61f690e607083d3e0de7f30e6661521.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f63ea055ccf19501e56551404e741e1836bc62b4370649ccf12a12095823c5f9.jpg",
             "https://img-eshop.cdn.nintendo.net/i/fe60ad1279f447393159cc3c512b263935dcc0bd69aa503004ab45beb52c55e2.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/c466e172bdadcd415e892937efde993e9df2a7da43fb352ec90bdc58dda58b9a.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/c466e172bdadcd415e892937efde993e9df2a7da43fb352ec90bdc58dda58b9a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a18ce1596bae3a4333daa54dd05cdfe5b9e68ea617a6a59fe3277a572b62c475.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bd2b31900908fa299444d35836d4ae468c0462160e35d36cf218482ac4ffca9b.jpg",
         "intro": "\u00a1Expande tu elenco de combatientes con el pase de combatientes VOL. 2 de Super Smash Bros.\u2122 Ultimate!",
-        "description": "\u00a1Expande tu elenco de combatientes con el pase de combatientes VOL. 2 de Super Smash Bros.\u2122 Ultimate para el juego Super Smash Bros.\u2122 Ultimate. Tras adquirir el pase de combatientes tendr\u00e1s acceso a contenido adicional que incluye seis combatientes jugables, m\u00e1s escenarios y temas musicales una vez que est\u00e9n disponibles. \u00a1Los combatientes adicionales incluyen a Min Min del juego ARMS\u2122, Steve y Alex de Minecraft\u2122, Sephiroth de la serie Final Fantasy, Pyra / Mythra de Xenoblade Chronicles\u2122 2  y Kazuya Mishima de TEKKEN! \n\nFINAL FANTASY 7 FUE CLASIFICADO PARA ADOLESCENTES POR LA ESRB\nXENOBLADE CHRONICLES 2 FUE CLASIFICADO PARA ADOLESCENTES POR LA ESRB\nLA SERIE TEKKEN HA SIDO CLASIFICADA PARA ADOLESCENTES POR LA ESRB \n\n\nEl pase de combatientes vol. 2 de Super Smash Bros. Ultimate es un set que incluye seis paquetes de combatientes.\n\nEl contenido del paquete de combatiente 11 a\u00fan no han sido anunciado, pero se incluye con la compra de este pase de combatientes.\n\nEl paquete de combatiente 6 incluye a Min Min como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 7 incluye a Steve y Alex como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 8 incluye a Sephiroth como combatiente jugable, un escenario y varias melod\u00edas. \n\nEl paquete de combatiente 9 incluye a Pyra / Mythra como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 10 incluye a Kazuya Mishima como combatiente jugable, un escenario y varias melod\u00edas.\n\nEn la compra de este pase de combatientes VOL. 2 no se incluye el contenido del paquete de combatiente 1 hasta el paquete de combatiente 5 del anterior pase de combatientes para Super Smash Bros. Ultimate que se vende por separado.\n\n\n\n",
+        "description": "\u00a1Expande tu elenco de combatientes con el pase de combatientes VOL. 2 de Super Smash Bros.\u2122 Ultimate para el juego Super Smash Bros. Ultimate. Tras adquirir el pase de combatientes tendr\u00e1s acceso a contenido adicional que incluye seis combatientes jugables, m\u00e1s escenarios y temas musicales una vez que est\u00e9n disponibles. \u00a1Los combatientes adicionales incluyen a Min Min del juego ARMS\u2122, Steve y Alex de Minecraft\u2122, Sephiroth de la serie Final Fantasy\u2122, Pyra/Mythra de Xenoblade Chronicles 2\u2122, Kazuya Mishima de TEKKEN y Sora de la serie KINGDOM HEARTS\u2122!\n\nFINAL FANTASY VII FUE CLASIFICADO PARA ADOLESCENTES POR LA ESRB\nXENOBLADE CHRONICLES 2 FUE CLASIFICADO PARA ADOLESCENTES POR LA ESRB\nLA SERIE TEKKEN HA SIDO CLASIFICADA PARA ADOLESCENTES POR LA ESRB \n\n\nEl pase de combatientes vol. 2 de Super Smash Bros. Ultimate es un set que incluye seis paquetes de combatientes.\n\nEl paquete de combatiente 6 incluye a Min Min como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 7 incluye a Steve y Alex como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 8 incluye a Sephiroth como combatiente jugable, un escenario y varias melod\u00edas. \n\nEl paquete de combatiente 9 incluye a Pyra / Mythra como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 10 incluye a Kazuya Mishima como combatiente jugable, un escenario y varias melod\u00edas.\n\nEl paquete de combatiente 11 incluye a Sora como combatiente jugable, un escenario y varias melod\u00edas.\n\nEn la compra de este pase de combatientes VOL. 2 no se incluye el contenido del paquete de combatiente 1 hasta el paquete de combatiente 5 del anterior pase de combatientes para Super Smash Bros. Ultimate que se vende por separado.",
         "languages": null,
         "size": 23068672,
         "ids": []
@@ -56734,6 +58102,40 @@
         "size": 33554432,
         "ids": []
     },
+    "70070000010601": {
+        "id": null,
+        "rightsId": null,
+        "name": "Gal*Gun 2 Complete Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70070000010601,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f1cf5c4b9a6c342aed47755fda39e7c368e37a7efdffcf3e2182661b75878e62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/579965e8f7341827c2a7f238dad211496d15bf2fde17af233dc471272b051467.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb155adc11633ddb7a14718edf56808736599d4d8ee0678ee9bb3f409b54ae6a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bee4868f1427fa792ace6430062783be5fc2387e75e946ab897a3eda9020b21.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24deda5f12cb4fd0e3fef9f5d54329c36bc869c1e737cf8b40f937903b4908ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e740c373c0d3e2813617c99fea4c4daa6a411a194c18951e9b44be43911f60bb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6d2b7c250194be4353a0d419218009aeaaae032a613db4c7a39beb6c1b062070.jpg",
+        "intro": "\u00a1El juego de disparos m\u00e1s infame de Jap\u00f3n hace su esperad\u00edsimo debut en Nintendo Switch\u2122!",
+        "description": "Gal*Gun 2, el c\u00e9lebre y lascivo juego de disparos sobre ra\u00edl, ha vuelto con la Complete Edition, que recopila todos los DLC existentes en un solo paquete! \u00a1Ahora puedes conseguir a la vez todos los atuendos de las chicas y personalizarlos tanto como quieras, mientras les levantas la falda y las llevas hasta la euforia!\n\nEsta edici\u00f3n incluye todos los DLC publicados hasta la fecha, a excepci\u00f3n del atuendo Kung-fu Cutie:\n\nHay 20 conjuntos de disfraces para que cambies a tu gusto los atuendos de todas las chicas de la escuela: Bubble Bath Bikini, Meowvelous Sweater, Classy Bunny Girl, Angelic Nurse Uniform, Super-short Cheongsam, Bikini (Black & White), \u201cFighting Spirit Academy\u201d Uniform, Venus Soccer Uniform, Tiger-striped Oni Bikini, Sexy Shrine Maiden, Alluring Belly Dancer, Fancy Maid Mini-skirt, Pole Position Pin-up, Risqu\u00e9 Apron, Alice in Doki Doki Land, Vice Cop, Racy Ribbons, Sergeant Suspenders, S-Class Demon Buster Suit, and Slime Time.",
+        "languages": null,
+        "size": 4293918720
+    },
     "70070000010643": {
         "id": null,
         "rightsId": null,
@@ -56802,6 +58204,40 @@
         "description": "El mundo de la WWE es tu campo de batalla. \u00danete a intensos combates arcade nunca vistos y haz que tus Superstars y leyendas preferidas luchen entre s\u00ed en peculiares entornos interactivos con un arsenal de movimientos, habilidades y potenciadores. \u00a1Libra tus combates preferidos, Steel Cage, Royal Rumble, Fatal 4-Way y muchos m\u00e1s, mientras Mauro Ranallo y Jerry \"The King\" Lawler comentan el caos!\nDesata el infierno con Stone Cold Steve Austin, reparte golpes a diestra y siniestra con la versi\u00f3n de The Rock de la Attitude Era y arma un buen esc\u00e1ndalo con Ronda Rousey. WWE 2K Battlegrounds Digital Deluxe Edition incluye tres versiones de cada Superstar, adem\u00e1s de la bonificaci\u00f3n de reserva: Edge. Tambi\u00e9n viene con 1100 Golden Bucks extra para desbloquear m\u00e1s leyendas y Superstars de la WWE.",
         "languages": null,
         "size": 11838423040
+    },
+    "70070000010847": {
+        "id": null,
+        "rightsId": null,
+        "name": "Gal*Gun 2 - Complete DLC Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211018,
+        "nsuId": 70070000010847,
+        "category": null,
+        "ratingContent": [
+            "Temas sexuales"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "PQube",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fa8671c44c750fca5d2306bf07b9574e6d3b0f6448f7d9d08fe1855412c1d8c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef3a713e398c35d3a7c58007713fcc777d3d078107a4466cb94aad7967920f26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb155adc11633ddb7a14718edf56808736599d4d8ee0678ee9bb3f409b54ae6a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/304bf1985313ce4dd5d026e1b9bdf5531639f11f07b501fdc3b1369c3c85e42f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e1ecc27d66dc6a0bb434514ebdf7c854c88b9997deaa3829d85bcf30e8f5450.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f1d4631e837a4036228e76bc63d817a142ad4a37f8a4033dfa782abcc849f68.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4918118caf2ddcbb4ef37c95475636db581bff837e130d4934a34c85d3bdb19e.jpg",
+        "intro": null,
+        "description": "\u00a1Gal*Gun 2, el c\u00e9lebre y lascivo juego de disparos sobre ra\u00edl, ha vuelto! \u00a1Si ya tienes el juego, ahora puedes completar el conjunto a\u00f1adiendo todos los DLC que te faltan en tu colecci\u00f3n!",
+        "languages": null,
+        "size": 830472192
     },
     "70070000010881": {
         "id": null,
