@@ -1160,7 +1160,7 @@
             "zh",
             "zh"
         ],
-        "size": 1088421888
+        "size": 1098907648
     },
     "70010000001107": {
         "id": "01007960049A0000",
@@ -1864,12 +1864,13 @@
             "en",
             "es",
             "fr",
+            "pt",
             "de",
             "it",
             "nl",
             "ru"
         ],
-        "size": 3895459840
+        "size": 3894411264
     },
     "70010000001801": {
         "id": "0100E65002BB8000",
@@ -1969,7 +1970,7 @@
             "de",
             "it"
         ],
-        "size": 5648678912
+        "size": 5647630336
     },
     "70010000002264": {
         "id": "0100A330022C2000",
@@ -2528,7 +2529,7 @@
             "zh",
             "zh"
         ],
-        "size": 6101663744
+        "size": 6100615168
     },
     "70010000003432": {
         "id": "010021D00812A000",
@@ -3238,7 +3239,7 @@
             "zh",
             "zh"
         ],
-        "size": 12384731136
+        "size": 12383682560
     },
     "70010000004682": {
         "id": "0100842008EC4000",
@@ -3611,7 +3612,7 @@
             "zh",
             "zh"
         ],
-        "size": 10401873920
+        "size": 10400825344
     },
     "70010000006411": {
         "id": "0100EA80032EA000",
@@ -4425,7 +4426,7 @@
             "ja",
             "en"
         ],
-        "size": 231735296
+        "size": 230686720
     },
     "70010000010079": {
         "id": "010060700AC50000",
@@ -4623,7 +4624,7 @@
             "ru",
             "ko"
         ],
-        "size": 14305722368
+        "size": 14378074112
     },
     "70010000010276": {
         "id": "01006D4003BCE000",
@@ -5013,7 +5014,7 @@
             "zh",
             "zh"
         ],
-        "size": 18232639488
+        "size": 18525192192
     },
     "70010000012523": {
         "id": "01003D200BAA2000",
@@ -5286,7 +5287,7 @@
             "zh",
             "zh"
         ],
-        "size": 13004439552
+        "size": 13003390976
     },
     "70010000012879": {
         "id": "0100D870045B6000",
@@ -7140,7 +7141,7 @@
             "de",
             "it"
         ],
-        "size": 9953083392
+        "size": 9952034816
     },
     "70010000016330": {
         "id": "0100A5C00D162000",
@@ -7543,7 +7544,7 @@
             "de",
             "it"
         ],
-        "size": 6202327040
+        "size": 6201278464
     },
     "70010000016932": {
         "id": "010010400D46A000",
@@ -8826,7 +8827,7 @@
             "it",
             "nl"
         ],
-        "size": 16195256320
+        "size": 16194207744
     },
     "70010000019422": {
         "id": "01007DD00DFDE000",
@@ -9589,7 +9590,7 @@
             "zh",
             "zh"
         ],
-        "size": 1181745152
+        "size": 1180696576
     },
     "70010000020403": {
         "id": "010029D00E740000",
@@ -9729,7 +9730,7 @@
             "it",
             "ru"
         ],
-        "size": 7338983424
+        "size": 7341080576
     },
     "70010000020542": {
         "id": "0100B2B00E7AA000",
@@ -10627,7 +10628,7 @@
             "zh",
             "zh"
         ],
-        "size": 7055867904
+        "size": 7054819328
     },
     "70010000021708": {
         "id": "010081700EDF4000",
@@ -11675,7 +11676,7 @@
             "zh",
             "zh"
         ],
-        "size": 26049773568
+        "size": 26050822144
     },
     "70010000024668": {
         "id": "01003E300FCAE000",
@@ -13035,7 +13036,7 @@
         "languages": [
             "en"
         ],
-        "size": 5313134592
+        "size": 5312086016
     },
     "70010000028053": {
         "id": "010076C01015C000",
@@ -13180,7 +13181,7 @@
             "it",
             "ru"
         ],
-        "size": 15172894720
+        "size": 15229517824
     },
     "70010000028523": {
         "id": "010015F008C54000",
@@ -13462,7 +13463,7 @@
             "de",
             "zh"
         ],
-        "size": 2703228928
+        "size": 2723151872
     },
     "70010000028816": {
         "id": "0100DC00115FA000",
@@ -13631,7 +13632,7 @@
         "developer": null,
         "publisher": "Wargaming Group",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/79cd1edcc1d9d60ab4fa90fdc2d4e5f2d56c327bc63336f9bcdba47d671690fd.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/aa12c374f4240b3c666f477030a1076e5b854ee81b57553d690768557e5b81e9.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/337d69786cfa475d87610dc761302de719f85055d9e3370ec537656fede8948c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7b64cd89b24415401e7ed7c61bcc0afbf797538774479ebcab72c1d54c8de1ee.jpg",
@@ -13656,7 +13657,7 @@
             "zh",
             "zh"
         ],
-        "size": 4213178368
+        "size": 4583325696
     },
     "70010000029016": {
         "id": "0100B04011742000",
@@ -14934,6 +14935,46 @@
         ],
         "size": 278921216
     },
+    "70010000031812": {
+        "id": "0100B5901230C000",
+        "rightsId": null,
+        "name": "Mermaid Castle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211029,
+        "nsuId": 70010000031812,
+        "category": [
+            "Arcade",
+            "Aventura",
+            "Plataformas"
+        ],
+        "ratingContent": [
+            "Violencia moderada de fantasia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "IceTorch",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/db4cfa5c12f19db9e67a87f656124d3309711e91e396de135c18ff8cbfc68f46.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/17a1ce5e4c556ed90d7c641e35fa24a78b16411cf145aad759a05a7499c0c40f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/34d4dc7621af09cd4f89df8cf33715304c381384c207677c55e0ee58cec865a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1a406b1185ace6a55ae61338d38ff47318a4a7b1d59f80e98ef569a840686004.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2477a1253974e277cc31eaabf0ec09ccd43a78c1d088349c869565bc6471c48c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e3f1785aa74a25d78153b6bff92de80d895ec9d5b62735794ebe6c85ad3fab9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49601a76747a397bdecc8cc8a6e1780c51b9ef4a1a5e3788647e9f98df2470c6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/16227dad8d85459f74243fae2d19a300134f688846410956bd8c06a0fb4483b7.jpg",
+        "intro": "\u00a1Sum\u00e9rgete en una aventura fant\u00e1stica de cuentos de hadas!\n",
+        "description": "\u00a1Las hermanas sirenas necesitan tu ayuda! Su casa, el maravilloso Castillo de Sirenas, ha sido destruido y sus tesoros han sido robados. \u00a1Entra en el juego, ga\u00f1a monedas, evita tiburones y nada a trav\u00e9s de un incre\u00edble mundo submarino!\n\nLa Pandilla de Tiburones Implacables, liderada por su terrible Jefe, Tibur\u00f3n El Martillo, ha atacado el Castillo de Sirenas. Tras el ataque, la casa de las sirenas ha quedado destruida. Y lo que es m\u00e1s, \u00a1todas sus joyas han sido robadas! Con tu ayuda, \u00a1el castillo de las hermanas recuperar\u00e1 su esplendor y los tiburones desaparecer\u00e1n de una vez! \n\nPara hacerlo, vas a explorar muchas bellas localizaciones submarinas, llenas de plantas y animales fascinantes. Fondos rocosos, arenas doradas, arrecifes de coral, ruinas antiguas y cuevas oscuras llenas de f\u00f3siles, \u00a1todo ello te espera en su aventura en las aguas cristalinas del oc\u00e9ano!\n\nNada, corre y recoge monedas y tesoros. Pero, \u00a1ten mucho cuidado! Cangrejos y peces astutos, erizos de mar con sus espinas, medusas venenosas y otras criaturas marinas intentar\u00e1n pararte. Mu\u00e9vete r\u00e1pido para evitar peligros, recoge y lanza perlas a tus enemigos. Algunos van a dejarte monedas. \u00a1A por ellas! Busca un peque\u00f1o pez que es tu amigo para evitar anclas oxidadas y bombas. Y si ves un tibur\u00f3n... \u00a1Mejor esc\u00f3ndete! \n \nCARATER\u00cdSTICAS:\n\u2022\tTres protagonistas. \u00a1Puedes cambiar en cualquier momento!\n\u2022\tM\u00e1s de 30 niveles divididos en 8 mundos fascinantes.\n\u2022\tM\u00e1s de 10 tipos de enemigos y obst\u00e1culos.\n\u2022\tUn flujo de juego f\u00e1cil de aprender para los jugadores j\u00f3venes y maduros.\n\u2022\t\u00a1El Castillo de Sirenas est\u00e1 a la espera de ser renovado!",
+        "languages": [
+            "en"
+        ],
+        "size": 789577728
+    },
     "70010000031917": {
         "id": "0100E66010ADE000",
         "rightsId": null,
@@ -15751,6 +15792,51 @@
         ],
         "size": 9249488896
     },
+    "70010000033857": {
+        "id": "010063B012DC6000",
+        "rightsId": null,
+        "name": "Shin Megami Tensei V",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211112,
+        "nsuId": 70010000033857,
+        "category": [
+            "Juego de rol",
+            "Estrategia"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Desnudez parcial",
+            "Temas sexuales",
+            "Lenguaje fuerte",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0755c91e2bd49a35c439a31305c9f20194acd295ebb68226c14006b78456304e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/71f97f87c3aef6d968847a1b8cfe43e242f13fe5e1f3a5d4040eb3608284bdad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b217f84210dfde127b000d09dec9226cb64315fef3630635d7bf658b06c718c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df33c66215ba1d3f533b7c65ed6e91363af154eb3f6b558c22734b0eb6ed33c6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5956262a3cf0d9fd73ea86363f54fcc54ec80cbf7534f80b7fe6b5008a7b8efd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e61667a999294ec881727579566017aa35bef4e6c0b6dd9b6736abd10c310551.jpg",
+        "intro": "La divinidad te espera\n",
+        "description": "Cuando el camino de regreso a casa de nuestros protagonistas se ve obstruido por una macabra escena del crimen en Tokio, un desv\u00edo imprevisto lo deja inconsciente.  \n\nSe despierta en una ciudad de Tokio nueva, un yermo devastado por el apocalipsis llamado Da\u2019at... Pero antes de que unos demonios sanguinarios reclamen su vida, aparece un salvador. Juntos se convertir\u00e1n en un poderoso ser que no es ni demonio ni humano, sino un Nahobino.\n  \nCon este nuevo poder, el protagonista se aventura a trav\u00e9s del Da\u2019at, un enigm\u00e1tico reino repleto de deidades m\u00edticas y demonios tiranos que se hallan en un conflicto constante por sobrevivir. \n\nEn busca de respuestas, el protagonista debe forjar su propio camino en una batalla entre la luz y la oscuridad que decidir\u00e1 el destino del mundo. ",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 13738442752
+    },
     "70010000033942": {
         "id": "0100D58012E12000",
         "rightsId": null,
@@ -16254,7 +16340,7 @@
             "zh",
             "zh"
         ],
-        "size": 4659871744
+        "size": 4658823168
     },
     "70010000034733": {
         "id": "01001E0013208000",
@@ -16802,6 +16888,56 @@
             "it"
         ],
         "size": 7227834368
+    },
+    "70010000035702": {
+        "id": "0100AA60136D2000",
+        "rightsId": null,
+        "name": "HOT WHEELS UNLEASHED\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70010000035702,
+        "category": [
+            "Carreras",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5cc3227418ecfde2c6aef9bdb9e48e0a9334b7a50f965b98d3f8d05b6253a7cd.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b2480b94e983342cc1f38b40f7b2d4113f3f2cbafcd851b3587d715084d0b80b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce6a43ba93e43063e2c82541092c0b1e3d1a14a94acce5a90b6b5573f1f6b20f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a5fe79d9d72f00a26c82223d9a12813a7c182319c2ff7982b689fae135107ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c56a52263deb7b81deb27be8fa53020cf4c0e68025c0d98138cb7b231a137c50.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70bb2c27ca4ccef337fcab78379b284d86d6d1cda6ba7c2973b72d1053d5a58c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6826ee3ab0b3630d3f8782c65a0e5abdcecd2444200651938c97323409a42809.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/072c746696e5248e06c1c2453af70ff7cf3975d0de0ad9031c743c68c33145ec.jpg",
+        "intro": null,
+        "description": "Colecciona los mejores veh\u00edculos del universo de Hot Wheels\u2122, construye pistas espectaculares y l\u00e1nzate a las carreras m\u00e1s electrizantes.\n\n\u00bfERES COLECCIONISTA O ARTISTA? AMBAS COSAS\nTe esperan los veh\u00edculos m\u00e1s ic\u00f3nicos y codiciados de Hot Wheels\u2122. \u00a1Prep\u00e1rate para correr con ellos a toda velocidad!\nResalta tu personalidad entre la multitud con el exclusivo editor de dise\u00f1o.\n\nLA CARRERA NUNCA TERMINA\n\u00a1Demuestra tus habilidades y compite en carreras incre\u00edbles llenas de diversi\u00f3n! Derrapa, aumenta el impulso y l\u00e1nzate hacia los asombrosos bucles. \u00a1Pero cuidado! Si disminuyes la velocidad, la gravedad har\u00e1 su trabajo.\n\nCuanto m\u00e1s grande sea el reto, mayor ser\u00e1 la gloria.\nCorre junto a tus amigos en el modo de pantalla dividida para 2 jugadores o enfrenta hasta 12 oponentes en los desaf\u00edos en l\u00ednea.\n\nDALE FORMA A TU PISTA\nCorre en entornos interactivos enormes con caracter\u00edsticas \u00fanicas, donde cada objeto puede convertirse en una parte esencial de la pista. \n\n\u00a1Da rienda suelta a tu creatividad con el editor de pistas m\u00e1s genial del mundo! Construye tu pista, aprovecha todo lo que te rodea y crea dise\u00f1os incre\u00edbles dentro y fuera del circuito de carreras. Dobla y alarga las emblem\u00e1ticas \"piezas naranjas\", a\u00f1ade bucles, propulsores especiales, obst\u00e1culos y elementos \u00fanicos para crear un fant\u00e1stico parque para tus carreras. \nComparte en l\u00ednea tus creaciones m\u00e1s alocadas y prueba las obras de otros jugadores.\n\nCORRE EN TU MUNDO\nEquipa tu sala personal con un gran n\u00famero de elementos que podr\u00e1s reunir a lo largo de tu aventura y organiza las carreras m\u00e1s sorprendentes.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 6352273408
     },
     "70010000035711": {
         "id": "01003370136EA000",
@@ -17594,7 +17730,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/696d35706618fb8139faf1f19c0a3c49ab357820a1e87d8b625892247ec749cd.jpg",
         "intro": "\u00a1Un RPG de exploraci\u00f3n de mazmorras donde usar\u00e1s la estrategia para sobrevivir!",
-        "description": "Un laberinto de otro mundo ha aparecido de repente a las afueras de un tranquilo pueblo. \u00a1Haz un uso inteligente de tus habilidades para explorar hasta el \u00faltimo rinc\u00f3n, superar obst\u00e1culos y vencer a tus enemigos en batallas emocionantes!\n\nDe la mano del equipo de desarrollo de la legendaria franquicia FINAL FANTASY, DUNGEON ENCOUNTERS es un RPG de exploraci\u00f3n de mazmorras en el que tendr\u00e1s que usar la estrategia para sobrevivir. Su interfaz sencilla te da la libertad para preparar y gestionar tu grupo mientras te esfuerzas por llegar a la \u00faltima planta.\n\nDurante tus expediciones, descubrir\u00e1s objetos poderosos y raros, conocer\u00e1s a aventureros errantes que podr\u00edan convertirse en nuevos aliados y te enfrentar\u00e1s cara a cara a monstruos letales.\n\n\u00bfTendr\u00e1s lo necesario para superar las muchas pruebas que te esperan y descubrir los secretos de la mazmorra?\n\n\u25a0Eventos\nAl descubrir y visitar los espacios con n\u00fameros blancos, obtendr\u00e1s objetos, desbloquear\u00e1s y cambiar\u00e1s habilidades, recuperar\u00e1s la salud de tu grupo, encontrar\u00e1s a comerciantes escondidos y mucho m\u00e1s.\n\nLos enfrentamientos, marcados con n\u00fameros negros, est\u00e1n escondidos a lo largo del mapa. Sin embargo, se pueden revelar con una habilidad especial, por lo que podr\u00e1s elegir cu\u00e1ndo y d\u00f3nde enfrentarte a tus enemigos.\n\nLos eventos que hayas descubierto con anterioridad se registrar\u00e1n en el historial de eventos, un valioso recurso que te permitir\u00e1 revisar las experiencias pasadas para enfrentarte a los desaf\u00edos futuros.\n\n\n\u25a0Batallas\nPrueba tu estrategia en batallas emocionantes con el sistema BTA (batalla de tiempo activo), que se hizo famoso con la saga FINAL FANTASY.\n\nBajo la direcci\u00f3n de Ito Hiroyuki, creador del sistema BTA, las batallas se jugar\u00e1n en tiempo real, con una versi\u00f3n optimizada y pulida del dise\u00f1o cl\u00e1sico, lo que promete combates divertidos y desafiantes.\n\n\n\u25a0Mapa\nUn mapa en blanco te espera. Mediante la exploraci\u00f3n e investigaci\u00f3n de las casillas de cada nivel, obtendr\u00e1s puntos de habilidad. \u00a1Supera obst\u00e1culos que incluyen pasadizos secretos y trampas ocultas y conquista la mazmorra!",
+        "description": "Un laberinto de otro mundo ha aparecido de repente a las afueras de un tranquilo pueblo. \u00a1Haz un uso inteligente de tus habilidades para explorar hasta el \u00faltimo rinc\u00f3n, superar obst\u00e1culos y vencer a tus enemigos en batallas emocionantes!\n\nDe la mano del equipo de desarrollo de la legendaria franquicia FINAL FANTASY, DUNGEON ENCOUNTERS es un RPG de exploraci\u00f3n de mazmorras en el que tendr\u00e1s que usar la estrategia para sobrevivir. Su interfaz sencilla te da la libertad para preparar y gestionar tu grupo mientras te esfuerzas por llegar a la \u00faltima planta.\n\nUna filosof\u00eda de dise\u00f1o minimalista y un aspecto gr\u00e1fico intencionalmente sencillo para que te centres \u00fanicamente en las fascinantes mec\u00e1nicas de juego. \n\u00a1Te espera una formidable mazmorra subterr\u00e1nea de 99 pisos! \n\nDurante tus expediciones, descubrir\u00e1s objetos poderosos y raros, conocer\u00e1s a aventureros errantes que podr\u00edan convertirse en nuevos aliados y te enfrentar\u00e1s cara a cara a monstruos letales.\n\nTendr\u00e1s que ir probando y descartando t\u00e1cticas hasta dar con la mejor estrategia para alcanzar los niveles m\u00e1s profundos de la mazmorra.\n\n\u00bfTendr\u00e1s lo necesario para superar las muchas pruebas que te esperan y descubrir los secretos de la mazmorra?\n\n\u25a0Eventos\nAl descubrir y visitar los espacios con n\u00fameros blancos, obtendr\u00e1s objetos, desbloquear\u00e1s y cambiar\u00e1s habilidades, recuperar\u00e1s la salud de tu grupo, encontrar\u00e1s a comerciantes escondidos y mucho m\u00e1s.\n\nLos enfrentamientos, marcados con n\u00fameros negros, est\u00e1n escondidos a lo largo del mapa. Sin embargo, se pueden revelar con una habilidad especial, por lo que podr\u00e1s elegir cu\u00e1ndo y d\u00f3nde enfrentarte a tus enemigos.\n\nLos eventos que hayas descubierto con anterioridad se registrar\u00e1n en el historial de eventos, un valioso recurso que te permitir\u00e1 revisar las experiencias pasadas para enfrentarte a los desaf\u00edos futuros.\n\n\n\u25a0Batallas\nPrueba tu estrategia en batallas emocionantes con el sistema BTA (batalla de tiempo activo), que se hizo famoso con la saga FINAL FANTASY.\n\nBajo la direcci\u00f3n de Ito Hiroyuki, creador del sistema BTA, las batallas se jugar\u00e1n en tiempo real, con una versi\u00f3n optimizada y pulida del dise\u00f1o cl\u00e1sico, lo que promete combates divertidos y desafiantes.\n\n\n\u25a0Mapa\nUn mapa en blanco te espera. Mediante la exploraci\u00f3n e investigaci\u00f3n de las casillas de cada nivel, obtendr\u00e1s puntos de habilidad. \u00a1Supera obst\u00e1culos que incluyen pasadizos secretos y trampas ocultas y conquista la mazmorra!",
         "languages": [
             "ja",
             "en"
@@ -18010,7 +18146,7 @@
             "ko",
             "zh"
         ],
-        "size": 122683392
+        "size": 168820736
     },
     "70010000037430": {
         "id": "01004DE013EDE000",
@@ -18042,7 +18178,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5277f013a5be147070010bfa6545bafd50eccf50fabf953438085a46ae793310.jpg",
         "intro": "Convi\u00e9rtete en el youtuber de tendencia del mundo y vive tu sue\u00f1o. Haz amigos, compite con tus rivales, asiste a eventos, graba y edita v\u00eddeos, \u00a1y comp\u00e1rtelo todo!",
-        "description": "\u00a1CONVI\u00c9RTETE EN CREADOR DE TENDENCIAS!\nCrea tu propio canal y decide cu\u00e1l ser\u00e1 el contenido del momento: videojuegos de tendencia, streamings improvisados, reviews profesionales... \u00a1o todos ellos!\nColecciona cartas para crear el mejor contenido y elige entre distintas reacciones a cada situaci\u00f3n. Graba, edita y publica v\u00eddeos de alta calidad para conseguir suscriptores y visualizaciones, \u00a1y adem\u00e1s ganar dinero!\n\nPEWDIEPIE, RUBIUS, Y MUCHOS M\u00c1S EST\u00c1N EN YOUTUBERS LIFE 2!\n\u00a1Un equipo entero de superestrellas youtubers llega a NewTube City!\nRe\u00fanete con PewDiePie, Rubius, InoxTag, GermanLetsPlay, Crainer, WillyRex, LaurenzSide, y m\u00e1s para vivir nuevas aventuras y conseguir recompensas exclusivas para impulsar tu canal. \u00a1Colabora con creadores de contenido veteranos para abrir tu camino a la fama!\n\n\u00a1EXPLORA NEWTUBE CITY!\n\u00a1Descubre cada rinc\u00f3n de la ciudad! Graba v\u00eddeos por el camino o sube fotos a InstaLife, y captura tendencias populares. Investiga cada localizaci\u00f3npara descubrir zonas secretas, personajes ic\u00f3nicos, y nuevas misiones para ganar premios exclusivos para tus v\u00eddeos.\nCon tres barrios principales: Centro, Ayuntamiento y Puerto, tendr\u00e1s un mont\u00f3n de lugares para explorar, tiendas, cine, gimnasio, e incluso una discoteca. Encuentra nuevas tendencias populares en cada lugar para crear contenido incre\u00edble!\n\n\u00a1HAZ CRECER TU CANAL Y CONOCE A TUS FANS!\nMejora tu equipaci\u00f3n y descubre temas de tendencia para crear v\u00eddeos virales. Crea alianzas con otros youtubers, consigue acceso a eventos VIP \u00fanicos, revela exclusivas en todo el mundo, \u00a1y ampl\u00eda tu presencia en redes sociales para seguir creciendo!\n\n\u00a1COLABORA CON FAMOSOS CREADORES DE CONTENIDO!\nInteract\u00faa con la comunidad para hacer nuevos amigos y construir relaciones con ellos. Encuentra tu alma gemela en tu camino a la fama. \u00a1Conoce a los youtubers m\u00e1s populares y ay\u00fadalos para conseguir nuevos objetivos, cartas y habilidades!\n\n\u00a1PERSONAL\u00cdZALO TODO!\nDise\u00f1a cada aspecto de tu personaje y tu casa comprando todo tipo de ropa, objetos, muebles, accesorios y mucho m\u00e1s. \u00a1Ampl\u00eda tu piso y expr\u00e9sate al m\u00e1ximo con m\u00e1s personalizaci\u00f3n que nunca!\n\n\u00a1Una forma completamente nueva de jugar te est\u00e1 esperando! Nuevas redes sociales, nuevas localizaciones, nuevos contenidos, nuevas opciones de personalizaci\u00f3n, nuevas funciones, nuevas misiones\u2026 \u00a1Estate atento para saber qu\u00e9 contenido funcionar\u00e1 mejor en cada red social!",
+        "description": "\u00a1CONVI\u00c9RTETE EN CREADOR DE TENDENCIAS!\nCrea tu propio canal y decide cu\u00e1l ser\u00e1 el contenido del momento: videojuegos de tendencia, streamings improvisados, reviews profesionales... \u00a1o todos ellos!\nColecciona cartas para crear el mejor contenido y elige entre distintas reacciones a cada situaci\u00f3n. Graba, edita y publica v\u00eddeos de alta calidad para conseguir suscriptores y visualizaciones, \u00a1y adem\u00e1s ganar dinero!\n\nCRAINER, RUBIUS, Y MUCHOS M\u00c1S EST\u00c1N EN YOUTUBERS LIFE 2!\n\u00a1Un equipo entero de superestrellas youtubers llega a NewTube City!\nRe\u00fanete con Rubius, InoxTag, GermanLetsPlay, Crainer, WillyRex, LaurenzSide, y m\u00e1s para vivir nuevas aventuras y conseguir recompensas exclusivas para impulsar tu canal. \u00a1Colabora con creadores de contenido veteranos para abrir tu camino a la fama!\n\n\u00a1EXPLORA NEWTUBE CITY!\n\u00a1Descubre cada rinc\u00f3n de la ciudad! Graba v\u00eddeos por el camino o sube fotos a InstaLife, y captura tendencias populares. Investiga cada localizaci\u00f3npara descubrir zonas secretas, personajes ic\u00f3nicos, y nuevas misiones para ganar premios exclusivos para tus v\u00eddeos.\nCon tres barrios principales: Centro, Ayuntamiento y Puerto, tendr\u00e1s un mont\u00f3n de lugares para explorar, tiendas, cine, gimnasio, e incluso una discoteca. Encuentra nuevas tendencias populares en cada lugar para crear contenido incre\u00edble!\n\n\u00a1HAZ CRECER TU CANAL Y CONOCE A TUS FANS!\nMejora tu equipaci\u00f3n y descubre temas de tendencia para crear v\u00eddeos virales. Crea alianzas con otros youtubers, consigue acceso a eventos VIP \u00fanicos, revela exclusivas en todo el mundo, \u00a1y ampl\u00eda tu presencia en redes sociales para seguir creciendo!\n\n\u00a1COLABORA CON FAMOSOS CREADORES DE CONTENIDO!\nInteract\u00faa con la comunidad para hacer nuevos amigos y construir relaciones con ellos. Encuentra tu alma gemela en tu camino a la fama. \u00a1Conoce a los youtubers m\u00e1s populares y ay\u00fadalos para conseguir nuevos objetivos, cartas y habilidades!\n\n\u00a1PERSONAL\u00cdZALO TODO!\nDise\u00f1a cada aspecto de tu personaje y tu casa comprando todo tipo de ropa, objetos, muebles, accesorios y mucho m\u00e1s. \u00a1Ampl\u00eda tu piso y expr\u00e9sate al m\u00e1ximo con m\u00e1s personalizaci\u00f3n que nunca!\n\n\u00a1Una forma completamente nueva de jugar te est\u00e1 esperando! Nuevas redes sociales, nuevas localizaciones, nuevos contenidos, nuevas opciones de personalizaci\u00f3n, nuevas funciones, nuevas misiones\u2026 \u00a1Estate atento para saber qu\u00e9 contenido funcionar\u00e1 mejor en cada red social!",
         "languages": [
             "ja",
             "en",
@@ -18455,7 +18591,7 @@
             "zh",
             "zh"
         ],
-        "size": 3506438144
+        "size": 3511681024
     },
     "70010000038397": {
         "id": "0100D7C013544000",
@@ -18838,7 +18974,7 @@
             "zh",
             "zh"
         ],
-        "size": 9201254400
+        "size": 8932818944
     },
     "70010000039099": {
         "id": "01000FE014632000",
@@ -19441,12 +19577,10 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c0a1c71b7216b34293acb3c582d4dddbc057b611dd8994710c429d9a16560a4c.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/e209386d7826726e8212f08e9a8c70c2a24e1ce97fe1b0a51672d2d8ec0bb06f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/a08eff9ee149fc2a18f57086b64ec475ecfec619df6b765d7964cb322f9fd072.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/455e1ae9c0791868a7bdedcc1e0ec7c9415181a62e7a94794b3b54f69162273a.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/e4470b1806f84b40fbc6c644a99712432721ae7ea2c812981e5bcb4582f9b1f6.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/e7b02908da3450631a84f909a2ea3210626c128c14237c0fda762272b9adb558.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/5475e937f85ba81a571d3a30ccfdf261a464cb7e29fdf073a24f59920099c0cf.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/42763810ccab1ace2c6fc5ecd351acb1bfc6b03276f5b6abc3bc1b0c0c011b76.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8d9879fb0fd1fe05db5a56834d90cc7e7ca85d6cc267e058ebb4bd100053360.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e940c5c154dc064cfbf1d4b3fdffa46aefe85995367a0de7a260719210113ae4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/797eb6ff974693b5f780c082fd4d172636c7a998dff9ebd5464fcbb814256652.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/533b01728508e7cdd7dd625e0b3157964ccd6ef19d176a1ca64606e36832eea6.jpg",
         "intro": "HAY H\u00c9ROES DE TODOS LOS COLORES.",
@@ -20237,6 +20371,50 @@
         ],
         "size": 2723151872
     },
+    "70010000041564": {
+        "id": "0100C69014B1E000",
+        "rightsId": null,
+        "name": "Super Sami Roll",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211104,
+        "nsuId": 70010000041564,
+        "category": [
+            "Arcade",
+            "Acci\u00f3n",
+            "Aventura",
+            "Fiesta"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "X PLUS",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ff60f8b70058d2d7af7912afe0ba23a754092ad1f52be217d729c5517cd82560.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/33d9d0cf66e0b2765e6b7505782208470374a226ea0c2d5392cf02c28aeec098.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b159440382ca9d191a083e43a52f5151fadcc9e291305837dcb4e812eeb70516.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2f5b137ee9a73239c805edf866bba88056217ec359982af2359933d54ee334c4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e15dccd21075a7634da145be72798ccd236a9fafe40131af83354e2d1c00941.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac4bd304f137d3bf31a15fec056e0e77387c42b88010eb69d56a1c38b559d4b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77cf5d8139ca63fecaec53b3e35f6e4b29e39e0a815ce3b5b0811fdd10f64e52.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d3e47584eae7e7ef7943c20dfffad78c2faf83630d43a4a831097ae9aabaf35d.jpg",
+        "intro": "\u00a1Es hora de RODAR!",
+        "description": "\u00a1Emb\u00e1rcate en una aventura a trav\u00e9s de diferentes mundos y ayuda a Sami a rescatar a su amiga Vera de las garras del malvado Albert VII!\n\nTu viaje te llevar\u00e1 a trav\u00e9s de hermosas praderas, desiertos con majestuosas pir\u00e1mides, peligrosos volcanes en erupci\u00f3n, g\u00e9lidas tierras de hielo y muchos otros lugares memorables.\n\nContenido :\n- Coloridos entornos, personajes y enemigos\n- Docenas y docenas de niveles \u00fanicos\n- \u00a1Divertido sistema de lengua-gancho para largas distancias!\n- Personalizaci\u00f3n de tu personaje\n- Mezcla de gr\u00e1ficos retro con gr\u00e1ficos modernos en 3D\n- Un mont\u00f3n de secretos incluyendo nuevos modos (uno de ellos multijugador)\n- \u00a1Nivel de dificultad progresiva hasta convertirte en un maestro!\n- \u00a1Fant\u00e1stica banda sonora que te dejar\u00e1 con ganas de m\u00e1s!\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de"
+        ],
+        "size": 1716518912
+    },
     "70010000041579": {
         "id": "0100E1E01523A000",
         "rightsId": null,
@@ -20279,7 +20457,7 @@
             "fr",
             "de"
         ],
-        "size": 343932928
+        "size": 354418688
     },
     "70010000041611": {
         "id": "0100A18015268000",
@@ -20338,6 +20516,7 @@
             "Multijugador"
         ],
         "ratingContent": [
+            "Violencia de fantasia",
             "Temas insinuantes"
         ],
         "numberOfPlayers": 2,
@@ -20662,6 +20841,55 @@
             "zh"
         ],
         "size": 2197815296
+    },
+    "70010000041897": {
+        "id": "0100B7A015362000",
+        "rightsId": null,
+        "name": "Tandem : A Tale of Shadows",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70010000041897,
+        "category": [
+            "Rompecabezas",
+            "Plataformas",
+            "Acci\u00f3n",
+            "Aventura"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Hatinh Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/95b6bb79a03fbe9248af84365459084ab620857498a59b9a1fe0d9bc70478ab2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/938cc4ed2f88d6ec131ea8744fe7de83a6d32fbdac94fa5b5e57002553243a47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1510208b948affdb617602b891a8e1aee6960ca853a94d2db6f7342d57c40837.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/50faa5a23c063e942ceb5823f9cb58cffd35cd21199e4b8d30579f4e532f00f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/945e8d12280bc22363f8409f28e56274729e33e4fedc2ef815bd63406caffe2f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2f5decf749f58694a45a40a48e9872616ea9c30e52ee98ad435a252259a2512b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7509b184ebb6c402b191d81d399560ac8aee9b5a0768d938b462ad53111d8bd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5672152a3e0fde565c7abaa73d9549fe3ed4b1aa82f5e1b6ecc1869dfec96a95.jpg",
+        "intro": "Tandem: A Tale of Shadows redefine el g\u00e9nero de puzles y plataformas con mec\u00e1nicas de desplazamiento y vistas \u00fanicas y una est\u00e9tica excepcional.",
+        "description": "Tandem: A Tale of Shadows redefine el g\u00e9nero de puzles y plataformas con mec\u00e1nicas de desplazamiento y vistas \u00fanicas y una est\u00e9tica excepcional. Ayuda a Emma y a Fenton, el oso de peluche, a resolver el misterio de la desaparici\u00f3n de Thomas Kane, hijo de una famosa pareja de ilusionistas.\n\nEl galardonado Tandem: A Tale of Shadows cuenta con cinco preciosos mundos victorianos inspirados en Tim Burton, Julio Verne y Conan Doyle. Los jugadores tendr\u00e1n que alternar entre la vista cenital de Emma y el desplazamiento horizontal de Fenton para lograr salir con vida de estas dimensiones claroscuras.\n\nA medida que la pareja protagonista supere astutos obst\u00e1culos y amenazantes horrores, ir\u00e1 descubriendo pistas sobre la desaparici\u00f3n de Thomas, la extra\u00f1a familia Kane y su lugar en el universo. \u00bfLograr\u00e1n Emma y Fenton huir de la letal mansi\u00f3n repleta de recovecos, o estar\u00e1 su destino ya sellado?",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 5164236800
     },
     "70010000042085": {
         "id": "01004A1015408000",
@@ -21143,7 +21371,7 @@
             "zh",
             "zh"
         ],
-        "size": 809500672
+        "size": 887095296
     },
     "70010000042921": {
         "id": "01007330142E0000",
@@ -21235,7 +21463,7 @@
             "zh",
             "zh"
         ],
-        "size": 4437573632
+        "size": 4615831552
     },
     "70010000042929": {
         "id": "0100563010E0C000",
@@ -22875,9 +23103,11 @@
             "https://img-eshop.cdn.nintendo.net/i/200caf001c91d8db52a90935b2240b30036339412ac6eda7ec0a791ce3c625b2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/98ef394117f8eb26d2750b8a420f4e2ba5a3ef3d28ac000eb5c9e6bd8f20628d.jpg",
             "https://img-eshop.cdn.nintendo.net/i/35809406d4a7489a85ad30f437a06a1e396acca8ca3f783fccef4fc4e4e5278a.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/be27ef435a26f00417c49e7e5ff359ee6898195bc6ac6b3ceeee9ea7f460401f.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/be27ef435a26f00417c49e7e5ff359ee6898195bc6ac6b3ceeee9ea7f460401f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65c46c115f683aebd8d46411181e62f52b10186eae4760593356ccbd900c649c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/953ae7f8c691ed1e3cf851e2ed18b4dd6f10f431a40c9f70d995f539a11448b0.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c5745d76421f345413594f121de3c805a7f658d0255c9174ee537be0ad532e3.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9644a1b97534b95538d681cc5b5693afe0ed6e449de2aed217005ff4be389984.jpg",
         "intro": "Don't trust your eyes.",
         "description": "Battle through an onslaught of mystical backwater cultists, possessed militants & even darker forces as you attempt to discover just what lurks beneath the Earth in this retro FPS",
         "languages": [
@@ -23232,9 +23462,9 @@
             "Acci\u00f3n"
         ],
         "ratingContent": [
-            "Sangre",
+            "Derramamiento de sangre",
             "Violencia intensa",
-            "Lenguaje"
+            "Lenguaje fuerte"
         ],
         "numberOfPlayers": 1,
         "rating": 17,
@@ -23589,7 +23819,8 @@
             "Acci\u00f3n"
         ],
         "ratingContent": [
-            "Violencia de fantasia"
+            "Violencia moderada de fantasia",
+            "Temas insinuantes moderados"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
@@ -24778,6 +25009,48 @@
         ],
         "size": 50331648
     },
+    "70010000047143": {
+        "id": "0100BAB01692A000",
+        "rightsId": null,
+        "name": "Panorama Cotton",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211029,
+        "nsuId": 70010000047143,
+        "category": [
+            "Arcade",
+            "Aventura",
+            "Acci\u00f3n",
+            "Disparos"
+        ],
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "ININ Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4e446d0ff7679ec03e733583ae464f08bec45eec504e84e3210ec811044fa387.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f67e3f1731930ea2e29c6ccb805357fd4309194bdcca404e8f1e6edd399d22b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03ceceddc51aee211c8096f61da0623efccfe7f4422e60558c88cb3f6ec97e4a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4a8069e2961b03df3a9b40ac8699a9cf0a01f4e8d66ef89c42a1e5af816c4c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be3fd28e4cbc4a6a8bec09f8c312e162c1f30da812179a06d318e8627ae320a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11f8dcc6a4e1de6f695c14d67bb5d9ca5bcc6e422b8da1cb44c8a4f2a99961bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/85d75903310ae6f887a9a32a49b33dec4f4f1d72be99c55e8edf243f0afa3016.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/210a6495e854d4af3d1e2135505bd4d1b8a2d89d6533e5eb1dbd08ff7fca31f0.jpg",
+        "intro": "The groundbreaking 3D-scrolling Cute 'em Up is back!\n",
+        "description": "The game's main character is Nata de Cotton, a witch with unquenchable craving for candy called Willow. She is accompanied by the fairy Silk, who Cotton saved the world with once before. Silk is approached by her sister Knit, who tells her that Queen Velvet has been acting strange. Identifying the source of her behavior as a burnt Willow, Silk tries to dispose of it, but Cotton crosses her path, grabs the Willow and tries to eat it, only to realize that it has been burned. She doesn't care much about the queen or the kingdom, but is angered by the fact that someone is burning Willows, so Cotton and Silk set off to stop whoever is doing such evil things!\n\nIn 1994, Panorama Cotton raised the bar for what's possible on the Mega Drive/Genesis consoles. The game's more colorful pallet makes every stage a treat to look at and fly through!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 44040192
+    },
     "70010000047154": {
         "id": "0100B4801683A000",
         "rightsId": null,
@@ -25020,6 +25293,34 @@
         "languages": null,
         "size": 221249536,
         "parentId": "01009BF0072D4000"
+    },
+    "70030000003622": {
+        "id": null,
+        "rightsId": null,
+        "name": "Monopoly for Nintendo Switch - Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000003622,
+        "category": null,
+        "ratingContent": [
+            "Interacciones en linea no estan clasificadas por la ESRB"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1572864000,
+        "parentId": "01007430037F6000"
     },
     "70030000003841": {
         "id": null,
@@ -30461,7 +30762,7 @@
         ]
     },
     "70050000008726": {
-        "id": "01002C000B553011",
+        "id": "01002C000B55300D",
         "rightsId": "01002C000B5530110000000000000005",
         "name": "Taiko no Tatsujin: Drum 'n' Fun! STUDIO GHIBLI Pack",
         "version": null,
@@ -30493,7 +30794,7 @@
         ]
     },
     "70050000008727": {
-        "id": "01002C000B553017",
+        "id": "01002C000B553015",
         "rightsId": "01002C000B5530170000000000000005",
         "name": "Taiko no Tatsujin: Drum 'n' Fun! VOCALOID\u2122 Music Pack",
         "version": null,
@@ -30526,7 +30827,7 @@
         ]
     },
     "70050000008728": {
-        "id": "01002C000B55301B",
+        "id": "01002C000B553019",
         "rightsId": "01002C000B55301B0000000000000005",
         "name": "Taiko no Tatsujin: Drum 'n' Fun! Touhou Project Arrangements Pack",
         "version": null,
@@ -30584,7 +30885,7 @@
         ]
     },
     "70050000008732": {
-        "id": "01002C000B55301E",
+        "id": "01002C000B55301D",
         "rightsId": "01002C000B55301E0000000000000005",
         "name": "Taiko no Tatsujin: Drum 'n' Fun! Pops Pack Vol. 1",
         "version": null,
@@ -30827,7 +31128,7 @@
         ]
     },
     "70050000009581": {
-        "id": "01002C000B553026",
+        "id": "01002C000B553025",
         "rightsId": "01002C000B5530260000000000000005",
         "name": "Taiko no Tatsujin: Drum 'n' Fun! Winter Holiday Anime Pack",
         "version": null,
@@ -30857,7 +31158,7 @@
         ]
     },
     "70050000009582": {
-        "id": "01002C000B55302B",
+        "id": "01002C000B553027",
         "rightsId": "01002C000B55302B0000000000000005",
         "name": "Taiko no Tatsujin: Drum 'n' Fun! Tatsujin Challenge Pack Vol. 1",
         "version": null,
@@ -55284,6 +55585,44 @@
             "0100B04011743057"
         ]
     },
+    "70050000028587": {
+        "id": "0100AA60136D3004",
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Bone Shaker\u2122 Unleashed Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70050000028587,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/63902b5c2df1a6183d457e5de89fab97b9dae3db504d029536250d522d91f1f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de3c525a8af76e08a6ca7d38e9915d11fbde5c27f3ec2a7f29bb29f27d20d848.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ade2bdce0d808509344504af0480eb1087ef0397cd86c3884efa4ebe6281f4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e394e29d3d7a92f8e265943bcd388e8a6141d16176b6f26fc3e1158e56fe334e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ccca2c6abe9ebc284208125fb546e7bea3960d7f72f059133b31ec40d9ef1ac4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e978f08f27d8049f9c7d7a3ac7b476d26dd5066e11de2b7704dd1bf8d2fd0012.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ad857cbb638c4c43dcf91fa0aa623b45a10a225921df7b488b64ae00b763da2.jpg",
+        "intro": null,
+        "description": "Entre los Originals m\u00e1s buscados de Hot Wheels\u2122, este Rat Rod tiene un dise\u00f1o malo hasta los huesos. Literalmente. Y ahora m\u00e1s que nunca con el dise\u00f1o nuevo y exclusivo de HOT WHEELS UNLEASHED\u2122. A pesar de no poder flexionar sus \"m\u00fasculos\" (por obvias razones), el Bone Shaker\u2122 tiene todo lo necesario para derrotar a los oponentes m\u00e1s formidables... \u00a1la muerte est\u00e1 de su lado!\n\nEnciende la carrera con sus escapes cu\u00e1druples laterales y permite que su cr\u00e1neo cromado sea la pesadilla recurrente de todos a trav\u00e9s del espejo retrovisor.\nHasta en las carreras m\u00e1s dif\u00edciles, la velocidad del Bone Shaker\u2122 siempre ser\u00e1 la adecuada.\n\u00a1Agr\u00e9galo ya a tu colecci\u00f3n!\n\nEste DLC se incluye en el HOT WHEELS\u2122 Pass Vol. 1",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100AA60136D3004"
+        ]
+    },
     "70050000028594": {
         "id": "01002C000B553125",
         "rightsId": null,
@@ -55482,6 +55821,260 @@
             "01002C000B553126"
         ]
     },
+    "70050000028622": {
+        "id": "0100AA60136D3006",
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Street Fighter M. Bison",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70050000028622,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5d44f5c826d56941be2becc402fd5aaee07a578d1c4da3d0f1e3a1d92d7f1a9d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/21549094cd5ec9c533b58a0a5cd5f458c84d0ffc955bbc49e587ce7c2e4480c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/99a25d4c41f2fbcdc0101e162093b37f54f73e0af5a7bd468415aa0cd8386154.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20a0a9ba55def0aa6893b6bf45e0c114823f76006e2d837d147329fe67212b37.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a56cfaf1be1d283b227d5f93db80a2225a1face02ff953ec494ebb0435a1b68f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8177c783ecf5c7cd3cf9d817d130a0c83efe6e0e10c1ded2b123bae1bdfaeee6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0bf221d072c6ff826143297c8295ced0c2236f71c8126bc71e371595dcf9ac05.jpg",
+        "intro": null,
+        "description": "Prep\u00e1rate para dominar las carreras con el auto del jefe m\u00e1s despiadado y megal\u00f3mano del universo de Street Fighter. Rojo como su uniforme militar caracter\u00edstico, con la famosa calavera alada en el visor de su gorra y capa negra, esta camioneta enorme no solo es copia fiel del estilo de Bison, tambi\u00e9n encarna su sed de victoria. \n\n\u00a1Una camioneta sobredimensionada y con un poder m\u00e1ximo, perfecta para tu ego gigante! Con sus aterradores ojos blancos, M. Bison no tolera en absoluto los fracasos, \u00a1as\u00ed que mu\u00e9strales a tus oponentes qui\u00e9n es el jefe y apl\u00e1stalos sin piedad con tus movimientos especiales! \u00a1A tus oponentes solo les queda aceptar un GAME OVER!\n\nEste DLC se incluye en HOT WHEELS\u2122 Pass Vol. 1\n",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100AA60136D3006"
+        ]
+    },
+    "70050000028623": {
+        "id": "0100AA60136D3008",
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Superman\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70050000028623,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5be6e99b3137a3b9a6fcb230c8aca424ce9dbdfcb15eb7bece2323298dad8daf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f497257d7f9e5824d980c2e9de375c27ceef9a91d6e707362f0b4e885c201cab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fbb80622c9a2c96a68b2cb6566fc67bb3a8caeaeefaa3ce059d376fffd2e3a33.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c421f534ef0ef86993ab3bde73aa041a259b83ad7a9176d3eb4e7379293c6db8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/660c6d301c7c330d6a6116a9e9ec07dc10b40e5149f034267c7d3eb983e93c5f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ebb000693fd2035be87f321d12b9446c093ba198226f48cd85c0c37af4aac7cd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c92590a24b3a69bd195782b4c2e397debee8721773bee4d17803e0882bda1a72.jpg",
+        "intro": null,
+        "description": "Si flexiona sus m\u00fasculos hasta llegar a la meta, \u00a1puedes contar en la victoria del incomparable auto Superman\u2122! \u00a1Al igual que el h\u00e9roe en el que est\u00e1 inspirado, es una personificaci\u00f3n de fuerza y poder con l\u00edneas aerodin\u00e1micas dise\u00f1adas para hacerte volar por la pista! \n\nNo es necesario que te quites los anteojos o que vayas a una cabina telef\u00f3nica, con la S legendaria en su pecho... digo, en el cap\u00f3, este auto de carreras est\u00e1 listo para demostrar sus superpoderes y desafiar a tus oponentes. \u00a1Y la buena noticia es que no hay Kryptonita en HOT WHEELS UNLEASHED\u2122! \u00a1\u00c9ste es un s\u00faper auto!\n\nEste DLC se incluye en HOT WHEELS\u2122 Pass Vol. 1",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100AA60136D3008"
+        ]
+    },
+    "70050000028624": {
+        "id": "0100AA60136D3009",
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Aston Martin DB5 1963",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70050000028624,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/96b7831c3f3ab15f6a4b41ea3560afb22fbb9cd995a74e8a4f71a375a88e3de0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/96f9652a17d7c99c92b606c157ef26a8c33f854cae0a8a7d264747fffbafc901.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40e80bc27d085563648a2bb02557fc0809231541b040b8362afdec39cf64e2c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/67595ebcff15c78aa8389a4a8b9ebe9366ee4f2058fa6b29d1c31fb278b90241.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e2780b60b218c3c58921d0280aef2590bb93a1b551933a4e9c23680b0929914.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5725a31650c89e8c9d15e7df687008dec5f928b9897f9a53e3267e8b7af920b0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f212a20730acd25a394e0515e36fe73622b671b41e1b1d50568301c88b1d1e51.jpg",
+        "intro": null,
+        "description": "Aqu\u00ed viene el auto con licencia... \u00a1para ganar! \u00c9ste espl\u00e9ndido Aston Martin es nada menos que el auto caracter\u00edstico de las legendarias pel\u00edculas de esp\u00edas. \u00a1Pero el poder de este GT de lujo no es para nada secreto! Y al igual que un gran esp\u00eda, tus rivales no podr\u00e1n alcanzarte con facilidad. \n\nDetr\u00e1s de su dise\u00f1o cl\u00e1sico y elegante yace un alma deportiva que no teme a ning\u00fan desaf\u00edo gracias a su incre\u00edble potencia. En cuanto tus oponentes te vean en la pista se pondr\u00e1n muy, muy... agitados. Toma el volante y prep\u00e1rate para la victoria, gran victoria.\n\nEste DLC se incluye en HOT WHEELS\u2122 Pass Vol. 1\n",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100AA60136D3009"
+        ]
+    },
+    "70050000028627": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Street Fighter Blanka",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211118,
+        "nsuId": 70050000028627,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/294be1a844e3b1d486574cee1a5d32bdd0be035499ec605132a9f0904c494a30.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ce088834aeaec89cb0d685d594aa2fd22dce61dcaac968d727c70632149de25.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6fc85548bd303ce86b38106a1070908f354832f3840f273eb223f787c860c2b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94332bc154c31681eeceae20d89a0f6c2f1371ea2670efa8687b6315820a89c6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2394a1c5d4d367ddeb5fdf8f6e14d5cdfce9ce5cc8592c89d32bd9878c5fdc6d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/acf749dd96b78ca6e532a438d3cf9bd0b1198c75fce26badbde677c3553cdbed.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/880b7befd8d9b2a31ab0d95f2b9847ff36dafe10132b2eb572f73ac1a14b64ab.jpg",
+        "intro": null,
+        "description": "Desata la fuerza bruta de este auto inspirado en Blanka, el famoso personaje de Street Fighter. Al igual que Blanka, este VW Baja Bug tiene unas mejoras salvajes que lo convierten en una verdadera pesadilla para sus oponentes. Verde brillante como la piel de Blanka y con el cabello naranja caracter\u00edstico de este hombre (\u00bfo cosa?), \u00e9ste auto est\u00e1 listo para abrirse camino por la jungla... er, la pista, y luchar por la primera posici\u00f3n! \n\nBlanka te electrificar\u00e1 con su desempe\u00f1o y dejar\u00e1 en shock a sus contrincantes! \u00a1Supera a tus rivales con su furia de predador! \u00a1Sigue tus instintos animales y agr\u00e9galo a tu colecci\u00f3n!\n\nEste DLC se incluye en HOT WHEELS\u2122 Pass Vol. 1\n",
+        "languages": null,
+        "size": 0
+    },
+    "70050000028628": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Wonder Woman\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211118,
+        "nsuId": 70050000028628,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/05d0b11d3866c177d6d25c04c09aee63f0337cdd99973f83b6737d73ab774ac7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e98e286df0440aa30c2b7c05f5ac760d5878c580f6e49df3cb5b962de41580f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/93b9613856a4c71465ecc8a8218f00748718878724714401d4c01eb329d61893.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f846839a553c8192ab627faa231bc502aa9e54f40de72e7d6ed83826a22e744.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b5374ddc56138cc567ea9f904036a44e22a145d9d893cdf238d3aa7f925ff29.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2592c53342bf9cb65c980e518884d1741d788c84a1cf5fbe32b2597e05323cbc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1e1918a3af1e5cae23f7398733ae5e79a399592db39c27cb01be09e6d8f82cea.jpg",
+        "intro": null,
+        "description": "Ata a la competencia y domina la carrera como una verdadera amazona! Aqu\u00ed est\u00e1 el speedster aerodin\u00e1mico inspirado por uno de los personajes m\u00e1s queridos de DC Comics: \u00a1Wonder Woman\u2122! \nSu bello dise\u00f1o evoca los colores y patr\u00f3n de su traje legendario, con su tiara dorada en el techo y la ic\u00f3nica doble W en el cap\u00f3.\n\n\u00bfY qu\u00e9 hay de su potencia? Bien, aunque sabemos que las amazonas eran excelentes guerreras a caballo, aqu\u00ed tratamos con caballos de fuerza: aprieta el pedal y gana tu lugar entre los dioses de la carrera. \u00a1No esperes a probar esta maravilla!\n\nEste DLC se incluye en HOT WHEELS\u2122 Pass Vol. 1\n",
+        "languages": null,
+        "size": 0
+    },
+    "70050000028629": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - AcceleRacers Deora\u2122 II",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211118,
+        "nsuId": 70050000028629,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ae64c09feb4721fb69756f5fa7144ec313b994eeeb9ac1d5e57a8b29a3131a87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c624c0062d3a2b2fea2b21a51974f0ba529967723bec6d45f4fcd317652e8db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/faaeaa23b36cd6a068441986c47d45a73d0f7c08c1f1f01175648323f43900b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91d88d1d0acb943c68f2b591d26c467a6686a1c3c00dc235fc4d86fdb6f44d7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f1639079d92d961a32eafc620a5918585e164b4268276d3d0c3bc567f84cb80.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2ab49967fcca85abb40c40aa01a19a3eb0ea9ee621139000014df6c0875dbb8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c6a756487e1f4025cd5d4bb0554aa1d99969f442a71ea7e9c2dc4a7e952445f1.jpg",
+        "intro": null,
+        "description": "\u00a1Ponte en los zapatos (o en las sandalias playeras) de Vert Wheeler y conduce esta fabulosa obra maestra de cuatro ruedas! Directo de la pel\u00edcula de culto Highway 35 World Race, aqu\u00ed est\u00e1 el legendario Deora\u2122 II con el dise\u00f1o Wave Rippers. Este veh\u00edculo de carreras, una evoluci\u00f3n del modelo Deora original de 1968, parece estar hecho para surfear en la pista con sus dos tablas en la parte trasera. \n\nDeora\u2122 II te llevar\u00e1 directo a lo m\u00e1s alto del podio para demostrar qui\u00e9n es el mejor piloto del mundo. S\u00fabete a la tabla, monta la ola del \u00e9xito y\u2026 \u00a1aguanta, hermano!\n\nEste DLC se incluye en el HOT WHEELS\u2122 Pass Vol. 1\n\n",
+        "languages": null,
+        "size": 0
+    },
+    "70050000028630": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - TMNT Leonardo",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211118,
+        "nsuId": 70050000028630,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bacd9a8e2d33552fba518f04172244d02d5e9f781a86ce577bfeba0c6751a2a4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e62e9420cc2f151ab9b2d6d6472ce91d61696aecd2ff076772df0bb9bbdda3df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e701256322d5b1b52375c48d97fb2b179bd631dfd3dfdeadefce3dc0a32f5df0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/55946476b8fa9de72bb19ea647e840a4a7c2a3c126c9ee815af2f2a7c67b067d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97b01e586f9023689bd70c8950e6e57121f2022b5081d315823209402444ee24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a56e87a55dda380b4dfc52be81e7ff5ec72697d5ef5cde7fdff9f03e17d3f96a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/68e2c26eddeb93c0666176bb6e9f0c8155e4cd8f6b1605730726e5651fd2605d.jpg",
+        "intro": null,
+        "description": "\u00a1COWABUNGA! Si buscas una obra maestra en cuatro ruedas, llegaste al lugar correcto: \u00a1directamente desde el mundo de Teenage Mutant Ninja Turtles llega este auto de carreras inspirado en Leonardo! Con su carrocer\u00eda verde, la m\u00e1scara azul y la legendaria katana doble como aler\u00f3n trasero, el HOT WHEELS\u2122 - TMNT Leonardo te llevar\u00e1 desde las alcantarillas al primer puesto del podio. \n\nDomina el arte de adelantar a tus rivales, traza trayectorias fenomenales y destroza a tu competencia como todo un guerrero. Nunca hab\u00edas visto una tortuga as\u00ed de r\u00e1pida. \u00a1Completa ya tu colecci\u00f3n!\n\nEste DLC se incluye en el HOT WHEELS\u2122 Pass Vol. 1",
+        "languages": null,
+        "size": 0
+    },
     "70050000028827": {
         "id": "010071400F837004",
         "rightsId": null,
@@ -55546,6 +56139,446 @@
         "ids": [
             "01007C600EB43006"
         ]
+    },
+    "70050000028858": {
+        "id": "0100AA60136D3005",
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Tropical Wave Customization Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70050000028858,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6b7e59363525851f0e310505b63848790a37c8dbb3f5c1ab32ff47e316bdb4fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cfa5da92b72904c7505f559993e79c98aa9ac2f4e929387437116b2241f5f2b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bbe33a3fb7b6f29d0d5e35372db32bbf7340bf200c341ce94f276bfe4efbf7e8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4d76803b8a38d5ddef8c16bbe0e5ac9d6ec86d06a502adb7bda2dc6630bb6f45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9bb56f57002c2e1a73b654e622249813f44994f89e06586395e47e19a0f14cf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d258e0e18c07cf9624ea1633959fd374dc0ca16d21ac64b586d2cdbeafa0bef.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c2ef93a9ffb5e1740515ed265f3b358241a594da4de4b343a2b11f6630fd01ea.jpg",
+        "intro": null,
+        "description": "Palmeras, olas y tablas de surf... no hace falta ir muy lejos para disfrutar de este para\u00edso: \u00a1HOT WHEELS\u2122 - Tropical Wave Customization Pack traer\u00e1 la magia del oc\u00e9ano directamente a tu S\u00f3tano! \n\nIncluye 8 elementos exclusivos con un dise\u00f1o inspirado en la vida en la playa. Personaliza los muros, el piso, las puertas y tu Sill\u00f3n... \u00bfno sientes que ya est\u00e1s de vacaciones? Pero las carreras nunca descansan, as\u00ed que construye tu pista aqu\u00ed y prep\u00e1rate para hacer olas. Puede que tus oponentes disfruten de la dulce vista soleada, \u00a1pero les espera la m\u00e1s amarga derrota! \n\nAdem\u00e1s, este pack incluye 3 elementos exclusivos para tu Perfil Unleashed: \u00a1un icono, una etiqueta y un fondo especiales! \u00a1Hora de surfear! \n\nEste DLC incluye: \n\nPara el s\u00f3tano: \n- 2 paredes\n- 2 suelos \n- 1 puerta\n- 1 decoraci\u00f3n\n- 1 sill\u00f3n\n- 1 set de 4 p\u00f3steres\n\nPara el Perfil Unleashed: \n- 1 \u00edcono\n- 1 etiqueta\n- 1 fondo\n\nEste DLC se incluye en el HOT WHEELS\u2122 Pass Vol. 1",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100AA60136D3005"
+        ]
+    },
+    "70050000028867": {
+        "id": "0100AA60136D3007",
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Rolling Boulders Module",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70050000028867,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e1eea938d66bb6b02d1187c861ac38acff75bbf6eefe3ee2a8d287aa656375dc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6111bfd208d48eba29b03dc27f42e1b5d284cc8e14fcf128219d17d0c5eea20.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c90f8ec56c3b0d8b36a389c6b8983fb1d90861e278669e8db7df378eadff4ebf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7713a87368b054f58330028fe5425f515e8917789cf8b2cb316d677bcd7b0f5e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30028e1cdd35307ea24c30d6ffae12b8b1f964224d997c3c8fb97a0fc6df0383.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0790f5bb4e75ffe9a949836beaa6376ac1e79c143bd46e2e5d30e14194fc72c9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1932209d6306557574765cf134f8b088d57718964c04db8e91ae6ec032aaef91.jpg",
+        "intro": null,
+        "description": "\u00a1Vamos a rockear! Y hay que decirlo, ya que estamos hablando de rocas. \u00a1Ellas s\u00ed ruedan! El HOT WHEELS\u2122 - Rolling Boulders Module es un impresionante lanzador de rocas que a\u00f1adir\u00e1 un poco de adrenalina a tu carrera: el m\u00f3dulo base lanzar\u00e1 aleatoriamente una roca gigante a la pista desde una de sus 3 aberturas. \u00bfHas visto el da\u00f1o que puede hacer el granizo a tu veh\u00edculo? \u00a1Pues ahora imagina una piedra de 5 metros! \n\n\u00a1Necesitas buenos reflejos para evitar un impacto devastador! \u00bfPodr\u00e1s superar este obst\u00e1culo? \u00bfVolar\u00e1s por los aires? Nada est\u00e1 escrito en piedra, as\u00ed que ponte a prueba y demuestra que... \u00a1T\u00da S\u00cd SABES ROCKEAR!\n\nEste DLC se incluye en el HOT WHEELS\u2122 Pass Vol. 1\n",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100AA60136D3007"
+        ]
+    },
+    "70050000028868": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Pink Fashion Customization Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211118,
+        "nsuId": 70050000028868,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c85cbfb5866c3691227f599a8d7cf6dda24f449a38e117d657ba5ad7ac03feda.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/380979e596a788f474a707f8d075c1000005569e6d11352aa95742661ef360f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/675ae4b3457667ca0efe698c00454ad6faa416cda2deb7d6fc6f565fe9f5a7a0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73bd7bc8ace617d5d5b3522900e497c292e5f01784a60a745be79d4d8b030f32.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8da4c329411a5fae930cd788178a0c00baf9b40047d8351c645b5d21f15d2196.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8bf36b300daa9fe2d868d7faa06a99d63108ada0117cb87c9eafa8bf7efdfbd7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/16e67cd17f20277fc2a57e5fd824c3fde80ff6aba41b5dd7d27bdba3922632b9.jpg",
+        "intro": null,
+        "description": "\u00a1Si tus rivales te hicieron enojar, rel\u00e1jate un poco despu\u00e9s de la carrera al rodearte de reconfortantes tonos rosa! Este es el paquete perfecto para ti: 8 elementos en tonos rosa para personalizar tu S\u00f3tano con decoraciones extravagantes y un toque de moda que les encantar\u00e1 a todos. \u00a1Incluso a tus oponentes m\u00e1s complicados! Mientras se distraen con tus habilidades de decoraci\u00f3n de interiores, \u00a1t\u00fa podr\u00e1s adelantarlos sin piedad! \u00a1Ellos s\u00ed ser\u00e1n v\u00edctimas de la moda! Cuanto m\u00e1s bonito sea tu S\u00f3tano, \u00a1m\u00e1s posibilidades tendr\u00e1s de ganar! \n\nAdem\u00e1s, este paquete incluye 3 elementos exclusivos para tu Perfil Unleashed: un \u00edcono, etiqueta y un fondo especiales. \u00a1Muestra tu estilo dentro y fuera de la carrera! \n\nEste DLC incluye: \n\nPara el s\u00f3tano: \n- 2 paredes\n- 2 suelos \n- 1 puerta\n- 1 decoraci\u00f3n\n- 1 sill\u00f3n\n- 1 set de 4 p\u00f3steres\n\nPara el Perfil Unleashed: \n- 1 \u00edcono\n- 1 etiqueta\n- 1 fondo\n\nEste DLC se incluye en el HOT WHEELS\u2122 Pass Vol. 1",
+        "languages": null,
+        "size": 0
+    },
+    "70050000028869": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Batman Expansion",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211202,
+        "nsuId": 70050000028869,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/414c3c0fc6677ee8d4d05e9ba81211a3b7efd451b251594dd1e84d511586cbd6.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70050000028870": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - AcceleRacers Bassline\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211216,
+        "nsuId": 70050000028870,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f4c3b73ef09ab47a62e687c3943c7c2dcc4cb3bcc7c683f2e79506cd85afbbc8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b6979e9d7dbd16beb7bfd26580fa127969063a43b7e71c6af12b691c2a186c58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c3c5353a4d34e44b407b421ebef7cb652321f47e2333212f7ce750496d55916.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e22e5ae4c08fdcc00ff4600f0c1c01aedd6effb0f25ec51cbe44c335b977d6d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a1b8607599912e6653d244699e977edb68261365d8037d806166d14fb6ff37fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9cd70fcb44408918a032a55ff77c39f810a0bf806f6ca8202c54782802d48c31.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c817708571bd3fdade696fd724a203139fe6c7711d7a8c17421ea78c0deef63e.jpg",
+        "intro": null,
+        "description": "\u00a1Haz ruido con la llegada de este nuevo coche de carreras que viene directo del mundo futurista de AcceleRacers! El Bassline\u2122 es el \u00fanico cami\u00f3n de la serie, conducido por Shirako Takamoto, y est\u00e1 listo para hacerte sentir (\u00a1y o\u00edr!) toda la emoci\u00f3n de la victoria gracias a sus enormes altavoces traseros y subwoofers: la banda sonora perfecta... \u00a1para tus victorias! Y quien intente detenerte, \u00a1tendr\u00e1 que enfrentarse a tu tonada victoriosa! As\u00ed que prep\u00e1rate para subir al podio gracias a otro tipo de sonido: esas dulces notas de su potente motor V10.\n\nEste veh\u00edculo no puede faltar en tu colecci\u00f3n, \u00a1as\u00ed que sube el volumen y haz temblar a tus rivales con HOT WHEELS\u2122 - AcceleRacers Bassline\u2122!\n\nEste DLC se incluye en el HOT WHEELS\u2122 Pass Vol. 1",
+        "languages": null,
+        "size": 0
+    },
+    "70050000028871": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Dinopult Module",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211216,
+        "nsuId": 70050000028871,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d3918605c39ecc3fc5b0005c6b07fb9346865dac7fed8f2178abba4edf194845.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aeb706460465eeed6d28feec7d30217fa3377af9c92740c732412ae2143b90cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12a9242c8adb910d22769da0c214e6e9d34f36e32c0b7d8a03e29ce2220e2104.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18579413436c36031673f7551444c197dd39ba96a7214c53c1654a9919c0ba57.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9cd4d18d1a71afe9fa33a3635c4352c0223201a187f565dda0765ddc5a2fb54b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05402427f7c80e78d6409ceab06bfa2165054ee302c7d8afdd810bcc74ea3644.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7b8e0b430855b59a141a6f4d63782d63d0b924df2f27720b07b453f202940d09.jpg",
+        "intro": null,
+        "description": "Este es el nuevo m\u00f3dulo interactivo que har\u00e1 que tu pista pase a la historia... bueno... \u00a1a la prehistoria! A\u00f1ade el HOT WHEELS\u2122 - Dinopult Module a cualquier pista y prep\u00e1rate para saltar a la era jur\u00e1sica con este enorme estegosaurio rojo. \n\nPasa bajo su vientre, entre sus enormes patas y no dejes que su cola impredecible te atrape: si pasas en el momento equivocado, te lanzar\u00e1 por el aire y perder\u00e1s el liderazgo de la carrera. Esto podr\u00eda significar la extinci\u00f3n de todas tus esperanzas de ganar. Aprende a usarla a tu favor para vencer a tus rivales \u00a1y podr\u00edas aterrizar en el podio!\n\nEste DLC se incluye en el HOT WHEELS\u2122 Pass Vol. 1\n",
+        "languages": null,
+        "size": 0
+    },
+    "70050000028872": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Barbie\u2122 Dream Camper\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211216,
+        "nsuId": 70050000028872,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/643989b149dce134252f4fe18384e65410435b8e8be17f24ad6dbf7a8144abfa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1fd3e37331a9feda8edb98e6541691b5a0d6ddf0298c8ad4925d314ff3376a18.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98cba9d5f108533125851cf274f228ab572523c3f1c0c8c8481cc5ef05e31285.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a3b555767b929abfa082021207806e53a6fdea58221a14d75cf4da38f768b2be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd230fc811c3ee8de27e69cfeeefd5d38fce0ed338ecae35f9cb91efaac03b0e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/580677304175cbf162f2560d4a2fdd2d4a2659dc8f112778f58da404650b9795.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3f95b3a1a4a5f89438f77f587248ae46ec540e67f3f06ba280c567c8fefad749.jpg",
+        "intro": null,
+        "description": "Que no te enga\u00f1e su apariencia, el Barbie\u2122 Dream Camper\u2122 no es un auto t\u00edpico para fines de semana. Creado para la intemperie, este RV compacto y multifuncional sorprender\u00e1 incluso en las m\u00e1s largas carreras bajo techo. \u00a1Quienes necesitar\u00e1n unas vacaciones ser\u00e1n tus rivales una vez que los superes en la l\u00ednea de meta! \n\nPor otra parte, la ventaja de un c\u00e1mper es que puedes estacionarlo donde quieras... en especial en la cima del podio. \u00a1Con el Barbie\u2122 Dream Camper\u2122 tus sue\u00f1os de gloria finalmente se har\u00e1n realidad!\n\nEste DLC se incluye en HOT WHEELS\u2122 Pass Vol. 1\n",
+        "languages": null,
+        "size": 0
+    },
+    "70050000028876": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Vehicle 11",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220217,
+        "nsuId": 70050000028876,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/414c3c0fc6677ee8d4d05e9ba81211a3b7efd451b251594dd1e84d511586cbd6.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70050000028877": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Vehicle 12",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220217,
+        "nsuId": 70050000028877,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/414c3c0fc6677ee8d4d05e9ba81211a3b7efd451b251594dd1e84d511586cbd6.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70050000028878": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Vehicle 13",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220217,
+        "nsuId": 70050000028878,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/414c3c0fc6677ee8d4d05e9ba81211a3b7efd451b251594dd1e84d511586cbd6.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70050000028880": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Vehicle 14",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220324,
+        "nsuId": 70050000028880,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/414c3c0fc6677ee8d4d05e9ba81211a3b7efd451b251594dd1e84d511586cbd6.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70050000028881": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Vehicle 15",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220324,
+        "nsuId": 70050000028881,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/414c3c0fc6677ee8d4d05e9ba81211a3b7efd451b251594dd1e84d511586cbd6.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70050000028882": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Vehicle 16",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220324,
+        "nsuId": 70050000028882,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/414c3c0fc6677ee8d4d05e9ba81211a3b7efd451b251594dd1e84d511586cbd6.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70050000028885": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Expansion 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220421,
+        "nsuId": 70050000028885,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/414c3c0fc6677ee8d4d05e9ba81211a3b7efd451b251594dd1e84d511586cbd6.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
     },
     "70050000028907": {
         "id": "010007301138300F",
@@ -57253,6 +58286,76 @@
             "01007B000C835008"
         ]
     },
+    "70050000029424": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Holiday Season Customization Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211216,
+        "nsuId": 70050000029424,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0c7f1a3f75c99943fc4b5e1b3664d9d7716a9cb3d0ed558ad89db9d0876c78a4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5cfd895217f70ff40638eedcf4aa36e39993a5afd4a4e423664652f89586babd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7cf8e0c5d96b8b718f1c71f31ca0c92765463c32ccef7eb51813e24cd2b2ee41.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ac4132eab35683b1a0c773fb23f508588c9cf7d2d5c72ba1696b60ff74266b6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/920725e45a2f0f8e56d7b706121a8729449805258fc0c70c733e306635539a0c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab0c33a1fbaf1ab2907d913f5410a1c448c47d0975d2bf4896112b0ea78d2b31.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2f651f580d8372d85940b502b60348d8c5955a184c50d917beebdea30da4bfa3.jpg",
+        "intro": null,
+        "description": "\u00a1No hay nada mejor que este Holiday Season Customization Pack para sentir el esp\u00edritu de las fiestas! Personaliza tu s\u00f3tano y tu Perfil Unleashed con 8 elementos fant\u00e1sticos para decorar las paredes, suelos y puertas y dale un toque navide\u00f1o a la habitaci\u00f3n con decoraciones, un sill\u00f3n y posters tem\u00e1ticos. Y recibir\u00e1s para tu Perfil Unleashed un \u00edcono, una etiqueta y un fondo dedicado que te llevar\u00e1 al centro de todas las celebraciones. \n\nPero aunque sea Navidad, \u00a1no les dar\u00e1s regalos a tus rivales! Prep\u00e1rate para vencerlos sin piedad durante las fiestas en las pistas creadas en tu nuevo s\u00f3tano navide\u00f1o y descubre la victoria.\n\nEste DLC contiene:\n\nPara el s\u00f3tano: \n- 2 paredes\n- 2 suelos \n- 1 puerta\n- 1 decoraci\u00f3n\n- 1 sill\u00f3n\n- 1 set de 4 p\u00f3steres\n\nPara el Perfil Unleashed: \n- 1 \u00edcono\n- 1 etiqueta\n- 1 fondo\n\nEste DLC se incluye en el HOT WHEELS\u2122 Pass Vol. 1",
+        "languages": null,
+        "size": 0
+    },
+    "70050000029425": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Spinning Tire Module",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211216,
+        "nsuId": 70050000029425,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c68585e2a9e01ae98f3f40c31ff816b9ebde53acfe1219ee04f77306ffe259cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0dc6a20071cc581f3c253959980d26848708280c02b9fc37e853eff62224932c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f5d57a1ca793a39dc5c9ba3a88bffb93a813ffbd3460017e9c6288293ac369e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/272cfcf2fe30b96becd08f9caecea598ad0cb9a6c20de221971c1c6e449cf90a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae326906097be7f101c533f50e753f0b1494b43c1714595d6eb30f45d9c00b97.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f9f4a68d2f8ae103744c3021fe5445e54376a28d64497e47763f1efdffe22b32.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ee1daf10231b72bfcc228b530d989c9280b4266011f5f189529dd93559136959.jpg",
+        "intro": null,
+        "description": "La rueda de la fortuna siempre gira... pero para superar este obst\u00e1culo en la pista necesitar\u00e1s mucho m\u00e1s que suerte: \u00a1la clase, la velocidad y los reflejos fulminantes ser\u00e1n tus armas secretas! A\u00f1ade el Spinning Tire Module a tu pista y prueba tu sincronizaci\u00f3n con este neum\u00e1tico gigante que gira alrededor de la pista: \u00a1elige el momento adecuado para evitar su imparable barra giratoria o te expulsar\u00e1 por el aire sin piedad! No hay forma de evitarlo: este m\u00f3dulo puede decidir realmente el destino de la competencia.\n\n\u00a1Con el HOT WHEELS\u2122 - Spinning Tire Module la diversi\u00f3n est\u00e1 garantizada!\n\nEste DLC se incluye en el HOT WHEELS\u2122 Pass Vol. 1",
+        "languages": null,
+        "size": 0
+    },
     "70050000029545": {
         "id": "010051C0134F900D",
         "rightsId": null,
@@ -57285,6 +58388,146 @@
         "ids": [
             "010051C0134F900D"
         ]
+    },
+    "70050000029610": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Customization Pack 4",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220217,
+        "nsuId": 70050000029610,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/414c3c0fc6677ee8d4d05e9ba81211a3b7efd451b251594dd1e84d511586cbd6.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70050000029611": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Track Builder Module 4",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220217,
+        "nsuId": 70050000029611,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/414c3c0fc6677ee8d4d05e9ba81211a3b7efd451b251594dd1e84d511586cbd6.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70050000029612": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Customization Pack 5",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220324,
+        "nsuId": 70050000029612,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/414c3c0fc6677ee8d4d05e9ba81211a3b7efd451b251594dd1e84d511586cbd6.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70050000029613": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Track Builder Module 5",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220324,
+        "nsuId": 70050000029613,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/414c3c0fc6677ee8d4d05e9ba81211a3b7efd451b251594dd1e84d511586cbd6.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 0
+    },
+    "70050000029616": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Multipack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220421,
+        "nsuId": 70050000029616,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/414c3c0fc6677ee8d4d05e9ba81211a3b7efd451b251594dd1e84d511586cbd6.jpg",
+        "intro": null,
+        "description": "AVISO IMPORTANTE\n\nEste producto no est\u00e1 disponible para su compra, solo se incluye en HOT WHEELS\u2122 - Ultimate Stunt Edition.\nLos productos incluidos en este DLC se pueden comprar por separado.\nHOT WHEELS\u2122 - Multipack incluye:\n- HOT WHEELS\u2122 - Customization Pack 6\n- HOT WHEELS\u2122 - Vehicle 17\n- HOT WHEELS\u2122 - Track Builder Module 6\n- HOT WHEELS\u2122 - Vehicle 18\n- HOT WHEELS\u2122 - Vehicle 19",
+        "languages": null,
+        "size": 0
     },
     "70050000029621": {
         "id": "01002C000B55312E",
@@ -58148,7 +59391,7 @@
         ]
     },
     "70050000030081": {
-        "id": null,
+        "id": "01006A800016F050",
         "rightsId": null,
         "name": "\u3010Disfraz\u3011Gorro de Justino",
         "version": null,
@@ -58180,10 +59423,13 @@
         "intro": null,
         "description": "Este contenido descargable incluye el gorro de Justino.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01006A800016F050"
+        ]
     },
     "70050000030082": {
-        "id": null,
+        "id": "01006A800016F051",
         "rightsId": null,
         "name": "\u3010Disfraz\u3011Gorro de octoling",
         "version": null,
@@ -58215,10 +59461,13 @@
         "intro": null,
         "description": "Este contenido descargable incluye el gorro de octoling.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01006A800016F051"
+        ]
     },
     "70050000030083": {
-        "id": null,
+        "id": "01006A800016F052",
         "rightsId": null,
         "name": "\u3010Disfraz\u3011Casco y armadura del DOOM Slayer",
         "version": null,
@@ -58250,7 +59499,10 @@
         "intro": null,
         "description": "Este contenido descargable incluye el casco y la armadura del DOOM Slayer.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01006A800016F052"
+        ]
     },
     "70050000030124": {
         "id": "010071C013391320",
@@ -59208,7 +60460,7 @@
     "70050000030669": {
         "id": null,
         "rightsId": null,
-        "name": "Animal Crossing: New Horizons \u2013 Happy Home Paradise",
+        "name": "Animal Crossing\u2122: New Horizons - Happy Home Paradise",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -59271,6 +60523,244 @@
         "size": 3145728,
         "ids": [
             "0100B6E012EBF008"
+        ]
+    },
+    "70050000030760": {
+        "id": "010063B012DC7002",
+        "rightsId": null,
+        "name": "Danza de riqueza de Mitama",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211112,
+        "nsuId": 70050000030760,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Desnudez parcial",
+            "Temas sexuales",
+            "Lenguaje fuerte",
+            "Violencia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4597af2d58807faf86b689c261b07bd1692b72ed6f0e1ca90f4813506c2a435f.jpg",
+        "intro": null,
+        "description": "Mayor aparici\u00f3n de los \"Saki Mitama\", demonios que sueltan objetos con los que obtienes Macca.\n\n*Hay una probabilidad baja de que aparezca un Mitama, incluso sin este DLC.\n*Revierte la tasa de aparici\u00f3n a la mitad del juego desde el men\u00fa Opciones.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010063B012DC7002"
+        ]
+    },
+    "70050000030761": {
+        "id": "010063B012DC7003",
+        "rightsId": null,
+        "name": "Danza de EXP de Mitama",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211112,
+        "nsuId": 70050000030761,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Desnudez parcial",
+            "Temas sexuales",
+            "Lenguaje fuerte",
+            "Violencia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cc484a3c99466a9a369176307637a6e9b1bd9d28db378ef86b7bcc1b59e89191.jpg",
+        "intro": null,
+        "description": "Mayor aparici\u00f3n de los \"Kushi Mitama\", demonios que sueltan objetos que dan EXP al protagonista, y de los \"Ara Mitama\", que dan EXP a los demonios aliados.\n\n*Hay una probabilidad baja de que aparezca un Mitama, incluso sin este DLC.\n*Revierte la tasa de aparici\u00f3n a la mitad del juego desde el men\u00fa Opciones.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010063B012DC7003"
+        ]
+    },
+    "70050000030762": {
+        "id": "010063B012DC7004",
+        "rightsId": null,
+        "name": "Danza de milagros de Mitama",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211112,
+        "nsuId": 70050000030762,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Desnudez parcial",
+            "Temas sexuales",
+            "Lenguaje fuerte",
+            "Violencia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/83b29fb157a414e1abbce7a56717f1413c927e30ebc434419ff3f164b9ef12f3.jpg",
+        "intro": null,
+        "description": "Mayor aparici\u00f3n de los \"Nigi Mitama\", demonios que sueltan objetos que dan Gloria al protagonista para aprender m\u00e1s milagros.\n\n*Hay una probabilidad baja de que aparezca un Mitama, incluso sin este DLC.\n*Revierte la tasa de aparici\u00f3n a la mitad del juego desde el men\u00fa Opciones.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010063B012DC7004"
+        ]
+    },
+    "70050000030763": {
+        "id": "010063B012DC7005",
+        "rightsId": null,
+        "name": "Diosa en formaci\u00f3n",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211112,
+        "nsuId": 70050000030763,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Desnudez parcial",
+            "Temas sexuales",
+            "Lenguaje fuerte",
+            "Violencia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2173c67f1fb879b762e998291ac8e131cde8f4043758e2fb1a1ea50915b63365.jpg",
+        "intro": null,
+        "description": "Otorga acceso a la misi\u00f3n secundaria \"Diosa en formaci\u00f3n\", en la que los jugadores se enfrentar\u00e1n a \"Megami Artemis\" y podr\u00e1n reclutarla si salen victoriosos.\n\n*Tras avanzar hasta cierto punto, habla con el investigador de Bethel en el Edificio de la Dieta de Tokio para comenzar la misi\u00f3n secundaria. Al completarla, podr\u00e1s enfrentarte a Artemis tantas veces como quieras.\n*Recomendamos completar esta misi\u00f3n cuando te halles al menos a la mitad del juego. ",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010063B012DC7005"
+        ]
+    },
+    "70050000030764": {
+        "id": "010063B012DC7006",
+        "rightsId": null,
+        "name": "Furia de una reina",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211112,
+        "nsuId": 70050000030764,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Desnudez parcial",
+            "Temas sexuales",
+            "Lenguaje fuerte",
+            "Violencia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a7a8a18712c164d123937651b5041e66dad86a788cc7bf83f09a2b84f867b803.jpg",
+        "intro": null,
+        "description": "Otorga acceso a la misi\u00f3n secundaria \"Furia de una reina\", en la que los jugadores se enfrentar\u00e1n a la \"Dama Cleopatra\" y podr\u00e1n reclutarla si salen victoriosos.\n\n*Tras avanzar hasta cierto punto, habla con el investigador de Bethel en el Edificio de la Dieta de Tokio para comenzar la misi\u00f3n secundaria. Al completarla, podr\u00e1s enfrentarte a Cleopatra tantas veces como quieras.\n*Recomendamos completar esta misi\u00f3n cuando te halles cerca del final del juego. ",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010063B012DC7006"
+        ]
+    },
+    "70050000030765": {
+        "id": "010063B012DC7007",
+        "rightsId": null,
+        "name": "\u00daltimo deseo del doctor",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211112,
+        "nsuId": 70050000030765,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Desnudez parcial",
+            "Temas sexuales",
+            "Lenguaje fuerte",
+            "Violencia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9e9cb6b082ebd8d779f50e23d9fe82556671022fb17b8b8a83afea15e000e24a.jpg",
+        "intro": null,
+        "description": "Otorga acceso a la misi\u00f3n secundaria \"\u00daltimo deseo del doctor\", en la que los jugadores se enfrentar\u00e1n al \"Tirano Mephisto\" y podr\u00e1n reclutarlo si salen victoriosos.\n\n*Tras avanzar hasta cierto punto, habla con el investigador de Bethel en el Edificio de la Dieta de Tokio para comenzar la misi\u00f3n secundaria. Al completarla, podr\u00e1s enfrentarte a Mephisto tantas veces como quieras.\n*Recomendamos completar esta misi\u00f3n cuando te halles cerca del final del juego. ",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010063B012DC7007"
+        ]
+    },
+    "70050000030766": {
+        "id": "010063B012DC7008",
+        "rightsId": null,
+        "name": "Regreso del demonio real",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211112,
+        "nsuId": 70050000030766,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Desnudez parcial",
+            "Temas sexuales",
+            "Lenguaje fuerte",
+            "Violencia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f8b894dcebb2a47fbd0d5147f4e8cf4d20aebbecef97a43190d3d916d2032a72.jpg",
+        "intro": null,
+        "description": "Otorga acceso a la misi\u00f3n secundaria \"Regreso del demonio real\", en la que los jugadores podr\u00e1n enfrentarse y reclutar a los nueve demonios legendarios: Matador, \u00c1ngel del infierno, Jinete blanco, Jinete rojo, Jinete negro, Jinete p\u00e1lido, Ramera babil\u00f3nica y Trompetista. Sin embargo, el desaf\u00edo no termina all\u00ed. Al derrotarlos, los jugadores podr\u00e1n desafiar al oponente m\u00e1s fuerte de todos ellos: el Semidemonio.\n\n*Tras avanzar hasta cierto punto, podr\u00e1s comenzar la misi\u00f3n secundaria al visitar el Mundo de las Sombras.\n*Los demonios aparecer\u00e1n a medida que avances en la historia.\n*Al completar esta misi\u00f3n secundaria, no podr\u00e1s volver a enfrentarte a los demonios, pero podr\u00e1s enfrentar al Semidemonio tantas veces como quieras.\n*Ten en cuenta que no podr\u00e1s reclutar al Semidemonio.\n*Recomendamos desafiar a los demonios cuando te halles a la mitad del juego, y al Semidemonio en las fases finales.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010063B012DC7008"
         ]
     },
     "70070000000041": {
@@ -59980,7 +61470,7 @@
         "intro": null,
         "description": "La Edici\u00f3n FighterZ incluye el juego y el Pase FighterZ, que a\u00f1ade 8 personajes nuevos a tu selecci\u00f3n.\n\nDRAGON BALL FighterZ nace de lo que hace a la serie DRAGON BALL tan famosa: luchas espectaculares e interminables con luchadores superpoderosos.\n\nCon Arc System Works, DRAGON BALL FighterZ maximiza los gr\u00e1ficos de anime de alta calidad y ofrece un juego de lucha f\u00e1cil de aprender pero dif\u00edcil de dominar.\n\nEn equipo/soporte 3vs3\nForma tu equipo so\u00f1ado y domina r\u00e1pidas combinaciones entre luchadores.\n\nEmocionante juego en l\u00ednea\nPartidas igualadas, salas interactivas, locas partidas de grupos de 6 jugadores... \u00a1Hay para todos los gustos!\n\nModo historia exclusivo\nDescubre una aventura con la incorporaci\u00f3n de la Androide N\u00b021, un nuevo personaje de creaci\u00f3n supervisada por el mismo Akira Toriyama.",
         "languages": null,
-        "size": 10439622656
+        "size": 10438574080
     },
     "70070000003204": {
         "id": null,
@@ -60018,7 +61508,7 @@
         "intro": null,
         "description": "La Edici\u00f3n Definitiva incluye:\n\u2022 El juego\n\u2022 Pase FighterZ (8 personajes nuevos)\n\u2022 Paquete de m\u00fasica del anime (11 canciones del anime)\n\u2022 Paquete de voces de comentaristas\n\nDRAGON BALL FighterZ nace de lo que hace a la serie DRAGON BALL tan famosa: luchas espectaculares e interminables con luchadores superpoderosos.\n\nCon Arc System Works, DRAGON BALL FighterZ maximiza los gr\u00e1ficos de anime de alta calidad y ofrece un juego de lucha f\u00e1cil de aprender pero dif\u00edcil de dominar.\n\nEn equipo/soporte 3vs3\nForma tu equipo so\u00f1ado y domina r\u00e1pidas combinaciones entre luchadores.\n\nEmocionante juego en l\u00ednea\nPartidas igualadas, salas interactivas, locas partidas de grupos de 6 jugadores... \u00a1Para todos los gustos!\n\nModo historia exclusivo\nDescubre una aventura con la Androide N\u00b021, un nuevo personaje de creaci\u00f3n supervisada por Akira Toriyama.",
         "languages": null,
-        "size": 10452205568
+        "size": 10451156992
     },
     "70070000003245": {
         "id": null,
@@ -60421,7 +61911,7 @@
         "intro": "\u00a1Crash regresa al volante en Crash\u2122 Team Racing Nitro-Fueled!",
         "description": "Compra Crash\u2122 Team Racing Nitro-Fueled - Nitros Oxide Edition y juega con el infame Nitros Oxide desde el primer d\u00eda en todos los modos de juego. Incluye:\n\n- Juego completo de Crash\u2122 Team Racing Nitro-Fueled\n- Personajes Nitros Oxide, Crunch, Zem y Zam*\n- Kart aerodeslizador*\n- Aspectos gal\u00e1cticos exclusivos de Nitros Oxide, Crash, Coco y Cortex con animaciones de podio \u00fanicas\n- Aspecto de robot exclusivo de Crunch con una animaci\u00f3n de podio \u00fanica\n- Pintura y calcoman\u00edas exclusivas para kart, dise\u00f1o para el kart aerodeslizador\n- Aspectos electr\u00f3n de Crash, Coco y Cortex\n\n*Tambi\u00e9n se puede desbloquear en la versi\u00f3n est\u00e1ndar mediante desaf\u00edos y recompensas del juego.\n\nSE NECESITA INTERNET para las monedas Wumpa, el Gran Premio, el Multijugador online y otras funciones.",
         "languages": null,
-        "size": 9961472000
+        "size": 9960423424
     },
     "70070000005782": {
         "id": null,
@@ -61788,7 +63278,7 @@
         "intro": "La edici\u00f3n Gourmet de Overcooked! 2 incluye todos los platillos del ca\u00f3tico y divertido juego base de Overcooked! 2 y todos sus DLC. ",
         "description": "Cocina por tu cuenta o con amigos, viaja por el Reino de la Cebolla y domina m\u00e1s de 20 recetas en 130 jugosos niveles. \n\nOvercooked! 2: edici\u00f3n Gourmet\n\nLa edici\u00f3n Gourmet de Overcooked! 2 ofrece todos los platillos de la ca\u00f3tica y divertida cocina del galardonado Overcooked! 2: incluye el juego base, todos los DLC, actualizaciones y paquetes de chef. \n\nOvercooked! 2 \n\nVuelve al Reino de la Cebolla y re\u00fane a tu equipo de chefs en partidas cooperativas locales o en l\u00ednea de hasta cuatro jugadores. Prepara tu delantal, porque es hora de salvar al mundo (\u00a1otra vez!).\nSurf 'n' Turf\n\nPonte tus lentes de sol, re\u00fane a tu equipo de chefs y enciende la parrilla... \u00a1ES HORA DE IR A LA PLAYA!\n\nPrepara brochetas y batidos de frutas en los 12 niveles nuevos con nuestros nuevos amigos: el ex\u00f3tico chef loro y el temperamental chef isle\u00f1o. \u00a1Mant\u00e9n la parrilla encendida y utiliza la pistola de agua en caso de emergencias con la limpieza de los platos! \n\nCampfire Cook Off\n\n\u00a1Re\u00fanete en la fogata, asa malvaviscos y disfruta del caos con cuatro flamantes chefs y nuevas cocinas! \n\nCorta madera para mantener activa la flama y cocina un abundante desayuno, o prepara deliciosas galletas con malvaviscos en los 15 nuevos niveles ambientados entre copas de \u00e1rboles y campamentos. Supera los niveles cooperativos y obt\u00e9n las nuevas mochilas que contienen los ingredientes necesarios para que los chefs satisfagan a los hambrientos campistas. \n\nNight of the Hangry Horde\n\nEste DLC incluye el novedoso modo horda en donde pondr\u00e1s en pr\u00e1ctica todo tu conocimiento culinario para superar las oleadas de voraces ingredientes no muertos. \n\nConoce los nuevos chefs, recetas y equipo de cocina: aunque es poco convencional, \u00a1la guillotina resulta muy eficiente para picar todos tus ingredientes favoritos a la vez! \n\nCarnival of Chaos\n\n\u00a1Ven y celebra la cooperaci\u00f3n y el caos de la cocina! Este pintoresco DLC te pondr\u00e1 a prueba al enfrentarte a nuevos niveles, recetas y chefs, adem\u00e1s del utensilio b\u00e1sico de la cocina, \u00a1el ca\u00f1\u00f3n!\n\nPrepara \u00f3rdenes combinadas para esos clientes con un apetito voraz: combina platos en una bandeja y s\u00edrvelos con una refrescante bebida.\n\nPaquete Demasiados chefs\n\nToma tu delantal, enciende la estufa y re\u00fane al equipo con m\u00e1s saz\u00f3n en este fabuloso paquete de cocineros con... \u00a1DEMASIADOS CHEFS! \u00a1Con la ayuda de estos cinco chefs, podr\u00e1s picar, fre\u00edr y servir hasta alcanzar la gloria culinaria en un instante! ",
         "languages": null,
-        "size": 6122635264
+        "size": 6121586688
     },
     "70070000010241": {
         "id": null,
@@ -63202,7 +64692,106 @@
         "intro": "\u00a1Vuelve la serie de RPG por turnos de Monster Hunter en esta segunda parte! \u00bfTu lazo especial con estos monstruos traer\u00e1 esperanza o destrucci\u00f3n?",
         "description": "La Deluxe Edition de Monster Hunter Stories 2: Wings of Ruin posee una variedad de contenido adicional para mejorar tu experiencia de juego:\n\n \u30fb Atuendo de Ena: Abrigo de Kuan\n \u30fb Armadura superpuesta de Rider: Armadura Ratha Kalapteron Alfa y Beta\n \u30fb Peinado de Rider: Nergal de punta\n \u30fb Ropas de Navirou: Trajes de Nergigante y Pukei-Pukei\n \u30fb Sets de pegatinas: Compis de andanzas 2 y 3\n\nNota: Este es el mismo contenido adicional de Monster Hunter Stories 2: Wings of Ruin Deluxe Kit. Parte del contenido solo ser\u00e1 utilizable tras progresar en el juego.\n\nUna nueva aventura te espera en esta segunda parte de la serie de RPG por turnos ambientada en el mundo de Monster Hunter. Convi\u00e9rtete en un Rider y forma v\u00ednculos con monstruos amistosos llamados Monsties para luchar junto a ellos en una historia \u00e9pica.\n\nT\u00fa eres descendiente de Red, un Rider legendario. La historia comienza con un encuentro trascendental con Ena, una chica wyveriana responsable de un huevo del que podr\u00eda nacer un legendario Rathalos, el cual podr\u00eda traer el caos si se despertara su poder destructivo.\n\nEmb\u00e1rcate en una traves\u00eda que pondr\u00e1 a prueba tus lazos de amistad en un mundo cambiante y descubre la verdad detr\u00e1s de las leyendas ancestrales.",
         "languages": null,
-        "size": 15199109120
+        "size": 15255732224
+    },
+    "70070000012223": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS UNLEASHED\u2122 - Collectors Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70070000012223,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b2480b94e983342cc1f38b40f7b2d4113f3f2cbafcd851b3587d715084d0b80b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce6a43ba93e43063e2c82541092c0b1e3d1a14a94acce5a90b6b5573f1f6b20f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a5fe79d9d72f00a26c82223d9a12813a7c182319c2ff7982b689fae135107ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c56a52263deb7b81deb27be8fa53020cf4c0e68025c0d98138cb7b231a137c50.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70bb2c27ca4ccef337fcab78379b284d86d6d1cda6ba7c2973b72d1053d5a58c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6826ee3ab0b3630d3f8782c65a0e5abdcecd2444200651938c97323409a42809.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0d14e60e26f4a865d91c6e20178585f554ae3b9697c1ab4bffae5f5b71663a60.jpg",
+        "intro": null,
+        "description": "Colecciona los mejores veh\u00edculos del universo de Hot Wheels\u2122, construye pistas espectaculares y l\u00e1nzate a las carreras m\u00e1s electrizantes.\n\nDisfruta HOT WHEELS UNLEASHED\u2122 a\u00fan m\u00e1s con la Collectors Edition, que incluye:\n- El juego completo\n- HOT WHEELS\u2122 Pass Vol. 1\n\n\u00bfERES COLECCIONISTA O ARTISTA? AMBAS COSAS\nTe esperan los veh\u00edculos m\u00e1s ic\u00f3nicos y codiciados de Hot Wheels\u2122. \u00a1Prep\u00e1rate para correr con ellos a toda velocidad!\nResalta tu personalidad entre la multitud con el exclusivo editor de dise\u00f1o.\n\nLA CARRERA NUNCA TERMINA\n\u00a1Demuestra tus habilidades y compite en carreras incre\u00edbles llenas de diversi\u00f3n! Derrapa, aumenta el impulso y l\u00e1nzate hacia los asombrosos bucles. \u00a1Pero cuidado! Si disminuyes la velocidad, la gravedad har\u00e1 su trabajo.\n\nCuanto m\u00e1s grande sea el reto, mayor ser\u00e1 la gloria.\nCorre junto a tus amigos en el modo de pantalla dividida para 2 jugadores o enfrenta hasta 12 oponentes en los desaf\u00edos en l\u00ednea.\n\nDALE FORMA A TU PISTA\nCorre en entornos interactivos enormes con caracter\u00edsticas \u00fanicas, donde cada objeto puede convertirse en una parte esencial de la pista.\n\n\u00a1Da rienda suelta a tu creatividad con el editor de pistas m\u00e1s genial del mundo! Construye tu pista, aprovecha todo lo que te rodea y crea dise\u00f1os incre\u00edbles dentro y fuera del circuito de carreras. Dobla y alarga las emblem\u00e1ticas \"piezas naranjas\", a\u00f1ade bucles, propulsores especiales, obst\u00e1culos y elementos \u00fanicos para crear un fant\u00e1stico parque para tus carreras. \nComparte en l\u00ednea tus creaciones m\u00e1s alocadas y prueba las obras de otros jugadores.\n\nCORRE EN TU MUNDO\nEquipa tu sala personal con un gran n\u00famero de elementos que podr\u00e1s reunir a lo largo de tu aventura y organiza las carreras m\u00e1s sorprendentes.",
+        "languages": null,
+        "size": 6371147776
+    },
+    "70070000012224": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS UNLEASHED\u2122 - Ultimate Stunt Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70070000012224,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b2480b94e983342cc1f38b40f7b2d4113f3f2cbafcd851b3587d715084d0b80b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce6a43ba93e43063e2c82541092c0b1e3d1a14a94acce5a90b6b5573f1f6b20f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a5fe79d9d72f00a26c82223d9a12813a7c182319c2ff7982b689fae135107ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c56a52263deb7b81deb27be8fa53020cf4c0e68025c0d98138cb7b231a137c50.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70bb2c27ca4ccef337fcab78379b284d86d6d1cda6ba7c2973b72d1053d5a58c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6826ee3ab0b3630d3f8782c65a0e5abdcecd2444200651938c97323409a42809.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bef3b499fe72911880ce0c8ebc7aaaa20fa128dc9ffeea8c2524647c04160968.jpg",
+        "intro": null,
+        "description": "Colecciona los mejores veh\u00edculos del universo de Hot Wheels\u2122, construye pistas espectaculares y l\u00e1nzate a las carreras m\u00e1s electrizantes.\n\nDisfruta HOT WHEELS UNLEASHED\u2122 a\u00fan m\u00e1s con la Ultimate Stunt Edition, que incluye:\n- El juego completo\n- HOT WHEELS\u2122 Pass Vol. 1\n- HOT WHEELS\u2122 Pass Vol. 2\n\n\u00bfERES COLECCIONISTA O ARTISTA? AMBAS COSAS\nTe esperan los veh\u00edculos m\u00e1s ic\u00f3nicos y codiciados de Hot Wheels\u2122. \u00a1Prep\u00e1rate para correr con ellos a toda velocidad!\nResalta tu personalidad entre la multitud con el exclusivo editor de dise\u00f1o.\n\nLA CARRERA NUNCA TERMINA\n\u00a1Demuestra tus habilidades y compite en carreras incre\u00edbles llenas de diversi\u00f3n! Derrapa, aumenta el impulso y l\u00e1nzate hacia los asombrosos bucles. \u00a1Pero cuidado! Si disminuyes la velocidad, la gravedad har\u00e1 su trabajo.\n\nCuanto m\u00e1s grande sea el reto, mayor ser\u00e1 la gloria.\nCorre junto a tus amigos en el modo de pantalla dividida para 2 jugadores o enfrenta hasta 12 oponentes en los desaf\u00edos en l\u00ednea.\n\nDALE FORMA A TU PISTA\nCorre en entornos interactivos enormes con caracter\u00edsticas \u00fanicas, donde cada objeto puede convertirse en una parte esencial de la pista. \n\n\u00a1Da rienda suelta a tu creatividad con el editor de pistas m\u00e1s genial del mundo! Construye tu pista, aprovecha todo lo que te rodea y crea dise\u00f1os incre\u00edbles dentro y fuera del circuito de carreras. Dobla y alarga las emblem\u00e1ticas \"piezas naranjas\", a\u00f1ade bucles, propulsores especiales, obst\u00e1culos y elementos \u00fanicos para crear un fant\u00e1stico parque para tus carreras. \nComparte en l\u00ednea tus creaciones m\u00e1s alocadas y prueba las obras de otros jugadores.\n\nCORRE EN TU MUNDO\nEquipa tu sala personal con un gran n\u00famero de elementos que podr\u00e1s reunir a lo largo de tu aventura y organiza las carreras m\u00e1s sorprendentes.",
+        "languages": null,
+        "size": 6371147776
+    },
+    "70070000012225": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 Pass Vol. 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211021,
+        "nsuId": 70070000012225,
+        "category": null,
+        "ratingContent": [
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa1352cbf07d15b091767260f239222a235111da2ed14bb543ebd2f83763058b.jpg",
+        "intro": null,
+        "description": "Con el HOT WHEELS\u2122 Pass Vol. 1 obtendr\u00e1s veh\u00edculos nuevos, experiencias de juego nuevas y personalizaciones nuevas.\n\nEl paquete incluye:\n- 1 Expansion\n- 10 veh\u00edculos\n- 3 Customization Packs tem\u00e1ticos\n- 3 m\u00f3dulos Track Builder.",
+        "languages": null,
+        "size": 18874368,
+        "ids": []
     },
     "70070000012256": {
         "id": null,
@@ -63652,7 +65241,7 @@
         "intro": "Revive la \u00e9pica aventura que defini\u00f3 el g\u00e9nero RPG durante d\u00e9cadas\n",
         "description": "Diablo\u00ae Prime Evil Collection incluye: \n- Diablo\u00ae III: Eternal Collection*\n- Diablo\u00ae II: Resurrected\u2122\n- Diablo\u00ae III: DLC Alas Agarre del Odio*\n- Diablo\u00ae III: DLC Mascota Mefisto* \n\nDiablo\u00ae II: Resurrected\u2122 es la versi\u00f3n remasterizada definitiva de Diablo\u00ae II y su expansi\u00f3n Lord of Destruction\u00ae, dos entregas distintivas de la serie de juegos de rol de acci\u00f3n de Blizzard Entertainment que defini\u00f3 todo un g\u00e9nero. Tanto los jugadores veteranos como aquellos que se perdieron el lanzamiento del juego original en PC hace 20 a\u00f1os podr\u00e1n experimentar la jugabilidad atemporal de Diablo\u00ae II con gr\u00e1ficos y audio modernos que aprovechan al m\u00e1ximo el hardware de juego actual. \n\nAsciende por la Torre Olvidada, \u00e1brete camino a trav\u00e9s de la jungla de Kurast y asalta las puertas del Infierno para derrotar a Diablo. Luego, sube a la cima del Monte Arreat para enfrentarte a Baal, el Se\u00f1or de la Destrucci\u00f3n, en la Fortaleza de la Piedra Ecum\u00e9nica. \n\nSiete de los mejores adalides de Santuario te esperan en la ic\u00f3nica fogata de la pantalla de selecci\u00f3n: la Amazona, la Asesina, el B\u00e1rbaro, el Druida, el Nigromante, el Palad\u00edn y la Hechicera. Cada una es sumamente personalizable con innumerables configuraciones de habilidades y equipo. \n\nDiablo\u00ae II: Resurrected\u2122  se puede jugar en solitario o con amigos en Nintendo Switch\u2122 y disfrutar de un modo cooperativo multijugador. Luego, descarga un poco de tensi\u00f3n y qu\u00e9date con algunas orejas al participar en emocionantes duelos PvP fuera del poblado.\n\nEncuentra tu camino de regreso a Nueva Tristram en Diablo\u00ae III: Eternal Collection, 20 a\u00f1os despu\u00e9s de los acontecimientos de Diablo II: Resurrected. Regresa a donde todo comenz\u00f3 e investiga los rumores de una estrella ca\u00edda: el primer indicio del renacimiento del mal, y un presagio de que el Fin de los Tiempos ha comenzado. Aprovecha el poder de tu herencia heroica como una de las siete clases con las que puedes jugar.\n\n",
         "languages": null,
-        "size": 25534922752
+        "size": 25266487296
     },
     "70070000012493": {
         "id": null,
@@ -63864,7 +65453,7 @@
         "intro": "\u00a1Vive cuatro juegos completos de desenfreno marsupial!",
         "description": "Disfruta de cuatro juegos de desenfreno marsupial en este lote de juegos de Crash Bandicoot\u2122, que incluye tanto N. Sane Trilogy como Crash Bandicoot\u2122 4: It\u2019s About Time.\n\nIncluye:\n\n- Crash Bandicoot\u2122 N. Sane Trilogy:\n\nGira, salta, rompe, enfr\u00e9ntate a los \u00e9picos desaf\u00edos y vive las aventuras de los tres juegos con los que empez\u00f3 todo: Crash Bandicoot\u2122, Crash Bandicoot\u2122 2: Cortex Strikes Back y Crash Bandicoot\u2122: Warped. Vuelve a vivir tus momentos favoritos de Crash con gr\u00e1ficos remasterizados.\n\n- Crash Bandicoot\u2122 4: It\u2019s About Time:\n\nL\u00e1nzate de lleno con tus marsupiales favoritos a una aventura temporal que se cae a pedazos. Domina nuevas habilidades con cuatro m\u00e1scaras cu\u00e1nticas. Juega a nuevos niveles, incluidos niveles N. Versi\u00f3n, cintas de salto al pasado y dimensiones alternativas. Forma equipo o compite con amigos en Pasa y juega y modos Batalla Bandicoot.\n\nCompra la versi\u00f3n digital y obt\u00e9n los aspectos Megalucinantes para Crash y Coco*.\n\n\n*Disponibles cuando salga el juego al completar el segundo nivel. Solo pueden usarse en Crash Bandicoot\u2122 4.",
         "languages": null,
-        "size": 16701718528
+        "size": 16700669952
     },
     "70070000012572": {
         "id": null,
@@ -63902,7 +65491,7 @@
         "intro": "Celebra 25 a\u00f1os de desenfreno marsupial.",
         "description": "Consigue cinco juegos en un maravilloso paquete con el lote de aniversario de Crash Bandicoot\u2122.\n\nIncluye:\n\n- Crash Bandicoot\u2122 N. Sane Trilogy:\n\ngira, salta, rompe, enfr\u00e9ntate a los \u00e9picos desaf\u00edos y vive las aventuras de los tres juegos con los que empez\u00f3 todo: Crash Bandicoot\u2122, Crash Bandicoot\u2122 2: Cortex Strikes Back y Crash Bandicoot\u2122: Warped.Vuelve a vivir tus momentos favoritos de Crash con gr\u00e1ficos remasterizados.\n\n- Crash Bandicoot\u2122 4: It\u2019s About Time:\n\nL\u00e1nzate de lleno con tus marsupiales favoritos a una aventura temporal que se cae a pedazos. Domina nuevas habilidades con cuatro m\u00e1scaras cu\u00e1nticas. Juega a nuevos niveles, incluidos niveles N. Versi\u00f3n, cintas de salto al pasado y dimensiones alternativas. Forma equipo o compite con amigos en Pasa y juega y modos Batalla Bandicoot.\n\nCompra la versi\u00f3n digital y obt\u00e9n los aspectos Flipa en colores para Crash y Coco*.\n\n- Crash\u2122 Team Racing Nitro-Fueled**:\n\nLa aut\u00e9ntica experiencia de CTR y mucho m\u00e1s contenido remasterizado al m\u00e1ximo de revoluciones. Calienta motores con los modos de juego, personajes, circuitos, mejoras, armas y controles de siempre. Superderrapa hacia la gloria con personajes, karts, circuitos  y arenas adicionales que no estaban en CTR. Aplasta a la competencia en las partidas en l\u00ednea.\n\n\n**Disponibles al completar el segundo nivel. Solo pueden usarse en Crash Bandicoot\u2122 4.\n\n**SE NECESITA INTERNET para las monedas Wumpa, el Gran Premio, el Multijugador en l\u00ednea y otras funciones.",
         "languages": null,
-        "size": 26654801920
+        "size": 26652704768
     },
     "70070000012595": {
         "id": null,
@@ -64352,7 +65941,7 @@
         "intro": "Paquete del ganador.\n\u00a1Comienza a escribir la historia de tus victorias con el amenazador M6A2E1!",
         "description": "\u00a1Comienza a escribir la historia de tus victorias con el amenazador M6A2E1!\nEs un carro pesado fiable con un buen blindaje frontal y un ca\u00f1\u00f3n potente. Lento pero seguro, va socavando los flancos mientras avanza hacia el enemigo. \u00a1Y queda genial con el camuflaje animado \u00abBrillo radiactivo\u00bb!\nL\u00e1nzate a la batalla, \u00a1las victorias te esperan!\nLos art\u00edculos de este paquete se pueden comprar por separado en la tienda. Tenlo en cuenta a la hora de comprar este paquete.\n\n\u00a1Te presentamos el legendario Tank Shooter gratis en 3D para Nintendo Switch\u2122! Forma parte de una comunidad de jugadores de todo el mundo. \u00danete a este moderno juego de disparos de 2020 y lucha en formato 7x7 por tu cuenta o con tus amigos, desarrolla y mejora veh\u00edculos blindados, usa diferentes t\u00e1cticas que van de arremetidas sin piedad a la supervivencia sigilosa, y gana. \u00a1Elige un carro y alcanza el hero\u00edsmo en el campo de batalla!\n\nCARACTER\u00cdSTICAS DEL JUEGO\n\u2022 Un mundo de carros enorme: \u00a1m\u00e1s de 350 veh\u00edculos de combate \u00fanicos y exclusivos en detallad\u00edsimos modelos en 3D! Veh\u00edculos hist\u00f3ricamente precisos, carros experimentales basados en los planos de ingenieros famosos, monstruos blindados de populares universos alternativos... \u00a1Aqu\u00ed combaten todos juntos!\n\u2022 Din\u00e1micas batallas 7x7 con modos diferentes en m\u00e1s de 25 arenas de batalla. Cada encuentro de combate es impredecible, ya que el resultado depende de ti y de tu equipo. \n\u2022 \u00a1Acci\u00f3n imbatible! Eventos dentro del juego con veh\u00edculos raros como recompensa y batallas con una din\u00e1mica totalmente distinta. Hazte invisible (y no solo) y m\u00e1rcate heroicidades en las arenas de batalla en Mad Games. Ponte a prueba en dur\u00edsimas batallas realistas de supervivencia, o... \u00a1transf\u00f3rmate en una fuerza imparable en forma de patito batalla por el 1 de abril!\n\u2022 Un shooter con un sistema de progresi\u00f3n bien planteado. Desarrolla veh\u00edculos desde el nivel I y transf\u00f3rmalos en monstruosas m\u00e1quinas de nivel X. Cambia ca\u00f1ones, configura el equipamiento, ponte el camuflaje y aumenta tus posibilidades de supervivencia. \u00a1Tunea tu veh\u00edculo de combate para que encaje con tu estilo de juego y ataca a los oponentes con la fuerza bruta de tu m\u00e1quina de guerra de acero!\n\u2022 Gr\u00e1ficos espectaculares en 3D que se optimizan autom\u00e1ticamente para tu dispositivo. Disfruta de las atractivas caracter\u00edsticas de la arena de batalla, modelos de carro detallados, explosiones inmensas, y torretas reventadas que pasan volando. Los ajustes manuales te ayudar\u00e1n a encontrar el equilibrio entre una imagen fant\u00e1stica y muchos FPS. \n\u2022 \u00a1Juego en equipo! Une fuerzas con tus amigos en pelotones, o \u00fanete a un clan para luchar juntos con otros jugadores afines en las batallas de clasificaci\u00f3n y participa en torneos con premios. \u00a1Coordinad vuestras acciones y atacad al enemigo como uno!\n\nEste shooter se puede jugar gratis.\nM\u00e1s informaci\u00f3n en https://wotblitz.com/\n2021 Wargaming.net",
         "languages": null,
-        "size": 4213178368
+        "size": 4583325696
     },
     "70070000012790": {
         "id": null,
@@ -64745,5 +66334,41 @@
         "languages": null,
         "size": 3149922304,
         "ids": []
+    },
+    "70070000013151": {
+        "id": null,
+        "rightsId": null,
+        "name": "Digital Deluxe Edition de Shin Megami Tensei V",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211112,
+        "nsuId": 70070000013151,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Desnudez parcial",
+            "Temas sexuales",
+            "Lenguaje fuerte",
+            "Violencia"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/71f97f87c3aef6d968847a1b8cfe43e242f13fe5e1f3a5d4040eb3608284bdad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b217f84210dfde127b000d09dec9226cb64315fef3630635d7bf658b06c718c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df33c66215ba1d3f533b7c65ed6e91363af154eb3f6b558c22734b0eb6ed33c6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5956262a3cf0d9fd73ea86363f54fcc54ec80cbf7534f80b7fe6b5008a7b8efd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/625ea19aacb9f1941c0cad6308259d673f7d63430c1c9b927a10ed03979fefdb.jpg",
+        "intro": "La divinidad te espera",
+        "description": "La Digital Deluxe Edition de Shin Megami Tensei V incluye:\n\n\u2022 Juego completo\n\u2022 \"Dificultad Seguridad\"\n\u2022 \"Danza de riqueza de Mitama\"\n\u2022 \"Danza de EXP de Mitama\"\n\u2022 \"Danza de milagros de Mitama\"\n\u2022 \"Diosa en formaci\u00f3n\"\n\u2022 \"Furia de una reina\"\n\u2022 \"\u00daltimo deseo del doctor\"\n\u2022 \"Regreso del demonio real\"\n\u2022 \"Voces japonesas\"\n\n*Encontrar\u00e1s m\u00e1s informaci\u00f3n sobre cada elemento en los listados individuales.",
+        "languages": null,
+        "size": 13760462848
     }
 }
