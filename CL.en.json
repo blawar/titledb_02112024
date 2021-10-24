@@ -12861,6 +12861,48 @@
         ],
         "size": 7644119040
     },
+    "70010000027739": {
+        "id": "0100C3501094E000",
+        "rightsId": null,
+        "name": "Demon's Rise - War for the Deep",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211209,
+        "nsuId": 70010000027739,
+        "category": [
+            "Strategy",
+            "RPG",
+            "Adventure",
+            "Action"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f3bd77a0f04d95a9abc8e0431b295e66108b4048ad095ae4bacddff8b6495653.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a9fd9c237e78f26b0e485d84badec3f8835d76a054c7689294d5eedd777644eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba5e7d9b31401af369ebf07fb4b9d1efb484427e5d74753c46d80f6dff611138.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09801ac6ac1d6d43663af941b004931107194f5006c4dea8dcbd5c9c48b5ac8e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc721225b4957f19589c45ac26664c2446ede1d98de1996aa6c17077ccbeb969.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/000db8a86d3bc96028e4e8ea5173b4311c4135cc44b866390ab4ec3c9e078b4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9651248d6dce416b803bad88d312fa1ace861ff231b70a5ffe6c863645c37898.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/44c7fda158cec822c2ef4eba72338dd04a798b1a67178c7c078884748f1ba323.jpg",
+        "intro": "A turn-based, tactical RPG with 30 character classes and 50+ hours of gameplay.",
+        "description": "Enter the depths of the ancient city of Angor and prepare for battle. Form a mercenary party of adventurers, sellswords, rogue sorcerers, and assassins, and enlist with an army of dwarves trying to retake their ancient homeland. \n\nDemon's Rise is a turn-based tactical game where players must lead a party of six heroes through the bowels of an underground city. Battles are intense affairs where the proper use of terrain and cover is as important as the choice of spell or attack.\n\nGame features:\n- 85 grueling levels.\n- 30 playable character classes. \n- Unlock powerful new spells and abilities.\n- Place your heroes behind cover for protection or next to magical shrines for extra power.\n- Use intimidation as a weapon against your foes.\n- Launch fireballs, trick enemies, and make powerful weapon strikes.",
+        "languages": [
+            "en"
+        ],
+        "size": 2614099968
+    },
     "70010000027790": {
         "id": "0100589010EFE000",
         "rightsId": null,
@@ -15159,6 +15201,95 @@
             "zh"
         ],
         "size": 1572864000
+    },
+    "70010000032337": {
+        "id": "0100BEB010F2A000",
+        "rightsId": null,
+        "name": "Torn Tales: Rebound Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211122,
+        "nsuId": 70010000032337,
+        "category": [
+            "RPG",
+            "Adventure",
+            "Action",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d802efd16b2ee05fddae34680852abda829bc87501d3ac47c11b0ca95841b0e5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4b196d13f5414e928e0e1edae9c44aa57711f17972dcd1d2c90bfb5aac899c1c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d52919da94b77726520f12e6b308c027dedde97c5b719be4e6d973a8a32dc5d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/86fbfc10cd72f1a003fea6d767fab225ce8b270f612f3d1a491897ad5f426401.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/29a4b16bf8d1fe736b24c88d388766b8b5742efe0d9ed0e7a0d30b964feb7180.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c8b5d8af617704da66275a6e63ed2c86c3a4dfab48066ed8833713a7b486ddee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/64412db29bffb709d249aeb71db74e790c66c8900e514668d5691f4311590cea.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3f6ff66f759e12c3854d1b8a4c91027085632fd45d491178e4e786f3316ed80b.jpg",
+        "intro": "Evil has destroyed the tales you love. Hack monsters and slash enemies throughout the Torn Tales in this real time squad based RPG.",
+        "description": "You will wield the powers of Robin Hood, Snow White and Dr Jekyll & Mr Hyde as they fight together in the dark landscape assembled by the evil Bookbinder. He has bound enemies from across the fabled lands to stop you, so be ready for the unexpected.\n\nGame features:\n- Real time squad based RPG - lead a party of three heroes with distinct yet complementary skills.\n- Set in the torn landscape of classic folk tales.\n- Deep skill tree - unlock and upgrade the unique abilities of each character.\n- Loot - thousands of possible artefacts to collect that boost your skills/abilities with unique combinations.\n- Character swap mechanic - change your tactics mid-battle for different strategies and abilities.\n- Arena mode - endless non-stop battles with a vast array of monsters and enemies.",
+        "languages": [
+            "en",
+            "fr",
+            "de"
+        ],
+        "size": 1195376640
+    },
+    "70010000032339": {
+        "id": "010077D01094C000",
+        "rightsId": null,
+        "name": "Hero-U: Rogue to Redemption",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211103,
+        "nsuId": 70010000032339,
+        "category": [
+            "RPG",
+            "Adventure",
+            "Action",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Simulated Gambling",
+            "Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cdbe63ab0d1659faed2d6f180fd57115f7fc68a67cbe368baf7dc9f527f9fd40.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/281e68c7b1e5ccee59f207dccdd815419c57df3a0ce45ac9ccc3e4243b362556.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49bb928565a45cbc80b56fe5cfcfd14c6f5c56d5bb6aed5092562b120af5430e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/54104f7a55a683c23c89ffce8b146e7321c2276080d1c8fd466ea14f783440ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d7dcdf956261a1f1e4cece911e58c05bc40e254af801287b7db4322d8b50ac4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/57d2862fcea74d86ffb69675e8cf30d03370c4fbd80457e8a149332bfa621ba3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4d7efd8718cffaa50f61cd5d79c2908914c050f3a55e587ae33a03e05d68470.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/22590e3eed8f53ed9c148ab57a1912fb17249b10d072d11511539a2e673b0b89.jpg",
+        "intro": "Hero-U: Rogue to Redemption is a humorous fantasy role-playing adventure game by Lori and Corey Cole, creators of the acclaimed Quest for Glory series.",
+        "description": "Feature list:\n- Story and Character-Driven Adventure Game\n- Role-Playing Game Featuring Skills, Equipment, and Tactical Combat\n- Replayable with thousands of player choices and story variations\n- Turn-Based, Non-Twitch, Avoidable Combat\n- Seamless Blend of Dramatic Story and Comedy\n- Immersive Mini-Games and Challenging Stealth Gameplay\n- First of a Series of Games Set at the Hero University\n\nAbout this game:\nHero-U: Rogue to Redemption is an epic - and humorous - fantasy adventure and role-playing game in which you take on the role of Shawn O'Conner, a young man striving to become a hero as well as a rogue.\n\nDuring the day, Shawn attends classes at the University, practices his skills, and tries to make friends with other students. At night, it's time to pull out weapons, armor, and traps to explore the abandoned wine cellars, stunning sea caves, creepy catacombs, and deadly dungeon beneath Hero-U. Most combat is optional for those who prefer a pure adventure game, but there are ample rewards for those who choose to valorously fight the creatures that threaten the school and all of Sardonia.\n\nShawn can become the Rogue of the Year while exploring a mysterious castle, making friends and enemies, fighting deadly foes, and uncovering the secrets of his own hidden past. Meanwhile players will enjoy the rich and humorous dialogue and descriptions as they guide Shawn through his adventures.",
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "size": 4649385984
     },
     "70010000032459": {
         "id": "010017C012726000",
@@ -20542,6 +20673,86 @@
         ],
         "size": 1078984704
     },
+    "70010000041377": {
+        "id": "0100D5A01514C000",
+        "rightsId": null,
+        "name": "Instant Farmer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211123,
+        "nsuId": 70010000041377,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Education",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d0e6f1ca7ef17bd93e664aed9572a9dc47ebd25df0908cb22b9e31a78547b993.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9d479d97bc56abcaaf6122e166274584797a1a2d27285fdb3ac80c9adbe2c547.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4927d30e3b574cf81b6ebf6055563888b76da81e1e53d77ed8822dba6d8868d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4146ea4f30954adb26e1130db762f021b7891f37c2eb3621a87457365d3228b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9fcd0ad43a7b7d3c5b7d8da8b935a9fb0b591793bbfb307c0f698154a047e688.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e29477c7297d5eda526aa9853023f24a86f98b1f9735ee41448d02139cb9afc6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e1a406ebc7f792fa710901404a970387205bacdb781c98758a0bec6637777d67.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/788baefcd1a86fe21dc65378c5ee22aa6ef6eea715455a04e04d38fb5d918536.jpg",
+        "intro": "Water the soil of your ranch and watch your crop grow.",
+        "description": "A country life, growing a vegetable garden in your own ranch. In this tiny fantasy countryside experience, that is easy to do and very relaxing.\n\nJust keep in mind: water brings life. Swap the blocks of earth, stone, water, and others, like water channels and lawn sprinklers, so that all the arable soil receives the necessary water. Solve the challenge and feel the pleasure of watching the plants instantly grow and bear fruit.\n\nThere is no time limit or resources to manage, so you can calmly just focus on the core mechanics while listening to a soothing soundtrack and animal sounds. Figuring out the patterns of blocks will make it easier to solve the puzzles.\n\nAs you progress solving the challenges, see your farm expand and evolve in the background with new types of vegetables.\n\nWith clean skies, fresh air, and crystal clear water, among birds and listening to the sounds of nature.",
+        "languages": [
+            "en"
+        ],
+        "size": 374341632
+    },
+    "70010000041379": {
+        "id": "010018A01514E000",
+        "rightsId": null,
+        "name": "BOT.vinnik Chess",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211209,
+        "nsuId": 70010000041379,
+        "category": [
+            "Board Game",
+            "Puzzle",
+            "Strategy",
+            "Education"
+        ],
+        "ratingContent": [
+            "Mild Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6219e9f28f59c336a655d884aa427836674973c9f5f08ec9c3edd5543920ba4c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2787f429c3d321edfa3fd9a34da4ee072bd70a9451e5677f9aa9a37a2848dc7b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6b2344da6d52c99020ca69fe7573eee8071d4495b05650d5aa5c397a0963ac0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e0da8490e4a487c051b7f6ae71a15e5f02b748c2d2a0e8da5b8dd54b0bb0cdd1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/10fd99ef199c3ecdf86b66fdbf994e69f9afc1ec9613201972ff8480f2fc1ac6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35a96b4ea6f5c54e512676e3e99e9f55761d5264542e599c0f2c5a6b4bfe682e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8547856d5f8e7057fa99f641af0bd91b11925fc68d53eaae63fec2cae1bcfe48.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5bb37367461d9cc0043b1c8f8997b64fe7e692a30fb6a2fae231461faafc2fe.jpg",
+        "intro": "The finest chess instructor!",
+        "description": "Improve your chess knowledge with the help of BOT.vinnik, a soviet digital teacher.\n\n- Learn the theory behind the game\n- 450+ theory backed \"best-move\" chess puzzles\n- Tactics, openings and checkmate patterns organized in 57 chapters to elevate your knowledge\n- Made for chess enthusiasts by chess enthusiast\n- Have fun with BOT.vinnik's peculiar sense of humor!",
+        "languages": [
+            "en"
+        ],
+        "size": 59768832
+    },
     "70010000041410": {
         "id": "0100CFD01517A000",
         "rightsId": null,
@@ -21602,6 +21813,49 @@
             "de"
         ],
         "size": 15143534592
+    },
+    "70010000042731": {
+        "id": "0100A300147D0000",
+        "rightsId": null,
+        "name": "Negative Nancy",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211023,
+        "nsuId": 70010000042731,
+        "category": [
+            "Adventure",
+            "Communication",
+            "Other",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Language",
+            "Mild Violence",
+            "Suggestive Themes"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Feed Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a03be83df133032fbeb612e3e33fd690c2604da2b3ca1d10c6c2a71d4160c8db.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/747cdbbe85e046b934fa5bd2f2ed5afd437c5673545ee82cb50d638db1b4ba45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/811ab2992daa8eae58d8c841495043fb249bea0be7278f4efce0be100a3676b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b98cded9329d1bfe83d3e3453dbaf2909a8b60dd956c6abcc83407e1da93ee17.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b120654635e3b5af843c79016981c441b4d30d7e4d1910d86eb19146615c7f80.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/986e8303003cc09f5780e808a5a2d61acfa2174c063e98c35efbd06fd548bded.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f40adbcd7a380e19d130a72efa30bed045ac840534f8763db69e7e4ebcad61b3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b87864126b54305bb0efa52b8c50da4a1b82f8ec40c382e1ebb1c8b7c3d97cd1.jpg",
+        "intro": "A choose your \u201cno\u201d adventure for people who have had enough. An interactive sitcom where you can only say \u201cno\u201d (or nothing at all). Your choices control the story.",
+        "description": "You are Nancy, a retail clerk who can only say \u201cno!\u201d. You work a terrible job at Megamart with your best friend, but most of the time that\u2019s the least of your problems. Annoying StreamTubers, delusional bosses, and angry customers... if they want to take you on they'll have to get in line!\n\nPlay as Nancy in a short game with four unique, branching stories. Help Nancy express herself by navigating tense and delicate situations.",
+        "languages": [
+            "en"
+        ],
+        "size": 520093696
     },
     "70010000042733": {
         "id": "0100136015456000",
@@ -23638,6 +23892,45 @@
             "en"
         ],
         "size": 2897215488
+    },
+    "70010000045235": {
+        "id": "0100FA60160DE000",
+        "rightsId": null,
+        "name": "Island Farmer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211111,
+        "nsuId": 70010000045235,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Education",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5b3d6dae538f5fdf78ef6342dfa9d091be804f3bc1ceb761f0054e8eac4aca0d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/de9090749c006f9b44ffbcf5dba728271d2317909fb7976bb27ce41d6e3521b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d610fdceee0cfeb0077c4e7776fd489a41f238effbacc27143753f517f050ad4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a964eeb3786a218e7484188d52671cff5798c4fe8b6f8f1617b8fe53667e4c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4f025f9a7a0a88249c7a146b1c848394999c32fba5e076a9d71f89f4dbf8bf5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b15b6c78cfff4a61ca663929d4e9b009645fb98d8f6736f9f9bdb1636e6f186.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c5c20ce92778b83f84e8063ddd955a62a72863a3b3da97d26401903639f2a4ad.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e3c6ab09677f25eac51e4ae6f7ca3dba73448e0446923ffe50a047398332ffa5.jpg",
+        "intro": "Arrange the farm islands and see your archipelago expand. Just swap the blocks of a 3D jigsaw puzzle.",
+        "description": "Farms are set up in islands over calm and clear water.\nIn this tiny fantasy experience, that is easy to do and very relaxing, just like a 3D jigsaw puzzle.\n\nCarefully observe the island, try to memorize it, then shuffle the blocks. Swap blocks to reproduce the desired island and it will compose the archipelago.\n\nThere is no time limit, no logic challenges, nor resources to manage, so you can calmly just focus on the core mechanics while listening to a soothing soundtrack.\n\n- Click on two blocks to swap them;\n- Turn the camera around the island;\n- Focus the camera on a block;\n- Zoom in and out to see details or the big picture;\n- If you need, preview the expected arrangement.\n- 20 different diorama-like islands.\n\nSee your island come to life as you complete certain sectors.\n\nAs you progress building the islands, see your archipelago expand and evolve in the background.\n\nWith clear skies, fresh air, and crystal clear water, among animals and listening to the sounds of nature.",
+        "languages": [
+            "en"
+        ],
+        "size": 570425344
     },
     "70010000045267": {
         "id": "01000000160F6000",
