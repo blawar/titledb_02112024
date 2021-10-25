@@ -10823,6 +10823,55 @@
         ],
         "size": 8032092160
     },
+    "70010000021908": {
+        "id": "0100FCB00EEF2000",
+        "rightsId": null,
+        "name": "Pet Shop Snacks",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70010000021908,
+        "category": [
+            "Simulaci\u00f3n",
+            "Estrategia",
+            "Rompecabezas",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Cool Small Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f883e53c78ecd754e782fa5b99c4ba43cf8ec2e290636004720409cd08d94021.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b764808fec34cd42b921c97c9ccaf1850b61e9efbf9bdbce8fbf4812df7a6422.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c452ce24fdb682d9e0608c3f855e8bb3f1c313bd83ad23bd4eff537da4ad3579.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a1c1e7fe0b4f0eecf6511e7efcfbed2fc1dd6a1fe112abf49fef7e0f992b6ec3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efcbbd28b85f24834e6838b06e69eb438218b9b85464fe565509e3ec863d5666.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d6aadda682ec1276be01f2a1be85632380491a6dd2d8c3595f5530f1b69c077.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1404009bc490c349db4aa6c0149b0f2a8f7cb5414f3bf7ba12da295df5f0e9eb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25dc5c14b0e07d1409b68873f87aa57fcea2366dfc9f336982f29cfcf8cf285e.jpg",
+        "intro": "Cuida a los gatitos.  \u00a1Empieza a dirigir un caf\u00e9 de mascotas hoy mismo!",
+        "description": "\u00a1Te damos la bienvenida a Pet Shop Snacks!\n\nMejora el local, dec\u00f3ralo y compra los mejores ingredientes. \u00a1Que toda la ciudad hable de tu restaurante!\n\n\u00a1Aprende disparatadas recetas del famoso chef perruno! \n\nIntenta servir los pedidos a tiempo, \u00a1pero ten cuidado de no mezclarlos! \n\n\u00a1A trabajar!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 356515840
+    },
     "70010000021933": {
         "id": "01004A600EC0A000",
         "rightsId": null,
@@ -11553,11 +11602,11 @@
         ],
         "ratingContent": [
             "Sangre",
-            "Lenguaje",
+            "Lenguaje fuerte",
             "Violencia"
         ],
         "numberOfPlayers": 1,
-        "rating": 13,
+        "rating": 17,
         "developer": null,
         "publisher": "Focus Home Interactive",
         "frontBoxArt": null,
@@ -11718,7 +11767,7 @@
             "de",
             "it"
         ],
-        "size": 2459959296
+        "size": 2649751552
     },
     "70010000024591": {
         "id": "0100D9500FC66000",
@@ -14066,6 +14115,50 @@
         ],
         "size": 6061817856
     },
+    "70010000029228": {
+        "id": "01004BC010D70000",
+        "rightsId": null,
+        "name": "Jet Ski Rush",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70010000029228,
+        "category": [
+            "Arcade",
+            "Acci\u00f3n",
+            "Carreras",
+            "Simulaci\u00f3n"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Cool Small Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9552ffefb30dd35fada1f9b3972445d9e2f6db30216b7922fdfbeebf4136454a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a2a6e4aab8546855201125da6d8f7694257d0aca728c7b3c082376a1281d205f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed4c961e5abb62068c3d09d52f7900c2aaea749471d55d4ea0c694c9dac08a8e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1168bc7d02b6314d6126f510200416c016450a511654247902f4e26160567181.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d972f6de3be9a8cd1b6e33150f3f33d648142b2279d7f19c10039b45aa9fdaa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/769245b807729d5a551c558f318013515bc5ad92e6dae7bf775ee8719beb3207.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e23686e3fd4b458d9b2028657f764a6458e7aea9a38701824a49faaff3a45591.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b154675a1c44d2d447e7066ea5c70d00d1e9b31c6608f30761999ab0f68a2312.jpg",
+        "intro": "\u00a1Prep\u00e1rate para una carrera con tu moto acu\u00e1tica!",
+        "description": "\u00a1Sube a tu moto acu\u00e1tica y pi\u00e9rdete en la locura de JetSki Rush!\n\n\u00bfPuedes completar este circuito acu\u00e1tico repleto de obst\u00e1culos y trampas? \n\nTu misi\u00f3n consiste en llegar lo m\u00e1s lejos que puedas, mientras recoges monedas y haces locas acrobacias en tu moto acu\u00e1tica! \n\nPara ganar, tendr\u00e1s que moverte de forma r\u00e1pida y \u00e1gil, \u00a1y tener fant\u00e1sticos reflejos! ",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt"
+        ],
+        "size": 412090368
+    },
     "70010000029278": {
         "id": "010029B0118E8000",
         "rightsId": null,
@@ -16098,6 +16191,47 @@
         ],
         "size": 13738442752
     },
+    "70010000033934": {
+        "id": "0100D74012E0A000",
+        "rightsId": null,
+        "name": "Destructivator SE",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211105,
+        "nsuId": 70010000033934,
+        "category": [
+            "Arcade",
+            "Acci\u00f3n",
+            "Disparos",
+            "Plataformas"
+        ],
+        "ratingContent": [
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Thalamus Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a61485f9cb60969d5a314b7cc4cbe74bc54112466456f87de7edba2596cd24cf.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e60f1e795e319c90b3eefcb7e59625d0646084c62f122605cf5ed55dc851a3e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e32e64142f9eabc1af44cbc8956adc5850b675f91107c0b26c6079ee2c02d4f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e07ef50d4becae24298146fc324afa60d8550962bad5495ce23ad24d64ff7cc2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8781200e199fc6dda8d31ae9245be9b546654384c963ad43d3eb8977ea16b312.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04ee5cdade6cf1ac6dbe13907cb60ac5a62a21d19a520d698885126b7cf26883.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08cc6f48c477d3a6610b8e795b1c69bed384126634689f7d36d181f7c9507070.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/25992ca51a0989cba26166cb6c8cd2afd43246a9682f080cf6e4ee5300d594d7.jpg",
+        "intro": "\u00a1El Destructivator est\u00e1 de regreso!",
+        "description": "Corre el a\u00f1o 2145. La Tierra sigue en llamas. Zallagor y su ej\u00e9rcito cayeron derrotados, pero la victoria tuvo un precio alto: las grandes ciudades de la Tierra est\u00e1n en ruinas y la gente tiene sed de venganza.\n\nAhora conocemos la ubicaci\u00f3n de Zerkl, el planeta natal de Zallagor. Zallagor ya no est\u00e1, pero pronto se alzar\u00e1 un nuevo l\u00edder. Si es que no ha surgido ya. El Destructivator est\u00e1 listo: \u00a1es hora de atacar!\n\n\u00a1Convi\u00e9rtete en un supersoldado diminuto y ponte su m\u00edtico traje verde lima! \u00c1brete paso a golpes y disparos entre las hordas de soldados, robots, naves, trampas, jefes alien\u00edgenas... \u00a1y m\u00e1s! Lucha en tierra firme o controla una nave enemiga para derribar las defensas de Zerkl y asegurarte de que las fuerzas alien\u00edgenas no vuelvan a amenazar la Tierra.\n\nCARACTER\u00cdSTICAS:\n\n- M\u00e1s de 50 niveles complejos repartidos en seis misiones \u00e9picas.\n- Una amplia variedad de enemigos que debes hacer pedazos.\n- Jefes y frecuentes peleas contra minijefes.\n- R\u00f3bate las naves enemigas y ataca desde el aire.\n- Usa un espantoso traje verde lima.\n- Niveles de habilidad normales, dif\u00edciles y brutales.\n- \u00a1Orgullosamente retro!",
+        "languages": [
+            "en"
+        ],
+        "size": 56623104
+    },
     "70010000033942": {
         "id": "0100D58012E12000",
         "rightsId": null,
@@ -16227,6 +16361,56 @@
             "ru"
         ],
         "size": 4389339136
+    },
+    "70010000034095": {
+        "id": "0100B8B012ECA000",
+        "rightsId": null,
+        "name": "S.N.I.P.E.R. - Hunter Scope",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70010000034095,
+        "category": [
+            "Disparos",
+            "Acci\u00f3n",
+            "Acci\u00f3n en primera persona",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Violencia intensa",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6281ffacf31760aec473b2d35232ffdc8672f5ca396a6cd5fdc5837ae06591d0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/117af13340cce4500b6a3aab508f42ca5d00cf65f74dd8963d29a92ea5edd9b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd7b25dbf3a83777f86d755459c496e981a2d1564edcdbb2781016b6dadf7f7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6314decbfb591945025bce18203a30064f7be7946142bc1a14fddc4cae491869.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6a51a9458ff412a3370d5556f11cf6496fedbd7eb65301847128d55b856dfa1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/81a2a786db4585b7d17177e87cb1ae79b3b4f4fc95f4a7c9700dfcad2f898b7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5fc42fc718149914996a1c6566a87a140c2e8f0132dcef9c359df0b752644b04.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a48c052f6f9d899b47f3ef487f031c40a9338bc10ebe17a5bd861e2f849f854.jpg",
+        "intro": "\u00a1CONVI\u00c9RTETE EN EL MEJOR FRANCOTIRADOR!",
+        "description": "En S.N.I.P.E.R.: Hunter Scope, \u00a1disparar\u00e1s, luchar\u00e1s y ganar\u00e1s!\n\nJuega S.N.I.P.E.R., el \u00faltimo juego de francotiradores, en el que apuntas, combates y destruyes enemigos virtuales. Prueba distintos tipos de misiones, inspiradas tanto en los juegos cl\u00e1sicos de disparo sobre ra\u00edles como en los modernos con cobertura. \u00c1brete paso luchando de d\u00eda y de noche, destruye a las fuerzas del mal y desbloquea nuevas armas y potenciadores.\n\nEl juego incluye:\nM\u00c1S DE 15 FASES\nM\u00c1S DE 30 ARMAS\nM\u00c1S DE 30 OBJETOS DE GALER\u00cdA\nM\u00c1S DE 60 LOGROS ESPECIALES \n\n\u00a1Convi\u00e9rtete en un cazador, carga tu arma y lucha por nuestra libertad!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 2130706432
     },
     "70010000034148": {
         "id": "01006980127F0000",
@@ -17296,6 +17480,51 @@
             "zh"
         ],
         "size": 1146093568
+    },
+    "70010000035725": {
+        "id": "01007A5013700000",
+        "rightsId": null,
+        "name": "My Magic Florist",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70010000035725,
+        "category": [
+            "Simulaci\u00f3n",
+            "Estrategia",
+            "Rompecabezas",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Lenguaje moderado"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Cool Small Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/095e9604ac2546e8a2dd31145ed904e85ac7980388b4c5b84913f09038a55d34.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4e9994fd9666a2762ee96e113960eb909f76234db1e4e09f0368ca7b79b661b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bd4c4aa69609deab6ff63335e6282cc282db5fd66bd548531d6244c9cb7fe53.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8a85bbf470f53431cdbbeed580f56b07670e31abc9f92c2f66d4af3e42e82d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b47b2e70273522ee560d01f7c82121fdd3a5bffff9d00750f95f23b6eccf636.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f636a2dbd78dc7987e6e4d6ceaac0c35e6695206142091feb6553f02fa03011.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f43518c2859684c865d737d3b6aee61b700edf10c26c675cf1e3d800153a0121.jpg",
+        "intro": "\u00a1La magia es la clave del \u00e9xito en esta florister\u00eda!",
+        "description": "My Magic Florist te llevar\u00e1 a un mundo de magia, colores y armon\u00eda.\n\nTendr\u00e1s que encargarte de tu propia florister\u00eda encantada. \u00a1Gana dinero y realiza mejoras haciendo buenas inversiones!\n\nTus poderes m\u00e1gicos de hada son un buen comienzo, pero tendr\u00e1s que obtener experiencia y perfeccionar tus habilidades para tener \u00e9xito. Aqu\u00ed mandas t\u00fa, y finalmente, todo depender\u00e1 de ti y de tu duro trabajo. \u00bfPodr\u00e1s lograrlo?\n\nPues, \u00a1int\u00e9ntalo! Juega y aprende, \u00a1la diversi\u00f3n est\u00e1 garantizada!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt"
+        ],
+        "size": 300941312
     },
     "70010000035838": {
         "id": "0100A12011CC8000",
@@ -18561,22 +18790,22 @@
             "Rompecabezas"
         ],
         "ratingContent": [
-            "Violencia de fantasia",
-            "Bajo contenido de sangre"
+            "Sangre",
+            "Violencia"
         ],
         "numberOfPlayers": 1,
-        "rating": 10,
+        "rating": 13,
         "developer": null,
         "publisher": "DYA GAMES",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dc9fae9f6f4c0e7a822972f1a07263ca6b21e887033755ff4ba009c6c35bf8da.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/e44b86f0cc3e8e6d2209cb8ddc87901526f0706a93c5fbfb4921b2733c0de361.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb35d43b14e4ef5aaa493da94a3e92bfa5559005d50184e28157c5185344a910.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ab12b7340bdb01d36b7378f121967fbe424a403c42df72c6129a480b9c643d38.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/cd7c8eb59daafd6a28a07a85ec6559bc381f425558ad87abfcdf481393b6f4d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cae75b664faedc28402d9a8d74e321697056a2dfbd1ed0cd640067aa29cc1b39.jpg",
             "https://img-eshop.cdn.nintendo.net/i/be2fc8502253137aa6e0c97b3a663ecf25a774bd0af2ad4632e34389f6e7899d.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/a08a27a0225e65c93976568dfdc482716829dea007dc10bee030e5ea2e577e6c.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/8211df4def59eaab5a10b5c2a162e68b49aaf3b786407cb1f082211540fbb2d8.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/2f24cc4bccf2b0958937e70af123b651371897f38856c498a7e49e2cba1dcc3d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1d07cb058825be92f0eac462b1ddece2f9e6bae1b2c88d8b2894fba6d6c9624c.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/59d864bbde0e57135fb47fa894734e5b9a615838f5352d80985e7c2ddff79183.jpg",
         "intro": "Prep\u00e1rate para hacer frente a\u2026 \u00a1Evil Tonight!",
@@ -22604,7 +22833,9 @@
             "Arcade",
             "Acci\u00f3n"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Violencia moderada de fantasia"
+        ],
         "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
@@ -22981,9 +23212,7 @@
             "Acci\u00f3n",
             "Arcade"
         ],
-        "ratingContent": [
-            "Violencia moderada de fantasia"
-        ],
+        "ratingContent": [],
         "numberOfPlayers": 2,
         "rating": 6,
         "developer": null,
@@ -23010,6 +23239,50 @@
             "it"
         ],
         "size": 40894464
+    },
+    "70010000043996": {
+        "id": "010058C015B82000",
+        "rightsId": null,
+        "name": "The Prince of Landis",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211105,
+        "nsuId": 70010000043996,
+        "category": [
+            "Aventura",
+            "Acci\u00f3n"
+        ],
+        "ratingContent": [
+            "Derramamiento de sangre",
+            "Lenguaje fuerte",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6c998539aacd61a44172e9bc4e3de4935fe3137ed6a63ed5828d9f3638035c72.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d7f1372b15096cf46d79fa2cd3b17539ceee16e5324e0815dc102b8b3230a015.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25b4dd7ca551ad56b1048e2e1d9ce01279f03868c46976f89934071d87be0671.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/581a4c15d4394df0881db57ba5aba9678f0dda2b406c88ca5cb8ffa67d0b2b0b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fca57308a8a7524d58f4414d4d8ca1b774caa1c4c5a98b38d64de40015ba33c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf2eb2ab3092fc74d2f11919ee87ef528d0bd9abf03bfc23cc380e02cac4bdb5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b702880237a5ba0eeae9f5e4dc1b49d150b47881ca361275058366ac286816d6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0c11179d8fca2b04fc22b33189955cdf6131fe17c2164587a3349c5b807a7dab.jpg",
+        "intro": "Un chico de un pueblo aprende a defenderse gracias a un alien\u00edgena nihilista.",
+        "description": "En el a\u00f1o 198X, el joven Evan debe sobrevivir a una vida l\u00fagubre en el pueblo remoto y nevado de Landis, en Oreg\u00f3n.\n\nUn d\u00eda funesto, su existencia cambia para siempre por las influencias oscuras de un visitante extra\u00f1o de otro mundo. Con los consejos de su nuevo aliado, \u00bfpodr\u00e1 Evan enfrentarse a los abusones de su colegio?\n\n\u00bfTendr\u00e1 la valent\u00eda de defenderse?\n\nThe Prince of Landis combina la historia centrada en un protagonista y el di\u00e1logo de una novela visual con la exploraci\u00f3n y la resoluci\u00f3n de puzles de un juego de aventuras. \n\nCaracter\u00edsticas:\n* Historia impactante centrada en un protagonista.\n* Exploraci\u00f3n en 2D y resoluci\u00f3n de puzles.\n* Arte y sonido originales.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de"
+        ],
+        "size": 201326592
     },
     "70010000044013": {
         "id": "010046701597E000",
@@ -23554,10 +23827,11 @@
             "Educativo"
         ],
         "ratingContent": [
+            "Violencia de fantasia",
             "Bajo contenido de sangre"
         ],
         "numberOfPlayers": 1,
-        "rating": 6,
+        "rating": 10,
         "developer": null,
         "publisher": "QUByte Interactive",
         "frontBoxArt": null,
@@ -27703,7 +27977,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 1076887552,
+        "size": 1075838976,
         "parentId": "01005C50152DC000"
     },
     "70030000014326": {
@@ -27733,6 +28007,36 @@
         "languages": null,
         "size": 1239416832,
         "parentId": "01004F0010A02000"
+    },
+    "70030000014373": {
+        "id": null,
+        "rightsId": null,
+        "name": "BLUE REFLECTION: Second Light Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000014373,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Lenguaje moderado",
+            "Temas insinuantes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 2037383168,
+        "parentId": "010071C013390000"
     },
     "70030000014425": {
         "id": null,
@@ -46473,6 +46777,43 @@
             "01004A600EC0B003"
         ]
     },
+    "70050000024022": {
+        "id": "0100B8B012ECB001",
+        "rightsId": null,
+        "name": "S.N.I.P.E.R - Hunter Scope - Expansion Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70050000024022,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Violencia intensa",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/670a9c8b8c5353ecd5a77f821d8b9a17bac7b34f8413a3f92d61bb05d9926815.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ace8b586b15a48c58c6a5d4d8e9ce5785e1085406ffea8f8c05ed25604312e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7fa1f138a99543d600a8454110220429edc8b5e180e01e6c33fc46104e0e85b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20519626ffacae6e133155f255e73ab54a4b8a6f895b6e34ed768e39ed005007.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff8bf8becf63c4911a282a0370cb7015cd6969b9830511ad6b93c4a12edf34b4.jpg",
+        "intro": "\u00a1Siente el terror! \u00a1Los muertos vivientes invaden el mundo de S.N.I.P.E.R.!",
+        "description": "\u00a1Vuelve a la acci\u00f3n y sobrevive al apocalipsis zombi con un nuevo modo de juego, exclusivo de esta actualizaci\u00f3n de contenidos!\n\nDesbloquea 3 poderosas armas para usarlas tanto en el DLC como en el juego base para mejorar tu puntuaci\u00f3n.\n\nJuega mapas nuevos o visita los antiguos con nuevas armas.\n\nLlena tu galer\u00eda y tu gabinete con nuevos modelos y medallas.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100B8B012ECB001"
+        ]
+    },
     "70050000024088": {
         "id": "0100F2200C98501F",
         "rightsId": null,
@@ -47111,6 +47452,78 @@
         "size": 3145728,
         "ids": [
             "0100646009FBF003"
+        ]
+    },
+    "70050000024541": {
+        "id": "01007A5013701002",
+        "rightsId": null,
+        "name": "My Magic Florist Expansion Pack 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70050000024541,
+        "category": null,
+        "ratingContent": [
+            "Lenguaje moderado"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Cool Small Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4e9994fd9666a2762ee96e113960eb909f76234db1e4e09f0368ca7b79b661b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bd4c4aa69609deab6ff63335e6282cc282db5fd66bd548531d6244c9cb7fe53.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8a85bbf470f53431cdbbeed580f56b07670e31abc9f92c2f66d4af3e42e82d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b47b2e70273522ee560d01f7c82121fdd3a5bffff9d00750f95f23b6eccf636.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f636a2dbd78dc7987e6e4d6ceaac0c35e6695206142091feb6553f02fa03011.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9cdb74d1fd6c50b1692b5d681acb4ec798f80f205b00bddb6955f9d7ed63d33f.jpg",
+        "intro": "\u00a1Entra en tu florister\u00eda! \u00a1Te esperan nuevos desaf\u00edos!",
+        "description": "En este pack de expansi\u00f3n para My Magic Florist encontrar\u00e1s:\n\n\u2022 15 nuevos niveles para explorar\n\u2022 5 nuevos logros que alcanzar\n\nAdelante, \u00a1prueba tus habilidades!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01007A5013701002"
+        ]
+    },
+    "70050000024543": {
+        "id": "01007A5013701001",
+        "rightsId": null,
+        "name": "My Magic Florist Expansion Pack 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70050000024543,
+        "category": null,
+        "ratingContent": [
+            "Lenguaje moderado"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Cool Small Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4e9994fd9666a2762ee96e113960eb909f76234db1e4e09f0368ca7b79b661b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bd4c4aa69609deab6ff63335e6282cc282db5fd66bd548531d6244c9cb7fe53.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8a85bbf470f53431cdbbeed580f56b07670e31abc9f92c2f66d4af3e42e82d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b47b2e70273522ee560d01f7c82121fdd3a5bffff9d00750f95f23b6eccf636.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f636a2dbd78dc7987e6e4d6ceaac0c35e6695206142091feb6553f02fa03011.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fdd054d23d65aabcbd52e3cf0f062ec9cef3d74d5d1629d6d4b14cc78db7907f.jpg",
+        "intro": "\u00a1Entra en tu florister\u00eda! \u00a1Te esperan nuevos desaf\u00edos!",
+        "description": "En este pack de expansi\u00f3n para My Magic Florist encontrar\u00e1s:\n\n\u2022 15 nuevos niveles para explorar\n\u2022 5 nuevos logros que alcanzar\n\nAdelante, \u00a1prueba tus habilidades!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01007A5013701001"
         ]
     },
     "70050000024551": {
@@ -55266,6 +55679,80 @@
             "0100B04011743044"
         ]
     },
+    "70050000027606": {
+        "id": "0100FCB00EEF3001",
+        "rightsId": null,
+        "name": "Pet Shop Snacks Expansion Pack 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70050000027606,
+        "category": null,
+        "ratingContent": [
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Cool Small Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b8ef7ad54db776ac5c67a8402e2eba1254084947e25694e0357439929b7f6129.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c452ce24fdb682d9e0608c3f855e8bb3f1c313bd83ad23bd4eff537da4ad3579.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a1c1e7fe0b4f0eecf6511e7efcfbed2fc1dd6a1fe112abf49fef7e0f992b6ec3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efcbbd28b85f24834e6838b06e69eb438218b9b85464fe565509e3ec863d5666.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d6aadda682ec1276be01f2a1be85632380491a6dd2d8c3595f5530f1b69c077.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1404009bc490c349db4aa6c0149b0f2a8f7cb5414f3bf7ba12da295df5f0e9eb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7b7bee1b19224a439bdc29bdd0c31576c71b30eb73e0ab67c704baa998786a3d.jpg",
+        "intro": null,
+        "description": "\u00a1En esta actualizaci\u00f3n de contenido encontrar\u00e1s m\u00e1s mascotas para alimentar! \u00a1Prepara los platos m\u00e1s sofisticados y completa nuevos niveles!\n\nEn este pack de expansi\u00f3n, encontrar\u00e1s:\n- 20 nuevos niveles,\n- 6 nuevos logros",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100FCB00EEF3001"
+        ]
+    },
+    "70050000027612": {
+        "id": "0100FCB00EEF3002",
+        "rightsId": null,
+        "name": "Pet Shop Snacks Expansion Pack 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70050000027612,
+        "category": null,
+        "ratingContent": [
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Cool Small Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b8ef7ad54db776ac5c67a8402e2eba1254084947e25694e0357439929b7f6129.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c452ce24fdb682d9e0608c3f855e8bb3f1c313bd83ad23bd4eff537da4ad3579.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a1c1e7fe0b4f0eecf6511e7efcfbed2fc1dd6a1fe112abf49fef7e0f992b6ec3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efcbbd28b85f24834e6838b06e69eb438218b9b85464fe565509e3ec863d5666.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d6aadda682ec1276be01f2a1be85632380491a6dd2d8c3595f5530f1b69c077.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1404009bc490c349db4aa6c0149b0f2a8f7cb5414f3bf7ba12da295df5f0e9eb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bfd6199ca4f7399b957e3c5007d5817b57ec42d317d4e0e34bfcc3610fb9b270.jpg",
+        "intro": null,
+        "description": "\u00a1Prepara la mejor comida para que las mascotas no dejen de venir! \u00a1Compl\u00e1celas en este set de nuevos niveles!\n\nEn este pack de expansi\u00f3n, encontrar\u00e1s:\n- 20 nuevos niveles,\n- 6 nuevos logros",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100FCB00EEF3002"
+        ]
+    },
     "70050000027662": {
         "id": "0100E21011447001",
         "rightsId": null,
@@ -57015,7 +57502,7 @@
             "https://img-eshop.cdn.nintendo.net/i/660c6d301c7c330d6a6116a9e9ec07dc10b40e5149f034267c7d3eb983e93c5f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ebb000693fd2035be87f321d12b9446c093ba198226f48cd85c0c37af4aac7cd.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c92590a24b3a69bd195782b4c2e397debee8721773bee4d17803e0882bda1a72.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7c9218f3c5900bf9b1d81cd73441fa78b38d1758dc9c1c5b5101ddbedfbffcc7.jpg",
         "intro": null,
         "description": "Si flexiona sus m\u00fasculos hasta llegar a la meta, \u00a1puedes contar en la victoria del incomparable auto Superman\u2122! \u00a1Al igual que el h\u00e9roe en el que est\u00e1 inspirado, es una personificaci\u00f3n de fuerza y poder con l\u00edneas aerodin\u00e1micas dise\u00f1adas para hacerte volar por la pista! \n\nNo es necesario que te quites los anteojos o que vayas a una cabina telef\u00f3nica, con la S legendaria en su pecho... digo, en el cap\u00f3, este auto de carreras est\u00e1 listo para demostrar sus superpoderes y desafiar a tus oponentes. \u00a1Y la buena noticia es que no hay Kryptonita en HOT WHEELS UNLEASHED\u2122! \u00a1\u00c9ste es un s\u00faper auto!\n\nEste DLC se incluye en HOT WHEELS\u2122 Pass Vol. 1",
         "languages": null,
@@ -59817,11 +60304,11 @@
         "category": null,
         "ratingContent": [
             "Sangre",
-            "Lenguaje",
+            "Lenguaje fuerte",
             "Violencia"
         ],
         "numberOfPlayers": null,
-        "rating": 13,
+        "rating": 17,
         "developer": null,
         "publisher": "Focus Home Interactive",
         "frontBoxArt": null,
@@ -66731,7 +67218,7 @@
         "intro": "Abre la mente y deja que la historia se desarrolle.",
         "description": "Este producto es un conjunto descargable con 8 objetos de contenido para Voice of Cards: The Isle Dragon Roars, que pueden cambiar el dise\u00f1o de los componentes del juego, como las cartas y las fichas, al estilo de otros t\u00edtulos de YOKO TARO, y tambi\u00e9n se incluye un objeto que puede cambiar la apariencia de todos los personajes y enemigos en arte p\u00edxel.\n\nEl conjunto contiene:\n\nVoice of Cards: The Isle Dragon Roars\n\nContenido descargable: Atuendo de los despojados\nNuevos trajes para el protagonista, Mar y Melanie.\n* El dise\u00f1o podr\u00eda no cambiar en algunas circunstancias.\n\nContenido descargable: Estampado de ropa de Emil\nDise\u00f1o del dorso de las cartas con la imagen de Emil.\n* El dise\u00f1o podr\u00eda no cambiar en algunas circunstancias.\n\nContenido descargable: Ficha de Emil\nDise\u00f1o de la ficha del jugador con la imagen de Emil.\n\nContenido descargable: Dados de Emil\nDise\u00f1o de los dados con la cabeza de Emil.\n* El dise\u00f1o podr\u00eda no cambiar en algunas circunstancias.\n\nContenido descargable: Tablero de Grimoire Weiss\nDise\u00f1o de tablero de combate y accesorios con la imagen de Grimoire Weiss.\n\nContenido descargable: Bur\u00f3 de biblioteca\nDise\u00f1o de la mesa a imagen de la estatua de piedra de cierta biblioteca.\n* El dise\u00f1o podr\u00eda no cambiar en algunas circunstancias.\n\nContenido descargable: M\u00fasica tocada por Devola\nUna banda sonora adecuada para un guerrero que lucha por salvar a su hermana.\n* La m\u00fasica podr\u00eda no cambiar en algunas circunstancias.\n\nContenido descargable: Conjunto de p\u00edxel art\nCambia las ilustraciones de todos los personajes y enemigos en arte p\u00edxel.\n* El dise\u00f1o podr\u00eda no cambiar en algunas circunstancias.\n\n\n* Los objetos vendidos en este conjunto estar\u00e1n disponibles para compra individual tras el lanzamiento del juego.\n* El juego que se vende en este conjunto es el mismo que el de la versi\u00f3n individual. Ten cuidado de no volver a comprar el mismo contenido varias veces.\n* Algunas partes del juego que requieren conexi\u00f3n a internet podr\u00edan dejar de ofrecerse en alg\u00fan momento.",
         "languages": null,
-        "size": 2485125120
+        "size": 2674917376
     },
     "70070000012599": {
         "id": null,
