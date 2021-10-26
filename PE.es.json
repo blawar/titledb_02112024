@@ -548,7 +548,7 @@
             "pt",
             "ru"
         ],
-        "size": 14213447680
+        "size": 14664335360
     },
     "70010000000529": {
         "id": "01003BC0000A0000",
@@ -21455,7 +21455,7 @@
         "languages": [
             "en"
         ],
-        "size": 1408237568
+        "size": 1738539008
     },
     "70010000041661": {
         "id": "010049E013134000",
@@ -26300,6 +26300,108 @@
             "en"
         ],
         "size": 50331648
+    },
+    "70010000046983": {
+        "id": "0100C9A00ECE6000",
+        "rightsId": null,
+        "name": "Nintendo 64\u2122 \u2013 Nintendo Switch Online",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70010000046983,
+        "category": [
+            "Otros"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5c8195b43aac4ba5f033f9a3d188ed57010add2b05060497a25f3568612405bc.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/51fef762ef0b1e551224bcdc5e75285449272189818ddcf06b961222da6d580c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/353cad10b5bc19fe7f563256b236570fa6bc29bfe723b10095a6400a367844d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4d2369060358d835478b3ae16a059fab8f6bcc1b9d36b68f27264b0de52a9128.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11b1ebeb6b93723d6aad3bb14a56db54ad324d86d1c6e5c8c9ff2bf904c9599e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9dab7b1ea2305b1d45f9c98811f8776510d66967d98cb9dc85497fdc75533062.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2b40d6ddaabe28150041cf3df779b99b321f0f805ddeecd8d16684e8cb4c226.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a065e997d704f0e1ec3e9e55301041473d8dbe8b7cbc170293717703ac8b0c08.jpg",
+        "intro": "Juega como si fuera 1996 con Nintendo 64\u2122 \u2013 Nintendo Switch Online",
+        "description": "Con una suscripci\u00f3n a Nintendo Switch Online + Paquete de expansi\u00f3n podr\u00e1s acceder a un cat\u00e1logo de juegos de Nintendo 64\u2122 \u00a1que son perfectos para disfrutar en cualquier momento y en cualquier lugar! Por primera vez podr\u00e1s jugar estos cl\u00e1sicos juegos en l\u00ednea y utilizar el chat de voz con la aplicaci\u00f3n* Nintendo Switch Online para dispositivos inteligentes. Con estas funciones podr\u00e1s competir en l\u00ednea con tus amigos en el juego Mario Kart\u2122 64, compartir tu pantalla e invitar a un amigo en tu viaje por el juego Star Fox\u2122 64, y pausar la partida en cualquier momento en The Legend of Zelda\u2122: Ocarina of Time\u2122. Incluso podr\u00e1s disfrutar del emocionante juego Sin & Punishment\u2122, \u00a1que originalmente fue lanzado solo en Jap\u00f3n! \n\n\u2022 Un cat\u00e1logo de juegos cl\u00e1sicos de Nintendo 64 con una nueva funci\u00f3n de juego en l\u00ednea\n\u2022 Los t\u00edtulos pueden ser jugados sin conexi\u00f3n en l\u00ednea, as\u00ed podr\u00e1s jugar en cualquier momento y en cualquier lugar\n\u2022 Pausa la partida y guarda tu progreso en cualquier punto del juego\n\u2022 Con la funci\u00f3n de juego en l\u00ednea disponible en cada t\u00edtulo podr\u00e1s jugar de forma competitiva o cooperativa con tus amigos, compartir tu pantalla o pasar el control, dependiendo del juego\n\u2022 Usa la aplicaci\u00f3n Nintendo Switch Online* para dispositivos inteligentes para jugar en l\u00ednea mientras utilizas el chat de voz\n\u2022 Se han incluido las versiones europeas de algunos juegos, lo cual permite m\u00e1s variedad de opciones de idioma\n\u2022 Compatible con los controles Joy-Con\u2122, el control Pro de Nintendo Switch\u2122** y el control de Nintendo 64***",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 333447168
+    },
+    "70010000046988": {
+        "id": "0100B3C014BDA000",
+        "rightsId": null,
+        "name": "SEGA Genesis\u2122 \u2013 Nintendo Switch Online",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211025,
+        "nsuId": 70010000046988,
+        "category": [
+            "Otros"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e4107dee6e46ac3e789aed0818f754b0c1d664bb41d21820718845ca2fa8f234.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7ae7ca64cc6cebef88fc513c7b46dfa3eb34ba24549b210adedd835ec6972f05.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f8a2fd88cb52485c408ea9c6a2729aaf81ce3190c86c71d033c3966c43de8d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/54ab2a43dba448d5f37effeb3300679afe02dd226a7fda79eb966bcc2cf9bbb2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/777cc790c4c779c8ca514496e22be6a4ca0c2fec8a5da93774c095cf8e68fbef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6be0caa4071a26ffc9d0aea292a47ff284fb0009f49476b492279fac8c98bece.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a03240860a8fc7c9ac913ec07ad19ee591f6b1c67a8d1a428d9ea6973bf87b5d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ff0d433b7417fce89f36de3a2f70ef2a7df7bbee3243d552f5d7db5a76388973.jpg",
+        "intro": "Descubre un cat\u00e1logo de juegos cl\u00e1sicos de SEGA con SEGA Genesis\u2122 \u2013 Nintendo Switch Online",
+        "description": "Con una suscripci\u00f3n a Nintendo Switch Online + Paquete de expansi\u00f3n podr\u00e1s acceder a un cat\u00e1logo de juegos de SEGA Genesis\u2122 \u00a1que son perfectos para jugar en cualquier momento y en cualquier lugar! Podr\u00e1s jugar estos juegos cl\u00e1sicos con funciones adicionales, \u00a1como rebobinar para obtener los aros en Sonic the Hedgehog 2, crear un punto de guardado durante el jefe final de Golden Axe o jugar Streets of Rage 2 con un amigo usando el juego en l\u00ednea!\n\n\u2022 Una selecci\u00f3n de juegos cl\u00e1sicos de SEGA Genesis que incluyen Sonic the Hedgehog 2, Streets of Rage 2, Ecco the Dolphin y m\u00e1s\n\u2022 Juega de forma competitiva o cooperativa usando el modo multijugador en l\u00ednea\n\u2022 Juega en el camino en cualquier lugar y en cualquier momento\n\u2022 Pausa la partida y guarda tu progreso en cualquier punto del juego\n\u2022 Rebobina el juego f\u00e1cilmente si cometes un error o si quieres intentar de nuevo una secci\u00f3n del juego al mantener oprimidos los botones ZL y ZR\n\u2022 Compatible con los controles Joy-Con\u2122, el control Pro de Nintendo Switch\u2122* y el control de SEGA Genesis**",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 113246208
     },
     "70010000047143": {
         "id": "0100BAB01692A000",
