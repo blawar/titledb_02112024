@@ -4386,6 +4386,54 @@
         ],
         "size": 13040091136
     },
+    "70010000009884": {
+        "id": "010060F00AA70000",
+        "rightsId": "010060F00AA700000000000000000005",
+        "name": "The Walking Dead: The Final Season - Season Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211026,
+        "nsuId": 70010000009884,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Skybound Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3e9efb3b52ac3dafe0f6e371a16251e54a1954abb95f56479a0131dc07ab6276.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b1568095afbb5d374cd5a33067b8a79c68e063334ee54b161b9ec8401b127d88.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/76f793892c55592e8891381251368ec8071d93aa60406d8fc4474c35ac82b8f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4906e65f79dde83b0a7d2378b446d4b0cde15fa598b0a97af810599b2bc3417e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03b90fd44f5612633919b322a92da14b36756065808eede8eeb6c3672711714c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0abe2142b9c29a3b746fa0c2ef05ee4fa0d650eb16592adbf2e5dd6b13b01385.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c21fe3f0fc3a28862513a3b8000ba17e3f945054cbc4fa6b4669ede9e278dd6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e8e562ec93a9d2be07acc51a5d03fbe144a9a3ba5c33fdb23162cd13a95c234d.jpg",
+        "intro": null,
+        "description": "After years on the road facing threats both living and dead, a secluded school might finally be Clementine and AJ\u2019s chance for a home. But protecting it will mean sacrifice. In this gripping, emotional final season, your choices define your relationships, shape your world, and determine how Clementine\u2019s story ends.\n\nIncludes access to all 4 episodes.",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 3912237056
+    },
     "70010000009921": {
         "id": "010080B00AD66000",
         "rightsId": "010080B00AD660000000000000000005",
@@ -4624,7 +4672,7 @@
             "ru",
             "ko"
         ],
-        "size": 14378074112
+        "size": 14536409088
     },
     "70010000010276": {
         "id": "01006D4003BCE000",
@@ -4726,7 +4774,7 @@
             "zh",
             "zh"
         ],
-        "size": 1571815424
+        "size": 1959788544
     },
     "70010000011664": {
         "id": "010096000B3EA000",
@@ -4774,6 +4822,54 @@
             "it"
         ],
         "size": 1773142016
+    },
+    "70010000011822": {
+        "id": "010056E00B4F4000",
+        "rightsId": null,
+        "name": "The Walking Dead: A New Frontier",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211026,
+        "nsuId": 70010000011822,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language",
+            "Use of Drugs"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Skybound Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5725d7cc34166215655d0d688acd6219ee4ad4dd1823e84b562e7820ac60ac4a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3e61f3fa0243751d162cb7278fe37a53ef235ca530a29bfbc0f2832b66507670.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d330b5bdd610ac87d9abf42b9f23bc721aa2659b91aa87bf9a5cc9837d8dbe0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b42fd61bfc7d0ba6ec5032bc9aece62e1100ed9a6e66b0563d4280164de134b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dca4e1c611d7fa4dc73805c1c1ffe895f668d046461695fe5cb5011c96a84f34.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e01e528588a723ffbee78210312d4c864d08d07e2f1af4cfe48c20cce1e1371.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32a9b64db7fc08b9886e23486046d31ae78fb2ab77e45782a01e10e5e6399ff5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/93c98641e9e0ac43e8e90861f3dfb8ac25ebf49591c1b004e7fe172845384702.jpg",
+        "intro": null,
+        "description": "When family is all you have left\u2026how far will you go to protect it?\n\nAfter society was ripped apart by undead hands, pockets of civilization emerge from the chaos. But at what cost? Can the living be trusted on this new frontier?\n\nAs Javier, a young man determined to find the family taken from him, you meet a young girl who has experienced her own unimaginable loss. Her name is Clementine, and your fates are bound together in a story where every choice you make could be your last.",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 8519680000
     },
     "70010000011853": {
         "id": "0100C1500B82E000",
@@ -5379,6 +5475,51 @@
             "zh"
         ],
         "size": 1372585984
+    },
+    "70010000013002": {
+        "id": "010029200B6AA000",
+        "rightsId": "010029200B6AA0000000000000000005",
+        "name": "The Walking Dead: The Complete First Season",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211026,
+        "nsuId": 70010000013002,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language",
+            "Suggestive Themes"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Skybound Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/06b9d20a9a3776192236af7a87c13b68f168bb458f66385b08ed67d04b3c2993.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2a5c3234858fb7647e1e144227ee5b2cc65e051482c61281613c90bfd9f0a3d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb94cae852371887ecccb1aefec4b6cea89264ac46e2caf48eba9f0566b125f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4bd11ca428f828f2c04107243f54670e87a1361d650a1faaf0b0563a952583c6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aeb989326bfc2adda58b637be045986eba4749c9df246c1312eddac82c23a884.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c3441b74cdc45022d1107244ff5bd11bfb180dc16a150e4401034f183f5093f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/baccf6ec21ff3f14a6a2d5ccbe936ae55ebdd4fab69b5fdc14b47040fc06d9c3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/317a3488d5eafa10bd1e25813cd819d21c4e7b52380b5795a64553ad3abe03f0.jpg",
+        "intro": null,
+        "description": "Play as Lee Everett, a convicted criminal, who has been given a second chance at life in a world devastated by the undead. With corpses returning to life and survivors stopping at nothing to maintain their own safety, protecting an orphaned girl named Clementine may offer him redemption in a world gone to hell.\n\n\u2022 All five award-winning episodes plus special episode \u2018400 Days\u2019\n\u2022 Based on Robert Kirkman\u2019s award-winning comic book series\n\u2022 Choice matters: your decisions change the story around you",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 9716105216
     },
     "70010000013045": {
         "id": "010042100BAA6000",
@@ -6253,6 +6394,53 @@
             "en"
         ],
         "size": 3441426432
+    },
+    "70010000014767": {
+        "id": "010099100B6AC000",
+        "rightsId": null,
+        "name": "The Walking Dead: Season Two",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211026,
+        "nsuId": 70010000014767,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language",
+            "Suggestive Themes",
+            "Use of Alcohol and Tobacco"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Skybound Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/33afb13c1e8463cf5162204f6deffde25d20dea87ebef59dfd95be7cbd87cd46.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e02a2313c7b9d5aae59fd0ba5e1c4a4defcc5c2af061cbfc29899feb37107f0e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/389f3cb886a9c8854293b093b52842e84b3cbcc964dae2771b12686c4060c1d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4598a7ae74e54aaa8c9a81f92198347ef01b58bc3a6cabdab25d4dcf58dce89c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/812578584edc3876095396b7e65c98239ba916cacf75744c1e4329ac6a4640c6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/003d779496d000fb03d0ed69bf2a79e6543591e7866260bea1b5a18d0f20d4df.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d5a338d935a88eac0288ddbc28625bace21f5465bc2474efbd89296f04452dd5.jpg",
+        "intro": null,
+        "description": "The Walking Dead: Season Two, a five-part game series that continues the story of Clementine, a young girl orphaned by the undead apocalypse. Left to fend for herself, she has been forced to learn how to survive in a world gone mad.\n\nMany months have passed since the events seen in Season One of The Walking Dead, and Clementine is searching for safety. But what can an ordinary child do to stay alive when the living can be just as bad \u2013 and sometimes worse \u2013 than the dead? \n\nAs Clementine, you will be tested by situations and dilemmas that will test your morals and your instinct for survival. Your decisions and actions will change the story around you, in this sequel to 2012\u2019s Game of the Year.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 5857345536
     },
     "70010000014915": {
         "id": "0100CB5009A2C000",
@@ -10274,6 +10462,56 @@
         ],
         "size": 7755268096
     },
+    "70010000021350": {
+        "id": "0100C8200E942000",
+        "rightsId": null,
+        "name": "Fin and the Ancient Mystery",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211108,
+        "nsuId": 70010000021350,
+        "category": [
+            "Platformer",
+            "Adventure",
+            "RPG",
+            "Action"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bcbfe0b1851c6691b9cee1c50340952c66ece28aab584db856466b7cb0b4fa66.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3530f2121fef611ea9b37ee6fe51da90d2cc278c3529c90baa041b11ea14233f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1a14863c44cc4a0c8a122999db35b1e99090718a6df68ba9dd183b0f74e447af.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a2dffefe60dc87e20189f6c8393a9596ca20eb86d176067c4938298d7c599b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d385b98c8f5ba267d4e6694c05dd4fe383ef0df15f54c11bcacc90504da41d7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15d8b6c8bb0d828622b2785d7f7b6e6da7e15133bc4850d8164b80d16dcf91c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/56c205b01e4274552f2c173638e941ea0c9f097c86ec76d0d8e8e1ac685b800b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a63e24cfc5eecee5c5a054350a80dc5ade04a7f23932c0152afc3a330cab1873.jpg",
+        "intro": "Join big-eared Fin on a journey across ten magic platform worlds to destroy six huge bosses, master magic, and save the world. You are the one with the strength to succeed! ",
+        "description": "Fin must unravel the mysteries of the Clan and find hidden crystal artifacts to protect the world from the ancient Destroyer. \nThe hero will face everything - from tragedy and betrayal to new friends and an incredible adventure! Fin cannot tell his friends and his foes apart until he meets them himself.\n\nThis 2D adventure game will give you a chance both to brandish a sword and put your brain to good use. Not only will you have to fight for dear life, but also solve entertaining puzzles to stay alive!\n\nYou will ecounter interesting quests, and it will take all your wits to get to the next Metroidvania level. Don't forget to grind some levels to be stronger and tougher!\n\nGAME FEATURES:\n- Use your SWORD AND MAGIC to defeat the enemies.\n- JUMP and run to dodge attacks and traps.\n- Fight UNUSUAL and dangerous enemies - a VARIETY of monsters and even machines!\n- Find the WEAK SPOT OF EVERY BOSS and vanquish them!\n- Collect all the TREASURERS scattered along METROIDVANIA! \n- GRIND by defeating treacherous enemies. Experience is invaluable and will make you both a great swordsman and a skilled magician!\n- Travel across BREATHTAKING levels: icy permafrost, sandy desert, green tropics, dungeons, ruins and the world beyond time.\n- The platformer's stages are filled with obstacles and VARIOUS TRAPS which fly, spin, shoot and strike at you in every possible way.\n- EXPLORE the platformer levels and search SECRET ROOMS to pick up bottles with magic potions. Potions will help you to become even stronger!\n- INVESTIGATE all the items that come into your paws. Remember that even a harmless wooden barrel can hide SECRETS.\n- Solve PUZZLES to find hidden artifacts.\n\nThe game has been translated into the following languages: English, French, Italian, German, Spanish, Russian, Arabic, Japanese, Korean and Portugese.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko"
+        ],
+        "size": 358612992
+    },
     "70010000021364": {
         "id": "01000B900D8B0000",
         "rightsId": null,
@@ -10511,6 +10749,52 @@
             "en"
         ],
         "size": 5361369088
+    },
+    "70010000021596": {
+        "id": "01007E400ECC6000",
+        "rightsId": null,
+        "name": "Deadly Fighter 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70010000021596,
+        "category": [
+            "Action",
+            "Fighting",
+            "Communication"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Cool Small Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/37c9fcdef01c1ab0851d72556b1e3c1aa01bc1b2de2fb96ae92c3f3097a45a61.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/66c82b394b03fcaa90a14a5722dd8616f5dd05f0322af8a73cd9c716a0106d65.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d5cc78afcc76b8c280247c9b5c4895fb92dddb3f18a835a384b41bf2e9b987f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f13fc0043d811dd412ca6fd78101acde9e6dd76b79aec567a3a5187383f6fdbe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/071f569caa0a02cc9c78179633d653ebf2d979d34cc2d9f27d74afa62b88d52b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d311486680613edfd9f2f0a789d947c8cf84bc49030669b27ba84b0d9700057d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ef1ac3ca19a0848d6da3bf62d8e1224e71addc5b7f47276d7d6829c970c0303.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/348b47e72e921eb1bce01bf8d97c48172dc23b85f08bff5ac120ac596faf59c6.jpg",
+        "intro": "Put your kung-fu to the ultimate test!",
+        "description": "The world's largest fighting contest is back! \n\nNo ranking, no rules, only dead or alive! \n\nWho is the strongest fighter on the earth? \n\nPlunge into epic combat sequences, rendered in astonishingly lifelike detail. \n\nJourney through four different locations. Choose your fighter, unlock, buy and upgrade boosts!\n\nEvery Press Matters!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it"
+        ],
+        "size": 115343360
     },
     "70010000021688": {
         "id": "010097100EDD6000",
@@ -10946,6 +11230,48 @@
             "zh"
         ],
         "size": 1266679808
+    },
+    "70010000022483": {
+        "id": "010023500EF76000",
+        "rightsId": null,
+        "name": "Galaxy Champions TV",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70010000022483,
+        "category": [
+            "Arcade",
+            "Action",
+            "Shooter",
+            "Party"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fa674924b0d7fef7d8b88a1888af138fba95f0a81c816a0a9a059d0cf6fae0af.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e7538ed4b30a1c714315394cf9057e1d33a03bc3ab541728abd771212d81bc9b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa9f5b9205e39f086afbc7d9c7c7c21ded81eb3fb8747c05e9597a759d8dd99b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0cd330dc786c6788fdf94e757d647445d4fde9d6fcce1f6b1981fe38b17e5d85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/96a8446653a09c54724a874a0f115c0520d2e5cd18f004ba4d68561bc0fc9e98.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ee3e0d807543f6f700f209bac58f06d81bd3a2d4d5b3ec03c56fa84c21cced6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e0e6d0e1ebc70a473b064178093c0f61d3e09bf608b782715582438b749c67f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/763f69a30da43b503ba4361b6e68070c29747154151123dab49e555e67d3d1a8.jpg",
+        "intro": "Galaxy Champions TV is a top-down closed arena shooter inspired by the classic arcade game Smash TV. ",
+        "description": "Get powerful weapons and power-ups, kill huge amount of enemies, level up, unlock upgrades and beat all the bosses to become the champion of the most violent TV show of all time! Are you ready to become the Champ?! \n\n\"Good luck! You'll need it!\" \n\nFeatures:\n- Brutal, fast paced run and gun gameplay. Be fast or die!\n- Arcade score chaser-style game!\n- Global leaderboard: player can compete with other players.\n- 2-player local co-op mode. Don't fight alone! Win this show with your friends!\n- Difficulty levels: player can select difficulty before start a run.\n- 40+ unlockable upgrades.\n- 15+ powerful weapons (5 powerful upgradable weapons).\n- 4 different planets.\n- 15+ various enemies.\n- 4 insane boss fights.\n- Champions mode. How long can you survive?",
+        "languages": [
+            "en"
+        ],
+        "size": 500170752
     },
     "70010000022555": {
         "id": "0100D6200F2BA000",
@@ -12965,6 +13291,53 @@
         ],
         "size": 135266304
     },
+    "70010000027961": {
+        "id": "0100D740110C0000",
+        "rightsId": null,
+        "name": "Alder's Blood: Definitive Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70010000027961,
+        "category": [
+            "Strategy",
+            "RPG",
+            "Adventure",
+            "Action"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Partial Nudity",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "No Gravity Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4f51102b6e408ac882e33293b244b9d7e49d00cbee8ec0c596201b9ae9d88825.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e1e45462cdf76a417ecdd20037ae9fbcd71faee2ac28c34000c58a19b8e691a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/83460c9637338a3ddd68ce605e053e07ffdbacd64d430f3f1a70d7e2f80238ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6cde1231d419dfeeb9b4c55486da4ba2783d0a839fe0f13b269ea8fdef326e17.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61eded8266411a563ea497e42fe2a54dc54dc42b9e5b6aadf7330967d398f797.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ace9c5ad68398f11b356d218fe81170dfcec0c0065feb6900df77690ef63a06.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bcbc8f0a98d885f935b7250aceca6253369d882524191a92a0734a1b94d397fe.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69326f0bb280388542928539082158fc402d2b691a6ffdd6283fce2ed53861c2.jpg",
+        "intro": "A tactical-strategy with stealth-based combat, RPG elements, crafting, resources gathering, management, exploration & rich storyline. Set in a grim world, where mankind killed their God...",
+        "description": "DEFINITIVE UPDATE:\n\u25aa 3 new enemy types. Prepare to fight swarms of feral bats, witches of the wood, and elder vampires.\n\u25aa 30 new weapons with unique abilities to add to your arsenal.\n\u25aa Overwatch added to ease up your ambushes. Snipe any foes running into your range.\n\u25aa Tug of war mechanics. Push a beast into a trap or pull it into the range of ally's overwatch.\n\u25aa Rebalance of corruption system. Cursed weapons and items give you immense power but at a cost of slowly losing yourself.\n\u25aa New questline: uncover dark secrets of House Blackwell.\n\u25aa New hunter skin - hunt in style.\n\nFEATURES:\n\u25aa Stealth, ambush-based combat. Try to outsmart and outwit all the horrifying creatures you\u2019ll be facing, as they are way stronger and you don\u2019t stand a chance in a direct assault;\n\u25aa Diverse, challenging opponents. From werewolves to vampires, all monsters have their unique attacks and skills and can easily see, hear or smell you from the distance. So be careful not to reveal your position too early;\n\u25aa Stamina-based characters. Cautiously manage your energy level between attacking, moving and casting spells. In the end, you\u2019re only a human and running out of energy will seriously fatigue you;\n\u25aa A grim world plunged in half-darkness. In this world, our god has finally turned his back on us and his corrupt presence can change the intensity of the battlefield. From summoning monsters, through changing the weather, to transforming one of the creatures into a powerful avatar of his will;\n\u25aa A vagabond\u2019s exploration system. Travel the world bringing your mobile base along with you. Take shelter in and manage your camp, but be wary of enemy ambushes;\n\u25aa A unique fusion of dark Victorian fantasy and wild west. Immerse yourself in a world so different from the one you know. The universe shaped by struggle, where mankind has not had the freedom to develop or advance any of its technology.\n\nDESCRIPTION:\nAlder's Blood is a dark, stealth, tactical game with the turn-based combat focused on avoiding enemy ambushes and setting up your own. Use stealth and tactics to overcome the never-ending onslaught of monsters, the manifestations of your god's decay.\n\nManage your scarce resources, venture out with your fellow companions and explore the remnants of the world in search of the means for mankind's survival.\n\nMonsters can detect a hunter's presence by their scent, they can then use this to track down where the hunters are. Observe the wind - keeping yourself downwind of your adversaries will aid you in your hunt. Although, hunters can use their scent to their advantage by preparing an ambush using traps, then luring the monsters towards it.\n\nMonsters are not the only threat the hunters will face on their hunts - the presence of the old god is growing ever stronger, changing everything it touches. The darkness can summon more enemies against the hunters, or even change them into an avatar of its will.\n\nHunters can equip different weapons, heavy, more powerful ones that will drain their stamina when used.\nAnd smaller ones, better for stealth actions. \n\nWithin their camp, our hunters can craft new items or get some rest.\nIn addition, we can assign roles to hunters there, e.g. to make one of them guard the camp and protect it from ambushes, or to give them the role of a scavenger, who will collect resources in the region of the camp.\n\nRemember, this is not the world you know.\nThis is a world that has been shaped by struggle, one where mankind has not had the freedom to develop and advance its technology.\n\nYour resources will be limited, and opportunities rare.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru"
+        ],
+        "size": 2363490304
+    },
     "70010000027969": {
         "id": "0100DD30110CC000",
         "rightsId": null,
@@ -13111,6 +13484,54 @@
             "zh"
         ],
         "size": 7674527744
+    },
+    "70010000028113": {
+        "id": "010074D0111C4000",
+        "rightsId": null,
+        "name": "Klang 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211117,
+        "nsuId": 70010000028113,
+        "category": [
+            "Action",
+            "Music"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6cd1172168dce524ff49895e9ab8b16a4dba2ef636f5ae9a18d35894fcb617b3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2802e15783736035fe77d3eed8a99106f8fc07742ac91aa2d4a4d39af466acc7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/596f06b7050f42805b5f12bd52e7f6894cd63393b57678a8836232b6e212154c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e49c3338d11082e5a35d0fa47ac2bec7e2455a38dc98a4485fca6b0826bc3d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/844d5ae6f9d5172c42b72ca1fc97f793161533b71bee25d0b293ff9019a63014.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/828e1a7380de55f721442cbf196aa7650935d54b3166d8ad7ba6b05025bf10ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16abfbbff4c83ab0f30986bfc92c4f4f723d6de1e49f07e6420690a32c857556.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a542f31a7b0d7159aa9f2d3c3fa7324cb20a63207f90701af027b02609202e2a.jpg",
+        "intro": "Conduct electronic symphonies of lightning-fast rhythm-action!",
+        "description": "Imprisoned in a facility at an unknown location, Klang must hone his rhythm-combat skills inside audiovisual simulations.\n\nFast-attack the enemy with flashy fireballs. Dodge and counter enemy attacks, and deal enough lightning damage to shame even the greatest gods of mythology. Achieve a euphoric state of trance through skillful play in this rhythm-action game with hypnotic beats and high-speed combat. \n\n\nFeatures:\n* 30 levels of intense EDM-Action playable at normal and fast speeds\n* Semi-procedural combat system ensures tracks never play exactly the same\n* Bosses gradually introduce new gameplay rules\n* Techno-greek aesthetic inspired by synthwave, musical symbolism and sculpture\n* Music by legendary composer bLiNd and other talented artists such as James Landino, Arcien, and Nhato",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1237319680
     },
     "70010000028226": {
         "id": "0100DCA011262000",
@@ -13617,7 +14038,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3a8b223c09ca06f2688fad65a2d12d60760c06e869955486760321c31204fa42.jpg",
         "intro": "Non-Stop Sonic speed. Color the Universe.",
-        "description": "Join Sonic in the high-speed adventure of a lifetime! The evil Dr. Eggman has built a gigantic interstellar amusement park bursting with incredible rides and colorful attractions \u2013 but he\u2019s powering it with a captured alien race called \u201cWisps.\u201d Use Sonic\u2019s lightning speed to free the Wisps and learn the secrets of their amazing powers as you explore six unique colorful worlds, each filled with dangerous enemies and hurdles to overcome. Now with stunning upscaled visuals, additional features, a new game mode, and enhanced gameplay- it's the Ultimate Sonic Colors experience. Sonic will be tested on this exciting journey to free the Wisps - but with their help, and yours, it's a test he'll pass with flying Colors!\n\nPre-Order Now For Bonus Items -  \nSonic Movie Boost - Harness all the power of Sonic from the hit movie and gain an exclusive electric boost and aura.\nExclusive Player Icons - Stand out from the crowd with your own exclusive player icons",
+        "description": "Join Sonic in the high-speed adventure of a lifetime! The evil Dr. Eggman has built a gigantic interstellar amusement park bursting with incredible rides and colorful attractions \u2013 but he\u2019s powering it with a captured alien race called \u201cWisps.\u201d Use Sonic\u2019s lightning speed to free the Wisps and learn the secrets of their amazing powers as you explore six unique colorful worlds, each filled with dangerous enemies and hurdles to overcome. Now with stunning upscaled visuals, additional features, a new game mode, and enhanced gameplay- it's the Ultimate Sonic Colors experience. Sonic will be tested on this exciting journey to free the Wisps - but with their help, and yours, it's a test he'll pass with flying Colors!",
         "languages": [
             "ja",
             "en",
@@ -15265,6 +15686,49 @@
             "fr"
         ],
         "size": 4649385984
+    },
+    "70010000032359": {
+        "id": "0100C4801223C000",
+        "rightsId": null,
+        "name": "Ultra Foodmess",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211110,
+        "nsuId": 70010000032359,
+        "category": [
+            "Arcade",
+            "Party",
+            "Action",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Crude Humor",
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a2364026bdc4c7daae15cbc961c6aaa5bbb46f27eafd6c50145362d578478574.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e58f5402a7066ff33371f22a2059dd8e2801598bbfeb67e75c0858a600cfd234.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e910b2df428e92b9af8f452c15c2519d2ae4a7f354946a026d0d8fd70586145b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/500813807535bd1b334a29b6e169b2fc1a24cefeef076ea9b4da9e89e20f6ad6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8fbcf2c62bc8229a30d46a8f23a53c676365cf4761db67cea529509ebf1d81ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/26e3fa9be360c7071b342242f3220b13a35d05d4414a1c3c365a0cec8bb508ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9695eabc4710e90d467263b7be310cfd2ef022e55e14d649a707a3d3d357614.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4b574b9d87e8ec40147f498df99319ad406af45b7b0621018ec4ce22c818cb81.jpg",
+        "intro": "Ultra Foodmess is a competitive party game for up to 4 players in which food characters battle against each other in a variety of crazy and fast-paced modes!",
+        "description": "Experience the food mess! Call your friends to explode, shoot, swing, push, dodge, destroy and, eventually, ruin your friendship.\n\nGame Features:\n- LOCAL MULTIPLAYER. \n2 to 4 Players on local multiplayer.\n\n- 11 different fast-paced GAME MODES. \nChoose from a great variety of crazy modes, each of them with their own mechanics.\n\n- A lot of FOOD CHARACTERS.\nChoose the food that you like the most to defeat the others and prove who is the best!\n\n- It\u2019s very EASY TO PLAY!\nAnyone can pick up the controller and start having fun!\n\n- Battle against the AI.\nPrepare yourself and battle against the food bots.\n\n- UNLOCKABLES!.\nFinish the challenges to earn achievements and unlock new awesome characters!",
+        "languages": [
+            "en",
+            "pt"
+        ],
+        "size": 442499072
     },
     "70010000032459": {
         "id": "010017C012726000",
@@ -18214,6 +18678,51 @@
         ],
         "size": 756023296
     },
+    "70010000036713": {
+        "id": "0100DAD0137B0000",
+        "rightsId": null,
+        "name": "Chess Royal",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211112,
+        "nsuId": 70010000036713,
+        "category": [
+            "Board Game",
+            "Puzzle",
+            "Strategy",
+            "Education"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4c369383770c7f876624002c2f5fb550c83a47653bdd057eeac789ab993259e7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fc502ed4921f61cf6466f6809918b24417d103f1e0d5292d298406d1e214f56f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c165e0c67a34c941bfbccd6feb3450bb29fa321bab8c27551486942bdb0d44d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3478da65ad1f74501c1c905e6a19b29d09795d3f3599865c47f3e773ae738064.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/66490c200416961783a4d262a6691073fecbb1822089c3648f48be945c2b7def.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab80d6c535353533e66b8476905217f769bad80bc1ccf693b242d561f285c92f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5316233f27e730521747f869f94253907540666a0d09b22e56b08b1fe40e829f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d37ac26d1719cdd4114657a7906d40ce2d60d91a31a5c87246bafeeb84fd5ec4.jpg",
+        "intro": "Begin your chess journey!",
+        "description": "In this game you can play chess against powerful chess engine or face-to-face against your friends. If you want to play against the engine, choose the strength of it so you can be challenged appropriatelly. \n\nIn the Puzzle Tower, your objective is to find solution to the presented chess problems. \n\nFeatures:\n- Strong AI\n- Play face-to-face\n- Chess puzzles\n- Achievements",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru"
+        ],
+        "size": 154140672
+    },
     "70010000036763": {
         "id": "0100328013BCA000",
         "rightsId": null,
@@ -19901,7 +20410,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dcb496d7cf954c7eb51ab2e5d0c27918fb7f055e50f4e902135bd4a70a44b491.jpg",
         "intro": "Action meets RPG as the Pok\u00e9mon series reaches a new frontier",
-        "description": "Get ready for a new kind of grand, Pok\u00e9mon adventure in Pok\u00e9mon\u2122 Legends: Arceus, a brand-new game from Game Freak that blends action and exploration with the RPG roots of the Pok\u00e9mon series. Embark on survey missions in the ancient Hisui region. Explore natural expanses to catch wild Pok\u00e9mon by learning their behavior, sneaking up, and throwing a well-aimed Pok\u00e9 Ball\u2122. You can also toss the Pok\u00e9 Ball containing your ally Pok\u00e9mon near a wild Pok\u00e9mon to seamlessly enter battle. \n\nTravel to the Hisui region\u2014the Sinnoh of old\u2014and build the region\u2019s first Pok\u00e9dex\n\nYour adventure takes place in the expansive natural majesty of the Hisui region, where you are tasked with studying Pok\u00e9mon to complete the region\u2019s first Pok\u00e9dex. Mount Coronet rises from the center, surrounded on all sides by areas with distinct environments. In this era\u2014long before the events of the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl games\u2014you can find newly discovered Pok\u00e9mon like Wyrdeer, an evolution of Stantler, and new regional forms like Hisuian Growlithe! Along the way, uncover the mystery surrounding the Mythical Pok\u00e9mon known as Arceus.\n\nPreorder for a special in-game costume and download the digital version for Heavy Balls!\n\nThe Hisuian Growlithe Kimono Set will be gifted to early purchasers of the Pok\u00e9mon Legends: Arceus game. You can receive it by choosing Get via internet in the Mystery Gifts* feature in your game, up until May 9th, 2022 at 4:59pm PT. Then, dress yourself up in this Hisuian Growlithe Kimono Set! Players who purchase and download the game before May 9th, 2022 at 4:59pm PT from Nintendo eShop will get an email with a code for 30 Heavy Balls which can be redeemed through the Mystery Gifts* feature until May 16th, 2022 at 4:59pm PT. Heavy Balls have a higher catch rate than regular Pok\u00e9 Balls, but you can\u2019t throw them quite as far.\n\nAs the protagonist of this game, you'll meet Professor Laventon, who studies the ecology of Pok\u00e9mon as a member of the Galaxy Expedition Team. Before long, you'll join the Galaxy Team yourself and get to work as a member of the Survey Corps. Your goal will be to meet every species of Pok\u00e9mon in the region!\n\nAfter receiving an assignment or a request and preparing for your next excursion, you'll set out from Jubilife Village to study one of the various areas of the Hisui region. There may be certain Pok\u00e9mon behaviors\u2014or even entire species\u2014that you witness only under the right conditions, such as during a particular time of day or in certain kinds of weather. Word has it that some Pok\u00e9mon even act in ways that are unique to their species! Keep an eye on your health while out adventuring\u2014take too much damage from wild Pok\u00e9mon attacks or falling from high places and you\u2019ll be unable to go on!\n\nBattles in the Hisui region also have some unique properties. For the first time in the series, your Pok\u00e9mon unleash moves with the speedy agile style or the powerful strong style. These styles might also affect how many turns Pok\u00e9mon can take in a row!\n\nJubilife Village is the main base of your adventures in Pok\u00e9mon Legends: Arceus. In Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl, this village has grown to be the bustling Jubilife City. There are also characters in Pok\u00e9mon Legends: Arceus who are ancestors of some familiar faces you may know.",
+        "description": "Get ready for a new kind of grand, Pok\u00e9mon adventure in Pok\u00e9mon\u2122 Legends: Arceus, a brand-new game from Game Freak that blends action and exploration with the RPG roots of the Pok\u00e9mon series. Embark on survey missions in the ancient Hisui region. Explore natural expanses to catch wild Pok\u00e9mon by learning their behavior, sneaking up, and throwing a well-aimed Pok\u00e9 Ball\u2122. You can also toss the Pok\u00e9 Ball containing your ally Pok\u00e9mon near a wild Pok\u00e9mon to seamlessly enter battle. \n\nTravel to the Hisui region\u2014the Sinnoh of old\u2014and build the region\u2019s first Pok\u00e9dex\n\nYour adventure takes place in the expansive natural majesty of the Hisui region, where you are tasked with studying Pok\u00e9mon to complete the region\u2019s first Pok\u00e9dex. Mount Coronet rises from the center, surrounded on all sides by areas with distinct environments. In this era\u2014long before the events of the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl games\u2014you can find newly discovered Pok\u00e9mon like Wyrdeer, an evolution of Stantler, and new regional forms like Hisuian Growlithe, Hisuian Zorua, and Hisuian Zoroark! Along the way, uncover the mystery surrounding the Mythical Pok\u00e9mon known as Arceus.\n\nPreorder for a special in-game costume and download the digital version for Heavy Balls!\n\nThe Hisuian Growlithe Kimono Set and a Baneful Fox Mask will be gifted to early purchasers of the Pok\u00e9mon Legends: Arceus game. You can receive it by choosing Get via internet in the Mystery Gifts* feature in your game, up until May 9th, 2022 at 4:59pm PT. Additionally, players who purchase and download the game before May 9th, 2022 at 4:59pm PT from Nintendo eShop will get an email with a code for 30 Heavy Balls which can be redeemed through the Mystery Gifts* feature until May 16th, 2022 at 4:59pm PT. Heavy Balls have a higher catch rate than regular Pok\u00e9 Balls, but you can\u2019t throw them quite as far.",
         "languages": [
             "ja",
             "en",
@@ -20784,6 +21293,54 @@
         ],
         "size": 1078984704
     },
+    "70010000041373": {
+        "id": "0100BD401493A000",
+        "rightsId": null,
+        "name": "Summer Paws",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211108,
+        "nsuId": 70010000041373,
+        "category": [
+            "Puzzle",
+            "Adventure",
+            "Education",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1af73065b05724738ec4fd902f759400e1043b039020903a4c9a545a3843447b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/098e143a894c02b3189d50c8d869f19437dfd1f8bef3528c423c4983274bc41b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c4efc095ac162307af62a6a1c0d37789ec91dc7fab67557b2ea09830e864792.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23b61d2ca0f2b21ab76c439706f4b34c6bb1d0ebfc7bf5de5a0117bc337d6794.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4cf9a08f77044c4a114715f75411eb586db33e99b64be283663f66a70a81926.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8094c38bee028540605a39b1f1cae6e02c35e7ddee081fca0f78ff3262443179.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2466310cd7d4b7b4bb04112f24c8a528061a9b7ef463d2eadda2f06f68a2c14d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8a73be5b3c77d5770c2e04c64f4298fb1ccdc0d0a13e3851fbb5992fe05db00b.jpg",
+        "intro": null,
+        "description": "Summer days, warm rain, magical nights! Sleeping kittens are hidden well. Can you find them?\n\nFeatures:\n-18 handcrafted summer islands\n-with over 100 sleeping cats for you to find and wake up\n-and lots of sea shells to collect\n-so open boxes, search the forests, look inside tents and under umbrellas\n-and solve puzzles\n-listen to charming music\n-no timers, no scores, it's just you and lovely islands and kittens",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "zh"
+        ],
+        "size": 530579456
+    },
     "70010000041377": {
         "id": "0100D5A01514C000",
         "rightsId": null,
@@ -20914,7 +21471,7 @@
             "ko",
             "zh"
         ],
-        "size": 2397044736
+        "size": 2398093312
     },
     "70010000041440": {
         "id": "010009F014D98000",
@@ -22286,7 +22843,7 @@
             "zh",
             "zh"
         ],
-        "size": 2930769920
+        "size": 3067084800
     },
     "70010000042938": {
         "id": null,
@@ -22476,7 +23033,7 @@
             "de",
             "it"
         ],
-        "size": 1285554176
+        "size": 1310720000
     },
     "70010000043209": {
         "id": "0100854015868000",
@@ -23176,6 +23733,45 @@
             "zh"
         ],
         "size": 695205888
+    },
+    "70010000044020": {
+        "id": "0100A55015B98000",
+        "rightsId": null,
+        "name": "Lotus Bloom",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70010000044020,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Strategy",
+            "Education"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Silesia Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/83b1fdde20d7b5687641fe693d72ba0d40f2ad23d58905662ca14461e3f70690.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2ba8f988d6dc4952fb16e4755ea42ab742f041d758d81cb4809907662c3ce912.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/21abc45dab78073a6781b55ce5b413f9501f6c6fb3862269a8948d80b68fe400.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9ddef8d9e38c00ee3abfddbb3da93e88df0e3b000da9e232c178ecb9cb7dc7e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7bd09949516f979dce61a43503cca58e882b4eb050859d29a1692ec64896b60.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a2f47730f218927011b617419e65dbc9e0f190be4b56237a733688481b2b3cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9a6109e5640cd88451296298783bf3c4c4ef96fdddeed71a68db9f2a5815e174.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3543e3ab9f99ed1f840a7f1e358a4b8821cad802891fae770114f0fb70a0edde.jpg",
+        "intro": null,
+        "description": "Lotus Bloom is a relaxing minimalist puzzle game.\nConnect orbs, generate energy and make flowers bloom.\n\nFeatures:\n- Brain-teasing gameplay mechanics, keeping each new challenge fresh.\n- 48 hand-crafted puzzles.\n- Beautiful, minimalist and zen aesthetic.\n- A relaxing and original soundtrack.",
+        "languages": [
+            "en"
+        ],
+        "size": 108003328
     },
     "70010000044024": {
         "id": "0100D6A015B12000",
@@ -24006,6 +24602,45 @@
         ],
         "size": 114294784
     },
+    "70010000045143": {
+        "id": "0100D63016060000",
+        "rightsId": null,
+        "name": "9-Ball Pocket",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211207,
+        "nsuId": 70010000045143,
+        "category": [
+            "Simulation",
+            "Sports",
+            "Arcade",
+            "Party"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SuperPowerUpGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/930f1db4cf51b0cd4edc72992a95304fd3334ca2f43534ae4599d6ee90293027.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/74510e7e7c0356ad4a62fa54b462dfc2677ae4dcadd62d90d848dde14b983827.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d4e47cc18d5b55e58d305983b7ba4f6add1ebcae7a3fc095eba1df4010e8d58a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/539258657c2b260eb72e472513ac346beab3e34c789f7d53814857f3089f2f96.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b9ca84c65aff47fb815e23bd052fc10af24afa1b1d4279d5842de2ff72d8e23.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ded5592c899037f1725d93f72be234e7e3e0313235133402337ef5d0d3b93f89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/369aff4dbf301e57871caed9ce5ae1f6674a8ecef6aea6f35047ee1cb1edfb25.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a60c7c2f18462b5ff94b5a7c6401dc648996af48445ddffd8c078b0e6764f70d.jpg",
+        "intro": "Enjoy 9-Ball Pocket with friends and family.",
+        "description": "9-Ball Pocket brings you eight-ball pool, also known as American billiards.All of this comes in a setting with great graphics and Jazz music.",
+        "languages": [
+            "en"
+        ],
+        "size": 386924544
+    },
     "70010000045222": {
         "id": "01007740160D4000",
         "rightsId": null,
@@ -24385,10 +25020,10 @@
             "Music"
         ],
         "ratingContent": [
-            "Fantasy Violence"
+            "Mild Fantasy Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 10,
+        "rating": 6,
         "developer": null,
         "publisher": "Rogue Games",
         "frontBoxArt": null,
@@ -29953,6 +30588,102 @@
         "size": 4194304,
         "ids": [
             "01005D100807B00A"
+        ]
+    },
+    "70050000006321": {
+        "id": "010060F00AA71192",
+        "rightsId": "010060F00AA711920000000000000005",
+        "name": "The Walking Dead: The Final Season - Episode 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211026,
+        "nsuId": 70050000006321,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Skybound Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1369cd30a9140baf5e14329ffca4c12b068782cf5e9530f906b0c637b69d2685.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1546649600,
+        "ids": [
+            "010060F00AA71192"
+        ]
+    },
+    "70050000006322": {
+        "id": "010060F00AA71193",
+        "rightsId": "010060F00AA711930000000000000005",
+        "name": "The Walking Dead: The Final Season - Episode 3",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211026,
+        "nsuId": 70050000006322,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Skybound Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/689f42bccc489c883e18d0247faf664eb7f048599998801cbf3bfdd696d6a9d2.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1758461952,
+        "ids": [
+            "010060F00AA71193"
+        ]
+    },
+    "70050000006323": {
+        "id": "010060F00AA71194",
+        "rightsId": "010060F00AA711940000000000000005",
+        "name": "The Walking Dead: The Final Season - Episode 4",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211026,
+        "nsuId": 70050000006323,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Skybound Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cd33ae82cd6943d7e07465178df92a6c606d3b442d84630f99ed1ef0f4a3fca6.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 2161115136,
+        "ids": [
+            "010060F00AA71194"
         ]
     },
     "70050000007021": {
@@ -36014,11 +36745,10 @@
         "nsuId": 70050000014061,
         "category": null,
         "ratingContent": [
-            "Alcohol Reference",
-            "Language"
+            "In-Game Purchases"
         ],
         "numberOfPlayers": null,
-        "rating": 10,
+        "rating": 6,
         "developer": null,
         "publisher": "AQUIRIS",
         "frontBoxArt": null,
@@ -52085,9 +52815,9 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4cefa0ab62542af69acfc775b8960f1450d872e1aa5f83b276cf8de1ea6b2890.jpg",
         "intro": null,
-        "description": "Wave 2: Guardian of Remembrance (Available October 2021)\n\nIn October, the second wave of Hyrule Warriors: Age of Calamity Expansion Pass content arrives with a newly playable character duo, additional stages, and emotional new story sequences. Defend Hyrule as the quirky duo character, Purah & Robbie, and their array of ancient technology. See how places like the Coliseum and Kakariko Village looked 100 years in the past in brand-new story stages. Learn more about the Champions and the mysterious Guardian in emotional new story sequences as the fight for Hyrule\u2019s future continues! \n\n\u30fbNew story \u2013 Battle for Kakariko Village, Battle of Goponga village, and more \u2013 \n\u30fbNew stage \u2013 Coliseum, etc.\n\u30fbNew playable characters \u2013 Purah & Robbie, and one more\n\u30fbAdded actions for existing characters",
+        "description": "Wave 2: Guardian of Remembrance (Available October 29, 2021)\n\nIn October, the second wave of Hyrule Warriors: Age of Calamity Expansion Pass content arrives with a newly playable character duo, additional stages, and emotional new story sequences. Defend Hyrule as the quirky duo character, Purah & Robbie, and their array of ancient technology. See how places like the Coliseum and Kakariko Village looked 100 years in the past in brand-new story stages. Learn more about the Champions and the mysterious Guardian in emotional new story sequences as the fight for Hyrule\u2019s future continues! \n\n\u30fbNew story \u2013 Battle for Kakariko Village, Battle of Goponga village, and more \u2013 \n\u30fbNew stage \u2013 Coliseum, etc.\n\u30fbNew playable characters \u2013 Purah & Robbie, and one more\n\u30fbAdded actions for existing characters",
         "languages": null,
-        "size": 0
+        "size": 1195376640
     },
     "70050000025935": {
         "id": "01002B00111A3002",
@@ -53903,7 +54633,7 @@
         ]
     },
     "70050000026729": {
-        "id": null,
+        "id": "01009EA00B7152BF",
         "rightsId": null,
         "name": "Horizon Chase Turbo - Senna Forever",
         "version": null,
@@ -53934,7 +54664,10 @@
         "intro": "A homage to the legendary driver Ayrton Senna, this Expansion Pack brings a completely new set of cars, tracks, and features to the game, inspired by Senna's career.",
         "description": "RELIVE THE GREATEST AYRTON SENNA\u2019S MOMENTS\nIn Horizon Chase Turbo - Senna Forever you will follow the steps of the legendary Brazilian pilot on an exclusive 5-chapters Single Player Career Mode. \nFeel the heat of the moment from the inside of a cockpit with the brand new first-person view (Senna Forever-specific).\nMake tough choices with the new race strategies mechanics (Senna Forever-specific),  choose your car setup considering each race track and weather conditions. \nPursuit over 130 Senna\u2019s Marks on Career Mode, trying to achieve the pilot\u2019s outstanding historical performance.\n\nBECOME A LEGEND YOURSELF\nChoose one of the 18 different teams and dominate the world circuit racing through three different categories on the Championship Mode. Unlock more than 30 cars to play in this game mode.\n\nRACE ENDLESS CHAMPIONSHIPS WITH YOUR FRIENDS\nPlaying alone or up to 4 local players, experience unique runs on each championship with the unpredictability of randomized weathers, tracks and competitors.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "01009EA00B7152BF"
+        ]
     },
     "70050000026745": {
         "id": "0100E1F01367506F",
@@ -60292,7 +61025,7 @@
         ]
     },
     "70050000029743": {
-        "id": null,
+        "id": "010099F013899001",
         "rightsId": null,
         "name": "World War Z - Lobo Weapon Pack",
         "version": null,
@@ -60319,10 +61052,13 @@
         "intro": null,
         "description": "Make your last stand count with the infamous, ultimate zombie-slaying tool and three golden weapon skins. The Lobo is the definitive all-purpose melee weapon to survive the overwhelming zombie hordes of World War Z. Specifically designed for close quarters combat, the dual-bladed spade makes quick work of undead heads to better keep the ravenous at bay. When you tire of swinging for the fences, deck out your assault rifle, SMG and pistol with special golden skins.\n\nThis DLC includes:  \n- Lobo Melee Weapon\n- Golden ARK-103 Assault Rifle \n- Golden Keris V10 SMG \n- Golden 1911 Protector",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "010099F013899001"
+        ]
     },
     "70050000029744": {
-        "id": null,
+        "id": "010099F013899002",
         "rightsId": null,
         "name": "World War Z - Biohazard Weapon Pack",
         "version": null,
@@ -60349,10 +61085,13 @@
         "intro": null,
         "description": "Split heads in style with an all new, tactical tomahawk designed to cut through infected flesh like a knife through butter. Made from a robust steel, it will easily outlive its five year guarantee. An ergonomic rubber grip means you can hack and slash to your hearts content while avoiding any nasty repetitive strain injuries. And, for when you need more than a blade, go silent and take out the trash with these custom, bio-hazard weapon variants and skins.\n\nThis DLC includes:  \n- Tomahawk Melee Weapon\n- Biohazard M500 Shotgun \n- Biohazard TMP5 SMG \n- Biohazard XTAR-95 Rifle",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "010099F013899002"
+        ]
     },
     "70050000029745": {
-        "id": null,
+        "id": "010099F013899003",
         "rightsId": null,
         "name": "World War Z - Special Operations Forces Pack",
         "version": null,
@@ -60379,10 +61118,13 @@
         "intro": null,
         "description": "Devastate the hordes with the tools of a Tier 1 operator. The Special Operations Forces pack comes with three custom firearm setups and a single melee weapon, all coated in the iconic paint job of a modern, special forces unit. If blunt force trauma is your thing, the Hammer will tenderize innumerable zeke with the greatest of ease, while it\u2019s ergonomic grip keeps you blister free. All firearms are silenced so you can strike like a ninja from the shadows. \n\nThis DLC includes:  \n- Hammer Melee Weapon\n- SOF ARK-103 Assault Rifle \n- SOF HW416 Assault Carbine \n- SOF Senjata PDW",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "010099F013899003"
+        ]
     },
     "70050000029746": {
-        "id": null,
+        "id": "010099F013899004",
         "rightsId": null,
         "name": "World War Z - The Professionals Pack",
         "version": null,
@@ -60409,10 +61151,13 @@
         "intro": null,
         "description": "Dripping with attitude, these new threads will not only make you feel like a lean, mean zeke-slaying machine, they will also turn heads among your fellow survivors as you mow down the hordes in style. Kimiko gets a top-of-the-line, military contractor grade makeover while Mizrahi lets out her wild side. Ivan mixes classic Russian style with a modern twist, and Tashaun goes full first responder with a kitted out firefighter suit.",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "010099F013899004"
+        ]
     },
     "70050000029747": {
-        "id": null,
+        "id": "010099F013899005",
         "rightsId": null,
         "name": "World War Z - War Heroes Pack",
         "version": null,
@@ -60439,10 +61184,13 @@
         "intro": null,
         "description": "Fight for the future of the human race with these four unshakeable heroes of the war against the zeke. These unique outfits will transform these characters into deadly and courageous warriors. Tatsuo shows off his samurai ancestry with a modern flair. Arnetta breaks out her leathers and goes full biker. Oksana is kitted out for rapid aid on the battlefield. And Alahey switches his standard issue gear for something a little more stylish.",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "010099F013899005"
+        ]
     },
     "70050000029748": {
-        "id": null,
+        "id": "010099F013899006",
         "rightsId": null,
         "name": "World War Z - Last Aid Pack",
         "version": null,
@@ -60469,10 +61217,13 @@
         "intro": null,
         "description": "When all other hope is lost, it\u2019s time to break out the Last-Aid weapon pack. You are the last line of defense against the unyielding masses of the undead and you deserve custom weapons that reflect that honor. The red, white and gun-metal grey weapon skins for your silenced Sporting Carbine, Combat Shotgun and Battle Rifle will stand out like a beacon in the darkness. What\u2019s more, this pack comes with a perfectly balanced unique hand axe, ideal for making sure those zeds stay down this time. \n\nThis DLC includes:  \n- Axe Melee Weapon\n- Last Aid PAC-15 Sporting Carbine\n- Last Aid S890 Combat Shotgun\n- Last Aid HAMR-17 Battle Rifle",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "010099F013899006"
+        ]
     },
     "70050000029749": {
-        "id": null,
+        "id": "010099F013899008",
         "rightsId": null,
         "name": "World War Z - Signature Weapons Pack",
         "version": null,
@@ -60499,7 +61250,10 @@
         "intro": null,
         "description": "If you\u2019re planning to slay the undead swarms in style or purge the zombie hordes with panache, then the Signature Weapons Pack is what you\u2019ve been looking for. With the personalities of some of WWZ\u2019s most memorable characters shining through in their weapons of choice, whether it\u2019s Kimiko\u2019s PAC-15 Sporting Carbine, Bunko\u2019s Gal 9 Compact SMG, Angel\u2019s Casull 6 Revolver or Sergei\u2019s Dunali SxS Shotgun, you\u2019ll have a firearm for any occasion.\n\nThis DLC includes:  \n- Kimiko\u2019s PAC-15 Sporting Carbine\n- Bunko\u2019s Gal 9 Compact SMG\n- Angel\u2019s Casull 6 Revolver\n- Sergei\u2019s Double Barreled Shotgun",
         "languages": null,
-        "size": 0
+        "size": 3145728,
+        "ids": [
+            "010099F013899008"
+        ]
     },
     "70050000029856": {
         "id": "010051C0134F9004",
@@ -66621,7 +67375,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/73b9445ddfc0d8b29f2ab14a129281a3834c18f7deaa24463ac96e686358ec6b.jpg",
         "intro": "Pok\u00e9mon\u2122 Brilliant Diamond and Pok\u00e9mon\u2122 Shining Pearl Double Pack",
-        "description": "A double pack containing the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl games are also available for purchase as a packaged version or as a digital downloadable version. The packaged version includes 1 physical Pok\u00e9mon Brilliant Diamond game and 1 physical Pok\u00e9mon Shining Pearl game. The downloadable version includes digital versions of both the Pok\u00e9mon Brilliant Diamond game and the Pok\u00e9mon Shining Pearl game, and both games will be automatically be downloaded to the system tied to the Nintendo Account that made the purchase. If you purchase either the physical or digital double pack, you will receive a 200 Pok\u00e9 Ball\u2122 bonus via download codes* that can be entered in the Mystery Gift** feature in your game!\n\nPreorder for a special Pok\u00e9mon Egg and download the digital version for Quick Balls!\n\nA Manaphy Egg will be gifted to early purchasers of either the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl games. You can receive it by choosing Get via internet in the Mystery Gift*** feature in your game, up until Monday February 21, 2022 at 4:59PM PT. Then, leave Manaphy with the Pok\u00e9mon Nursery to get an Egg containing Phione! \n\nIf you purchase and download the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl game from Nintendo eShop by Monday February 21, 2022 at 4:59PM PT, you\u2019ll receive a code**** that can be redeemed through the Mystery Gift*** feature for 12 Quick Balls, or 24 Quick Balls if you purchase the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl Double Pack! If you use a Quick Ball right after a battle starts, you will have a better chance of catching a wild Pok\u00e9mon right away. The code will be valid through Monday, February 28, 2022 at 4:59PM PT.",
+        "description": "A double pack containing the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl games are also available for purchase as a packaged version or as a digital downloadable version. The packaged version includes 1 physical Pok\u00e9mon Brilliant Diamond game and 1 physical Pok\u00e9mon Shining Pearl game. The downloadable version includes digital versions of both the Pok\u00e9mon Brilliant Diamond game and the Pok\u00e9mon Shining Pearl game, and both games will be automatically be downloaded to the system tied to the Nintendo Account that made the purchase. If you purchase either the physical or digital double pack, you will receive a 200 Pok\u00e9 Ball\u2122 bonus via download codes* that can be entered in the Mystery Gift** feature in your game!\n\nGet a special Pok\u00e9mon Egg and the Platinum Style outfit as special early-purchase bonus!\n\nA Manaphy Egg will be gifted to early purchasers of either the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl games. You can receive it by choosing Get via internet in the Mystery Gift* feature in your game, up until Monday February 21, 2022 at 3:59PM PT. Then, leave Manaphy with the Pok\u00e9mon Nursery to get an Egg containing Phione! \n\nA gift of the \u201cPlatinum Style\u201d in-game outfit will also be given as a perk for early purchase of the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl games. You can receive it by choosing Get via Internet from the Mystery Gift* function in game through Monday, February 21, 2022 at 3:59PM PT. You can change your outfit at Metronome Style Shop in Veilstone City. By wearing the Platinum Style, you can continue through your adventure dressed like the protagonist of the Pok\u00e9mon Platinum Version game!\n\nDownload the digital version for Quick Balls!\n\nIf you purchase and download the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl game from Nintendo eShop by Monday February 21, 2022 at 3:59PM PT, you\u2019ll receive a code** that can be redeemed through the Mystery Gift* feature for 12 Quick Balls, or 24 Quick Balls if you purchase the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl Double Pack! If you use a Quick Ball right after a battle starts, you will have a better chance of catching a wild Pok\u00e9mon right away. The code will be valid through Monday, February 28, 2022 at 3:59PM PT.",
         "languages": null,
         "size": 0
     },
@@ -67647,7 +68401,7 @@
         "intro": null,
         "description": "The Swarm Comes to the Nintendo Switch\u2122\n\nWorld War Z, the heart-pounding zombie shooter that has captivated over 15 million players now arrives on Nintendo Switch\u2122. Inspired by the Paramount Pictures film, World War Z focuses on fast-paced third-person shooter gameplay featuring swarms of hundreds of zombies. \n\nHumanity is on the brink of extinction. From New York to Moscow, Jerusalem and more, the undead apocalypse continues to spread. As the end looms, a hardened few band together to defeat the horde and outlive the dead.\n\nThis Deluxe Edition contains the multi-million selling World War Z game along with 28 unique bonus items including special character outfits, weapon skins and variants.\n",
         "languages": null,
-        "size": 7104102400
+        "size": 7126122496
     },
     "70070000012852": {
         "id": null,
