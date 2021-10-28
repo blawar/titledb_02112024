@@ -15848,6 +15848,51 @@
         ],
         "size": 442499072
     },
+    "70010000032445": {
+        "id": "010072400E04A000",
+        "rightsId": null,
+        "name": "Pok\u00e9mon Caf\u00e9 ReMix",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70010000032445,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8176a614e30d1e87447e951f2b53c3b135669eb3933ff3e4ed3318374b87a259.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4fd9c495f123422954f281cd089241647af1ee54048323df50a5e8e319e91595.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df73bd3583e155dbb8eec027d460450637362cddaa33324b5257d9c50ebc8985.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e5bba93208a811359c212e77c1827904fab6d00f545812c39fba3647e0f307e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/89bcc2c3182a386dced41c0858350d63a0aab55dbe5c36611683dd9927005ba9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/43082d4fc8985f46c82ad5fa26bc9d1e233fe218e24775bdd6f130cad77f4905.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb0c5261e8d960c51bb0783971e7c86956704669ccdf00a6e2c6397c81519b28.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a1039e4eceebadbd0fecf439f787a7415d975f347d2914b9b4e9a0ca54a41fc0.jpg",
+        "intro": "Solve puzzles to run your own caf\u00e9 and collect adorable Pok\u00e9mon\u2122 helpers",
+        "description": "Link together Pok\u00e9mon icons to clear puzzles as you work to build up your very own caf\u00e9 in Pok\u00e9mon Caf\u00e9 ReMix, a free-to-start game for Nintendo Switch\u2122 systems! Recruit Pok\u00e9mon to help out at the caf\u00e9 (in their stylish uniforms) by building friendships while expanding your caf\u00e9 and menu offerings by completing puzzles. Each Pok\u00e9mon staff member has a Caf\u00e9 Skill that will come in handy solving puzzles!\n\nComplete touch-based challenges in this free-to-start puzzle game\n\nStrategize the best way to clear Pok\u00e9mon icons within the turn limit in adorable-yet-challenging puzzles. Use your puzzle skills to complete the objective and employ the help of every Pok\u00e9mon\u2019s Caf\u00e9 Skills for some extra oomph! In addition to Caf\u00e9 Skills, each Pok\u00e9mon staff member has a specialty and specialty gimmicks they can destroy with ease\u2014Eevee can make quick work of sugar cubes, for example. Match a Pok\u00e9mon\u2019s specialty with the drink or dish you\u2019re making to get bonuses in puzzles.\n\nRemixed fun for everyone\n\nPok\u00e9mon Caf\u00e9 ReMix is a revamped version of the original Pok\u00e9mon Caf\u00e9 Mix game. Puzzles have been refreshed and there are even more Pok\u00e9mon to discover and recruit. Your Pok\u00e9mon may outfit themselves in caf\u00e9 chic with newly added dress-up options and can improve their abilities through training puzzles! If you\u2019ve played the original, your golden acorns will all transfer over to Pok\u00e9mon Caf\u00e9 ReMix.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 251658240
+    },
     "70010000032459": {
         "id": "010017C012726000",
         "rightsId": null,
@@ -16361,7 +16406,11 @@
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/82402d00e7686516531616782a7ed5eeae983b04a1863c33c51607656a26d5e1.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/17af3cce71dcfd16cb58add66880ca9f404781e90ce366f99eebf6f4ef235c1b.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/328598fd66a89bc81b5544f16d0f20f67c2214d98ee637eccc002128d723cf33.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/328598fd66a89bc81b5544f16d0f20f67c2214d98ee637eccc002128d723cf33.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87e0aa78f101b0c6eafcae4462e300162b8191a77ef6feb4fea98ae4de87f48d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dcc785221b7b0d99b6789de136bb34d1433e2c2c38e5e2a0380c34b0fcfd99e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a9fe65aa892854b9839f972dfe560944d252fec43f8c4a3f689390d5bde4ee7a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60120ab906a5ca4235b1c95aef4d28833545899137fa80ea3eae87b1a4e44e43.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3691bc555a04750bc241438de748a2e8623ffcb2c2f49a0e622c8f99f9e93f8c.jpg",
         "intro": "Embark on a swamptastic adventure to grow into the biggest, baddest gator of your swamp town!",
@@ -20577,7 +20626,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37fdb03bef333221200ace5554c0d43e17ab547d8c3285d444d71808ee52f83a.jpg",
         "intro": "Revisit the Sinnoh region and story of Pok\u00e9mon\u2122 Diamond Version",
-        "description": "Experience the nostalgic story from the Pok\u00e9mon Diamond Version game in a reimagined adventure, Pok\u00e9mon\u2122 Brilliant Diamond, now on the Nintendo Switch\u2122 system! Adventures in the Pok\u00e9mon Brilliant Diamond game will take place in the familiar Sinnoh region. Rich in nature and with mighty Mount Coronet at its heart, Sinnoh is a land of many myths passed down through the ages. You\u2019ll choose either Turtwig, Chimchar, or Piplup to be your first partner Pok\u00e9mon and then set off on your journey to become the Champion of the Pok\u00e9mon League. Along the way, you\u2019ll run into the mysterious organization Team Galactic, and be able to encounter the Legendary Pok\u00e9mon Dialga.\n\nExplore the revamped Grand Underground or put on a Super Contest Show\n\nThe Underground from the Pok\u00e9mon Diamond Version game has been powered up and is now called the Grand Underground. Here, you can dig up valuable treasure and Pok\u00e9mon Fossils, create your own Secret Base, and catch Pok\u00e9mon in places called Pok\u00e9mon Hideaways. When you aren\u2019t exploring in the Grand Underground, enter a Super Contest Show! Super Contest Shows are popular events in the Sinnoh region, each put on by four performers and their partner Pok\u00e9mon, who work together to dance and show off their performance skills. You can also adventure in the Grand Underground or put on a Super Contest Show with other players through the local* communication or online** communication of your Nintendo Switch system!\n\nWalk with your Pok\u00e9mon, change up your style, and customize your Pok\u00e9 Balls\u2122\n\nChoose a Pok\u00e9mon that you\u2019ve befriended during your journey to walk along behind you in the game. Depending on the Pok\u00e9mon, you\u2019ll see different gestures or ways of walking, and when you talk to your Pok\u00e9mon, it will respond. You\u2019ll also be able to add your own personal style! Choose a variety of outfits and coordinate tops and bottoms. Some are based around Pok\u00e9mon motifs and others change your hairstyle. You can even use Capsule Decoration to add stickers to customize the effects that appear when your Pok\u00e9mon comes out of its Pok\u00e9 Ball!\n\nPreorder for a special Pok\u00e9mon Egg and download the digital version for Quick Balls!\n\nA Manaphy Egg will be gifted to early purchasers of either the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl games. You can receive it by choosing Get via internet in the Mystery Gift*** feature in your game, up until Monday February 21, 2022 at 4:59PM PT. Then, leave Manaphy with the Pok\u00e9mon Nursery to get an Egg containing Phione! \n\nIf you purchase and download the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl game from Nintendo eShop by Monday February 21, 2022 at 4:59PM PT, you\u2019ll receive a code**** that can be redeemed through the Mystery Gift*** feature for 12 Quick Balls, or 24 Quick Balls if you purchase the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl Double Pack! If you use a Quick Ball right after a battle starts, you will have a better chance of catching a wild Pok\u00e9mon right away. The code will be valid through Monday, February 28, 2022 at 4:59PM PT.\n",
+        "description": "Experience the nostalgic story from the Pok\u00e9mon Diamond Version game in a reimagined adventure, Pok\u00e9mon\u2122 Brilliant Diamond, now on the Nintendo Switch\u2122 system! Adventures in the Pok\u00e9mon Brilliant Diamond game will take place in the familiar Sinnoh region. Rich in nature and with mighty Mount Coronet at its heart, Sinnoh is a land of many myths passed down through the ages. You\u2019ll choose either Turtwig, Chimchar, or Piplup to be your first partner Pok\u00e9mon and then set off on your journey to become the Champion of the Pok\u00e9mon League. Along the way, you\u2019ll run into the mysterious organization Team Galactic, and be able to encounter the Legendary Pok\u00e9mon Dialga.\n\nExplore the revamped Grand Underground or put on a Super Contest Show\n\nThe Underground from the Pok\u00e9mon Diamond Version game has been powered up and is now called the Grand Underground. Here, you can dig up valuable treasure and Pok\u00e9mon Fossils, create your own Secret Base, and catch Pok\u00e9mon in places called Pok\u00e9mon Hideaways. When you aren\u2019t exploring in the Grand Underground, enter a Super Contest Show! Super Contest Shows are popular events in the Sinnoh region, each put on by four performers and their partner Pok\u00e9mon, who work together to dance and show off their performance skills. You can also adventure in the Grand Underground or put on a Super Contest Show with other players through the local* communication or online** communication of your Nintendo Switch system!\n\nWalk with your Pok\u00e9mon, change up your style, and customize your Pok\u00e9 Balls\u2122\n\nChoose a Pok\u00e9mon that you\u2019ve befriended during your journey to walk along behind you in the game. In the relaxing Amity Square you can walk with up to 6 Pok\u00e9mon! Depending on the Pok\u00e9mon, you\u2019ll see different gestures or ways of walking, and when you talk to your Pok\u00e9mon, it will respond. You\u2019ll also be able to add your own personal style! Choose a variety of outfits and coordinate tops and bottoms. Some are based around Pok\u00e9mon motifs and others change your hairstyle. You can even use Capsule Decoration to add stickers to customize the effects that appear when your Pok\u00e9mon comes out of its Pok\u00e9 Ball!\n\nGet a special Pok\u00e9mon Egg and the Platinum Style outfit as special early-purchase bonus!\n\nA Manaphy Egg will be gifted to early purchasers of either the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl games. You can receive it by choosing Get via internet in the Mystery Gift*** feature in your game, up until Monday February 21, 2022 at 3:59PM PT. Then, leave Manaphy with the Pok\u00e9mon Nursery to get an Egg containing Phione! \n\nDownload the digital version for Quick Balls!\n\nIf you purchase and download the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl game from Nintendo eShop by Monday February 21, 2022 at 3:59PM PT, you\u2019ll receive a code**** that can be redeemed through the Mystery Gift feature for 12 Quick Balls, or 24 Quick Balls if you purchase the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl Double Pack! If you use a Quick Ball right after a battle starts, you will have a better chance of catching a wild Pok\u00e9mon right away. The code will be valid through Monday, February 28, 2022 at 3:59PM PT.\n",
         "languages": [
             "ja",
             "en",
@@ -20626,7 +20675,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/17372def2eff2da3820113a9acecc15ae3d98d11024b0c6de59624835085eac0.jpg",
         "intro": "Revisit the Sinnoh region and story of Pok\u00e9mon\u2122 Pearl Version",
-        "description": "Experience the nostalgic story from the Pok\u00e9mon Pearl Version game in a reimagined adventure, Pok\u00e9mon\u2122 Shining Pearl, now on the Nintendo Switch\u2122 system! Adventures in the Pok\u00e9mon Shining Pearl game will take place in the familiar Sinnoh region. Rich in nature and with mighty Mount Coronet at its heart, Sinnoh is a land of many myths passed down through the ages. You\u2019ll choose either Turtwig, Chimchar, or Piplup to be your first partner Pok\u00e9mon and then set off on your journey to become the Champion of the Pok\u00e9mon League. Along the way, you\u2019ll run into the mysterious organization Team Galactic, and be able to encounter the Legendary Pok\u00e9mon Palkia.\n\nExplore the revamped Grand Underground or put on a Super Contest Show\n\nThe Underground from the Pok\u00e9mon Pearl Version game has been powered up and is now called the Grand Underground. Here, you can dig up valuable treasure and Pok\u00e9mon Fossils, create your own Secret Base, and catch Pok\u00e9mon in places called Pok\u00e9mon Hideaways. When you aren\u2019t exploring in the Grand Underground, enter a Super Contest Show! Super Contest Shows are popular events in the Sinnoh region, each put on by four performers and their partner Pok\u00e9mon, who work together to dance and show off their performance skills. You can also adventure in the Grand Underground or put on a Super Contest Show with other players through the local* communication or online** communication of your Nintendo Switch system!\n\nWalk with your Pok\u00e9mon, change up your style, and customize your Pok\u00e9 Balls\u2122\n\nChoose a Pok\u00e9mon that you\u2019ve befriended during your journey to walk along behind you in the game. Depending on the Pok\u00e9mon, you\u2019ll see different gestures or ways of walking, and when you talk to your Pok\u00e9mon, it will respond. You\u2019ll also be able to add your own personal style! Choose a variety of outfits and coordinate tops and bottoms. Some are based around Pok\u00e9mon motifs and others change your hairstyle. You can even use Capsule Decoration to add stickers to customize the effects that appear when your Pok\u00e9mon comes out of its Pok\u00e9 Ball!\n\nPreorder for a special Pok\u00e9mon Egg and download the digital version for Quick Balls!\n\nA Manaphy Egg will be gifted to early purchasers of either the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl games. You can receive it by choosing Get via internet in the Mystery Gift*** feature in your game, up until Monday February 21, 2022 at 4:59PM PT. Then, leave Manaphy with the Pok\u00e9mon Nursery to get an Egg containing Phione!\n\nIf you purchase and download the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl game from Nintendo eShop by Monday February 21, 2022 at 4:59PM PT, you\u2019ll receive a code**** that can be redeemed through the Mystery Gift*** feature for 12 Quick Balls, or 24 Quick Balls if you purchase the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl Double Pack! If you use a Quick Ball right after a battle starts, you will have a better chance of catching a wild Pok\u00e9mon right away. The code will be valid through Monday, February 28, 2022 at 4:59PM PT.",
+        "description": "Experience the nostalgic story from the Pok\u00e9mon Pearl Version game in a reimagined adventure, Pok\u00e9mon\u2122 Shining Pearl, now on the Nintendo Switch\u2122 system! Adventures in the Pok\u00e9mon Shining Pearl game will take place in the familiar Sinnoh region. Rich in nature and with mighty Mount Coronet at its heart, Sinnoh is a land of many myths passed down through the ages. You\u2019ll choose either Turtwig, Chimchar, or Piplup to be your first partner Pok\u00e9mon and then set off on your journey to become the Champion of the Pok\u00e9mon League. Along the way, you\u2019ll run into the mysterious organization Team Galactic, and be able to encounter the Legendary Pok\u00e9mon Palkia.\n\nExplore the revamped Grand Underground or put on a Super Contest Show\n\nThe Underground from the Pok\u00e9mon Pearl Version game has been powered up and is now called the Grand Underground. Here, you can dig up valuable treasure and Pok\u00e9mon Fossils, create your own Secret Base, and catch Pok\u00e9mon in places called Pok\u00e9mon Hideaways. When you aren\u2019t exploring in the Grand Underground, enter a Super Contest Show! Super Contest Shows are popular events in the Sinnoh region, each put on by four performers and their partner Pok\u00e9mon, who work together to dance and show off their performance skills. You can also adventure in the Grand Underground or put on a Super Contest Show with other players through the local* communication or online** communication of your Nintendo Switch system!\n\nWalk with your Pok\u00e9mon, change up your style, and customize your Pok\u00e9 Balls\u2122\n\nChoose a Pok\u00e9mon that you\u2019ve befriended during your journey to walk along behind you in the game. In the relaxing Amity Square you can walk with up to 6 Pok\u00e9mon! Depending on the Pok\u00e9mon, you\u2019ll see different gestures or ways of walking, and when you talk to your Pok\u00e9mon, it will respond. You\u2019ll also be able to add your own personal style! Choose a variety of outfits and coordinate tops and bottoms. Some are based around Pok\u00e9mon motifs and others change your hairstyle. You can even use Capsule Decoration to add stickers to customize the effects that appear when your Pok\u00e9mon comes out of its Pok\u00e9 Ball!\n\nGet a special Pok\u00e9mon Egg and the Platinum Style outfit as special early-purchase bonus!\n\nA Manaphy Egg will be gifted to early purchasers of either the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl games. You can receive it by choosing Get via internet in the Mystery Gift*** feature in your game, up until Monday February 21, 2022 at 3:59PM PT. Then, leave Manaphy with the Pok\u00e9mon Nursery to get an Egg containing Phione! \n\nDownload the digital version for Quick Balls!\n\nIf you purchase and download the Pok\u00e9mon Brilliant Diamond or Pok\u00e9mon Shining Pearl game from Nintendo eShop by Monday February 21, 2022 at 3:59PM PT, you\u2019ll receive a code**** that can be redeemed through the Mystery Gift feature for 12 Quick Balls, or 24 Quick Balls if you purchase the Pok\u00e9mon Brilliant Diamond and Pok\u00e9mon Shining Pearl Double Pack! If you use a Quick Ball right after a battle starts, you will have a better chance of catching a wild Pok\u00e9mon right away. The code will be valid through Monday, February 28, 2022 at 3:59PM PT.",
         "languages": [
             "ja",
             "en",
@@ -20854,7 +20903,7 @@
         "languages": [
             "en"
         ],
-        "size": 843055104
+        "size": 847249408
     },
     "70010000040161": {
         "id": "01003BF014B18000",
@@ -22598,7 +22647,7 @@
             "fr",
             "de"
         ],
-        "size": 15143534592
+        "size": 15171846144
     },
     "70010000042731": {
         "id": "0100A300147D0000",
@@ -22843,7 +22892,7 @@
             "https://img-eshop.cdn.nintendo.net/i/e7cbc2ef35d7d782f0570c9a506c6432eaac258187cb4fa539b155d1fe54f00e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/4ffb6e6db4487a1b4c923993b6e16d1d07674c95f0d84036b3415dd1c61adf49.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d2ab6aefbc004d6314376e540a3ab5b99fd6caa764919b56493b793bbbd3413a.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ba4754b0846a1372f54cde72caebbdde5f98c7555723d6362ced6f82c2f4673a.jpg",
         "intro": "Join bounty hunter Samus Aran as she tries to escape a deadly alien world plagued by a mechanical menace",
         "description": "Upon investigating a mysterious transmission on Planet ZDR, Samus faces a mysterious foe that traps her in this dangerous world. The remote planet has been overrun by vicious alien lifeforms and murderous robots called E.M.M.I. Hunt or be hunted as you make your way through a labyrinth of enemies in Samus\u2019 most intense side-scrolling adventure yet.\n\nSamus is more agile and capable than ever\n\nGuide Samus Aran, an intergalactic bounty hunter raised by an ancient tribe, and traverse the many environments of a dangerous world. Parkour over obstacles, slide through tight spaces, counter enemies, and battle your way through the planet. Through her countless missions, Samus has never experienced a threat like the dread of ZDR.\n\nPower up and find more ways to explore and secrets to uncover\n\nGain abilities and return to previous areas to find new areas and hidden upgrades in classic Metroid\u2122 gameplay. Planet ZDR\u2019s sprawling map is home to many secrets to discover and powers to find. You\u2019ll need to be prepared to evade and destroy E.M.M.I. robots and overcome the dread plaguing ZDR.\n\nA new Samus amiibo\u2122 figure featuring her suit from Metroid Dread and an E.M.M.I. amiibo figure are available in a 2-pack set. Scan the Samus amiibo for an extra energy tank to increase your health by 100; additionally, the Samus amiibo can be tapped again to receive health once per day. The E.M.M.I. amiibo grants Samus a Missile Plus tank, increasing her missile capacity by 10; additionally, the E.M.M.I. amiibo can be tapped again to replenish some missiles once per day.",
         "languages": [
@@ -24064,6 +24113,45 @@
             "en"
         ],
         "size": 673185792
+    },
+    "70010000044180": {
+        "id": "010006C015C4A000",
+        "rightsId": null,
+        "name": "X-Force Genesis",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211112,
+        "nsuId": 70010000044180,
+        "category": [
+            "Shooter",
+            "Arcade",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Cube Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c01ab5ad87de8be2f146634b3a1a1f093eb6270198cc12fbd15e365faed8ed97.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e3d1093de13e53573e83a4de43df6b907db74afbb1ca070b76fae16a0a0749f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30713ded8414ea8f0605c70a0954b594b1c2b5297ae21bd8b87c96be48876b63.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cadef59ecfb69a67d7e73d0d29ccc048bd3a1dfd0773bd660835b55c85c0677c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9bd806128ae7ea88e10a80458493d501f29c203e37559bbab2f4db4f9e1071cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a8d0e59e29d8a21a452d7c556c0603830331f84031c0094928f933a4ca21c02.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6917628dab2b667643293dfd2c6bc65ec9f9ba0dc339bb126af96e8be6b8f863.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9a4f184e746292c37c88a17584dc5149c6ac821cb0334e84195d44bc0e73e364.jpg",
+        "intro": "Join the X-Force Squad and stop a hybrid race from taking over your planet",
+        "description": "A game that is a love letter to fans of shmups from the 80s/90s. X-Force Genesis is a space shooter created from amazing graphics and insane boss battles. Join this epic adventure and don't let the enemies take over the Genesis planet",
+        "languages": [
+            "en"
+        ],
+        "size": 480247808
     },
     "70010000044225": {
         "id": "01008B5015C8E000",
@@ -26184,6 +26272,46 @@
         ],
         "size": 122683392
     },
+    "70010000046184": {
+        "id": "0100465016540000",
+        "rightsId": null,
+        "name": "Captain Backwater",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211104,
+        "nsuId": 70010000046184,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Strategy",
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Asylum Square Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/11d1f8d32b62f705dc869713c002f04727ef44fab59f17c21a1e7279218b8589.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/440274ede7671b4ce598a2b45878e445ec4905049cf669d9f9002cde4dfddf5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04a70655da3c0a923be1aa6b1ab6821b942619cb9e17302767c99b23f46b722b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58762c83a6bd544df0eaabf1ba097b7b8069a36d5a8e27cafb1c6af908c7032b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14e9c0860bda0f5a6e7bd236e94ce5e21f899b2f707a74c13de5c8ccd19742fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cbb11435379103191a8b995fcfafbf203cced6578d65e9a6b20a8da8b517f5ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1340da5f63b90028da20eaee126359dd3e5666ec5185d6e65fea3dd74e4fb44f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aa3ed75620b77a86e09c46dff02350864e62a4f3836f0abf4657e493b7acb5b5.jpg",
+        "intro": "The puzzle game \nthat challenges your mind!",
+        "description": "Play Captain Backwater today and get ready for one of the greatest pirate puzzle adventures of all time. Meet Captain Backwater, the 'scariest' pirate in the Caribbean, and help him plunder 100 treasure caves.\n\nEach cave is a puzzle that demands everything from your logical thinking skills. Move the precious items around to make pairs. Find the right strategy to avoid obstacles or use one of the many magic items. Use the bomb to blow up unpleasant objects or use the sword to remove obstacles that get in your way. Analyze the tricky arrow mazes to find all the pieces of the cursed amulet and become the most feared pirate of the Caribbean.\n\nAre you clever enough to find all the treasures?\n\n\n(Testimonials)\n\"You'll find Captain Backwater a rather charming, straightforward puzzle game.\" (Avault)\n\n\"I recommend it to gamers looking for something new for their puzzle collections, parents who want to get their kids hooked on the puzzling games they love, and anyone who appreciates a good, piratey \"YAAAARRR!\"\" (Brutal Gamer)\n\n\"Never pay more than 20 bucks for a computer game.\" (Guybrush Threepwood)",
+        "languages": [
+            "en",
+            "de"
+        ],
+        "size": 50331648
+    },
     "70010000046233": {
         "id": "01009CE01657E000",
         "rightsId": null,
@@ -26741,6 +26869,56 @@
         ],
         "size": 506462208
     },
+    "70010000046832": {
+        "id": "0100EE701494A000",
+        "rightsId": null,
+        "name": "Tomb of the Mask",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70010000046832,
+        "category": [
+            "Arcade",
+            "Action",
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Digital Purchases"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Happymagenta",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b0ebb895e76409258a6c05d3a7050cc50f57777574969d55da388218a3d90482.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/37b9f010555f8ca512e634fbdf1075e78ad2461d938b55cf7c0767397211d4cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c07c86dbec539eb2101843b68cc76687bca44f72272626a11a27148a30eb7c0f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08faca259d5b63fd7589d9f78f390c1f2840e89811d3599749039bfe79a2171b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b098bad392fe1527075bbada59657bc9c0f93a9112e7cd9daf6e7aa142da4172.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e0b360b9b65fb54e73cda94898901a85b7d09004855fa89f0d9ce140aa4993c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9df21138e38103c75803c7d522bb4f7045d492d21807fb720ad840cb667ebdc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/94c118850d331193dc4a6f16f9242daedb1bb79fe6449d03e1c7da3969942ad7.jpg",
+        "intro": "Test your reflexes in a mysterious labyrinth full of enemies and deadly traps!",
+        "description": "Tomb of the \u041cask is an arcade game with a tortuous labyrinth full of unpredictable twists and turns. Seeking for adventure you get into a tomb where you find a strange mask. You put it on and suddenly realize that you can now climb walls - easily and promptly. And that\u2019s when all the fun begins. \n\nYou\u2019ll face a vast majority of traps, enemies, game mechanics, and power-ups. Take courage and dive into the mask\u2019s world with three breath-taking gaming modes:\n\n\u2022\tStory mode. Here\u2019s a mystic story that complements your gaming experience. Choose the right path and stay on it evading the labyrinth's tricks. Having only speed and an ingenious mind at your disposal, complete 450+ levels and struggle to survive while defeating your enemies.\n\u2022\tArcade mode. An endless survival where you need to advance as far as possible with the highest score. Win it or lose it - everything is in your hands.\n\u2022\tPVP competition mode. It\u2019s a two-player gaming mode where your aim is to get to the exit faster than your rival does. The stakes are as high as never before.\n\nAs far as time doesn\u2019t wait, get a grip and up you go.\nWe love you. Enjoy playing!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 101711872
+    },
     "70010000046850": {
         "id": "0100BD3010934000",
         "rightsId": null,
@@ -27082,6 +27260,51 @@
             "en"
         ],
         "size": 76546048
+    },
+    "70010000047269": {
+        "id": "01008100169AC000",
+        "rightsId": null,
+        "name": "Galaxy Shooter",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211102,
+        "nsuId": 70010000047269,
+        "category": [
+            "Shooter",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Fantastico Studio",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ca700a99f9bfd66ed91925badcf652f4c252c3d09c238417b0a64596b9f05cfd.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/53c4182ea7e65e4044ef39ea788b971013487d6b18b310e313d8985ae77093e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/53ba70cf45ceb9124e95e56c122f7c57b3d08f2e78f28fded954f77054f6a398.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d70997359389991763ba710e676d0cf65ea5e5b6567291ee39ab752e0aa6d1d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7057a56c2604b65970ecfde65bfcf22cc0e164101c303131ca09f77e1dc5d33.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d1b9dc7abf666c34ab3da1dc58733e8e7dde4ceb45673cafd2628888c8e8f67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e3485a0e3eaa8be45a98858ab83b0922cd084ad49f793aa4e264dd593ac28f85.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8dbc63a035c9fc1977d0e17851e29cc96fed988b402baacc890b782e3e5dd385.jpg",
+        "intro": "Take your starship to fight! Cruise the Galaxy and shoot down formations of evil space invaders. Dodge the bullet hell and shoot \u2019em up!",
+        "description": "A single starship can succeed where a squadron will fail? \nReady your sky force for ruthless space battle and fly through the chaotic barrage of asteroids & bullets to attack space invasion in our alien shooter game!\nUpgrade your starship and put an end to the evil Kraathu Empire. Why? \nBecause only you and your space team can restore peace in the galaxy threatened by alien invaders! Shoot \u2019em up, repel their galaxy attack!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt"
+        ],
+        "size": 441450496
     },
     "70030000000042": {
         "id": null,
@@ -28831,6 +29054,35 @@
         "languages": null,
         "size": 935329792,
         "parentId": "0100D7E016684000"
+    },
+    "70030000014923": {
+        "id": null,
+        "rightsId": null,
+        "name": "Metroid\u2122 Dread Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000014923,
+        "category": null,
+        "ratingContent": [
+            "Animated Blood",
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1581252608,
+        "parentId": "010093801237C000"
     },
     "70050000000183": {
         "id": "01007EF00011F001",
@@ -58304,6 +58556,41 @@
             "0100AA60136D3009"
         ]
     },
+    "70050000028625": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Bye Focal\u2122 II",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70050000028625,
+        "category": null,
+        "ratingContent": [
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5bec2b3566ddeb1f9b450e867e09414c5b995fc914665f401d5c5b0f4e7fbf51.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1a3399e5b3e19dc284f886488bcd9cf3a7880e90411fa15188c459b3d17a4f63.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ab7c13d6b03efe627d43cfbe51b7f96df147ce4ef1420d9cb8d24900515580f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea8b3c6b337e2894a812529a61a8a2af8d6e165b7d66eab58648635a675e6a76.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de811db49d3caea3c5b76698a549b83a5601842f5920e92c1ce0db8eff6cf4ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b09b1dda24733297b0030cdeb23e9ea6c155f38f9e33a1fd4dfad51d35e65f37.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0628a14da75d25e575e95ac677b158a898c09ac027f0e7b63aca15c07fe39f13.jpg",
+        "intro": null,
+        "description": "Your opponents will need a good eye exam, because they will have a hard time seeing you when you'll whiz past them at full speed! It's no wonder that Bye Focal\u2122 II has a reputation for being one of the fastest cars ever. You won't believe your eyes, Bye Focal\u2122 II is a real vision: aggressive design, double color and transparent hood to reveal the engine. And of course, performance that will take you to victory in the blink of an eye. \n\nWhat can we say... you don't really see many cars like this around! So get ready to say \"Bye Bye\" to your rivals and \"Hello\" to the finish line!",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000028627": {
         "id": null,
         "rightsId": null,
@@ -63153,6 +63440,285 @@
             "010063B012DC7008"
         ]
     },
+    "70050000030829": {
+        "id": null,
+        "rightsId": null,
+        "name": "\"Bombadgy Mask\" Hunter layered armor piece",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70050000030829,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/27910f4aa9d7b297e38df10cb7aecda0c0daf9ac00c4bf69cfa0b4a9503fa6b4.jpg",
+        "intro": null,
+        "description": "Hunt in style with this special layered armor\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Layered Armor Settings menu of the Item Box.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000030830": {
+        "id": null,
+        "rightsId": null,
+        "name": "\"Royal Dreads\" hairstyle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70050000030830,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e83d8bd68745ab9a7b47aa2e61f9fd07b119e82218a32aa44a12be31cf9cbf00.jpg",
+        "intro": null,
+        "description": "Change up your hunter's look with this special appearance option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000030831": {
+        "id": null,
+        "rightsId": null,
+        "name": "\"Utsushi Cut\" hairstyle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70050000030831,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a6cca29a697a480f5d6b51fb41c732bcb7dc8b5aadc6a9a7e1efa7a975923a48.jpg",
+        "intro": null,
+        "description": "Change up your hunter's look with this special appearance option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000030832": {
+        "id": null,
+        "rightsId": null,
+        "name": "\"DLC 15\" hairstyle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70050000030832,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ce8f8e4105f3e8650ed6929c1a4d1cff7fe90bb00313f31f3cd7db6984549f3b.jpg",
+        "intro": null,
+        "description": "Change up your hunter's look with this special appearance option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000030833": {
+        "id": null,
+        "rightsId": null,
+        "name": "\"DLC 16\" hairstyle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70050000030833,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c7e8fc7ed14b3bbd15a692e23ce9ace2b70621e692e6672fb4b9e13b9dc32536.jpg",
+        "intro": null,
+        "description": "Change up your hunter's look with this special appearance option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000030834": {
+        "id": null,
+        "rightsId": null,
+        "name": "\"DLC 17\" hairstyle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70050000030834,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1f66606e24a585ffebc30b246a33f6bf9ae93855f7ae211db9eb7bed8778abf2.jpg",
+        "intro": null,
+        "description": "Change up your hunter's look with this special appearance option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000030835": {
+        "id": null,
+        "rightsId": null,
+        "name": "\"Special Stickers 6\" sticker set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70050000030835,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1fd0a971c68ac3f6c0454e974ae9db1a722736ccf8f794a15da33f50a265e3ed.jpg",
+        "intro": "These comic panel-style stickers will bring a stylish touch to your hunting chats!",
+        "description": "Have fun communicating with other players using stickers!\n\nThis add-on contains:\n\n\"Special Stickers 6\" sticker set\nThese comic panel-style stickers will bring a stylish touch to your hunting chats!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Chat menu.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000030836": {
+        "id": null,
+        "rightsId": null,
+        "name": "Hunter Voice: Big Bro",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70050000030836,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b8adebbc48e9dcc30a4c3c145a52858f981e56117a5094d4d826a2883e75692f.jpg",
+        "intro": null,
+        "description": "Change up your hunter's sound with this special voice option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000030837": {
+        "id": null,
+        "rightsId": null,
+        "name": "Hunter Voice: Cool Girl",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70050000030837,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9dae2a30f7d0a6260c2815e85e6da383fbe20e392a3e175255c5f484762eb5b9.jpg",
+        "intro": null,
+        "description": "Change up your hunter's sound with this special voice option!\n\nAfter purchasing, select Change Appearance in the Item Box to apply to your hunter.\n\nNote: This item is cosmetic only and does not confer any status benefits.",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000030938": {
         "id": "0100C7D012FB9002",
         "rightsId": null,
@@ -67254,10 +67820,17 @@
         "publisher": "Milestone",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/633146404671edddfddd8563355f8ec7b2f12de50f5b03d1d6cf770ea01ed733.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/faaeaa23b36cd6a068441986c47d45a73d0f7c08c1f1f01175648323f43900b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6111bfd208d48eba29b03dc27f42e1b5d284cc8e14fcf128219d17d0c5eea20.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f846839a553c8192ab627faa231bc502aa9e54f40de72e7d6ed83826a22e744.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/660c6d301c7c330d6a6116a9e9ec07dc10b40e5149f034267c7d3eb983e93c5f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e978f08f27d8049f9c7d7a3ac7b476d26dd5066e11de2b7704dd1bf8d2fd0012.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa1352cbf07d15b091767260f239222a235111da2ed14bb543ebd2f83763058b.jpg",
         "intro": null,
-        "description": "With HOT WHEELS\u2122 Pass Vol. 1 you will get new vehicles, new game experiences and new customizations.\n\nThe pack includes:\n- 1 Expansion\n- 10 Vehicles\n- 3 themed Customization Packs\n- 3 Track Builder modules",
+        "description": "With HOT WHEELS\u2122 Pass Vol. 1 you will get new vehicles, new game experiences and new customizations as soon as they become available.\n\nThe pack includes\n- Batman Expansion: the legendary Batcave to race and build your tracks; 5 vehicles (The Joker\u2122 GT, The Penguin, Batman\u2122 Rebirth, Robin\u2122 2.0T, Armored Batman\u2122); 1 Batman\u2122 branded Customization Pack; 1 Track Builder module (Joker Funhouse Split)\n- 10 vehicles: Bone Shaker\u2122 Unleashed Edition, Street Fighter M. Bison, Superman\u2122, Aston Martin DB5 1963, Street Fighter Blanka, Wonder Woman\u2122, AcceleRacers Deora\u2122 II, TMNT Leonardo, AcceleRacers Bassline\u2122 and Barbie\u2122 Dream Camper\u2122\n- 3 themed Customization Packs: Tropical Wave, Pink Fashion and Holiday Season\n- 3 Track Builder modules: Rolling Boulders, Spinning Tire and Dinopult",
         "languages": null,
         "size": 18874368,
         "ids": []
@@ -68092,6 +68665,36 @@
         "languages": null,
         "size": 9067036672
     },
+    "70070000012636": {
+        "id": null,
+        "rightsId": null,
+        "name": "Voice of Cards: The Isle Dragon Roars Yonah's Toy Box",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211027,
+        "nsuId": 70070000012636,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Suggestive Themes",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "SQUARE ENIX",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/19a94c842457203b8ff93ed7e34a227409b54a4f7d31f051fc695ac1bcb04a9a.jpg",
+        "intro": null,
+        "description": "A set of 7 components that bring to mind the journeys of a certain young man who fought to save his sister.\n\nSet contains:\nDLC: Dress of the Bereft\nDLC: Emil's Pattern\nDLC: Emil Avatar\nDLC: Emil Dice\nDLC: Grimoire Weiss Board\nDLC: Library Desk\nDLC: Devola's Music",
+        "languages": null,
+        "size": 22020096,
+        "ids": []
+    },
     "70070000012639": {
         "id": null,
         "rightsId": null,
@@ -68734,7 +69337,43 @@
         "intro": "Beautiful horror",
         "description": "\u201cFATAL FRAME: Maiden of Black Water\u201d comes to Nintendo Switch\u2122 for the first time to celebrate the 20th anniversary of the horror-adventure series FATAL FRAME.\n\n\u25cf 20th Anniversary Digital Artbook\nThe special anniversary digital artbook features artwork and BGM tracks from past titles of the FATAL FRAME series and can be accessed from the game menu.\n\n\u25cf Past Protagonists Costume Set\nOutfits of various past protagonists of the FATAL FRAME titles will be available in the game:\n- Mio Amakura Outfit (from \u201cFATAL FRAME \u2161 Crimson Butterfly\u201d)\n- Rei Kurosawa Outfit (from \u201cFATAL FRAME \u2162 The Tormented\u201d)\n- Miku Hinasaki Outfit 1 (from \u201cFATAL FRAME\u201d)\n- Miku Hinasaki Outfit 2 (from \u201cFATAL FRAME\u201d)\n- Mayu Amakura Outfit (from \u201cFATAL FRAME \u2161 Crimson Butterfly\u201d)\n- Kei Amakura Outfit (from \u201cFATAL FRAME \u2162 The Tormented\u201d)\n\n[The Story]\nMt. Hikami was once revered as a spiritual place.\nIt housed a unique religion based on beliefs and customs of worshipping water as a deity and is said to have been a site of many gruesome incidents and mysterious phenomena.\nThis mysterious and intertwined story follows three protagonists\u2014Yuri Kozukata, Miu Hinasaki, and Ren Hojo\u2014as each of them explores the ominous Mt. Hikami, a place where many came to die, and the secrets it hides.\n\n[Gameplay]\nPlayers use Camera Obscura, a special camera capable of repelling vengeful ghosts and sealing away their powers, to explore Mt. Hikami and the numerous incidents that took place there in the past.\nThe story is divided into separate missions, and each mission is led by a new protagonist.\nIn addition to sealing the evil spirits that attack you, Camera Obscura can be used to reveal other things that can\u2019t be seen with the human eye and will help in the recovery of lost items.\n\n[New Elements]\n- Improved screen resolution\n- New outfits and accessories\n- New Snap Mode where you can freely place characters and spirits for creative shots\n- Updated Ghost List\n- Updated controls\nand more.\n\n\nNote: \u201cFATAL FRAME: Maiden of Black Water\u201d is also available for purchase on its own. Please be careful to avoid making a redundant purchase. \nNote: The Digital Deluxe Edition set includes the contents of the FATAL FRAME 20th Anniversary DLC. Please be careful to avoid making a redundant purchase.",
         "languages": null,
-        "size": 19484639232
+        "size": 19512950784
+    },
+    "70070000012991": {
+        "id": null,
+        "rightsId": null,
+        "name": "FATAL FRAME 20th Anniversary Celebration DLC",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211028,
+        "nsuId": 70070000012991,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Suggestive Themes",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/df32cd0021ed2914f2220740eb604f9eaf20fa8e1aa512f0ca4678879423aafb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c1dbd1c298f5857690973fe01f02f5e32235c89e6bc39ae829b99e9ea0173ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/70f88fc808a9df9ff73dbea7b841cb2eaeb2e5c4bb4954f2ce92d6aac7ee4267.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7d734d19854290c00a25eb6dcb4ab4d69c0000c4c75d5f0ee5bec09977e4963.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ab13962def38ddd0e94a4af90c11f84cd10551d83194102a52793a4297acb03.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7068335c92a0885ccb437fb618b539c38509a345d1403884a20c9849710b02e9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1d33db4b0dd58867f0ecb690b109dd4a7d83264f1d5005a7f3722a7426347be1.jpg",
+        "intro": "A special set to celebrate the 20th anniversary of the FATAL FRAME series",
+        "description": "Bonus content included in the 20th anniversary Digital Deluxe Edition.\n\n\u25cf 20th Anniversary Digital Artbook\nThe special anniversary digital artbook features artwork and BGM tracks from past titles of the FATAL FRAME series and can be accessed from the game menu.\n\n\u25cf Past Protagonists Costume Set\nOutfits of various past protagonists of the FATAL FRAME titles will be available in the game:\n- Mio Amakura Outfit (from \u201cFATAL FRAME \u2161 Crimson Butterfly\u201d)\n- Rei Kurosawa Outfit (from \u201cFATAL FRAME \u2162 The Tormented\u201d)\n- Miku Hinasaki Outfit 1 (from \u201cFATAL FRAME\u201d)\n- Miku Hinasaki Outfit 2 (from \u201cFATAL FRAME\u201d)\n- Mayu Amakura Outfit (from \u201cFATAL FRAME \u2161 Crimson Butterfly\u201d)\n- Kei Amakura Outfit (from \u201cFATAL FRAME \u2162 The Tormented\u201d)\n\nNote: This item includes the same content as the \u201cFATAL FRAME: Maiden of Black Water Digital Deluxe Edition\u201d. Please be careful to avoid making a redundant purchase.",
+        "languages": null,
+        "size": 4341104640
     },
     "70070000013037": {
         "id": null,
@@ -68865,11 +69504,11 @@
             "https://img-eshop.cdn.nintendo.net/i/71f97f87c3aef6d968847a1b8cfe43e242f13fe5e1f3a5d4040eb3608284bdad.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b217f84210dfde127b000d09dec9226cb64315fef3630635d7bf658b06c718c9.jpg",
             "https://img-eshop.cdn.nintendo.net/i/df33c66215ba1d3f533b7c65ed6e91363af154eb3f6b558c22734b0eb6ed33c6.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/5956262a3cf0d9fd73ea86363f54fcc54ec80cbf7534f80b7fe6b5008a7b8efd.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/95f2cd1e724c98d68ea27b845b935fec3c96a630026ac00a8763a2649bde0bae.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/625ea19aacb9f1941c0cad6308259d673f7d63430c1c9b927a10ed03979fefdb.jpg",
         "intro": "Godhood Awaits",
-        "description": "The Shin Megami Tensei V Digital Deluxe Edition includes:\n\n\u2022\"Shin Megami Tensei V\" Full Game\n\u2022\"Safety Difficulty\"\n\u2022\"Mitama Dance of Wealth\"\n\u2022\"Mitama Dance of EXP\"\n\u2022\"Mitama Dance of Miracles\"\n\u2022\"A Goddess in Training\"\n\u2022\"The Rage of a Queen\"\n\u2022\"The Doctor's Last Wish\"\n\u2022\"Return of the True Demon\"\n\u2022\"Japanese Voices\"\n\n*For more information on each DLC item, please refer to their individual listings.",
+        "description": "The Shin Megami Tensei V Digital Deluxe Edition includes:\n\n\u2022\"Shin Megami Tensei V\" Full Game\n\u2022\"Mitama Dance of Wealth\"\n\u2022\"Mitama Dance of EXP\"\n\u2022\"Mitama Dance of Miracles\"\n\u2022\"A Goddess in Training\"\n\u2022\"The Rage of a Queen\"\n\u2022\"The Doctor's Last Wish\"\n\u2022\"Return of the True Demon\"\n\n*For more information on each DLC item, please refer to their individual listings.",
         "languages": null,
         "size": 13760462848
     }
