@@ -4823,6 +4823,50 @@
         ],
         "size": 1773142016
     },
+    "70010000011744": {
+        "id": "0100F0300B7BE000",
+        "rightsId": "0100F0300B7BE0000000000000000005",
+        "name": "Ludomania",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000011744,
+        "category": [
+            "Juego de mesa",
+            "Fiesta",
+            "Estrategia",
+            "Multijugador"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5934e0be96fde34dbd4b1ef24b35ec3eff54c887f47bb38a5402306f66cb850f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a4d1d8cb3b7ee30a5ced6f3d380fe5f5f9748da128bb788daccbbcb1a4ac5616.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16633fa34e932eff30e0c03b44d3fbde08fbba937b6215f33852b89ad8cf1dcd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2c1d58e9f0a0adf6011c06bc7837ece64cc8ba234a8639ce497bdc3bda8b1cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b542809164f3d131b6c5516181d33fea0988886939a2a6b2b6dfa638ce92069.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa04eaab8555985353c1e940ec3287bf11f02d9bb6833c1bd282200b9f50c19f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/315ba4f0a81f7bdb457b98df259ba2354cc596b9974fc0e61090294613619396.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/be09aa0125b9ac17b4906e330ca00eff39cf705cf565d4fc030a192733a5f194.jpg",
+        "intro": "\u00a1El rey de todos los juegos de mesa! P\u00e1sala fabulosa con tus seres queridos.",
+        "description": "Ludomania es una app \u00fanica en la que puedes jugar diferentes variaciones del fant\u00e1stico juego medieval de la India: \u00a1el pachisi!\n\n\u00a1Re\u00fanete con los tuyos y disfruta el juego! \n\n\u00bfEst\u00e1s solo en ese momento? \n\n\u00a1Pues juega contra la inteligencia artificial y perfecciona tu habilidad!\n\nPuedes jugar al modo cl\u00e1sico, Ludo.\n\nO acercarte m\u00e1s a las ra\u00edces del juego: Ludo Indian.\n\n\u00bfNo te basta? Pues prueba el parch\u00eds, \u00a1un juego muy popular en Espa\u00f1a!\n\n\u00bfQue quieres m\u00e1s? Juega \"Don't Get Mad!\", una variante m\u00e1s sencilla, popularizada por los alemanes.\n \nVamos, \u00a1pru\u00e9balo!\n",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 136314880
+    },
     "70010000011822": {
         "id": "010056E00B4F4000",
         "rightsId": null,
@@ -6590,6 +6634,54 @@
         ],
         "size": 389021696
     },
+    "70010000015031": {
+        "id": "010079D00C8AE000",
+        "rightsId": null,
+        "name": "Klondike Solitaire",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000015031,
+        "category": [
+            "Juego de mesa",
+            "Estrategia",
+            "Rompecabezas",
+            "Aventura"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8db647e9a2a64362ff55c8e4d011aa51076a770970ef5fc005b6d66bed59818d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2d5a8b530a1e2b2b06c9aa1df63ee2f3f2d32ba33231a5e8bda83349e80d872e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/911d7e7c139a904f5b7acf69b862ce46732f9bd9af06dbe3e72b227823ef5ed1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/587d6de1e6968418ada54d17589dba6a0d1acecefc244280333729b33c65a2b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6105d47c48a774b341d11b3c5d905b18a7b8e161449a70150d37b410c13400e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7801d9ec86f75075eedf624f564523fad8c232eeb970e9f06baad385febcf364.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e1caf12b9c0a520b0e750c805b314c1b7d95db21a66a537c51c94a04e7207b3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/28aaf03ca64fb65a6779addb53afab50866fbc49aa4a370c132488f0837e3542.jpg",
+        "intro": "Un cl\u00e1sico juego de ingenio con incre\u00edbles gr\u00e1ficos en 3D, \u00a1ahora en Nintendo Switch\u2122!",
+        "description": "Klondike Solitaire, el juego perfecto para que escapes de tu alocada rutina diaria, te relajes y te diviertas. \n\nCambia el aspecto del juego a tu gusto. \n\nAvanza en el juego para desbloquear fondos y sets de cartas \u00fanicos. \n\nPersonaliza tu solitario para hacerlo \u00fanico y exclusivo.\n\nIncre\u00edbles animaciones y un dise\u00f1o de juego para disfrutar de interminables horas de diversi\u00f3n.\n\n\u00a1Disfruta del juego de cartas m\u00e1s popular de la historia!\n\nCARACTER\u00cdSTICAS:\n* Se puede jugar con pantalla t\u00e1ctil, controles Joy-Con\u2122 o controles Pro de Nintendo Switch\n* 15 temas en 3D bellamente dise\u00f1ados\n* Juega en el modo 3D o en una vista cenital cl\u00e1sica en 2D\n* Estad\u00edsticas detalladas y m\u00e1s de 20 logros para desbloquear\n* Disfruta de dos sistemas de puntaje: Classic y Vegas\n* M\u00e1s de 25 pistas musicales geniales\n* Modos de juego sacando 1 o 3 cartas\n* M\u00e1s de 10 dise\u00f1os de cartas, con ambas caras creadas a mano\n* 2 configuraciones de control intuitivas\n* Funci\u00f3n de deshacer y pistas para cuando te atasques\n* Tutorial para nuevos jugadores ",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 603979776
+    },
     "70010000015034": {
         "id": "010049D00C8B0000",
         "rightsId": null,
@@ -7025,6 +7117,53 @@
         ],
         "size": 2984247296
     },
+    "70010000015822": {
+        "id": "0100F5D00CD58000",
+        "rightsId": null,
+        "name": "Flowlines VS",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000015822,
+        "category": [
+            "Rompecabezas",
+            "Multijugador",
+            "Fiesta",
+            "Educativo"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3cda9f93bd0a931ab3e36c68af0548052ec4182d7ab0cf6cb3a026b8d37f5540.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2bb01920ed847829d7ebef47c13202e26069d83e6ed68dff95e15ea8a1747560.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f7f5b1276f2ed1ffc3c70ce585ae70f7b7caa4bb969511a96d29a86c256bc2f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ae96bfd6a9430f5df6fcead76ae7775c2a2d3fd033d1909ed05bc78bb6d0128.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da915086a5154c758c408bddda35c58ca330557a4bda4c68f1eace2ff935f74d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fdb7a9f395b889b35f3859f6aa17111b131c27652795e673401c206700df984f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d651501ff518cd32a20e593c975961e58d9ef1ac5d3e91273c342c4a0549ccf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/698202aa3005158c4fb37b362d992cfa5a8642da55900218983941a22b528d26.jpg",
+        "intro": "\u00a1El \u00faltimo juego de puzles y competici\u00f3n de Baltoro Games llega a Nintendo Switch\u2122!",
+        "description": "Adoramos la Nintendo Switch\u2122. Adoramos los juegos de puzles. \u00a1Adoramos los modos multijugador de competici\u00f3n!\n\n\u00bfQU\u00c9 ES FLOW LINES VS.?\n\nSi te gustan los juegos de puzles cl\u00e1sicos para 1 o 2 jugadores..., \u00a1tenemos mucho que ofrecerte! Inspirado en los mejores t\u00edtulos del g\u00e9nero, Flowlines Vs. aspira a ser uno de los mejores juegos de fiesta que existen. Queremos que los jugadores resuelvan puzles, compitan entre s\u00ed y jueguen... dondequiera que est\u00e9n y en la compa\u00f1\u00eda que sea.  \n\nEmpareja las casillas iguales dibujando l\u00edneas continuas sin que se crucen ni dividan. \u00a1Cubre el tablero y conecta todas las casillas!\n\u00a1Disfruta con fases de tiempo limitado y atenci\u00f3n al m\u00e1ximo de movimientos que puedes hacer en cada fase.\n\nEN FLOWLINES VS., ENCONTRAR\u00c1S:\n\n\u2022 M\u00e1s de 400 niveles para jugar en el modo para un jugador o en multijugador de competici\u00f3n.\n\u2022 Una banda sonora que refuerza a\u00fan m\u00e1s la atm\u00f3sfera del juego.\n\u2022 \u00a1M\u00e1s de 50 incre\u00edbles temas gr\u00e1ficos!\n\u2022 \u00a1El mejor ambiente de fiesta!\n\u2022 F\u00e1cil de jugador y dif\u00edcil de dominar. \n\u2022 Tanto los ni\u00f1os como los adultos pueden empezar a jugar enseguida gracias a su intuitivo tutorial. \n\u2022 Juega como quieras: con Joy-Con\u2122, mandos Pro, la pantalla t\u00e1ctil o el modo port\u00e1til. \n\u2022 Consigue recompensas especiales gracias a nuestro sistema de logros.\n\u2022 Traducido a 8 idiomas: ingl\u00e9s, franc\u00e9s, espa\u00f1ol, italiano, alem\u00e1n, portugu\u00e9s, portugu\u00e9s de Brasil y turco... Y m\u00e1s dentro de poco.\n\nVamos, \u00a1pru\u00e9balo!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 751828992
+    },
     "70010000015846": {
         "id": "0100CB000A142000",
         "rightsId": null,
@@ -7374,6 +7513,55 @@
             "it"
         ],
         "size": 9952034816
+    },
+    "70010000016275": {
+        "id": "01003F200D0F2000",
+        "rightsId": null,
+        "name": "Moto Rush GT",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000016275,
+        "category": [
+            "Carreras",
+            "Deportes",
+            "Arcade",
+            "Acci\u00f3n"
+        ],
+        "ratingContent": [
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/727c36b720ee712d76af4134420d1b0a54ea36e2bf2a833d237783004c1decc0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/05e97fe2699dc18516e36d56c7b8054ecedab8cba95d2f99f24b59bb4042689b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05443a5d36533541917139ceab601e42b5a5fc4fb0c06e5b99f8194719e22224.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0623163e968b917f77b08f456fbe2c05cdac1a4a0eeebcd16fe5bc256519feca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58b820fb8968581c549c772600e84fa27ae8db336349768ad27f2718396ebc5f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/138ba6eb66ea6deff5b306ae0f4b17f5ca16c45e3aa6ed6f1669f354bee29135.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/170cad2ac881192e278b335b63370da58cb264af2dc6eba80e72831ff0c505ca.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/66140e29cdbbd119d92dd696b7ad2d1a9e2090cb8ea73b6cbdc53bd42828e44d.jpg",
+        "intro": "\u00a1La experiencia definitiva de carreras de motorbikes para todas las edades!",
+        "description": "Pilotos, \u00a1atenci\u00f3n! \n\n\u00a1Ahora pod\u00e9is disfrutar de las carreras de motorbike m\u00e1s r\u00e1pidas, realistas y din\u00e1micas en Nintendo Switch\u2122!\n\nUn juego \u00fanico que se puede disfrutar con diferentes modos de control, incluido... \u00a1Toy-Con Motorbike! (Nintendo Labo Vehicle Kit)\n\n\u00a1Olvida los l\u00edmites de velocidad y las normas de tr\u00e1fico porque, en esta carretera, t\u00fa eres el rey!\n\nUna combinaci\u00f3n \u00fanica de juego infinito y carrera arcade que os brindar\u00e1 innumerables horas de diversi\u00f3n.\n\nEN MOTO RUSH GT, ENCONTRAR\u00c9IS:\n\n\u2022 \u00a1M\u00e1s de 100 niveles que superar!\n\u2022 Una experiencia de carrera infinita\n\u2022 12 motorbikes para personalizar\n\u2022 Compatible con Toy-Con Motorbike. \u00a1Sacad el LABO si lo ten\u00e9is!\n\u2022 \u00a1Corred contra el crono, superad los mejores tiempos o probad diferentes desaf\u00edos! \n\u2022 Compatibilidad con funci\u00f3n de inclinaci\u00f3n: \u00a1rotad la consola para jugar!\n\u2022 \u00a1Compatible con control Pro o cualquier otro m\u00e9todo de control!\n\u2022 Compatible con todos los modos de juego: TV, escritorio, Port\u00e1til, Toy-Con Motorbike\n\u2022 4 modos de juego distintos \n\u2022 Efectos de d\u00eda y noche y efectos atmosf\u00e9ricos: \u00a1lluvia, noche y tormenta! \n\u2022 Corred por carreteras de bello dise\u00f1o de todo el mundo\n\n\u00a1Checadlo!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 5319426048
     },
     "70010000016330": {
         "id": "0100A5C00D162000",
@@ -8255,6 +8443,50 @@
             "zh"
         ],
         "size": 807403520
+    },
+    "70010000018222": {
+        "id": "010096300D9C0000",
+        "rightsId": null,
+        "name": "Sushi Time!",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000018222,
+        "category": [
+            "Simulaci\u00f3n",
+            "Estrategia",
+            "Rompecabezas",
+            "Aventura"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2c73f7787a229ca68fdd6ebe7c83c1bb33ace47ccc075cac6b91890dde79e09d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/eafce2fc78d7d13bf21eece5ce7a9e2a95c9b443eac5919b1020acf5b09a7ba4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6345e86e9d22161cb782318db084414aaf921814fce4640d9aa73a015ef3690f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/201a69449ebc62e577e29d059f4406a82df12297aa7ffaac2d0f0f4b0c6bca65.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1dbdee9ee63869fc3aa09c8fc2dc7d7b14e15e619c3942e2677402efe3ebe16e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eda1a14d860fdb096e220bad62379a71928b4f6e4ecdef262115a9c1c789ece8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49469a77a030a3b160047761e13d0ea4f5868aef1e014c79cee367cd8cc48336.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7785c5ac1173d6f13cf3fcda26a472a64e9ebb3ff0793061e420924a989842e7.jpg",
+        "intro": "\u00a1Es hora de disfrutar del Sushi!\n\u00a1Crea el bar de sushi m\u00e1s incre\u00edble de la ciudad!",
+        "description": "Te damos la bienvenida a Sushi Time! \n\n\u00a1Administra un bar de sushi y convi\u00e9rtete en un magnate de la comida japonesa!\n \nIntenta tener las comandas a tiempo, \u00a1pero no las mezcles! \n\n\u00a1Mejora y decora el local hasta tener el bar de sushi m\u00e1s incre\u00edble de la ciudad!\n\n\u00a1A trabajar!\n\nEN SUSHI TIME! ENCONTRAR\u00c1S:\n\n\u2022 M\u00e1s de 60 niveles para explorar, m\u00e1s de 50 tipos de sushi para servir.\n\u2022 Lo mejor en gr\u00e1ficos de dibujos animados, m\u00fasica y efectos de sonido.\n\u2022 Mejoras que puedes aplicar al bar y sus adornos.\n\u2022 M\u00e1s de 20 logros para desbloquear.\n\u2022 F\u00e1cil de jugar y dif\u00edcil de dominar.\n\nVamos, \u00a1pru\u00e9balo!\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it"
+        ],
+        "size": 116391936
     },
     "70010000018342": {
         "id": "010030A00DA3A000",
@@ -11759,6 +11991,53 @@
         ],
         "size": 227540992
     },
+    "70010000023313": {
+        "id": "0100DEC00F7EC000",
+        "rightsId": null,
+        "name": "Pizza Bar Tycoon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000023313,
+        "category": [
+            "Simulaci\u00f3n",
+            "Estrategia",
+            "Rompecabezas",
+            "Aventura"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0c11a27d15ae7ca56ce7d3f4fb1ca3f47bb0c36b0ae53717ef12fcb6163bd666.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9e49882b9245336fdc44e017b4825bbdd5c093376e913c0e28e9ce471b9bb065.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36e60281a402abd24a514d0d9a8ff2f9b479b0a17145a3d553bf09bede8d4af3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a02f7f72cc4887b369886c5701eb180ecb66ade5478d50d843ba174de090e613.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2273019aba448ab1a703cdb300f8976a3daa8eab133d7c52979800db42e4286f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f3b812e5bf662c35242966a9ff98c1242dd2741544ea0ea5627bdecb674bd24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bdae1fdd20de58b4317bbd1a9391e83f20287c5435baaee98d4cac6f96c65ddd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f19b477d2ad1a97e59509a03ea10ad98f22c912f4217ae4fd9e91a1931b8bb54.jpg",
+        "intro": "\u00a1Convi\u00e9rtete en magnate de la pizza! \u00a1Prepara la mejor pizza de la ciudad!",
+        "description": "\u00a1Ojo, que esta fant\u00e1stica pizzer\u00eda pronto ser\u00e1 la mejor de la ciudad! \n\nBueno... al menos, ese es tu plan. \n\nLos clientes ya est\u00e1n haciendo cola, as\u00ed que debes atenderlos lo m\u00e1s r\u00e1pido que puedas. \u00a1Aunque es m\u00e1s dif\u00edcil de lo que parece! \n\nTodo el mundo tiene prisa y debes preparar cada pedido con toda exactitud... \u00a1o la gente empezar\u00e1 a enojarse!\n\n\u00a1Da lo mejor de ti y lo conseguir\u00e1s!\n\nEN PIZZA BAR TYCOON ENCONTRAR\u00c1S:\n\n\u2022 60 niveles para explorar y m\u00e1s de 70 platos para servir.\n\u2022 Fant\u00e1sticos gr\u00e1ficos de dibujos animados junto a la mejor m\u00fasica y fabulosos efectos de sonido.\n\u2022 Incontables mejoras que puedes aplicar a los ingredientes y las decoraciones.\n* 47 logros que alcanzar.\n\u2022 F\u00e1cil de jugar, dif\u00edcil de dominar.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 257949696
+    },
     "70010000023327": {
         "id": "010074300F7F6000",
         "rightsId": null,
@@ -11863,6 +12142,48 @@
             "zh"
         ],
         "size": 814743552
+    },
+    "70010000023426": {
+        "id": "0100E6300F854000",
+        "rightsId": null,
+        "name": "Go! Fish Go!",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000023426,
+        "category": [
+            "Arcade",
+            "Acci\u00f3n",
+            "Carreras",
+            "Aventura"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Cool Small Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7dc36c0905970999f2e6f7d8675bdbf75542c31bf8fd3f80e1bf37f8ae1c625b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cdccd16562a7c7b5e410ea4c4bf8dfa575917c61527c9fd13ddfb2345d8e3544.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee28d1e2b66d2473573a64c6674fffba1dc30af2e6769afd2757e2d5393c3cc6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/213c653ec4ca4aeffd865d5b91e79dbdfdce000f42c88f06819a938ec8596ae7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77e6cd70a1f8fdcd1bbab1bd8a8bdd1176d42c4d5ca9851e8fb04c1691b5b435.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/95f537f8962598232ab0c9dc1591e769e40a4e11286ae251b75204f7ef2fabfc.jpg",
+        "intro": "\u00a1ALERTA! \u00a1Los peces se escapan!",
+        "description": "Hasta los peces a veces pierden la paciencia y deciden escapar del acuario. \n\nUn equipo de cinco peces incre\u00edbles se embarca en una emocionante aventura para escapar de sus j\u00f3venes opresores.\n\nAy\u00fadalos a enga\u00f1ar y despistar a sus perseguidores. Cada segundo cuenta. \n\nLo importante aqu\u00ed es la velocidad, los reflejos y la astucia. \u00a1Ten cuidado de que no te atrapen con una red y nada hacia la libertad! \n\nNo dudes: comienza el juego y salva a los cinco adorables pececitos para que no tengan que volver al acuario.\n\n\u00a1Ellos conf\u00edan en tu ayuda!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it"
+        ],
+        "size": 378535936
     },
     "70010000023569": {
         "id": "01000B600F918000",
@@ -12382,6 +12703,51 @@
         ],
         "size": 23493345280
     },
+    "70010000026214": {
+        "id": "0100D1B0102B0000",
+        "rightsId": null,
+        "name": "Super Battle Cards",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000026214,
+        "category": [
+            "Juego de mesa",
+            "Estrategia",
+            "Rompecabezas",
+            "Fiesta"
+        ],
+        "ratingContent": [
+            "Violencia de fantasia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bfb48beeb4e29e3677a6cf16104013e673bdf45f69407cd715bb5a5cf17a6cf6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/74b2c16a9c31c1cb1096ec239621878aa5e76e3f97710003cca81b431ffe8d3f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5fc10759103eef40481a2d5065fec4bba39d2210866f39dcc523a9cc049953d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84176c18a9807dae3ecfadc0e2d634709d7f6d66430aaee9786bcc02491317ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd97fa202e7b6be8ac93da35fba17baaeaa1d7e1506c364582fa050cd7bf7d7e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/81cd6e53a891b2c451fe5df78d9bc5871e13fd7e844069a1437ae4dc0465d635.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dcf0ed575f2cba3c28dca15e7ba47773e9e7a4741114acc6775d294210b7be5c.jpg",
+        "intro": "Explora las enormes mazmorras y descubre un reino oscuro y peligroso.",
+        "description": "\u00a1Ayuda!\n\nLa oscuridad se ha apoderado del reino. Viles criaturas vagan por estas tierras, decididas a conquistarlas.\n\nNuestro bondadoso rey ha ca\u00eddo prisionero y el malvado Ogro ha robado las posesiones de sus s\u00fabditos. \u00a1Es el m\u00e1s fuerte de todos los monstruos! Pero, afortunadamente, no es demasiado inteligente, \u00a1t\u00fa puedes enga\u00f1arlo!\n\nF\u00edjate bien por d\u00f3nde pisas, pues el camino est\u00e1 lleno de trampas y obst\u00e1culos. Nadie est\u00e1 a salvo en las mazmorras, tendr\u00e1s que hacer frente a toda clase de peligros, \u00a1como monstruos implacables y espectros!\n\n\u00a1Buena suerte!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it"
+        ],
+        "size": 104857600
+    },
     "70010000026221": {
         "id": "0100CC00102B4000",
         "rightsId": null,
@@ -12575,6 +12941,51 @@
             "zh"
         ],
         "size": 13332643840
+    },
+    "70010000026378": {
+        "id": "01003320103F0000",
+        "rightsId": null,
+        "name": "Breakfast Bar Tycoon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000026378,
+        "category": [
+            "Simulaci\u00f3n",
+            "Estrategia",
+            "Rompecabezas",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Lenguaje moderado",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fa8f97bfd63ec14c71739fb2fc8f06daac71765a2defbac4fe584a478155ee94.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9124694f464dd5a528444f54ac3afe583160a8f3086b1b24673b2a1f87169ac2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74215c623367984d82c2b9435def712cd177886261e383d11780b1c39263958b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e24c48bbb64b2ad81171e3138fc48ce67ce86c607be2dc076a88670a092eb2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/076831a7bb6a63e6c4f5afa80b63b5517cf4510861ed26b9cb9a8da7cd8e089f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b3555665defda9fc12bf1d603239edac847a04b8d5dee2007eb9914c2ad9cd0d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0e4cfd06ac3da1ff86a926f376bdb3762319c442df9923e54ddf8148060fdc7f.jpg",
+        "intro": "\u00a1Ya casi es la hora de desayunar!\n\u00a1Demuestra que tu bar de desayunos merece su fama!",
+        "description": "\u00bfAlguna vez te preguntaste c\u00f3mo ser\u00eda dirigir tu propia cocina de desayunos? \n\n\u00a1En Breakfast Bar Tycoon, descubrir\u00e1s que no es nada f\u00e1cil! \n\nCumplir\u00e1s el papel de m\u00e1nager de un bar de desayunos y tratar\u00e1s de servir a una horda de clientes hambrientos lo m\u00e1s r\u00e1pido posible.\n\n\u00a1Apunta los pedidos, prepara los platos y lucha por las propinas! \n\n\u00a1Invierte tus ganancias en mejorar tu restaurante hasta convertirte en magnate de los desayunos!\n\n\u00a1Bon appetite!\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 154140672
     },
     "70010000026475": {
         "id": "010063E0104BE000",
@@ -12863,6 +13274,56 @@
             "zh"
         ],
         "size": 239075328
+    },
+    "70010000027195": {
+        "id": "0100B110109F8000",
+        "rightsId": null,
+        "name": "Urban Flow",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000027195,
+        "category": [
+            "Rompecabezas",
+            "Multijugador",
+            "Simulaci\u00f3n",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Violencia moderada de fantasia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8d4c2ee8b32f24555193694842eb85f5bafa719ddbf3bcd843ff63b40bfbbb88.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0784019d3a559cb63c761cd5613cf9eab2546e81007c303dd00cc21e7ba2760d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b41fac66323b616f1046747257b0454aa48a3c42e3a0c59149e598d59f818bf2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/01e8d6f0b1a8606f04a8ed6fddaa7310eb7a6f59e92b681724b51fbf08d867ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/088d67b12ce2a2535dffbc3cf65300f853fa064dec960777dffd8c7ced9b82c2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4643931647af2fd051c34e61ad6877d7fe3999359f7334334767409d449ff444.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c71e02e6456b543d358cf7aba911e0fc079764444643e44a17d6d749e72c5e1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9f7d3508b68e615cba532ba380e75fbd081425e87d75bdfbac6a2548303a1cba.jpg",
+        "intro": "\u00a1Gestiona los sem\u00e1foros de la ciudad para intentar que no haya caos!\n",
+        "description": "Urban Flow es un juego sobre la sutil belleza de las calles de la ciudad cuando est\u00e1n repletas de coches que se mueven en perfecta armon\u00eda. Pero este orden no surge de la nada: la ciudad te necesita para que controles los sem\u00e1foros y te asegures de que todo marcha correctamente. Es decir, sin accidentes ni embotellamientos. \u00a1Todo ir\u00e1 bien mientras consigas mantener la concentraci\u00f3n!\nSum\u00e9rgete en un hermoso mundo de bajo poligonaje creado a mano para disfrutar de la enorme satisfacci\u00f3n de ver centenares de min\u00fasculos autitos de colores que fluyen por las calles mientras escuchas una relajante m\u00fasica urbana.\nM\u00e1s de 100 niveles, cada uno con su propia bulliciosa intersecci\u00f3n. Solo tienes un trabajo: controlar los sem\u00e1foros para que no haya problemas.\n\nJuego de fiesta (\u00a1aunque sea una fiesta para una sola persona!)\n-----\n\u00a1Juega solo(a) o con amigos en un modo cooperativo local de entrada y salida para dos, tres o cuatro jugadores!\n\u00a1Puedes ayudar a tus amigos o ser un poco canalla y sembrar el caos!\nEvita los accidentes prestando mucha atenci\u00f3n a los veh\u00edculos especiales y a los dem\u00e1s jugadores. Entre los veh\u00edculos especiales est\u00e1n la ambulancia, que no puede esperar mucho, y el tanque, que aplastar\u00e1 todo lo que se interponga en su camino.\n\n\u00bfNo quieres jugar la campa\u00f1a?\n-----\nPrueba el modo Endless basado en puntos, o el modo Chill, en el que juegas todo lo que quieras, sin prisas y sin puntuaci\u00f3n... solo la m\u00fasica y t\u00fa. \u00a1Urban Flow est\u00e1 dise\u00f1ado para ser un excelente juego de un solo jugador!\n\nDescubre diferentes entornos y condiciones clim\u00e1ticas. Juega con controles t\u00e1ctiles, controles Pro o Joy-Con\u2122. Completa desaf\u00edos y desbloquea recompensas.\n\nFluye con el tr\u00e1fico. \u00a1Disfruta de Urban Flow!\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 5103419392
     },
     "70010000027201": {
         "id": "01004F0010A02000",
@@ -13502,6 +13963,50 @@
         ],
         "size": 575668224
     },
+    "70010000028002": {
+        "id": "0100DBF0110EE000",
+        "rightsId": null,
+        "name": "Trancelation",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000028002,
+        "category": [
+            "Educativo",
+            "Aprendizaje",
+            "Entrenamiento",
+            "M\u00fasica"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0c978804bd1344212db27a7a584346da5a9b166a63ffe5e4d3bba0cbefebff24.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/17577a9784c92b1ed5640609893aca2591ce098fe9676e597733d8e0c3a17ead.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a4294d5be72dfeb2e5aad15c359de3990141cab638293bf5456f1c32d4fd20f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2efa40cfdf055b21e5b296b3e18854a0fe39b98726d5301fbfb024762c2cb8d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41bec9a1ea6f98bb1e7b928d8f7cfa21af7af7c4746887491dd39549b056fdb1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f9e41d19024b41ccc8a79e4763fc1e8e352b5f98bc0e735afbe429de8f701e3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e6554a66ea16bdf71fcf3a88e36e9ceefc3bec2c82c6fcb8bf92e25997dffaba.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eb326c52f8889756023d4ce96bceb135004a5abe64b211cb656367c01140c202.jpg",
+        "intro": "\u00a1Pon a prueba tus habilidades y expande tu vocabulario en un mundo de arcade con luces de ne\u00f3n, fractales y m\u00fasica trance!",
+        "description": "Transcelation es un llamativo juego de acci\u00f3n abstracto que har\u00e1 que expandas tus habilidades ling\u00fc\u00edsticas y tu vocabulario mientras recorres coloridos mundos en constante cambio, al ritmo de una vibrante m\u00fasica electr\u00f3nica. El juego combina la sensaci\u00f3n de un arcade cl\u00e1sico con t\u00e9cnicas de aprendizaje de gamificaci\u00f3n. Hace que aprender nuevas palabras sea como ir a un club y jugar videojuegos al mismo tiempo. \u00a1Aprender\u00e1s sin darte cuenta! \n\nDisfruta de una acci\u00f3n m\u00e1s acelerada cuando el juego te desaf\u00ede a asociar y memorizar nuevas palabras del idioma de tu elecci\u00f3n. O, si no tienes ganas de aprender, usa el modo Arcade para divertirte, y encadena incre\u00edbles combos mientras las luces de ne\u00f3n y la m\u00fasica trance estimulan tus sentidos. \u00a1Convi\u00e9rtete en un(a) Trancelator hoy mismo!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 196083712
+    },
     "70010000028005": {
         "id": "01005790110F0000",
         "rightsId": null,
@@ -13976,6 +14481,51 @@
             "zh"
         ],
         "size": 4155506688
+    },
+    "70010000028722": {
+        "id": "01009100115C0000",
+        "rightsId": null,
+        "name": "Solitaire Deluxe Bundle - 3 in 1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000028722,
+        "category": [
+            "Juego de mesa",
+            "Estrategia",
+            "Rompecabezas",
+            "Entrenamiento"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/25d2c7a3b4d469fe12745a30cbb37dd430e368ec95603d256f5dd9689cfbf053.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4061e08f29bbea9ac2e214f8304c390859262a4af54004c676cda2e755632bdf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/911d7e7c139a904f5b7acf69b862ce46732f9bd9af06dbe3e72b227823ef5ed1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/587d6de1e6968418ada54d17589dba6a0d1acecefc244280333729b33c65a2b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6105d47c48a774b341d11b3c5d905b18a7b8e161449a70150d37b410c13400e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d174670e5f25bbc64cde31b60ee2eb18edd1a33fac84b14a9ec425f9192997d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f46e8587685c42046605472c70f788ef26900efe96e516486f027ef1123af5b9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5de1a13a43fa9b54c0724f4fa666218fd66bfa429e35c90d5a25949677b47b76.jpg",
+        "intro": "\u00a1Una nueva colecci\u00f3n de grandes juegos del solitario!",
+        "description": "\u00a1Todos los cl\u00e1sicos de este juego que conoces y adoras! Desaf\u00edate y disfruta de interminables horas de diversi\u00f3n con los juegos del solitario m\u00e1s populares: \u00a1Klondike, Freecell y Spider!\n\nCambia el aspecto del juego a tu gusto. \n\nAvanza en el juego para desbloquear fondos y sets de cartas \u00fanicos. \n\nPersonaliza tu solitario para hacerlo \u00fanico y exclusivo.\n\nIncre\u00edbles animaciones y un dise\u00f1o de juego para disfrutar de interminables horas de diversi\u00f3n.\n\nCARACTER\u00cdSTICAS:\n* Se puede jugar con pantalla t\u00e1ctil, controles Joy-Con\u2122 o controles Pro de Nintendo Switch\n* 20 temas en 3D bellamente dise\u00f1ados\n* Juega en el modo 3D o en una vista cenital cl\u00e1sica en 2D\n* Estad\u00edsticas detalladas y m\u00e1s de 70 logros para desbloquear\n* M\u00e1s de 25 pistas musicales geniales\n* M\u00e1s de 15 dise\u00f1os de cartas, con ambas caras creadas a mano\n* Funci\u00f3n de deshacer y pistas para cuando te atasques\n* Tutorial para nuevos jugadores",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 1053818880
     },
     "70010000028811": {
         "id": "0100FA10115F8000",
@@ -15145,6 +15695,51 @@
         ],
         "size": 1181745152
     },
+    "70010000030184": {
+        "id": "0100AC3011C4C000",
+        "rightsId": null,
+        "name": "Food Truck Tycoon - Asian Cuisine",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000030184,
+        "category": [
+            "Simulaci\u00f3n",
+            "Estrategia",
+            "Rompecabezas",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5751de048099ec28611a002e1215220ed26566eb2db92a078ebcc2a1130fce24.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/944acb9e7661f5b93207539c44b791782313a475f1139d06f020532f5c1c56bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef9f160038ed54c6afc124f221ae4bceac6f2ee32a11be131e36e03cb1440b09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b37e6eb8c759bcbb39b1bf6743d5a4707376139fa6a0fe1d117c2eba508d247b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec58eaa385567e31356192a462a41f628e7184228270b6f851dc26192174211c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7b38601563a18a78516598c72a9d3be5a1afe9ec059be42cb81257fad762fbb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7d954f91595371c2f4c97233a1f4e1370c842666e5b112a0b1ab018ffc4a6725.jpg",
+        "intro": "\u00a1Ampliemos tu negocio!\n\n",
+        "description": "\u00a1Es hora de explorar la cocina asi\u00e1tica y de convertirte en el mejor de los cocineros gourmet en tu nuevo food truck!\n\nApunta los pedidos, prepara deliciosos platos y ap\u00farate a servir a las hordas de clientes hambrientos que hacen cola frente al mostrador.\n\n\u00a1Ten cuidado de no quemar la comida!\n\n\u00a1Cumple el sue\u00f1o de convertirte en el magnate del mejor food truck de la ciudad!\n\nEN \u00abFOOD TRUCK TYCOON - ASIAN CUISINE\u00bb, ENCONTRAR\u00c1S:\n\n\u2022 60 niveles para explorar y m\u00e1s de 150 platos para servir.\n\u2022 Fant\u00e1sticos gr\u00e1ficos de dibujos animados junto a la mejor m\u00fasica y fabulosos efectos de sonido.\n\u2022 Incontables mejoras que puedes aplicar a los ingredientes y las decoraciones.\n\u2022 M\u00e1s de 20 logros que alcanzar.\n\u2022 F\u00e1cil de jugar, dif\u00edcil de dominar.\n\nAdelante, \u00a1pru\u00e9balo!\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it"
+        ],
+        "size": 271581184
+    },
     "70010000030293": {
         "id": "0100B6801137E000",
         "rightsId": null,
@@ -15371,6 +15966,56 @@
             "zh"
         ],
         "size": 1022361600
+    },
+    "70010000030590": {
+        "id": "010060A011ECC000",
+        "rightsId": null,
+        "name": "Knights & Guns",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000030590,
+        "category": [
+            "Acci\u00f3n",
+            "Arcade",
+            "Disparos",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/575abd1fcf7c6f99705704e827f596753130287c0206d1dc9e18851df599b145.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3a7b1a9f92489e04dd215999f1fe5139f352d33af9f57104ff6579580372e17e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69cb21e794cd6e35d1143f01d9b6f6fa8a74993835e8282e996b8969d37e61b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca1bfe789424d3f6c8fdc3274639e8545173ffb77cfa98b9a8a97c37f2326c10.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c4f9114f92e7dff3601151f43750a6ee1e1af663d7fcd89fa5fd84a0cdcf376.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b539abefb80f9672292f8101448e51c6f0022304948477c96abbacef7c5d232.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eba8f490d43b77531884bea0a0a3c4738389c60265af1968e035e1e0835e7000.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e2ec2616955124f1f65f9b7b5e8a93aeaceaaea8a92ec4e1c49a26f6ce215d6e.jpg",
+        "intro": "Caballero de brillante armadura, \u00e1brete paso luchando... \u00a1con armas de fuego!",
+        "description": "Inspirado en los cl\u00e1sicos, desarrollado para el p\u00fablico actual.\n\nUna historia cl\u00e1sica de venganza ambientada en un mundo medieval de fantas\u00eda... con un toque de potencia mortal moderna para llevar las cosas al m\u00e1ximo. \u00c1brete paso luchando entre ej\u00e9rcitos de muertos vivientes, mutantes, alien\u00edgenas, m\u00e1quinas y bestias para recuperar lo que te pertenece y devolver una semblanza de paz a la tierra. \u00bfQui\u00e9n sabe? Si te esfuerzas lo suficiente, hasta puede que descubras la historia del reino, perdida hace mucho tiempo para los eruditos.\n\nKnights & Guns te lleva a un peligroso mundo en el que te enfrentar\u00e1s, junto a tus amigos, con demonios, necr\u00f3fagos y fantasmas. Usa escopetas, l\u00e1seres y el poder de la caballer\u00eda para superar cada uno de los obst\u00e1culos. Convi\u00e9rtete en la mejor versi\u00f3n de un caballero: uno con armas de fuego.\n\nEn el juego encontrar\u00e1s:\n\u2022\t\u00a1Luchas contra impresionantes jefes en varias fases! \n\u2022\t\u00a1Un mundo no lineal, listo para que lo conquistes! \u00a1150 fases dise\u00f1adas a mano, que puedes tratar de superar a toda velocidad o disfrutar a tu propio ritmo para buscar secretos y rutas especiales!\n\u2022\tUn juego completamente dise\u00f1ado para los modos en solitario y multijugador. Invita a un amigo en cualquier momento para a\u00f1adir m\u00e1s caos y m\u00e1s potencia de fuego.\n\u2022\t\u00a1Juego a 60 fps! \u00a1Prueba los distintos modos! \u00a1Caza a los monstruos! \u00a1Sobrevive! \u00a1Juega en mapas grandes, peque\u00f1os y estrechos!\n\u2022\t\u00a1Prueba un arsenal completo de incre\u00edbles armaduras y, obviamente, todas las ARMAS DE FUEGO! L\u00e1seres, escopetas, lanzagranadas, fusiles de francotirador... \u00a1Hay de todo!\n\u2022\tM\u00e1s de 30 armas \u00fanicas (capaces de repartir m\u00e1s sabores de muerte que los sabores de helado que puedas nombrar).\n\u2022\tM\u00e1s de 25 tipos de enemigos, 5 tipos de minijefes y 3 tipos de jefes. Muchos vienen tambi\u00e9n en distintos colores.\n\u2022\t30 armaduras \u00fanicas para los caballeros. \u00a1M\u00e1s protecci\u00f3n y m\u00e1s elegancia!\n\u2022\tTrampas, cofres, llaves, pergaminos de saber, bestiarios...\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 3210739712
     },
     "70010000030780": {
         "id": "0100A3E010E56000",
@@ -15620,6 +16265,49 @@
             "ru"
         ],
         "size": 8044675072
+    },
+    "70010000032009": {
+        "id": "01003F9010D6C000",
+        "rightsId": null,
+        "name": "Chess Ace",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000032009,
+        "category": [
+            "Juego de mesa",
+            "Estrategia",
+            "Rompecabezas",
+            "Educativo"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Cool Small Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/42aadf03c083c1f7e69de752b297290ec91618057ae66a2624ed399cde05fa85.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/09b4112a0801050d6a734f4f70d6ef8c8073e2a58407aa55721f5a77f7ae641d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49e3dd673f98280817c4790b33e9e5e2cfd317b1b7a5915da8b349b67f2d3a81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8be1c39cc1a47fe088b5c97e3e69b23c3ff687cf6f21978ca03db0fe77f4f463.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce8cbe6a3169ff1687535183d5dae683c5ca4a50810e7f218c797c2db3b9ee00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/798900002304a13701ef878474238b3ccf2f314ffe35f3ed0653a43c22a1497e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b8031b9152b7737ba37bfbe52c27efd52bd984afffe8e62bccd91d52d1c896a4.jpg",
+        "intro": "\u00a1Juega al ajedrez como nunca antes!",
+        "description": "Chess Ace es un juego \u00fanico de puzles que combina dos cl\u00e1sicos: el ajedrez y las cartas. \u00a1Planea tus movimientos y reparte las cartas para superar todos los palos en un tablero de ajedrez de 5x5!\n\nCaracter\u00edsticas: \n\nM\u00c1S DE 200 INCRE\u00cdBLES NIVELES\n\u2022 Prueba tus habilidades para el ajedrez en una serie de puzles exigentes pero posibles de resolver\n\u2022 Cada nivel est\u00e1 dise\u00f1ado para poner a prueba tus habilidades\n\u2022 Una curva de dificultad que te obligar\u00e1 a demostrar tu dominio del ajedrez\n\nDISE\u00d1O\n\u2022 Prueba diferentes dise\u00f1os para personalizar tu experiencia\n\u2022 Deleita tus ojos con un elegante tablero de ajedrez\n\u2022 Conc\u00e9ntrate en el desaf\u00edo gracias a un dise\u00f1o minimalista que ayuda a que no te distraigas\n\nJUEGO\n\u2022 Demuestra tus conocimientos sobre el movimiento de las piezas\n\u2022 Reparte cartas con figuras para superar niveles\n\u2022 \u00a1Planea tus movimientos con cuidado! \u00a1No todos son obvios al principio!\n\n\u00a1UN JUEGO DE ESTRATEGIA COMO NING\u00daN OTRO!\n\u2022 Descansa tu mente con una visi\u00f3n refrescante del juego de mesa m\u00e1s popular del mundo\n\u2022 \u00a1Ejercita tu cerebro y resuelve acertijos como un gran maestro del ajedrez!\n\u2022 F\u00e1cil de aprender, \u00a1dif\u00edcil de dominar! \n\u2022 Accesible para personas dalt\u00f3nicas gracias a sus dise\u00f1os de elevado contraste\n\n\u00bfTienes lo que se necesita para convertirte en el aut\u00e9ntico Chess Ace?\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt"
+        ],
+        "size": 78643200
     },
     "70010000032052": {
         "id": "0100B4D012490000",
@@ -15879,6 +16567,51 @@
             "en"
         ],
         "size": 240123904
+    },
+    "70010000032411": {
+        "id": "01005350126E0000",
+        "rightsId": null,
+        "name": "Cooking Tycoons 2 - 3 in 1 Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000032411,
+        "category": [
+            "Simulaci\u00f3n",
+            "Estrategia",
+            "Rompecabezas",
+            "Aventura"
+        ],
+        "ratingContent": [
+            "Lenguaje moderado"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/199f3b764807c1f19d83825e4fc10ad469ba7016320f5c3fcce6b5740cb5435f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7f367943c4e0c3dc6b86690edfef3a0bbb67a9a7d4483e0f95516cd70522b43e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a9cdb977393267baecc2d1d666f9f07cdd316bcfdbeb58b657fb6c1a51c3857c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef9f160038ed54c6afc124f221ae4bceac6f2ee32a11be131e36e03cb1440b09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/076831a7bb6a63e6c4f5afa80b63b5517cf4510861ed26b9cb9a8da7cd8e089f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7b38601563a18a78516598c72a9d3be5a1afe9ec059be42cb81257fad762fbb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49469a77a030a3b160047761e13d0ea4f5868aef1e014c79cee367cd8cc48336.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/746097c88b4a52886a9ab2c610af3e97d9243e5530176bfa1b593a4c581ca722.jpg",
+        "intro": "\u00a1Una nueva colecci\u00f3n de geniales juegos de cocina!",
+        "description": "\u00a1Perfecciona tus habilidades cocinando deliciosos platos de todo el mundo!\n\n\u00a1Convi\u00e9rtete en el o la gran chef que siempre has so\u00f1ado!\n\n\u00a1Cocina centenares de sabrosos platos con todos los electrodom\u00e9sticos de cocina que puedas imaginar e incontables ingredientes! \n\n\u00a1Invierte tus ganancias en mejoras o en ingredientes y electrodom\u00e9sticos para que tu restaurante atraiga m\u00e1s clientes!\n\nEsta amplia colecci\u00f3n incluye tres grandes juegos de cocina: Breakfast Bar Tycoon, Sushi Time y Food Truck Tycoon \u2013 Asian Cuisine. \u00a1Y tambi\u00e9n cuenta con los packs de expansi\u00f3n de Breakfast Bar Tycoon y Food Truck Tycoon \u2013 Asian Cuisine!\n\n\u00a1Cocinar nunca ha sido tan divertido y emocionante!\n\nCaracter\u00edsticas:\n\n* M\u00e1s de 100 platos para servir \n* 3 ubicaciones \u00fanicas\n* M\u00e1s de 200 niveles para explorar\n* Innumerables mejoras\n* Desbloquea nuevos objetos para mejorar tus electrodom\u00e9sticos, tus ambientes interiores y tus ingredientes\n* M\u00e1s de 101 logros que alcanzar",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 724566016
     },
     "70010000032445": {
         "id": "010072400E04A000",
@@ -17827,6 +18560,54 @@
         ],
         "size": 2322595840
     },
+    "70010000035324": {
+        "id": "01001010134EA000",
+        "rightsId": null,
+        "name": "Zombie Hill Race",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000035324,
+        "category": [
+            "Carreras",
+            "Acci\u00f3n",
+            "Disparos",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Sangre",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Cool Small Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a449dc18534a8a73c0541cec4443d9488f1d93ef02e257f07a5a6e7ca4c90ff5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f6d9dfb785b4cf5ed6ad26c3d89ce35c6e020245132f57c7fdd2039bd2c78a90.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/838e4d195d10c0792f81675d4fb83f91f751a78e30b2520e0b69bcd1a3d5dc5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/06773be6a6db957d10d5241da406fcc8e6c3f27089ac39bd067533d6630ee806.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8408b9b0393de05655db1e188a606ac912253e99c91592745afa7c285e9cbf7a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12471d4c66a3a1508903c33557176e3edc2a2c2e591aaac51fc2b038523b6b54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d644c43d63e78ec66b0b855473038bcce634c8ebd8816f6f01953b8bcffd433a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dfa02685e233da2bbc72f306806ff6f825016a39c77f476cd3329cdd3757476f.jpg",
+        "intro": "\u00a1Ha llegado el apocalipsis! \u00a1Hay zombis por todas partes y escapar es casi imposible!",
+        "description": "\u00a1Ha llegado el apocalipsis! \u00a1Hay zombis por todas partes y es casi imposible escapar! La \u00fanica opci\u00f3n es encontrar un veh\u00edculo y escapar entre el caos de las colinas...\n\nCaracter\u00edsticas\n- Diferentes veh\u00edculos a tu disposici\u00f3n\n- Hordas of zombis a los que deber\u00e1s atropellar\n- Consigue monedas y mejora tu veh\u00edculo\n- Distintos tipos de zombis para matar\n- Miles de entornos para descubrir\n- Jugabilidad letal\n\n\u00a1Descubre lo que puedes hacer en medio de un apocalipsis zombi y participa en una vertiginosa lucha por la supervivencia! Practica tus habilidades para correr carreras en la monta\u00f1a e intenta sobrevivir en la primera l\u00ednea de la batalla contra los muertos.\n\nJunta todas las monedas que puedas, construye una fant\u00e1stica m\u00e1quina de matar zombis y enc\u00e1rgate de las hordas de muertos vivientes que merodean por las monta\u00f1as. \u00a1Si no quieres unirte a ellos, tendr\u00e1s que sobrevivir!\n\n\u00a1No dejes que te maten, pasa por arriba a las hordas de muertos vivientes y escala todo lo que puedas para escapar! \u00a1Buena suerte, matazombis!\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 228589568
+    },
     "70010000035337": {
         "id": "010051C0134F8000",
         "rightsId": null,
@@ -19096,7 +19877,7 @@
             "de",
             "it"
         ],
-        "size": 7214202880
+        "size": 7249854464
     },
     "70010000037072": {
         "id": "0100E9B013D4A000",
@@ -19505,6 +20286,48 @@
             "zh"
         ],
         "size": 1771044864
+    },
+    "70010000037488": {
+        "id": "0100E76013F1C000",
+        "rightsId": null,
+        "name": "My Coloring Book",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000037488,
+        "category": [
+            "Rompecabezas",
+            "Educativo"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Cool Small Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8400f45911a12e8aee5310666b38c461576b720898e138bbe6425acbfb579ec7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/51f3128fbfec82c026fe5fd755635f0ee8f9d791c4dbcf2d48946526cdb6e968.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/90d674dd6cfeb99a0b582c8c90a199fb6d98dacebf4d12cca4ed7d40fb7a0026.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/999d33bc2d21ef45855067de5420905907dd3374d9b66547a37edea79c25b8a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/902e0d3bbaf633beee50c28221c0ee788609914559bde9527a9883375e473fd3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4aec87b71c0605bfb2a20dcf880f6e0f8b51c593de42949919694e6415cff58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2810ebb8109ac805af1b7adf4f436653f9eb8a6e2a732350f5c141b083f3334f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2fa2e5ce3c72eac3055d99d48570c94e7f78b2a03ff9cdcf140b569be50b84b5.jpg",
+        "intro": "\u00a1Encuentra al artista que hay en ti!",
+        "description": "\u00a1Recupera el sentido de la magia y la maravilla de la infancia con My Coloring Book! En esta pr\u00e1ctica aplicaci\u00f3n, podr\u00e1s encontrar montones de dibujos que cobrar\u00e1n vida, pero solo con tu ayuda.\n\nGracias a su incre\u00edble variedad, My Coloring Book es apropiado tanto para ni\u00f1os como para adultos. A los ni\u00f1os peque\u00f1os les encantar\u00e1n las divertidas im\u00e1genes de dibujos animados, mientras que los padres podr\u00e1n relajarse un rato con las piezas geom\u00e9tricas (que son como coloridos mandalas).\n\nGuarda tus trabajos y muestra tu talento art\u00edstico a tus familiares y amigos.\n\nCaracter\u00edsticas de My Coloring Book:\n\u2014 144 dibujos en 12 categor\u00edas\n\u2014 Una amplia paleta de colores\n\u2014 Diferentes estilos de dibujo\n\u2014 Un sistema para guardar y cargar tus dibujos\n\u2014 Una relajante m\u00fasica de fondo\n\n\u00a1Comienza ya tu aventura de colores!\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it"
+        ],
+        "size": 559939584
     },
     "70010000037583": {
         "id": "01008E2013FB4000",
@@ -43667,6 +44490,43 @@
             "010096F00FF23001"
         ]
     },
+    "70050000019866": {
+        "id": "01003320103F1001",
+        "rightsId": null,
+        "name": "Breakfast Bar Tycoon Expansion pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70050000019866,
+        "category": null,
+        "ratingContent": [
+            "Lenguaje moderado",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/74215c623367984d82c2b9435def712cd177886261e383d11780b1c39263958b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e5bb852fe7eb78339d913220b073a5ba8b1a31efcaae06de32d1991317bebd1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1e24c48bbb64b2ad81171e3138fc48ce67ce86c607be2dc076a88670a092eb2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/076831a7bb6a63e6c4f5afa80b63b5517cf4510861ed26b9cb9a8da7cd8e089f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b3555665defda9fc12bf1d603239edac847a04b8d5dee2007eb9914c2ad9cd0d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2a1e0dbf43de10e9618e5fae9e075748dfb079651d7eb642cd08a46174ab26a5.jpg",
+        "intro": "\u00a1Ya casi es la hora de desayunar!\n\u00a1Te esperan nuevos desaf\u00edos!\n",
+        "description": "EN ESTE PACK DE EXPANSI\u00d3N PARA BREAKFAST BAR TYCOON ENCONTRAR\u00c1S:\n\n\u2022 45 nuevos niveles para explorar\n\u2022 8 nuevos logros que alcanzar\n\nAdelante, \u00a1prueba tus habilidades!\n",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01003320103F1001"
+        ]
+    },
     "70050000019958": {
         "id": "01006F800232712C",
         "rightsId": null,
@@ -44292,6 +45152,42 @@
         "size": 4194304,
         "ids": [
             "0100AD10102B3001"
+        ]
+    },
+    "70050000020783": {
+        "id": "0100AC3011C4D001",
+        "rightsId": null,
+        "name": "Food Truck Tycoon - Asian Cuisine Expansion Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70050000020783,
+        "category": null,
+        "ratingContent": [
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a524fd4a4f9591e681939876e6ac4b90e150c5d077dc7692452e6e160dd75229.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ef9f160038ed54c6afc124f221ae4bceac6f2ee32a11be131e36e03cb1440b09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b37e6eb8c759bcbb39b1bf6743d5a4707376139fa6a0fe1d117c2eba508d247b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec58eaa385567e31356192a462a41f628e7184228270b6f851dc26192174211c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7b38601563a18a78516598c72a9d3be5a1afe9ec059be42cb81257fad762fbb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e717866f92b38c19abb74ddce1be3f095d4256bf4489d7aad1acdf7e56898f9d.jpg",
+        "intro": "Food Truck Tycoon - Asian Cuisine Expansion Pack",
+        "description": "EN ESTE PACK DE EXPANSI\u00d3N PARA FOOD TRUCK TYCOON - ASIAN CUISINE, ENCONTRAR\u00c1S:\n\n\u2022 45 nuevos niveles para explorar\n\u2022 7 nuevos logros que alcanzar\n\nAdelante, \u00a1prueba tus habilidades!\n",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100AC3011C4D001"
         ]
     },
     "70050000020784": {
@@ -45140,6 +46036,42 @@
         "size": 3145728,
         "ids": [
             "01002C000B5530AE"
+        ]
+    },
+    "70050000021693": {
+        "id": "0100B110109F9001",
+        "rightsId": null,
+        "name": "Urban Flow - Expansion Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70050000021693,
+        "category": null,
+        "ratingContent": [
+            "Violencia moderada de fantasia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dc2513b4ccc71b9785bbeeb6244bfbb41649d555708fc881479a862e4b2f0781.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8dba87ba18fce99d7dea735ab6b2774800b22c6872dbc2c7e891afd4d0ab402.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c5a402c0b05c7b599f89cbcdbeabf9264bd05cf46f154a6795cd0807f27effb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/adb9fa754763e062d74ead14463a81132933b6cc80a0a6216179a6e486852e94.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b6495dc1d63ec87d5186bc430e15e55270272800f717c1703129f36a1d3e0cea.jpg",
+        "intro": "Hasta en los momentos m\u00e1s dif\u00edciles, el tr\u00e1fico debe fluir.\nAfrontar\u00e1s nuevos desaf\u00edos que no has visto nunca antes.\nCreemos que podr\u00e1s con ellos.",
+        "description": "\u00a1Urban Flow est\u00e1 de vuelta con m\u00e1s contenidos!\n\n\u2022    \u00bfTerminaste la campa\u00f1a? \u00a1Prueba el modo Desaf\u00edo!\n\u2022    \u00a1Juega m\u00e1s de 20 nuevas fases!\n\u2022    El nuevo modo Desaf\u00edo ofrece medallas: \u00a1se acab\u00f3 el sistema de estrellas! Debes superar la barra de desaf\u00edos para completar las fases del modo Desaf\u00edo.\n\u2022    \u00a1Juega en solitario o con amigos!\n\nAdelante, \u00a1prueba tus habilidades!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100B110109F9001"
         ]
     },
     "70050000021698": {
@@ -46045,6 +46977,45 @@
         "size": 4194304,
         "ids": [
             "01006C100EC09004"
+        ]
+    },
+    "70050000022331": {
+        "id": "01003F200D0F3001",
+        "rightsId": null,
+        "name": "Moto Rush GT - Expansion Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70050000022331,
+        "category": null,
+        "ratingContent": [
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/05e97fe2699dc18516e36d56c7b8054ecedab8cba95d2f99f24b59bb4042689b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05443a5d36533541917139ceab601e42b5a5fc4fb0c06e5b99f8194719e22224.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0623163e968b917f77b08f456fbe2c05cdac1a4a0eeebcd16fe5bc256519feca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58b820fb8968581c549c772600e84fa27ae8db336349768ad27f2718396ebc5f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/138ba6eb66ea6deff5b306ae0f4b17f5ca16c45e3aa6ed6f1669f354bee29135.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/170cad2ac881192e278b335b63370da58cb264af2dc6eba80e72831ff0c505ca.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1bf6f6c85276eed83edf16b7897a48f1c46b1661648dfc343e064297296bbe12.jpg",
+        "intro": "\u00a1Prueba nuevas motorbikes!",
+        "description": "Este DLC incluye:\n-4 nuevas motorbikes (con colores especiales)\n-Nuevos colores para las dem\u00e1s\n-Nuevos colores para los guantes\n-Dorados especiales para las motorbikes\n\n\u00a1Personalizad vuestra moto y disfrutad de la carretera!",
+        "languages": null,
+        "size": 9437184,
+        "ids": [
+            "01003F200D0F3001",
+            "01003F200D0F3002",
+            "01003F200D0F3003"
         ]
     },
     "70050000022552": {
@@ -48771,6 +49742,44 @@
             "0100E1F013675042"
         ]
     },
+    "70050000024193": {
+        "id": "0100B110109F9002",
+        "rightsId": null,
+        "name": "Urban Flow - Winter Expansion Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70050000024193,
+        "category": null,
+        "ratingContent": [
+            "Violencia moderada de fantasia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/260848c3254e86fcc849d007e8a23894bebe2e990448cfd09b647931b9d23681.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5b88b56b155f214342277cf3e0bdf04a1ffb9a5cdb8e8c2439f952dde357c238.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af8e3b3560b508e52fc60e5da735815849a359b455039df6c5b7bb6ba5c87137.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d5e6d146b1fd8dd61bc453a868988acd51ff94ff1390fae957b91889e7c9a26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf8a7c648842d66f1d60baaeac0f73881dc4032a5df9a5f82e133054de28f027.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f40ae4185385338fcfc1bacff9ff69b65a9758d77d762155de9512361b027c6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/731aa08c3c678a4266cd134530917affe821432f611923cf747701456224bbdd.jpg",
+        "intro": "\u00a1El invierno ha llegado a Urban Flow!",
+        "description": "\u00a1El tr\u00e1fico navide\u00f1o es el mejor!  \n\n\u00a1Ayuda a Santa a repartir regalos entre los habitantes de Urban City! \n\nDisfruta de dos nuevos veh\u00edculos: \u00a1el cami\u00f3n de bomberos y la m\u00e1quina quitanieves!\n\u00a1Juega 20 nuevos niveles!\n\u00a1Disfruta de la tem\u00e1tica invernal y la nueva m\u00fasica!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100B110109F9002"
+        ]
+    },
     "70050000024265": {
         "id": "0100073011383001",
         "rightsId": null,
@@ -50197,6 +51206,76 @@
         "size": 6291456,
         "ids": [
             "0100E1F013675049"
+        ]
+    },
+    "70050000024826": {
+        "id": "0100DEC00F7ED001",
+        "rightsId": null,
+        "name": "Pizza Bar Tycoon Expansion Pack #1",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70050000024826,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bfa550d5d7bb893c80397b44763612ffce4f5b5e6a9a342543d9e5de6bc074d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36e60281a402abd24a514d0d9a8ff2f9b479b0a17145a3d553bf09bede8d4af3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a02f7f72cc4887b369886c5701eb180ecb66ade5478d50d843ba174de090e613.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2273019aba448ab1a703cdb300f8976a3daa8eab133d7c52979800db42e4286f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f3b812e5bf662c35242966a9ff98c1242dd2741544ea0ea5627bdecb674bd24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bdae1fdd20de58b4317bbd1a9391e83f20287c5435baaee98d4cac6f96c65ddd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8f194734108363f74ab488b01b9405e96eeaedefd1552a8535abc4d114c2c52a.jpg",
+        "intro": "\u00a1La pizza nunca sobra!",
+        "description": "\u00a1A todo el mundo le encanta! \n\nAmpl\u00eda tus aventuras italianas con esta actualizaci\u00f3n de contenidos y completa los 20 nuevos niveles de este primer pack de expansi\u00f3n para Pizza Bar Tycoon.\n\nAdelante, \u00a1prueba tus habilidades!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100DEC00F7ED001"
+        ]
+    },
+    "70050000024827": {
+        "id": "0100DEC00F7ED002",
+        "rightsId": null,
+        "name": "Pizza Bar Tycoon Expansion Pack #2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70050000024827,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bfa550d5d7bb893c80397b44763612ffce4f5b5e6a9a342543d9e5de6bc074d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36e60281a402abd24a514d0d9a8ff2f9b479b0a17145a3d553bf09bede8d4af3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a02f7f72cc4887b369886c5701eb180ecb66ade5478d50d843ba174de090e613.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2273019aba448ab1a703cdb300f8976a3daa8eab133d7c52979800db42e4286f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f3b812e5bf662c35242966a9ff98c1242dd2741544ea0ea5627bdecb674bd24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bdae1fdd20de58b4317bbd1a9391e83f20287c5435baaee98d4cac6f96c65ddd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/43e226a5ce9d9335ce1d0151bac38dd0e92bfa60533d3f8f511a83fe498caefe.jpg",
+        "intro": "\u00a1La pizza nunca sobra!",
+        "description": "\u00bfQueso o mozzarella? \u00bfSalami o beicon? \n\nCada cliente tiene sus preferencias, tu tarea consiste en satisfacer a tus clientes en los 20 nuevos niveles de esta expansi\u00f3n para Pizza Bar Tycoon.\n\nAdelante, \u00a1prueba tus habilidades!",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100DEC00F7ED002"
         ]
     },
     "70050000024831": {
@@ -62168,6 +63247,44 @@
         "size": 3145728,
         "ids": [
             "010071400F83700B"
+        ]
+    },
+    "70050000029736": {
+        "id": "0100B110109F9003",
+        "rightsId": null,
+        "name": "Urban Flow - London Rules",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70050000029736,
+        "category": null,
+        "ratingContent": [
+            "Violencia moderada de fantasia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b8ba2f8af1cb789922d2f62e29b519206c742ee9bedbc9eb8caef50a9d25bdd7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc28e47dbefd8a2b6912cc3afdc6e188a9e5f7dec6a77e2d2e1857e128b37c00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2ab0463b58118a3c4254be26144e5d3b7e7e23c507597b9fc3a460f6a981ee7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8392a54a3b51ed20b604b606635984dd86cecc74cbd42fff04905a78f32b3de1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b1f1c2c7e84c593024423981dd62a9415809b7cc0f9e25aada318f25cb4c2db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e20b99c15be0ee9595eaa5d924c42736455bc76fc4a1cef153be8e84ba79dfbe.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b567d21b315a820bb3d4da2bca484a7406cf321ed69600b38d17ae5654b032f.jpg",
+        "intro": "Prueba las normas de Londres\n",
+        "description": "El pack Final te presenta nuevos desaf\u00edos y problemas que debes resolver, oficial de Urban Flow. \u00a1Prueba las nuevas normas y las \u00faltimas fases de Urban Flow! \u00a1Nuevas fases, nuevos modos Endless y nuevas reglas! Esta vez, prueba las reglas de Londres... \u00a1el tr\u00e1fico circula en el sentido contrario!\n\nAdem\u00e1s de las nuevas normas, te esperan 10 nuevas fases. \u00a1Pru\u00e9balas!\n",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100B110109F9003"
         ]
     },
     "70050000029743": {
