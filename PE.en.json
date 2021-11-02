@@ -4956,6 +4956,59 @@
         ],
         "size": 2589982720
     },
+    "70010000011892": {
+        "id": "01007BD00AE70000",
+        "rightsId": "01007BD00AE700000000000000000005",
+        "name": "Car Quest",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000011892,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Platformer",
+            "Racing"
+        ],
+        "ratingContent": [
+            "Mild Comic Mischief",
+            "Suitable for All Users"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ezone",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/102cebef6a5885d3e39b85468d5505d87667b8607584c08e90d68e65fada3e2c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6d66d06d7f96cae5ac64fc133e5de5ee502aa5eec70e9b887eb2a9d5ee956a7f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a0268e2d3a15cb3a1c614dbaad8e595a1fb5f1c45b9f4d35f079dc09da46847b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc4fea2976c736d996ff0099f082c16937accd4fcf91fec04cdf34b1e84bfcfb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62cc57c157d97b2bd72d48a74049af9a75da360be1a7e2e02d3b9c2aed52a5d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e1a0e367e4fa4c641b5b91c35248580d48c02342164ad00a3aef9fac4cd07fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94bc399da461cfe50fee15718478dba14036d1495478240127c1cc2253f2d46f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6756fb76a21848e00fbaf4f5aa81fa142c1a5d51a25c08c97b2bd8e25d9ed587.jpg",
+        "intro": "Hit the road to epic adventure in Car Quest: drive, collect, explore, solve, discover.",
+        "description": "Buckle-up for an epic road trip through a colorful world of puzzles and adventure. Use driving skills and puzzle solving abilities to find missing artifacts and piece together the broken world of Blocktaria.\n\nDRIVE everywhere: it's like your favorite kart racing and platforming puzzle adventure game all wrapped up into one.\n\nCOLLECT batteries to unlock portals and recover 100+ artifacts to unlock new realms and paths on the road to discovery.\n\nEXPLORE more than 15 unique visually striking realms.\n\nSOLVE physical puzzles, push obstructions, jump off ramps, or skillfully navigate challenging mazes.\n\nDISCOVER the secrets of Blocktaria and recover the lost memories of your helpful but very forgetful guide, Lord Blockstar. What is his story? What secrets will be revealed?\n\nFeaturing:\n\n- 4+ hours of gameplay\n- 15+ surreal realms to discover\n- 100+ artifacts to collect\n- Put your driving skills and puzzle solving abilities to the test\n- No damage, no time limits\n- Intriguing story to discover\n- Soothing visuals and soundtrack\n- The perfect 'no internet connection' road trip or travel game\n- Support for multiple languages\n- Feel every skid, bump and crash with HD Rumble support\n\n1.0.1 Update:\n\n- Hint stations to replay the last secret revealed\n- Toggle all hints on/off (useful for second time players and speedruns)\n- Reduced grind: all artifacts are permanently collected\n- Adjusted values and added more mega coins\n- Unlock new cars by completing the game\n- New breed of easier to herd sheep!\n- UI tweaks for improved readability\n- Game progress can be reset",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 351272960
+    },
     "70010000012124": {
         "id": "010031200B94C000",
         "rightsId": null,
@@ -7762,7 +7815,7 @@
         "numberOfPlayers": 4,
         "rating": 17,
         "developer": null,
-        "publisher": "Those Awesome Guys",
+        "publisher": "WhisperGames",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/76e739d7ec4a0a77b113db2aeae61f2fe5bc46515f8daef06f7f46555680f8f0.jpg",
         "screenshots": [
@@ -11848,7 +11901,7 @@
             "ko",
             "zh"
         ],
-        "size": 3393191936
+        "size": 3392143360
     },
     "70010000022886": {
         "id": "0100A9400C9C2000",
@@ -17167,9 +17220,11 @@
             "Action",
             "Shooter"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 6,
+        "rating": 10,
         "developer": null,
         "publisher": "City Connection",
         "frontBoxArt": null,
@@ -21109,7 +21164,7 @@
             "zh",
             "zh"
         ],
-        "size": 13645119488
+        "size": 13722714112
     },
     "70010000038819": {
         "id": "0100726014352000",
@@ -22218,6 +22273,46 @@
         ],
         "size": 406847488
     },
+    "70010000040921": {
+        "id": "010058E014EBC000",
+        "rightsId": null,
+        "name": "Popeye",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211104,
+        "nsuId": 70010000040921,
+        "category": [
+            "Arcade",
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Sabec",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/46c53c095ed1704e13c0edba0c63140ad79f00f83b6493e7bc6d860443765973.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c9e60cfd9e8390d3ea0b0eaa1f97aa5adf275c664df390e2079cc83cc083fc20.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d48d34274d95e906de2eae5796b32edc6639000da060f9a021d8bdd458ba3178.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c46638e37833426c41c3b29bf766699427ccf649bd107d0cb56a8876f93b94c2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bc2bfe44054df4e40b3a754a9611170791fc5aee25619a4330a6f840cadec71a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/869a417744715b36bf63388689b5a15e413e305798e3d7b3d136ed03b8445472.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fc8522098aacb09a4599284759e8ec6e59fa7842fde1e8eb94cb2ae8c658f973.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/32fdf34030904e7888fdf227931b516d18240209e83751449586bcb5060c9a5b.jpg",
+        "intro": null,
+        "description": "The official Popeye game in which you play the spinach eating sailor in this modernized adaptation of the classic arcade game. \n\nThe objective of the game is to get the highest score by completing  as many levels as you can by collecting hearts and letters thrown down by Olive all while trying to avoid the dangers of the witch, vulture and Popeye's rival Brutus.\n\nFind and eat the spinach and get the special powers needed to punch your enemies into the sea and become faster at collecting the items before they return.\n\nPopeye is a simple, pick up and play, fast action, fun game which anyone can play, but be warned winning a high score won't come easy.",
+        "languages": [
+            "en"
+        ],
+        "size": 805306368
+    },
     "70010000040936": {
         "id": "01009AA014EE4000",
         "rightsId": null,
@@ -22355,6 +22450,47 @@
             "zh"
         ],
         "size": 49436164096
+    },
+    "70010000041151": {
+        "id": "0100183015008000",
+        "rightsId": null,
+        "name": "Occult Interrogation: The ritual of little nightmares",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211101,
+        "nsuId": 70010000041151,
+        "category": [
+            "Action",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Cooking & Publishing",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/708e6fc96857348a6f9cda24cf4fed5f9971d5bdf27fc8c9b206894d5f7268cc.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/02e1a031066434811e94841877d7d4d96627c3e870fbaa1fd5ce1acba12d279d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/368da61567843f165e0f1551a7c2e491d68734c24ba7d76efdbfc3bd13ffe0e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7a0d765a68acdde0504f1d97be18ca3d641db8b2b7107ef8cc4f2643576d4eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c3179a2ff27c9fb7cd51358abd024cc52b4f25bd57e15bb4df87ba66645a412.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1dbef5e44935d05c8ee3b1a5d1868b84c0d354b34af0468a485e7dd3a5dcbd6e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b67b67b22e9cfd57c02b99eb950716910bf3cafcc67a3338dbd231261949d72.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/89046e56799799cf056955fde6ba8e3cf22c3d05aadf0f49a00ab6bd23b95510.jpg",
+        "intro": "Can you prove your INNOCENCE? Overcome the Devil's interrogation. Experience the stress of making decisions. An esoteric and horror game that will test your memory.",
+        "description": "Are you Innocent or Guilty? A story of sinister magic, play and makes decisions in this evil adventure, a dark game with scary story where you will have to prove your innocence, or you will be condemned guilty in hell.\n\nYou will find an esoteric and dystopian world where you will have to demonstrate your innocence.\n\nWhat makes Occultism:Interrogation so interesting?\n\nYou must answer their questions correctly. If you do not respond quickly or your memory fails you, you will be found guilty and you will be punished.\nEach interrogation that you survive will bring you a step closer to your goal.\n\nMore than 20 esoteric and occult questions.\nMultiple ends as you prove your innocence.\nThink fast, time runs out according to your guilt level.\nA new interrogator each time you enter the occult sect.",
+        "languages": [
+            "en",
+            "es"
+        ],
+        "size": 96468992
     },
     "70010000041231": {
         "id": "01001C6014772000",
@@ -24412,7 +24548,7 @@
             "de",
             "it"
         ],
-        "size": 12603883520
+        "size": 12880707584
     },
     "70010000043226": {
         "id": "01002D0015888000",
@@ -26181,7 +26317,7 @@
         "languages": [
             "en"
         ],
-        "size": 570425344
+        "size": 634388480
     },
     "70010000045267": {
         "id": "01000000160F6000",
@@ -26373,6 +26509,41 @@
             "ru"
         ],
         "size": 90177536
+    },
+    "70010000045335": {
+        "id": "0100E6A016142000",
+        "rightsId": null,
+        "name": "Tank De La Muerta",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211130,
+        "nsuId": 70010000045335,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "NunoVicenteBarreto",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/72aeff09c22581ffd8e0e81dd16b80076440529b1c8cd6342798dbc6e1992082.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/446c321c3742ded86d1861c8063a82cf30a5c06a82f3f855ff58de68e4ff8751.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa883961aaf217fa070f175b7915827e48afdc8b4a9ca5bbd237fd4e54b1f7a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3233cec450ce03bafff1f51a42946fcbd75d1a457b82de3fec7711ddea0b4843.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ccae0236aa3567d2e2dd1370ae3c2f6ef2c15a2bc5387a5862a696ff3f77e2f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17df5202e00dfdafe19c95b4f3f510af396507856e6d6d4e7cfd8eb4d8a1761c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4296f36ebab0627cd0d83bacad617ad028b02f7003ba2df1867ba3fdea4cdcf3.jpg",
+        "intro": null,
+        "description": "Tank de la Muerta follows Enrique, a normal zombie, humbly living in the cemetery, determined to find the love of his life. \nThroughout his wanderings, and innumerous parties, Enrique will have to make choices, that will impact the very foundation of the relationship with his friends, or may lead to nothing at all.\nWill he be able to find love?",
+        "languages": [
+            "en"
+        ],
+        "size": 314572800
     },
     "70010000045354": {
         "id": "01001030160F4000",
@@ -27323,6 +27494,46 @@
         ],
         "size": 1251999744
     },
+    "70010000045843": {
+        "id": "0100B150163A4000",
+        "rightsId": null,
+        "name": "Gynoug",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211112,
+        "nsuId": 70010000045843,
+        "category": [
+            "Arcade",
+            "Shooter",
+            "Action"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/54c955125ac65d8689918d85d345d74909f362d366acdfa0ad6dbc14b525703d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/830ebfb9d37f075f72dce79e1b27eb65ab0eff4e1e4c969cca22c23186c64130.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/312f96a024a5756a8f67683fada1901b400d017ba278c56c0c9633968b1ffb09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee1d0fdb44886f108bb8f2295b186e926e11a70297916e24c8de262c37d0164e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c91e1bc04e2fa371eda6b1284603892a09c56731d21180e84e77bcb8a6d93b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15b4ff19f13baff731ac6a6e4da8019a9d98eaee0ab86a583c2334a5f6969b04.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c22dd330268dc9395ed88300755a5b80b78d80c3923134336924be1c6c036cab.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dbdc8dcbdd79fdf0a82408fe7fa6c025c3862fef1beb9da08c03af2c348e8c14.jpg",
+        "intro": "Face evil creatures as a winged soldier on this side-scrolling shooter classic.",
+        "description": "In an era between the Middle Ages and the early modern period, the demons have grown in power by feeding on the evil ambitions of the people. Led by a being known as The Destroyer they plan their attack.\n\t\t\nThe angel Wor stands up for the survival of the entire tribe, and heads to Iccus to prevent the spread of the evil spirit.\n\nTake control of Wor and shoot down every grotesque enemy in your path. Defeat the demon boss at the end of each area to advance onward.\n\nFeatures:\n* Improved modes available with accessibility features and modern controls\n* Glorious and grotesque art and sound\n* Epic mid-stage and end-stage bosses\n* Multiple power-ups to increase your shot\n* Legacy title from the 1990s!",
+        "languages": [
+            "en"
+        ],
+        "size": 29360128
+    },
     "70010000045870": {
         "id": "010083E013188000",
         "rightsId": null,
@@ -28167,6 +28378,42 @@
         ],
         "size": 545259520
     },
+    "70010000046532": {
+        "id": "010086D01674E000",
+        "rightsId": null,
+        "name": "Handpan",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211103,
+        "nsuId": 70010000046532,
+        "category": [
+            "Music",
+            "Study"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Sabec",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c56fbd84efeea7408415346e749d479f3415e99b2a47ad0feba7b1c72465bc48.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d82306b551a1cc44a629ca4175b2ee1a2f5e3f4d59404abd3d15a82849e92450.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/79b01041bc27e106eabf1d70db83ad5e9e3167a3e4d7936345b8270009d2288e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9938e77f5c26362a3da830178f8ffe7d18c8240be20972438af24a5ea0c92cb1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6325a45d99c1a1ba12d6d57d8edf27018d26c68bb4455c2adbb15f418f30d981.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abf1e705e9f87ee82014a2daad0158cffa0d28d240580ffed48872fa1d1b92d9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a0fb0786e22c7d06501010e400fcfc9958cbd321dbbbf6bae8d0f2912b067a02.jpg",
+        "intro": null,
+        "description": "The ultimate Handpan simulator is now available on Nintendo Switch\u2122\n\nUnlike most other instruments playing the handpan on Nintendo Switch\u2122 is really easy to learn, compose and play amazing music for your your friends and family.\n\nPlay Handpan,  also known as a hang drum, with either the touch screen or Joy-Con\u2122 and easily change the tone or the scale of the handpan and produce your own musical creations.\n\nYou can also choose between the Solo or Duo mode (two handpans)  ",
+        "languages": [
+            "en"
+        ],
+        "size": 81788928
+    },
     "70010000046617": {
         "id": "01002FB016784000",
         "rightsId": null,
@@ -28393,7 +28640,8 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Digital Purchases"
+            "Mild Fantasy Violence",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": 2,
         "rating": 6,
@@ -28540,6 +28788,50 @@
             "en"
         ],
         "size": 50331648
+    },
+    "70010000046947": {
+        "id": "0100042016884000",
+        "rightsId": null,
+        "name": "Panmorphia: Enchanted",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211111,
+        "nsuId": 70010000046947,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Lifestyle",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "LKMAD",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2de407f118db67eb1cc86f49f0bb430ea6bfe4c98287394e1aa73794f8c9baa0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8f99a82b1fc86b5a734c47585f8e74788cf982bfdd3bf9f3f173e34012842f83.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ceca03b52d1cae30deb5161803f3dc554e9fa66511d3b65a272c3d5ba80af68.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/07f7684ef1afd35ffc5db3aa428e8c2eccc4c679648d2c11a74c712e7a5d8d12.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5db279c07d60193c239277b17b29c0e700cefb1e472d6a44eb9d857b68daa3b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20c2b6a24690bdd90b1398d2db6f491edf4570e0f16a84ef14a2d35a23e133bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/264744416b3be6e65a6e033d9709d85689a67605ebb3507dce30462c2b7894ff.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f1cd5fa76ee9452ef452e5f98caf2f00beb19f1ba91525c9f975f51b9c682f3d.jpg",
+        "intro": "A room escape game set in the Panmorphia universe!",
+        "description": "In the first adventure, you used your ability to wield each element and transform yourself into the animal that best represented it! That enabled you to alternate between each animal's point of view and save the four trapped elements!\n\nIn your second adventure, Panmorphia calls out to you once more! You are being sent to the Lost Temple to enchant the amulet and evolve your powers! Doing so will enable you in the future to swap freely between the four elemental forms!\n\nThe Lost Temple is like no other! It has four sides, each representing the four elements! \u2028Your powers enable you to do magical things such as breathe underwater, turn day into night, summon the wind, and many other wonderful surprises!\n\nFeatures:\n\u2022 Room escape, puzzle adventure game!\n\u2022 Custom designed beautiful graphics!\n\u2022 Many items to collect and puzzles to solve!\n\u2022 Dynamic notebook that tracks your clues!\n\u2022 A Hint System that guides you with the next task!\n\u2022 A beautiful soundtrack and original sound effects!\n\u2022 Auto-saves your progress!",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 130023424
     },
     "70010000046983": {
         "id": "0100C9A00ECE6000",
