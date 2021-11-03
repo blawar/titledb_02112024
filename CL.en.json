@@ -4776,6 +4776,56 @@
         ],
         "size": 1959788544
     },
+    "70010000011602": {
+        "id": "01007A700A87C000",
+        "rightsId": null,
+        "name": "The Long Dark",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211103,
+        "nsuId": 70010000011602,
+        "category": [
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Language",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Hinterland Studio",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/70de69e5dd59ba357f2fdae9370e02e9b15481dc61e03a271ca4fa49a6b8420c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6252dbf9bdf35938db088f5bf8231ac3cd5583f10039d67be0c8ef075cb6e2ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8c9716debf8033d8e5918a2c0901f7eec040cf803a56a04bb66ddb94d675ae64.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80d5d58f4228b8f48768bde9822a3311c16b28f0e087bb8f323da39fa3f17132.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d0370fc58bb9e559bfbad7f1c76d8ccf548432f3760e783b2493ec6e8a2a685.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bcdf7c9a05152629bcd3fc82f16d6392b98c809107fdc60aaaf13ceb96f92501.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/acfb95447d6eae8a7aa99523d55318a7457bc8085feaff818cae0a048e5cfb4f.jpg",
+        "intro": null,
+        "description": "Bright lights flare across the night sky. The wind rages outside the thin walls of your wooden cabin. A wolf howls in the distance. You look at the meager supplies in your pack, and wish for the days before the power mysteriously went out. How much longer will you survive?\n\nWelcome to THE LONG DARK, the innovative exploration-survival experience Wired magazine calls \"the pinnacle of an entire genre\".",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 15205400576
+    },
     "70010000011664": {
         "id": "010096000B3EA000",
         "rightsId": "010096000B3EA0000000000000000004",
@@ -19093,12 +19143,9 @@
             "fr",
             "de",
             "it",
-            "ru",
-            "ko",
-            "zh",
-            "zh"
+            "ru"
         ],
-        "size": 7104102400
+        "size": 10506731520
     },
     "70010000036028": {
         "id": "01002220138AE000",
@@ -20809,14 +20856,15 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Crude Humor",
-            "Fantasy Violence",
-            "Mild Blood",
+            "Blood",
+            "Drug Reference",
             "Sexual Themes",
-            "Use of Alcohol"
+            "Strong Language",
+            "Use of Alcohol",
+            "Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 13,
+        "rating": 17,
         "developer": null,
         "publisher": "Blood Music",
         "frontBoxArt": null,
@@ -22365,6 +22413,43 @@
             "ko"
         ],
         "size": 324009984
+    },
+    "70010000040986": {
+        "id": "0100833014F3A000",
+        "rightsId": null,
+        "name": "Instant Sports Winter Games",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211103,
+        "nsuId": 70010000040986,
+        "category": [
+            "Sports",
+            "Party"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Plug In Digital",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/52b007e34e3edbeaca944ffaa1abdc05275c260028d924699821f446007ff465.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/19863a1be3b464805be36b04ab310d2f3b73f3b536cd432f181fa4379897ffca.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cb69fa53c9a3989da4fdcc88b334740662ef68091f7aeffb220fdd9c2ca41308.jpg",
+        "intro": "Winter has never been this fun!",
+        "description": "Take your suit, your skis and ski poles, on the way to the snowy roads. With INSTANT SPORTS Winter Games, you\u2019ll be offered an avalanche of extremes and amusing sports to play, as well as vacations you will never forget\n\u25cf\tPlay 7 winter games, including Snowboard, Ice skating, Bobsleigh and way more!\n\u25cf\tEnjoy your favourite winter activities in breathtaking landscapes! \n\u25cf\tUp to 4 friends to share a sporty time in the snow: Snowballs fights, curling\u2026 You got all-in-hands to have fun in INSTANT SPORTS Winter Games! \n\u25cf\tCollect hundreds of items to personalize your character and be the real star of this Winter",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt"
+        ],
+        "size": 1723858944
     },
     "70010000041054": {
         "id": "0100B94014F8E000",
@@ -25643,10 +25728,10 @@
             "Strategy"
         ],
         "ratingContent": [
-            "Fantasy Violence"
+            "Mild Fantasy Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 10,
+        "rating": 6,
         "developer": null,
         "publisher": "QUByte Interactive",
         "frontBoxArt": null,
@@ -25844,6 +25929,51 @@
             "en"
         ],
         "size": 224395264
+    },
+    "70010000044745": {
+        "id": "010004C015EFC000",
+        "rightsId": null,
+        "name": "Retro Highway",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211111,
+        "nsuId": 70010000044745,
+        "category": [
+            "Racing",
+            "Arcade",
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Gearhead Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/51e4415c0ef8581083fde136b5d4f0f988cec96cd3d751c7a556d52189f4104e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cdf7c9c0d28febf8d5c0cc1f1c0f5621e78092130bf8ded77bb7faffb94a6128.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7907b54c7e36214c28f9f33e81f123c88bbdac583ed21fca65e395c1859ed035.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fe6049da7a985ee841c7ecd618b05512776841172338329d58ffacf70e02b936.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ae0448866a51d7c19753beffdf1f94ef9fcbabb06b999622748737e23f8a44a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e32fceb5afe0522d595a0a5f88cedd5ba45c065baa1594183a9e1462eccd61ec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c434e03649002b118b456623c3c46af38f4437d1d7cd8db717817171ad7ec17a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d3037a12474223c4eb909f7876df6190db393f5694582d58f5a4d42944bea424.jpg",
+        "intro": "Pure arcade fun!",
+        "description": "Hit the Retro Highway and return to the days of 16-bit blast processing and pure arcade fun! Retro Highway is a throwback game aiming to combine the accessibility of modern titles with the high-skill challenge and charming aesthetics of old.\n\n\u2022 Experience high octane old school action on your console in 60 fps\n\n\u2022 Complete daring challenges and compete with your friends or the whole world for the highest scores\n\n\u2022 Explore six unique environments ranging from a hot desert freeway to a futuristic moon base\n\n\u2022 Customize your playstyle by choosing from a diverse garage of 10+ bikes and by upgrading various powerups\n\n\u2022 Embrace the nostalgia rush caused by stylish pixel art visuals and chiptune soundtrack",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "ru"
+        ],
+        "size": 51380224
     },
     "70010000044748": {
         "id": "01002C5015EFE000",
@@ -27840,7 +27970,9 @@
             "Action",
             "Adventure"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Blood"
+        ],
         "numberOfPlayers": 2,
         "rating": 6,
         "developer": null,
@@ -29060,6 +29192,48 @@
             "pt"
         ],
         "size": 441450496
+    },
+    "70010000047286": {
+        "id": "01004AA016918000",
+        "rightsId": null,
+        "name": "FishWitch Halloween",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211113,
+        "nsuId": 70010000047286,
+        "category": [
+            "Puzzle",
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Green Sauce Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/770c7c7244b48ecbf1eed32a8725d24dd31ef6d98ede226636d15e8e0a31af4c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ea7cc8bd740fe0c6c894685ea72359fcb554479d2e0a63588f6ccd29d630aed0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d54b2e7e07bca21c155bc75993fd48f19c362f0abe75540391d61f44da4a9be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/44f395780f2b57ba64f5b3988c3f6ae7fe98206300778e0de2bda8c221e07181.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f3a471069c1392761cf19105633161953aedaa9509c9e3be63e01dbcb2b9234b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aaedb8c6c6abe875cc4d1ae88160cf50e3c7431b79642f20ecd6f2add2bd4231.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e057671185595b102a9220a0762faa4b5fff02248967a36b4f5b570bfbaeac3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f81e72d1aad98b3852f82b4c35e361c6d1a7e358b5bb3274dc6e9cdc1096bbe0.jpg",
+        "intro": "Dive into the underwater fun in this breathtaking adventure. Help Beatrice decorate a fish sanctuary for Halloween.",
+        "description": "Grab your diving gear and join Beatrice, the guardian of the seven seas, in this enchanted underwater Halloween adventure. Enjoy addictive gameplay as you earn money to decorate a sanctuary with colorful fishes and awesome thematic ornaments. As your sanctuary progresses, you get diamonds with which you can buy cool power-ups to help you beat the levels. Match your way through the wonders of the marine life and explore a bewitching underwater world. Get hooked on FishWitch Halloween.\n\nFeatures:\n* Splash into the Halloween spirit with this spooky match 3 game\n* Tons of hand-made levels full of challenge\n* Enjoy a variety of game modes and difficulty modes\n* Choose from dozens of fishes and Halloween decorations\n* Experience an exciting journey through marine life\n* Learn fun facts about marine life as you play\n\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "fr",
+            "de",
+            "nl"
+        ],
+        "size": 196083712
     },
     "70010000047504": {
         "id": "01002CD016A7C000",
@@ -52075,7 +52249,7 @@
         "intro": null,
         "description": "Apex Legends - Character Dialog Spanish\n",
         "languages": null,
-        "size": 2393899008,
+        "size": 2551185408,
         "ids": [
             "0100D9500FC67009"
         ]
@@ -64160,6 +64334,42 @@
             "010051C0134F9008"
         ]
     },
+    "70050000029948": {
+        "id": "010071C0133910C8",
+        "rightsId": null,
+        "name": "Ryza's Outfit\u00a0- Special Costume for Ao",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211109,
+        "nsuId": 70050000029948,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Suggestive Themes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/936bddfd65e858d8acc607542100602fd9c4d6d2a5e8bd0f3d3fdc2487904716.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b63e7031458d4421723c8dea873262047add014a288c64e90726e1e11e0024e7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e90922315cfa642610017f940f67b8246e4ba022a9396e58c815019d8cc53a6a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b9f45c41b700f5fa9f14daee3df4740431e3707691861c7014daf81dcdcbe086.jpg",
+        "intro": "Say goodbye to an ordinary life. A certain character's outfit can be found here!",
+        "description": "\"Ryza's Outfit\", a costume for Ao based on the outfit of Reisalin Stout, the main character from \"Atelier Ryza 2: Lost Legends & the Secret Fairy\", is added.\n\nNote: After unlocking the Change Outfit function for the poolside \"Locker Room\", you can change into the costume from the lockers inside the \"Locker Room\".\nNote: This content might be purchasable in the future.\nNote: For details about content, please visit the official site.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "010071C0133910C8"
+        ]
+    },
     "70050000030013": {
         "id": "01001B300B9BF066",
         "rightsId": null,
@@ -65981,6 +66191,39 @@
         "size": 3145728,
         "ids": [
             "0100C7D012FB9003"
+        ]
+    },
+    "70050000030967": {
+        "id": "010099F0138990C8",
+        "rightsId": null,
+        "name": "World War Z - PvPvZ Update",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211102,
+        "nsuId": 70050000030967,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Saber Interactive Incorporated",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/faf459043590b51a997cdcaad97b5da83d2d7a198989543532964cf76c2c77c3.jpg",
+        "intro": null,
+        "description": "PvPvZ offers a completely unique experience in World War Z, challenging you to outlive fellow survivors and the undead across a variety of competitive modes designed for 4v4 combat.\n \nThe zombie swarm storms the arena throughout the match, forcing players to battle each other and the horde while the tide of the fight can turn in an instant. PvPvZ includes five maps and the following multiplayer modes:\n \nScavenge Raid: Players race to secure resources across the map to win\nVaccine Hunt: Players must pick up and hold an object to earn points for the team\nSwarm Deathmatch: Two teams go head to head in a bitter fight to the end\nSwarm Domination: Capture zones to earn points and win a team victory\nKing of the Hill: Capture a single hill, then control it to earn victory points",
+        "languages": null,
+        "size": 770703360,
+        "ids": [
+            "010099F0138990C8"
         ]
     },
     "70070000000041": {
@@ -71273,6 +71516,37 @@
         "languages": null,
         "size": 37748736
     },
+    "70070000012824": {
+        "id": null,
+        "rightsId": null,
+        "name": "World War Z - Deluxe DLC Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211102,
+        "nsuId": 70070000012824,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Saber Interactive Incorporated",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2331946dc2cc2405539d3e4fc83ad9f7bb2605f3d176863b46a0ac907f3cd904.jpg",
+        "intro": null,
+        "description": "Outlive the Dead with the ultimate access in World War Z content and savings! The Season Pass includes:\n\n\u2022 The Professionals Character Skin Pack\nDripping with attitude, these new threads will turn heads among your fellow survivors.\n\u2022 War Heroes Character Skin Pack\nFight for the future with these four unshakeable heroes of the war against the zeke.\n\u2022 Special Operations Weapon Pack\nDevastate the hordes with these silenced weapons of a Tier 1 operator.\n\u2022 Biohazard Weapon Pack\nSplit heads in style with a tactical tomahawk and take out the trash with custom bio-hazard weapon variants.\n\u2022 Lobo Weapon Pack\nBattle in style with the infamous Lobo Melee Weapon plus the golden assault rifle, SMG and pistol.\n\u2022 Last Aid Weapon Pack\n\u2022 Signature Weapons Pack",
+        "languages": null,
+        "size": 22020096,
+        "ids": []
+    },
     "70070000012841": {
         "id": null,
         "rightsId": null,
@@ -71308,7 +71582,7 @@
         "intro": null,
         "description": "The Swarm Comes to the Nintendo Switch\u2122\n\nWorld War Z, the heart-pounding zombie shooter that has captivated over 15 million players now arrives on Nintendo Switch\u2122. Inspired by the Paramount Pictures film, World War Z focuses on fast-paced third-person shooter gameplay featuring swarms of hundreds of zombies. \n\nHumanity is on the brink of extinction. From New York to Moscow, Jerusalem and more, the undead apocalypse continues to spread. As the end looms, a hardened few band together to defeat the horde and outlive the dead.\n\nThis Deluxe Edition contains the multi-million selling World War Z game along with 28 unique bonus items including special character outfits, weapon skins and variants.\n",
         "languages": null,
-        "size": 7126122496
+        "size": 10528751616
     },
     "70070000012852": {
         "id": null,
