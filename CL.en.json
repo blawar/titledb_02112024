@@ -7823,7 +7823,7 @@
         "numberOfPlayers": 4,
         "rating": 17,
         "developer": null,
-        "publisher": "WhisperGames",
+        "publisher": "Those Awesome Guys",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/76e739d7ec4a0a77b113db2aeae61f2fe5bc46515f8daef06f7f46555680f8f0.jpg",
         "screenshots": [
@@ -18545,6 +18545,47 @@
         ],
         "size": 7244611584
     },
+    "70010000035185": {
+        "id": "0100DBB013444000",
+        "rightsId": null,
+        "name": "Joojee's Journey",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211111,
+        "nsuId": 70010000035185,
+        "category": [
+            "Action",
+            "Adventure",
+            "Puzzle",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "DigiPen Game Stu",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b247aa76ae8913b6f124d8aa3a86feca68c15a6adcb45564b61e0c0cfca64c83.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/044bb786f239b24f23e82ace09b37c91e4760503eb60040fb818f26d3477c9ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3035dbde39bfeaf7dfe8d7ea396c8411d942fd07244daf3f6f498d6ecaa88ab5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11dc8740e1b690f69d7b67450056de93f36f5bb4803b62c3ad89ede7450839d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3de00dbcd3d7b2218681ee26d267f7a1faa0aefca49a22966321c009a922a449.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/23d7f4cda3d0ecdcd019005dce8854f99dd89ff9f1564f38aec49c9036db182f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b5f01f47efdf67528097ad13c8635e6aa5ab71e2d862a686f418b9ee73388463.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/473184504fc577c0ee76baa56601d4ea9b5f19dbd0e58b61c710c268de7ede04.jpg",
+        "intro": "Embark on a heartwarming adventure in Joojee's Journey!",
+        "description": "In this whimsical narrative adventure, you\u2019ll play as Joojee, a lovable bunny who suddenly wakes up without her memory. Armed with nothing but her charm and a mysterious magic brush that allows her to enter anyone\u2019s mind, Joojee goes on a journey to recover her lost memories while helping others overcome their own troubles.\nGame features:\n\u2022\tTouching and funny character backstories and memories.\n\u2022\tChallenging platformer sequences.\n\u2022\tMind-bending riddles and puzzles.\n\u2022\tAssist mode that lets players skip challenging obstacles if they wish.\nPrepare to smile, laugh, and cry in Joojee\u2019s journey! Available in Thai, English, Japanese, and French. More languages will be released in the future.\n",
+        "languages": [
+            "ja",
+            "en",
+            "fr"
+        ],
+        "size": 1880096768
+    },
     "70010000035245": {
         "id": "01001C701348A000",
         "rightsId": null,
@@ -19319,11 +19360,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4b4991fcd213b39d525d10268a6590fc615c4cf54db0426f0db4cdfc776ef73c.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/c409ebdd3b95fc5c28dcdec98962fdd3255ceac91cf4a96e090ec28bbeb89739.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/68eb694a874189f20ff48283039fde203dd46844777ec41628d800dd52e893d4.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f78543fbb467bbbe44e68262d86969bab325bdc8421cf97da09fe6e225874b79.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/8733119ce8624761f2334f7c499df2be58b2fcf5dfcc89e617a28a7e415f08e7.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/795ac2095f4f44fda0add8804a5101916653d066e3b1b658f0eda64602088986.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/162f61ec024d538384b2a014a6a33c0f9c921396ae9ad23a9e704ddcf24d3fd1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e3164fde3b56994412b03a6d8762ba61caebf2e5775f3b342566395aa853472e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/861c0f16ef21495a7e44f0fdc76122ea57ddd2a90721ae2794d383f4608653a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cc4b4866749babfd9f2c0c6739ec6864a56125b10593d3174ed59b6fac0c803.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/50628fe2b2e54b895e8cba6c800d3d3b33a4016dcc0b66a8b04d2800284e0f79.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/42beb9c226bad3ddec561f100785f8f4cbe2b95755e98224b4eaa73b728a177b.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e6e78d9bfa88960f419e14841cd31fdf465d10fb4ab8565d55074f81070d40fa.jpg",
         "intro": null,
@@ -19331,7 +19373,7 @@
         "languages": [
             "en"
         ],
-        "size": 7484735488
+        "size": 7891582976
     },
     "70010000036178": {
         "id": "01006B5012B32000",
@@ -21226,6 +21268,56 @@
         ],
         "size": 8943304704
     },
+    "70010000038895": {
+        "id": "0100E70014562000",
+        "rightsId": null,
+        "name": "Epic Chef",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211111,
+        "nsuId": 70010000038895,
+        "category": [
+            "Adventure",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Alcohol Reference",
+            "Comic Mischief",
+            "Mild Cartoon Violence",
+            "Mild Language",
+            "Mild Suggestive Themes"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Team17",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a3594a006c0ebde9670c446f0cce486f47f4ff352725c62e7bda8e432d249b7c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/17f180c906ca3b65dd03db80720c635a0d6e07c46ae99af384dd0bb0c8f9a902.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3f192823fe7b7ea854f6bd6b38bc8d7fa4555055e4fb0056af856374e547e21.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ea99f2a659ad31643cb1a509a844118ce867afd623b446c695302b5fd8ef86c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cab8aceeadb471bfc6f19339c0011d75a0c7768fb32dd282fd6b8d6e81cd6ed0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea1f7563d6c449e4c77fc61fe9f7d4244dbfaf5c2e9933c66e95b47674daaf69.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4966d28e70f6ba483d53d8dff0cb992967127d67ff507c043b6d6ca0eb8abb1a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aae2182d43dea4096ee301ba4a25e46ce534acec803abe475cc82e1506457d12.jpg",
+        "intro": "Get ready for a tasty blend of life sim, crafting and cooking chaos!\n",
+        "description": "In Epic Chef you take on the role of  Zest, who must embark on a culinary journey to farm, craft and cook his way into legend.\n\nCreate Delicious Dishes!\nDynamic recipe creation means that you can experiment with thousands of different ingredient combinations to create a unique menu of delicious delights.\n\nChef Battles!\nTake on rival chefs in epic culinary clashes to see who is crowned cooking king! Dishes are scored on a variety of things and no two judges have the same taste, meaning every battle is different.\n\nHome on the range\nLive off your land by growing food such as fruit and vegetables as well as tending to an eclectic mix of animals from cows to unicorns! Repair and customise your dilapidated (and slightly haunted) mansion.\n\nCrafty Cook!\nA chef is only as good as their tools. Gather resources to craft specialised machinery that can process your ingredients, and even create new recipe components! \n\nExplore Ambrosia!\nYou are free to explore all that the city has to offer. Visit various locations such as the tavern, the spa or try your hand at fishing. Meet the friendly locals and make them hate you less with the power of food.\n\nTale as old as Thyme \nEnjoy a humourous story, with an elaborate cast of characters, all woven into a world inspired by the writing of Sir Terry Pratchett\n\nGrab your spatula and start on a journey to become Epic\u2026.Chef.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 2965372928
+    },
     "70010000039099": {
         "id": "01000FE014632000",
         "rightsId": null,
@@ -22051,7 +22143,7 @@
             "zh",
             "zh"
         ],
-        "size": 7046430720
+        "size": 7107248128
     },
     "70010000040418": {
         "id": "010077A00CB58000",
@@ -22436,9 +22528,14 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/52b007e34e3edbeaca944ffaa1abdc05275c260028d924699821f446007ff465.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/19863a1be3b464805be36b04ab310d2f3b73f3b536cd432f181fa4379897ffca.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/0a8c7cb3110d46c98a79b35b844c3490530a65f50cbb49d543443e866d118653.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/731dd9b828aa1c832dd465f462879f6f2afdd619506df8ec76084cf91274be37.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f7badb33bc646079e49185b3219e4c73f23acc40f1414d1cc468c815467aa8d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1a54e9d880332794809a99fdc2956771c5ef425699b1a6506971564c90c4e644.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91041663d1065ecb413fee2f827cedfda49fc834ff4d2bcd2344933392684b7e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a7949709a52f37a2d22cfab94cc4667c91e1b35dd630f75d568f44558d3f55b.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cb69fa53c9a3989da4fdcc88b334740662ef68091f7aeffb220fdd9c2ca41308.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b277d077523bad51da0b017d87c6d276b9cfa85ab1cbf851c67cd58a2b710cb5.jpg",
         "intro": "Winter has never been this fun!",
         "description": "Take your suit, your skis and ski poles, on the way to the snowy roads. With INSTANT SPORTS Winter Games, you\u2019ll be offered an avalanche of extremes and amusing sports to play, as well as vacations you will never forget\n\u25cf\tPlay 7 winter games, including Snowboard, Ice skating, Bobsleigh and way more!\n\u25cf\tEnjoy your favourite winter activities in breathtaking landscapes! \n\u25cf\tUp to 4 friends to share a sporty time in the snow: Snowballs fights, curling\u2026 You got all-in-hands to have fun in INSTANT SPORTS Winter Games! \n\u25cf\tCollect hundreds of items to personalize your character and be the real star of this Winter",
         "languages": [
@@ -22492,7 +22589,7 @@
             "zh",
             "zh"
         ],
-        "size": 49436164096
+        "size": 49613373440
     },
     "70010000041151": {
         "id": "0100183015008000",
@@ -23112,7 +23209,7 @@
             "fr",
             "de"
         ],
-        "size": 1716518912
+        "size": 2174746624
     },
     "70010000041579": {
         "id": "0100E1E01523A000",
@@ -24207,7 +24304,7 @@
             "zh",
             "zh"
         ],
-        "size": 4615831552
+        "size": 4465885184
     },
     "70010000042929": {
         "id": "0100563010E0C000",
@@ -24768,6 +24865,46 @@
             "en"
         ],
         "size": 31457280
+    },
+    "70010000043587": {
+        "id": "0100D800159FA000",
+        "rightsId": null,
+        "name": "The Adventure of Ravi 'n' Navi",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211110,
+        "nsuId": 70010000043587,
+        "category": [
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Mediascape",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/78b74d3041861b249002949758f0d45a81a505c22c55ad957a7af72645466ce5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b15a0ce905c420a18ca244586909e7da38141d2965e5a57ae0bea7cf4f9ffaec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5615ce538bea98370b508a56a0e5d6b9843cc22d2739ba66da34b06d72fb8d6f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/477dd0a3d4adad3f1baa7a946b53d7c757368d0c9c1d6ab2353d4bfd96d66998.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b9c2e7502455ef7e72bb5cb7bf56b78cd79b647ec39ab1a14c390872281be77.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/852371834faee17ea61dcb2bb6b123594d6651eacebb97d95eb9c9ba2aaf7c13.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d443fe714f898044efaad24243bdf1bd1075bbf320c70e0a9e37d9633099f7db.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b07157c22fd7c9ecaaa672de4570a89ce987ca47bc546c4f4c38de00802286a.jpg",
+        "intro": "The famous duo appears!\nTheir slightly funny, slapstick adventure!",
+        "description": "\"Radiant Rabbits\" is a village where rabbits and fairies live in peace. Ravi and Navi have to defeat the great demon king \"Shivarra\", who is planning to destroy the village!\nThe main character, rabbit \"Ravi\", joins forces with fairy \"Navi\" and sets out on an adventure to collect the \"Sacred Carrot\", the source of happiness hidden by Shivarra.\n\nOn their way, they are greeted by a variety of tricks and unique characters.\nThey can compete in boat races with beaver, ride a minecart down a mining railroad, and even play retro arcade games!\n\nAs they progress through the story, they can take advantage of the increasing number of actions, use the coins they've collected to buy dress-up items in the souvenir shop, and more...\nThere's so much to do in Ravi world!\n\nLet's go on a great adventure with Ravi 'n' Navi!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 528482304
     },
     "70010000043653": {
         "id": "01009BE015A20000",
@@ -27912,7 +28049,7 @@
         "languages": [
             "en"
         ],
-        "size": 122683392
+        "size": 168820736
     },
     "70010000046184": {
         "id": "0100465016540000",
@@ -28169,7 +28306,7 @@
             "en",
             "ko"
         ],
-        "size": 575668224
+        "size": 624951296
     },
     "70010000046322": {
         "id": null,
@@ -29274,6 +29411,51 @@
         ],
         "size": 1545601024
     },
+    "70010000047588": {
+        "id": "0100D65016AE0000",
+        "rightsId": null,
+        "name": "Kosmonavtes: Academy Escape",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211118,
+        "nsuId": 70010000047588,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Lifestyle",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "LKMAD",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b2cc659a4bce953f65213c49c3365281f6aa3b59ff5e3f1d91a4f999d07d0fc5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/97f8c213d7361b6930b1b3171809a44593fb9cc051d3e51e6a1cdf5422eabebd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f3178f24078da2941afd50e882532baf76f994803653d295f9f4d5d6c3a3a847.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b089d0aec5df6c544d0b4276a215192babb7d914927f4d9e51210fea3befd218.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a9d70e1526dcc43818ab784f0cad18164bf98e9ae98d75afadbc16c9ec2b3313.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19243d3d77d7663538cdcfefecb83b55cc548513d4bfa34e60b7862bb8c1476c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78183abc194d71687e6a435483e7eebc8b5a36117e4d3884931b62963bd6a9f2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/24e9352db52009de1a72ebf36263204d95e66c42269b08aee129592eb88a22e5.jpg",
+        "intro": "A room escape, puzzle and adventure game! \nHelp Vala graduate from the Space Academy \nand jet off to Venus!",
+        "description": "With the Earth's resources dwindling, the Kosmonavtes program was announced!\n\nThe goal was one, assemble a cadet team and send them out to colonise another planet! \n\nIn the first episode (Kosmonavtes: Escape Reality), Vala joined the team of cadets and came one step closer to fulfilling her dream of becoming an astronaut. \n\nNow she has to graduate from the Space Academy and jet off to Venus!\n\nFeatures:\n\u2022 Room escape, puzzle and adventure game! \n\u2022 Eight chapters to complete!\n\u2022 Beautiful graphics bring the game to life!\n\u2022 Many items to collect and puzzles to solve!\n\u2022 Fun soundtrack and original sound effects!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 168820736
+    },
     "70010000047636": {
         "id": "01009B90169D8000",
         "rightsId": null,
@@ -29310,6 +29492,45 @@
             "en"
         ],
         "size": 183500800
+    },
+    "70010000048043": {
+        "id": "01001B0016C9A000",
+        "rightsId": null,
+        "name": "SPACETIME ODISSEY",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211105,
+        "nsuId": 70010000048043,
+        "category": [
+            "Arcade",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/85f6f7d9143cae3d79098ad69b494640c426cebf654ed1943cd9ca6d57e06761.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f0a4bd2f05020edba933559b8ce4235007a5eedd506c4d4b269309108c7ba0db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f016926d8119cc8022de3ca61b480665ba2789dc7ff18d3d60a81449b527c5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e9bbe2a4b8205b629768cda3f803ef75ed1862d2e20d0c73d1da3d89893f365d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1434946c737aa22d897856f6ceb8808d475a39a76bd7cac8fe76dca8568c981b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d39175b4ca94513fc9e85e1a5c84de837f70ba456f75768b17036110d0fc6b89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a76c8fc6d6b60fb850a24fd4aa1c6a081e6dc8be2af5a4c22495a5a112a50cfc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6c9242c995be2cf18534d2164fc6731752f3bc573caae9dcad41ae2684e09ebf.jpg",
+        "intro": null,
+        "description": "SPACETIME ODISSEY gives you the opportunity to feel the excitement of traveling in space and exploring planets like you've never felt and seen before. The game has amazing graphics and physics that simulate space as it is in real life!\n\nWith your allied army, defeats alien ennemies throughout different solar systems and their telluric planets, destroy ennemy bases and conquer the universe! ",
+        "languages": [
+            "en"
+        ],
+        "size": 1436549120
     },
     "70030000000042": {
         "id": null,
@@ -66226,6 +66447,33 @@
             "010099F0138990C8"
         ]
     },
+    "70050000031293": {
+        "id": null,
+        "rightsId": null,
+        "name": "Fitness Boxing 2: Instructor Tunes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20211103,
+        "nsuId": 70050000031293,
+        "category": null,
+        "ratingContent": [
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c20638a380040d4ddbc2be3630d1ad079f5d6e69ec606f6a5c56fb32ea33d45a.jpg",
+        "intro": "Channel your favorite instructors with the new paid Fitness Boxing 2: Instructor Tunes music pack*!",
+        "description": "The Fitness Boxing 2: Instructor Tunes pack* includes 10 tunes written to represent each instructor. You can jam out to Evan\u2019s rock track or punch along cheerfully to Martina\u2019s breezy tune. \n\nHave fun getting active with your favorite instructors! \n\nYou can also record up to 30 seconds of your own gameplay footage with the video recording option when working out to these tracks. \n",
+        "languages": null,
+        "size": 216006656
+    },
     "70070000000041": {
         "id": null,
         "rightsId": null,
@@ -71406,7 +71654,7 @@
         "intro": "Anyone, Anywhere",
         "description": "A WORLD OF BASKETBALL\nNBA 2K22 puts the entire basketball universe in your hands. PLAY NOW in real NBA and WNBA environments against authentic teams and players. Build your own dream team in MyTEAM with today\u2019s stars and yesterday\u2019s legends. Live out your own pro journey in MyCAREER and experience your personal rise to the NBA. Flex your management skills as a powerful Executive in MyGM and MyLEAGUE. Anyone, anywhere can hoop in NBA 2K22.\n\nSTEP YOUR GAME UP\nNew tactical offense meets an overhauled defense for a more competitive and immersive NBA 2K22. Add skill-based dribbling, shooting, dunking, and alley-oops to your bag of moves, and counter them with ferocious new blocks and contests on the other end of the court.\n\nALL ABOARD THE CRUISE\nCreate your perfect MyPLAYER, level up for rewards, and express yourself through both your game and your style.\n\nYOUR DREAM TEAM\nCollect, craft, and hoop in the ultimate NBA fantasy competition: NBA 2K22 MyTEAM. Build your dream lineup of NBA stars and legends across any era, and explore game-changing evolutions to the MyTEAM experience \u2013 each addition introduced Season after Season.\n\nNEW SEASONS, NEW DISCOVERIES \nIn NBA 2K22, every Season brings fresh opportunities to reap new rewards. Whether in MyTEAM or MyCAREER, compete against the best and discover what amazing rewards each new Season has in store.\n\nThe NBA 2K22 NBA 75th Anniversary Edition includes:\n\u2022 100,000 VC\n\u2022 10,000 MyTEAM Points\n\u2022 10 MyTEAM Tokens\n\u2022 Sapphire Kareem Abdul-Jabbar, Dirk Nowitzki, and Kevin Durant MyTEAM Cards\n\u2022 22 MyTEAM Promo Packs (Receive 10 at launch, then 3 per week for 4 weeks)\n\u2022 Diamond Jordan Shoe MyTEAM card\n\u2022 Coach Card MyTEAM Pack\n\u2022 10 Boosts for each MyCAREER Skill Boost type\n\u2022 10 Boosts for each Gatorade Boost type\n\u2022 4 Cover Athlete T-Shirts for your MyPLAYER\n\u2022 MyPLAYER backpack and arm sleeve\n\u2022 Custom-design skateboard for MyPLAYER",
         "languages": null,
-        "size": 49436164096
+        "size": 49613373440
     },
     "70070000012780": {
         "id": null,
@@ -71936,7 +72184,7 @@
         "intro": "Three iconic cities, three epic stories.",
         "description": "Three iconic cities, three epic stories. Play the genre-defining classics of the original Grand Theft Auto Trilogy: Grand Theft Auto III, Grand Theft Auto: Vice City and Grand Theft Auto: San Andreas updated for a new generation, now with across-the-board enhancements including brilliant new lighting and environmental upgrades, high-resolution textures, increased draw distances, Grand Theft Auto V-style controls and targeting, and much more, bringing these beloved worlds to life with all new levels of detail.\n \nGrand Theft Auto: The Trilogy \u2013 The Definitive Edition includes: \n \n\u2022\tGrand Theft Auto III: It all starts in Liberty City. With the revolutionary freedom to go anywhere and jack anyone, Grand Theft Auto III puts the center of the criminal underworld at your fingertips, if you have enough guts to take it.\n\n\u2022\tGrand Theft Auto: Vice City: Welcome to the 1980s. From the decade of big hair and pastel suits comes the story of one man's rise to the top of the criminal pile. Grand Theft Auto returns with Tommy Vercetti\u2019s tale of betrayal and revenge in a neon-soaked tropical town full of excess and brimming with possibilities.\n\n\u2022\tGrand Theft Auto: San Andreas: Five years ago, Carl \u2018CJ\u2019 Johnson escaped the haze of Los Santos, San Andreas...a city tearing itself apart with gang trouble, drugs, and corruption. Now, it's the early 90s. CJ\u2019s got to go home - his mother has been murdered, his family has fallen apart, and his childhood friends are all heading towards disaster. On his return to the neighborhood, a couple of cops frame him for homicide, forcing CJ on a journey that takes him across the entire state of San Andreas, to save his family and to take control of the streets in the next iteration of the series that changed everything. \n\nDeveloped by Rockstar Games, adapted by Grove Street Games.",
         "languages": null,
-        "size": 21021851648
+        "size": 21375221760
     },
     "70070000013151": {
         "id": null,
