@@ -9406,6 +9406,46 @@
         ],
         "size": 4083154944
     },
+    "70010000037187": {
+        "id": "0100472012338000",
+        "rightsId": null,
+        "name": "For The Warp",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220223,
+        "nsuId": 70010000037187,
+        "category": [
+            "Strategy",
+            "Adventure",
+            "Board Game"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "MassiveGalaxyStudios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c27c023983b6edc9d34e7060ca5bde28137e8b36096e850ba5e5508642293b8b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5b4dd775dc695f4d5b7171cd86673a4ed3db6c7488315b48788bb45c8148d2d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7fcca8e65403a10810233e27fc643b94b39db9a67b5937ba1f2837437a968e9d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7ff60a2987a7c32c7f633ab807705aec3ca944877eb61fa44113416d72db8eca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ed16655497c8e62901db4a62973dadb4a97ccc7b70deb4507a7627d1d4fd1c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e5938e5654e643f16d8dee0177aa432899989744b4b21933a91a10bc0c5a620b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1ded31da5baebe8273c76fce255786881ad0611006b6e0fdc8d4febd604036c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1b2a998bbaa956d2ecfba9ab5132ed1e2ad2a0b10f8680f7d5d9f9133c114f11.jpg",
+        "intro": "Build your deck, survive and reach For The Warp gate!",
+        "description": "For the Warp is a roguelike deck-building game in space!\nDiscover and add new cards to your arsenal and increase your chances of surviving. Explore procedurally generated systems and fight your way to the warp gate.\n\nEncounter allies and foes, ancient civilization ruins, unlock powerful technologies and ships.\n\nFeatures\nExplore procedurally generated systems and fight your way to the warp gate\nEncounter allies and foes, ancient civilization ruins, unlock powerful technologies and ships\nDiscover and add new cards to your arsenal and increase your chances of surviving.",
+        "languages": [
+            "en"
+        ],
+        "size": 170917888
+    },
     "70010000037336": {
         "id": "0100E63013E60000",
         "rightsId": null,
@@ -13357,6 +13397,43 @@
             "en"
         ],
         "size": 5358223360
+    },
+    "70010000042712": {
+        "id": "010089701559E000",
+        "rightsId": null,
+        "name": "BouncyBoi in Puzzle Land",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220325,
+        "nsuId": 70010000042712,
+        "category": [
+            "Puzzle",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Twin-Stick",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ea17d43b329eb755f3b462ae1d48b43dcbd91c13bc4baa6fd3b7073b9712f2a2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b7c1973748eed34162fb06fe8a9f88337be548c1e827c9b67a9c5be0db2508a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9cddaf64fa4b35b22aa219c32ebb9c311b4762fd52e13795bbd4bffbe84566a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1d095d225f97dbe348003e25961c102419f22089154bbd82e4a1c744526c7271.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60619d3ce08585e024f1ee348e5bec92a9e331a5d0e1c98f9da34ebd0b54b640.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12f781846dd2b34675bb8d8ca56af089e86c3b221d185f14e66d57a2ed2e330f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f688f5dfbcb7f4ea27885db2f9a76d930d8e4f8203e767c90e213040c93fcbc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9cd091bac84d58b44e396792c5c8d541109454d8e47f8adbeb5e0f4c52eaf090.jpg",
+        "intro": "A colourful tile based puzzler, now with added bounce!",
+        "description": "Bounce into this colorful and cartoony world with BouncyBoi and adventure through various levels filled with challenging puzzles, cute graphics and funky beats!\n\nYou are BouncyBoi. A purple bouncy slime who loves to jive and solve puzzles, making his way through Puzzle Land with good music, great visuals and fun times!",
+        "languages": [
+            "en"
+        ],
+        "size": 422576128
     },
     "70010000042739": {
         "id": "01005F901566E000",
@@ -20481,7 +20558,7 @@
             "de",
             "ru"
         ],
-        "size": 78643200
+        "size": 115343360
     },
     "70010000047917": {
         "id": "0100D4C016BFA000",
