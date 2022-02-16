@@ -588,6 +588,60 @@
         ],
         "size": 439353344
     },
+    "70010000009425": {
+        "id": "0100FEE00A64E000",
+        "rightsId": "0100FEE00A64E0000000000000000006",
+        "name": "Warframe",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220215,
+        "nsuId": 70010000009425,
+        "category": [
+            "Action",
+            "Shooter",
+            "Multiplayer",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Violence",
+            "Users Interact",
+            "Digital Purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Digital Extremes",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/84c3f56391cdfbb84c273c996ba1f7284758d0ac4ff8cbde6f9ec62253420923.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fbce176c03cea0daf3db6b6de415c8aa70f724e961600496bb28b181de7fa13d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/172f0abcaf8bace9b29c4cd602d0e259cf6d82c5a1b098144a1b6773b7d2ca6f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/308ca6f05424e4bdc3d75200100c05859f91af524d0870d0d0c968ad768f483c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3380c16e1f01aca9cd1a6cedc2c9534b992a73c29ea1ddd92d4bc382da312f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cea2e9f3aa7b717d8b147e8f58d8e518f00d520e0c37d210c068fa8cace1e482.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f403122aac5887f70a5d497ab6e95e4bc848c94172c8e3f68e74ee55dadaa01d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9e210062fc5bd49114753b49d0babf777c5893439fb01120ae954aaf52c9d442.jpg",
+        "intro": "Ninjas Play Free!",
+        "description": "CHOOSE YOUR WARFRAME\nWith more than 30 Warframes, each fully customizable with their own unique abilities, you can create the perfect Warframe for you. \n\nASSEMBLE YOUR ARSENAL\nKatanas. Crossbows. Flamethrowers. Expand your Arsenal with more than 300 diverse Weapons, then modify each one to match your playstyle.\n\nEXPERIENCE FAST-PACED COMBAT\nSlice and dice through hordes of enemies, or go in guns blazing, or sneak your way in \u2014 the choice is yours.\n\nEXPLORE OPEN WORLDS\nExplore, discover, fight, and fly in massive open landscapes within Warframe.\n\nFLUID PARKOUR MOVEMENT\nSeamlessly leap, slide and glide through capital ships and underground compounds with a robust movement system.\n\nA SOLAR SYSTEM IN RUIN\nIn the far-future world of Warframe, grotesque clones and capitalist machines dominate our solar system. Fight back against greed and corruption as you explore and defend 18 unique worlds.\n\nSQUAD UP\nYou don\u2019t have to work alone. Invite three friends or fight alongside the 38 million strong in our Tenno community.\n\nNINJAS PLAY FREE\nWarframe is entirely free-to-play. With no barrier to entry, there\u2019s nothing to stop you and your friends from joining our world. Welcome to the Origin System, Tenno.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 15888023552
+    },
     "70010000009852": {
         "id": "010022B00ACE6000",
         "rightsId": "010022B00ACE60000000000000000005",
@@ -1515,7 +1569,7 @@
         "developer": null,
         "publisher": "ImaginationOverflow",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/11c9f7ab178dc4018ee013a202b622d3d9ec687a99ab14f4da7a08511742f326.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eb93be44fc3630c23b4bc57d29eaa9e334ad3a470729dd102810f7ddf88b3585.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/336fe18a86cb075c531587b1791be3b98765c403c11b2152c03829123b316d0a.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e7005cc0d72ecb3aa23b754144131fab5a6b3915ab5285c27924ccd7cc5f200e.jpg",
@@ -1536,7 +1590,7 @@
             "ru",
             "ko"
         ],
-        "size": 426770432
+        "size": 436207616
     },
     "70010000016273": {
         "id": "0100F3900D0F0000",
@@ -4436,6 +4490,56 @@
             "en"
         ],
         "size": 3660578816
+    },
+    "70010000027540": {
+        "id": "01000F6010D62000",
+        "rightsId": null,
+        "name": "Phantom Breaker: Omnia",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220315,
+        "nsuId": 70010000027540,
+        "category": [
+            "Fighting",
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Suggestive Themes",
+            "Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Rocket Panda Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bb8046d65872674356672e09d4103c2d9e136af2231d80b62b253a96c78181b6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d22d56ac12744cdf52f94083b6185afb7f2490774cad88ff85dcddb7ebc3f70f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/33f1e72c98a99b9a6a7b3c13c4be257d18a5956672cfbcb6bbaefff1d85eb150.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41155f38b4ec06c6f43e9afd6748eb04d0ea8b524fa16a0a40e1652caebd82b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bacfaa16bad42da030a1a0b93dcec15ee6a8d979bad796e205d5873748460067.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2d79e3096230f3aa6d36139989e0b8b5dc3c2f34cac1289bd02ace330be7a7f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7cb18eb1bbfe77270552298e5ff90a67dc97cb0747d97ce2b865f0221ebcd085.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b2aaa09a207a10ee6427ea57aa029af24c0825ccc660c4af8120530669cf2aca.jpg",
+        "intro": "THE FIRE IN YOUR HEART IS BURNING!",
+        "description": "Phantom Breaker: Omnia, a massive update to Phantom Breaker: Extra, a 1-vs-1 2D anime fighter originally released by Mages in 2013. The game features 2 guest characters, Kurisu Makise from Steins;Gate and Rimi Sakihata from Chaos;Head, as well as two brand new characters created specifically for Phantom Breaker Omnia.\n\n\u2022 20 Character Roster!\nIncludes all the characters from Phantom Breaker: Extra like Kurisu Makise from Steins;Gate as well as two brand new characters created specifically for Phantom Breaker: Omnia.\n\n\u2022 Choose from 3 different fighting styles: Quick, Hard, and Omnia!\nThe 3 different styles in the game can drastically change your characters\u2019 speed, power and mechanics.\n\n\u2022 Retuned and Rebalanced!\nThe ability to pull off amazing combos and special attacks has never been easier as Phantom Breaker: Omnia's fighting system has been overhauled and rebalanced.\n\n\u2022 Dual Language Audio!\nA Phantom Breaker series first, all the characters will have English voice acting. The game\u2019s text will be also translated into English, Japanese, French, Italian, German, Spanish, Simplified and Traditional Chinese.\n\n\u2022 Modern, Remixed Soundtrack!\nThe background music for each character has been redone and remixed! We\u2019ve also included the option to play the original background music.\n\n\u2022 Prepare for battle!\nBrush up your skills in Tutorial and Training mode then fight through Story Mode from the point of view of each of the characters to see what their greatest wishes are!\n\n\u2022 The Complete Experience!\nPlayers can immerse themselves with the stories from both the original Phantom Breaker and Phantom Breaker: Extra.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh",
+            "zh"
+        ],
+        "size": 7414480896
     },
     "70010000027550": {
         "id": "01006A0010D6A000",
@@ -9526,7 +9630,7 @@
         "languages": [
             "en"
         ],
-        "size": 170917888
+        "size": 285212672
     },
     "70010000037336": {
         "id": "0100E63013E60000",
@@ -13388,7 +13492,7 @@
             "ko",
             "zh"
         ],
-        "size": 2556428288
+        "size": 2557476864
     },
     "70010000042605": {
         "id": "01001330155EC000",
@@ -14713,7 +14817,7 @@
             "ko",
             "zh"
         ],
-        "size": 1781530624
+        "size": 1787822080
     },
     "70010000044180": {
         "id": "010006C015C4A000",
@@ -17718,6 +17822,47 @@
         ],
         "size": 4241489920
     },
+    "70010000046471": {
+        "id": "01003FC01670C000",
+        "rightsId": null,
+        "name": "13 Sentinels: Aegis Rim",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220412,
+        "nsuId": 70010000046471,
+        "category": [
+            "Adventure",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Language",
+            "Partial Nudity"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab6f2c889153415e5481cadfe5337dd725063e9df5a007fdaee8ff84997ec83a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2ca5d2b4839d8a3c9bdf62e1785b334c2bce4ac5506b24f16b68fe93a8009680.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bdaa9042ed39d1785183da8de2d0ad2f560204335589ffe06c130fc8dabc2ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2161a8a5940402c510ae66f213c0a3daa07a2f5de24071d26a0caeed14f10bde.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19bbe6e9b7318afcfc23fc5995ecf90a6ffe4d0a021f67939fed9c01d60007aa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/365bcf966963a5ffb6f7d3b6a32399f99db420de940ce6107f11d50c887dee47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/333ab4cded478024c49d8d672b59e4ddf77c238c7949a943e0caa0fd08a93097.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5e6c8ac2bfb2c4c6c293613fd001f61eebdc49c82a9dc33001716197eb884202.jpg",
+        "intro": "A sci-fi mystery epic spanning thirteen intertwining stories.",
+        "description": "Uncover the truth and delve into a 2D sidescrolling adventure featuring gorgeous art and environments. Then, battle the kaiju in fast-paced, top-down combat. Customize the Sentinels with an arsenal of mechsuit weaponry, and fight to defend humanity!",
+        "languages": [
+            "en"
+        ],
+        "size": 4646240256
+    },
     "70010000046498": {
         "id": "0100079016724000",
         "rightsId": null,
@@ -18393,7 +18538,7 @@
         "languages": [
             "en"
         ],
-        "size": 1080033280
+        "size": 1116733440
     },
     "70010000046726": {
         "id": "0100AA10167F4000",
@@ -18643,7 +18788,7 @@
             "en",
             "ru"
         ],
-        "size": 1409286144
+        "size": 1547698176
     },
     "70010000046917": {
         "id": "01008FC016886000",
@@ -20351,7 +20496,7 @@
             "ru",
             "zh"
         ],
-        "size": 141557760
+        "size": 148897792
     },
     "70010000047789": {
         "id": "0100D06016B7E000",
@@ -20637,6 +20782,54 @@
             "en"
         ],
         "size": 1996488704
+    },
+    "70010000047883": {
+        "id": "0100D9F016BE4000",
+        "rightsId": null,
+        "name": "Take Off \u2013 The Flight Simulator",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220330,
+        "nsuId": 70010000047883,
+        "category": [
+            "Simulation",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "astragon",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/58d14c31895751bb35964526058d09a7be7ab26aa4885e635f481aa247ac92f1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7c3532344a41ede0d52057a3e714ec3ea0edd039ea08db4f5f676d54de47ec0b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a22b1982c5b3dbd8b2278d2b58bd53eded0403ff3b012c89bfd35fac315235ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a013054ca56897a7d41d048660fd18107ff448614452ddb81f127cfa1312b87.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b263c5aeb632641f5d249040eff739fd589fc5d45347605f254e52e05cd9c2bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa919c42a9609fc695e377b3d6a6dd8dd92dab1af79e2078b8de882564ad7c1f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f7ae3d0e617b62147ec0dd6d38b3f28e411ae7325a664c81305a19bdd0ed571.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bcd6e6226caab6a05e1c7b9e9e16d9ae104dd8f5a32c97ce95f93d9638d07a06.jpg",
+        "intro": "Fly more than 20 airplanes in an open world or try out 50 exciting and varied missions \u2013 from air freighting to dramatic rescue operations!",
+        "description": "Fly more than 20 airplanes in an open world or try out 50 exciting and varied missions \u2013 from air freighting to dramatic rescue operations! You can also establish your own airline and fly to cities such as New York, London, Sydney and 18 other destinations. Fly the most popular models of planes, such as jumbo jets, seaplanes and a military jet with realistically designed 3D cockpits. Experience challenging weather conditions and try to land your plane safely with an engine failure in this flight simulation game! \n\n\u2022 Fly 24 airplanes with realistic 3D cockpits \n\u2022 Explore and enjoy the beautiful open world of Hawaii in a free flight mode including an all-new job system for transporting goods between airports\n\u2022 50 exciting missions \u2013 from sightseeing flights under a blue sky to rescue flights in bad weather \n\u2022 Fly to 21 famous airports around the world\n\u2022 Start your own airline and expand your fleet\n\u2022 Customize your planes with different paint jobs and upgrade your fleet for better performance and handling\n\u2022 Master difficult challenges like bad weather landings or engine failures\n\u2022 Enhanced version with improved graphics for Nintendo Switch\u2122\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2885681152
     },
     "70010000047895": {
         "id": "0100104016BEE000",
@@ -22947,6 +23140,45 @@
             "en"
         ],
         "size": 162529280
+    },
+    "70010000048774": {
+        "id": "0100382017038000",
+        "rightsId": null,
+        "name": "MacGuffin's Curse",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220315,
+        "nsuId": 70010000048774,
+        "category": [
+            "Puzzle",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Brawsome",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fd3b591c9ebe4797987b680d7d6a0bf473600fe0b9fa1a72eb10d6df7d238d37.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/37913a0675bb1931ebaf157b9527b27f7b9d08c4c2498306d60917b84b1f20a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/899cef1591cdd05da36cb992dbe593465f390f44ee9ffef902b49836f83713e3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cc448507240f68577a34fa525e8cd2625a261d0486637f151f06443ba0c6733e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2ef0183d0ebb206024f56f16fe496c36994ab602001b16199863d4e701060a01.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/006ca49715a3e3012c59f169e539cf58d344e08aeb4a2a746b1ad890ae5efb85.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/943bb5bf93d5826dc4e4b19a96a68cab1e277a7d0e77bd6074c703d5c2b63777.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b4339129c3f5199de5b59b4e3931fd28e62b32743ec8be845246ff562d8cddd.jpg",
+        "intro": "Sneak and smash your way through this fiendishly addictive comedy-puzzle-adventure.",
+        "description": "Help Lucas MacGuffin (magician turned thief turned werewolf) sneak and smash his way through this fiendishly addictive comedy-puzzle-adventure for. Winner of the Freeplay Award for Best Game Writing! With hilarious dialogue, charming hand-drawn art and huge replay value, it's perfect for seasoned adventurers and casual gamers alike.\n\nWhen fugitive magician Lucas MacGuffin bungles a museum robbery, he finds himself:\n* magically bound to an ancient amulet;\n* up against a city in full high-tech security lockdown; and\n* suddenly dealing with the worst body hair problems he's ever had.\nAs a human, Lucas is agile and cunning. Wolf Lucas would rather smash anything in his way. Only by transforming between the two forms and cleverly utilising both sets of skills will he stand any chance of lifting his curse.\n\nAnd with the city's most powerful billionaire after his blood, a jaded Private Investigator on his (now-literal) tail and the rent long overdue, he'll need every ounce of ingenuity he manage.\n\nAlong the way he'll need to befriend a hilarious cast of characters, convince the city its most beloved citizen is a terrifying criminal mastermind, and hardest of all, teach his daughter it isn't funny to fill the fridge with dog food.\n\nFrom the award-winning indie developers behind Jolly Rover (Australian Game of the Year, 2010 Freeplay Awards), MacGuffin's Curse is a story brimming with humour, personality and heart.\n\nKey Features:\n* Friendly for all players - Enjoy a quick, fun logic puzzle fix, or lose yourself in a sprawling full-length cartoon adventure.\n* 150+ Puzzle Rooms - Inspired by classic top-down console adventures, these increasingly mind-bending challenges will push your logical thinking skills to the limit!\n* Challenge Without Frustration - Stuck on a room? P.I. Strump is on the line to help you along (at least between thinly veiled insults) with a seamlessly integrated hint system.\n* 90+ Sidequests - Meet the colourful nightlife of Feyre - a carnival city under curfew - and earn their trust with bizarre, legally questionable favours!\n* Charming Hand-Drawn Art - Collect 50 lavishly-illustrated comic panels to piece together - each expanding on the scandalous secret backstories of key characters!\n* Razor-Sharp Dialogue - With witty banter straight the golden age of point-and-click adventure games, you'll want to chat to every stranger and examine every park bench!\n* Insanely Catchy Soundtrack - From spooky strings to acoustic gypsy power-rock, this fun, upbeat score is destined to have you humming along!\n* Extensive Replay Value - Post-game challenges, hidden easter eggs, unlockable comics and developers' commentary will keep you coming back long after the credits roll.",
+        "languages": [
+            "en"
+        ],
+        "size": 960495616
     },
     "70010000048812": {
         "id": "010035B01706E000",
@@ -25380,9 +25612,11 @@
         "category": [
             "Arcade"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Language"
+        ],
         "numberOfPlayers": 1,
-        "rating": 13,
+        "rating": 6,
         "developer": null,
         "publisher": "Pix Arts",
         "frontBoxArt": null,
@@ -25400,6 +25634,45 @@
             "en"
         ],
         "size": 225443840
+    },
+    "70010000050336": {
+        "id": "0100297013C7C000",
+        "rightsId": null,
+        "name": "Operation Zeta",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220304,
+        "nsuId": 70010000050336,
+        "category": [
+            "Action",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "SFS Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e6ccbfcb6c0223d7e541c63f673e284259df83714b2b77243072469883def3d7.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a174ba02a13a8fee7ba44a0487b6fd59217bb74506cb64d4fe28763fbfbd82f1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/368d90176468df937d4a6c8290e69396dd0b8830ae0add539e48dbc7d402fe4e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8153de5b8535a1e8b7f420cef6548eac4e5850d1044cefeeae2afbdbfa5481e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/56acebb030a6ed06a325228dc59294f7b47016eebd92da6050d273851c089f1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/128cd8f0b686f31247eed123160e6705a03d13e10935016873bd1ac754185492.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0d06d0740193a87bc1b1e915e4df27d9253fcbcd1328ac1e0071d30d74b76a2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e500c1fd492328015730fcafb65680c58af00ceb10f42b6afcd9ed233ff1e99c.jpg",
+        "intro": "Recover parts to your crashed ship from wacky locals to escape a hostile battlefield. Unlock and play as 13 different characters from space monkeys to mischievous slugs.",
+        "description": "Operation Zeta is a space action game. The great battle codenamed 'Operation Zeta' has been lost. Your ship is in shambles and you have to act quickly to collect all of the parts and repair your ship before the warzone is completely destroyed by the enemy's death laser. Play and unlock 13 playable characters from space monkeys to mischievous slugs each with their own unique set of skills and challenges. As well unlock new abilities and upgrades with credits you earn during each run. Each time you play the universe is randomly generated with random quests from wacky local aliens who have stolen the parts of your ship. All in a physics based battlefield, but beware as you only have ten minutes until the death laser fires! ",
+        "languages": [
+            "en"
+        ],
+        "size": 759169024
     },
     "70010000050358": {
         "id": "0100A2201787E000",
@@ -25563,6 +25836,51 @@
             "en"
         ],
         "size": 49283072
+    },
+    "70010000050571": {
+        "id": "01009D30170D6000",
+        "rightsId": null,
+        "name": "Wall of insanity",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220225,
+        "nsuId": 70010000050571,
+        "category": [
+            "Shooter",
+            "Action",
+            "Adventure",
+            "First-Person Shooter"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "VenomizedArt",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/654997fa6e592ff14a92b6c311ae4561a86eed9c7693890c254a50aeca077503.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b5dba6f986484c307174476babb32fea04fd06e82bf94cd8c3ca7122f83291c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1786bb71e165491e4b8f7ef2f7783129ba2e472970a33e705335fbba87506735.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9867106d9de485b5a1ac87bfa26f189a8af6a7d7277a8e6baf1e9d1bd84ce4fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed53da0deba227cf135390b8ff1c840fa16cc497a61929d04891510b6e8c697e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0283bdfd4055bca2f30af4039b42c4131beaa7b61a13ae2045a7ad54b5e9d11b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c988de8f88562bbfb147d0c152ada1786f8b13dfed13b8d44f2548cab2e0726f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/430186d19e6b9ec8e764bb2caec5d654ed2e84140f41b3d28e4c61b1d6ab1ecd.jpg",
+        "intro": "Survive horrible dangers behind the wall of insanity",
+        "description": "Wall of Insanity is a new project from the creators of the Slaughter game series.\nIt features a dark storyline, intense action, and a mystical journey into a dead, smoldering world.\nYou will face the unknown. A descent into a kingdom of anxiety and madness. The path through the abyss will be difficult, the trek extremely dangerous, and you will be left almost hopeless.\n\nStory:\n\nA police operation to detain a dangerous cult's sectarians leads to unexpectedly deadly consequences. That squad vanished under mysterious circumstances, and the Special Unit soldiers sent in to investigate their disappearance find just an empty, abandoned house. This is only where the story begins...\n\nKey Features:\n\n- Active battles with the use of firearms. Survival depends on caution, reaction speed, and weapon accuracy. Use elements of the environment itself to escape this horrific world.\n\n- A journey to another world where fear, sorrow, and madness rule. A diligently crafted, ominous environment, fraught with mystery and danger, lies ahead of you. How far will you dare to go?\n\n- A plethora of traps and enemies await around every corner. Investigate your surroundings carefully. Don't take unnecessary risks.\nStudy your enemies. Carefully selected tactics will save your ammunition.  And your life.\n\n- Explore the world to replenish and expand your arsenal. Weapons and useful items will be needed.  Look for secrets, documents, and workarounds to prevail against all odds.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "ru"
+        ],
+        "size": 3202351104
     },
     "70010000050576": {
         "id": "01001A101792E000",
@@ -38337,7 +38655,7 @@
         "size": 0
     },
     "70050000031108": {
-        "id": null,
+        "id": "010095D012E5F001",
         "rightsId": null,
         "name": "Season Pass Bonus",
         "version": null,
@@ -38367,7 +38685,10 @@
         "intro": null,
         "description": "\u25a0Contents\n\u30fb4 Additional Military Units\nWolf/Bear/Tiger/Panda\n\n\u25a0To Use\nIn Conquest Mode, choose Political Commands - Info - Player Info - Military Unit Settings.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "010095D012E5F001"
+        ]
     },
     "70050000031150": {
         "id": "010095D012E5F004",
@@ -42333,7 +42654,7 @@
         "intro": "Explore the randomly-generated galaxy to find merchants, unlock spacecrafts, collect Cartridges and checkmark your kills of the various galactic overlords.",
         "description": "Fight In Ever Changing Space Battles, explore the Universe in Gold and expand your choices with 5 new Spacecrafts!\n\nRun through the universe, discover the numerous perks/consumables and their synergistic effects. Explore the randomly-generated galaxy to find merchants, unlock spacecrafts, collect StellarNetES Cartridges, checkmark your kills of the various galactic overlords.\n\nAnd die. A lot!\n\nCan you find the most outrageous perk combination to defeat the Last Overlord? \n\nGame Features:\n\n \u2022 Rogue-like Elements: With a randomly generated universe and randomized perks, no journey will ever be the same! What will happen to you, in your own unique apocalyptic cataclysmic transgalactic voyage?\n\n \u2022 Synergistic Perk System: Over 100 perks and consumables! Look out for the synergistic nature of the perks that suits your playstyle!\n\n \u2022 Galactic Bounties: Complete over 100 missions to participate in the StellarNET Entertainment System lottery!\n\n \u2022 Customize Your Start: Choose your spacecraft: there is one for every playstyle, as they have unique starting perks. You can personalize your arsenal from numerous weapons: cannons, missiles and lasers!\n\n \u2022 Unlock Spacecrafts, View Your Progress: Check out what have you accomplished in our in-game encyclopedia StellarNET. Unlock new spacecrafts, kill all the bosses to progress in StellarNET's kill table. Check which perks and consumables you have used and seen, and what is your progress towards the achievements! \n\n \u2022 Explore the Universe: Some levels are more special than others: Merchants, Bosses, Spacecraft Factories. Fight through lower-difficulty levels to stock up on perks, or just streamline to the end-boss if you feel powerful enough!",
         "languages": null,
-        "size": 429916160
+        "size": 439353344
     },
     "70070000006061": {
         "id": null,
@@ -42701,7 +43022,7 @@
         "intro": "It's almost time for breakfast!\nGo and prove that your breakfast bar deserves its fame!",
         "description": "Have you ever wondered what it\u2019s like to run your own breakfast kitchen? \n\nIn Breakfast Bar Tycoon, you'll learn that it's no easy task! \n\nYou will take on the role of a breakfast bar manager and try your best to serve the hordes of hungry customers as quickly as possible.\n\nTake orders, prepare dishes and fight for tips! \n\nInvest your earnings into upgrading your restaurant and become a breakfast magnate!\n\nIN EXPANSION PACK FOR BREAKFAST BAR TYCOON YOU WILL FIND:\n\n\u2022 45 new levels to explore\n\u2022 8 new Achievements to complete\n\nGo ahead, test your skill!",
         "languages": null,
-        "size": 157286400
+        "size": 156237824
     },
     "70070000010783": {
         "id": null,
@@ -44095,7 +44416,8 @@
         "intro": null,
         "description": "Note: Some of these products are also part of a set. Be careful of inadvertently purchasing the same product multiple times.\nNote: Items included with the Season Pass can also be purchased separately. Be careful of inadvertently purchasing the same product multiple times.\n\nThis is a discounted pass allowing easy access to a variety of additional content for DYNASTY WARRIORS 9 Empires.\nThese DLC will be released periodically until APR 2022. \n\nSeason Pass contents\n\u30fbCustom Parts Set (14 pieces)\n\u30fb5 Additional Palaces\n\nSeason Pass Bonuses\n\u25a0Contents\n\u30fb4 Additional Military Units\nWolf/Bear/Tiger/Panda\n\n\u25a0To Use\nIn Conquest Mode, choose Political Commands - Info - Player Info - Military Unit Settings.\n\nNote: Please see our website for details on the contents and timing of the planned Season Pass DLC.\nNote: Please note that some of the included items might be released for sale at a later date.\nNote: Please note that the dates for distribution might change.",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": []
     },
     "70070000013247": {
         "id": null,
