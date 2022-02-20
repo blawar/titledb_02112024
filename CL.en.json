@@ -18726,6 +18726,51 @@
         ],
         "size": 184549376
     },
+    "70010000046362": {
+        "id": "010086C016670000",
+        "rightsId": null,
+        "name": "LIT: Bend the Light",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220305,
+        "nsuId": 70010000046362,
+        "category": [
+            "Puzzle",
+            "Study",
+            "Education",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "OverGamez",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dd48e4c0eccf566b102fa76aa9d0c8d9467603190d2c724e0e299dcf98ceed4f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c8e3066e42875cef2ab9a93385942e06ec9d26b65b804a84505d68c81d2c5c75.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e88e76939846a8d8cf120112da92fb0f24f95703704f6bec22885cd1076619f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4f1500d5628db23945fc435993cf125d3612fb5eb0baddc4480e8177782ccda0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0851b3bca881b352864e829cd545f25b7349a8f5b06575ec94f33cce9acd14ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d3409f55c9d4f89a7f6229b184a160bd255cacfe0c4a52161dcd76c8eeccff4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/99160b3de14dd89d6a549702ed5638b17cd8ab1c3d15427d2fd0f4e0d47f7017.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ca1e292ef72fe421a79424c61e70be61cf39c16a985cfb1a84257b01907d59b.jpg",
+        "intro": "Light, darkness and remarkable puzzles!",
+        "description": "Set in an era when electricity wasn\u2019t a thing and nothing but imaginations of great inventors that set the world in motion, LIT test your own inner engineer and lets you discover the joy of experimenting with light at first hand.\n- The behaviour of light in LIT is physically accurate. That said, the amazing light paths you are going to build in LIT are possible but extremely hard to reproduce in real life. Our game gives you the opportunity to set up mirrors and glass pieces to reflect and refract a light beam as you wish.\n- Our puzzles are open-ended. We give you the rules and the tools, you show us how to solve the problem. We assigned a number of possible solutions to each level but don\u2019t let those numbers fool you - we\u2019re only waiting for the players to find solutions we haven't thought of.\n- Visuals threading on the thin line between cartoony and realistic. Good pacing. Relaxing music, which lets you zone in. All of that creates a unique, mysterious but warm atmosphere.\n- When light hits a mirror and it reflects, it hits glass and it bends. That\u2019s all. And yet, it offers thousands of possibilities, which means each of our levels is different and unique.\n- LIT is extremely intuitive. Testing the game on multiple gaming events proved that it works for all age groups and all types of players. You want to find every solution and beyond? Searching for a game for your 5-year-old? Or maybe you\u2019re trying to introduce your mum to gaming?",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 520093696
+    },
     "70010000046367": {
         "id": "0100BE4016674000",
         "rightsId": null,
@@ -20869,7 +20914,7 @@
             "zh",
             "zh"
         ],
-        "size": 2533359616
+        "size": 2577399808
     },
     "70010000047340": {
         "id": "0100E4D0169E0000",
@@ -38688,7 +38733,7 @@
         ]
     },
     "70050000031029": {
-        "id": null,
+        "id": "010095D012E5F009",
         "rightsId": null,
         "name": "Unisex Custom Azure Dragon Armor Set",
         "version": null,
@@ -38719,10 +38764,13 @@
         "intro": null,
         "description": "\u25a0Contents\nThe Azure Dragon Armor set is added under the Unisex Custom Parts.\nHelmet Type / Chest Type / Waist Type / Arm Type / Leg Type\n\n\u25a0To Use\nIn Edit Mode, select the content from the corresponding type of armor.\n\nNote: Please note that these are items included with the DYNASTY WARRIORS 9 Empires Season Pass.",
         "languages": null,
-        "size": 0
+        "size": 29360128,
+        "ids": [
+            "010095D012E5F009"
+        ]
     },
     "70050000031031": {
-        "id": null,
+        "id": "010095D012E5F00A",
         "rightsId": null,
         "name": "Unisex Custom White Tiger Armor Set",
         "version": null,
@@ -38753,10 +38801,13 @@
         "intro": null,
         "description": "\u25a0Contents\nThe White Tiger Armor set is added under the Unisex Custom Parts.\nHelmet Type / Chest Type / Waist Type / Arm Type / Leg Type\n\n\u25a0To Use\nIn Edit Mode, select the content from the corresponding type of armor.\n\nNote: Please note that these are items included with the DYNASTY WARRIORS 9 Empires Season Pass.",
         "languages": null,
-        "size": 0
+        "size": 37748736,
+        "ids": [
+            "010095D012E5F00A"
+        ]
     },
     "70050000031033": {
-        "id": null,
+        "id": "010095D012E5F00B",
         "rightsId": null,
         "name": "Unisex Custom Vermilion Bird Armor Set",
         "version": null,
@@ -38787,10 +38838,13 @@
         "intro": null,
         "description": "\u25a0Contents\nThe Vermilion Bird Armor set is added under the Unisex Custom Parts.\nHelmet Type / Chest Type / Waist Type / Arm Type / Leg Type\n\n\u25a0To Use\nIn Edit Mode, select the content from the corresponding type of armor.\n\nNote: Please note that these are items included with the DYNASTY WARRIORS 9 Empires Season Pass.",
         "languages": null,
-        "size": 0
+        "size": 36700160,
+        "ids": [
+            "010095D012E5F00B"
+        ]
     },
     "70050000031035": {
-        "id": null,
+        "id": "010095D012E5F00C",
         "rightsId": null,
         "name": "Unisex Custom Black Tortoise Armor Set",
         "version": null,
@@ -38821,7 +38875,10 @@
         "intro": null,
         "description": "\u25a0Contents\nThe Black Tortoise Armor set is added under the Unisex Custom Parts.\nHelmet Type / Chest Type / Waist Type / Arm Type / Leg Type\n\n\u25a0To Use\nIn Edit Mode, select the content from the corresponding type of armor.\n\nNote: Please note that these are items included with the DYNASTY WARRIORS 9 Empires Season Pass.",
         "languages": null,
-        "size": 0
+        "size": 59768832,
+        "ids": [
+            "010095D012E5F00C"
+        ]
     },
     "70050000031037": {
         "id": null,
@@ -46357,7 +46414,7 @@
         "intro": "Engrave your life on the battlefield!",
         "description": "A new release for the \"Empires\" series, which allows users to enjoy both the thrill of one-versus-a-thousand action and the intricacy of country conquering simulation!\n\nDYNASTY WARRIORS 9 Empires points\n\u25a0Command your armies freely! Exciting Castle Sieges!\nCombat has evolved from the \"Battles\" of previous games into \"Castle Sieges\" that occur in the area around each castle. In an always changing environment, use devious planning and military might to enjoy this new style of battle where the biggest question is \"What's the best way to take this castle?\"\n\n\u25a0Politics System, where an Officer's character and trust can strengthen the country.\nIn Politics, the choices of and the interactions between officers will determine the foundations of a force. Players are able to experience a variety of lifestyles, playing as Rulers, Generals, Unaffiliated officers, and more. Furthermore, an officers' interactions with other officers will help to strengthen the country they are a part of.\n\n\u25a0Live dramatically! The evolved \"Edit Mode\".\nThe game includes the Edit Mode, a series favorite. Players can create their own Custom Officers from a wide range of parts.\nWith the 94 Musou Officers and over 700 Generic Officers that appear in DYNASTY WARRIORS 9, players can more dramatically populate their very own Dynasty Warriors experience.\n\nThe DYNASTY WARRIORS 9 Empires Deluxe Edition is a set including the game and the following contents:\n\u30fbDeluxe Edition items\n - 6 Gems / 10 Custom Ancient Officers / 3 Additional Campaign Scenarios\n\u30fbSeason Pass\n Allows one to obtain various additional contents as they are released. These DLC will be released periodically until APR 2022. \n - Custom Parts Set (14 pieces) / 5 Additional Palaces\n\u30fbSeason Pass Bonus\n - 4 Additional Military Units\n\nNote: Please note that the dates for distribution might change.\nNote: DYNASTY WARRIORS 9 Empires is also being sold. Please confirm your product at time of purchase.\nNote: Please see our website for details on the contents and timing of the planned Season Pass DLC.\nNote: The Season Pass and the DLC available with the Season Pass will also be sold separately. Please be careful not to inadvertently purchase an item multiple times.\n",
         "languages": null,
-        "size": 14747172864
+        "size": 14910750720
     },
     "70070000013240": {
         "id": null,
@@ -46388,7 +46445,7 @@
         "intro": null,
         "description": "Note: Some of these products are also part of a set. Be careful of inadvertently purchasing the same product multiple times.\nNote: Items included with the Season Pass can also be purchased separately. Be careful of inadvertently purchasing the same product multiple times.\n\nThis is a discounted pass allowing easy access to a variety of additional content for DYNASTY WARRIORS 9 Empires.\nThese DLC will be released periodically until APR 2022. \n\nSeason Pass contents\n\u30fbCustom Parts Set (14 pieces)\n\u30fb5 Additional Palaces\n\nSeason Pass Bonuses\n\u25a0Contents\n\u30fb4 Additional Military Units\nWolf/Bear/Tiger/Panda\n\n\u25a0To Use\nIn Conquest Mode, choose Political Commands - Info - Player Info - Military Unit Settings.\n\nNote: Please see our website for details on the contents and timing of the planned Season Pass DLC.\nNote: Please note that some of the included items might be released for sale at a later date.\nNote: Please note that the dates for distribution might change.",
         "languages": null,
-        "size": 3145728,
+        "size": 166723584,
         "ids": []
     },
     "70070000013247": {
