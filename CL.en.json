@@ -7189,7 +7189,7 @@
         "developer": null,
         "publisher": "thatgamecompany",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dad0f7666241400502f0334beb938d369c67005f88cc10884553a0eeac8068a1.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b9c9998e2a0bbbff7a7a8e21580e413222156e816dd530d2d05ed11b92bbeade.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/2a5675dd1141318f85cfcfd707b92011dcf44a2b18f5fdab250534768824d78c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/86764714b863b8235df5293b4e57443301c2303bb123f7b06dd40e21b6f33e59.jpg",
@@ -7214,7 +7214,7 @@
             "zh",
             "zh"
         ],
-        "size": 3238002688
+        "size": 3236954112
     },
     "70010000028724": {
         "id": "01008D10115C2000",
@@ -10072,7 +10072,7 @@
             "fr",
             "de"
         ],
-        "size": 6237978624
+        "size": 6402605056
     },
     "70010000034818": {
         "id": "0100C20013196000",
@@ -14746,7 +14746,7 @@
             "ko",
             "zh"
         ],
-        "size": 1951399936
+        "size": 1954545664
     },
     "70010000041280": {
         "id": "01005010150CA000",
@@ -24494,7 +24494,7 @@
             "ja",
             "en"
         ],
-        "size": 716177408
+        "size": 717225984
     },
     "70010000048121": {
         "id": "010054B016D22000",
@@ -26656,7 +26656,8 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Fantasy Violence"
+            "Fantasy Violence",
+            "Tobacco Reference"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
@@ -30505,6 +30506,34 @@
         "size": 299892736,
         "parentId": "0100835016EA8000"
     },
+    "70030000015030": {
+        "id": null,
+        "rightsId": null,
+        "name": "Conan Chop Chop Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000015030,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 424673280,
+        "parentId": "0100B2500E362000"
+    },
     "70030000015036": {
         "id": null,
         "rightsId": null,
@@ -30602,7 +30631,8 @@
         "nsuId": 70030000015133,
         "category": null,
         "ratingContent": [
-            "Fantasy Violence"
+            "Fantasy Violence",
+            "Tobacco Reference"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -47111,7 +47141,7 @@
         "size": 3145728
     },
     "70050000033142": {
-        "id": null,
+        "id": "0100763015C2F002",
         "rightsId": null,
         "name": "Special DLC boss \"Yang Yumo\" from \"Dusk Diver 2\"",
         "version": null,
@@ -47144,7 +47174,10 @@
         "intro": null,
         "description": "Adds the \"VS Yumo\" mission to the base mission select menu. \nSelect this mission to go into battle against Yang Yumo.",
         "languages": null,
-        "size": 22020096
+        "size": 22020096,
+        "ids": [
+            "0100763015C2F002"
+        ]
     },
     "70070000000221": {
         "id": null,
@@ -49727,7 +49760,7 @@
         "intro": "Sow seeds of a new life in Rigbarth as you embark on a grand Rune Factory adventure!",
         "description": "-- Rune Factory 5 - Digital Deluxe Edition features the main game and the \"Rune Factory 4 Marriage Candidates Outfit Set.\" \n\nDress up as your favorite character from the much-loved Rune Factory 4, with 13 additional outfits to wear in Rune Factory 5! --\n\n\nIn the sleepy border town of Rigbarth, mysterious events are unfolding, affecting the runes that govern the balance between humanity and nature...\n\nAs the newest ranger for the peacekeeping organization, SEED, protect the frontier town by rounding up rowdy monsters with your official SEED-issued spell seal. When not on a mission, work with the people of Rigbarth to help the town flourish through farming, festivals, and friendships! \n\nAs the balance of peace begins to shift, however, it comes time to prove yourself. Team up with townsfolk and embark on a grand adventure to unravel the mystery befalling the land, embracing your inner-power to halt the descent into chaos. \n\nFast-paced action RPG combat\nVenture into the vast, vibrant wilderness with friends from Rigbarth by your side to unlock powerful and stylish link attacks that encourage teamwork and strategy. \n\nFantasy farming taken to new heights\nTame monsters to serve as your helpful farmhands as you grow a wide variety of crops on the backs of dragons!\n\nRelax in your new home\nTake time out of your adventure to enjoy the gentler pace of town life. Compete in cooking, crafting, and fishing contests or invite your sweetheart to join you for stargazing during one of Rigbarth\u2019s many seasonal festivals.\n\nFind your special someone\nForge friendships and get to know the eligible marriage candidates of Rigbarth by completing their unique storyline. Fall in love, pop the question and even start a family!",
         "languages": null,
-        "size": 6241124352
+        "size": 6405750784
     },
     "70070000013486": {
         "id": null,
@@ -49823,7 +49856,7 @@
             "https://img-eshop.cdn.nintendo.net/i/e7f2e9e0921a8402f540461d168cff9a63b53d45b3dc23e5efb4d730d72946e6.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f9d4ce8661f70e258166fc482d98623d9daca385b0c7ca5ca2406d584f91801e.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bba7469a4fd634959c9e27ef6ddebe221a97a3e0ca2c5feb00c2ab28e9095c0a.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/62704232750daf714661922fc9d42b3f8057ff475fd1adabbba5e00836aa1aaf.jpg",
         "intro": "Knight in shining armor, fight your way... with Guns!",
         "description": "In this fantasy world, you are a knight with a quest to eradicate monsters that threaten the peaceful lives of villagers. Hordes of monsters include armies of undead, mutants, aliens, machines, beasts, ghosts and many more. Fight through them solo, or with a friend in local multiplayer mode. Luckily, you have guns at your disposal. Lots of them, actually. \n\nInspired by the classics and developed for a modern audience, Knights and Guns will bring you hours of entertainment. Will you take up the challenge, Sir Gunsalot?\n\n",
         "languages": null,
@@ -50246,6 +50279,40 @@
         "description": "Dock, split, and form up! Pilot 3 fighters and take back the sun from the clutches of evil with this SOL CRESTA bundle that offers both the slick and speedy gameplay of the main game's Arcade Mode, and the densely woven story and unique case of Dramatic Mode!\n\nPlatinumGames\u2019 NEO-CLASSIC ARCADE series carries on the spirit and fun of classic gaming using modern technology, and the first project in this endeavor is SOL CRESTA. SOL CRESTA takes the docking and formation strategies of classic shooting games Moon Cresta and Terra Cresta and elevates them with the \u201cfree-form docking\u201d system. The flagship Yamato, composed of the fighters Amaterasu, Tsukuyomi, and Susano can utilize various attacks depending on how the three ships are aligned. Docking, splitting, and reforming the ships as needed is the key to defeating the invading armies of Mega Zofer.\n\nStory\nHumanity faced a crushing defeat at the hands of the Mandler Army during their last invasion of the solar system. Losing the moon and being driven from Earth, they were forced to retreat all the way to Laomedeia, the 12th moon of Neptune. With the last of their hope, they formed the solar recovery squad SOL CRESTA, and placed the fate of the solar system with the Yamato, a cutting-edge docking ship.\n\n\u30fbFree-Form Docking\nThe Yamato, standing against the evil of Mega Zofer, is composed of 3 fighters. You\u2019ll scramble with only one ship at first but pick up the right item and friendly ships will appear for a power-up! Dock and split to change your attack properties and use different formations to access an amazing arsenal. \n\n\u30fbClassic 80s-Style Excitement\nSOL CRESTA\u2019s music is provided by legendary chiptune composer Yuzo Koshiro, and the game pays homage to the sound and visuals of the earlier Cresta series games, bringing back that arcade fever while taking it beyond mere nostalgia. There\u2019s even a time limit, high score Caravan Mode, and online leaderboards. \n\n\u30fbPlatinumGames\u2019 New Challenge\nWhat would happen if PlatinumGames, developers of satisfying and jam-packed action games like Bayonetta, NieR:Automata, and ASTRAL CHAIN tried their hand at shooting? This is the answer. The visuals are classic, but the originality and depth of the systems and gameplay provide a fresh and deep shooting experience that grows each time you play.\n\n*The SOL CRESTA Dramatic Edition includes the main SOL CRESTA game and the Dramatic DLC.\nPlease see the SOL CRESTA Dramatic DLC store page for details about Dramatic Mode.\n",
         "languages": null,
         "size": 3732930560
+    },
+    "70070000013694": {
+        "id": null,
+        "rightsId": null,
+        "name": "Atelier Sophie 2 Season Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220225,
+        "nsuId": 70070000013694,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Fantasy Violence",
+            "Suggestive Themes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1f0f74174f663c14721247cc03007c91b0c3c8de988e9b7c77d5db4fa7151420.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d034695e51b71d49f9e914064e9664aaa196361108f34b0c2bb1601534939f3c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/946978313d9767db4d929cbdd00eb15e939309fa891844410ec25ac12f8aa1ee.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e46c707cc5908f56c21278d47ad6903b2c6a99c5037f9800709cf9c429f7d003.jpg",
+        "intro": "Get the full experience with the Season Pass!",
+        "description": "This item grants access to 14 DLCs that will be added in the future for a discounted price. The Season Pass content will become available starting from March 2022.\n\nFeatured content:\n- Season Pass Bonus: Sophie/Ramizel's Costumes \"Grandma's Outfit (Matching Set)\"\nA pair of costumes for Sophie and Ramizel based on a special costume previously released for \"Atelier Sophie: The Alchemist of the Mysterious Book DX\".\n\nIncluded in the Season Pass:\n1. Sophie's Costume \"Alchemist of the Mysterious Journey\"\n2. Plachta's Costume \"Haute Couture\"\n3. Ramizel's Costume \"Ertona Hunter\"\n4. Sophie/Plachta/Ramizel/Alette's Costumes \"Bunny-Eared Salesgirl\"\n5. Recipe Expansion Pack \"The Art of Synthesis\"\n6. Recipe Expansion Pack \"The Art of Battle\"\n7. Gust Extra BGM Pack\n8. Sophie's Swimsuit \"White Canvas\"\n9. Plachta's Swimsuit \"Clivia Nobilis\"\n10. Ramizel's Swimsuit \"Agapanthus Romance\"\n11. Alette's Swimsuit \"Rainmaker\"\n12. Olias's Swimsuit \"Vegetable Garden\"\n13. Diebold's Swimsuit \"Knight Commander\"\n14. Extra Scenario/Area \"Atelier Plachta\"\n\nNote: Items 1 to 7 are planned to be released before the end of April 2022, and items 8 to 14 are planned to be released before the end of May 2022.\nItems 1 to 4 and 8 to 13 are individual character costumes. Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nItems 5 and 6 add new recipes and catalysts that can be purchased from Gnome at \"Crystal Sparkle Pavilion\" after progressing the story.\nItem 7 adds new in-game BGM tracks that can be changed at the desk in the atelier.\nItem 14 will feature an additional story episode with young Plachta as the main character, set in the time after she arrived in Erde Wiege and before she first met Sophie. Players will play as Plachta, with Diebold and Ramizel available as party members. This DLC will also feature a unique area and new items.\nThe content of the Season Pass, release dates and order are subject to change without notice. \nPlease visit the official website for more information. \nPlease beware that all items included in the Season Pass can be purchased separately. Please avoid making redundant purchases.\nPlease beware that the \"Atelier Sophie 2: The Alchemist of the Mysterious Dream Ultimate Edition\" set that includes the main game and the Season Pass is also available. ",
+        "languages": null,
+        "size": 16777216,
+        "ids": []
     },
     "70070000013723": {
         "id": null,
