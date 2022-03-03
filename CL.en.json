@@ -6050,6 +6050,55 @@
         ],
         "size": 874512384
     },
+    "70010000025070": {
+        "id": "0100DE600FDFE000",
+        "rightsId": null,
+        "name": "No Time to Relax",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000025070,
+        "category": [
+            "Board Game",
+            "Simulation",
+            "Multiplayer",
+            "Party"
+        ],
+        "ratingContent": [
+            "Crude Humor",
+            "Language"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Porcelain Fortress",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5420857df3123358a1ea0771afc368a2a2a3e422b49954a20e2f402216cf29db.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/49b9dc99e1ed27c655484aa4e9d4dac98f3fdbf8e16f21a81ab2be1ddc7a13eb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1bee479f247f7a660179f7fc6304845e3682b088a64e199ecba47565c247fc8d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/42430567579a4dc99c419a54f0fbfbd2e601f1c834a8560aaa05eee5caef2036.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb1c9a4c5947a5e73f7263b5f86bce7f7b18410330a0da2fa8a9c5b5bfd1deee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bae046f16ca4f89ff2ef38d92e9ef5667839355afba3c9531c585750a374722.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/231e622b87543393b66f2e5663ce320a157a6aea470fc23775b2b00fa5c115df.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6c1e78a8a685af73480026d175d39ec98c7c0e38141479bbce14ab669105cd30.jpg",
+        "intro": "No Time to Relax is a life simulation game where up to 4 players online or locally compete against each other in the ultimate game of life.",
+        "description": "You now have the ability to beat your more successful friends with this fake life simulator. To win the game, you have to work your way up the corporate ladder, educate yourself and keep your sanity. This might seem easy, but working and studying your ass off will strain even the most iron-willed of your friends. It almost seems like there is no time to relax!\n\nKey features:\n* Support up to 4 player couch pvp.\n* Play online with your friends (or total strangers).\n* Single player vs CPU player (Skynet look out!).\n* Finish missions, hex your friends and get a pet to gain the upper hand.\n* Decorate your apartment with cheap stuff and fancy things.\n* Educate your character, gain work experience and play the stock market\n* Play peaceful mode for a less stressful experience, free from hexes.\n* Choose from 7 different avatars.\n* Great original soundtrack.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 807403520
+    },
     "70010000025501": {
         "id": "0100271010016000",
         "rightsId": null,
@@ -11408,9 +11457,10 @@
             "Platformer"
         ],
         "ratingContent": [
-            "Blood",
+            "Blood and Gore",
             "Intense Violence",
-            "Strong Language"
+            "Language",
+            "Partial Nudity"
         ],
         "numberOfPlayers": 1,
         "rating": 17,
@@ -12002,6 +12052,56 @@
             "zh"
         ],
         "size": 2017460224
+    },
+    "70010000036816": {
+        "id": "0100B80013C1C000",
+        "rightsId": null,
+        "name": "Agent Intercept",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220330,
+        "nsuId": 70010000036816,
+        "category": [
+            "Arcade",
+            "Action"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "PikPok",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/389bf172b2f11d6e3cbe8ad1cc26aa19ca39bbad49d9fc179407a39e035d6587.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/bf75b6cfd55c79c4bc612e07b8273d348a85f4dc50cf1e71339f4b75d94de61e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1068a59a1136af1834964cc90f4175a3415f350f46a194c708482e78ab24bef7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f081dc8c8a7030e025d0dec4e552feb67b5360f3e9bccb66da3fb057d0a2a65.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d6f47bd8a1285b56cca8c6d83200a24448e1169a3ee50f083781788e8d351e7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed8362acecf8cbe064e2c1960f3860f2064d136817ef37b0dcfe112de67f05c2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd7223a4179403701f1c7fc8a47ece4a399b390a5b6c8bebe710e8469580d3d1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0315c9acf8341a397f0e682842992de3775fbdca1f9ab93daade4cabf7342f89.jpg",
+        "intro": "The world needs you, Agent!",
+        "description": "Take control of the Sceptre, the Agency\u2019s latest high-tech transforming vehicle, and face off against the criminal organization CLAW in this explosive arcade driving game.\n\nDodge enemy fire, mines and lasers as you perform over-the-top stunts and use the Sceptre\u2019s high-tech gadgetry to blow up your enemies. Feel like a superspy as you transform the Sceptre from car to plane and more, immersed in exotic locations and an original high-energy soundtrack! With a new threat around every corner, it\u2019ll take all you've got to defeat CLAW.\n\nAn Agent\u2019s work is never done. Agent Intercept offers extended playability beyond its rich campaign. Tackle side missions, unlock experiments and prove your worth as a superspy on our global leaderboards!\n\n\u2022 High-octane driving action! Perform daring stunts and pit bleeding-edge gadgets against maniacal bosses and their own deadly vehicles.\n\n\u2022 Mission by mission, uncover and foil CLAW\u2019s evil schemes through three escalating chapters in Campaign mode.\n\n\u2022 Take on self-contained Side Missions to discover unique game mechanics and save the world for another day.\n\n\u2022 Score-chasing elites can attempt to top the global leaderboard in Highscore Chase.\n\n\u2022 Push the Sceptre to its limits in Time Trial.\n\n\u2022 Ready, aim, fire! Hone your accuracy in Target Practice.\n\n\u2022 The Agency is only as good as its intel. Complete objectives and be rewarded with Data Cards containing new art and lore on the world of Agent Intercept.\n\n\u2022 Unlock secret Experiments to change the way you play, including unique customization options and the experimental Hoversceptre!\n\n\u2022 Fully-voiced story in English featuring a diverse cast of characters.\n\n\u2022 Over 30 original songs inspired by beloved soundtracks of the spy genre.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2151677952
     },
     "70010000036831": {
         "id": "0100C52013C3C000",
@@ -18020,7 +18120,7 @@
             "ko",
             "zh"
         ],
-        "size": 1787822080
+        "size": 1805647872
     },
     "70010000044157": {
         "id": "0100CA1015B4C000",
@@ -22993,6 +23093,49 @@
         ],
         "size": 270532608
     },
+    "70010000047188": {
+        "id": "01001DA016942000",
+        "rightsId": null,
+        "name": "SUPER ZANGYURA",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220302,
+        "nsuId": 70010000047188,
+        "category": [
+            "Platformer",
+            "Action",
+            "Puzzle",
+            "Racing"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood",
+            "Mild Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Mediascape",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/72104a333b7a594dbcd607de16d7b1f8aba52fd10cc8880d2045c7d6ad150d07.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4778a32939728f53ac913b5927b2ef78423bd788386f438c2b87567377cc4794.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e928fcf279d38389ea45f02d9935d2b0a640d27941019baefba38fe15bfca038.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/969dcf1bdf83400710b4f68a52568a083e5437d43a8df6d6a1989d0f916562a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48d6270cddf6c12c2d465197a289ddcbd8774cd02f6e79dc6bd64e5f4c5915c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db443a39035f308122e05e69fe2373709534d4266432518771668244dbd48afc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6cca58d0d1bdb30f04db4270385fafdb2e906852ca0bdf56393451c23aa15c7b.jpg",
+        "intro": "An incredible evil threatens the world once again!",
+        "description": "The fearless Maid, morning star in hand, marches ever rightwards through the ancient castle!\nObliterating the weird and/or ghoulish foes blocking her path to the deepest chambers, what she finds waiting for her must be seen to be believed!\n\nOriginally released in 2004, Zangyura\u2019s unique blend of puzzles and action has returned as a modernized remaster, Super Zangyura.\nThe music and visuals have been overhauled, but the simple yet satisfying old-school action has been kept intact!",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 207618048
+    },
     "70010000047213": {
         "id": "01000A0016966000",
         "rightsId": null,
@@ -24321,6 +24464,46 @@
         ],
         "size": 642777088
     },
+    "70010000047852": {
+        "id": "0100FE9016BC6000",
+        "rightsId": null,
+        "name": "Racing Xtreme: Fast Rally Driver 3D",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220302,
+        "nsuId": 70010000047852,
+        "category": [
+            "Racing",
+            "Sports",
+            "Simulation",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "T-Bull",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d9ac5871f2fa403fa939be70d78ae2073d277fb806bc8bafeebd44358859f568.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/616bde2b39fe130de7ff2c69ae7a0862ecd5d78a18c12d515feefb0f65794601.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37f8d8f1c8387df90d5939b5e93d6ce4b868cba1377cc8519175bc134fad24b8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7cb685731e736b67f65c4b82aa026bb483ee777d9e847a0a3778936376b13f72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f07678576faa84511d52550536a92281458c8c43d9a5c66a22dfdfbbe5fb029.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8fca5c8ebbd73c5d434b8578a275c60672af10f10e301b4325e596d247cf381a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69f32f9cfc1e1ea8b702d71fc51210898abd6e936d5f430bc0dd8fd3e3578907.jpg",
+        "intro": "CHALLENGE YOUR RIVALS AND RACE THROUGH THE WASTELAND!",
+        "description": "Get the respect you deserve from your unstoppable rivals and race in your abandoned homeland!\n\nFeatures:\n\u2013 Pick from 30 extreme post-apocalyptic cars!\n\u2013 Discover different car classes: buggies, 4x4 off-roaders, SUVs, jeeps, sports cars, funny cars, and dragsters!\n\u2013 Win the Daily Race mode with real MONSTER TRUCKS!\n\u2013 Let your creativity flow through a ton of tuning and customization options!\n\u2013 Race victoriously through the wasteland and admire the old destroyed refinery, abandoned power plants, and more!\n\u2013 Drive top-class luxury DARTZ PROMBRON 4x4s: The Dictator, SpaceBaller, DrIvE Hards 6x6, Iron.Xtal, Black.Shark and the brand new Prombron Black Alligator!\n\u2013 Enjoy XTREME 3D graphics!\n\nCHOOSE FROM 30 INDESTRUCTIBLE RIDES\nPick and tune to perfection 30 rides from 7 unique car classes: buggy, off-road, SUV, jeep, sports car, funny car, and dragster. Choose from 25 car colors and customize your car by tuning its appearance. Slap on over 60 decals if you want to! Upgrade almost every aspect of your ride \u2013 Engine, Turbo, Intake, Nitrous, Body, Tires, and Gearbox \u2013 and max out its performance!\n\nDRIVE LUXURY 4x4 DARTZ PROMBRON CARS!\nJump behind the wheel of indestructible and unstoppable DARTZ PROMBRON rides made in Riga \u2013 bulletproof opulence trusted by billionaires, superstars, generals, and dictators since 1869. Racing Xtreme: Fast Rally Driver 3D features six officially licensed vehicles from the world's most prestigious car manufacturer!\n\nULTIMATE 3D REALISTIC GRAPHICS\nRacing Xtreme: Fast Rally Driver 3D sets a new standard in the racing genre. Enjoy imposing graphics and face your rivals mad with the smell of gasoline. Discover the post-apocalyptic world racing through the old destroyed refinery and abandoned power plants with their rusty scaffolding and immerse yourself in the wasteland. Explore your new homeland where driving skills matter!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 436207616
+    },
     "70010000047867": {
         "id": "01003A6016BDC000",
         "rightsId": null,
@@ -25135,7 +25318,7 @@
             "zh",
             "zh"
         ],
-        "size": 935329792
+        "size": 1103101952
     },
     "70010000048077": {
         "id": "01001CF016CCA000",
@@ -25177,7 +25360,7 @@
             "en",
             "de"
         ],
-        "size": 128974848
+        "size": 130023424
     },
     "70010000048099": {
         "id": "010049B016CF8000",
@@ -27347,7 +27530,7 @@
             "ru",
             "zh"
         ],
-        "size": 1215299584
+        "size": 1217396736
     },
     "70010000048961": {
         "id": "0100B69017120000",
@@ -27779,6 +27962,47 @@
             "en"
         ],
         "size": 94371840
+    },
+    "70010000049144": {
+        "id": "0100D850171E6000",
+        "rightsId": null,
+        "name": "Marble Maid",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000049144,
+        "category": [
+            "Puzzle",
+            "Platformer",
+            "Action"
+        ],
+        "ratingContent": [
+            "Nudity",
+            "Sexual Content"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "eastasiasoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d3f89d969d6e784ba13d1e0cd5fadfb62906e267cb1a211bdd2e433562552a14.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fb1de264d35adfc7537e57dfa073b089e62278b4a3d804cfa4752991e7127361.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0bbf6430a3900cb7cbcaab5f8e71cf30d41942584b6743401ffca33d9739ed4b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b5e60f360326a2fd04b5a92072cb778a219a82f53abeb0d7e8e75e044c68e2d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63fcf21b149d81f325a748421650c3a70697285d5625b9544b6c14341fbb0c60.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5cc3c972b651bcc50598f58d9ac9a9d27ba864d8d51fd0015794194ff1fd03be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d7083b42a2bd8f36e6272bf34730503c7a7d7ca4531578e10eeff76d6e4f3de5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5fc52a8ac3a44a23b62ffee03d771c86b54e2f2ecd44d1277c30d84195fa5e5d.jpg",
+        "intro": "Rid a mansion of dust bunnies to reveal dirty little secrets in a giant puzzle ball adventure!",
+        "description": "A cutie in a maid uniform prepares to tackle her dirtiest job yet! In this puzzle ball adventure, you\u2019ll control the adorable maid as she rolls around a larger-than-life estate and clears away the dust bunnies plaguing each room. Chase down and eliminate at least 3 dust bunnies and roll to the goal before time is up, and you\u2019ll clear the stage!\n\nMarble Maid offers a hardcore challenge that makes you work hard for its naughty unlockables. Fill a gallery with saucy images as you progress through more than 50 stages across worlds themed for different parts of the mansion, from living rooms and kitchens to bathrooms and darkened halls! Every 10 stages will also lead to an exciting showdown with your nemesis and frenemy, Nega Maid! Are you willing to get a little dirty to clean things up?\n\nFeatures:\n\n\u2022 Master more than 50 stages of puzzle ball adventure!\n\u2022 Roll through tricky obstacles to chase down and eliminate dust bunnies.\n\u2022 Explore a wide variety of room types, each with new challenges.\n\u2022 Unlock naughty images with each world you clear!\n\u2022 Confront your rival Nega Maid in exciting boss battles.\n\u2022 Discover secret levels by beating the main story!\n\n",
+        "languages": [
+            "en"
+        ],
+        "size": 115343360
     },
     "70010000049155": {
         "id": "01004810171EA000",
@@ -29231,6 +29455,46 @@
             "zh"
         ],
         "size": 0
+    },
+    "70010000049984": {
+        "id": "010036001778C000",
+        "rightsId": null,
+        "name": "Potato Flowers in Full Bloom",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220310,
+        "nsuId": 70010000049984,
+        "category": [
+            "RPG"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "PLAYISM",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8c8e181202f1526b9e38363f4d8633398077bcbd1a0e45bd271cc261c986cddb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c0c2f6e5c12e8c0fcb6db6381672eb0c717e06740121ab9f2cc196909e6ef5f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e1fa0a0efaa9a452d0a090e3b7c26e9a2de142e3d1b519201d080d04a933220.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/26b09fe0d15f9cd23c19da8bc4dc9c7fd3621aa49c8c90d0f27a32b8ac5fa0fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f5dfdefb61fff8a9195d3453641c949972c83cf5665102568a610f1c394575c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/13c0bcd1739d5c5c3829c13fa9047531ab46a107fd71c95721bbbe5fa35aeb01.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d22dc6828d4e8ab9d71410eef583ea057bb462fe3adb63247dc7dcd8a97127c7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/08571cfe76397accb247a19f8b20834b112f207b95005a289580906955bc6421.jpg",
+        "intro": "Explore an underground labyrinth in search of mythical seeds in this 3D dungeon crawler RPG!",
+        "description": "Play as part of an expedition crew looking for knowledge and magic items. \nSeeking special crop seeds that were left in a labyrinth by alchemists, your crew has travelled to a rustic island.\nThese seeds are special in that they are said to grow in contaminated soil, which is a problem that has long plagued humanity.\nSetting up a base camp in a ruined town and led by the expedition chief, the player will enter the labyrinth time and time again in an attempt to reach the lowest level where the seeds are said to be stored.\n\n\u25a0Explore the labyrinth riddled with traps and mechanisms in first-person!\nGradually expand your range of activity in the labyrinth.\nNavigate the the dungeon to get treasure and level up your crew.\n\n\u25a0Leaving things to chance will prove fatal. Read your enemy's next move in battle!\nIcons will indicate what your enemy will do next turn.\nWill they block, dodge or attack?\nChoosing your next move wisely to counter theirs will help lead to victory.\n\n\u25a0Build and train your team to suit your style!\nCreate a team of up to 3 characters including Knight and Shaman classes.\nEach class has a its own skill tree, train them up to find your perfect build.\nThere is also character creation where you can choose your race and hair colour.",
+        "languages": [
+            "ja",
+            "en",
+            "zh"
+        ],
+        "size": 212860928
     },
     "70010000049994": {
         "id": "01005F40177B0000",
@@ -30770,6 +31034,42 @@
         ],
         "size": 164626432
     },
+    "70010000051313": {
+        "id": "010030E017C6C000",
+        "rightsId": null,
+        "name": "Words With Freds",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000051313,
+        "category": [
+            "Puzzle",
+            "Lifestyle",
+            "Education"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Mokuzai Studio",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d6e56c3e7745a630f7e1ed24b9db2c9f5c51757c6ee70e1fda64c52eaac4c3fa.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/194639fa799c6b8a1dbe425137fc892f87870f974b60f1893bc459f14dbbdf19.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fe0f5c2b7741b2fe11c3b63bf91825bbdd635e7f4dcb6e8f972aea722d014c53.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5943cf7e8996647b065677ce98ea307541b39b9284381cd17a858213d5cd7dc0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bdec8b72a1b80fb2e7a11bf7002cf6dff2d2f5b9b8e6cf7a55ea6ca7cbf4c00b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/83e85a117f195f4034e033df51fcc2a9be2821900b97e4638c8985a68d43b7f9.jpg",
+        "intro": "Guess the word in six tries or less!",
+        "description": "Words With Freds is a simple word game where you must guess the randomly picked word within six tries. Every wrong guess will give you hints that will guide you to the answer!",
+        "languages": [
+            "en"
+        ],
+        "size": 36700160
+    },
     "70030000007383": {
         "id": null,
         "rightsId": null,
@@ -31635,6 +31935,34 @@
         "languages": null,
         "size": 171966464,
         "parentId": "01003CF01721A000"
+    },
+    "70030000015504": {
+        "id": null,
+        "rightsId": null,
+        "name": "Potato Flowers in Full Bloom Demo Version",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000015504,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 212860928,
+        "parentId": "010036001778C000"
     },
     "70030000015524": {
         "id": null,
@@ -48748,6 +49076,44 @@
         "ids": [
             "0100763015C2F002"
         ]
+    },
+    "70050000033207": {
+        "id": null,
+        "rightsId": null,
+        "name": "Original Pack 6 (10th Anniversary3)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70050000033207,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood",
+            "Mild Language",
+            "Suggestive Themes",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "TAITO",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/87e88d0dfef370069be8ac519eef8ce0287e07304092ecf608e306f0cee486f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91d7ac42cfc19f0fdc655763545d0daea686a5e229c95c08cbe5d96607ea9433.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8c8ddc62da7f9d48c88883da1ee4cb12a1f0d93593026e3a92a35c365415faec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b156a526628962f6aa306d68843e7728644c01ce66219a8738cf2facf624d575.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37fff423d7513e599ecb911e87db6a480d68c28e055b76ae216218ad4781efc3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/57a21e902ebabec711144544d7803491257f83900cfd4605e60d006186a1a7da.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a5e4de51a150eaec8b943c78c2650abcdfba9eeddb1e86d2cab29b7fd81d7b0a.jpg",
+        "intro": "10 original songs, including Grated songs composed by Massive new krew and Shohei Tsuchiya are now available! With navigators and avatars!",
+        "description": "A DLC pack for GROOVE COASTER WAI WAI PARTY!!!! that includes 10 songs, navigators, and avatars!\n\nThis pack includes the following content.\n\n\u25a0Song Pack (10 songs)\n\u30fbPIXEL STAR / YMCK\n\u30fbKung Fu Master = Ken / COSIO\n\u30fbOwaranai Groove / Naoshi Mizuta (SQUARE ENIX)\n\u30fbTAKING OFF / SATO\uff08SANODG \u25b6\u25c0 KATO [noisycroak]\uff09\n\u30fbLethal Dose / sky_delta\n\u30fbWelcome to the Multiverse!  / kamome sano parallel trip orchestra\n\u30fbGrimoireD / Symholic feat.Rina Komatsu\n\u30fbHeadshot / Massive New Krew\n\u30fbSorae / Shohei Tsuchiya(ZUNTATA) feat. SATOMI\n\u30fb???(Secret)\n\n\u25a0Navigator\n\u30fbKung Fu Master KEN\n\u30fbHeadphone Crab *with special system voice\n\n\u25a0Avatar\n\u30fbKEN(2D)\n\u30fbCHIBI KEN\n\u30fbLINKA(Tiger, 2D)\n\u30fbYUME(Tiger, 2D)\n\u30fbSEINE(Tiger, 2D)\n\n*Some content will be unlocked via missions after downloading.",
+        "languages": null,
+        "size": 46137344
     },
     "70070000000221": {
         "id": null,
