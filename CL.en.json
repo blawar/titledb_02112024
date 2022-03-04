@@ -1,4 +1,49 @@
 {
+    "70010000000070": {
+        "id": "01008A9001DC2000",
+        "rightsId": "01008A9001DC20000000000000000000",
+        "name": "ACA NEOGEO SHOCK TROOPERS",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000000070,
+        "category": [
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d0affd97c1e322c69f50571c1e9a6bd0e61d2aeb9b9e924606ca365227d537bb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/83a00265a89bb0133dcabf7c1e9cef50ff05c8e54493fc02f16f60d6bcd4eef7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/87949d52478f55554f065d5bad2bf8fbfc3881f08606fabbae1fe18136cfdc33.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f68eba22c16aabbf7392925791284158a9ac6b59131560e25b54a5656257834c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/acee44192dc4cab5d0041b2d232b712a9d206ed668e2e15bfa606c2ec0592da2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3573e6058750b6f9f9f244755d4cf59478719f201304914cf51a066c9fb9a14b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/021fe13425795f8cfca454233fa86afe79a962a1bf76f40b7c7681f026742179.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/18b28711ef57d8af68e1e2ad422052f5add273beac0b024c25d1f6802c2749e8.jpg",
+        "intro": "Eight mercenaries challenge the monstrous terrorist organization! \nThrilling action shooting!",
+        "description": "\"SHOCK TROOPERS\" is an action game released by SNK in 1997.\n\nPlayers take part in a rescue operation for Dr. George and his granddaughter who have been kidnapped by the evil organization Bloody Scorpion. The game features the ability for players to choose which route to progress, adding even more replayablity to the title.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 139460608
+    },
     "70010000000072": {
         "id": "0100BA8001DC6000",
         "rightsId": "0100BA8001DC60000000000000000000",
@@ -45,6 +90,51 @@
             "it"
         ],
         "size": 189792256
+    },
+    "70010000000074": {
+        "id": "0100CEF001DC0000",
+        "rightsId": "0100CEF001DC00000000000000000000",
+        "name": "ACA NEOGEO WAKU WAKU 7",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000000074,
+        "category": [
+            "Fighting",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Suggestive Themes",
+            "Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/62ee66d94c40211526dc0df70f8db311eccecd60c1274645d70d0dc6bcc7af5f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8f914a856e096a4e16bf48486e82ab18a5960969d11dd374738cafa4babdaa36.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a474e85d3bc10301884511d625d70f87efdd1a0d1da9674e9002ad1bc796731e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/92ae051d3fcb9e1f4e96a99416ceca67ecb37e39f19337f6107bb67a47917737.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cab33e88954e337606848bf5bb5a24ac946ddf845b7c660161ea87dca2faf903.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91afbea7e1ac372b0c0fff5cc44ec4d80816defcc089c2dec2bff1f682518b3e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f151f0c9f48b271f174bc89e10996287d483b0b08204b388d23c01107d82943.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c6e0ad61f9063177be8eed1e7b7bf7ae61e0d22868e8806cdef469bfbf8e911a.jpg",
+        "intro": "Struggle for \"WAKU WAKU ball\"!",
+        "description": "\"WAKU WAKU 7\" is a fighting game released by SUNSOFT in 1996.\n\nPlayers will control characters who have one of 7 WAKU WAKU  balls that grant wishes, and gather the remaining balls.\n\nLet's gather power in exciting gauge, and attack all over with the personality-rich technique of each character!\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 196083712
     },
     "70010000000076": {
         "id": "010021C000B6A000",
@@ -322,6 +412,95 @@
         ],
         "size": 197132288
     },
+    "70010000000222": {
+        "id": "0100A76002B46000",
+        "rightsId": "0100A76002B460000000000000000000",
+        "name": "ACA NEOGEO ALPHA MISSION II",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000000222,
+        "category": [
+            "Shooter",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8ae04296f71fc8e97cd8cd42d264e3cddb6964b4985fc47db3294c59fe87206f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/60d714d28bc2e2ea471f4eaea0b88e14763e7c8cb1b0d1eaeaf8202ef122db4a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/504e32738149dbccc4ba23f5387d94728e2b8003395c2f4aa5cbd34fb63293f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4d8b74df918e1bf61a1b45bea75f7324fc0e742b81a5c63300f96d6bdfaffb7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/703408d485833f515c44094966702749dab6bfccd3872cb3e02c6f5d162708f5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71d9b787a84595c4b7271da57928e6cd6d1ffac51d62a6db6629b1c6e259922b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/79a16515de0d2b9750cd7c9eed4f0806051c8bc9ef1c2d574c1c535098fdd62b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a2e47dc80ad0c2678b88797162b41cf243917c66fe452b13b509020b446d4572.jpg",
+        "intro": "Utilize 11 types of \"Power Armor\" and recapture the universe from the Seven Star Alliance!",
+        "description": "\"ALPHA MISSION II\" is a shooting game released by SNK in 1991.\n\nThe game is a fan-favorite in the genre, and features unique gameplay allowing players to collect and upgrade armor power-ups and switch them out on the fly.\n\nThis second entry in the series adds a wealth of new flashy armor power-ups, expanding on the tactical and exciting gameplay the series is known for.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces. Players can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 83886080
+    },
+    "70010000000227": {
+        "id": "0100EE6002B48000",
+        "rightsId": "0100EE6002B480000000000000000000",
+        "name": "ACA NEOGEO FATAL FURY",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000000227,
+        "category": [
+            "Fighting",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f68c57de6a6bd0da0440ff34fd1b166a3f8a2d521e95b1c723013983d9a6d6ba.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3704fb67f1b0824a3d09b84e96145c77e4caa5483a20b5185afaecab75d65c38.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/416838e40840205b7c74d9263e48cad6793c9fd5dc2e3b75b8de0b773516bdb5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b5ef374fd9951e574255193dad87c23a0f9ab84ad65f02629654b6f888efea0c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6cae88e0c428a7be8547b87026771386d3db66b70dbc5eaaa803ee3cff915ccc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/17f9b0bbd9483c272a4773c9ec01c40b1a83cba3b61abf790e3bd6d7599b3b66.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/789b3a15d983274d50e90f3d2827458b0d12b50ec9492ea653609d685a9fa226.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/93c32e9e603320a193e5cb2d2b8e8d267b6533f6479df6e9a89594a394cd3743.jpg",
+        "intro": "The original NEOGEO fighting game! Experience how the legend started!",
+        "description": "\"FATAL FURY\" is a fighting game released by SNK in 1991.\n\nPlayers take part in brutal street fights in a variety of locations, with the goal of toppling the infamous crime lord Geese Howard.\n\nThe game includes very unique features when compared to other fighting games available at the time, including a special Line Battle system that allows players to traverse between the foreground and background and 2-player co-op functionality.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 165675008
+    },
     "70010000000230": {
         "id": "01005C9002B42000",
         "rightsId": "01005C9002B420000000000000000000",
@@ -367,6 +546,48 @@
             "it"
         ],
         "size": 193986560
+    },
+    "70010000000282": {
+        "id": "01003A5001DBA000",
+        "rightsId": "01003A5001DBA0000000000000000000",
+        "name": "ACA NEOGEO OVER TOP",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000000282,
+        "category": [
+            "Racing",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f4ce5364ec56733cb60700cc8af5061936b2e2ea2be6c349ff0fa31a22a6f107.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2158c88f346e966d94ce3fdb41b3877f286cafdad5e49b7eaebb0b5e2340a741.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95034be7738b90866f3cda3d168bf786ad363e98d630ce4676f57dde8ab20b4a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2e352dc388ef1eb791d21860a9a4fa0e074f7ae960838e26b4dcfcc603a8c9e8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/10546f16ac15aec6af5ff10967c6077ccf82124ae64a03e4c3613b55ca304f23.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4e52e66cfab067551694cb0fa1d3542b4b818e8e6046577f8b8c807c47ffa8f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/494875e4e27560030cd0c4e62d062dc23a126a089fc623721017d4f882c6214b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/892582fd0f072ff6ea7b8aff66c0adb9fa7ef6ba9de9372409d3ae0d08cbaa74.jpg",
+        "intro": "The ultimate NEOGEO Racing Game! The game features branching paths and a variety of car models for maximum replayability!",
+        "description": "\"OVER TOP\" is a racing game released by SNK in 1996.\n\nPlayers will participate in breathtaking races through urban areas, mountainous regions, and snowy roads. The courses also feature weather variations to add more variety to the game. \n\nIn addition to the various vehicles with different performance factors which players can use, they can also enjoy the thrill of drifting their way through corners to clear courses.\n\nThe \"ACA NEOGEO\" series has faithfully reproduced many classic NEOGEO masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 89128960
     },
     "70010000000917": {
         "id": "0100755004608000",
@@ -1024,6 +1245,92 @@
         ],
         "size": 10481565696
     },
+    "70010000006251": {
+        "id": "0100328009800000",
+        "rightsId": "01003280098000000000000000000005",
+        "name": "Arcade Archives EXCITEBIKE",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000006251,
+        "category": [
+            "Racing",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dc980ca2141f0878cc78ab4206d8cce4d1c3c8bb557d31912546391a18b55637.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9769e8926ff8e558ad055ce828b4fcadfc3e72c0cf08a13c63ed7a594d6d473b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37a848437d69ec204ee687ecc7644c0c8b97fed3f309cedd16dd17cfcec5711e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ced0987fc8a0296b54ca234f9d837e78d0170de9e6e69dc92abd1ff45e3d10c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24e24ecd061b70d5fab7507ce95766f2415a170ed888dca63ef47366c7736c26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39640adefd465ff626e04321b5619e126f790f76fb419c7d4d7f08970760edd5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3da422e5f8f612073c5392d6426302d3dc11de09deb34f6c70357cd0ef6abbc4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/84af509f46e2d70cfd8ac6ac6a120a5a24e6f92832df6eb92a4f95abbfb36af3.jpg",
+        "intro": "Dead heat races coming down to a hundredth of a second!\nUse super jumps and more in this fun motocross game!",
+        "description": "\u201cEXCITEBIKE\u201d is a motorcycle racing game released by Nintendo in 1984. In addition to solo qualifying races, there are final races where you face off against motorcross riders. Each course has its own variety of obstacles. Use all your techniques to avoid the obstacles as you aim for first place. \n*This is the Nintendo VS.SYSTEM version, however the two player mode and track creation function are not included.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 80740352
+    },
+    "70010000006261": {
+        "id": "01000DB00980A000",
+        "rightsId": "01000DB00980A0000000000000000004",
+        "name": "Arcade Archives Ikki",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000006261,
+        "category": [
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 10,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/42ca02198f10faad359b154aa7225fe09cfc05132b2e8d0d566337eb8dfb62c6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/eb1a95360a91361a2cef5f5cb5b93cfb96027e624167132b4b0290714f7050c4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80d95a79d5b2bd98eeaed910c9c2556d240861b66b5716ad6477e7c337397dd9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97cff77b79bf4918accc7dcf823c3725c847a5f2280e3f3463ade104bf2e1ed5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b579cd4492979cb3d3f0d834b518bb5f3463e1ec38771c6a8d09d3d49b93791.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5453f6f420c58b42b220bb32ddaf47a524cae8386b91907456b0e5fdfe0e7cc7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/468e0a7773103b7af15b213b576cb9ebe8f0e390f27928670e8350b518847494.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cf17c824a5ad41c3ce0c8e8674b25abe6abf5c28e4e546d196c4a435595a83a5.jpg",
+        "intro": "Get the rice back! Help Ikki succeed against the cruel bailiff!",
+        "description": "'Ikki' is an action game that was released from SUNSOFT in 1985.\n\nPlayers control 'Gombe' of farmers, to go to raid evil magistrate, will defeat confronting enemies. In this work, players can enjoy 'two coop play'. Player 2 will operate 'Tago'.\n\n'In-Game Language: Japanese Only'\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 74448896
+    },
     "70010000006294": {
         "id": "010072C009826000",
         "rightsId": null,
@@ -1330,6 +1637,50 @@
         ],
         "size": 439353344
     },
+    "70010000008629": {
+        "id": "010069F008A38000",
+        "rightsId": "010069F008A380000000000000000004",
+        "name": "Arcade Archives STAR FORCE",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000008629,
+        "category": [
+            "Shooter",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3c94bfea275d7771d573c845a4082e75557176bb9d0893d3e15496416a0c1b85.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e1239f76aac9f6dbd25a4588fabd7f2043a055792a163281bb41dca687dfb542.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/beb409fb78eba853d8c51d1f5947a551907204edf5207fcd5327aba6c1274ffb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d361a5d3813b9b481851b3cb3d9d88246ab1be2ebe0894500502e806d6898040.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d7ec9ee4e8a8f5de0f1240b824ce674f5582941df1a91f720fb8ae8660fa5df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00b7c1adc8e861b43482c0c5a11ccbaa2dd746381764a80e8f9e265a8bb14bcc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3571860de88c2a724f46e9b60327e2ee565677c31bc8e4539b863f2aac05a1d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/27d7a658301e11c134b7f06f7e331539d9de3abbbb958b5507438a039eda8bb5.jpg",
+        "intro": "This is a pure shooting game masterpiece! \nAim for the highest score!",
+        "description": "\"STAR FORCE\" is a shooting game released in 1984 by Tehkan (now Koei Tecmo Games). It was very popular due to its variety of hidden bonuses as well as the competitiveness for achieving high scores.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 100663296
+    },
     "70010000009422": {
         "id": "0100EEC00AA6E000",
         "rightsId": "0100EEC00AA6E0000000000000000005",
@@ -1431,6 +1782,50 @@
         ],
         "size": 15888023552
     },
+    "70010000009571": {
+        "id": "0100369001DDC000",
+        "rightsId": "0100369001DDC0000000000000000004",
+        "name": "Arcade Archives Ninja-Kid",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000009571,
+        "category": [
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b6fc10b7d1e85bcd4ec7d527965b1fc3eab6ca6976d30245870439499f82dbae.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d54bb1a7ccbad43c33035db5e44daa1716ea74e8ecbd304cbd2ac3b4d3db70fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12df7165d23d9df8a6b3467b63519f2239547ac64249b75dd2e5e948f715e4ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/641a53618d9ba6b0207c180673fe9a55e7a163ac822ff7c5999cc724a9ff3a2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/10afc7e8360c5f7dd2a75fed5767823999795ac6744bd254347a1883aba01af2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15ab200a78a81ca1b32900eb2f03e118750053195b4718af89e81d854dc4f34b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/de3c92baa2efceb7206b6253e24d4e9e15a61fe2b3cba0e34a29fc7d068c522e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a77d4c1418907de38568dc805881598e3ed7aa732ff1693ffdf8e0f4a8d5ab43.jpg",
+        "intro": "Infiltrate the castle and use your special shurikens and body-slams to defeat enemies and get the treasure back!",
+        "description": "\"Ninja-Kid\" is an action game that was released from the UPL in 1984.\n\nPlayers control Ninja-kun who puts a red hood on, and layers move the scaffold consisting of several stairs up, down, left or right, and players defeat the enemy with the shuriken.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 73400320
+    },
     "70010000009773": {
         "id": "0100B1000AC3A000",
         "rightsId": "0100B1000AC3A0000000000000000005",
@@ -1521,6 +1916,50 @@
             "zh"
         ],
         "size": 1066401792
+    },
+    "70010000010531": {
+        "id": "0100E9E00B052000",
+        "rightsId": "0100E9E00B0520000000000000000004",
+        "name": "Arcade Archives DONKEY KONG",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000010531,
+        "category": [
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/51245ea71b045584145a0cee2b6e9d1ffd4c53374d48205e7c19ca19e443839b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/49ce91dd05f7ba0fed95329a4f7436380d04e3f61b3b15078722872674d3020e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1d759150a4e2e9f294fec4f0bbe8e7d6fec0378180a1d5d13ccfdec88fc13422.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a547fe14ba2003c1f77cf80a4aa0001c34d38803d7801f01848339066f88981d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39453b2161a49abef26c3393387ed28d3324bd959e0b352a15a5d66e629759bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40ae003f5c0bc7e41b6fd3118c1cfe374a31147817942406cc93735b27e6f781.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/284e8bd2110f6320c928faf461b6adf77f42f345c1b1ab3b183d625607ffeece.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2647211d970da0c69d567782503c4a471c0836a75168696accfe25fc6a3fee89.jpg",
+        "intro": "Save Lady from her kidnapper Donkey Kong!",
+        "description": "\"DONKEY KONG\" is an action game released in 1981 by Nintendo. Avoid a variety of obstacles while heading through a construction site to make it to the top and rescue Lady. Use the hammer to destroy the barrels and fire coming towards you to earn more points. * This version contains both the early and later versions as well as the international version.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 84934656
     },
     "70010000010629": {
         "id": "0100F1400B0D6000",
@@ -1624,6 +2063,50 @@
         ],
         "size": 2563768320
     },
+    "70010000010795": {
+        "id": "0100422001DDA000",
+        "rightsId": "0100422001DDA0000000000000000004",
+        "name": "Arcade Archives TERRA CRESTA",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000010795,
+        "category": [
+            "Shooter",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d420b96d2bd43a913eacd15ab1b860f4b753c56527857f99706355c5aabb1d2b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e42e1f7127bebeafb235b56980fbd20f3f4cb63c979a763dc69ef450f5639c61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/34f50e74fd959654026f39e0413f74bfea70eb55f586a21fd9722b1cc5a29970.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1b2678d51eaa2fc5b1df91c47f4bf99b3cb01a1dccbfb4f00e5b484d8e32860c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/387259d712e6a5a314318ba6c59dd4b1782143d26422e284606c5da29507d96c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d181c27a1e54122e598456a4478fdc7ec4d68917ed14a8cb133756be24283b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/234e570cf09deb13fd68dafd3ce61752609e8c534a3d21600a3ea4014166a560.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e187466b9f8a22d5c7af365ba5c567b5a08e081887b2dc5e3dd4f2c6590286c.jpg",
+        "intro": "Recover parts left on Earth and destroy enemies\nwith formation attacks!",
+        "description": "\"TERRA CRESTA\" is a shooting game that was released from Nichibutsu in 1985.\n\nPlayers recapture parts that have been left in the ground, to intercept the enemy in the formation attack. To aim the space devil Mandora.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\n\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\n\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 98566144
+    },
     "70010000011366": {
         "id": "01004F000B716000",
         "rightsId": null,
@@ -1671,6 +2154,54 @@
             "zh"
         ],
         "size": 3793747968
+    },
+    "70010000011626": {
+        "id": "0100DEA00B758000",
+        "rightsId": "0100DEA00B7580000000000000000005",
+        "name": "Personality and Psychology Premium",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000011626,
+        "category": [
+            "Lifestyle",
+            "Party",
+            "Education",
+            "Study"
+        ],
+        "ratingContent": [
+            "Drug Reference",
+            "Language",
+            "Sexual Themes"
+        ],
+        "numberOfPlayers": 5,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Crazysoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/91c358b817d9a092b5709bde301fd9beecfa0b19d692c4731aff5a1dcdb197c8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1bb2d8169cecfde597a513f30d9c3bd94d7bb4a806dad1beef92d1454544b23b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7d4c9da3f81162b94251fea504770bc86c564322c3303341d78a5d22a3a688a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f6f10511e8a0236dd7ebe406c192d80e23016cc509d7afad629392bcdff6f14.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/941dfc08ca3077a23a34060e8c4fd8f99bf130d88169992e6844d11ebbd81021.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/520a72be11c9f28eec057a2649c719e70765992315812b0074acb5107ec8a2c4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/547a5d1e8ae0e8f825df812b066deee2789cdf7ceb1d34a0dd03f12c59d923f7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/27eb599a31ddf6d73bf2c0bf74cd597394162b7006c3366fa586e0d127e28002.jpg",
+        "intro": "Personality Psychology Premium app helps in getting you the analysis of your personality, psychology score. ",
+        "description": "Personality Psychology Premium app helps in getting you the analysis of your personality, psychology score. When you are worried within and looking for a better help and looking to visit psychiatrist then Personality Psychology Premium is the best solution available on your click. \n\nIt has a series of tests which you have to go throw to achieve your personal score. These tests are very innovative and are created in a light funny way such that nothing gets too serious or boring. Once you finish the test you will get the score card of your analysis. \n\nWith this app over the social gathering, you can add up to 5 friends at a time to go with the tests and thus compare the results amongst players. Win Trophies based on the type of tests you try. The results help you improving the personality level as you get an idea of roads of improvements you require. \n\nThis app helps you best when you are unable to figure out that whether you are stressed? Tensed ? or worried.\n\nTo list few of the Tests:\n\u25ba THE INSIDE: Am I happy? Do I like myself? Am I free as a bird? Am I obsessed? Am I stressed? Do I feel healthy? Do I feel guilty?\n\u25ba THE OUTSIDE: Am I ambitious? Am I adventurous? Am I always right? Am I peaceful? Is my mind stuck? Do I use people? Am I tough?\n\u25ba THE ACTIONS: Am I responsible? Do I take risks? Am I energetic? Am I shy? Am I wise? Am I a thinker? Am I friendly?\n\u25ba THE OTHERS: Am I peaceful? Do I like free will? Do I like change? Am I tolerant? Am I a believer? Am I a racist? Am I a capitalist?\n\u25ba THE SEX: Am I satisfied? Am I conservative? Am I a sex machine? Do I think manly? \n\nFeatures:\n1) It helps you to break the ice socially in a gathering.\n2) Impress someone by its accurate results.\n3) Understand yourself better.\n4) Find more about a close person or have fun with your friends.\n5) Grow Socially, professionally\n6) Achieve Mental peace and calmness ",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 277872640
     },
     "70010000011650": {
         "id": "01000AA0093DC000",
@@ -1847,6 +2378,102 @@
         ],
         "size": 827326464
     },
+    "70010000012544": {
+        "id": "0100D3200AF74000",
+        "rightsId": "0100D3200AF740000000000000000005",
+        "name": "Doodle God: Evolution",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220310,
+        "nsuId": 70010000012544,
+        "category": [
+            "Simulation",
+            "Puzzle",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Mild Blood",
+            "Sexual Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "JoyBits",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6448312799fd1c584b2c4417045b57ebe8ba800d4d18f3725740f5e7aa83510e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2c444747247e61e630f4c5473bb60242643753ee58cb26ade109c7b160fb297b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/82804f756e7a1df5726672b6b7a26db0826373572940637f75642f73ac862e2e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/678481f9dc7bbc29c6378f796da5ec5cfdd38cea2376053dd51c121519eab509.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14ad0aa7ff29db1e7f82a9f4c132724daf713d4cf863c35ba59a06337d543dfd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f781ea813687e72d377dcddb92285761de516c564a760b4c72fa476c51eae89a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/604c704aeec85e824a559750d4dec1f0b5c9d1032113673b45f1faffdb3adf6b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7097b61a96fea8c83ad4e3d2a3aea3702ad5b31b373fa04a7eccbe1a646a1e12.jpg",
+        "intro": "UNLEASH YOUR IMAGINATION & BE A GOD!\nCreate and change your planet with each new reaction.\nThe whole world is in your hands!",
+        "description": "Doodle God: Evolution is a unique edition of the well-known game that includes not only the classic Doodle God, but Doodle Farm as well.\nAnd now, in this addicting all ages game, not only fire, earth, water and air but also plankton, mammals or birds will be at your disposal. Mix and match different combinations of elements to build an entire civilization and re-create the evolution of the animal world!\nOf course, the universe was not created in a day, a long journey full of joy and creative torments awaits you. Don\u2019t worry, you will not be alone in this adventure! Every time you successfully create a new item you\u2019ll be rewarded with an interesting scientific fact or wit and wisdom of some of the greatest philosophers and comedians of all time.\nBut beware, the power of creation may have unintended consequences, inventing the wheel might just trigger a zombie plague!\nUnleash your inner god with Doodle God: Evolution!\n\nFEATURES\n- Huge variety of wildlife awaits you in the new Doodle Farm mode!\n- Over 500 Items to create!\n- \u201cPlanet\u201d Mode allows you to see your planet come alive as you play.\n- \u201cMission\u201d Mode offers new challenging puzzles.\n- \"Puzzle\" Mode. Can you find the final object?\n- Various quests will not leave you indifferent.\n- Hundreds of interesting facts and funny, thought provoking quotes!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 424673280
+    },
+    "70010000012824": {
+        "id": "010007A00980C000",
+        "rightsId": "010007A00980C0000000000000000004",
+        "name": "Arcade Archives City CONNECTION",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000012824,
+        "category": [
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/959070cdcb638811383c692c87ef3dad92028371c95de2ff1ab0ed5c0a1682ae.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/60f6a9aebc5973c626729079fac0fb5692cefe42fe503cb9ca7fe7b1f5b869f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd3bbddace2f78bf7dd2d3c49ea7b533c614f934f07e3f9de85068aa273e7a50.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f72c48e0be08774ad1d43f2f5f3f0ed325ea1972821511f25889fe76faa54fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7612d7b06225151ac853952e1c6e3278b54c07995773b6ceb28a1f212c863139.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e7450de4b32161cce80d2f29c46622dbad3ade5d77ce408a87e00efa2577f50e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9b6242d0ae705e7c13a378b2ee3fae8aca5d33103a4aee56841948c62bced1f9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/494e924c35205b8bcaf618679d05b9b69d539a7583c728cc38cbe8b466325679.jpg",
+        "intro": "Hop into your beloved Clarice car and chase patrol cars on highways around the world!",
+        "description": "\"City CONNECTION\" is an action game that was released from JALECO in 1985.\nGirl Clarice drives \"Clarice car\", and runs around the world in search of the ideal of man.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 121634816
+    },
     "70010000012894": {
         "id": "010021700BC56000",
         "rightsId": "010021700BC560000000000000000007",
@@ -1988,6 +2615,50 @@
             "zh"
         ],
         "size": 2468347904
+    },
+    "70010000013251": {
+        "id": "010042200BE0C000",
+        "rightsId": "010042200BE0C0000000000000000005",
+        "name": "Arcade Archives URBAN CHAMPION",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000013251,
+        "category": [
+            "Fighting",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 10,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/de67e6a2e757b5f44eb5718aef92c9fcde4a9a2ebe108b2c9c6a2bc3f0d6b655.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c48fc2cab8c84c1c00df480b3ef0bbf40023c838f656703c519f036a5effe5b8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19c8d9a28963c6f4d8fb6d1237f8de5a73472da547b54cee7263a42d15eb99ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3c3a68a6d796c2321cc5f9545ffa372eecd6dd5d567e04ed5706719e3d7ace5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bd8ba9530eba7028f7ec2a3c74ddb3bb7451584a7e9615b18e16bc176afbc6a9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a37d251de0e10e3b4c2f9bc56adc7ad8b606d92b6559218e0bce4cfa9c9d98b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1e8833abd87dca11ebcbeceaadc2928f5140624e16a58351af6c6ea99b3e6d2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4f7036e2eb722c80d0bf41378488ba8c9fc38e0f2f02a66e778dec900f14c469.jpg",
+        "intro": "An all-out fistfight! Choose your time to strike!\nYour victory could be decided at any moment!",
+        "description": "\u201cURBAN CHAMPION\u201d is a beat 'em up fighting game, first released by Nintendo in 1984. True to its namesake, fighting men duke it out, fist to fist, for the title of \"Urban Champion\"! Go into battle with light and heavy punches, as well as dodging and other defensive maneuvers. Take on a 2 player battle, and try to read your opponents' moves to become the victor!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 73400320
     },
     "70010000013397": {
         "id": "0100B6800B5C8000",
@@ -2289,6 +2960,87 @@
             "zh"
         ],
         "size": 632291328
+    },
+    "70010000014369": {
+        "id": "010098800C4B0000",
+        "rightsId": "010098800C4B00000000000000000005",
+        "name": "'n Verlore Verstand",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000014369,
+        "category": [
+            "Adventure",
+            "Platformer",
+            "Puzzle",
+            "Other"
+        ],
+        "ratingContent": [
+            "Alcohol Reference"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SKERMUNKEL STUDIOS",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fcde414f6b2434b33c4df8e7f4be23e06db73b0189a8d74df1090b4bb6e9d478.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/08f5094aba5f7454185c14db370abce7ed0cfd6b1277ee690d576c59b58d7e1f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f69a960bebb3977697243cc13cba8ff9f5605cf95ffb2dcafc2e70339da8224.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40ad94403d0fa348dd91d2ed8516582098c7a2c7e23b194860d27f15f53b7f89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e24bc4f69411cfdc0c5c03c35768442a37c6a84044fe65284c1607e456cc80fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/314a9efb39ad8cd1b091c12a01d9f01dccd68644c8a4c464c22a2f1c65cc3d5d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e8054f66bac60049e5e17df9f1c0541bac18601f1620cc6442b053b38b7e8b9f.jpg",
+        "intro": "Be prepared for an Abstract Indie Adventure through the inner psyche.",
+        "description": "In 'n Verlore Verstand you will be transported to a reality of dreams and nightmares. What will you discover about yourself in this journey through the subconscious? \n\nIn these realms of the unknown, you must travel through labyrinths of memories to eventually find your way to your own truth. \n\nFeatures: \n\n- Abstract adventure. \n- Engaging dream-like environments. \n- Mysterious puzzles. \n- Platforming \n- Exploration",
+        "languages": [
+            "en"
+        ],
+        "size": 2320498688
+    },
+    "70010000014373": {
+        "id": "010073A00C4B2000",
+        "rightsId": null,
+        "name": "Tyd wag vir Niemand",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000014373,
+        "category": [
+            "Adventure",
+            "Platformer",
+            "Puzzle",
+            "Other"
+        ],
+        "ratingContent": [
+            "Mild Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SKERMUNKEL STUDIOS",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/923290c3a39a5eff75d93f1633095a780b2e5320c7afb0b2ef5d58f2294feba8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e9e71124faaec30b88d833aae1b2851e0bce8e0d79c683ca202bcd61e66045ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7ff833144ad9f777e25f59831a6f76da182d3eefa845cd5febf31559e0aa9c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/79284081bf97b5f4149f622ee2d6b0f4fd2a97f325a8666f562564e4130f1e0b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fb81bf145f8ed90f46e3ee1fd49bd1fa852b2d5ea8c456516806e4b889a9b30a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/417041809fc00c1de0d1fd457f3c7afc628efe5a8a3f134280b71b547c22fbfd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b70a605c291afbd7c719e7b5f840a9161703950da816953f1ee1cf0fe0c9c6b4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a338977d65d97233329742a6fd407846287be66c0d0f1544f5a5f241ea2cb205.jpg",
+        "intro": "A time-twisting, puzzle-platforming adventure through realms unknown and a world at stake.\n",
+        "description": "Manipulate time to your will at any moment to solve challenges, avoid deadly traps and make it to the end of this strange journey.\n\nTyd wag vir Niemand is an indie abstract adventure filled with mystical environments that will put your abilities to the test and engage you in a world of mystery and wonder.",
+        "languages": [
+            "en"
+        ],
+        "size": 1749024768
     },
     "70010000014440": {
         "id": "0100E0E00C518000",
@@ -3141,6 +3893,53 @@
         ],
         "size": 4628414464
     },
+    "70010000017189": {
+        "id": "01007E700D5B4000",
+        "rightsId": null,
+        "name": "Doodle Mafia: Crime City",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220310,
+        "nsuId": 70010000017189,
+        "category": [
+            "Simulation",
+            "Puzzle",
+            "Board Game"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "JoyBits",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2607e1b399264ac7f74cbabe34e84efd4d1e712e5edb417b54635c0a9c782df0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/66111fd4e41861f487508e42a64508b518fa29e3fd130d13a75f5950933f0ae8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/901eac4f6d2c875ac2883f5d2c9c5fe23cfb06ba69bd2f991d6c29ff51dd1e66.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fe4fd483b65a22faef7b721cfe0c3236f90c25e89515872372ce01eae50020c1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b21de1d33b82696110f0384f93fb9942f7b1279b883ee8bdbf363ec1f882eea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/103af68243c9856db1956098f5a413a8145d0f6e3b6e93a37a6f3f27f0c2828a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a33a297c35ca0c090d7bb780a6aeb4bb664edf2dbf43524dec01f931e6a843f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/acee4740ccc7c7fc7e05f16c64a0031dd5bac3c160e2dd9924b3b5adb1b2a7d5.jpg",
+        "intro": "Crime Does Pay!\nPlay as a Gangster or Cop. \nOver 500 Puzzles to Solve & Items to Create",
+        "description": "WATCH YOUR CRIME CITY COME ALIVE AS YOU PLAY!\n\nOver 500 puzzles to solve and items to create as you play the role of Crime Boss or Cop. You decide how you want to play as you play through multiple hard-nosed storylines & play modes.\nAs you build your Gang and make your fortune you must evade the Cops as well as fight off rival games in order to become the \u201cBig Boss\u201d of the City. In the \u201cCity\u201d mode watch your Crime City come alive as you successfully pull off heists, escape the Cops or beat-off rival gangs. But you gotta watch your back because behind every corner there is a good Cop trying to make a name for himself or a rival Gangster trying to take your turf!\nIn the \u201cCampaign\u201d mode, nab the bad guys or pull off heists to build your fortune. Can you successfully rob the bank and escape the Cops? Are you tough enough to defeat the rival boss and be the Crime Big Boss of the City? We shall see how good you are\u2026\n\nRemember Crime Does Pay!\n\nGAMEPLAY FEATURES:\n- The biggest \u201cDoodle\u201d game ever!\n- OVER 500 Puzzles to Solve & Items to Create.\n- Play as a Gangers or Cop.\n- Watch your Crime City come alive as you play.\n- Multiple Game Modes and Storylines to play through.\n- Earn money and weapons in the \u201cCrime Slots\u201d mini-game.\n- Available in 6 languages: English, German, French, Russian, Chinese & Portuguese.\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 304087040
+    },
     "70010000017596": {
         "id": "010045800C80C000",
         "rightsId": null,
@@ -3602,6 +4401,56 @@
             "ru"
         ],
         "size": 1301282816
+    },
+    "70010000018766": {
+        "id": "0100E2600DBAA000",
+        "rightsId": null,
+        "name": "Haven",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000018766,
+        "category": [
+            "RPG",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Partial Nudity",
+            "Sexual Themes",
+            "Use of Drugs"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 17,
+        "developer": null,
+        "publisher": "The Game Bakers",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d19e85bded18777844df9b117055c0dacd6cd6ffa6b2f3883993d3e3a5fefd82.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a91d855e76afb3d431820bffea923b227dbb0db53c3476011181be176a93ef3e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e470fc0a49d8712c2f9f169be9aa868e4d1afbc576bf80abed0138ebc696dc4e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58ad7b382fd26e6e56932cea47eaa91731b41bc762ef692c159305becb7b4b5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e47750cbb04f6de71deda1dcdef13d72305c2b68dc5b75cabbe2237569ea03b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/363882054a651c4f174f5f9d84b8c4d4a6cd9e6cee2fc8b84f88af534b296ee0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/642f0926153ef8efe19c503e70c62d30559dbd60b88c2b756250cae8ead59ab9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bad83f64326279a8c34b5403027c9eedb46f743111754251dddd478498d6829d.jpg",
+        "intro": "Two lovers gave up everything and escaped to a lost planet to be together. An RPG adventure about love, rebellion, and freedom.",
+        "description": "Yu and Kay have escaped to a forgotten planet, leaving everything they knew behind. Play the two lovers as they settle into an unknown world. \n\nGlide over the fragmented planet looking for parts and material to fix your ship and make it a cosy home. Enjoy moments of everyday life as a relatable couple while cooking meals, crafting and collecting precious resources to make it to the next day.\nFight against those trying to tear you apart by synchronizing actions in combat, finding the perfect timing and rhythm, while controlling both characters and battling to keep them and their relationship alive. \n\nKey features:\n\u2022 Play two characters at the same time while exploring a fragmented planet, fending off enemies or building your relationship\n\u2022 Make the choice about what's worth sacrificing to stay together, and if you're willing to give up everything else for love\n\u2022 Glide over the grass, gather flow and clean the rust as you explore this dreamy planet and uncover secret areas\n\u2022 Choose which Yu and Kay you want to play as: a woman and a man, two women or two men\nFight as the two characters in real time and relying on tactical sense and timing\n\u2022 Immerse yourself in a romantic space adventure, the saga of two lovers trying to stay together against all odds\n\u2022 Play a relatable couple in an intimate relationship, treated with maturity and humor\nImmediate to play, accessible, a pause in a busy day, a game that will make you smile\n\u2022 A solo game that you can also play with a friend or romantic partner: a second player can join or drop out anytime in local co-op to share the adventure\n\u2022 The original soundtrack by renowned electro musician DANGER heightens the game\u2019s emotional experience.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 6595543040
     },
     "70010000018789": {
         "id": "0100B6D00DA6E000",
@@ -6146,6 +6995,49 @@
         ],
         "size": 10115612672
     },
+    "70010000025542": {
+        "id": "0100EDB01005C000",
+        "rightsId": null,
+        "name": "Galaxy Warfighter",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220310,
+        "nsuId": 70010000025542,
+        "category": [
+            "Shooter",
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "JoyBits",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c5f461b32e88ba5b0a766f34cb06d724108a6b77ce3b002ef6e8b9685885f215.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a68acf84f02aad8cc374cd3bd5f4d1b6998874f8a8adfd2ffae521683f0788d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/39d99feb15be3b9813f48bb77b078ed50c977f79f9b486165e5ef64109063472.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/66d4cc1444978e68ba9866704df4081732e1f2865f8bf0a6651e388e71f949f8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5eafcec94d028f4a544ee5ea2c3314f17e9f0c25960b57943296bb7ff9080168.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c76484a014edccd66ec6464e4295513445f7ce609127efaa06ebbbe739dba731.jpg",
+        "intro": "Prove that you are the best pilot in the galaxy!",
+        "description": "Taking its roots from the classic games in the shoot'em up genre, \u00abGalaxy Warfighter\u00bb conveys the old ideas in a new way. Piloting your fighter ship, you have to fight hordes of enemies with unpredictable strategies and attack schemes.\n\nWell, and if you think that the usual enemies are too easy, \u00abGalaxy Warfighter\u00bb will put you face to face with the ruthless bosses. You should not underestimate them. The game will continue to increase in difficulty.\n\n- Well thought-out attack schemes of the enemy;\n- Unique bosses;\n- System of the ship upgrades;\n- Incredible backgrounds;\n- HD Graphics in a retro style!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 191889408
+    },
     "70010000025984": {
         "id": "0100DF9010206000",
         "rightsId": null,
@@ -7207,6 +8099,46 @@
             "zh"
         ],
         "size": 1277165568
+    },
+    "70010000028231": {
+        "id": "0100D7E011272000",
+        "rightsId": null,
+        "name": "Carnage: Battle Arena",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000028231,
+        "category": [
+            "Simulation",
+            "Racing",
+            "Action",
+            "Sports"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "BoomBit Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bfa4dd664f12eeda418fb7abc4827af24a96bc24ad2dd3cee00657a4141357b4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5772e5ca4dc27e2e04f33ca8a95ac1c8df82ff2c984047ce2360bd190842cf13.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e60681c1e68843831906c842b2a3b800a36ac8508dcfc10afe6cd408de06757.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/68f8a4d2a5dd36fb43f6930fed60267d7db9d084c8c3582fa31be73f4d436462.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9aa37a37da57c7bd7d253c1904d47462876cd134571bca37265e2161b45d9a6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a4b231d8fbb3b4851d6e77556fbb549bb98eb88621c7dd3d8e95d71e683b67a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1725298a3ff9708d6489882f36d17d2f7e47d61c214349d487b39919597f7794.jpg",
+        "intro": "Carnage is an epic car combat game with tons of cars, destructible environment, dozens of glorious maps, realistic physics and a unique, blocky art style.",
+        "description": "Strap yourself in and enter the arena! Carnage is a high-octane car combat game with a multitude of game modes. Choose the way you want to create chaos!\n\nFEATURES:\n\u25b6 82 AWESOME CARS: Sports cars, muscle cars, SUVs, trucks, and more!\n\u25b6 MULTIPLE GAME MODES: Battle Arena, Racing, Survival and more!\n\u25b6 EXTENSIVE DESTRUCTION MODEL: Cause havoc in the environments\n\u25b6 UNIQUE VISUAL STYLE: Blocky, retro-styled graphics\n\u25b6 DOZENS OF MAPS: Drive in a park, on a football field, even in the clouds\n\u25b6 GAME-CHANGING POWER-UPS: Use them to turn the tide of battle\n\nGet Carnage now and discover a new kind of racing game! Driving fast and getting to the finish line is only one of the multiple challenges that await you. Wreak havoc on the streets thanks to the extensive destruction model that lets you not only damage vehicles, but also cause visible changes in the environment. After a long battle, the location will look nothing like it used to at the start!\n\nThe game features a multitude of different modes. In Death Match you will fight against other vehicles, gaining points when destroying them. Racing pits you against 5 opponents in a speed contest, Survival is a battle-royale-like combat match to the last man standing, Score battle makes you find collectible for points and Freedrive allows you to explore the game\u2019s maps at your own pace.\n\nYou can also complete Challenges that guide you through the game and help you discover all it has to offer.\n\nWhichever mode you choose, get ready for loads of adrenaline-pumping action! Start Carnage now!",
+        "languages": [
+            "en"
+        ],
+        "size": 795869184
     },
     "70010000028266": {
         "id": "0100C5D01128E000",
@@ -8984,6 +9916,52 @@
         ],
         "size": 354418688
     },
+    "70010000032601": {
+        "id": "01008BC012850000",
+        "rightsId": null,
+        "name": "Ghostanoid",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220310,
+        "nsuId": 70010000032601,
+        "category": [
+            "Arcade",
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence",
+            "Mild Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "JoyBits",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b86cb5777f9a95a5e065733f8671638553970ab8f23594ac372703593d292e43.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/926485bb7d97cffdd6ddc761b05320c04e261f65265f5c7df86d2a8155dc8e64.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38e486572bbb8a13d8d569bcd521dc15ae4e9105bddf8e8a77f3c6aeee7c0c1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf7aaa88ba355065d908cb6d92086a1e569689eb7a5f6a012bbb80a16037f575.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f628fa88d46418c9fc628ef6b5545ae01424fb95fbd2b262ecec15fdf430ed0b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2c6dce99ecc4f2256efbb4d8c25c6a5ac1ac7652588d350441b5dd3f1191567.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a9c1a39df227ee7070df796cda4f6e12c044ccba469ce263b4456df2866f56e0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3f690e856a7807e6a9e3d3f770bfde7ce4ebd4417d08f2c09629f895beed167c.jpg",
+        "intro": "The craziest arkanoid. Everyone has a normal job, and we have houses with ghosts. ",
+        "description": "Company dealing with cleaning of abandoned houses urgently seeks a ghost buster. We are very good at our job, but this time we are faced with tiny, evil and quick-witted ghosts. Somebody has to be able to handle them. Who else could it be if not you? You can do it for sure. \nGhosts are very fond of their houses and they won\u2019t give up without a fight. They will throw things at you, trying to rebuild their home and interfering with your productive work in every possible way. And the shaman ghost \u2026 I\u2019d better not say anything about it, he is a pure demon. \nTo complete the task you will be given a new super-durable platform with advanced kinetic ball system of demolition. Accompanying documents are attached. And there is also \u2026 well, there is also a contract which must be fulfilled. Our specialist is already at the place and will fill you in on everything. \nBriefly speaking, you are looking at 3 diverse worlds, with unique houses and surrounding, 78 levels include 3 secret ones, and 13 different improvers and worseners that sometimes turn the platform into a weapon of destruction and other times into a clumsy snail. \nUse all of your strength, skill, attentiveness and speed of reaction to show the annoying ghosts who\u2019s in charge of the house. In our line of work the most important thing is not to miss anything and then you\u2019ll get the recognition, respect and glowing recommendations based on the results of finished jobs. \nGame features:\n- Cool HD graphics;\n- Abundance of special effects;\n- Surround unforgettable sound;\n- 3 perfectly designed worlds; \n- 75 levels + 3 secret ones;\n- Plenty of objects for total destruction;\n- Ghosts with cunning mind;\n- 13 types of bonuses;\n- Enjoyable experience guaranteed.\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 475004928
+    },
     "70010000032614": {
         "id": "01001D501287A000",
         "rightsId": null,
@@ -9296,6 +10274,54 @@
         ],
         "size": 251658240
     },
+    "70010000033249": {
+        "id": "01001B7012A3E000",
+        "rightsId": null,
+        "name": "Car Driving School Simulator",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000033249,
+        "category": [
+            "Simulation",
+            "Racing",
+            "Action",
+            "Sports"
+        ],
+        "ratingContent": [
+            "Mild Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "BoomBit Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/09ed5b9d1334626d9fdd85615ca91108a966c8edc0717c8d0b61a489ec896f22.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6240337bc39ee158e095657983c7293e3c017e673d8bfa20ffce5c9624506bea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/880b1833a232e2de78d0156d09c0cbcd6751388878901ad6a4f08bd77721dc44.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/68fdc664c18d59e7a0fb9513850cbf072ceac370ae2793c542a7e2cf638c90df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f02fa4924fb92b1b9ad9b7a5a980be5c8fc015be5c58b696215c236de7397a01.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c199cff158927eb27adf68e9ea2a672eb7dc6bdcf35033a67d9e08806b788544.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d5e2e3e47907f40abec8123af36e489f2962e959959199309d5053408f5ae96.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6264fcf69147a2e4cc7ed91aa26a9fe209d6a261b5f1c0950e7420a228f59831.jpg",
+        "intro": null,
+        "description": "Car Driving School Simulator is one of the most realistic car games available! In this feature-packed game you will test your skills driving awesome cars and learn useful traffic rules along the way!\n\nGAME FEATURES: \n\u25b6 HUGE CAR COLLECTION: Feel truly free driving 30 Awesome Cars \n\u25b6 REALISTIC TRAFFIC: Deal with Real Traffic AI \n\u25b6 DYNAMIC WEATHER: Adapt to the changes on the road \n\u25b6 FREE DRIVE: explore the game\u2019s world at your own pace \n\u25b6 FIRST PERSON MODE: optional camera view to increase your immersion!  \n\nThe game features eight highly detailed environments that let you try out everything you\u2019ve learned in the course of play. Drive around California, Canada, Aspen, Las Vegas, New York, Miami, Tokyo and Norway. There are multiple missions to approach in a variety of cars.  \n\n30 UNIQUE CARS IN 3 CATEGORIES \nThe game features a really wide selection of cars. You will have to show your driving skills in multiple sedans, pickup trucks, a muscle car, some 4x4s, buses and \u2013 to top it off \u2013 a powerful supercar.  \n\nREALISTIC TRAFFIC \nDriving around the city is a challenge on its own, especially when you have to abide by the rules. But it\u2019s not all you will have to think about! The areas you will be cruising around are populated by realistic traffic and pedestrians. Be careful not to crash!  \n\nFREE ROAMING MODE \nWhen you\u2019re done with all the missions or just looking for a change of pace, you can try something different in Free Roaming mode, where you can drive around all the maps without any limitations!",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "pt",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 2163212288
+    },
     "70010000033286": {
         "id": "01001F0012868000",
         "rightsId": null,
@@ -9582,6 +10608,58 @@
             "en"
         ],
         "size": 441450496
+    },
+    "70010000033796": {
+        "id": "0100996012D7A000",
+        "rightsId": null,
+        "name": "Doodle Devil: 3volution",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220310,
+        "nsuId": 70010000033796,
+        "category": [
+            "Puzzle",
+            "Simulation",
+            "Board Game",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood",
+            "Partial Nudity",
+            "Sexual Themes",
+            "Simulated Gambling"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "JoyBits",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ee88aad8155efc44583e4d208ef88ec0e2102d147308ecff06cd6b3f44577314.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/494fce6103fafec66e823a25fa920732f1e938502cb4c5daea2dbf88a2ac8aa9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b6d2299bccfadaa9baa072e9b177a04aff31650a1082c73f5271c64cd36a20e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be26a724173e49c6b5a6048e728e7bc253e4390fc46f37de1d6574c7b8213fee.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8bb0738d815d8260676061927520d58fb13c9d1d948c0b05f06c00520a2cfe54.jpg",
+        "intro": "The Power of Destruction is in Your Hands!\nEmbrace Your Dark Side with Doodle Devil!",
+        "description": "While Doodle God was busy creating the universe, Doodle Devil was also having some fun. The same addictive, puzzle game play that made Doodle God a hit is back but with an evil twist. \n\nDiscover the seven deadly sins and watch as the world crumbles at your fingertips as you create thousands of dastardly deeds. Combine fire, earth, wind & air to create demons, beasts, zombies... and much more. Being bad has never been so much fun!\n\n* Mold the combinations of fire, earth, wind and air.\n* Demon Mode! Fight against the most dangerous archdemons.\n* Devil Slots! Test you\u043a sinful luck.\n* Hundreds of interesting, funny and thought-provoking quotes and sayings. \n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 369098752
     },
     "70010000033802": {
         "id": "01000B7012D7E000",
@@ -13323,6 +14401,49 @@
         ],
         "size": 3939500032
     },
+    "70010000038312": {
+        "id": "01009430142F2000",
+        "rightsId": null,
+        "name": "Devastator",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220325,
+        "nsuId": 70010000038312,
+        "category": [
+            "Arcade",
+            "Action"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "2Awesome Studio",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7843b780ff44854a4994eba7aa7f0132cccf8e1db91167616724265387729c86.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ac886d9941d2e9007f87ff1f729864629a714995e58b79338e07ecf0c2d0011f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49eb68c7aa600588752e741c852dc4f104339167fbf83ed87ebdd2500fd9a525.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3302706336b86d1ace0f9dc5c62b4c60a4942d1a3e851bd68f4157a19f0919fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e371b6a9f9f486b8da25f2aa9a25d098acd86682dce760234350bfd5c7580a6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a8705fb0e528d7091a08a2881385fc7bc644b0240108d3381a7eda32589c8ce4.jpg",
+        "intro": null,
+        "description": "Devastator is a retro-inspired arcade twin-stick shooter designed for modern systems. Everything from the visuals, audio, and gameplay was designed, tweaked and polished to create the most intense and satisfying twin-stick shooter experience possible.\n\nSYSTEM initializing...\nMultiple virus infections detected...\nLaunching DEVASTATOR program...\n\nYou are the Devastator! Your objective is to eradicate 15 types of viruses in 3 unique modes: Quadrants, Sectors, and Cycles. In Quadrants, the wave layout is constantly changing as you battle increasingly intense waves of random viruses for 5 minutes. In Sectors, there are 55 unique waves of viruses across 5 sectors. And, in Cycles, you'll battle semi-randomized spawning viruses across 5 variations of 11 waves. Complete your objective as the Devastator and take back control of the System!\n\nIn addition to the main game modes, wave layouts, and various enemy virus types, Devastator's moment-to-moment gameplay contains surprising depth and subtlety, resulting in a vast gameplay variety. From the way you balance speed vs. firepower, to the utilization of resources, to knowing when to pick up powerups, Devastator rewards both fast reflexes and good strategy.\n\nTurbo-firing at the start (move fast without firing to build), and a charged blast at the end.\n\nDevastator also features vector-inspired visuals mixed with HDR colors, five customizable full-screen filters and mesmerizing particle effects, all while running at insanely high framerates on high-resolution monitors. With modern graphics hardware, the game runs with ease on current high-end gaming monitors (such as 360hz at 1080p, 240hz at 1440p, or 120hz at 4k), with the possibility to run at even higher resolutions in the future.\n\nDevastator was designed and developed by Luke Schneider (aka the Radiangames guy). Luke has been a huge twin-stick shooter fan since the 1980s, and has been developing twin-stick shooters since 2005. With Devastator, Luke decided it was time to make his ultimate and final 2D arcade-style twin-stick shooter.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh"
+        ],
+        "size": 205520896
+    },
     "70010000038329": {
         "id": "010046D01431C000",
         "rightsId": null,
@@ -16000,6 +17121,59 @@
         ],
         "size": 141557760
     },
+    "70010000041809": {
+        "id": "01000BF0152FA000",
+        "rightsId": null,
+        "name": "Zombie Army 4: Dead War",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220426,
+        "nsuId": 70010000041809,
+        "category": [
+            "Action",
+            "Shooter",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Language",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "RebellionInteract",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/34a01fc3a99d8f0a629dcdffa0b24da2ff45a76c8303ec24012aea7638571457.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c2afdb68680e3d0ab3f9dda7e1877ebbec4bfa2849c74ff6e5378c1937083e6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60fb069e2ab3d92dfe946102578632ad8fad113c6a11bd37077e29fa2ff3b488.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a2f7f91b91f4004c18053c517cf91f5cf6f4ae8da57b447034af8397eb73115d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05008cb64e25d6b4f5aa738aee202e821026cade149d93e0ac7760de584fcd21.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1026ca344846a1aeef8d75c0f62e2342a9c8234fbbeb3dde051b61347f2e3d03.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eeb5a06b8da3e6440e61a3be00ba422b638472de7d5503a78bf22a921d1659cd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e7c02638bd0c61f59fdd1882637d1d5a043fe746039670268139f73b21377675.jpg",
+        "intro": null,
+        "description": "Includes all Season Pass One content FREE:\n3 Additional Levels, 4 Character Packs, 9 Weapon Bundles, 5 Weapon Skin Packs, 4 Character Outfit Bundles\n\nHitler\u2019s hordes are back for more in this spine-chilling shooter from the makers of Sniper Elite 4! Abominable occult enemies, epic weapons and a harrowing new campaign for 1-4 players await in 1940s Europe, as you fight to save humankind from undead Armageddon!\n\nThe resistance have defeated Zombie Hitler and cast him into Hell \u2013 but the dead rise once again with greater hunger than before!\nContinue the alternate history of Zombie Army Trilogy in huge new levels, and uncover a sinister plan that takes the Survivor Brigade across Italy and beyond!\nFight the forces of darkness in corpse-riddled canals, survive a Zombie Zoo, and journey to dark, inexplicable places no person has been before\u2026and lived to tell the tale!\n\nAward-Winning Gunplay\nExperience the genre-defining ballistics Rebellion made famous in the Sniper Elite series, and put it to good use against the shambling hordes of the damned!\nUpgraded Kill Cams and Dismemberment\nThe X-Ray Kill Camera returns! Watch in gory-ous slow motion as bullets, bombs and more destroy bones and organs in X-ray. Marvel as your bullets tear off a rotten limb or two, and shiver as the dead KEEP COMING!\n\nDeep Progression and Customisation\nBuild the slayer that suits you as you rank up! Fancy yourself a guardian angel? Take damage for your teammates! Like that turret so much? Why not take it with you? Then kill in style as you unlock new outfits, emotes and taunts!\n\nKiller Melee\nWhen the dead surround you, fight back with enhanced melee combat! Barge through crowds, stomp on heads and dispatch the living dead with fearsome takedown moves!\n\nEpic Weaponry\nHarness the power of fire, lightning, and divine essence to upgrade your guns at workbenches, and create homespun hell raisers! An assault rifle that shoots lightning? A pistol with a flaming Bayonet? Anything goes in humankind\u2019s last stand!\n\nMonstrous Multitudes\nTake on legions of ghoulish grabbers, hulking armoured elites, terrifying shadow demons, explosive suicide generals and a host of other surprises! When you\u2019re staring down the fleshy barrel of a ZOMBIE TANK, you\u2019ll wish you\u2019d stayed behind the sofa!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 6488588288
+    },
     "70010000041835": {
         "id": "01005E201530E000",
         "rightsId": null,
@@ -16087,6 +17261,43 @@
             "en"
         ],
         "size": 67108864
+    },
+    "70010000041874": {
+        "id": "0100E9601494C000",
+        "rightsId": null,
+        "name": "Sea Battle Minimal",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220318,
+        "nsuId": 70010000041874,
+        "category": [
+            "Board Game",
+            "Strategy",
+            "Puzzle",
+            "Training"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Hook Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/02e23e25f1202b18bc78534a2a33e6fe7ccba65d1cdec73163279ad84fe88ca9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a1bac0b631db2c211ab26ab286afffb94ac99ac12c833748f2423fb2c7f25a24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/21090ebb423c0a53d903000e1ae3483e6e0dc0ec443ab55409a60999cc05fd6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2d8b06b9ba0692a94d5e151b1350f0d621de10f2133db6733fa398993cd67746.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dd32ee0115a347bde539bf505b9bd8ff84b8db4d21ce03ba7e1add80b935dad7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7d7b1999606c4669a681093b8261c46f997d7ae28b01c7d26dcca6d051f6e7ea.jpg",
+        "intro": "Classic strategy game - conquer leaderboard, challenge your friends and AI!",
+        "description": "Sea Battle Minimal contains all essential parts of good sea battle game:\n- Online multiplayer\n- Global leaderboards, Elo rating system\n- Private online games with your friend\n- Local multiplayer on a single device\n- Game vs AI\n- Touch support\n- Beautiful minimal design",
+        "languages": [
+            "en"
+        ],
+        "size": 72351744
     },
     "70010000041946": {
         "id": "010082A01538E000",
@@ -16647,7 +17858,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f786a0447b1d5244e2d7b307766d5b0314b47ed51749c56c55a827fb3d951b76.jpg",
         "intro": "Over 1,000,000 copies sold worldwide. The innovative board game brand has come to the Nintendo Switch\u2122!",
-        "description": "Selling over 1,000,000 copies worldwide, the continually growing game maker, Oink Games, has brought their works to the Nintendo Switch\u2122! Enjoy playing these board games a new way, with friends or family, in any situation. Either online or offline, Let's Play!\n\n\u25cfDeep Sea Adventure\nWinner of the 1st Game Market Grand Prize! A group of adventurers got together on a submarine to try and gather the treasures that sleep at the bottom of the sea. Everyone's all geared up in their diver suits, but riding in a very old submarine means sharing the same oxygen tank. If one of them dives too deep, the other divers' lives will be on the line! Will the adventurers be able to make it back to the submarine safely?!\n\n\u25cfA fake artist goes to NY\nDrawing meets social deduction!  Everyone is drawing a picture together...but someone doesn't know what they are drawing. There is a fake artist hiding among the real artists - can you find out who it is? However, don't let the fake artist figure out what they are supposed to be drawing. Try not to be suspected as the fake artist, but also be careful not to make it too easy for the fake artist to figure out the drawing!\n\n\u25cfStartups\nSix companies will change the world! You are one of the investors who saw their potential.   Invest like crazy and make some money! Only one investor can earn a profit from each company. You must try to read the movements your rivals while using your capital and three cards if you hope to become the biggest shareholder!   Not only do you have to be lucky in this game, but you must also analyze your rivals while thinking about your own moves!\n\n\u25cfMoon Adventure\nYou are trapped on the moon due to a massive magnetic storm originating from the sun and all of your supplies from earth have been scattered across the surface. \nYou and your fellow astronauts are desperately trying to recover the scattered supplies, all while your oxygen levels are falling. \nMoon Adventure is a cooperative board game where everyone must work together to complete the mission. \nTrust in your wits and your friends to make it back alive!",
+        "description": "Selling over 1,000,000 copies worldwide, the continually growing game maker, Oink Games, has brought their works to Nintendo Switch! Play many popular board games in a variety of ways with your family, friends, or even solo!\n\n\u25cfPlay together!\nOnline or offline support for 2-8 players. Play with your friends online in real time! If you're a few players short, you can even play with random players or the CPU, too. In offline mode, up to 8 players can have fun with only one Switch console and one Joy-Con.\n\n\u25cfPlay solo!\nGet matched with random players online or play offline against the CPU. (Not all games support offline solo play)\n\nFilled with our most popular games that even newcomers can get excited about. From competitive games to drawing and cooperative games\u2026this compilation has it all!\n\n\u25cfDeep Sea Adventure\nWinner of the 1st Game Market Grand Prize! A group of adventurers got together on a submarine to try and gather the treasures that sleep at the bottom of the sea. Everyone's all geared up in their diver suits, but riding in a very old submarine means sharing the same oxygen tank. If one of them dives too deep, the other divers' lives will be on the line! Will the adventurers be able to make it back to the submarine safely?!\nAn easy to play board game that's a great place to start for beginners!\n/ 2-6 players, Solo play supported, CPU opponents available\n\n\u25cfA fake artist goes to NY\nDrawing meets social deduction!  Everyone is drawing a picture together...but someone doesn't know what they are drawing. There is a fake artist hiding among the real artists - can you find out who it is? However, don't let the fake artist figure out what they are supposed to be drawing. Try not to be suspected as the fake artist, but also be careful not to make it too easy for the fake artist to figure out the drawing!\nA popular drawing game that can get many people excited quick!\n/ 3-8 players, Solo play not supported, CPU opponents unavailable\n\n\u25cfStartups\nSix companies will change the world! You are one of the investors who saw their potential.    \n\nInvest like crazy and make some money! Only one investor can earn a profit from each company.     \n\nYou must try to read the movements of your rivals while utilizing your capital and three cards if you hope to become the biggest shareholder!       \n\nNot only do you have to be lucky in this card game, but you must also analyze your rivals while thinking about your own moves!\n/ 2-4 players, Solo play supported, CPU opponents available \u203bSingle system offline play not supported\n\n\u25cfMoon Adventure\nYou are trapped on the moon due to a massive magnetic storm originating from the sun and all of your supplies from earth have been scattered across the surface. \nYou and your fellow astronauts are desperately trying to recover the scattered supplies, all while your oxygen levels are falling. \nMoon Adventure is a cooperative board game where everyone must work together to complete the mission. \nTrust in your wits and your friends to make it back alive!\n/ 2-5 players, Solo play supported, CPU opponents unavailable\n\n\u25cfOther popular games are included!",
         "languages": [
             "ja",
             "en",
@@ -18074,6 +19285,44 @@
         ],
         "size": 3768582144
     },
+    "70010000044126": {
+        "id": "0100412015AAE000",
+        "rightsId": null,
+        "name": "Time Blazer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220310,
+        "nsuId": 70010000044126,
+        "category": [
+            "Arcade",
+            "Shooter",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Dynamic Voltage Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/da3efaca2aea82809c4520c3b5a3b0fbc4cef1ae55abdfee979cd9efbf90a981.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c9d70e24b18bc4b187938fc787ac1b3777641272948cdfcdab9bd5c275c78ff8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d8d6e6c507f2dc8b49b1e425276110dffc98637a159a7eeb71e241d3ef58696f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0187c1f5bbedd85e7093f6820b7ae2964f48f54a180ea05e8a1ee7fe3bdc3300.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed64411997fc5a5e797972dea96ff46ffbc3fb1b0e47b3de769751dd6730129c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5282301a74f35c067a6b3529d55c96b47bc8cee295a698198b0f0ea8c7162ad2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4fd110aeb127472c6e5a5af048ab3e5b06ab158de695ee0191b3ce17ad9a3fd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9ea6b4aa5418971a436993e6fe9dc30eeb57c3c219195ff7185cbb1108fa40ce.jpg",
+        "intro": "Clean up the galaxy in this time-twisted shooter.",
+        "description": "An unknown force in the galaxy is literally eating planets! As it travels through the galaxy, planets in its path begin to panic. A plan to nuke the anomaly goes into action - and it works, but at a cost. As it implodes, it scatters dangerous debris across the galaxy.\n\nThe Time Blazers are called in for cleanup duty. You'll blast your way through dozens of levels in pulse-pounding arcade action as you fight off a seemingly infinite onslaught of space debris. Use the time warp to slow down your enemies when you become overwhelmed. Upgrade your weapons early and often so that when there are 1,000 asteroids closing in on you - you're ready!",
+        "languages": [
+            "en"
+        ],
+        "size": 1166016512
+    },
     "70010000044146": {
         "id": "0100763015C2E000",
         "rightsId": null,
@@ -18428,7 +19677,7 @@
         "size": 190840832
     },
     "70010000044436": {
-        "id": null,
+        "id": "0100876015D74000",
         "rightsId": null,
         "name": "MLB\u00ae The Show\u2122 22",
         "version": null,
@@ -18443,22 +19692,29 @@
         ],
         "ratingContent": [
             "Users Interact",
-            "In-Game Purchases (Includes Random Items)"
+            "In-Game Purchases"
         ],
         "numberOfPlayers": 4,
         "rating": 6,
         "developer": null,
         "publisher": "MLBAM",
         "frontBoxArt": null,
-        "iconUrl": null,
-        "screenshots": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bc0720bd9bd35d2ad5c2593006c74e0f8e0db3871126abd0ba4650db7599f1a3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/04224b802cd1d589dbe43a17ec00c3e2b0eb8d4cd07f276cca7d6d2a558ddd3d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a0cd756138ff1e491bc4a952c7f73ebc08d05703c890ae9cd14da8cb15f45205.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/699d2c5f1dc91e4b59b77f59168c130425f83a26b7d280fdf4e49888778cdebd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7083ae6cb6e09b7d36527769df0f454e24843d18730a333f5e333b51de8ff1f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e3cbe75a0edab1d9c475eaa077d7010dd19ba5cda53e2736b9f07ae1716d733.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c88ff6df46d55b4b2f308cbecd0bde7a0cfcd36bd5feca83dfb7a9efa12ce2b6.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b840531e6ac440f533d3f4ab7e43efb53ddd2926c00e7aefbbcdad7c6f189717.jpg",
         "intro": " Every pitch. Every hit. Every win. Make your mark and Own the Show in MLB\u00ae The Show\u2122 22. ",
         "description": "Your pre-order grants you a Gold Choice Pack for use in MLB\u00ae The Show\u2122 22.\n\nThis edition of MLB\u00ae The Show\u2122 22 includes:\n - Full game for Nintendo Switch\u2122\n - 5K Stubs\u2122\n\n Every pitch. Every hit. Every win. Make your mark and Own the Show in MLB\u00ae The Show\u2122 22. \n\n- Create and use multiple Ballplayers, beyond your Road to the Show personalized Baseball RPG experience, and customize your Ballplayers how you want to aid in your progression.\n- Diamond Dynasty is back and better than ever! Play, collect, and build on your fantasy card collection and bring to life on the diamond.*  Try the new Mini Seasons mode, where each season brings new challenges as you face off against a new set of competition!\n- Face your friends with cross-platform play.** With cross progression, continue your progress and earn and use content on other console platforms.*** \n- Stepping up to the plate for the first time? Tailor your experience with gameplay styles and two new difficulty settings to help you get the hang of the basics.\n- New Intro Presentations provide the most immersive ballpark experience yet.  \n- Play March to October in your style, with updated mode tools to utilize custom uniforms, logos, and created stadiums.\n- Live out your dream Baseball matchups with new Legends joining the diamond.\n\nMLB The Show 22 requires download of at least 17GB. microSD required (sold separately). Storage requirements may change.",
         "languages": [
             "en"
         ],
-        "size": 0
+        "size": 6327107584
     },
     "70010000044479": {
         "id": "0100751015DC2000",
@@ -19275,7 +20531,7 @@
         "languages": [
             "en"
         ],
-        "size": 523239424
+        "size": 559939584
     },
     "70010000045102": {
         "id": "010085A014A6C000",
@@ -21302,7 +22558,7 @@
             "https://img-eshop.cdn.nintendo.net/i/8312043c705a3fece778e3302f3f0be1361def89681ebe4b8b021607caece738.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e14f66a0c47ee1bb1f7ddc0baf87bbd116af6229176d8c45e2215757614156e8.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a27a377588664ef1f536ab045ab93d6e77736d4934b7e1bd9d906056f5a709a.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9161c3651b7e0e46363efda647efdc7fe2fcb22ef1f129837d3f36198ac1801d.jpg",
         "intro": "Join Kirby in an unforgettable journey through a mysterious world in a 3D platforming adventure",
         "description": "Float off on an all-new adventure as the powerful puffball, Kirby. Explore in 3D stages as you discover a mysterious world with abandoned structures from a past civilization\u2014like a shopping mall?! Copy enemies\u2019 abilities like the new Drill and Ranger and use them to attack, explore your surroundings, and save the kidnapped Waddle Dees from the ferocious Beast Pack alongside the mysterious Elfilin. Hope you\u2019re hungry for an unforgettable adventure!\n\nGet a mouthful of real-world objects for all-new, powerful transformations\n\nFeeling hungry? Kirby can inhale real-world objects and transform using Mouthful Mode! Why get one drink from a vending machine when you can swallow the whole thing? Then, use your boxy body to shoot out cans at baddies. Consume a car to gain some wheels and slam through walls. Sit back and take it all in...literally.\n\nJoin up with a pointy partner, Bandana Waddle Dee, in co-op play\n\nPass a Joy-Con\u2122 controller to a buddy to play as the spear-wielding Bandana Waddle Dee and help each other explore and battle through this colorful world. While Kirby can float and inhale enemies, Bandana Waddle Dee can spin and stab with his sturdy spear. Find friendship in this forgotten world and save the Waddle Dees! \n\nFloat over obstacles and fight through enemies on your way to each stage\u2019s goal as you slash, poke, freeze, and hammer using Kirby\u2019s copy abilities. The tough puff is truly put to the test in dynamic boss battles that will keep you dancing about the arena. Choose from two difficulty modes for either a light, breezy adventure or a more challenging experience.\n\nEach themed stage you travel through will hide several friendly Waddle Dees in peril! Save them to grow the home base of your adventure, the once-deserted Waddle Dee Town. The Waddle Dees you rescue will unlock shops, leaderboards*, and the ability to evolve copy abilities to make them stronger. You\u2019ll also be able to enjoy some of the townsfolk\u2019s favorite games. Use compatible amiibo\u2122 accessories** or Present Codes at Waddle Dee-liveries for useful in-game items. Track down cute collectibles to give Kirby\u2019s house some extra charm either at the Gotcha Machine Alley or during your adventure.",
         "languages": [
@@ -24342,6 +25598,47 @@
         ],
         "size": 94371840
     },
+    "70010000047822": {
+        "id": "01008D0016AF4000",
+        "rightsId": null,
+        "name": "Neptunia X SENRAN KAGURA: Ninja Wars",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220419,
+        "nsuId": 70010000047822,
+        "category": [
+            "Action",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Language",
+            "Suggestive Themes",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Idea Factory",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f1558d4993dc0f08217847bdfdec6afaa8258c62d7920fa4248d2f1a80aa5b7c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/459e00dc7f5d6afa95d52afbdb973b5ce6aa10706872e13410b808c6ff8128e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a6ed5055d37085aaae24722fa7b2209f2ddadbaf009f9bf8efb7b131d2a13a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/722d7c590380d2ea050eeedab40a560fe3addb6de592971fb38cd813e885e7ed.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d00f86dbb313810bb1351cec50f76eac4a96734213a3e174d3f4c8168b94ef0e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3301e2dc50760ef3e6d6cee69c1c120283c85ccac3c6df5bae083b2b4bdf1465.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8c2e9e63612202323fd241415fab1ebaf80170a0b9720fdecce6eb82a2fd36b5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a0cec25542888f2a82459089de683f8f0d0560687f6f41a643ce77fa105f8fce.jpg",
+        "intro": "Neptunia and SENRAN KAGURA join forces in this action-packed RPG!",
+        "description": "Neptunia and SENRAN KAGURA join forces in this hack 'n slash RPG! Pair up 10 playable characters to slice through enemy hordes, channel the elements, and perform special character attacks. Then find your center with the Peaches & Cream Meditation minigame before taking on the post-game challenges of Yomi-Training!\n\nKey Features \nWhen 2 Become 1\nThe two warring nations from the Neptunia and SENRAN KAGURA series have now joined forces in one action-packed RPG! Choose from 10 possible characters, including two new characters: Yuuki and Goh, and pick two characters to set forth on your adventure. Swiftly switch between your two chosen characters in battle! \n\nThe Art of the Ninja\nEach character possess a unique set of skills, known as Ninja Art Skills. Chain your Ninja Art Skills to leave your enemies in the dust. Ninjas and shinobi are also equipped with projectiles that can inflict physical damage or temporary status ailments to slow down foes. \n\nStay Stylin\u2019 with Spirit Gems\nCollect Spirit Gems for helpful stat boosts! Legend says arranging them in certain combinations can add even bigger boosts... \n\nAre You a True Ninja Warrior?\nThe Peaches & Cream Meditation mini-game allows players to test their balance. Successfully filling the Peach Gauge gives extra stat boosts in battle! Plus, test your might with the post-game content, Yomi-Training! Expert ninjas and shinobi can play through 8 different trials, each set with difficult restrictions!\n\nStory\nGamninjustri \u2013 a place where all manner of ninjas gather.\n\nAs the struggle for control increased between the Daimyos of the nations, tensions rose between the two great nations, each of which was home to one of the major schools of martial arts.\n\nThe Compa Style which has mastered the Ninja Arts based on the Command Technique.\nThe Honeypa Style which has mastered the Ninja Arts rooted in the Action Technique.\n\nThe two camps were stuck in a ruthless competition of skill in order to achieve hegemony, but as they fought on, a mysterious army of mechanical ninjas made their assault.\n\nThe mechanical ninja army overran the smaller nations in an instant, and the Steeme Legion leader, Yoh Gamer, made an announcement to the world:\n\nThe Super NINJA War to decide the world's strongest school is about to begin!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 3428843520
+    },
     "70010000047831": {
         "id": "0100244016BAE000",
         "rightsId": null,
@@ -25784,6 +27081,48 @@
         ],
         "size": 1174405120
     },
+    "70010000048224": {
+        "id": "010024D016DC0000",
+        "rightsId": null,
+        "name": "Syndrome",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220311,
+        "nsuId": 70010000048224,
+        "category": [
+            "First-Person Shooter",
+            "Shooter",
+            "Action",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "RedDeerGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6869de3c285b7834c652f0c442a447c0e4f2534614e33fa9cdb2db772156144f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/03be4071479d631b4b001937b4656704aedf659a16cb6e53258ab45ab8d7fdb9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d7337d75b74fd3fb40d555914494a69aeef9408a5c2c9a330bb3bbbb39f3e0cb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27e238d1f1f4861c6f9a74f1e1e23081011b209e323c647c62aa407071b4772f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c95de4a50b7de44c2fb372a9682639a80b57b78ea2c3aa29a800519847532b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ba9c877119173e6767b1a1bca0b0551b296344f17d832068a17e7b27d15141f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/789558d545260a23b83b9544cac931f19fffdb29e8e3680030567fccff72ec2b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d52a5e5238c6a49bb29e53a207185886e2944840c4d39a16fe87c65e4e03afa8.jpg",
+        "intro": "Face dangers and your own nightmares as you explore doomed starship in \u201cSyndrome\u201d -  a sci-fi survival horror. And remember, no one can hear you scream in space. ",
+        "description": "YOU\u2019RE NOT ALONE\nYou wake up from cryosleep on \"Valkenburg\" - the most advanced science space station in the \u201cNovacore\u201d. The ship appears to be abandoned, but suddenly you hear a voice on the communicator that makes you aware of the situation. \n\nSomething from the abyss of space is kidnapping and killing the people on the ship. And it doesn't stop hunting. \n\nRUN. HIDE. FIGHT. SURVIVE. \nThe enemies are strong and they outnumber so you have no choice but to go out of sight. Unfortunately, sooner or later you will have to face them, then remember that there is not much ammunition on the science ship\u2026 \n\nStay in the shadows and survive! \n\nYOUR MIND IS ALSO YOUR ENEMY\nMeanwhile, strange things start happening to your mind. Will you trust the voice or are they against you too? Where did the \" thing\" on the ship come from? Will you be able to survive? \n\nExplore the dark corridors of a spacecraft and discover the mystery behind the disappearance of your crewmates. \n\nKey features:\n\n\u25cf Kill or be killed, surviving is a key: You\u2019ll find weapons on the ship, but the ammunition supply is limited. Count your bullets and stay in shadows. \n\n\u25cf Deadly adversaries: Enemies are dangerous, they\u2019re hunters so they\u2019ll follow any noises and investigate any disturbances so beware.  \n\n\u25cf Mental horror: Not just typical jumpscares - You\u2019re closed on a creepy, claustrophobic spaceship with countless horrors inside, both physical and psychological. \n\n\u25cf Intriguing plot: A seemingly simple mission turned into a bloody scenario -  it\u2019s up to you to find out what\u2019s really going on.\n\n\u25cf Deep lore to discover: Plenty of exploration awaits for you to do inside the ship, and many things to discover about the story. \n",
+        "languages": [
+            "en"
+        ],
+        "size": 5860491264
+    },
     "70010000048228": {
         "id": "01003A2016DC6000",
         "rightsId": null,
@@ -25865,7 +27204,7 @@
         "languages": [
             "en"
         ],
-        "size": 2398093312
+        "size": 3282042880
     },
     "70010000048336": {
         "id": "0100C5B016E30000",
@@ -27532,6 +28871,50 @@
         ],
         "size": 1217396736
     },
+    "70010000048956": {
+        "id": "010092201711E000",
+        "rightsId": null,
+        "name": "Arcade Archives DRAGON SPIRIT",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220303,
+        "nsuId": 70010000048956,
+        "category": [
+            "Shooter",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/28ebcf4ea6065debbfe086847dc1a9bef7fff9baa17cf843f32d1f1bd3951822.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/de5a02949f6ed11a6a93cb5a68532cca4288ded966a535eadaceb2b8e44713ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f0044e0e497d2a7eba590ecf8f1d0b47b9e7306c645798b9d44bd2ca306e58c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7eeecb7cd08147ed178b801b12206c320161599403b2b417b98394ca56539a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/90f66d806fa5e224124ac33fd11ab87148e10d9d751adf54215852fb180beb55.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/82fc87d8f9869a7d5fcad5ffa8e0fe3a25f582dfac2a5eabad3c78fef362a643.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7381587e20cf489e1637a8d5a7b686981d926bebc1ff53efdac498c1f61d501d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6f5111f1d84354638639fe8ed89944150d721683d114c24d9e087e7198a172f9.jpg",
+        "intro": "A battle between light and darkness! \nThe legendary rebirth of dragons, after countless ages.",
+        "description": "\"DRAGON SPIRIT\" is a shooting game released by NAMCO in 1987.\nControl \"Amul,\" a hero who's been transformed into the Blue Dragon, and save Princess \"Alicia\" of Midgard who was taken by the dark lord \"Zawell.\"\nBattle enemies on the ground and in the air, and use power-up items to progress through the areas.\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 53477376
+    },
     "70010000048961": {
         "id": "0100B69017120000",
         "rightsId": null,
@@ -27797,6 +29180,45 @@
             "en"
         ],
         "size": 344981504
+    },
+    "70010000049057": {
+        "id": "0100B2501719A000",
+        "rightsId": null,
+        "name": "Offroad Night Racing",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220304,
+        "nsuId": 70010000049057,
+        "category": [
+            "Simulation",
+            "Racing",
+            "Action",
+            "Sports"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Pixelmob",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3a6a442ee4b9767e50468f008ae508a57a4cd45cd59d73eff2ef8b6a6a62036f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f6af9ba1326bd4fcde90732c341c1dbe5130fe2fb6619d165847c951dc817c58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37d2e9af6637ee1f298efbcaea078442e517888ee9c22694101ca918dc8136df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20912734dfac988c61d41485e20e4700b3cbe39346c3f284893db6b616711308.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97b0f92d2ee6336e06b0488644925e05e177a9949f3f4ce49e902ae78159ff5f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fb1e4ef8e6b2c1cb117b56302c115d86dcd8a5cdcc5d1581866988ddd96af85b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c567c929ae63311389f68360d2c935faa32218fb438efc37e35088b57e1e1c4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/da36df2ec5e169257d25cca032189f571032b667171aeea2f1e0ad140d9f3214.jpg",
+        "intro": "Offroad driving game for the adventurous! Navigate a dark forest with a map & compass, complete exciting missions. Detailed graphics, awesome cars, lighting and effects!",
+        "description": "Begin your adventure in the wilds today! This new and exciting offroad driving game lets you prove yourself in the rough terrain, driving and completing multiple different tasks!\n\nFeatures:\n\u25b6 FANTASTIC NIGHT FOREST ENVIRONMENT - lose yourself in it\n\u25b6 MAP AND COMPASS NAVIGATION - find your own way around\n\u25b6 CROSS RIVERS AND DEEP MUD - fight challenging, rough terrain\n\u25b6 VARIED OFFROAD CARS SELECTION - pick you favourites!\n\u25b6 HIGH-FIDELITY GRAPHICS - special effects and lighting system\n\u25b6 OBJECTIVE-BASED GAMEPLAY - drive & complete missions\n\nThis original offroad game was designed with excitement and adventure in mind. Forget about simple, one-way tracks that limit your inventiveness and imagination. Here the way you achieve your goal is not important - as long as you do it quickly and efficiently.\n\nCheck your surroundings, use the tools available to you and start exploring! Find the next navigation point you have to reach or a specific place you have to investigate and try to reach it as fast as possible.",
+        "languages": [
+            "en"
+        ],
+        "size": 575668224
     },
     "70010000049066": {
         "id": "01009370171AA000",
@@ -28546,6 +29968,48 @@
             "ko"
         ],
         "size": 996147200
+    },
+    "70010000049489": {
+        "id": "01000AD0174B6000",
+        "rightsId": null,
+        "name": "Adios",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220317,
+        "nsuId": 70010000049489,
+        "category": [
+            "Adventure",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Strong Language",
+            "Use of Alcohol",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Mischief",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d8db25ab838be77da54a7886069ab20db2b294fd7c415e1e802da0484780fb57.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f28aa0858adee685f4f80171ae7f3ffa7e66c5f2fb282a68d5eb7b9d6d450f53.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8714b89d5a03f47123acd77fcefb3268a31a38e7456c41c0349f46ecf6bc1fd2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b85abbb612de63c8ad471773bff9ac8c8dff386a08c0812a24cd8110ed1b5b8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/78f954ce5d83c8fdde0cdce894e18db546e027ea071c9875a93ed49bd9c51a57.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bfd3ae4732189d67059c3048af251befcc8eb927fc0aa51d48c87a515d5cd67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4191e0aa49035e219b550497db942fcabff711474f29bcd5c0a8a048642584cf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aaf3b745a159074cf6b60b4c7e949d34ae780d49c62e1d06913574b7b1318ec0.jpg",
+        "intro": "A pig farmer decides he no longer wants to dispose of bodies for the mob. What follows is a discussion between him and his would-be killer.",
+        "description": "Adios is a cinematic first-person game about sticking to a complicated decision.\n\nYou're a pig farmer in Kansas. It's October. Cold, crisp mornings are the norm, and you have decided that you're no longer okay with letting the mob use your pigs to dispose of bodies. When your old friend - a hitman - arrives with his assistant to deliver another body, you finally screw up the courage to tell them that you're done.\n\nYour friend doesn't want you to stop. He knows that there's no such thing as quitting, so he'll try to convince you that you're making a mistake. You spend the day together, doing chores and exploring the nooks and crannies of an authentic environment in the American Midwest alongside the man who will be forced to kill you, if he can't convince you to stay.\n\nHow you respond will determine the rest of your life.\n\nAdios means goodbye.",
+        "languages": [
+            "en"
+        ],
+        "size": 911212544
     },
     "70010000049577": {
         "id": "0100D20015C06000",
@@ -30410,6 +31874,51 @@
         ],
         "size": 72351744
     },
+    "70010000050616": {
+        "id": "01008AA017970000",
+        "rightsId": null,
+        "name": "Ganryu 2 - Hakuma Kojiro",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220421,
+        "nsuId": 70010000050616,
+        "category": [
+            "Arcade",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "JUST FOR GAMES",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2bec5ee199fe91e1851df6210d1a17ff7aba7a285d38dc1aa15c7758a670fb45.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/75a137154396056503ab7f05e4de31d0220ab058197ad2454861cad2ce74c632.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7f200d3a85c23efa474dd57b366c7c6b71759c5392cae60e0c590c5423cbcc8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f25b79cc84bf997e856afe2f8cab606aa72b253f1a61e285dc10e67a73dca214.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a07f98f8adeb7138b96ff080736f6b45bde23271383318e16932a99d44c25cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5e63b78f6f639bfa0c7a5b67e265f7063a68d00f0bf067570c913107ff3fc6e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/67c77ad3c9c0ea11479f83ae351b203cb0aab9322a5e725e001677a9907171cd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9002fc65146f6a7bfec350a21d167c6e58a72e117f336ba5534f40cf5f9f4b38.jpg",
+        "intro": "Play as Miyamoto Musashi and travel through a 17th century fantasy Japan, from north to south to the island of Ganryu-jima!",
+        "description": "Ganryu 2 is the sequel to the Ganryu game made by VISCO on NEOGEO back in 1999. The universe takes place in a feudal fantasy Japan which is strongly inspired by the story of Takezo Musashi, whose adventures are unfolded in a series of books (mainly \"The Stone and the Sword\").\nPlay as Miyamoto Musashi and travel through a 17th century fantasy Japan, from north to south to the island of Ganryu-jima where everything started between Musashi and Kojiro.\n\nStory:\n\nAfter his victory against Kojiro, Musashi decided to meditate and try his hand at art, in the north of Japan, in the province of Hokkaido. During one of his meditations, a spirit contacted him : \"Miyamoto Musashi, our fight is not over, I am waiting for you to finish our fight once and for all! All of Japan will pay for your insult! I'm waiting for you Miyamoto Musashi!\u201d \nThere is no doubt for Musashi that the voice was the Sasaki Kojir\u014d\u2019s one. His body was defeated, but his spirit remains, and his intentions are still destructive. Miyamoto Musashi then understood that he would have to travel across Japan from north to south and go to the island of Ganry\u00fb-jima, where he firstly defeated Sasaki Kojir\u014d, to fight again and liberate the spirit of Kojiro forever.\n\nFeatures:\n- A hack'n'slash inspired by the story of Takezo Musashi \u201cThe Stone And The Sword\u201d released in 1930\u2019s by Eiji Yoshikawa and which is one of the most famous story and real samurai in Japan!\n-\u00a0Explore a 17th century fantasist Japan through seasons: Spring, Summer, Fall and Winter.\n-\u00a0\u00a0Defeat Kojiro in The Floating Fortress and save Japan! \n-\u00a0Dash, double-jump, wall-jump and throw kunais to defeat various enemies!\n- Use your special abilities, kamis, to take advantage of your enemies.\n- Collect Hanafuda cards through levels.\n- A beautiful pixel-art game inspired by classics such as Shinobi 3 and Shadow Dancer.\n",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 576716800
+    },
     "70010000050675": {
         "id": "01005FA01778E000",
         "rightsId": null,
@@ -30796,6 +32305,46 @@
         ],
         "size": 2859466752
     },
+    "70010000050894": {
+        "id": "01001D10168E6000",
+        "rightsId": null,
+        "name": "Dungeon Color",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220310,
+        "nsuId": 70010000050894,
+        "category": [
+            "Puzzle",
+            "Adventure",
+            "Strategy",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "QUByte Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/572c2eb48b13578782c621242487b0a64c8a187fb26112993ee52e9e9d8c9ae6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/53e82fd7bd0a55d2966adbaeb74729e1d4463a37c4ca26a0f2216c88ceccf761.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f503023db5e09f2b50cdfb1527c1aaeb2349d90817ea009f5d31bba560c9b43b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/741fbf021d4c958df762fd20073882548801b3d5ebc51116938d47696c4f8718.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c8f9c7fd1c3dea6ee56741565e2a7e26d263efd087806f77f28e303df7c05c3d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84f59c9a9a0921ddb7132cd7c26b2b2803c86f5f5f74454c2b80bcd9b24bfc9d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e1a97d308e9edfc411c9f7996f4b5d048b992f436f7f4f461d6d82bfc24c197.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/60a74f7446b783324df0ce7d72b4b7f5f2140831460db45f9832c0fbae4c6cd4.jpg",
+        "intro": "Interact with special obstacles and melt your brain to find the exit!  ",
+        "description": "Dungeon Color is a top-down puzzle game, where you switch between flames in order to achieve the rainbow flame in each room. Interact with colors and Switch between flames to match each door. Every door only opens when you are with its respective color.\n\nMany obstacles!\nEvery obstacle changes the way you look at the entire room, so be careful with where you touch and melt your brain finding new solutions.\n\nGet to the rainbow flame!\nYour little golem just wants to be filled with the energy from the biggest flame, so get the job done and find your way through each room.\n\nFeatures\n- 50 Levels;\n- 4 Switchable flames;\n- Many obstacles to complicate your exit;\n- Vibrant music;\n\nDeveloped by Gagonfe and published by QUByte Interactive with Game Nacional",
+        "languages": [
+            "en",
+            "pt"
+        ],
+        "size": 101711872
+    },
     "70010000050897": {
         "id": "0100C4A017A7E000",
         "rightsId": null,
@@ -30875,6 +32424,55 @@
             "zh"
         ],
         "size": 57671680
+    },
+    "70010000051000": {
+        "id": "0100D7A017ADA000",
+        "rightsId": null,
+        "name": "ABC Match with Me",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220304,
+        "nsuId": 70010000051000,
+        "category": [
+            "Puzzle",
+            "Education",
+            "Study",
+            "Music"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Prison Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d0fa2e91f71d12d083eb287e94906023ee40cc0d7d6c3e5fc8021c1c67d4b2ba.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e2c3c2c7663e6aff63a2b970f4f9cd6adccad9bcc69ef973bdb4e0063bb28792.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/376e0d0cc905e385658bddb218ea19764083a45cd51792bf76f7adc556caf3de.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f03e50151e60ce9e5561347d79ef030363e27671b3b23c8e958370c13b0c009.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6419d40fc17bfbbe46fe3998c86b6963ebca95a22c520bd662a03fcb0360db58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce1800ccdf9769811c1367682dc79733071b6f6a726227372dff09596587f2cb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69740451c108784680b533d1ee9325ea3078603df66fb33eccea028c1a84d4a9.jpg",
+        "intro": "A fun, intuitive and educational matching game for your child!",
+        "description": "A great introduction to puzzle games for your child that develops logical thinking, problem solving and many other skills from early childhood! Smart interface designed in a child-friendly style will allow your child to enjoy the game as soon as they start it!\n\nFeatures:\n\u2605 Learn the alphabet by matching letter shapes from A to Z!\n\u2605 Discover interesting facts about the animal world.\n\u2605 Nearly 100 levels divided into three difficulties.\n\u2605 Develop fine motor skills by dragging objects.\n\u2605 Listen and repeat to improve pronunciation.\n\u2605 Take your first steps in learning languages.\n\u2605 Fun animations to keep kids interested.\n\u2605 Connect the shapes with colorful crayons.\n\u2605 Enjoy a smart interface designed for children.\n\u2605 Interactive graphics and sounds to make playing fun.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 235929600
     },
     "70010000051102": {
         "id": "0100EBD015AD8000",
@@ -31995,6 +33593,34 @@
         "languages": null,
         "size": 3062890496,
         "parentId": "0100CC80140F8000"
+    },
+    "70030000015727": {
+        "id": null,
+        "rightsId": null,
+        "name": "Kirby\u2122 and the Forgotten Land Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000015727,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1472200704,
+        "parentId": "01004D300C5AE000"
     },
     "70050000000961": {
         "id": "010078D000F89002",
@@ -47780,7 +49406,7 @@
         "size": 0
     },
     "70050000032321": {
-        "id": null,
+        "id": "0100876015D75001",
         "rightsId": null,
         "name": "MLB\u00ae The Show\u2122 22 Digital Deluxe Bonus Content",
         "version": null,
@@ -47805,7 +49431,10 @@
         "intro": null,
         "description": "The Digital Deluxe Edition Bonus Content grants you 1 Diamond Choice pack, 1 Cover Athlete Diamond Choice pack, 5 Gold Choice packs, 20 The Show packs, 1 Ballplayer pack, Double daily login rewards, 1 Cover Athlete Themed Bat Skin, and 25K Stubs\u2122 for MLB\u00ae The Show\u2122 22. ",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "0100876015D75001"
+        ]
     },
     "70050000032322": {
         "id": null,
@@ -49078,7 +50707,7 @@
         ]
     },
     "70050000033207": {
-        "id": null,
+        "id": "0100EB500D92F01E",
         "rightsId": null,
         "name": "Original Pack 6 (10th Anniversary3)",
         "version": null,
@@ -49113,7 +50742,10 @@
         "intro": "10 original songs, including Grated songs composed by Massive new krew and Shohei Tsuchiya are now available! With navigators and avatars!",
         "description": "A DLC pack for GROOVE COASTER WAI WAI PARTY!!!! that includes 10 songs, navigators, and avatars!\n\nThis pack includes the following content.\n\n\u25a0Song Pack (10 songs)\n\u30fbPIXEL STAR / YMCK\n\u30fbKung Fu Master = Ken / COSIO\n\u30fbOwaranai Groove / Naoshi Mizuta (SQUARE ENIX)\n\u30fbTAKING OFF / SATO\uff08SANODG \u25b6\u25c0 KATO [noisycroak]\uff09\n\u30fbLethal Dose / sky_delta\n\u30fbWelcome to the Multiverse!  / kamome sano parallel trip orchestra\n\u30fbGrimoireD / Symholic feat.Rina Komatsu\n\u30fbHeadshot / Massive New Krew\n\u30fbSorae / Shohei Tsuchiya(ZUNTATA) feat. SATOMI\n\u30fb???(Secret)\n\n\u25a0Navigator\n\u30fbKung Fu Master KEN\n\u30fbHeadphone Crab *with special system voice\n\n\u25a0Avatar\n\u30fbKEN(2D)\n\u30fbCHIBI KEN\n\u30fbLINKA(Tiger, 2D)\n\u30fbYUME(Tiger, 2D)\n\u30fbSEINE(Tiger, 2D)\n\n*Some content will be unlocked via missions after downloading.",
         "languages": null,
-        "size": 46137344
+        "size": 46137344,
+        "ids": [
+            "0100EB500D92F01E"
+        ]
     },
     "70070000000221": {
         "id": null,
@@ -52071,7 +53703,7 @@
         "category": null,
         "ratingContent": [
             "Users Interact",
-            "In-Game Purchases (Includes Random Items)"
+            "In-Game Purchases"
         ],
         "numberOfPlayers": null,
         "rating": 6,
@@ -52079,12 +53711,19 @@
         "publisher": "MLBAM",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/04224b802cd1d589dbe43a17ec00c3e2b0eb8d4cd07f276cca7d6d2a558ddd3d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/699d2c5f1dc91e4b59b77f59168c130425f83a26b7d280fdf4e49888778cdebd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a0cd756138ff1e491bc4a952c7f73ebc08d05703c890ae9cd14da8cb15f45205.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7083ae6cb6e09b7d36527769df0f454e24843d18730a333f5e333b51de8ff1f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e3cbe75a0edab1d9c475eaa077d7010dd19ba5cda53e2736b9f07ae1716d733.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c88ff6df46d55b4b2f308cbecd0bde7a0cfcd36bd5feca83dfb7a9efa12ce2b6.jpg"
+        ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b4ef222ba5951e28ffd242dbec06ec7e3bafd16148183e7c3c5cd8ec360831c7.jpg",
         "intro": "Every pitch. Every hit. Every win. Make your mark and Own the Show in MLB\u00ae The Show\u2122 22.  ",
         "description": "Pre-order to get the Gold Choice pack.\n\nThe Digital Deluxe Edition includes:\n- Four Days Early Access.\n- One Diamond Choice pack.\n- One Cover Athlete Diamond Choice pack.\n- Five Gold Choice packs.\n- 20 The Show packs.\n- One Ballplayer pack.\n- Double daily login rewards.\n- Cover Athlete Themed Bat Skin.\n- 25K Stubs\u2122.\n\nEvery pitch. Every hit. Every win. Make your mark and Own the Show in MLB\u00ae The Show\u2122 22.  \n\n Diamond Dynasty is back and better than ever! Play, collect, and build on your fantasy card collection and bring to life on the diamond.*  Try the new Mini Seasons mode, where each season brings new challenges as you face off against a new set of competition!\n- Create and use multiple Ballplayers, beyond your Road to the Show personalized Baseball RPG experience, and customize your Ballplayers how you want to aid in your progression.\n- Face your friends with cross-platform play.** With cross progression, continue your progress and earn and use content on other console platforms.*** \n- Stepping up to the plate for the first time? Tailor your experience with gameplay styles and two new difficulty settings to help you get the hang of the basics.\n- Play March to October in your style, with updated mode tools to utilize custom uniforms, logos, and created stadiums.\n- New Intro Presentations provide the most immersive ballpark experience yet.\n- Live out your dream Baseball matchups with new Legends joining the diamond.",
         "languages": null,
-        "size": 3145728
+        "size": 6330253312
     },
     "70070000013575": {
         "id": null,
