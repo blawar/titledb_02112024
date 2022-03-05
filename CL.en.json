@@ -6577,10 +6577,12 @@
             "Adventure"
         ],
         "ratingContent": [
-            "Mild Fantasy Violence"
+            "Fantasy Violence",
+            "Language",
+            "Suggestive Themes"
         ],
         "numberOfPlayers": 1,
-        "rating": 6,
+        "rating": 10,
         "developer": null,
         "publisher": "indienova",
         "frontBoxArt": null,
@@ -9566,6 +9568,45 @@
             "zh"
         ],
         "size": 6570377216
+    },
+    "70010000032187": {
+        "id": "0100AC101212C000",
+        "rightsId": null,
+        "name": "City Driving Simulator",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220304,
+        "nsuId": 70010000032187,
+        "category": [
+            "Simulation",
+            "Racing",
+            "Action",
+            "Sports"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "BoomBit Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/17ad9a4aa8ee8ec7fcc71bb941e71fa1f3b4f6943b17e9d3e88ff78f8cbbf304.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4d28c4d301f8bfc3bd19c4017a50559a938ab93fc97e89ae68832f428e579eb0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/45253bddf4bd667780ebe5dbe0192daa229a238a8405b8b40bc8bba8dac043bd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/07ac497671bfc3982771c04348a9552205f5d3e944417ec3a1082a674c1acc5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d36afe701244de373ca9151d33f8ef25f6bf87a8f39ad5ee6710efa87825231.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/989bfde708066dc0cc43c3b1456fd632f4b519afc499fd20b979e6043a4e9dc7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/85487a1464d48ca4bb5b36120ebcd4fee3535e64f21305198b67dcc10e7b0473.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d37176a3201c6b4f27ffa7c45b7ca23fadeb3fda09cc5134c943570d7657d0c4.jpg",
+        "intro": "A new and exciting car driving game that lets you try out a plethora of different vehicles in a beautiful city! Drive a car, a bus, fill up your tank at a gas station and more!",
+        "description": "A new and exciting car driving game that lets you try out a plethora of different vehicles in a beautiful city! Drive a car, a bus, fill up your tank at a gas station and more!\n\nFEATURES:\n10 AWESOME VEHICLES: Cars, trucks & buses\nBEAUTIFUL CITY TO EXPLORE: Multiple varied districts\nBECOME A BUS DRIVER: Get passengers to their destinations, stick to the timetable!\nVARIED & FUN CHALLENGES: Complete them all!\n\nCity Driving Simulator transports you into a vivid, Spain-inspired city and lets you explore it from a bunch of different perspectives. Drive a muscle car and cruise through the streets, a pickup truck for a more challenging drive, switch to trucks for the ultimate driving proficiency test.\n\nTop it off with buses that require a completely different approach. Stick to the timetable, collect passengers at bus stops and deliver them to their destinations. Drive safely and responsibly to finish this task safely!\n\nIn addition to driving you will also have to visit gas stations to fill up your tank. Every task you approach has to be completed as quickly as possible. The faster you arrive at your destination, the better your rewards!\n\nThat doesn\u2019t mean you should drive recklessly though! Be careful not to crash!",
+        "languages": [
+            "en"
+        ],
+        "size": 695205888
     },
     "70010000032258": {
         "id": "010070B01260C000",
@@ -19404,7 +19445,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bbeb8d797445c67bf62861367abb7dfdd2c9331122835af92e59f636952a42ae.jpg",
         "intro": "Winemaking could be your best adventure. Make the best wine interacting with soil and nature and take your winery to the top. Your beautiful journey into the winemaking tradition starts now.",
-        "description": "In Hundred Days you will have complete control of a new Winery.  First choose which vines to grow, learn how to grow them and when to harvest.  Then following the entire winemaking process deciding on the type of wine you want to produce or the market requires. You will also have to sell the wine produced to allow your company to expand. \n\nAs in reality, every choice made, from the vineyard to the sales, will be able to influence the wine produced both in quantity and quality . A quality wine will increase the reputation of your company worldwide, it may have come at a higher price and will allow you to grow better and faster.\n\nSimulative and realistic approach suitable for both beginners and more experienced players\nThe ability to cultivate different types of vine\nAnalyze the soil and choose the grape variety that best suits those characteristics\nOrganize work in the vineyard such as pruning or chipping\nProtect your vines through specific treatments depending on the type of disease\nCheck the state of ripeness of the grapes and decide when to harvest\nFollow the winemaking processes and enhance the characteristics of your wine\nSelect the yeasts and bacteria used during fermentation\nDecide how and which of your wines age with aging\nCustomize your bottles by choosing their shape, color and other aesthetic characteristics\nCreate your sales network and adapt the characteristics of your product to the type of customer\nManage marketing and social activities to increase the reputation of your company",
+        "description": "In Hundred Days you will have complete control of a new Winery.  First choose which vines to grow, learn how to grow them and when to harvest.  Then following the entire winemaking process deciding on the type of wine you want to produce or the market requires. You will also have to sell the wine produced to allow your company to expand. \n\nAs in reality, every choice made, from the vineyard to the sales, will be able to influence the wine produced both in quantity and quality . A quality wine will increase the reputation of your company worldwide, it may have come at a higher price and will allow you to grow better and faster.\n\nSimulative and realistic approach suitable for both beginners and more experienced players\nThe ability to cultivate different types of vine\nAnalyze the soil and choose the grape variety that best suits those characteristics\nOrganize work in the vineyard such as pruning or chipping\nProtect your vines through specific treatments depending on the type of disease\nCheck the state of ripeness of the grapes and decide when to harvest\nFollow the winemaking processes and enhance the characteristics of your wine\nSelect the yeasts and bacteria used during fermentation\nDecide how and which of your wines age with aging\nCustomize your bottles by choosing their shape, color and other aesthetic characteristics\nCreate your sales network and adapt the characteristics of your product to the type of customer\nManage marketing and social activities to increase the reputation of your company\n\nThe game includes also Napa Valley region so you can explore a new american wine region. Use new and old techniques to cultivate new grape varieties and produce your wine.\n\nA new game scenario: Napa Valley\nNew grapes varieties including: Cabernet Sauvignon, Zinfandel, Pinot Noir and Riesling\nNew Challenges\nNew tools and structures\nNew aging options and flavours\nNew bottling customizations",
         "languages": [
             "ja",
             "en",
@@ -26410,6 +26451,53 @@
         ],
         "size": 197132288
     },
+    "70010000047977": {
+        "id": "01004AE016C4A000",
+        "rightsId": null,
+        "name": "TAITO Milestones",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220415,
+        "nsuId": 70010000047977,
+        "category": [
+            "Arcade",
+            "Action",
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "ININ Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/87e500038a95607193ed04f175c6e1c0aeea19d8e0229fc2440766f8a4133a0f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/01956f8725d0f2b867301b5892c53de39245f36cc986fb2168cb0510538debb9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7f3f427cd43aa86c541be29cb07a9bc9f5c8f5eecc53e7ecbdc2047e90571359.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74250b68c0223b87d84108bcb3d362083c4f8cfbec8280f985c9f2662733abee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f110bcf8e583329a7126d49ba982575c7e35050e838256ec292fb72d226fab34.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cc39f3a4b53e40e55c08b7fe37fd110df338c72e7bb7f5d3b1107d71ecd3d69d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb426e1845c0f68173e48fde525410e5f72cedcfc794d442114a0a1d458fc945.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f44171ef945224c556c0e0fc1a8fc328546f86a15d8795dd6609fbd8cda6b083.jpg",
+        "intro": "Replay the classics where it all began!\n",
+        "description": "Taito\u2019s arcade legacy began in the early 1970s, but it came into its own in the 80s. You now have the chance to play these milestone classics that paved the way for the decades of Taito\u2019s arcade dominance which followed. Ten games, each representing a specific breakthrough in development and gaming history, spanning a variety of genres. Platform, sports, shooting, puzzle and more. And now those 10 classics will be available for the first time as a collection on a modern console! Take a deep dive into gaming history and relive the classics that helped shape it. \n\n\u2022 10 groundbreaking classics from Taito\u2019s arcade vault\n\u2022 A variety of genres and gameplay styles\n\u2022 The origin of pixel graphics and art, with a timeless look\n\nGames included:\n\n\u2022 QIX, 1981, Puzzle. Draw lines as the \u201cMarker\u201d and capture areas by encircling them! Watch out for enemies while moving around!\n\u2022 SPACE SEEKER, 1981, Shooting. Check the map screen for steadily approaching enemies, intercept the air force strategically, and strike the mobile fortress!\n\u2022 ALPINE SKI, 1982, Sports. Enter the world of snow and take part in three competitions: Downhill ski, slalom and ski jump!\n\u2022 FRONT LINE, 1982, Run-and-Gun. Push forward to the enemy camp as a foot soldier! You can also drive tanks and armored vehicles!\n\u2022 WILD WESTERN, 1982, Shooting. Defeat the gangs attacking from all directions with your trusty rifle! You are the law!\n\u2022 Chack'n Pop, 1983, Platform. Hang in there, Chack\u2019n! Get back the hearts from the thieving monsters!\n\u2022 ELEVATOR ACTION, 1983, Action. Infiltrate a building as a spy on a solo mission, get all the secret documents and make your escape!\n\u2022 The FairyLand Story, 1985, Platformer. As the witch Ptolemy, defeat the monsters deep inside the castle!\n\u2022 HALLEY'S COMET, 1986, Shooting. Halley\u2019s comet is headed for the planets of our solar system! Destroy the computer at its centre!\n\u2022 THE NINJAWARRIORS, 1987, Action. Advance into enemy territory as an android ninja to crush the evil Banglar\u2019s ambitions!\n\n\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 603979776
+    },
     "70010000048027": {
         "id": "0100211016C4C000",
         "rightsId": null,
@@ -29721,6 +29809,46 @@
         ],
         "size": 428867584
     },
+    "70010000049334": {
+        "id": "0100312015C1A000",
+        "rightsId": null,
+        "name": "Secret Kiss is Sweet and Tender",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220311,
+        "nsuId": 70010000049334,
+        "category": [
+            "Adventure",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Sexual Themes"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "iMel",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6181a447c27849af86e2e11d5af5460801ea9b1df55feb230200beb5c55d9caf.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e54c7b57921e12bb61ec36c01fd499ee859a1f55b80d810df3298d9c29901521.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d82a96f510715238e86bbe47b221b9734f4e2bbecfb39a4135e8001b045b3500.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ffca6e0f2a1253c8df50a7d48b30480730927f4db258b90a1dea2a01cfbcf9c4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12265311d598d9388c32bbeb8e8739fc731c828a9ca973f32bf6be3191539c90.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af339bb64132f9b16dbf41a28e0138aa29e2b4b2aea533b1add23f0877102575.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09f75ff3fa999fd4445f710d65031d4fb209c8517d70cdeb63ff96099fe733fc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1198ae60b42feb04a842bb4a9debd52021895bcfb6e7441bf5bbd197537aa217.jpg",
+        "intro": "Look at me when you kiss me.",
+        "description": "This is an Adventure Game portraying love between young women.\nAt a girls-only high school, a student teacherissuddenly kissed by a student.\nThey then live In the same student dormitory.\nThis is the love story of two girls that starts with a kiss.\n\n\u2605Synopsis\n\n\u201cMs.Izuho\u2026What does it feel like to be in love?\u201d \nKonami Izuho was suddenly kissed during her teaching training internship by a student, Ema Serizawa, \nwhen they were alone in the classroom.\n\nKonami later found out that this student happened to be the popular illustrator \u201cEma\u201d, of whom she was a huge fan. \nOn top of that, Ema would soon ask her, \u201ccan you help me with my drawings?\u201d\n\nAlthough Konami thought she would get to look at the new works of her favorite illustrator, \nwhat Ema asked from her was quite different. Kissing, bathing together, \nand sleeping in the same bed were just some of Ema\u2019s requests that left Konami\u2019s heart pounding.\n\n\u201cHuh? Help\u2026means k-kissing or sleeping together?\u201d\n\nKonami\u2019s encounters with Ema confused her and made her go back and forth between feelings of admiration and love. Now, \nthe curtain will be raised on this Romantic Drama.",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 941621248
+    },
     "70010000049349": {
         "id": "0100A4E017372000",
         "rightsId": null,
@@ -29778,7 +29906,7 @@
             "Racing"
         ],
         "ratingContent": [
-            "Blood",
+            "Drug Reference",
             "Violence"
         ],
         "numberOfPlayers": 1,
@@ -32455,7 +32583,7 @@
             "https://img-eshop.cdn.nintendo.net/i/6419d40fc17bfbbe46fe3998c86b6963ebca95a22c520bd662a03fcb0360db58.jpg",
             "https://img-eshop.cdn.nintendo.net/i/ce1800ccdf9769811c1367682dc79733071b6f6a726227372dff09596587f2cb.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/69740451c108784680b533d1ee9325ea3078603df66fb33eccea028c1a84d4a9.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f0d9c1c825ceb0c61dc7471808358f54ba9868aaa73661ddd859d326da3b4a74.jpg",
         "intro": "A fun, intuitive and educational matching game for your child!",
         "description": "A great introduction to puzzle games for your child that develops logical thinking, problem solving and many other skills from early childhood! Smart interface designed in a child-friendly style will allow your child to enjoy the game as soon as they start it!\n\nFeatures:\n\u2605 Learn the alphabet by matching letter shapes from A to Z!\n\u2605 Discover interesting facts about the animal world.\n\u2605 Nearly 100 levels divided into three difficulties.\n\u2605 Develop fine motor skills by dragging objects.\n\u2605 Listen and repeat to improve pronunciation.\n\u2605 Take your first steps in learning languages.\n\u2605 Fun animations to keep kids interested.\n\u2605 Connect the shapes with colorful crayons.\n\u2605 Enjoy a smart interface designed for children.\n\u2605 Interactive graphics and sounds to make playing fun.",
         "languages": [
@@ -32667,6 +32795,42 @@
             "en"
         ],
         "size": 36700160
+    },
+    "70010000051565": {
+        "id": "0100839017D20000",
+        "rightsId": null,
+        "name": "Handball Pelota",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220305,
+        "nsuId": 70010000051565,
+        "category": [
+            "Sports"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/05bb817437401cf5cd373220cdce85577ed5bfd7ab150bf4c5a7c117690f4bf8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/97fa87e1706d39ed79d90f1b66efd01d97d6dd6bae1e7dc657f96c5395f6c748.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e0bf5b6517d6751ed482fb2c4932d765c0454a56e2d11845c32648e4761ebf2d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b4cb437c1a128f5cd5f014715952378b4657f03f5a20fe650fd3c062cec56f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/26aa4800b8e0c49204678bfc02a6c44981beaec569596bb0893dd489496dfe8d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d359a136e517147885772f6e89e098c9d819606008c3f19d3fde249bf1fce2c0.jpg",
+        "intro": null,
+        "description": "Discover the famous hand ball pelota game. If you know pelota, you'll enjoy a realistic still very playable simulation of this sport. If not, you'll very quickly get graps of this game where you hit ball with hand towards a fronton and try to keep it away for your opponent.\nFull 3D environment and animations in 4 venues and 6 different players, each with their own characteristics.\nYou can choose to play against the sophisticated device IA with 3 levels (easy, medium, tough) \nControls are very intuitive and game is easy to play but difficult to master!\n\nMain Features:\n\n-Device IA Game\n-Full 3D\n-4 Venues\n-6 Player Characters\n-Intuitive Controls\n-Realistic Sound Ambiance\n\nWait no more, go hit some balls!\n\nGame language : English, Spanish, French",
+        "languages": [
+            "en",
+            "es",
+            "fr"
+        ],
+        "size": 123731968
     },
     "70030000007383": {
         "id": null,
@@ -50660,7 +50824,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/49f43b976b5da6f47d12223f65b2994a27e0e69d82bda67a70feaa16226536c8.jpg",
         "intro": null,
-        "description": "Expand your vehicle collection with the Crocodile Pack to receive the seasoned Step 33-64 \u201cCrocodile\u201d truck and its 3 unique add-ons! \n\nWhatever the job, the versatile Step 33-64 \u201cCrocodile\u201d has seen it before. Hook up one of three custom trailers and get ready to deliver equal amounts of cargo and style.\n\nThe Crocodile Pack includes:\n\u2022 The Step 33-64 \u201cCrocodile\u201d truck\n\u2022 A Sideboard Trailer\n\u2022 A Maintenance Frame add-on\n\u2022 A Small Fuel Carrier add-on\n\nThe Crocodile Pack is not included in the Year 1 Pass or Year 2 Pass.",
+        "description": "Expand your vehicle collection with the Crocodile Pack to receive the seasoned Step 33-64 \u201cCrocodile\u201d truck and its 3 unique add-ons! \n\nWhatever the job, the versatile Step 33-64 \u201cCrocodile\u201d has seen it before. Hook up one of three custom trailers and get ready to deliver equal amounts of cargo and style.\n\nThe Crocodile Pack includes:\n\u2022 The Step 33-64 \u201cCrocodile\u201d truck\n\u2022 A Sideboard add-on\n\u2022 A Maintenance Frame add-on\n\u2022 A Small Fuel Carrier add-on\n\nThe Crocodile Pack is not included in the Year 1 Pass or Year 2 Pass.",
         "languages": null,
         "size": 3145728,
         "ids": [
