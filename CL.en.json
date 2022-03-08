@@ -11402,6 +11402,45 @@
         ],
         "size": 4673503232
     },
+    "70010000034512": {
+        "id": "0100085012A0E000",
+        "rightsId": null,
+        "name": "Squeakers",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220307,
+        "nsuId": 70010000034512,
+        "category": [
+            "Arcade",
+            "Adventure",
+            "Puzzle",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Marcin Skierski",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/56534a6fb72e54123747aba4ca4d3db1389fb78aa68a703163e7786836fb7e4e.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4bde5f328454c90d7b43a07a6d1b22a909e6eefc52d565431e0c2747944560e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db9d6ac6214f19f2379e62621440f8ec988cfe2719b7104ad912c51e02a7302d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5bf82e6e7cee88331e0b15704b78fce435ded3b42ad483972caab03726556ba2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60b377f31aa672385c805cf16edd51e53f1e7986c492abb1a9c9c4cce21e930c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f9848ab3523a7dc9657a4d90c11cdde4693b328760aefea64cf4d554a515ecc3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/186274188fee3dd8368eccd7fd93abf6839dffd26605752ca5a045641bbfc865.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6ecd89f041ab3cbbe17912f5741637e8586277d79f05f62f6f9412b9f1eaf505.jpg",
+        "intro": null,
+        "description": "Have you ever faced forthcoming death?\n\nOr have you ever imagine how it is to rush yourself just to get another minute of your life? Forge ahead, against all odds, not knowing what\u2019s waiting there for you and if you are strong enough to bear the suspense.\n\nThe end is getting closer. Will you manage to survive?\n\nStartling originality, firing imagination, engaging and amazing chain of events. The simplicity of this pixel-art game entails players to unite and cooperate in order to get higher and escape chasing them water. Gripping and full of humor. It will definitely won\u2019t let you sit and bore.\n\nWater is flooding the world. Build your own way to climb higher and higher. Maybe there is a chance of survival after all. Give yourself a try! Help those boars reach the highest level.\n\n***\n\nSqueakers is a multiplayer, cooperative game. It can provide fun up to four players. You can either decide to work altogether or choose to compete with each other. No matter the way, the goal is to build the tower as fast as you can to escape rising water. And oh! Don\u2019t forget your cement mixer! It gives you bricks essential for your construction.\n\nTo make the gameplay trickier, the higher you get the more diversified bricks will get. Some of them simplify your work, another ones can ruin your well-cared for masterpiece.\n\n- look after your building buddy. Try to rescue him whenever he felt into the water. You might need his help to create bigger tower\n\n- you can use either keyboard, Touch Screen, or controllers\n\n- collect achievements along the way\n\n- you can choose your character from six different types just to differentiate each other during playing\n\n- define your own method of building, experiment and get better and faster. The faster you get, the more points you receive",
+        "languages": [
+            "en"
+        ],
+        "size": 121634816
+    },
     "70010000034516": {
         "id": "0100018013124000",
         "rightsId": null,
@@ -12577,7 +12616,9 @@
             "Adventure",
             "Education"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Comic Mischief"
+        ],
         "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
@@ -14695,7 +14736,7 @@
         "developer": null,
         "publisher": "Thalamus Digital",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/669b5f410fe19f1b3d4c1ca64ebceb7a54e85d9ddf28c4ae1de8e9c5ddcf9409.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2d5a2663454a2b6287a5ff180c96251589c70bdbeec668091ec1e9dae9bb23b5.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/8c9b4bd9b9693a7bb22a00806dcb1a3b34a01de1c36575045087a2b1db911bb1.jpg",
             "https://img-eshop.cdn.nintendo.net/i/a2ac61c5ea270f8979d8a87a351a2018042c7de08b83192a716c93f332b58e35.jpg",
@@ -14710,7 +14751,7 @@
         "languages": [
             "en"
         ],
-        "size": 97517568
+        "size": 100663296
     },
     "70010000038609": {
         "id": "010091E01444E000",
@@ -17778,7 +17819,7 @@
             "zh",
             "zh"
         ],
-        "size": 170917888
+        "size": 171966464
     },
     "70010000042252": {
         "id": "0100E4A01548C000",
@@ -18433,6 +18474,44 @@
         ],
         "size": 7816085504
     },
+    "70010000042806": {
+        "id": "0100BD80153BC000",
+        "rightsId": null,
+        "name": "Squeakers II",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220307,
+        "nsuId": 70010000042806,
+        "category": [
+            "Adventure",
+            "Arcade",
+            "Puzzle",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Marcin Skierski",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8c271986471a0fd66d0001b16695341e0d7e5078900510820c62d607d63f8073.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/df5ffd6bee05a2d93cc0a9f240afb25894d3846775b8b219a9a67a6c4445798f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c21c995f8af584f6f2fe06394fc78c4a014aec12624810c774fd399e89fadf57.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a9f348547577d709e74637a887be90b412763542ce5546354c2dd60821850200.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ad8ca6b13b7b7be6baf741581333f99aee43d9a3a95d33f5e6db30faad68efb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee7c5b090d46492b9b092e05cf6bb0eec13ea101db7fc723690cac1e67240e3c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/35bd50e46275c9fb6c0492e77e83f952e760fe427e903ccd2ce293ea11aeb372.jpg",
+        "intro": null,
+        "description": "Have you ever faced forthcoming death?\n\nOr have you ever imagine how it is to rush yourself just to get another minute of your life? Forge ahead, against all odds, not knowing what\u2019s waiting there for you and if you are strong enough to bear the suspens.\n\nThe end is getting closer. Will you manage to survive?\n\nStartling originality, firing imagination, engaging and amazing chain of events. The simplicity of this pixel-art game entails players to unite and cooperate in order to get higher and escape chasing them water. Gripping and full of humor. It will definitely won\u2019t let you sit and bore.\n\nWater is flooding the world. Build your own way to climb higher and higher. Maybe there is a chance of survival after all. Give yourself a try! Help those boars reach the highest level.\n\n***\n\nSqueakers is a multiplayer, cooperative game. It can provide fun up to four players. You can either decide to work altogether or choose to compete with each other. No matter the way, the goal is to build the tower as fast as you can to escape rising water. And oh! Don\u2019t forget your cement mixer! It gives you bricks essential for your construction.\n\nTo make the gameplay trickier, the higher you get the more diversified bricks will get. Some of them simplify your work, another ones can ruin your well-cared for masterpiece.\n\n- look after your building buddy. Try to rescue him whenever he felt into the water. You might need his help to create bigger tower\n\n- collect achievements along the way\n\n- you can choose your character from six different types just to differentiate each other during playing\n\n- define your own method of building, experiment and get better and faster. The faster you get, the more points you receive",
+        "languages": [
+            "en"
+        ],
+        "size": 90177536
+    },
     "70010000042829": {
         "id": "0100DB00156B0000",
         "rightsId": null,
@@ -18838,8 +18917,8 @@
             "Action"
         ],
         "ratingContent": [
-            "Blood",
-            "Violence"
+            "Drug Reference",
+            "Mild Violence"
         ],
         "numberOfPlayers": 1,
         "rating": 13,
@@ -22206,6 +22285,44 @@
         ],
         "size": 59768832
     },
+    "70010000046273": {
+        "id": "0100F8C0165E0000",
+        "rightsId": null,
+        "name": "Pure Crosswords",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220329,
+        "nsuId": 70010000046273,
+        "category": [
+            "Puzzle",
+            "Education"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "the binary family",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8eda796605328cacb8db9710c0f48ba42ad92e69b87e45bb9b1093e6998cc6ad.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c6dc1f778e8d2d3a9530c48927bc6ad31b46d9cad628afbf3dded7793b826487.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a4decedd9b814e797ae54921a7852fe45270dc289183168578ab69f879da120.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3c53e8e02d281b625df7ab4b6ab71389f8ba2b69c6c05f41d1574b112c7079a5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1229f9c1f344a32b6ca7bc5fedd9c3c96f5a924bc04660783798873ac86889e0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ebf6c299b1e823f20326f8c7896c04a8bb97f2240faa857ed396042758ea6fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f10e0981ca75f333e746d3a78b2e0f25f8e7f945ccd74170e267263d7e3cca0e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f23a33f76843bd052aba8c79224989d25e5343435c3db947405f504c44172404.jpg",
+        "intro": "From the world leaders in mobile crosswords: Beautifully designed for TV, handheld & even portrait mode!",
+        "description": "Enjoy 2,250 puzzles across 3 difficulty levels, and written in classic British English. The clues are shown right in the puzzle grid, making crossword puzzles easy to view and play.\n \nFeatures:\n- Smooth zoomable puzzle grid\n- Intelligent word & letter navigation\n- Help features: Solve letter; Solve word; Mark errors\n- Supports English & German\n- 3-way style selector for clue & answer fields\n\n \nPlease Note: \nOur puzzles are created by British puzzle editors especially with players from Commonwealth countries in mind. Of course, North American players are welcome to join the fun!\n",
+        "languages": [
+            "en",
+            "de"
+        ],
+        "size": 76546048
+    },
     "70010000046281": {
         "id": "01007320165EC000",
         "rightsId": null,
@@ -24531,7 +24648,7 @@
             "Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 13,
+        "rating": 17,
         "developer": null,
         "publisher": "EpiXR",
         "frontBoxArt": null,
@@ -30043,7 +30160,7 @@
         "languages": [
             "en"
         ],
-        "size": 206569472
+        "size": 170917888
     },
     "70010000049358": {
         "id": "010064B0172A6000",
@@ -30294,6 +30411,49 @@
             "en"
         ],
         "size": 911212544
+    },
+    "70010000049495": {
+        "id": "0100CA30174EA000",
+        "rightsId": null,
+        "name": "Royal Frontier",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220318,
+        "nsuId": 70010000049495,
+        "category": [
+            "RPG",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ab27cbcf25ee6a19993925c4f2d1a790b7e4e30fef7939a812a04e446eb673e1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cf463f080f516369955a136b32793d6ba826058d9ced25d0d185ae88cf1d6dcc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/680c9b509176473b5feba1f3601389ba4a55e4158587b9071f1bcde0db609d72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b1932e8eeadd277561297d59c1fd3c70a78981bfaa91a4b4507a0ed9b6fbecb8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5c0e3428d07899fa8911dfbc60538d4d76866eac17c6b40a848e3c5d5c02d21f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ae3f0eded45fcc81b4ae9d5739ecd1aeeb3ec1df3c7a6b9490c11f1f76b48de8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c5ff1099a8d7411256c88a885053ecaebf543ad68d36317eec8151584d369ee4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bf7278754973dbe0623c8d72da64f23024d44e36ac8fd306a14655f7d108ac23.jpg",
+        "intro": "Protect the caravan, fight bandits, get gold, rewards, and experience to survive another day.",
+        "description": "The wagons are packed and an eager group of settlers are ready to head out.\n\nBut the journey is full of dangers. Treacherous terrain, savage bandits and ancient monsters have been the end of many settlers. So they turn to you to protect them.\n\nChoose your party, move across the map like a board game, and battle monsters.\n\nThe combat is a nuanced mix of turn-based and time-based approach, with attacks, specials and items make each encounter unique.\n\nFeatures:\n* Unlock characters and power ups for your next trip\n* Use the gold to buy weapons and equipment\n* Take decisions that can help or hurt your party\n* Turn-based and time-based combat\n* Choose your road wisely",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de"
+        ],
+        "size": 188743680
     },
     "70010000049577": {
         "id": "0100D20015C06000",
@@ -30676,7 +30836,7 @@
         "languages": [
             "en"
         ],
-        "size": 11572084736
+        "size": 11666456576
     },
     "70010000049689": {
         "id": "01006ED015BD4000",
@@ -32026,9 +32186,9 @@
             "https://img-eshop.cdn.nintendo.net/i/8f9b705ff891a8cc99d3455521d11d0d791e006293d44c9b8857f7b6f750a4eb.jpg",
             "https://img-eshop.cdn.nintendo.net/i/efb1713a621c26643e6eb88b26c24c69e38ebe8457713ce824e2d8955e52e2f5.jpg",
             "https://img-eshop.cdn.nintendo.net/i/3631182f4d3fe09dc5759f5b64effdf545e5bb3025494d44cd59ee198b271676.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/b7d0d1d2643593481a785168d597b13943da318384b022da01c1555812330335.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/4e0ea83f9ce50d93842f4bd14796bfe72e7a1c1f83d59c82b473a21557e30a11.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/883571f47b3f5caa0f75747d0b2ec869e6a1566ad9beae379ab098c1f3bde323.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/97e4d96893bf8fb6cec981439e0a509398875605e9709803174c16fd0a16ffed.jpg",
         "intro": "amazin' George 2 is a colourful, stunning 3D HD JRPG Style, turn based RPG featuring the Spacefarer cat, George. Help him rescue his Master from King Rattie and restore the dreamworld.",
         "description": "BEAUTIFUL GRAPHICS\namazin' George 2 combines the industry standard in 3D video game development to bring to you a fun, easy to play JRPG, featuring George and Binky, a feline duo that are tasked with saving the human master from King Rattie and his evil plot against the world of Felina,\nTURN BASED COMBAT\namazin' George 2 adds Turn based battles as a new game mechanic.\n\nA BIG WORLD\nThe world of Felina, the world of cat dreams is a big one and will take hours of enjoyable turn based RPG gameplay to explore.\nROLE-PLAYING AT ITS FINEST\nA mixture of familiar RPG elements, featuring dozens of locations to explore, diverse 3D characters with cute animation and secrets to find\n\nA POETIC STORY\n-A charming story with rhymes!",
         "languages": [
@@ -33031,6 +33191,38 @@
             "fr"
         ],
         "size": 123731968
+    },
+    "70010000051609": {
+        "id": "0100E44017D36000",
+        "rightsId": null,
+        "name": "Jumping Bricks Ball",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220318,
+        "nsuId": 70010000051609,
+        "category": [
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a5222a4d2c70dec0bcd6d1373d5e5f02b0cb4f2734c5a27832a8cd23ef49e64a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c2d96d825d8e6b54f384d7792ece68d08a3cf92a6db0b6acaba4217138e44bc3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5319f24b91de5369b5849ce6b834b4376a672d48903835d2755b0db3397290dc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c270b33eb15f0e840a2e5dde8ea7feba7b9bde73d09a427f69f032c8a3e43937.jpg",
+        "intro": null,
+        "description": "Play this exciting game with the ball bouncing against bricks scrolling down the screen, renewing the famous breakout game.\n\nJumping Bricks Ball is an easy to learn but tough to master game with rich visual effects and addictive gameplay mechanics.",
+        "languages": [
+            "en"
+        ],
+        "size": 59768832
     },
     "70030000007383": {
         "id": null,
