@@ -7569,6 +7569,46 @@
         ],
         "size": 4566548480
     },
+    "70010000026958": {
+        "id": "0100BEE01015E000",
+        "rightsId": null,
+        "name": "Chippy",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220323,
+        "nsuId": 70010000026958,
+        "category": [
+            "Arcade",
+            "Action",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Facepunch Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b245c31e458da41b79731eb2c77f2cf173ae24431ca1f4304ee74a9fe23bee7d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2974b6690f09902b19d42d919ae76b47a8a92736eb71e61cf8c5dd2fc090f7a1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/471a65cfba6a0c35aa48d7230270c3f0f2d4938304d048a1719fe9f43d453f9a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/238867a6cf91c3fe481fcb3f1c9a31fbfb9e0b1c8d203bb7765285121288d84b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/571c42a4f542685abae93e40133520e1ca2dff01692cd70a8040562bfd8c5b09.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/124bb18630c1fd40e9dd73d838d9a61d680df4334157dbfaf1de03268ac42b8e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e0177d3b85ec57f01557ec9077971b3eb0cae7f2c9031fb126043c23dc54d06.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a4cef6c4e298ff3a47c1ef2f20c74f098ffdf8697a798b31c8241085e52f2676.jpg",
+        "intro": "Chip apart destructible bosses in this bullet-hell shooter",
+        "description": "Your purpose is to eliminate all pixel-based lifeforms by breaking off their limbs and destroying their cores. Compete to be fastest on the leaderboards, watch replays from other players to learn their tricks, or team up with a friend in local co-op.",
+        "languages": [
+            "en"
+        ],
+        "size": 625999872
+    },
     "70010000027179": {
         "id": "0100A130109B2000",
         "rightsId": null,
@@ -9613,7 +9653,7 @@
             "zh",
             "zh"
         ],
-        "size": 6570377216
+        "size": 7067402240
     },
     "70010000032187": {
         "id": "0100AC101212C000",
@@ -13850,7 +13890,7 @@
             "zh",
             "zh"
         ],
-        "size": 797966336
+        "size": 933232640
     },
     "70010000037499": {
         "id": "010010C013F2A000",
@@ -14018,6 +14058,54 @@
             "zh"
         ],
         "size": 2873098240
+    },
+    "70010000037670": {
+        "id": "010073A01401A000",
+        "rightsId": null,
+        "name": "Anuchard",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220421,
+        "nsuId": 70010000037670,
+        "category": [
+            "Action",
+            "Adventure",
+            "Fighting",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Freedom Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f1a805277495f2e288826b0a913660ee7fb0e2dcc119b7e60f2fd6b9c7def06.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/91ab163647fdcfb250adee49b01130fdd90fe17b7ee6e67737bc8632d04c047b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a50a8c51a8efdc773a0e3373c142e8dd13df722d5e2aca24e25027ec1a78589.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/857ad34b0c282953a3d3301ab00dbcd2413257ae1325474469c8688d153c260c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9f0e6973c4198a79c21990c5241d6513ab0ea991876f9af9abcf31abc9de8e65.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80d1babc5847958117309d1477f2c84a20ddcb078e348c6ca0667c59529d929b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b39bd8194724e6fff13716a38a27aa906d020e311781d2dd634107765e8afc75.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/843f06638254dd6655f3c07795697f2abebf0c2bc7a0b4097825c5a00e3f1001.jpg",
+        "intro": "The kingdom of Anuchard has fallen.",
+        "description": "Generations after the collapse, its surviving descendants have chosen you to become The Bellwielder of the magical Audros Bell. Go forth, battle monsters, solve puzzles, and restore Anuchard to its former skyward glory! \n\nAnuchard was known as a place of wonder and peace, a land of limitless bounty suspended in the heavens above. Five ancient Guardians gave the island their blessings... Until one day they left without a word. The Anuchardian paradise fell from the skies, crashing onto the world below. Only a tiny speck of an island survived the fall. The rest has been coalesced underground into a twisted mass of winding passages full of wild magic and vicious monsters, known simply as The Dungeon.\n\nGenerations passed as few survivors eked out an existence in the Orchard, the sole village on the surviving island, which maintains  the few remains of Anuchardian magic. Farmers tend to the fields while scavengers pick through the bones of the kingdom. \n\nAll await the Chosen One, the Bellwielder, who will take up the Audros Bell and enter the Dungeon, wake the Guardians from their slumber, and bring back paradise.\n\nBe judged worthy and take up the mantle of the Bellwielder. The Dungeon awaits!\n\nThe Bell Tolls\n\nFor everyone and everything. You are the Bellwielder and the Audros Bell is your best friend.\n\nMaster the Bell! Not just as a weapon, but as a most vital tool for overcoming puzzles and obstacles.\n\nA bell can be more than just a blunt instrument of mayhem. Use its knock-back ability to smash enemies into obstacles, reposition them, and clear the way forward.\n\nSolve challenges throughout the Dungeon with the Bell. Launch projectiles, move puzzle pieces, and utilize them creatively!\n\nEnter the Dungeon\n\nThe warped, magical Dungeon houses the Guardians needed to restore the lost kingdom of Anuchard.\n\nExplore handcrafted, unique dungeons. Each was changed by magic to match the personality and aspect of its owner.\n\nEach is a unique challenge as a result. Master their unique mechanics to reach the slumbering Guardians - and unlock the deepest reaches of the greater Dungeon.\n\nRemember your duty: Confront and defeat the Guardians in set piece boss battles, to make them return to serve the people of Anuchard.\n\nRestoring Paradise\n\nAssist the Orchard along the path of a Bellwielder\u2019s legendary quest.\n\nRescue the souls of lost villagers trapped in the Dungeon, returning them to Orchard through the ritual of revival.\n\nEach revived villager contributes to your quest. Farmers, chefs, herbalists, all will help you and the rest of the village to restore Anuchard.\n\nPrepare for ever deeper ventures into the Dungeon. Cook up meals using ingredients provided by village residents, then head back into the fray!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 1027604480
     },
     "70010000037782": {
         "id": "0100CE5014026000",
@@ -14274,9 +14362,8 @@
             "Adventure"
         ],
         "ratingContent": [
-            "Comic Mischief",
             "Fantasy Violence",
-            "Mild Language"
+            "Language"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
@@ -17200,6 +17287,55 @@
         ],
         "size": 236978176
     },
+    "70010000041403": {
+        "id": "01003E701510E000",
+        "rightsId": null,
+        "name": "Dark Deity",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220317,
+        "nsuId": 70010000041403,
+        "category": [
+            "Strategy",
+            "RPG",
+            "Adventure",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Freedom Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cf0f52ed8c9802697727592aa7e98aa2a896efea89d742bc11b77b9d1a7027a6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0389cbbb94dbd906661664547ea0dc651b4c2f006cc3547d8915d17254e9e7f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a3bb6d712b61eb619423dd3e6f5670b69b10eda5aa189dd39a126211a5d09c3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa1885eb66f0714f985d32f732087e8268b7ed7096fda4283aa0d617057d68cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f82b7e84564a962a8a4057c28bca5628eab1e32e85375d35589d7d08b0ad1a80.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d23079073eaa0ff8836ce04b212ea5cb379a36685f8d864006c0acac5f55da2c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6cd8aefb7159faddd4828901e540cb7d91636d37b1a98f58fbdc74ee889c1b3f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/27a7c9cc1a10206916f1d18b8d7340a182f602a5c43711113b15024ecec6d14f.jpg",
+        "intro": "Step into the world of Terrazael and lead soon-to-be legendary heroes in a quest to restore a land fractured by broken oaths, reckless wars, and untamed magic.",
+        "description": "Fight back in turn-based battles, manage character relationships, collect dangerous artifacts, and hopefully restore the world torn apart by oathbreakers, warmongers, and wielders of forbidden arcane secrets.\n\n\nA world on its last strand of hope brought to its knees by a Calamity centuries ago that tore down its mighty civilizations. Petty kings rule in place of grand emperors of old that wage fruitless, ill-advised wars picking over ancient ruins like glorified scavengers.\n\n\nLead a team of four students in the Brookstead Military Academy, who are shut down on the mysterious orders of King Varic. The ruler of the Kingdom of Delia is preparing to break a millennium-old treaty and Brookstead students make for fine cannon fodder... However, these four soldiers are destined for more than just acting as unwilling meat for another grinder.\n\n\nThey may not know it yet, but they will make their mark on history.\n\n\nA World Plagued by War\n\n\nLead soldiers into the fray across a world torn apart by endless war and magical cataclysms.\n\n\nFight through hand-crafted, turn-based combat scenarios spread out across 28 chapters, as rookies become veterans.\n\n\nTest your tactical mettle. Maneuver, attack, break through, and - maybe - turn the tide of the war.\n\n\nEngineer the rise of legends, from a pile of raw conscripts to a band of mythical heroes.\n\n\nHeroes in the Making\n\nCarefully nurture your squad to ensure survival through long bouts to make a difference in a seemingly hopeless world.\n\n\nAssemble the squad from 30 playable characters, with their own background, personality, and motivations, then train them and pick from 54 distinct classes, with their own iconic attacks and skills. \n\nOutfit each team with hundreds of weapons and spells, from simple blades and missiles to ancient, eldritch artifacts that produce world-ending magic.\n\nDefeat doesn\u2019t mean permadeath, but there is a price to pay: Every time a warrior falls, it means a grave wound, a stat penalty, and weakening your squad.\n\n\nA Glimmer of Hope\n\nHope is a rare commodity in a world ruined by Calamity, good thing these heroes are filled to the brim.\n\nDefy the fates and make a difference as the head of this unlikely band of heroes.\n\nWatch characters bond together on the battlefield and their relationships evolve through 400 individual conversations.\n\nRemember: Any hero can make a difference - if they live long enough.\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "zh"
+        ],
+        "size": 842006528
+    },
     "70010000041423": {
         "id": "01000AF01518A000",
         "rightsId": null,
@@ -17551,7 +17687,7 @@
         "languages": [
             "en"
         ],
-        "size": 6608125952
+        "size": 6726615040
     },
     "70010000041968": {
         "id": "010004E01523C000",
@@ -17796,12 +17932,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b5641a0a4c6aee0650000647b9d00074327ee2d0681515c879f13c4e18d761cd.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/4f88560cf54ba32fc6a8ad72b8382024f6b7c9b4b852bdfe6f55f854e4623e47.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/ed979188bbb6cd86cdc1305cc1acf0f38c90e9dc0f1c744e55534433e1a92268.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/a98252fb3531659a48a4fef5fcce1d04b561de4f7915a6e2196472fe4681dd1c.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/266d1f64f852e039dcb6215d95c1cd291981c5b7eed9f068bb12b9113f71303b.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2036143c141d780dbe88854ecf4af635eaaa7e8012dfb41483c117416be2bb34.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/33844e392df7d4ec3c7fac8a8bb9a2b2a0404d012cf2a1ba57399c7c216b528e.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/f1736c6fda812c85df3ef99dd11980af81ff6556633af831a0f19a5225b31bef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e56a85da0d77f8cbf61b62fd0f1a060efb9036b5ac3f94644c509702a289947.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec60a6fc9bd047b68a9cf372d5854de4665bdc95a53af2578abb8e4355b2e444.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/da7cfcf3d0717fbbd25d066f582a95ad6eee5f4ea95cb9741fa6a21b8a47afe6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/573f4b8219f3b346d0239c9814ca120e9091ba3a428f88a4b21f428c176bf4af.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6029cd2335182e31de39fbcca2bf3681648f021027d0871b64438511e77403f3.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa0878d0a68fd3cba84bcc3264a455c2a3ec10313622d42fbf8169b57cdde4a2.jpg",
         "intro": null,
@@ -22096,10 +22232,11 @@
             "Communication"
         ],
         "ratingContent": [
+            "Simulated Gambling",
             "In-Game Purchases"
         ],
         "numberOfPlayers": 2,
-        "rating": 6,
+        "rating": 13,
         "developer": null,
         "publisher": "D3 Publisher",
         "frontBoxArt": null,
@@ -23041,7 +23178,7 @@
             "de",
             "it"
         ],
-        "size": 4646240256
+        "size": 4675600384
     },
     "70010000046498": {
         "id": "0100079016724000",
@@ -25623,7 +25760,7 @@
             "zh",
             "zh"
         ],
-        "size": 3247439872
+        "size": 3249537024
     },
     "70010000047666": {
         "id": "0100D99016B22000",
@@ -28302,6 +28439,48 @@
             "en"
         ],
         "size": 45088768
+    },
+    "70010000048532": {
+        "id": "0100D44016EA2000",
+        "rightsId": null,
+        "name": "The Wake",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220317,
+        "nsuId": 70010000048532,
+        "category": [
+            "Puzzle",
+            "Adventure",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "indienova",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2a673260c66ec803b3835b8bd485e915e01f48152900ce19cb4600b0007c7777.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b5b32573eadb712ef60db926d0be799ca5a3328b21949eaef89c33dfaea738d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35c261deb4cb1342d682ccf0c38123100e68686f40d0d07269b497f04e14e10f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4008f26c6cadf59dd271fd559ada09e3940e2795631dbae37f7be3f64c56c2cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6efb569810934a1023c4969e0e935967ba16865fd7ded80d24af3f88ce5b07db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cc58b1e5d606e59f0541e74b7ffad6a78b78e8e220b063bafb2775f8a36ae5fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7370fbb3cb4714e561d5a38ae068f7440a52d6d88a8e29f65c7a92900426b193.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b2e588cfebd6621e71bf40034009d70cd6d21b6005fe8c34511adc3ae6101a11.jpg",
+        "intro": "Explore a generational curse that has swallowed a man and his life.",
+        "description": "The Wake is the last of game developer Somi\u2019s \u201cGuilt Trilogy,\u201d consisting of Replica and Legal Dungeon.\n\n\u201cPerhaps it means my life simply boils down to this: \u2018Everything I say is a lie.\u2019\u201d\n\nThe Wake is a record of past wounds opened at a three-day funeral\u2014a record of the roots of guilt, and the memories and emotions that chain together three generations of a family.\n\nThe journal is encoded with a simple substitution cipher that the player must break in order to reveal the writer\u2019s psyche and discover the contradictions that define him.",
+        "languages": [
+            "ja",
+            "en",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 352321536
     },
     "70010000048534": {
         "id": "0100EA0016F1C000",
@@ -32366,7 +32545,7 @@
         "developer": null,
         "publisher": "SPACEFARER GAMES",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0ec5e56960ba8cf6d49e7b4749a7d323a7b89ef38c5028fba11b57d3db0a928f.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/da505ac9d08531cb6528e58b73e377731d385c63649141ec6194d2c294591017.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/e213319a7266f8e0e2e8dc9d070415b7a6115e0b71070235c84acb51b840b40f.jpg",
             "https://img-eshop.cdn.nintendo.net/i/efe5878669a233dfc60b205c3ef83f1ea7dcc221216b51861ca08598ac634301.jpg",
@@ -32381,7 +32560,7 @@
         "languages": [
             "en"
         ],
-        "size": 1080033280
+        "size": 1808793600
     },
     "70010000050525": {
         "id": "0100BD4017626000",
@@ -32898,6 +33077,50 @@
         ],
         "size": 0
     },
+    "70010000050782": {
+        "id": "0100EA8017A22000",
+        "rightsId": null,
+        "name": "SUPER NANARU",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220324,
+        "nsuId": 70010000050782,
+        "category": [
+            "Action",
+            "Arcade",
+            "Adventure",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CFK",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7f7f11048297142a78ef207fb328d65d322ed0f94aee29684694f678cb00a716.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/efa0fa70e07cd4f2d610036a3288fe71288dfa81d0c5df9040d58515d67bbd43.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/34640e455e6448d9ebc9a02e7b3c002273f3b5451c4b4b7268a3c97d8e5d16f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/61519b93f3acefa8c1a0645aca1ff0cb42b237c0875f1a2d7f84c75571d1c0e7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/976937d7eec73bd5db67f621bba97bc9c4612225f6ded9481f9fa6e386bbd591.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c73cdf5047e88d6d587ffd6c1f49aa9050ac78758c8acbc15b3196d34c81e300.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60d74e52acaa2180d1f13c01c0bc4032c96752db72da5ab3cae5aba38fcaa689.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8b6f97e45208f35454b4e53587a45a5cdd78f14cf17572d6bc1520237725bc63.jpg",
+        "intro": "Nanaru - the baker girl vs. Yako - the devil!\nHelp sweet Nanaru save her bread \nand her town from Yako!",
+        "description": "After breaking out of the seal, \nthe troublesome devil \u300cYako\u300d wreaks havoc in town\nby brainwashing people with her hypnotic spell! \n\nSoon, the baker girl \u300cNanaru\u300d sees her entire stock of bread raided by Yako's mob......\n\n\"I can't just stand here and do nothing! I'll get back my bread from that devil!\"\n\nHere comes \u300cNanaru\u300d, to chase \u300cYako\u300d and teach her a lesson!\n\n\u25a0 Casual gameplay with simple controls\nThe rule is simple: jump at the right timing as \u300cNanaru\u300d runs on her own!\n\n\u25a0 Instantly restart from checkpoint\nPlayers can continue from the last checkpoint as they pass through each area of the stage.\n\n\u25a0 Try as many times as you want, with no pressure!\nAll you need to do is jump at the right moment\nand avoid a bunch of obstacles.\nTime is on your side; try and try until you clear the stage!\n\n\u25a0 Adorable but fearsome bosses\nBattle for survival against bosses at the end of each stage!\nHelp \u300cNanaru\u300d save her friends from \u300cYako\u300d's hypnotic spell!\n\n\u25a0 Collect various bonus items\nExchange golden leaves you found in the stage with character skins.\nTry them on, as each one shows off their unique design and skills!",
+        "languages": [
+            "ja",
+            "en",
+            "ru",
+            "ko"
+        ],
+        "size": 319815680
+    },
     "70010000050787": {
         "id": null,
         "rightsId": null,
@@ -33002,7 +33225,7 @@
         "developer": null,
         "publisher": "QUByte Interactive",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/572c2eb48b13578782c621242487b0a64c8a187fb26112993ee52e9e9d8c9ae6.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/62e8a513d5c85131e04d4dc86cef1feb2a83a495b1c073ab1ef96b274ca5777b.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/53e82fd7bd0a55d2966adbaeb74729e1d4463a37c4ca26a0f2216c88ceccf761.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f503023db5e09f2b50cdfb1527c1aaeb2349d90817ea009f5d31bba560c9b43b.jpg",
@@ -33018,7 +33241,7 @@
             "en",
             "pt"
         ],
-        "size": 101711872
+        "size": 141557760
     },
     "70010000050897": {
         "id": "0100C4A017A7E000",
@@ -33265,6 +33488,97 @@
             "en"
         ],
         "size": 109051904
+    },
+    "70010000051230": {
+        "id": "0100FA50175D0000",
+        "rightsId": null,
+        "name": "Bunny Memory",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220323,
+        "nsuId": 70010000051230,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Training"
+        ],
+        "ratingContent": [
+            "No Descriptors"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "DillyFrame",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/47e7f8d9b4f36668e21660d973e3d47f1980d121a8c506863beac213ff69532c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7f4c05adcae3342da5e796beabdaaa87c21b83dbd3bf8dc4ec461f6fd521ea6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4adbdb63d505f883e454a174644bbdc1ce37aa05714f0459e9a1e57c5af44598.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e26f46d2ab43f32dec8f5c4163f61a4d583ac76bcd98ae34420a6cfec233ff2c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2787f11ed6ef10dc2fc3c53389296c93738576aa0d46ded3eac5737c477a8014.jpg",
+        "intro": "Collect memory points to unlock fragments of memories.",
+        "description": "The astronaut bunny sent on a journey wandered in space for so long that they completely forgot everything.\nCollect memory points and train your memory, helping the bunny unlock fragments of memories.\n\nFeatures:\n\n- 3 card types: numbers, letters and pictures with bunnies\n- 5 difficulties",
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "ru"
+        ],
+        "size": 277872640
+    },
+    "70010000051266": {
+        "id": "01004A5017C50000",
+        "rightsId": null,
+        "name": "My Lady Sayo \u7d76\u5bfe\u541b\u4e3b\uff01\u5c0f\u591c\u69d8",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220317,
+        "nsuId": 70010000051266,
+        "category": [
+            "Adventure",
+            "Simulation",
+            "Other"
+        ],
+        "ratingContent": [
+            "Language",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CyberStep",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d6483d6934925c246c5f9f94a30af4d7b3bd01aa43e4ea4eeb99f7c05a3497f9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b66277b74971a5139538b02220e16a63d59c6a6d5449f348a445eb40031d33d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf6e345fae802690a65f75b398346625eacdba22432395b919b2b48c661b3708.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0473148c42db38a3d1baf44f20e9f0c4da1df4184d5f51894666de0240d7bd7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/11fbebd596ea9eca6d6c3df621e8f4096e54b78f38cc60ee99d550f7624df3a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0edfadece33ef57104ccbcd6be6ef436388ebc4a89346f42dffdcbaf4c61c7cf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/65435a656b2c5a907e5ca274dad12704ec7382684eb30bac9911ec01aa44c5e3.jpg",
+        "intro": "This work is a remake of a bishoujo game released in 2015 for an international audience.",
+        "description": "\"Are you the one who wants to become my 'pet'?\"\n\u300eMy Lady Sayo \u7d76\u5bfe\u541b\u4e3b\uff01\u5c0f\u591c\u69d8 \uff5e\u30d0\u30a4\u30c8\u9762\u63a5\u306b\u884c\u3063\u305f\u3089\u5c0f\u591c\u69d8\u306e\u4e0b\u50d5\u3060\u3063\u305f\u4ef6\uff5e \u300fis a novel game in which you serve Sayo and deepen your relationship with her as you respond to her reckless requests and endure her playful teasing.\nOriginally released in 2015 by the bishoujo game brand Swan, \"Zettai Kunshu! Sayo-sama\" has been remade for the \"CS Novel Club\" platform so that it can be enjoyed around the world.\n\n\n\u25c6Synopsis\nUnable to find a regular job due to the current job market, the protagonist works part-time to make ends meet.\nIt was just like any other day when he was looking at the classifieds and found a job opening for a \"master's servant\u201d.\nWhat did that even mean? A butler or something? Anyway, there had never been such a job ad before.\n\"The words \"\"no education or work experience required\u201d sounded too good to be true\u2026\nWhen he went for the interview, he was greeted by a young lady...\n\"\n\n\"Are you the one who wants to become my 'pet'?\"\n\nIsn't that a little different from the job description...?\n\n\n\u25c6Characters\nSayo Misanagi\nThe protagonist\u2019s new master.\nDespite the way she acts, she is amazingly brilliant and charismatic.\nShe stopped growing and her baby face tends to make her look younger. Although she doesn't say it out loud, she seems bothered by it.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 116391936
     },
     "70010000051311": {
         "id": "010086B017BF4000",
@@ -41555,7 +41869,7 @@
     "70050000028935": {
         "id": null,
         "rightsId": null,
-        "name": "Doom & Destiny Worlds - Destiny's Children",
+        "name": "Doom & Destiny Worlds - Fantastic Quests and Where to Find Them",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -41574,12 +41888,17 @@
         "publisher": "Heartbit",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/576bad96a051d7ddf1058ebaa6584afef90e1fcc312cecd8aede9853ae0f8eb2.jpg",
-        "intro": "Story focused expansion, still in development.",
-        "description": "Destiny's Children DLC - Story add-on with new characters, missions and twists!",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c17924440646b7edce4da430a3090a2385f7db2e8290a3e4ac8b636860490886.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f1d685ec67d537dd649362797c721f45d51fc7fd27bb1975674a5789d1514984.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/00453f01dd1d32d3cfad260f24be78a2786cf1b20dc9c9913ba832a257dcdcb8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fd736bd276494eb46dafb22a08046754aa0f7ec8999abd6853833e991607b4db.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/93fe90c5ca65372a6d19ed3554f4bf03fa526f6611de1108ef5e296cc4b5196e.jpg",
+        "intro": "Unlock rare and powerful items by helping who is in need. This is the way of the hero. Nothing is done for free!",
+        "description": "THE WORLD CAN WAIT! YOU HAVE SIDE-QUESTS TO COMPLETE!\nSaving the world is a hassle, especially if you\u2019re doing it for free!\nTake a break and help random strangers for some epic loot!\n\nTHIS IS THE HERO\u2019S WAY!\nUnlock preposterous costumes, magic-infused rings, loud resource-gathering machinery and monster farms. All you need to do is help four weird strangers.\n\nFollow the oracle's premonitions and help her solve her financial problems.\nFind the cursed Jewelers and soothe their pain furnishing their house.\nPiece together the shattered memory of the famous Geologist and unravel his past!\n\n\u201cFANTASTIC QUESTS AND WHERE TO FIND THEM\u201d FEATURES:\n- 6 new armors,\n- 10 new helms,\n- 5 new utility items,\n- 3 new weapons,\n- 19 new magic rings,\n- 13 new machineries capable to automatically gather resources,\n- 10 monster spawners, to summon and fight monsters whenever you want,\n- 3 brand new islands.",
         "languages": null,
-        "size": 0
+        "size": 3145728
     },
     "70050000028936": {
         "id": "01001B4011481001",
@@ -49859,6 +50178,73 @@
             "010082A01538F0D7"
         ]
     },
+    "70050000032223": {
+        "id": null,
+        "rightsId": null,
+        "name": "Accessory \"25 Glasses\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220310,
+        "nsuId": 70050000032223,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Fantasy Violence",
+            "Suggestive Themes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/700e7ff9358e300676c14db3ec48ecdd43f8451c9cd7b7b3d739826eb2e48c25.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2558e4940cea086817524dcd2b03859f00b893f9ef23cd7232ffdbdbfddc2a70.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f655e63964ddc7cd34f930238b8e57577008b7abb1c0dc60511987cd6f8eb936.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9e4ada9cdadffaab883207c228d5675b51bce5460a51a6409aca761c328b91d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/10640f41d52514877d44e8ffee9ade59a5e1f85f1d559ff87705a50a0e75ed6d.jpg",
+        "intro": "Accessories commemorating the 25th anniversary of the Atelier series!",
+        "description": "A set of special glasses for Sophie, Plachta, Ramizel, Alette, Olias, and Diebold to celebrate the 25th anniversary of Atelier series.\n\nNote: The accessories can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. ",
+        "languages": null,
+        "size": 4194304
+    },
+    "70050000032225": {
+        "id": null,
+        "rightsId": null,
+        "name": "Accessory \"Animal Headband\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220310,
+        "nsuId": 70050000032225,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Fantasy Violence",
+            "Suggestive Themes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fc4fc998a7a90672b1729ddca82bc77e6eaf6e9fb046884871b0eae26a1729ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3dbb4a0bf66107760b6f02a55892bd95bfd833f7bacab3d2f4855805e6f525b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d30d51dda730ec9a85601e1a88659ab3baf9293db04fcd7cc66091cad60bb3a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2392cb672cab5a936e6f52f5c40ae0c56b618a811f75da25419284ee73415d90.jpg",
+        "intro": "Cute animal-themed accessories!",
+        "description": "A set of animal-themed headbands for Sophie, Plachta, Ramizel, Alette, Olias, and Diebold.\n\nNote: The accessories can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. ",
+        "languages": null,
+        "size": 4194304
+    },
     "70050000032227": {
         "id": null,
         "rightsId": null,
@@ -50517,10 +50903,11 @@
         "nsuId": 70050000032638,
         "category": null,
         "ratingContent": [
+            "Simulated Gambling",
             "In-Game Purchases"
         ],
         "numberOfPlayers": null,
-        "rating": 6,
+        "rating": 13,
         "developer": null,
         "publisher": "D3 Publisher",
         "frontBoxArt": null,
@@ -50755,9 +51142,8 @@
         "nsuId": 70050000032698,
         "category": null,
         "ratingContent": [
-            "Comic Mischief",
             "Fantasy Violence",
-            "Mild Language"
+            "Language"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -54498,7 +54884,7 @@
         "intro": "A mysterious story of a mysterious dream \u2026",
         "description": "This is a story about one of the adventures Sophie the Alchemist had after she left her hometown of Kirchen Bell. It is centered around Sophie's quest of searching for Plachta after they are separated in a dream world of Erde Wiege, and the new friends they meet there.\n\nIn this set:\n- Atelier Sophie 2: The Alchemist of the Mysterious Dream Digital Deluxe Edition\n- Atelier Sophie 2 Season Pass\nAccess to 14 DLCs that will be added in the future. The Season Pass content will become available starting from March 2022.\n- Season Pass Bonus: Sophie/Ramizel's Costumes \"Grandma's Outfit (Matching Set)\"\nA pair of costumes for Sophie and Ramizel based on a special costume previously released for \"Atelier Sophie: The Alchemist of the Mysterious Book\".\n\nIncluded in the Season Pass:\n1. Sophie's Costume \"Alchemist of the Mysterious Journey\"\n2. Plachta's Costume \"Haute Couture\"\n3. Ramizel's Costume \"Ertona Hunter\"\n4. Sophie/Plachta/Ramizel/Alette's Costumes \"Bunny-Eared Salesgirl\"\n5. Recipe Expansion Pack \"The Art of Synthesis\"\n6. Recipe Expansion Pack \"The Art of Battle\"\n7. Gust Extra BGM Pack\n8. Sophie's Swimsuit \"White Canvas\"\n9. Plachta's Swimsuit \"Clivia Nobilis\"\n10. Ramizel's Swimsuit \"Agapanthus Romance\"\n11. Alette's Swimsuit \"Rainmaker\"\n12. Olias's Swimsuit \"Vegetable Garden\"\n13. Diebold's Swimsuit \"Knight Commander\"\n14. Extra Scenario/Area \"Atelier Plachta\"\n\nNote: Items 1 to 7 are planned to be released before the end of April 2022, and items 8 to 14 are planned to be released before the end of May 2022.\nItems 1 to 4 and 8 to 13 are individual character costumes. Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nItems 5 and 6 add new recipes and catalysts that can be purchased from Gnome at \"Crystal Sparkle Pavilion\" after progressing the story.\nItem 7 adds new in-game BGM tracks that can be changed at the desk in the atelier.\nItem 14 will feature an additional story episode with young Plachta as the main character, set in the time after she arrived in Erde Wiege and before she first met Sophie. Players will play as Plachta, with Diebold and Ramizel available as party members. This DLC will also feature a unique area and new items.\nThe content of the Season Pass, release dates and order are subject to change without notice. Please visit the official website for more information.\nAtelier Sophie 2 Season Pass and all items included in it can be purchased separately at a later date. Please avoid making redundant purchases.\nPlease beware that the main game and other sets featuring same items are currently available for purchase separately and in other sets as well.",
         "languages": null,
-        "size": 6693060608
+        "size": 6811549696
     },
     "70070000013573": {
         "id": null,
@@ -54648,9 +55034,8 @@
         "nsuId": 70070000013691,
         "category": null,
         "ratingContent": [
-            "Comic Mischief",
             "Fantasy Violence",
-            "Mild Language"
+            "Language"
         ],
         "numberOfPlayers": null,
         "rating": 10,
@@ -54768,7 +55153,7 @@
         "intro": "As the chequered flag waves, start an unpredictable and crazy fun race, where something unpredictable happens at every turn!",
         "description": "Join Chocobo and friends as they hit the track in a variety of wacky vehicles!\n\nLearn the basics in story mode, then take on all-comers in the game mode of your choice! Use classic magic spells like fire and aero to blast the competition, or even turn the tables in a miracle comeback with each character\u2019s unique abilities!\n\nNumerous ways to play, including time attack challenges and tournament-style survival races.\nEnjoy intense racing action with players from all around the world.\n\n*This product is a set containing Chocobo GP Lite and the upgrade to the full version of the game. Purchasing it will allow you to play the full Chocobo GP experience. Customers who have already downloaded Chocobo GP Lite should purchase the \u201cupgrade to the full game\u201d DLC instead.\n*For local multiplayer games, only owners of the full game are able to create lobbies and players using the Lite version can only play by joining an existing lobby.\n",
         "languages": null,
-        "size": 6845104128
+        "size": 7342129152
     },
     "70070000013738": {
         "id": null,
@@ -54802,6 +55187,6 @@
         "intro": "A mysterious story of a mysterious dream \u2026",
         "description": "This is a story about one of the adventures Sophie the Alchemist had after she left her hometown of Kirchen Bell. It is centered around Sophie's quest of searching for Plachta after they are separated in a dream world of Erde Wiege, and the new friends they meet there.\n\nIn this set:\n- The main game \"Atelier Sophie 2: The Alchemist of the Mysterious Dream\"\n- Atelier Series Legacy Swimsuit Set\nA set of six swimming costumes based on designs introduced in past Atelier titles, one for each character: Sophie, Plachta, Ramizel, Alette, Olias, and Diebold.\n- Useful Weapons Set\nA set of six weapons with useful effects such as \"Normal Attack Count +2\" that you can equip from the beginning of the game, one for each character: Sophie, Plachta, Ramizel, Alette, Olias, and Diebold.\n- Useful Items Set\nA set of useful items that you would usually have to wait to acquire in the second half of the game, including three types of talismans, Traveler's Shoes that increase your movement speed, Victor's Charm that increases the amount of Cole earned after a battle by 4%, and Training Charm that increases the amount of EXP gained after a battle by 10%.\n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nThe DLC items can be obtained from the Container in the atelier.\nWeapons and talismans can only be used after you progressed the game to the point where you can change your equipment.\nPlease visit the official website for more information. \nPlease beware that the main game \"Atelier Sophie 2: The Alchemist of the Mysterious Dream\" is currently also available for purchase separately and in the \"Atelier Sophie 2: The Alchemist of the Mysterious Dream Ultimate Edition\" set. ",
         "languages": null,
-        "size": 6649020416
+        "size": 6767509504
     }
 }
