@@ -6795,6 +6795,55 @@
         ],
         "size": 203423744
     },
+    "70010000024099": {
+        "id": "010022300F856000",
+        "rightsId": null,
+        "name": "Tennis 1920s",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220314,
+        "nsuId": 70010000024099,
+        "category": [
+            "Sports",
+            "Action",
+            "Simulation",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Helium9 Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8b83e9d3cd5d76a37d5535b4e36e97a694b5ae192d98a29733448a2f31bf5be8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d102d1bba2a8226f94560339c2f0a1d13c48f8d86252c9ff5b5824502e5d279d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1d55e04d329dc6574c62830b38baeebd1f410171452bbc2a2353e968cc34f1de.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d66d55caf59c983d100eb26870ab23379edbde9ce86ebea9fb76b94fb3413bbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f060b997b883490929a30b4e0506bce4360d12c582983a37648645be956d2d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/176658393f797aef6de20067e302d4c430a2d6fac4d3e1278e6f62a6ffa620d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ed1118e327012b5b4b490b241dd921d2aa9922bc02c485c5105a2a2c8df9827d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4f7b676b37430f205020f9859effc45397cacb73a751e55436ece9566c62056c.jpg",
+        "intro": "Tennis 1920s is a realistic tennis game featuring tactical gameplay across a variety of incredible, life-like locations \u2013 all set in the roaring \u201920s!",
+        "description": "Transport yourself back to the 1920s \u2013 the golden age of tennis \u2013 in Tennis 1920s. Join refined ladies and gentlemen partaking in a good old-fashioned battle of wits and skill on the court.\n\nUse Joy-Con or touch/swipe controls to place shots and dictate where your player moves. As you play, our new AI system learns your playstyle and can play tennis games as you against other players when you are away.\n\nDo you prefer to serve and volley or stick to the baseline and smash powerful forehands? Whatever your style, hit tennis courts and enjoy tactical gameplay while honing your skills. Compete with players from all over the world and become number one tennis champion!\n\nKey Features:\n\u2022 Play with precision using Joy-Con or touch/swipe controls.\n\u2022 Immerse yourself in realistic 3D tennis play with true motion ball and shot physics.\n\u2022 Enjoy lag-free action in league, tournament and practice matches.\n\u2022 Earn trophies in major tournaments.\n\u2022 Train your AI character to play just like you.\n\u2022 Choose one of the 7 tennis player character types.\n\u2022 Customize and develop your in-game character into an ultimate tennis pro. \n\u2022 Join private clubs, earn prizes, and climb global leaderboards!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru",
+            "ko"
+        ],
+        "size": 802160640
+    },
     "70010000024531": {
         "id": "010024600C794000",
         "rightsId": null,
@@ -10977,9 +11026,11 @@
             "Adventure",
             "Puzzle"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 6,
+        "rating": 10,
         "developer": null,
         "publisher": "Postmeta Games",
         "frontBoxArt": null,
@@ -15190,7 +15241,9 @@
             "es",
             "fr",
             "pt",
-            "ko"
+            "ko",
+            "zh",
+            "zh"
         ],
         "size": 416284672
     },
@@ -20965,7 +21018,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/33b86bbaa26d8a37ecd74964cdb7201c59228fa4e0ad7667260c9252db1d710e.jpg",
         "intro": "Take on the mighty Dragon to save your beloved CELIA \nand her hometown from danger.",
-        "description": "\"DRAGON BUSTER\" is an action game released by NAMCO in 1984.\nBecome the hero \"CLOVIS,\" and use your sword and magic and make your way to Dragon Mountain.\nBattle through demon-infested graveyards and ruins to defeat the mighty Dragon and rescue Princess \"CELIA.\"\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+        "description": "\"DRAGON BUSTER\" is an action game released by NAMCO in 1984.\nBecome the hero \"CLOVIS,\" and use your sword and magic and make your way to Dragon Mountain.\nBattle through demon-infested graveyards and ruins to defeat the mighty Dragon and rescue Princess \"CELIA.\"\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.\n\n* There are some scenes with intense blinking, because we respect the original and reproduce it as it is. \nPlease make the room bright and keep away from the screen while playing the game.",
         "languages": [
             "ja",
             "en",
@@ -23157,7 +23210,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3e3467057b34d0ae534d2488256abb0468645c18b3edfcb32f8533fe4772dbdb.jpg",
         "intro": "Discover the dark secrets of the simulation and avoid all the dangers prepared by Squid, the evil AI that tries to defeat you by using the prediction of your movements! ",
-        "description": "Will You Snail is a fast-paced action platformer with an AI twist that offers a unique single-player experience: a challenging adventure in a neon-glowing setting that blends combat, puzzle-solving, and lots of humor together.\n\nFEATURES:\n\nDODGE AI SPAWNED TRAPS! The evil AI Squid tries to predict your movement a few seconds ahead of time and uses that information in an attempt to stop you from reaching the end of the level. Will you win that intellectual battle or will Squid find yet another reason to make fun of you?\n\nOUTPLAY THE AI! While the levels may seem safe at first, the more things you are able to complete, the more the AI will learn about you and start using its abilities against you. You can change the difficulty at any time or let the game decide which one is the best one for you.\n\nSOLVE OPTIONAL PUZZLES! Solve some easy puzzles to calm down from the action. Across your journey you\u2019ll find a few more difficult ones as well, but every single puzzle in Will You Snail is completely optional and can be skipped if you want to.\n\nUNCOVER THE TRUTH! Find secrets, collect clues and try to piece together where you are and what happened. Will You Snail tells a rather crazy story about artificial intelligence, simulation theory and the future of humanity - and it\u2019s up to you to discover it.\n\nExplore, jump, die, repeat - and master all of the action-packed levels in this challenging platformer. Puzzles, secret hunting, a non-linear story about mysteries of the Universe, silly voice-acting and beautifully designed levels - all of this packed into this short but condensed, fourth wall breaking game! Quite a challenge, isn\u2019t it? The question is\u2026\n\nWill you snail?\n\nLANGUAGE NOTICE: Thanks to our amazing community, the game is avaible in a multitude of languages! Including: Magyar, Finnish, Serbian, Polish, Catalan, Estonian, Turkish, Bulgarian, Norwegian.",
+        "description": "Will You Snail is a fast-paced action platformer with an AI twist that offers a unique single-player experience: a challenging adventure in a neon-glowing setting that blends combat, puzzle-solving, and lots of humor together.\n\nFEATURES:\n\nDODGE AI SPAWNED TRAPS! The evil AI Squid tries to predict your movement a few seconds ahead of time and uses that information in an attempt to stop you from reaching the end of the level. Will you win that intellectual battle or will Squid find yet another reason to make fun of you?\n\nOUTPLAY THE AI! A lot of levels in Will You Snail are relatively empty by default. The challenge comes from the interactions with the evil AI. You can change the difficulty at any time or let the game decide which one is the best one for you.\n\nSOLVE OPTIONAL PUZZLES! Solve some easy puzzles to calm down from the action. Across your journey you\u2019ll find a few more difficult ones as well, but every single puzzle in Will You Snail is completely optional and can be skipped if you want to.\n\nUNCOVER THE TRUTH! Find secrets, collect clues and try to piece together where you are and what happened. Will You Snail tells a rather crazy story about artificial intelligence, simulation theory and the future of humanity - and it\u2019s up to you to discover it.\n\nExplore, jump, die, repeat - and master all of the action-packed levels in this challenging platformer. Puzzles, secret hunting, a non-linear story about mysteries of the Universe, silly voice-acting and beautifully designed levels - all of this packed into this short but condensed, fourth wall breaking game! Quite a challenge, isn\u2019t it? The question is\u2026\n\nWill you snail?\n\nLANGUAGE NOTICE: Thanks to our amazing community, the game is avaible in a multitude of languages! Including: Magyar, Finnish, Serbian, Polish, Catalan, Estonian, Turkish, Bulgarian, Norwegian.",
         "languages": [
             "en",
             "pt",
@@ -25632,10 +25685,12 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/29ecfe636c452f935f829ac2d6a624680c2fc319693270cd0d1b47751949f2ad.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/0551caff021e5f7c3e5dc93bcafe87784f43501a71e02460b31fad6b347d0d46.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/12ed78a02b3295c81de6d5c07a2d0a694356f56f1c095b81e9d533898522dad5.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/5e2f71aea12f6b0e98a2d10d70b25e515d97f98333c4caa66f9e553513817acf.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/305324e8aacc581e6a345e7afee169cea35ffa2504e0061bc5b38efe02dab89e.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/f00424d49505bf4d4ea29ad4e677a0b4dd0ca902e58bcc805b8a328eb55d619d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e2dd1f24d5f6c86a6c34b4c66aee7bcb4f9357dadad7a9e34c22007332f7a2e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aea3f9ffdf44e8c9f06a687af14f5259fbc2db31ea388d902bdda92ad69e0ee6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4b60496fbcaa6b4b981b42124ea865dd0de52a3968b6bbc444da09ca75d34bb9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a3bf3714d227ffbbc20a91734fddfbb09259db465215a9eafbd8bc91a70b99f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/184473a6b0464ae7aef3d007a675a93cccea9b8441962c72e39e846ad568079c.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ab85d23f5f4fc14e704001c97321a87e9bcc6cae86f53ec67035dff96fc082e3.jpg",
         "intro": "Return to classic '90s survival horror in this narrative-driven undead nightmare.",
@@ -28558,7 +28613,8 @@
         ],
         "ratingContent": [
             "Blood and Gore",
-            "Intense Violence"
+            "Intense Violence",
+            "Language"
         ],
         "numberOfPlayers": 1,
         "rating": 17,
@@ -32802,7 +32858,7 @@
             "en",
             "zh"
         ],
-        "size": 212860928
+        "size": 253755392
     },
     "70010000049994": {
         "id": "01005F40177B0000",
@@ -33444,7 +33500,9 @@
             "Study",
             "Music"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "In-Game Purchases"
+        ],
         "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
@@ -34559,6 +34617,45 @@
         ],
         "size": 277872640
     },
+    "70010000051247": {
+        "id": "010031C017C40000",
+        "rightsId": null,
+        "name": "Niko and the Cubic Curse",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220325,
+        "nsuId": 70010000051247,
+        "category": [
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f70b25e734ea43a39796204f07442c78d72c617b8d22ca4358bcca654577b0c8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fa36f4c37331236a58ba9add85207833adfec329e6357f0c33ac52e6766ab1a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f631c9faac5f6c04e20e0b0f76cefc0ed305f006d838fa443afee84a37c24d02.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3cf96ed9747b4abc9b848bfb5e596f36663083cd2eaa62fc85de572b62d16edd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1f126fc8a2314a2a6d53102580664f48e828bd64d25d18331b702362cfbeb22a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/99dafac09de154a8cc62d202a44976f469bb3c5e7e20a08fbac8a6026b96844f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5abe8589dc291612b2447ff811e4e2fd152a038e3612b2704d59d446dc9dbc35.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/324d77b30f36ad5d24a1e50ec039208fa12c6fa988066b03d175e54c7d1a36d7.jpg",
+        "intro": null,
+        "description": "Niko and the Cubic Curse is a 2D Platformer where you must jump, fight, and collect to uncover the mystery of everyone\u2019s new shape-like appearances! Play as Niko, a human who has reawaken to his new square body. He is informed that everyone in the world has been cursed, and it is up to him to find the cause and bring an end to this nightmare!\n \n\nFEATURES:\n\nExplore 4 unique worlds throughout your adventure! Each level will bring a new challenge and a new gameplay twist!\n\nYou will encounter strong boss enemies in every world, including a special shape-like appearance from special guest Fadel \u2013 GamesCage!\n\nThroughout your quest, you will come across cute and uniquely designed characters, enemies, and NPC\u2019s!\n\nThe game features uniques soundtracks and sound fx for a superb sound ambiance.\n\nYou can customize Niko with different hats and colors to personalize your journey!\n\n\nDo you have what it takes to bring an end to the Cubic Curse?",
+        "languages": [
+            "en"
+        ],
+        "size": 1244659712
+    },
     "70010000051266": {
         "id": "01004A5017C50000",
         "rightsId": null,
@@ -34799,6 +34896,47 @@
             "en"
         ],
         "size": 140509184
+    },
+    "70010000051396": {
+        "id": "0100BAD017CB8000",
+        "rightsId": null,
+        "name": "Taqoban",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220325,
+        "nsuId": 70010000051396,
+        "category": [
+            "Puzzle",
+            "Multiplayer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1e2f18c752c53afd2a80436df677482bee7c8c9322eb6ef7852a7614789759b4.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/89e2c0fb2eb20f02a74fa251a4a846ce9670ae45470091d80534ed000553838d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ded7e6360f6b578e7c6cdf1d27fefa23fd3c09ff1d5202964ce47deae5579a57.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8eb254ad884bf6388a42b6c217cff64c48c093efc36870593058967503a2a898.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e68508887d65a542b1fbfc0db13ccfd6b98377ca1fb6ae43415fbdaaf4f0af6c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3c810edd3bc33bdef6c113cb08c7a5e105b13de4d313a42fe46bc2bbe2d705c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14e46ab21e1465754d75cd3b3a9e2bf691693687ed3e9cb3a462b309fbd63dfb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/eb1aa6fb01f63925d2a8f7a9c663508e5c456c5e511f66233b9dd3fd5ce8971d.jpg",
+        "intro": "Slide, jump and earn bamboos with your panda!",
+        "description": "Play as Tao or Xiang, two pandas, and help them organize their boxes as efficiently as possible to earn a maximum of bamboos!\n\nYou'll need a lot of thinking skills in this mix of sliding game and classic puzzle platformer, to solve the levels of increasing difficulty. Also, with 12 cooperative levels to play with a friend. \n\nSlide parts of the level to create new paths for your panda and get the box to its place. But be careful with the number of movements, you can obtain the precious golden bamboo or make your little panda cry. \n\n\nFEATURES\n* Slide mechanic.\n* Two cute pandas to choose from.\n* Reset and undo functions (never get stuck).\n* More than 50 levels.\n* Various sizes of levels with increasing difficulty.\n* 12 cooperative levels (2 players).\n* 3D rendered graphics",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru"
+        ],
+        "size": 178257920
     },
     "70010000051513": {
         "id": "01008B10178BE000",
@@ -43943,12 +44081,12 @@
     "70050000029643": {
         "id": null,
         "rightsId": null,
-        "name": "MY HERO ONE'S JUSTICE 2 Playable Character 9",
+        "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 9 Midnight",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20221231,
+        "releaseDate": 20220316,
         "nsuId": 70050000029643,
         "category": null,
         "ratingContent": [
@@ -43966,12 +44104,19 @@
         "publisher": "BANDAI NAMCO Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/72ad87b0f0a353fc74328262df084f64aea3173f3f306bbac111a6f1294d8ec3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/72dc966da763b4bb77576945a1fad5e4b8cba134f52620b7614cff2a8521732f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb9eeb38ad39e6a619d28a3fe432bdd579eb38bb36dfae2e1a6f78a56667bd1a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4447a479aa4d2a60dce8dbbe78c8bd881b781665b41b209f8d9b605852fdcfb4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6b9997bafb4d340bc2519dcd9412eea5496268754004bed50e0cf6eba7dac388.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8b0b1b5e8be695cde328a8604657a0a6bc9190f16fcbe9f74e5d903fa82a25b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a2d3faef1b4d203e544b639464ffa7b9ef4c1dce64a187d4c4ae0cc513fa3bfb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/24ce1122eb91b25b94860ee05e87d30d8500e1435f6b9157976c26e8f537e8a1.jpg",
         "intro": null,
-        "description": null,
+        "description": "Play as Midnight in MY HERO ONE'S JUSTICE 2!\nThis pack also includes 10 color variations for Midnight's costume.\n\nContents:\n- Playable Character Midnight\n- 10 Costume Color Variations",
         "languages": null,
-        "size": 0
+        "size": 3145728
     },
     "70050000029644": {
         "id": null,
@@ -54457,13 +54602,14 @@
             "https://img-eshop.cdn.nintendo.net/i/8ee15f199ce47da10a47ce918f485fbe7fcca10e417e1bd487e04d35a2b7dc95.jpg",
             "https://img-eshop.cdn.nintendo.net/i/00754d0cb839f2f62c1ef78c83d026b65ce9154b5701a89086d18acd0e6ae4d5.jpg",
             "https://img-eshop.cdn.nintendo.net/i/d8a172ee7a3815e1e4fdbaac2064de00d2434e7a3aa945267f0995c506a8fa20.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/1ed5300a8838e8ed42960e67d807bad6d691b672e5da3d6a96554726a85c41b7.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/1ed5300a8838e8ed42960e67d807bad6d691b672e5da3d6a96554726a85c41b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/72dc966da763b4bb77576945a1fad5e4b8cba134f52620b7614cff2a8521732f.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/194a347e6ad13cfafd3a6e0e89596fbffc8d4041596d1ee8972fdf97e31ab4b3.jpg",
         "intro": null,
-        "description": "Get all 5 upcoming playable character DLCs for MY HERO ONE'S JUSTICE 2 in one convenient package with Season Pass 2.\n\nSeason Pass 2 includes:\n\u2022 Playable Character 6 - Hitoshi Shinso\n\u2022 Playable Character 7 - Present Mic\n\u2022 Playable Character 8 - Kurogiri\n\u2022 Playable Character 9\n\u2022 Playable Character 10",
+        "description": "Get all 5 upcoming playable character DLCs for MY HERO ONE'S JUSTICE 2 in one convenient package with Season Pass 2.\n\nSeason Pass 2 includes:\n\u2022 Playable Character 6 - Hitoshi Shinso\n\u2022 Playable Character 7 - Present Mic\n\u2022 Playable Character 8 - Kurogiri\n\u2022 Playable Character 9 - Midnight\n\u2022 Playable Character 10",
         "languages": null,
-        "size": 9437184
+        "size": 12582912
     },
     "70070000012889": {
         "id": null,
@@ -56334,7 +56480,7 @@
         "intro": null,
         "description": "Pack of three multiplayer games.\n\n- Overlanders\n- Retro Game Pack\n- Multi Quiz",
         "languages": null,
-        "size": 5795479552
+        "size": 7297040384
     },
     "70070000013681": {
         "id": null,
