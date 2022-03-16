@@ -1681,6 +1681,53 @@
         ],
         "size": 100663296
     },
+    "70010000008661": {
+        "id": "010043500A17A000",
+        "rightsId": "010043500A17A0000000000000000004",
+        "name": "Fallout Shelter",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220315,
+        "nsuId": 70010000008661,
+        "category": [
+            "Simulation",
+            "RPG",
+            "Strategy"
+        ],
+        "ratingContent": [
+            "Alcohol Reference",
+            "Mild Violence",
+            "Suggestive Themes",
+            "Digital Purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Bethesda",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3558d709c3a63bf6894e6e9b0c0fd1c5b7fe81e5188931242e80a0d08dd71efa.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5f75d6678990c8c3bddc07198d7074432cae56f6eb2799a9beab93961e4d6271.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c4d4594a9e71b96cc41c9d3269b3ed83382a89456ddc42491089cf5c076134b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dfaec46807b5b70f3bc1a2691f7d861004cf4026aa2e6f168a0c162e17edc40a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7367387a95a27fbfe416354f71c6eb38b25b4827e116923fcf8e09257f8c9a19.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/67c4173d8434e7c5372f7f35501eba9a180da4bcef08797c09e16ad284e417e1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9da4158e053625c86c36e495abffe6952e6caf494e4af5c849d95d9c23dbdcb5.jpg",
+        "intro": "A Better Life, Underground",
+        "description": "Fallout Shelter puts you in control of a state-of-the-art underground Vault from Vault-Tec. Build the perfect Vault, keep your Dwellers happy, and protect them from the dangers of the Wasteland.\n\nBUILD THE PERFECT VAULT\nCreate a brighter future\u2026underground! Select from a variety of modern-day rooms to turn an excavation beneath 2,000 feet of bedrock into the very picture of Vault Life.\n\nOVERSEE A THRIVING COMMUNITY \nGet to know your Dwellers and lead them to happiness. Find their ideal jobs and watch them flourish. Provide them with outfits, weapons, and training to improve their abilities.\n\nCUSTOMIZE\nTurn worthless junk into useful items with Crafting! Customize the look of any dweller in the Barbershop.\n\nPROSPER\nA well-run Vault requires a variety of Dwellers with a mix of skills. Build a Radio Room to attract new Dwellers. Or, take an active role in their personal lives; play matchmaker and watch the sparks fly! \n\nEXPLORE THE WASTELAND \nSend Dwellers above ground to explore the blasted surface left behind and seek adventure, handy survival loot, or unspeakable death. Find new armor and weapons, gain experience, and earn Caps. But don\u2019t let them die!\n\nPROTECT YOUR VAULT\nFrom time to time, idyllic Vault life may be disrupted by the dangers of post-nuclear life. Prepare your Dwellers to protect against threats from the outside\u2026and within.\n\nVault-Tec has provided the tools, but the rest is up to you. What are you waiting for? Get started building your Vault today for FREE.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 1896873984
+    },
     "70010000009422": {
         "id": "0100EEC00AA6E000",
         "rightsId": "0100EEC00AA6E0000000000000000005",
@@ -5266,7 +5313,8 @@
         ],
         "ratingContent": [
             "Nudity",
-            "Suggestive Themes"
+            "Sexual Themes",
+            "Violence"
         ],
         "numberOfPlayers": 5,
         "rating": 17,
@@ -14699,7 +14747,7 @@
             "de",
             "it"
         ],
-        "size": 1533018112
+        "size": 1530920960
     },
     "70010000038023": {
         "id": "01009E20141AC000",
@@ -15520,7 +15568,7 @@
             "it",
             "zh"
         ],
-        "size": 3560964096
+        "size": 3607101440
     },
     "70010000038895": {
         "id": "0100E70014562000",
@@ -18838,7 +18886,7 @@
             "ko",
             "zh"
         ],
-        "size": 2594177024
+        "size": 2600468480
     },
     "70010000042605": {
         "id": "01001330155EC000",
@@ -22958,6 +23006,46 @@
         ],
         "size": 1050673152
     },
+    "70010000045968": {
+        "id": "0100E7501640E000",
+        "rightsId": null,
+        "name": "Thunder Kid: Hunt for the Robot Emperor",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220323,
+        "nsuId": 70010000045968,
+        "category": [
+            "Shooter",
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "eastasiasoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8eb1e09d31f98be2ed81cecda7304d0acd341a7ecc15bc6a5b08f1448e95fbe2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1397699d4bd5b81a162e8f7ac636a2c367112a5ca388bdefa99c1ac174225119.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d365acf5a355d06587b988e3f94a73f5eac07e68e1f1dcebaf9ab3e35d1a1950.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0766ce9107bc8c221a9b619cc5027d65c06358e6009a389e5b128a2f0d259ac1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9532028a718b0caab72bc1908e1fcb5e6c9322d23a2fa0d3ee2e9cedf32c7c73.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cea5614d4ee90c38d416784b4f822a630aeac4ce14d9478de4e490461142d6cf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cea5614d4ee90c38d416784b4f822a630aeac4ce14d9478de4e490461142d6cf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c27f5a0b9f27fa836cc9fd68165e5db11cd4ce5b8eb6abcad0e98279b2644afc.jpg",
+        "intro": "Take on the forces of the Robot Empire in a low-poly run \u2018n\u2019 gun action experience!",
+        "description": "In the year 201X, war has already ravaged much of the continent when a rogue AI rebels against its creators and leads an army of robots to conquer the portion of North America known as the Robot Empire. Trained from a young age as an agent of justice, Thunder Kid is sent into battle against the Robot Royalty and stop the empire from taking over the world!\n\nThunder Kid is a low-poly 3D run \u2018n\u2019 gun action game controlled from behind the main character, shifting the perspective of genre classics and adding bullet hell elements while retaining its hallmark features! As Thunder Kid, you\u2019ll have to run, jump and shoot your way across colorful and varied 3D environments, from forests and caves to cliffs and cityscapes. Take down enemy bots and massive enemies in a unique blend of retro style!\n\nFeatures:\n\n\u2022 Run, jump and shoot in third-person perspective!\n\u2022 Enjoy colorful low-poly 3D presentation.\n\u2022 Dodge enemy attacks in a frantic blend of bullet hell action!\n\u2022 Traverse a wide variety of environments, from cities to forests.\n\u2022 Replay cleared stages at any time to improve your skills!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 108003328
+    },
     "70010000046000": {
         "id": "0100FE6016424000",
         "rightsId": null,
@@ -26083,7 +26171,7 @@
             "de",
             "it"
         ],
-        "size": 15548284928
+        "size": 15784214528
     },
     "70010000047459": {
         "id": "0100F19016A4A000",
@@ -30955,7 +31043,7 @@
             "zh",
             "zh"
         ],
-        "size": 281018368
+        "size": 341835776
     },
     "70010000049089": {
         "id": "01009CA01555E000",
@@ -31384,6 +31472,7 @@
             "Simulation"
         ],
         "ratingContent": [
+            "Partial Nudity",
             "Sexual Themes"
         ],
         "numberOfPlayers": 1,
@@ -31608,6 +31697,47 @@
             "en"
         ],
         "size": 106954752
+    },
+    "70010000049423": {
+        "id": "0100FAA0174A6000",
+        "rightsId": null,
+        "name": "ZOMBIE Beyond Terror: FPS Survival",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220316,
+        "nsuId": 70010000049423,
+        "category": [
+            "Shooter",
+            "First-Person Shooter",
+            "Adventure",
+            "Action"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "T-Bull",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/32c1bbb154c3c0188e147464b2ee7793572eaaabd697640733609d9fe408d5a1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8e828d57fe562bef01e3889e39753df5c8be0a2cc0e294bf546cfe338fbe5beb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/135095ff02a6e1d0c6f79ca141745842c45bed98dc6f1d7532c8dfc49ca2fa76.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52e10840ae6d43b1cd1e5627087bf31956e4579f5d47edec0ddbd1408115f237.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f53500f60fc84855917aebd19867118ad83740634b1d973c0db4b4bd0c4aa692.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c5feaae8ee50f96ef56bd2202db9e8815eadfeb32cc7c950b597c5875c0ff59a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6e374268473c770c4928c11af97fe03b1744c3b48dcd742429f2ad98acd8ff8a.jpg",
+        "intro": "Survive or die in a world overrun by bloody Zombies!",
+        "description": "Jump into the epicenter of a battle between dead and undead. Take the side of a still-living civilization and fight various mutations of the Z virus.\n\nThe world is on the brink of extinction. A group of survivors is trying to survive in a post-apocalyptic world engulfed in chaos and plague. In this world, weapons are essential, and food ends first. Zombies know no fear. They seek fresh blood everywhere.\n\nBash the heads of angry zombies! \nUpgrade your weapons! \nEarn amazing achievements! \nStop the undead horde! \n\nPlay Zombie Beyond Terror!\n",
+        "languages": [
+            "en"
+        ],
+        "size": 167772160
     },
     "70010000049435": {
         "id": "0100F1B0174AC000",
@@ -34251,6 +34381,47 @@
         ],
         "size": 2859466752
     },
+    "70010000050833": {
+        "id": "0100351017A56000",
+        "rightsId": null,
+        "name": "Chubby Cat",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220402,
+        "nsuId": 70010000050833,
+        "category": [
+            "Other",
+            "Puzzle",
+            "Strategy",
+            "Education"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "GAME NACIONAL",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/57f6c8ec08b4e4924ae52d628415f10dfc834099ee25f669223eaeece9e7e7d1.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/396c3bd68214e9d399f69901da408820a0d134e8a36e217496e1241f776ec65b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35202e1c7f9d291cde771a6d75d721db54a5575d71efe1dbc1d8ea8fbe7a50b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/29d6f3d12a3137ce6c887320ff9d5cfd93fa9aa7950ad7b7af4fbf1758709f6f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97499057a26b268d60d88f1edef3be86829777ff0a76d225d81705afda7f5431.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d9edabad70effcfc03ae50d872c83baa66d1c979fa3c821e7cd02fb2b0ac70ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3129da8d8bea3cf11662ca912938a63201fa7a02b2c5a5e8ac62f1ea7c5fc150.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/30ab37afa460d37de84ea55b243cdfd3e518d4fe32b9008f5cd5264830941c74.jpg",
+        "intro": null,
+        "description": "A cuttie little kitty who loves eating. Cut the wool thread precisely to feed the cat. \nMany stages e lots of fun in this game that suits both children and adults alike.",
+        "languages": [
+            "ja",
+            "en",
+            "pt"
+        ],
+        "size": 48234496
+    },
     "70010000050894": {
         "id": "01001D10168E6000",
         "rightsId": null,
@@ -35835,6 +36006,34 @@
         "languages": null,
         "size": 321912832,
         "parentId": "0100620012D6E000"
+    },
+    "70030000015045": {
+        "id": null,
+        "rightsId": null,
+        "name": "MacGuffin's Curse Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000015045,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 933232640,
+        "parentId": "0100382017038000"
     },
     "70030000015066": {
         "id": null,
@@ -51983,12 +52182,12 @@
     "70050000032322": {
         "id": null,
         "rightsId": null,
-        "name": "DLC 4",
+        "name": "LEGO\u00ae Star Wars\u2122: The Mandalorian Season 1 Character Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20221231,
+        "releaseDate": 20220405,
         "nsuId": 70050000032322,
         "category": null,
         "ratingContent": [
@@ -52003,21 +52202,21 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e52844f237f452c187db5daec14c3300f45d7be100c1dcff88c7188c8b9b48a9.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/affa74ce98adf2816e9f909b6f8792e4d916cd01ff8171c0c0e4955c344ad38e.jpg",
         "intro": null,
-        "description": null,
+        "description": "This is the Way.  Play as the iconic characters from the hit series The Mandalorian Season 1.  Travel around the galaxy as The Mandalorian protecting Grogu at all costs. The character pack includes:\n- The Mandalorian \n- Cara Dune\n- Greef Karga\n- IG-11 \n- Kuiil",
         "languages": null,
-        "size": 0
+        "size": 10485760
     },
     "70050000032323": {
         "id": null,
         "rightsId": null,
-        "name": "DLC 5",
+        "name": "LEGO\u00ae Star Wars\u2122: Solo: A Star Wars Story Character Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20221231,
+        "releaseDate": 20220405,
         "nsuId": 70050000032323,
         "category": null,
         "ratingContent": [
@@ -52032,21 +52231,21 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e52844f237f452c187db5daec14c3300f45d7be100c1dcff88c7188c8b9b48a9.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/90d67cae6893c487ac01e2f3fcc174a07745adce28f82bb6746677534c71885c.jpg",
         "intro": null,
-        "description": null,
+        "description": "Experience the galaxy with the characters from the prequel \"Solo: A Star Wars Story.\" Play as the young scoundrels and blast your way through the epic saga. The character pack includes:\n- Han Solo (Young)\n- Chewbacca (Young)\n- Lando (Young)\n- Qi'ra\n- Tobias Beckett\n- Enfys Nest",
         "languages": null,
-        "size": 0
+        "size": 9437184
     },
     "70050000032324": {
         "id": null,
         "rightsId": null,
-        "name": "DLC 3",
+        "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga Classic Character Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20221231,
+        "releaseDate": 20220419,
         "nsuId": 70050000032324,
         "category": null,
         "ratingContent": [
@@ -52061,21 +52260,21 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e52844f237f452c187db5daec14c3300f45d7be100c1dcff88c7188c8b9b48a9.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7bcf70894398f5c8a7cff591b8c68bbd125b8806b12fad746516831e726e752c.jpg",
         "intro": null,
-        "description": null,
+        "description": "Play as the classic LEGO variants of Luke, Leia, Han, Lando and Darth Vader in LEGO\u00ae Star Wars\u2122: The Skywalker Saga. Explore the galaxy as iconic characters based on the original LEGO\u00ae minifigures from 1999.",
         "languages": null,
-        "size": 0
+        "size": 6291456
     },
     "70050000032325": {
         "id": null,
         "rightsId": null,
-        "name": "DLC 6",
+        "name": "LEGO\u00ae Star Wars\u2122: Rogue One: A Star Wars Story Character Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20221231,
+        "releaseDate": 20220419,
         "nsuId": 70050000032325,
         "category": null,
         "ratingContent": [
@@ -52090,21 +52289,21 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e52844f237f452c187db5daec14c3300f45d7be100c1dcff88c7188c8b9b48a9.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/23c283a749955f623dc6988703a24a67c55e4026d6dbe6dd912b0f72f6bd6c06.jpg",
         "intro": null,
-        "description": null,
+        "description": "It takes an unlikely band of heroes to save the rebellion.  With their blasters, a staff, a heavy repeater cannon, and more, these heroes (and a villain) are ready for battle. The character pack includes:   \n- Jyn Erso \n- Cassian Andor\n- Baze Malbus \n- Bodhi Rook\n- Chirrut \u00cemwe\n- Director Krennic\n- K-2SO",
         "languages": null,
-        "size": 0
+        "size": 13631488
     },
     "70050000032326": {
         "id": null,
         "rightsId": null,
-        "name": "DLC 8",
+        "name": "LEGO\u00ae Star Wars\u2122: The Bad Batch Character Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20221231,
+        "releaseDate": 20220504,
         "nsuId": 70050000032326,
         "category": null,
         "ratingContent": [
@@ -52119,21 +52318,21 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e52844f237f452c187db5daec14c3300f45d7be100c1dcff88c7188c8b9b48a9.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e76a786fcc0afcc4c9de45c5022f6bfddd85adf3c49c0ff0b0db36b136f68832.jpg",
         "intro": null,
-        "description": null,
+        "description": "Be a clone unlike any other.  The elite Clone Force 99, also known as The Bad Batch, each have their own exceptional skills making them a formidable crew. The character pack includes:  \n- Hunter\n- Echo\n- Wrecker\n- Tech\n- Crosshair",
         "languages": null,
-        "size": 0
+        "size": 7340032
     },
     "70050000032327": {
         "id": null,
         "rightsId": null,
-        "name": "DLC 7",
+        "name": "LEGO\u00ae Star Wars\u2122: The Mandalorian Season 2 Character Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20221231,
+        "releaseDate": 20220504,
         "nsuId": 70050000032327,
         "category": null,
         "ratingContent": [
@@ -52148,21 +52347,21 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e52844f237f452c187db5daec14c3300f45d7be100c1dcff88c7188c8b9b48a9.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/05a913315e348038688699774e835044edf43c51850861e2a44752dbe74af521.jpg",
         "intro": null,
-        "description": null,
+        "description": "Get into more action with the fan-favorite characters from Season 2 of the hit series \"The Mandalorian.\" Play as Ahsoka Tano, Anakin Skywalker's former padawan with her dual lightsabers, and Boba Fett with his recovered armor.  The character pack includes:  \n- Ahsoka Tano \n- Bo-Katan Kryze\n- Boba Fett (Re-armored)\n- Fennec Shand\n- Moff Gideon",
         "languages": null,
-        "size": 0
+        "size": 10485760
     },
     "70050000032329": {
         "id": null,
         "rightsId": null,
-        "name": "DLC 2",
+        "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga Trooper Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20221231,
+        "releaseDate": 20220504,
         "nsuId": 70050000032329,
         "category": null,
         "ratingContent": [
@@ -52177,11 +52376,11 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e52844f237f452c187db5daec14c3300f45d7be100c1dcff88c7188c8b9b48a9.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6e3451e777bac4ea1345373261b4a6cb778d08211b12083bb058740e75e48c83.jpg",
         "intro": null,
-        "description": null,
+        "description": "Play as the soldiers of the Empire from Rogue One: A Star Wars Story, Solo: A Star Wars Story, and The Mandalorian. \n- Imperial Death Trooper \n- Incinerator Stormtrooper \n- Range Trooper \n- Imperial Shoretrooper \n- Mimban Stormtrooper",
         "languages": null,
-        "size": 0
+        "size": 10485760
     },
     "70050000032551": {
         "id": null,
@@ -52275,6 +52474,75 @@
         "description": "Have fun communicating with other players using stickers!\n\nThis add-on contains:\n\n\"Special Stickers 8\" sticker set\nCohoots are so cute! Too cute? Hoot, hoot!\n\nAfter purchasing, speak to the Courier and select Add-on Content to receive the content. You will then be able to use it in the Chat menu.",
         "languages": null,
         "size": 3145728
+    },
+    "70050000032587": {
+        "id": null,
+        "rightsId": null,
+        "name": "Monster Hunter Rise: Sunbreak",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220630,
+        "nsuId": 70050000032587,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d893b73dbd9df59ebeb8975bdd3a91832161bd174917a2b7740b849de2e11412.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f1d5c40c9045db89e0011a78af16d79f6140e54901ae5815687e1497ccaa1d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e9cb3b28afa6cd17d9853d891547b0eb428764966eebad0d0665a7cb2c31700.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/003f9b0b7e95e817e5fcd4025ab470499a6070a2a685ba87c14b5a07954f3283.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75d2e83adc81ee5dd2304df684cea4f61aae3c29a64073cb53f7e18581ba4efa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b0d8cfc16a8d0328ddd3bc6d01606724a289b8a341000103047b2ebe1458468d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1a8f025f0108206f4358eee82c0184f48827743c7d645ba814b79011e7a078db.jpg",
+        "intro": "Monster Hunter Rise: Sunbreak expansion",
+        "description": "The world of Monster Hunter Rise gets bigger and deeper with this massive expansion featuring new monsters, new locales and more!\n\nNote: You must own Monster Hunter Rise in order to play this expansion. Sunbreak content is accessible after completion of the 7-star Hub quest \u201cSerpent Goddess of Thunder\u201d.\n\nSupport for Korean, Simplified Chinese and Traditional Chinese will be added via update scheduled for release on 30/6/2022.",
+        "languages": null,
+        "size": 0
+    },
+    "70050000032598": {
+        "id": null,
+        "rightsId": null,
+        "name": "Monster Hunter Rise: Sunbreak Deluxe Kit",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220630,
+        "nsuId": 70050000032598,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/75ccc4a2015820089c82fdd268cdd67a0fc57bb759552201d706a77e904cc961.jpg",
+        "intro": "Enjoy a bundle of great additional content!",
+        "description": "Enjoy a bundle of great additional content:\n\n\u2022 \"Dragonsbane\" hunter layered armor set\n\u2022 \"C Hound\" Palamute layered armor set\n\u2022 \"F Devout\" Palico layered armor set\n\u2022 \"Take Aim\" gesture set (4 gestures)\n\u2022 Fight Pose Set (3 poses)\n\u2022 \"Elegant Eyes\" makeup\n\u2022 \"Fluffy Curls\" hairstyle\n\nNote: Layered armor is a \"skin\" which changes the appearance of the character without affecting their stats and abilities. The additional content included in this Deluxe Kit is the same as that included in the Deluxe Edition. Monster Hunter Rise required; can be used without purchasing Monster Hunter Rise: Sunbreak.",
+        "languages": null,
+        "size": 0
     },
     "70050000032638": {
         "id": "010032E0163ED001",
@@ -56445,7 +56713,7 @@
         "intro": null,
         "description": "Pre-order the game and get day one access to the Trooper Character DLC Pack.  The digital edition also includes an exclusive classic Obi-Wan Kenobi playable character.  \n\nGet the LEGO Star Wars: The Skywalker Saga Digital Deluxe Edition and enjoy more of the galaxy far, far away.  In addition to the base game, the Deluxe Edition includes seven DLC packs in a Character Collection bundle:    \n- The Mandalorian Season 1\n- The Mandalorian Season 2\n- Rogue One: A Star Wars Story\n- Classic Characters \n- Solo: A Star Wars Story\n- Star Wars: The Bad Batch\n- Trooper Pack - Get day one access to this pack by pre-ordering the game.\n\nWith the base game, you can play through all nine Star Wars saga films in a brand-new LEGO video game unlike any other! Experience fun-filled adventures, whimsical humor, and the freedom to fully immerse yourself in the LEGO Star Wars galaxy.\n\nWant to play as a Jedi? A Sith? Rebel, bounty hunter, or droid? LEGO Star Wars: The Skywalker Saga features hundreds of playable characters from throughout the galaxy. Whether on land or in space, a variety of vehicles are yours to command. Jump to light speed in the Millennium Falcon, fly the T-47 Airspeeder and battle TIE fighters in Resistance X-wings\u2026 it's the ULTIMATE LEGO Star Wars experience.",
         "languages": null,
-        "size": 0
+        "size": 68157440
     },
     "70070000013592": {
         "id": null,
@@ -56481,6 +56749,44 @@
         "description": "Pack of three multiplayer games.\n\n- Overlanders\n- Retro Game Pack\n- Multi Quiz",
         "languages": null,
         "size": 7297040384
+    },
+    "70070000013653": {
+        "id": null,
+        "rightsId": null,
+        "name": "Monster Hunter Rise: Sunbreak Deluxe Edition",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220630,
+        "nsuId": 70070000013653,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Blood",
+            "Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d893b73dbd9df59ebeb8975bdd3a91832161bd174917a2b7740b849de2e11412.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f1d5c40c9045db89e0011a78af16d79f6140e54901ae5815687e1497ccaa1d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e9cb3b28afa6cd17d9853d891547b0eb428764966eebad0d0665a7cb2c31700.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/003f9b0b7e95e817e5fcd4025ab470499a6070a2a685ba87c14b5a07954f3283.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75d2e83adc81ee5dd2304df684cea4f61aae3c29a64073cb53f7e18581ba4efa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b0d8cfc16a8d0328ddd3bc6d01606724a289b8a341000103047b2ebe1458468d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/313a480a021228349a0bdefac2209f8c64407c5f208500ea8d23bc0edd456f8e.jpg",
+        "intro": "Enjoy a bundle of great additional content together with the massive expansion Monster Hunter Rise: Sunbreak in this Deluxe Edition!",
+        "description": "Enjoy a bundle of great additional content together with the massive expansion Monster Hunter Rise: Sunbreak in this Deluxe Edition!\n\nContains the Sunbreak expansion and the following DLC:\n\u2022 \"Dragonsbane\" hunter layered armor set\n\u2022 \"C Hound\" Palamute layered armor set\n\u2022 \"F Devout\" Palico layered armor set\n\u2022 \"Take Aim\" gesture set (4 gestures)\n\u2022 Fight Pose Set (3 poses)\n\u2022 \"Elegant Eyes\" makeup\n\u2022 \"Fluffy Curls\" hairstyle\n\nSupport for Korean, Simplified Chinese and Traditional Chinese will be added via update scheduled for release on 30/6/2022.",
+        "languages": null,
+        "size": 0
     },
     "70070000013681": {
         "id": null,
