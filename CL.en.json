@@ -21164,9 +21164,11 @@
         "category": [
             "Arcade"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
         "numberOfPlayers": 1,
-        "rating": 6,
+        "rating": 10,
         "developer": null,
         "publisher": "Art Games Studio",
         "frontBoxArt": null,
@@ -21415,7 +21417,9 @@
             "Shooter",
             "Action"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
         "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
@@ -23503,11 +23507,10 @@
             "Arcade"
         ],
         "ratingContent": [
-            "Blood",
-            "Mild Language",
-            "Partial Nudity",
-            "Suggestive Themes",
-            "Violence"
+            "Fantasy Violence",
+            "Mild Blood",
+            "Mild Suggestive Themes",
+            "Partial Nudity"
         ],
         "numberOfPlayers": 2,
         "rating": 13,
@@ -26716,7 +26719,7 @@
         "languages": [
             "en"
         ],
-        "size": 332398592
+        "size": 374341632
     },
     "70010000047077": {
         "id": "01008CD0168EC000",
@@ -27503,10 +27506,10 @@
             "Fighting"
         ],
         "ratingContent": [
-            "Blood",
             "Language",
-            "Partial Nudity",
+            "Mild Blood",
             "Suggestive Themes",
+            "Use of Tobacco",
             "Violence",
             "Users Interact"
         ],
@@ -31643,6 +31646,53 @@
         ],
         "size": 960495616
     },
+    "70010000048792": {
+        "id": "01006C7017062000",
+        "rightsId": null,
+        "name": "Aaron - The Little Detective",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220402,
+        "nsuId": 70010000048792,
+        "category": [
+            "Adventure",
+            "Education",
+            "Study",
+            "Training"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Asylum Square Interactive",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c0befcda51f2c28ab9ff8c59366726f1149340b4115769753b8f0c20b906fe25.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/616cc68de340fb82e2a7744f0ed9fbff4d13ef42adbd0a2df101ba2ccae130ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/789c07f485b0f886482017028089d042d96d8a3f5af6a37135eeb2891ea26248.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b6dc9d6e252eb2e091c02fc67a8fb3551444271f72ede8c3df1d5025c72ff7d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ef3917ff3807e74e7cfc94726c394fed31edbd4a5d72d1eb27ea0d0e34d559f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf86e04ce51ee61d45265ea748a832ad4d88e196b8cb79621c2b0a7072ecbe1e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6fadad66efa3283d1aaa2f3c3665a669348b8c4acc22db8f73bdade1125baba6.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f86bf10dcacc6ee806fc3cdc1b6af759812d3824ab1566ff12752ba90d0bcdb6.jpg",
+        "intro": "A Hidden Object Search Game for Kids and Toddlers",
+        "description": "Who doesn't love them? The small and detailed hidden object pictures that challenge children to find certain items. They have been proven to promote children's perception and language progression.\n\nAaron - The Little Detective can be played by children of any age. Thanks to the voice output, even toddlers are able to explore the hidden object pictures on their own. They do not need to be able to read to have a sense of achievement. Concentration and attentiveness are taught in a playful way.\n\nIncidentally, a study conducted by the Singapore Technological University proved the fact that hidden object games increase the understanding of spatial perception in memory. In addition, visual search skills were noticeably improved.\n\nThe game can also be used to support language learning. Simply select the desired language in the settings and start playing.\n\nWhat are you waiting for? Family fun for young and old.\n\n- Explore the scenic places\n- Find objects and treasures\n- 12 great scenes\n- Voice output in 9 languages\n- Pure puzzle fun in this hidden object adventure\n- Pop balloons when you have discovered all objects\n- Promotes language development and cognitive perception",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "size": 218103808
+    },
     "70010000048812": {
         "id": "010035B01706E000",
         "rightsId": null,
@@ -32192,7 +32242,7 @@
             "ko",
             "zh"
         ],
-        "size": 1390411776
+        "size": 1894776832
     },
     "70010000048983": {
         "id": "010007F017140000",
@@ -33366,6 +33416,7 @@
         ],
         "ratingContent": [
             "Blood",
+            "Simulated Gambling",
             "Violence"
         ],
         "numberOfPlayers": 1,
@@ -34007,6 +34058,7 @@
         ],
         "ratingContent": [
             "Blood",
+            "Strong Language",
             "Use of Drugs",
             "Violence"
         ],
@@ -34028,7 +34080,11 @@
         "intro": "An eccentric FMV murder mystery with a twist",
         "description": "The family quiz is a long-held tradition but this year, Abby receives some shocking news: someone has poisoned Uncle Marcus! Make decisions throughout the story to uncover the truth and try to save him before it is too late.\n\n- Shot in lockdown and filmed simultaneously in London and Los Angeles\n- Starring Andy Buckley (The Office) as Uncle Marcus\n- Starring Susannah Doyle (Black Mirror) and Robbie Kay (Once Upon a Time)\n- Returning FMV actors Georgia Small (Five Dates) and Al Weaver (The Complex)\n- From the studios behind The Complex, Five Dates, Night Book and Bloodshore\n",
         "languages": [
-            "en"
+            "en",
+            "fr",
+            "de",
+            "ru",
+            "zh"
         ],
         "size": 11666456576
     },
@@ -36714,9 +36770,11 @@
             "Adventure",
             "Education"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Suggestive Themes"
+        ],
         "numberOfPlayers": 1,
-        "rating": 6,
+        "rating": 10,
         "developer": null,
         "publisher": "Midnight Works",
         "frontBoxArt": null,
@@ -37263,11 +37321,11 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Fantasy Violence",
-            "Mild Blood"
+            "Blood",
+            "Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 10,
+        "rating": 13,
         "developer": null,
         "publisher": "Gametry",
         "frontBoxArt": null,
@@ -37616,7 +37674,7 @@
         "intro": null,
         "description": null,
         "languages": null,
-        "size": 1756364800,
+        "size": 1751121920,
         "parentId": "01002430155DA000"
     },
     "70030000014373": {
@@ -45380,7 +45438,7 @@
         "intro": null,
         "description": "Beauty is its strength! Obviously, we are talking about Vega's vehicle that, just like the Spanish Ninja who inspired it, makes aesthetic perfection its secret weapon. \nIt's a racing car with an aerodynamic design that recalls a Formula 1 with an aggressive double front wing, characterized by the famous white mask of Vega and its formidable claws on the side.\n\nVanity might even be a sin, but how not to brag about all the victories that HOT WHEELS\u2122 - Street Fighter Vega will bring you? Watch your opponents surrender and cross the finish line\u2026 Have you ever seen anything more beautiful?\n\nThis DLC is included in the HOT WHEELS\u2122 Pass Vol. 2",
         "languages": null,
-        "size": 0
+        "size": 3145728
     },
     "70050000028881": {
         "id": null,
@@ -45415,7 +45473,7 @@
         "intro": null,
         "description": "When you own a car like this one you know you've really arrived. Most likely, right on the top step of the podium. Obviously, we are talking about Corvette Stingray Convertible 2014, a sports car with an unmistakable design. \n\nBut this jewel on four wheels is not just aesthetics and appearances: this Corvette is as beautiful as it is fast. Engineered for the road, on the track it will unleash the full power of its V8 engine and its 450 hp, leaving all its opponents behind. \nFeel cool with the hottest car around and cross the finish line with Corvette Stingray Convertible 2014. Add it to your collection now!\n\nThis DLC is included in the HOT WHEELS\u2122 Pass Vol. 2",
         "languages": null,
-        "size": 0
+        "size": 3145728
     },
     "70050000028882": {
         "id": null,
@@ -45450,7 +45508,7 @@
         "intro": null,
         "description": "The legend of Ayrton Senna lives on in this jewel of design and speed. A faithful replica of the real sports car created by the British automotive brand, McLaren Senna combines the DNA of the Formula 1 team with the monumental class of the immortal Brazilian 3-time world champion, together in a masterpiece that creates the purest connection between car and driver. \n\nLaunch this coupe down the straight and prepare to be amazed. Pass everyone and get to Senna's favorite place: the top step of the podium. And at the same speed, add it to your collection!\n\nThis DLC is included in the HOT WHEELS\u2122 Pass Vol. 2",
         "languages": null,
-        "size": 0
+        "size": 3145728
     },
     "70050000028885": {
         "id": null,
@@ -46173,7 +46231,7 @@
         "intro": null,
         "description": "Jumps, ramps and tricks are the elements that will turn your Basement into a real Skaters\u2019 Paradise! Whether you can barely complete an Ollie or are able to land a 900 like a pro, everyone deserves a Basement that shows your pure passion for skateboarding! \n\nWith the special HOT WHEELS\u2122 - Skaters Customization Pack, you will get 8 super cool elements to decorate walls, floors and doors. With couch and themed posters included! Customize your Unleashed Profile with a dedicated icon, tag and background and hit the track with your passion for tricks in breathtaking races, challenging your opponents in your own temple of skate!\n\nThis DLC contains:\n\nFor the Basement: \n- 2 walls\n- 2 floors\n- 1 door\n- 1 decoration\n- 1 couch\n- 1 set of 4 posters\n\nFor the Unleashed Profile: \n- 1 icon\n- 1 tag\n- 1 background\n\nThis DLC is included in the HOT WHEELS\u2122 Pass Vol. 2",
         "languages": null,
-        "size": 0
+        "size": 3145728
     },
     "70050000029613": {
         "id": null,
@@ -46208,7 +46266,7 @@
         "intro": null,
         "description": "There's definitely some monkey business going on here! The new Gorilla Garage module is ready to bring the challenge to a whole new level of craziness! \n\nThis furious giant just can't stand those who leave the doors open and with noises, huffs and puffs - and big punches - is ready to fix the situation. So be careful when he raises his powerful arms, because right after he will hit the garage, closing the doors and blocking the passage! Timing and quick reflexes will be your winning weapons to tame his unstoppable fury. \n\nAdd some wild fun to your track with HOT WHEELS\u2122 - Gorilla Garage Module!\n\nThis DLC is included in the HOT WHEELS\u2122 Pass Vol. 2",
         "languages": null,
-        "size": 0
+        "size": 3145728
     },
     "70050000029614": {
         "id": null,
@@ -48946,11 +49004,10 @@
         "nsuId": 70050000030964,
         "category": null,
         "ratingContent": [
-            "Blood",
-            "Mild Language",
-            "Partial Nudity",
-            "Suggestive Themes",
-            "Violence"
+            "Fantasy Violence",
+            "Mild Blood",
+            "Mild Suggestive Themes",
+            "Partial Nudity"
         ],
         "numberOfPlayers": null,
         "rating": 13,
@@ -53996,7 +54053,7 @@
         ]
     },
     "70050000032227": {
-        "id": null,
+        "id": "010082A01538F0D4",
         "rightsId": null,
         "name": "Sophie/Plachta/Ramizel/Alette's Costume \"Bunny-Eared Salesgirl\"",
         "version": null,
@@ -54026,10 +54083,13 @@
         "intro": "Try on that Caf\u00e9 girl's outfit!",
         "description": "A set of costumes for Sophie, Plachta, Ramizel, and Alette, based on Tess's costume from \"Atelier Sophie: The Alchemist of the Mysterious Book\".\n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
         "languages": null,
-        "size": 25165824
+        "size": 25165824,
+        "ids": [
+            "010082A01538F0D4"
+        ]
     },
     "70050000032229": {
-        "id": null,
+        "id": "010082A01538F2BC",
         "rightsId": null,
         "name": "Recipe Expansion Pack \"The Art of Synthesis\"",
         "version": null,
@@ -54060,10 +54120,13 @@
         "intro": "New synthesis recipes!",
         "description": "A set of 10 synthesis item recipes and 2 new catalysts.\n\nNote: New recipes and catalysts can be purchased from Gnome at \"Crystal Sparkle Pavilion\" after progressing the story.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
         "languages": null,
-        "size": 4194304
+        "size": 4194304,
+        "ids": [
+            "010082A01538F2BC"
+        ]
     },
     "70050000032231": {
-        "id": null,
+        "id": "010082A01538F2BD",
         "rightsId": null,
         "name": "Recipe Expansion Pack \"The Art of Battle\"",
         "version": null,
@@ -54094,10 +54157,13 @@
         "intro": "New battle items recipes!",
         "description": "A set of 10 new battle item recipes and 5 new talisman recipes.\n\nNote: New recipes can be purchased from Gnome at \"Crystal Sparkle Pavilion\" after progressing the story.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
         "languages": null,
-        "size": 6291456
+        "size": 6291456,
+        "ids": [
+            "010082A01538F2BD"
+        ]
     },
     "70050000032232": {
-        "id": null,
+        "id": "010082A01538F12D",
         "rightsId": null,
         "name": "Gust Extra BGM Pack",
         "version": null,
@@ -54127,7 +54193,44 @@
         "intro": "BGM tracks from the past GUST titles!",
         "description": "A set of more than 350 BGM tracks from older GUST titles, including \"Atelier Ryza 2: Lost Legends & the Secret Fairy\" and \"BLUE REFLECTION\".\n\nNote: In-game BGM can be changed from the desk at the atelier.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
         "languages": null,
-        "size": 1134559232
+        "size": 1134559232,
+        "ids": [
+            "010082A01538F12D"
+        ]
+    },
+    "70050000032235": {
+        "id": null,
+        "rightsId": null,
+        "name": "Extra Area \"Heartscape\"",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220322,
+        "nsuId": 70050000032235,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Fantasy Violence",
+            "Suggestive Themes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a3cf0cdff7c69106c6e7fd4593256b27597bdfb1b94ab74354c061458d665988.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3379cda21f64af477a319c9c003fad66502a07064c2f3a93343231714263bb45.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4b4fd17c312c07c385c2ee537f3d34090bf80945195ffe7eb50fd95c98a3d1a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52f1e9046d1d928873f35229580b97a3319c96aa46e8df426d65c18cf24b1d8f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c0f34bec25aebe7001a31f0196f7317341425c6866cccc3b77bf447465573d9f.jpg",
+        "intro": "\"BLUE REFLECTION: Second Light\" collaboration area!",
+        "description": "Two new exploration areas based on Hinako's and Yuzu/Lime's \"Heartscapes\" from \"BLUE REFLECTION: Second Light\".\n\nNote: These areas will be added after you return to the atelier after you reach the point where you can accept requests from the \"Crystal Sparkle Pavilion\".\nPlease visit the official website for more information. ",
+        "languages": null,
+        "size": 114294784
     },
     "70050000032237": {
         "id": null,
@@ -56003,6 +56106,270 @@
             "0100763015C2F003"
         ]
     },
+    "70050000033380": {
+        "id": "01002F70132250CA",
+        "rightsId": null,
+        "name": "The Elf and the Hidden Royal Lineage Swimsuit Set + New Ranger Care Package Item Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220322,
+        "nsuId": 70050000033380,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Marvelous (XSEED)",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bff3f4f7c5dfbb2c5916d99e285e533470bbb2b23fec389dddb46dbdbd693a59.jpg",
+        "intro": "Change your outfit with \"The Elf and the Hidden Royal Lineage Swimsuit Set\" and get a head start with the \"New Ranger Care Package Item Pack\"",
+        "description": "Soak up the sun on Beach Day dressed as Rune Factory 4 favorites, Margaret and Arthur!\n\nGet a helping hand as a rookie Ranger, with a set of items to get you started. \n\nThe New Ranger Care Package Item Pack includes:\n9 x Orange Juice\n9 x Cooking Bread\n9 x Tomato Seed\n9 x Healing Potion",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01002F70132250CA"
+        ]
+    },
+    "70050000033381": {
+        "id": "01002F70132250CB",
+        "rightsId": null,
+        "name": "The Marionette and the Glorious Horse Swimsuit Set + New Ranger Care Package Item Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220322,
+        "nsuId": 70050000033381,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Marvelous (XSEED)",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a042cf32174caf2db4aa47da3f810ac71a77e0f5d830fdfe4055956786f95b71.jpg",
+        "intro": "Change your outfit with \"The Marionette and the Glorious Horse Swimsuit Set\" and get a head start with the \"New Ranger Care Package Item Pack\"",
+        "description": "Soak up the sun on Beach Day dressed as Rune Factory 4 favorites, Dolce and Dylas!\n\nGet a helping hand as a rookie Ranger, with a set of items to get you started. \n\nThe New Ranger Care Package Item Pack includes:\n9 x Orange Juice\n9 x Cooking Bread\n9 x Tomato Seed\n9 x Healing Potion",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01002F70132250CB"
+        ]
+    },
+    "70050000033382": {
+        "id": "01002F70132250CC",
+        "rightsId": null,
+        "name": "The Young Proprietress and the Dwarf Swimsuit Set + New Ranger Care Package Item Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220322,
+        "nsuId": 70050000033382,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Marvelous (XSEED)",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1d78390ea7c6a7ef1c72f592de7a4c106b7c5e540ed089e7c43eff0c46caf2ef.jpg",
+        "intro": "Change your outfit with \"The Young Proprietress and the Dwarf Swimsuit Set\" and get a head start with the \"New Ranger Care Package Item Pack\"",
+        "description": "Soak up the sun on Beach Day dressed as Rune Factory 4 favorites, Xiao Pai and Doug!\n\nGet a helping hand as a rookie Ranger, with a set of items to get you started. \n\nThe New Ranger Care Package Item Pack includes:\n9 x Orange Juice\n9 x Cooking Bread\n9 x Tomato Seed\n9 x Healing Potion",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01002F70132250CC"
+        ]
+    },
+    "70050000033383": {
+        "id": "01002F70132250CD",
+        "rightsId": null,
+        "name": "Famous Butlers Swimsuit Set + New Ranger Care Package Item Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220322,
+        "nsuId": 70050000033383,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Marvelous (XSEED)",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/288c0ad1beb55535c3f6eed52275c41b3cdcb2517219edc617bddabe77e0d620.jpg",
+        "intro": "Change your outfit with the \"Famous Butlers Swimsuit Set\" and get a head start with the \"New Ranger Care Package Item Pack\"",
+        "description": "Soak up the sun on Beach Day dressed as Rune Factory 4 favorites, Clorica and Vishnal!\n\nGet a helping hand as a rookie Ranger, with a set of items to get you started. \n\nThe New Ranger Care Package Item Pack includes:\n9 x Orange Juice\n9 x Cooking Bread\n9 x Tomato Seed\n9 x Healing Potion",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01002F70132250CD"
+        ]
+    },
+    "70050000033384": {
+        "id": "01002F70132250CE",
+        "rightsId": null,
+        "name": "The Resplendent Butterfly and the Priest Swimsuit Set + New Ranger Care Package Item Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220322,
+        "nsuId": 70050000033384,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Marvelous (XSEED)",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b29882e1a4dedb6667b3810be244e34eeb355ae61764b3ec387771639eb95dc5.jpg",
+        "intro": "Change your outfit with \"The Resplendent Butterfly and the Priest Swimsuit Set\" and get a head start with the \"New Ranger Care Package Item Pack\"",
+        "description": "Soak up the sun on Beach Day dressed as Rune Factory 4 favorites, Amber and Leon!\n\nGet a helping hand as a rookie Ranger, with a set of items to get you started. \n\nThe New Ranger Care Package Item Pack includes:\n9 x Orange Juice\n9 x Cooking Bread\n9 x Tomato Seed\n9 x Healing Potion",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01002F70132250CE"
+        ]
+    },
+    "70050000033385": {
+        "id": "01002F70132250D0",
+        "rightsId": null,
+        "name": "Rune Factory Outfits: Raguna and Mist",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220322,
+        "nsuId": 70050000033385,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Marvelous (XSEED)",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9b3bd7cd05a8efe187df04046c5e0cb683d200c81fdc55d3b13ea5efba73dd19.jpg",
+        "intro": "Change your look with classic costumes from the original Rune Factory.",
+        "description": "Dress up your character as Raguna or Mist from Rune Factory.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01002F70132250D0"
+        ]
+    },
+    "70050000033386": {
+        "id": "01002F70132250D1",
+        "rightsId": null,
+        "name": "Rune Factory 2 Outfits: Kyle and Mana",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220322,
+        "nsuId": 70050000033386,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Marvelous (XSEED)",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b831ba76d831cbaeabd8b937393306f1e9cacc138e16b5b588bd3fcd9d546b48.jpg",
+        "intro": "Change your look with classic costumes from Rune Factory 2.",
+        "description": "Dress up your character as Kyle or Mana from Rune Factory 2.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01002F70132250D1"
+        ]
+    },
+    "70050000033387": {
+        "id": "01002F70132250D2",
+        "rightsId": null,
+        "name": "Rune Factory 3 Outfits: Micah and Shara",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220322,
+        "nsuId": 70050000033387,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Marvelous (XSEED)",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0c7716507c000d8db2a872bf1ce446a85d5d7c9791df5e356bc13ed8fe3c7776.jpg",
+        "intro": "Change your look with classic costumes from Rune Factory 3.",
+        "description": "Dress up your character as Micah or Shara from Rune Factory 3.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01002F70132250D2"
+        ]
+    },
     "70050000033435": {
         "id": null,
         "rightsId": null,
@@ -57068,7 +57435,7 @@
         "intro": null,
         "description": "With HOT WHEELS\u2122 Pass Vol. 2 you will get new vehicles, new game experiences and new customizations as soon as they become available.\n\nThe pack includes:\n- Monster Trucks Expansion: 1 environment, 5 vehicles, 1 Customization Pack and 1 Track Builder module\n- 9 Vehicles: TMNT Michelangelo, AcceleRacers Power Rage\u2122, Street Fighter Chun-Li, Street Fighter Vega, Corvette Stingray Convertible 2014, McLaren Senna, Street Fighter Ryu, TMNT Raphael and AcceleRacers Hollowback\u2122\n- 3 Themed Customization Packs: Outer Space, Skaters and Haunted\n- 3 Track Builder modules: Booster Slam, Gorilla Garage and Shark Jaws",
         "languages": null,
-        "size": 15728640
+        "size": 31457280
     },
     "70070000012394": {
         "id": null,
@@ -59044,9 +59411,9 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3af4132ddbea2da4f00b1498988b26f0abacf29acb59deef789548dc53632435.jpg",
         "intro": "A mysterious story of a mysterious dream \u2026",
-        "description": "This is a story about one of the adventures Sophie the Alchemist had after she left her hometown of Kirchen Bell. It is centered around Sophie's quest of searching for Plachta after they are separated in a dream world of Erde Wiege, and the new friends they meet there.\n\nIn this set:\n- Atelier Sophie 2: The Alchemist of the Mysterious Dream Digital Deluxe Edition\n- Atelier Sophie 2 Season Pass\nAccess to 14 DLCs that will be added in the future. The Season Pass content will become available starting from March 2022.\n- Season Pass Bonus: Sophie/Ramizel's Costumes \"Grandma's Outfit (Matching Set)\"\nA pair of costumes for Sophie and Ramizel based on a special costume previously released for \"Atelier Sophie: The Alchemist of the Mysterious Book\".\n\nIncluded in the Season Pass:\n1. Sophie's Costume \"Alchemist of the Mysterious Journey\"\n2. Plachta's Costume \"Haute Couture\"\n3. Ramizel's Costume \"Ertona Hunter\"\n4. Sophie/Plachta/Ramizel/Alette's Costumes \"Bunny-Eared Salesgirl\"\n5. Recipe Expansion Pack \"The Art of Synthesis\"\n6. Recipe Expansion Pack \"The Art of Battle\"\n7. Gust Extra BGM Pack\n8. Sophie's Swimsuit \"White Canvas\"\n9. Plachta's Swimsuit \"Clivia Nobilis\"\n10. Ramizel's Swimsuit \"Agapanthus Romance\"\n11. Alette's Swimsuit \"Rainmaker\"\n12. Olias's Swimsuit \"Vegetable Garden\"\n13. Diebold's Swimsuit \"Knight Commander\"\n14. Extra Scenario/Area \"Atelier Plachta\"\n\nNote: Items 1 to 7 are planned to be released before the end of April 2022, and items 8 to 14 are planned to be released before the end of May 2022.\nItems 1 to 4 and 8 to 13 are individual character costumes. Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nItems 5 and 6 add new recipes and catalysts that can be purchased from Gnome at \"Crystal Sparkle Pavilion\" after progressing the story.\nItem 7 adds new in-game BGM tracks that can be changed at the desk in the atelier.\nItem 14 will feature an additional story episode with young Plachta as the main character, set in the time after she arrived in Erde Wiege and before she first met Sophie. Players will play as Plachta, with Diebold and Ramizel available as party members. This DLC will also feature a unique area and new items.\nThe content of the Season Pass, release dates and order are subject to change without notice. Please visit the official website for more information.\nAtelier Sophie 2 Season Pass and all items included in it can be purchased separately at a later date. Please avoid making redundant purchases.\nPlease beware that the main game and other sets featuring same items are currently available for purchase separately and in other sets as well.",
+        "description": "This is a story about one of the adventures Sophie the Alchemist had after she left her hometown of Kirchen Bell. It is centered around Sophie's quest of searching for Plachta after they are separated in a dream world of Erde Wiege, and the new friends they meet there.\n\nIn this set:\n- Atelier Sophie 2: The Alchemist of the Mysterious Dream Digital Deluxe Edition\n- Atelier Sophie 2 Season Pass\nAccess to 14 DLCs that will be added in the future. The Season Pass content will become available starting from March 2022.\n- Season Pass Bonus: Sophie/Ramizel's Costumes \"Grandma's Outfit (Matching Set)\"\nA pair of costumes for Sophie and Ramizel based on a special costume previously released for \"Atelier Sophie: The Alchemist of the Mysterious Book DX\".\n\nIncluded in the Season Pass:\n1. Sophie's Costume \"Alchemist of the Mysterious Journey\"\n2. Plachta's Costume \"Haute Couture\"\n3. Ramizel's Costume \"Ertona Hunter\"\n4. Sophie/Plachta/Ramizel/Alette's Costumes \"Bunny-Eared Salesgirl\"\n5. Recipe Expansion Pack \"The Art of Synthesis\"\n6. Recipe Expansion Pack \"The Art of Battle\"\n7. Gust Extra BGM Pack\n8. Sophie's Swimsuit \"White Canvas\"\n9. Plachta's Swimsuit \"Clivia Nobilis\"\n10. Ramizel's Swimsuit \"Agapanthus Romance\"\n11. Alette's Swimsuit \"Rainmaker\"\n12. Olias's Swimsuit \"Vegetable Garden\"\n13. Diebold's Swimsuit \"Knight Commander\"\n14. Extra Scenario/Area \"Atelier Plachta\"\n\nNote: Items 1 to 7 are planned to be released before the end of April 2022, and items 8 to 14 are planned to be released before the end of May 2022.\nItems 1 to 4 and 8 to 13 are individual character costumes. Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nItems 5 and 6 add new recipes and catalysts that can be purchased from Gnome at \"Crystal Sparkle Pavilion\" after progressing the story.\nItem 7 adds new in-game BGM tracks that can be changed at the desk in the atelier.\nItem 14 will feature an additional story episode with young Plachta as the main character, set in the time after she arrived in Erde Wiege and before she first met Sophie. Players will play as Plachta, with Diebold and Ramizel available as party members. This DLC will also feature a unique area and new items.\nThe content of the Season Pass, release dates and order are subject to change without notice. Please visit the official website for more information.\nAtelier Sophie 2 Season Pass and all items included in it can be purchased separately at a later date. Please avoid making redundant purchases.\nPlease beware that the main game and other sets featuring same items are currently available for purchase separately and in other sets as well.",
         "languages": null,
-        "size": 6819938304
+        "size": 7990149120
     },
     "70070000013573": {
         "id": null,
@@ -59281,7 +59648,7 @@
         "intro": "Get the full experience with the Season Pass!",
         "description": "This item grants access to 14 DLCs that will be added in the future for a discounted price. The Season Pass content will become available starting from March 2022.\n\nFeatured content:\n- Season Pass Bonus: Sophie/Ramizel's Costumes \"Grandma's Outfit (Matching Set)\"\nA pair of costumes for Sophie and Ramizel based on a special costume previously released for \"Atelier Sophie: The Alchemist of the Mysterious Book DX\".\n\nIncluded in the Season Pass:\n1. Sophie's Costume \"Alchemist of the Mysterious Journey\"\n2. Plachta's Costume \"Haute Couture\"\n3. Ramizel's Costume \"Ertona Hunter\"\n4. Sophie/Plachta/Ramizel/Alette's Costumes \"Bunny-Eared Salesgirl\"\n5. Recipe Expansion Pack \"The Art of Synthesis\"\n6. Recipe Expansion Pack \"The Art of Battle\"\n7. Gust Extra BGM Pack\n8. Sophie's Swimsuit \"White Canvas\"\n9. Plachta's Swimsuit \"Clivia Nobilis\"\n10. Ramizel's Swimsuit \"Agapanthus Romance\"\n11. Alette's Swimsuit \"Rainmaker\"\n12. Olias's Swimsuit \"Vegetable Garden\"\n13. Diebold's Swimsuit \"Knight Commander\"\n14. Extra Scenario/Area \"Atelier Plachta\"\n\nNote: Items 1 to 7 are planned to be released before the end of April 2022, and items 8 to 14 are planned to be released before the end of May 2022.\nItems 1 to 4 and 8 to 13 are individual character costumes. Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nItems 5 and 6 add new recipes and catalysts that can be purchased from Gnome at \"Crystal Sparkle Pavilion\" after progressing the story.\nItem 7 adds new in-game BGM tracks that can be changed at the desk in the atelier.\nItem 14 will feature an additional story episode with young Plachta as the main character, set in the time after she arrived in Erde Wiege and before she first met Sophie. Players will play as Plachta, with Diebold and Ramizel available as party members. This DLC will also feature a unique area and new items.\nThe content of the Season Pass, release dates and order are subject to change without notice. \nPlease visit the official website for more information. \nPlease beware that all items included in the Season Pass can be purchased separately. Please avoid making redundant purchases.\nPlease beware that the \"Atelier Sophie 2: The Alchemist of the Mysterious Dream Ultimate Edition\" set that includes the main game and the Season Pass is also available. ",
         "languages": null,
-        "size": 44040192,
+        "size": 1214251008,
         "ids": []
     },
     "70070000013723": {
@@ -59525,5 +59892,35 @@
         "description": "Welcome to Sushi Time! \n\nManage a sushi bar and become a tycoon of Japanese food!\n \nTry to deliver the orders on time, but be careful not to mix them up! \n\nUpgrade your bar and beautify it, so that you'll be able to create the best sushi in town!\n\nTo work!\n\nIN SUSHI TIME! YOU WILL FIND:\n\n\u2022 60+ levels to explore, 50+ sushi types to serve.\n\u2022 Great cartoonish graphics, music and sound effects.\n\u2022 Upgrades you can apply to the bar and its decorations.\n\u2022 20+ Achievements to complete.\n\u2022 Easy to play and hard to master.\n\nGo ahead, Give it a try!\n\nBUNDLE INCLUDES SUSHI TIME! EXPANSION PACK #1 AND #2 WITH 20 LEVELS EACH!",
         "languages": null,
         "size": 153092096
+    },
+    "70070000013838": {
+        "id": null,
+        "rightsId": null,
+        "name": "Rune Factory Series Outfit Set",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220322,
+        "nsuId": 70070000013838,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Language",
+            "Mild Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Marvelous (XSEED)",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b0b6d31b3a4aae8287bf046b26056aa2d7346816d7f02ac3396fd53a2e9193fd.jpg",
+        "intro": "Change your look with classic costumes from across the Rune Factory series.",
+        "description": "This set contains the following outfits from past games in the Rune Factory series:\n- Rune Factory Outfits: Raguna and Mist\n- Rune Factory 2 Outfits: Kyle and Mana\n- Rune Factory 3 Outfits: Micah and Shara",
+        "languages": null,
+        "size": 9437184
     }
 }
