@@ -5344,7 +5344,7 @@
             "ko",
             "zh"
         ],
-        "size": 14908653568
+        "size": 15116271616
     },
     "70010000018205": {
         "id": "01000BD00CE64000",
@@ -6566,6 +6566,54 @@
         ],
         "size": 908066816
     },
+    "70010000020362": {
+        "id": "010029300E5C4000",
+        "rightsId": null,
+        "name": "The Stanley Parable: Ultra Deluxe",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220427,
+        "nsuId": 70010000020362,
+        "category": [
+            "Adventure",
+            "First-Person Shooter",
+            "Other"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood",
+            "Mild Language",
+            "Tobacco Reference"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Crows Crows Crows",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c7ef450d370134cbd839494d161f2ee0c8ff875ae7b5a2e54c1cc10b2322fb0f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/38f408b32ff993938a57c0c23859437c45f45bbd4c5801334724b356f15a81a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af71776e3f507dabcbb77435c17523c14af42495426fc01c5149e3fd644fb853.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/326d1052a84ae176202477db0c0b230627dc43a3e29d3e31842b759785a95dcf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/138af58d89635d5160777381c585500f23141761d80245df81b0470e41af5c80.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/141491fc70dd8cead73a502d0c94d65c8f710e6287dc21303238ae0a39f25e52.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d4c2daa8fa00e180e295c8c16bfa41e561fff6f32716ac50d57f98033f03506.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a74239685a51ad4dee1b7d6f8a3f1f22edf65257b2161a0632a5cb2ad5cc644.jpg",
+        "intro": "The Stanley Parable: Ultra Deluxe is a first person adventure game. ",
+        "description": "You will play as Stanley, and you will not play as Stanley. You will make a choice, and you will have your choices taken from you. The game will end, the game will never end. Contradiction follows contradiction, the rules of how games should work are broken, then broken again. You are not here to win. The Stanley Parable is a game that plays you. \n\nWhat's New? \n\nThe Stanley Parable: Ultra Deluxe is an expanded re-imagining of the critically acclaimed, award winning indie game The Stanley Parable from 2013. \n\nEverything that was in the original Stanley Parable is here, preserved just like it was back in 2013. But The Stanley Parable: Ultra Deluxe also dramatically expands the world of the original game with new content, new choices, and new secrets to uncover. The labyrinth has just gotten bigger. \n\nIn addition, the game has been visually upgraded to reflect modern technology while faithfully preserving the tone of the original game. Accessibility features have also been added to the game, including localization of in-world text, colorblind options, and content warnings. \n\nAnd just as before, the impeccable voicework of Kevan Brighting will accompany you every step of the way. \n\nIn The Stanley Parable: Ultra Deluxe, everything you remember has been recreated, yet it's different somehow. We've been here before, haven't we? Is Stanley still the same as he was back then? Or is it you who has changed?",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 1591738368
+    },
     "70010000020389": {
         "id": "010038A00E6C6000",
         "rightsId": null,
@@ -7726,7 +7774,7 @@
             "de",
             "it"
         ],
-        "size": 632291328
+        "size": 668991488
     },
     "70010000022099": {
         "id": "0100E1800EFCE000",
@@ -9143,10 +9191,10 @@
             "Shooter"
         ],
         "ratingContent": [
-            "Fantasy Violence"
+            "Mild Fantasy Violence"
         ],
         "numberOfPlayers": 2,
-        "rating": 10,
+        "rating": 6,
         "developer": null,
         "publisher": "Facepunch Studios",
         "frontBoxArt": null,
@@ -11810,7 +11858,7 @@
             "ja",
             "en"
         ],
-        "size": 33554432
+        "size": 55574528
     },
     "70010000032650": {
         "id": "0100AC20128AC000",
@@ -12642,7 +12690,7 @@
             "it",
             "ru"
         ],
-        "size": 4351590400
+        "size": 4399824896
     },
     "70010000033857": {
         "id": "010063B012DC6000",
@@ -14483,6 +14531,55 @@
             "it"
         ],
         "size": 228589568
+    },
+    "70010000035865": {
+        "id": "01006920137D2000",
+        "rightsId": null,
+        "name": "Cooking Festival",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000035865,
+        "category": [
+            "Simulation",
+            "Strategy",
+            "Adventure",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "BoomBit Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2090ed72defc89a3a0a50ee031f2d3230d8dd349a63df7db76e25a5c27a357ed.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/635e8a8078b2baa14bfef5ce1b2c432bf65c93ff8d325594760fc72dae2f752d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/182dc863d6deaa1697d120b4901b7b33685bb50ac7eff7ec5eb5743df791edee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7d1122d4928689a480f772cc0327f36c06726f0ffb2ed319400275ed26a019d9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/151d8d9acbfe44ac859325b3ca0e830011e87d2e21fe1acf1430dbd8c58ef935.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/efc21994a0026090ab74deeeb78aa3688fffbe7b47f3d0f0325426778221140f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/355fa180e4ab47d121e27e216cc5ff975f3ca1e536a4d4cbc229086549e09dd8.jpg",
+        "intro": "Cooking Festival takes you to the tasty world of fantastic cuisine - let's cook!",
+        "description": "Cooking Festival is a delicious management sim that will let you bake, fry and grill around the world! Become the master chef the cooking world has been waiting for and whip up some homemade pancakes, grill juicy ribs, bake aromatic original Italian pizzas, and serve delicious ice cream that everyone loves! \nCooking is incredibly easy - just tap & serve! Start exploring the world and prepare whatever cuisine you like!\nConquer the restaurant world in places like:\n- San Francisco\n- Naples\n- Berlin\n- and many more cities! \nCheck out stunning landmarks wherever you go:\n- Visit various Food Festivals! \n- Join exciting Tournaments \n- Unlock additional ingredients for amazing new dishes!\nServe your dishes to special guests. It\u2019s not easy to please them! Meet:\n- Festival Dragon\n- Geisha \n- Fluffy Bear \n- And so many more - serve them well, and receive a special boost! \nEarn money to upgrade your restaurants:\n- Over 250 dishes to upgrade\n- Unlock beautiful animated restaurant decorations!\n- Play on over 900+ stages!\nDownload Cooking Festival, grab your wok, temper your frying pan, sharpen your knives, and dive into the world of food, travel, and fame!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 281018368
     },
     "70010000035927": {
         "id": "0100DF0013830000",
@@ -17062,6 +17159,52 @@
             "en"
         ],
         "size": 100663296
+    },
+    "70010000038576": {
+        "id": "010059901442E000",
+        "rightsId": null,
+        "name": "Press \u201cA\u201d to Party",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000038576,
+        "category": [
+            "Arcade",
+            "Racing",
+            "Party",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "BoomBit Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0253104fc3742f046578247d2570e2bee86f74abe593a21223c1b1150a33d4f2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8f32e00fc7ccfd89b4887b21908037e55af8bd37de3d747f546e41e0137bb196.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08adb5b2755c595e7b4ddf1d01aa64b63f1dd5369f7be43155694e4e173ac00e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e32c0fd4bd07373997df4ade428c53f3a6e30a85b257d27a1d64616ac1d8f6c5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f98548d12d1368be1550d33d3c8306ffe9fa3f538e3e870ccb0ce5821bf95b2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d174aaa56981ec8890f2c21afb18989b6bac4a69cecc7ddc6d8a1405f2e31cd5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69ec1a9f5abc981e636167eaf4ed82f42b2bc3170609f90c54e8477ef54fed5e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/327052e659b83611e20552169220df20b8214831c3e5fb491a21a29d2c612eaf.jpg",
+        "intro": "Six arcade game, four player, sit down couch championships!",
+        "description": "Get ready to party with your friends and family in this casual arcade game collection for players of all ages!\n\nSit down on the couch and jump straight into the action thanks to one button controls and fast gameplay. Up to 4 players can compete against each other on the same screen for the title of the ultimate arcade champion.\n\n\nFEATURES:\n- 6 distinct games with their own challenges.\n- Arcade 2D style.\n- Single player arcade high score contest.\n- 2-4 players competitive VS modes.\n- More than 50 cool characters to choose from.\n- Press \u201cA\u201d to play all the games with single button controls.\n\nSling on a rope, dash up a tower, jump through hoops - show off your skills and timing. The championship mode consists of quick matches in random order, so even if you lose in one game, you can make it up in the next one. Press \u201cA\u201d to Party is designed for quick sessions with other players with no tutorial needed. Just pick up the controller and play!\n\nThe games and rules change quickly so stay on your toes, and remember - Press A to Party!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru"
+        ],
+        "size": 364904448
     },
     "70010000038609": {
         "id": "010091E01444E000",
@@ -19996,6 +20139,55 @@
         ],
         "size": 141557760
     },
+    "70010000041676": {
+        "id": "010034C0152A8000",
+        "rightsId": null,
+        "name": "Dancing Dreamer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000041676,
+        "category": [
+            "Arcade",
+            "Platformer",
+            "Music",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "BoomBit Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a90132606141d8eefec2597a707e2719909349105bb94e76526be2b532438a7b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/58ea043f8a43fc60a5ebd99bd3b21f2a7f1ff850234a45f57227c46552fab228.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7480b8a428f05730f95a2d157eb8ff446ce10b3e8d7af22ed4777cb71bfaa2db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f48ac1a060902a6fdd86610e5f1f45df11a7b138aa180ba558b20aa656c80c58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a1e0835f01562994c24b0b2eb3de7bd34b5a0635a24abf3dc00b74a13f97b3e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41681c38568224ba08652e1c7ddafeb90db8b5f56bade69cf8f0f7fafa135aa6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08e49843278bd1069d12ff4f762923e1a24fa56b981204784ece6a3257439afa.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/89cbca0c9aa4220e95230f2eda5cc5415ce9022b62677d758508d7bc68a925bc.jpg",
+        "intro": "Slide to surf, tap to jump. Experience original soundtracks and travel in dream journeys!",
+        "description": "Some day, far in the future a dream machine will be invented, the likes of which have never been seen before. And the people, they will train themselves in the virtual world in order to make their dreams come true. One boy - Bruno - who's dream is to be a dancer, begins his story here.\n\nSlide to surf, tap to jump. Experience original soundtracks and travel in dream journeys!\n\n# Key Features\n1. Tap and Hold to Play\n2. Surf to the Music\n3. Travel between Reality & Virtual World\n4. Explore Epic Levels\n5. Experience Original Soundtracks\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 205520896
+    },
     "70010000041809": {
         "id": "01000BF0152FA000",
         "rightsId": null,
@@ -20265,6 +20457,51 @@
             "zh"
         ],
         "size": 279969792
+    },
+    "70010000041989": {
+        "id": "0100C3E015318000",
+        "rightsId": null,
+        "name": "Bridge Builder Racer",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000041989,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Racing",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Levi Buck",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1bac49b05bdb4efa2b60a76a26d4bd50b9986d5df81d8be1e20350289500b715.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/577e2bb54c5f32d7feccde1962ff0a143006a40c235effd17bb27056fe392d2c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9e47beaf93bf8c84d8fe56102e3bea8b79bf568f76ab4152e13ee2d32eabe0a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95be060ef76453e33609019d1c320f296f51c3cead38b2c3e62c946a132df899.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e02e1f94b8a96ed5c7d04d8287b8f349edc259f9524ffc0aa5d7cb7de3d3e671.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3e676120f98d6aca6ecfe1af09103dbc4c3c371156ac8260bab5c544acc6c80.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a2c17bfd6e69f0e114c5555c3dbef117fddcc45c4dc72e35862335c09d8fd0dc.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cfbc02ffea20c6e6395ccc467af5c09a7ee22b894271b488875562da9c02f749.jpg",
+        "intro": "Build your bridge to race to the finish line!",
+        "description": "Bridge Builder Racer is the ultimate test for your engineering and driving skills. Build your own bridge to race your car from start to finish. Reach higher star ratings by spending as little as possible on your bridge. Create slopes and jumps to race your car and earn the top rating across the levels. \n\nThe game has 2 phases:\nYou start with the build phase, where you create your bridge. Remember, to earn the top stars, spend as little as possible by building plenty of slopes in your bridge to jump from one platform to another.\n\nThen:\nTake control of the car to race over your own created bridge. Go as fast as you can to achieve bigger jumps!\n\nFeatures:\n\n\u25cf Realistic physics\n\u25cf 40 challenging levels\n\u25cf Beautiful low poly terrains\n\u25cf Online leaderboard",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 295698432
     },
     "70010000042000": {
         "id": "0100C090153B4000",
@@ -21869,6 +22106,51 @@
         ],
         "size": 104857600
     },
+    "70010000043228": {
+        "id": "0100FBA01588C000",
+        "rightsId": null,
+        "name": "Idle Inventor - Factory Tycoon",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000043228,
+        "category": [
+            "Strategy",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "BoomBit Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/551db1334303ee51f0157ced0013a934fef1b2513ac7aecda62266b3b9b605e2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9feada95ff56a1159123b1ea5e9cd06f843650b0e927e1bc12380fe004a2db49.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1fccad946fac34bdf23c4951d0cc01fb04cb5ed67eb757665a6806ee0360e7da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c7de8408cff7ab47657be19789aed4807e6b5a19cd835646cc2c76a5b396b954.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bab4e6ddb896de96849c7fe941c655b373350c72237aa3d52d282eb41efcecd0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/dc7772cc3ded27ea1fadefedd196eb0629d536435ca9de7f9a9ac02fd905dc87.jpg",
+        "intro": "Grow your industrial powerhouse: become a heavy machine titan of industry!",
+        "description": "Churn out massive machines in your finely-tuned factory - day and night, even while you\u2019re not playing!\n\nRun 5 distinct factories with their own themed vehicles:\n\n- 12 cars\n- 12 flying machines\n- 12 construction vehicles\n- 12 military vehicles\n- 12 spacecraft vehicles\n\nAnd more!\n\nAs a factory-owning tycoon, you\u2019ll be deciding how to max out your production. Every container of yours that reaches the cargo ship = more profits!\n\nAs profits roar in, reinvest\u2014 \n\n- Open a new line\n- Automate a line\n- Hire & upgrade almost 200 different managers\n- Even upgrade the entire factory!\n- Complete 13 types of exciting missions\n\nManufacture cars, trucks, planes, military vehicles, and high-tech instruments for space exploration!\n\nWatch your factory grow from a single production line to a world-famous industrial powerhouse. And because you\u2019re automating, your factory keeps working while you\u2019re away - check in the morning, it\u2019s amazing to see how much money you made while sleeping!\n\nTry it now, and see how the idle tycoon life suits you!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 221249536
+    },
     "70010000043366": {
         "id": "0100913015928000",
         "rightsId": null,
@@ -22627,7 +22909,7 @@
             "zh",
             "zh"
         ],
-        "size": 1427111936
+        "size": 1526726656
     },
     "70010000044180": {
         "id": "010006C015C4A000",
@@ -22880,6 +23162,49 @@
             "zh"
         ],
         "size": 651165696
+    },
+    "70010000044415": {
+        "id": "0100492015D02000",
+        "rightsId": null,
+        "name": "Super Mega Zero",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220421,
+        "nsuId": 70010000044415,
+        "category": [
+            "Action",
+            "Adventure",
+            "Arcade",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Rogue Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/27a336ea7da21b2c30d0ffa2339cfd7c7868e65b03bd52eb38cc5234ef4bd248.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cc638f0e48e491fc90db0193d0b16071b282cfdda2b899c1f58a161626f7af81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35981b5277a98c52d50ac54cf55a8d6087c869dc38764ff83ee2e6c6f97ebb50.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08179152f4f6eaf6c21325fb3e959d685733df3fdd3121aae9cad76ed72e54c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/96aad45fa30d4a7dedaa8deb928a0f8a66ac7759a034972b19bfba2e2e95ab1c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf60f020a81134b432db74d1b535af904563bd60f7f0c82b4bbc431ef09e2d48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5ca2d509087a534cc4643f9fa0581840c337cec099ecb2c2e4928e7a3f265eb.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/509cbbaf00d6bd39874d058da92a4b95bb36db2a6bbaddbbe0b557fe3aeb1f00.jpg",
+        "intro": null,
+        "description": "Miss Undefined has been whisked away by the dastardly Kill Screen. Go from Zero to Hero in this fast-paced platformer, chasing time, the high score, and eventually the Kill Screen itself.\n\nSuper Mega Zero is a tight precision and puzzle platformer with shoot 'em up elements. Simply touch an upgrade and switch forms to go from classic, straight-forward platforming to the more puzzle-like action number system or Shoot' Em Up gameplay.\n\nFeatures\n\u2022Challenge hundreds of handcrafted levels with a mix of platforming, puzzles, and shoot 'em up gameplay.\n\u2022Arcade esthetics that brings you back to the 80s\n\u2022A banger chiptune soundtrack\n\u2022Collectable Pi:s (aka the tastiest number)",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 114294784
     },
     "70010000044424": {
         "id": "01009BD0144EE000",
@@ -28353,6 +28678,51 @@
         ],
         "size": 19207815168
     },
+    "70010000047278": {
+        "id": "0100D510169B2000",
+        "rightsId": null,
+        "name": "Archery Club",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000047278,
+        "category": [
+            "Arcade",
+            "First-Person Shooter",
+            "Sports",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "BoomBit Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/48df6849d8dc9ad036aa5172c34754eb6dcecf845db1b1e6b27a95156d035164.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d568596c7ba77870a3e3bfd3b88cd813b61e2bd4c33425747611093849d35767.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ec10dda19060548af4c254340eacb7a9f9ca7337931b7668a634f5a7080b14de.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16bba47ca92dd12d06d8504c3c0920941c1e78e2e4086f815f52d048034e14b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8994e322e528156a71af6a3b84a2efa296eb008b498e6564ff124fe60c6737bb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/812c5c711944131a8e27ac8754bc6e4884ff13085686d207e2ceba82160de46f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/492e88c3cbd53d8e508e6a41a4bb30118cb662c7fd6c4083dca932c1f731075f.jpg",
+        "intro": "Start your road to becoming an archery champion now!",
+        "description": "Archery Club is an archery game with multiple exciting game types and an extensive upgrade system. Become a master archer, collect the best equipment and win!\n\nFEATURES:\n\u25b6 EXCITING ARCHERY MATCHES: Each match consists of multiple game types!\n\u25b6 EXTENSIVE UPGRADE SYSTEM: Find new pieces to strengthen your bows!\n\u25b6 MULTIPLE DETAILED VENUES: Shoot your way to victory in different environments.\n\nArchery Club lets you pick your favorite bow and play in exciting, multi-part matches! During each one of them you\u2019ll play at least two out of three possible game modes:\n\nShortbow - a quick, 30-second long round where your reflexes and fast aiming skills will be put to the test.\n\nLongbow - a longer round with 3 shots for each of the players. The distance to the target will increase after each shot, so you\u2019ll have to be mindful of gravity and wind!\n\nCompoundbow - a more strategic round, where you\u2019ll have to decide which targets to shoot. Those that guarantee better score may be way harder to hit, so decide carefully!\n\nEach match is played as a Best Of 3 with those game types selected in random order. You\u2019ll have to master all of them if you want to keep winning and climbing up in the ranks!\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru"
+        ],
+        "size": 377487360
+    },
     "70010000047286": {
         "id": "01004AA016918000",
         "rightsId": null,
@@ -31838,7 +32208,7 @@
             "zh",
             "zh"
         ],
-        "size": 1576009728
+        "size": 1632632832
     },
     "70010000048427": {
         "id": "0100C48016EA0000",
@@ -33427,6 +33797,51 @@
         ],
         "size": 535822336
     },
+    "70010000048947": {
+        "id": "010040201711A000",
+        "rightsId": null,
+        "name": "tERRORbane",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220401,
+        "nsuId": 70010000048947,
+        "category": [
+            "Other",
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "WhisperGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5bd9ea1ea7f3670f2ad0c43bca580244a1b999891ebaa9909a68ab6d65b4c99b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8ee5d9cb2e5ab842951b21e2672f49bdfbe1826a80bd0d5a451ffb2d2734c140.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b343fb761326efd9cda559c18528c45017886a693c1850cbbeecf20ba4759b67.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f27c737f6d89828b7e0eccf836667f16a72eb1920ab1492d3671c3f9c61e67f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/adc1c7396810a824c16cc65429d4fa51213237a6e0ebc70e234568d21b819390.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/879477879534ec2e4553840df2a645dee943ee2c8e7bdb7fe4070f3ead511824.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6fd77f02071f306e2e07bab4cf7c4fc0c1bcb54aea31d596644db31294844e9c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/471aceb3c2f771e83817ae6e379c879b914574aa172d1fc784a64bc41fce3d01.jpg",
+        "intro": "tERRORbane is a comedic adventure where bugs are your FRIENDS! Enjoy challenging the Developer with your creativity and be the Bane of Errors!",
+        "description": "About This Game\nIn tERRORbane, you'd expect to save a generic fantasy RPG world from evil, right? Instead, the Developer who created the game keeps on commenting on everything you do, funny bugs and glitches keep on popping up everywhere you go and nothing seems to work the way it should?! What's a good Player to do, but dish out his trusty BUG LIST and use bugs to his advantage to get to the ending credits sequence?\n\nThere's nothing that could go hilariously wrong, right?\nBecome the TERRORBANE, saviour of the world!\n\ntERRORbane is a comedic adventure where bugs are your FRIENDS!\nEnjoy exploring a crazy and outlandish world, full of unique, quirky characters and homages to the media of videogaming and its celebrated history, challenge the Developer with your creativity as you exploit and cheat your way through his sloppy design to try to get to the heart of what is truly needed to make the best games work.\nExplore a wild wild WORLD!\n\nSaving the realm from evil anthropomorphic villains is hardly a novel concept in the wild world of videogames, but don't go expecting this adventure to stay run-of-the-mill fantasy for long! Castles, temples, starships and vaults! Travel from the digital depths of a dungeon to the surface of the moon with barely any cohesive plot holding it together! The Developer created a world so full of strange lore and wonderful locales, you'll start to question your own sanity!\nChallenge the Developer and find all BUGS you can!\n\nThe Developer swears the game he has created is the best one ever made, but the sorry state of his code begs for a much needed reassessment of his claims! Hunt for bugs and glitches, fill your BUG LIST and exploit every loop-hole you can! Only this way you'll defy all videogaming norms and prove your rights as the ultimate Player, worthy of changing the world of tERRORbane forever.\nMake your CHOICES and venture beyond!\n\nDid you really think finishing the game would be enough to finish tERROrbane's story? Think again! Your choices shape your journey across the world, delivering you to wildly different sections and environments, going back and choosing differently will usher you to completely different stories and characters, adding new bugs to your collection! Who's to say you won't find a way to explore even beyond the ending credit scene?\n\n[REDACT\u0336\u030b\u0350E\u0334\u030f\u0350D\u0335\u0306\u0356]\u0335\u033f\u0329\nThis game is perfect, there are no glitches here.",
+        "languages": [
+            "ja",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "zh"
+        ],
+        "size": 3093299200
+    },
     "70010000048949": {
         "id": "0100FBB0161D8000",
         "rightsId": null,
@@ -33866,6 +34281,53 @@
         ],
         "size": 33554432
     },
+    "70010000049078": {
+        "id": "0100EBA0144C0000",
+        "rightsId": null,
+        "name": "World of One",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220408,
+        "nsuId": 70010000049078,
+        "category": [
+            "Action",
+            "Adventure",
+            "Platformer",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Grimwood Team",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9140f2bfe12106c16310d977195969682601d58dfdb35e60c1cfd01dfcf2ede6.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/26a96151032361672c91f11aeea29a98c45ec1e63b3c04eeac0ec7250817e222.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2c912724d3e5de041b39fbee7125d1ab565cb90202313ec5a58e6e5f9a38cb5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/423e1713b5c42e2b2c962140d341ca88a3cdb36f467310854a9ef4d98b4fca5e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a789a87a6da8a69a88205653c3f2be098b39ead0e5dedfa12625d0fc5ad2759d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b55a1a6fd099ad7bdc9e303fe175d76b83d3cf25b1da34931f0dceaf4689bcd8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9254a1c7075d0b5264739604e8d6b2faef9cb1b761f2c25c01248d98fe0f483.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7164d8831c70a18c9cfb87e10f4a94959b2a6d4dadef65c32a61588ca38bd950.jpg",
+        "intro": "You are about to get on a journey around small planet-like worlds as if you were in the Little Prince's world.",
+        "description": "Imagine...\nYou live in your own small world that has everything you need \u2013 a cozy home, a backyard with a rocking chair, a beautiful garden, and your own amusement park with music and unlimited amounts of fireworks to launch. You even have a Ferris wheel to touch the stars! Nothing stands between you and this secluded paradise, only an unsettling feeling in the back of your mind that something is going wrong. At some point, it all dramatically changes and now you have to find out what this world really conceals\u2026\nFeatures:\nYou are about to get on a journey around small planet-like worlds as if you were in the Little Prince's world. However, these ones are filled with monsters that are striving to kill you, deadly traps and riddles, which require you to be quick-witted and attentive.\nPlunge into the quaint and atmospheric world of a dark tale and reach its core to find out what hides in the haze.\n\nThe indie-platformer World of One has many levels and puzzles with multiple solutions, big boss fights, hostile creatures, and 4 different endings, which depends on the actions you take throughout the course of the game. Only your determination will help you complete your journey and find the truth about yourself.\n\nBeware, World of One will challenge your mind and skills. Moreover, completion of the game unlocks the \"New game+\" mode, which gives you only 3 lives. Will you accept this challenge?\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "ru",
+            "zh"
+        ],
+        "size": 2335178752
+    },
     "70010000049082": {
         "id": "01008B30171B4000",
         "rightsId": null,
@@ -33952,6 +34414,54 @@
         ],
         "size": 1636827136
     },
+    "70010000049111": {
+        "id": "0100B5A0171CC000",
+        "rightsId": null,
+        "name": "Toodee and Topdee",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220414,
+        "nsuId": 70010000049111,
+        "category": [
+            "Platformer",
+            "Puzzle",
+            "Action",
+            "Adventure"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "diet zribi",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e034fc2f3ad2f4176661df7f71694c0491ce31e16aaab25ea626fd91efd37580.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/620c3544d1e277255c00a3823a388a5bb1a5a8d1e247b5b469a7557393f32e62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fba983197081e6f5842739b07dc85aec57168330d81a425bb996967fc2b6576d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/74d3a2964e6bce83070fa67b482ea0fe51bc8d181f066a4e33837b67188ade57.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c9f40c69614d5f5926d26b124fcd5b3a29ad0ef350f908e7044ecb324524bf3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4ab74c215ee564e55339db12184b03742e51b1ecab318a61612c11bcb5190fa2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d7d9ec7e110adef9ba18e431390dc1cea63d4ba6ca7d980d4dde5e387e27762b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2a29428b4833922a7354a5ed529266517af4054b2c68750470bd3f43dd972467.jpg",
+        "intro": null,
+        "description": "Toodee and Topdee is a 2D Platformer and a Top-Down Puzzler hybrid.\nSwitch between Toodee and Topdee and their unique perspectives, and watch how the game bends to the rules of the current genre.\nSolve mind-melting puzzles!\nOvercome hard-as-nails challenges in the precision platforming sections of the game.\nIf you're having a hard time, you can modify some of the game rules in the difficulty settings.\nMeet strange friends on your quest to find the missing semicolon and return the balance to the universe.\nBut also... Defeat huge BOSSES!\nAfraid to go alone? You can play with a friend in the local CO-OP mode.\nAnd don't tell anybody... There are secrets\u2026",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 105906176
+    },
     "70010000049120": {
         "id": "0100DD70171CE000",
         "rightsId": null,
@@ -33998,7 +34508,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20220331,
+        "releaseDate": 20220428,
         "nsuId": 70010000049144,
         "category": [
             "Puzzle",
@@ -36433,6 +36943,49 @@
         ],
         "size": 131072000
     },
+    "70010000050134": {
+        "id": "01005B00177F2000",
+        "rightsId": null,
+        "name": "Floogen",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000050134,
+        "category": [
+            "Arcade",
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Alcohol Reference",
+            "Mild Blood",
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "RedDeerGames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/670c90cb61dd4f57025424edc5153e942c03199ddaf7119cca0a4871a731539f.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dedb76858ebc3f17ef4a4a3498198f9a0f3acc6119c48430720a266b37fac31f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/25f731c3842e6c6b3f362c73bfff8deef2aeebe7313794cd1c42cee9aaea5693.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58b6a750e45f9b712feef7638b364f416a4bdfd4050777e73726a852e46f2764.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/29ba100254bb067e9d17acfddb669bec0cc1d4f89fdbb05742c7d18a96c5f612.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d33976532950d84c0a2bf158bfe5062d3f9be39eda7ecfece4e8661c0b2338c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d15f24dea9b49447d5aeb3f9a3f13917af39008324595d3b68314583e5d993a8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fd22d62f68f967f42dcecb0ae8103ef2d97534221b1b98dee1e45e74d66284d0.jpg",
+        "intro": "Explore a world straight out of stop-motion animation! Floogen is a fun platform adventure full of clay, jumping and ... melons. ",
+        "description": "A WORLD TAPED TOGETHER\nFloogen was created using real stop-motion animation - so there are elements made of cardboard, clay, paper, tape, and more! Thanks to this, the world resembles a dream drawn straight from a child's imagination. \n\nFIGHT FOR MELONS! \nFace off against your adversaries as one of three playable heroes with unique features, in this bizarre adventure full of quirky characters! If you encounter problems along the way, upgrades can help. \n\nKey Features: \n- Tight platforming and engaging fights \n- A world full of details created with hand-crafted techniques from scratch \n- Lots of collectables, upgrades and 3 playable characters to unlock\n- Unique graphic style, reminding of children playing with clay \n- Unforgettable and odd atmosphere full of surprises\n",
+        "languages": [
+            "en"
+        ],
+        "size": 651165696
+    },
     "70010000050154": {
         "id": "010040C0177E0000",
         "rightsId": null,
@@ -36953,7 +37506,7 @@
             "it",
             "nl"
         ],
-        "size": 1237319680
+        "size": 2008023040
     },
     "70010000050433": {
         "id": "0100C250178BA000",
@@ -37622,10 +38175,10 @@
             "RPG"
         ],
         "ratingContent": [
-            "Violence"
+            "Fantasy Violence"
         ],
         "numberOfPlayers": 1,
-        "rating": 13,
+        "rating": 10,
         "developer": null,
         "publisher": "CFK",
         "frontBoxArt": null,
@@ -37647,7 +38200,7 @@
             "ru",
             "ko"
         ],
-        "size": 319815680
+        "size": 320864256
     },
     "70010000050787": {
         "id": null,
@@ -38779,7 +39332,9 @@
             "Action",
             "Other"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
         "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
@@ -39071,6 +39626,51 @@
         ],
         "size": 239075328
     },
+    "70010000051933": {
+        "id": "0100FEC017E64000",
+        "rightsId": null,
+        "name": "Seashell",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000051933,
+        "category": [
+            "Puzzle",
+            "Simulation",
+            "Education",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "High Tea Frog",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1dee25772536b0921d4081d143cd46391d7facba39190cb4796bc70801e948e8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/42393f89140c88c7110c0c72687eab05aad72ca6046887b83847c15d486754d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18cd5733442885ff5179ec2a9ea1ef2547fe1bac0356ad6c6f88b101cf2580e3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/01501bba4ac0967a9522ab1405305b1fad4b4946431802cbbe619b323f92d360.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d30a140e62db68050ddd6407424c473bea8e5f969ebc56e7db6810b9029a124.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/888c8967f1c1cccd9991add39d2e65fa18c56b926b6bb612849e8f747268d6d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ce13be544997ab7b093b6e6dc37b64937d18d4f60f2b68d594f46e3cda5db6d1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/594f08081070118d4afed30e051f7c21286cc4d9c790ed6baf8d6a30b45663f4.jpg",
+        "intro": "Relax, make time for yourself and collect unique and beautiful gifts from the sea.",
+        "description": "* Relax at the beach and find every type of shell *\n\nEach shell is different, pick up and examine the ones that catch your eye. Rare shells need certain conditions to appear, can you solve the mystery? Try to collect the biggest and smallest of each species, while enjoying our calming music system and wave ambience.\n\n* Fill the pages of your journal *\n\nLearn all about the creatures who lived inside the sea shells, in fascinating descriptions written by marine biologist and author, Dr Helen Scales. Discover lovely hand drawn shell sketches for every new shell you find.\n\n* Playtime *\n\nSeashell will take between 1 and 2 hours to fully complete. Even after you\u2019ve found every shell, there is still a challenge! Gain all 10 research level badges and become a Friend of the Sea. \n\n* From the Team * \n\nWe\u2019re a team of just two developers who wanted to try something different. Though Seashell is far from a huge game filled with features we\u2019re very proud of what we\u2019ve made. You can play our game for cheaper than a beachside fish and chips, and if you find it relaxing, interesting and fun, nothing would make us happier than to hear about it. Thank you so much for taking a look at our game, and enjoy your time with the sea!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh"
+        ],
+        "size": 178257920
+    },
     "70010000051962": {
         "id": "0100D40017E92000",
         "rightsId": null,
@@ -39203,6 +39803,110 @@
             "zh"
         ],
         "size": 154140672
+    },
+    "70010000052180": {
+        "id": "01005BD017ECA000",
+        "rightsId": null,
+        "name": "Cars Puzzles Game - Funny Car & Trucks Preschool Jigsaw Education Learning Puzzle Games for Babies, Kids & Toddlers",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220407,
+        "nsuId": 70010000052180,
+        "category": [
+            "Education",
+            "Puzzle",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "McPeppergames",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0df78888c36dbc218b3d0a742c8d34ecfc22a48aa72e74fdffd7fd8ae48534de.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/91fa70c89fb06a1cbf3a87cac1d2032397da9ab41e6321d3c76b9bf8a31cd6cf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1369e8fc5f0f5355167dc5206b0f46f862ad68467d8d6184dd5077940230d3a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c14264b6f3c236f048be8472ecbe25356c6cdeff0f764768d1e0c473e45b5af3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/44a649857c49370fcbcec18077d9afdeb8b68010b9257ab2f88f6085dbaf17fe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0befc2664736948f0f68d1dcc2f8e277879b96726a7cd8f71792ae1cd05090ac.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71d8ca0294fe7f2a054e6c41b72e047930b7fe6d071e054f50011dce184e22d7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/82981a3f030ea4d49064039218a155814e6c0bb31e2f4515604ea2b874cedb00.jpg",
+        "intro": "Unique and fun educational car game for kids of all ages. Contains many exciting automobiles. The level of difficulty is adjustable.",
+        "description": "This jigsaw puzzle game for kids and toddlers is perfect for all car fans, but of course also for all puzzle friends.\n\nIMPORTANT: This game does not require any language skills and is therefore suitable for all languages!\n\nThe game contains 13 high-quality puzzle motifs that can be solved at different levels of difficulty. The maximum number of parts is 80 parts and children are really challenged! But even newcomers to puzzles can get off to a good start with a 12-piece puzzle.\n\nEvery solving of a puzzle is rewarded with 3D animations, lots of effects and a balloon-popping mini-game!\n\nThe fun car game trains logical thinking and hand-eye coordination while playing as the game is hand-controlled via the touch screen.\n\nFor very clever puzzle children, the rotation of the puzzle pieces can also be switched on.\n\nWith McPeppergames games your child gets optimal entertainment and at the same time our games are the perfect preparation for preschool and training for learning logical thinking.\n\nAll of our jigsaw puzzle designs are unique and designed by renowned illustrators.\n\nPerfect car fun for the little ones!\n\nContains, among other things, the following motifs and content:\n\n\u2605 The construction site: excavator, construction vehicle.\n\u2605 truck, plane\n\u2605 Car Wash and car wash for cars and vehicles\n\u2605 Discover: Animals, Monkey, Cow, Zebra, Horse, Ladybug, Monkey, Rabbit, Mole, Elephant\n\u2605 Clown mobile with funny circus clown\n\u2605 Police with police car and prisoner\n\u2605 Fire engine and fire truck\n\u2605 UFO with Alien\n\u2605 Safari and Taxi\n\u2605 Lots of sun and nature\n\u2605 3D animated animals\n\u2605 Reward system with Balloon Pop game\n\nPerfect game for preschoolers, kindergarten kids and first graders. The hardest level of difficulty is also suitable for older children up to 12 years of age! Likes both girls and boys!\n\nPerfectly trains fine motor skills and logical thinking!\n\nPlease note: This game is only supporting the touch screen functionality! \n",
+        "languages": [
+            "en"
+        ],
+        "size": 408944640
+    },
+    "70010000052247": {
+        "id": "0100A64017F6C000",
+        "rightsId": null,
+        "name": "Worm Run",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220406,
+        "nsuId": 70010000052247,
+        "category": [
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a7a4a2d7f4168c453e95a5d116fe179263ffa4dfa244a88ed286febb766ba786.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/295b11175f64afc886fdbc1f148b1b1ea18403013e74745ad4a3e631eb4d6e37.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db2d088e20c61fcbbc05277149201f759fbcd9f6da554e5b31eb672f975650a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/79654ebb3cdc71697fbf58098d39acd5070d279a2bd18d991877007336212b4f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/189ff5c22adbc0760225d854a6aae446a9db64cb7297d479ef96d7a79eb3b3ed.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aa77d60b076ea39cf5283e0b58cac5e851229ca8d36e48a16b039b777a490bbc.jpg",
+        "intro": null,
+        "description": "Worm Run is an exciting endless arcade game in which you move the worm right or left, trying to avoid obstacles standing in your way, break the blocks to achieve the goal, collects the worm body items to increase its length, collect coins to unlocks new worms and complete the levels. \n\n20 different characters to unlock and infinite levels guarantees you long hours of fun!",
+        "languages": [
+            "en"
+        ],
+        "size": 111149056
+    },
+    "70010000052313": {
+        "id": "0100F12017FA4000",
+        "rightsId": null,
+        "name": "3D Box Sokoban",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220408,
+        "nsuId": 70010000052313,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1abb846ae1f43c496db4d0a4ffaf17e1476bf463f58cb6f3ad5ef53f480ecbfd.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ae5459c849651bfe7396fee5b6ba938365bda5ed89b3b45f87f34c0b30199eec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fa11d06fc99f8bc9b31c6f05a1e9e7ea47632a58bbff914af44ce5fe6c5354f7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/242a9403a5bf1a306d2afbd51b3c0a3f95efa96b2233faa1217bc41fcaaa68db.jpg",
+        "intro": null,
+        "description": "3D Box Sokoban is a logic game that will exercise your brain, helping developing its capabilities.\n\n- The goal of the puzzle is to push all of the boxes onto the goals.\n- Only one box can be pushed at a time.\n- The puzzle is solved when all boxes are on the goals.\n\nGet brainstorming!",
+        "languages": [
+            "en"
+        ],
+        "size": 50331648
     },
     "70030000007383": {
         "id": null,
@@ -47307,6 +48011,41 @@
         "languages": null,
         "size": 3145728
     },
+    "70050000028883": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - Night Burner\u2122",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70050000028883,
+        "category": null,
+        "ratingContent": [
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c290ea3c2a18d8ce81cfb63797f35ee58024fdf0d946492f8159fa294636f084.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c48c4938180e7db20c12eccfed281b0db2df3d143ab7b2c303270b750f2d40ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b615666025ea7fbe68cd839b563e85a3a97da737f1fcaea07fe06014dd8d69b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a14c03ed4710e38c4fc32639478c08ea1fd06c00127348c0bb479314f4650c9e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3b4f2a6fed9179b65e5cdc7794564a57fca9e0ff3aa51de9cc772eebfd5f58df.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c28b14e3871d8bc435ab1b91ee11f47f2dd34921a2c9d73922e5d8697cdb6e56.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aa25344ed3b09b044424da0436c46fdef62e05e9e98d94001b816f28ae8dcb44.jpg",
+        "intro": null,
+        "description": "Its design somewhat resembles Deora II\u2122, if it had undergone an otherworldly upgrade! Made to race in space, Night Burner\u2122 doesn't hide all its power, on the contrary, it shows it off to intimidate its rivals! The center of its body features a giant turbine, the origin of its explosive force. \n\nWith Night Burner\u2122 it won't be easy to stay grounded and thanks to its alien look, this racing car will make you a rising star of the races. Are you ready to dominate the racing universe? One last thing: make space in your collection for Night Burner\u2122 now!",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000028885": {
         "id": null,
         "rightsId": null,
@@ -51460,7 +52199,7 @@
         ]
     },
     "70050000031054": {
-        "id": null,
+        "id": "010095D012E5F014",
         "rightsId": null,
         "name": "Male Custom Heretic Set & Female Custom Sage Set",
         "version": null,
@@ -51491,10 +52230,13 @@
         "intro": null,
         "description": "\u25a0Contents\nIncludes the following Custom Parts Set.\n\u30fbMale Custom Heretic Set\nHelmet Type / Chest Type / Waist Type / Arm Type / Leg Type\n\u30fbFemale Custom Sage Set\nHelmet Type / Chest Type / Waist Type / Arm Type / Leg Type\n\n\u25a0To Use\nIn Edit Mode, select the content from the corresponding type of armor.\n\nNote: Please note that these are items included with the DYNASTY WARRIORS 9 Empires Season Pass.",
         "languages": null,
-        "size": 15728640
+        "size": 15728640,
+        "ids": [
+            "010095D012E5F014"
+        ]
     },
     "70050000031056": {
-        "id": null,
+        "id": "010095D012E5F015",
         "rightsId": null,
         "name": "Unisex Custom Steel Set",
         "version": null,
@@ -51525,10 +52267,13 @@
         "intro": null,
         "description": "\u25a0Contents\nThe Steel set is added under the Unisex Custom Parts.\nHelmet Type / Chest Type / Waist Type / Arm Type / Leg Type\n\n\u25a0To Use\nIn Edit Mode, select the content from the corresponding type of armor.\n\nNote: Please note that these are items included with the DYNASTY WARRIORS 9 Empires Season Pass.",
         "languages": null,
-        "size": 28311552
+        "size": 28311552,
+        "ids": [
+            "010095D012E5F015"
+        ]
     },
     "70050000031058": {
-        "id": null,
+        "id": "010095D012E5F016",
         "rightsId": null,
         "name": "Unisex Custom Dragoon Set",
         "version": null,
@@ -51559,7 +52304,10 @@
         "intro": null,
         "description": "\u25a0Contents\nThe Dragoon set is added under the Unisex Custom Parts.\nHelmet Type / Chest Type / Waist Type / Arm Type / Leg Type\n\n\u25a0To Use\nIn Edit Mode, select the content from the corresponding type of armor.\n\nNote: Please note that these are items included with the DYNASTY WARRIORS 9 Empires Season Pass.",
         "languages": null,
-        "size": 29360128
+        "size": 29360128,
+        "ids": [
+            "010095D012E5F016"
+        ]
     },
     "70050000031060": {
         "id": "01002C0015645001",
@@ -60319,7 +61067,7 @@
         "intro": "Engrave your life on the battlefield!",
         "description": "A new release for the \"Empires\" series, which allows users to enjoy both the thrill of one-versus-a-thousand action and the intricacy of country conquering simulation!\n\nDYNASTY WARRIORS 9 Empires points\n\u25a0Command your armies freely! Exciting Castle Sieges!\nCombat has evolved from the \"Battles\" of previous games into \"Castle Sieges\" that occur in the area around each castle. In an always changing environment, use devious planning and military might to enjoy this new style of battle where the biggest question is \"What's the best way to take this castle?\"\n\n\u25a0Politics System, where an Officer's character and trust can strengthen the country.\nIn Politics, the choices of and the interactions between officers will determine the foundations of a force. Players are able to experience a variety of lifestyles, playing as Rulers, Generals, Unaffiliated officers, and more. Furthermore, an officers' interactions with other officers will help to strengthen the country they are a part of.\n\n\u25a0Live dramatically! The evolved \"Edit Mode\".\nThe game includes the Edit Mode, a series favorite. Players can create their own Custom Officers from a wide range of parts.\nWith the 94 Musou Officers and over 700 Generic Officers that appear in DYNASTY WARRIORS 9, players can more dramatically populate their very own Dynasty Warriors experience.\n\nThe DYNASTY WARRIORS 9 Empires Deluxe Edition is a set including the game and the following contents:\n\u30fbDeluxe Edition items\n - 6 Gems / 10 Custom Ancient Officers / 3 Additional Campaign Scenarios\n\u30fbSeason Pass\n Allows one to obtain various additional contents as they are released. These DLC will be released periodically until APR 2022. \n - Custom Parts Set (14 pieces) / 5 Additional Palaces\n\u30fbSeason Pass Bonus\n - 4 Additional Military Units\n\nNote: Please note that the dates for distribution might change.\nNote: DYNASTY WARRIORS 9 Empires is also being sold. Please confirm your product at time of purchase.\nNote: Please see our website for details on the contents and timing of the planned Season Pass DLC.\nNote: The Season Pass and the DLC available with the Season Pass will also be sold separately. Please be careful not to inadvertently purchase an item multiple times.\n",
         "languages": null,
-        "size": 15126757376
+        "size": 15200157696
     },
     "70070000013240": {
         "id": null,
@@ -60350,7 +61098,7 @@
         "intro": null,
         "description": "Note: Some of these products are also part of a set. Be careful of inadvertently purchasing the same product multiple times.\nNote: Items included with the Season Pass can also be purchased separately. Be careful of inadvertently purchasing the same product multiple times.\n\nThis is a discounted pass allowing easy access to a variety of additional content for DYNASTY WARRIORS 9 Empires.\nThese DLC will be released periodically until APR 2022. \n\nSeason Pass contents\n\u30fbCustom Parts Set (14 pieces)\n\u30fb5 Additional Palaces\n\nSeason Pass Bonuses\n\u25a0Contents\n\u30fb4 Additional Military Units\nWolf/Bear/Tiger/Panda\n\n\u25a0To Use\nIn Conquest Mode, choose Political Commands - Info - Player Info - Military Unit Settings.\n\nNote: Please see our website for details on the contents and timing of the planned Season Pass DLC.\nNote: Please note that some of the included items might be released for sale at a later date.\nNote: Please note that the dates for distribution might change.",
         "languages": null,
-        "size": 382730240,
+        "size": 456130560,
         "ids": []
     },
     "70070000013247": {
@@ -60956,7 +61704,7 @@
         "intro": "This bundle contains the base game and all of the DLCs that have been released for Dead Cells so far.",
         "description": "This bundle contains the base game and all of the DLCs that have been released for Dead Cells so far: \n- Rise of the Giant \n- The Bad Seed \n- Fatal Falls \n- The Queen and the Sea \n\nSo you will get 8 new levels and 5 new bosses with all their associated enemies, weapons & outfits on top of the original Dead Cells. \n\nCheck out the individual store pages for each DLC if you want to know exactly what\u2019s in each of them.\n \nHave fun!",
         "languages": null,
-        "size": 1663041536
+        "size": 1756364800
     },
     "70070000013454": {
         "id": null,
@@ -61488,7 +62236,7 @@
         "intro": null,
         "description": "Pre-order the game and get day one access to the Trooper Character DLC Pack.  The digital edition also includes an exclusive classic Obi-Wan Kenobi playable character.  \n\nGet the LEGO Star Wars: The Skywalker Saga Digital Deluxe Edition and enjoy more of the galaxy far, far away.  In addition to the base game, the Deluxe Edition includes seven DLC packs in a Character Collection bundle:    \n- The Mandalorian Season 1\n- The Mandalorian Season 2\n- Rogue One: A Star Wars Story\n- Classic Characters \n- Solo: A Star Wars Story\n- Star Wars: The Bad Batch\n- Trooper Pack - Get day one access to this pack by pre-ordering the game.\n\nWith the base game, you can play through all nine Star Wars saga films in a brand-new LEGO video game unlike any other! Experience fun-filled adventures, whimsical humor, and the freedom to fully immerse yourself in the LEGO Star Wars galaxy.\n\nWant to play as a Jedi? A Sith? Rebel, bounty hunter, or droid? LEGO Star Wars: The Skywalker Saga features hundreds of playable characters from throughout the galaxy. Whether on land or in space, a variety of vehicles are yours to command. Jump to light speed in the Millennium Falcon, fly the T-47 Airspeeder and battle TIE fighters in Resistance X-wings\u2026 it's the ULTIMATE LEGO Star Wars experience.",
         "languages": null,
-        "size": 14976811008
+        "size": 15184429056
     },
     "70070000013592": {
         "id": null,
@@ -61962,6 +62710,36 @@
         "languages": null,
         "size": 293601280
     },
+    "70070000013929": {
+        "id": null,
+        "rightsId": null,
+        "name": "Gotta Protectors: Cart of Darkness DLC Discount Bundle (DLC Packs 1-4)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220414,
+        "nsuId": 70070000013929,
+        "category": null,
+        "ratingContent": [
+            "Crude Humor",
+            "Fantasy Violence",
+            "Suggestive Themes",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "8-4",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/581f7beeb27b7adef3f35c04320ac3187d92992fd1dc39fe4ce9362f874ac4c8.jpg",
+        "intro": null,
+        "description": "This is a bundle of the four DLC packs available for Gotta Protectors: Cart of Darkness. This bundle is for those who already own the base game. It does NOT include Gotta Protectors: Cart of Darkness (sold separately).\n\nThis bundle includes the following content:\n\nDLC Pack 1: Mega Blastin' Trax + Bonus Scenario A\n\u30fbOption to play the entire game soundtrack in \"MD\" and \"88\" sound chip formats\n\u30fb20 new bonus stages (Bonus Scenario A)\n\u30fbNew skills for the Fighter and Archer characters\n\nDLC Pack 2: Pocket Power Trax + Bonus Scenario B\n\u30fbOption to play the entire game soundtrack in \"GB\" and \"WS\" sound chip formats\n\u30fb20 new bonus stages (Bonus Scenario B)\n\u30fbNew skills for the Ninja and Oracle characters\n\nDLC Pack 3: Japanicom Trax + Bonus Scenario C\n\u30fbOption to play the entire game soundtrack in \"FDS\" and \"VRC\" sound chip formats\n\u30fb20 new bonus stages (Bonus Scenario C)\n\u30fbNew skills for the Amazon and Old Guy characters\n\nDLC Pack 4: Super Wavetable Trax + Bonus Scenario D\n\u30fbOption to play the entire game soundtrack in the \"SFC\" sound chip format\n\u30fb20 new bonus stages (Bonus Scenario D)\n\u30fbNew skills for the Mage and Prince characters\n\n* This DLC is sold separately as individual DLC Packs and is also included in the the Gotta Protectors: Cart of Darkness Ultimate Deluxe Bundle (Main Game + All DLC). Please take care not to re-purchase the same content.",
+        "languages": null,
+        "size": 548405248
+    },
     "70070000013932": {
         "id": null,
         "rightsId": null,
@@ -62028,5 +62806,42 @@
         "description": "An educational game for preschool children that will develop their motor skills and introduce them to the basics of writing letters and numbers in a child-friendly design.\n\nOnce this is mastered, you can move on to a more challenging game mode where children learn animals from A to Z in English! This will be a great introduction to learning languages and getting to know many fascinating animals. Maybe one of them will even become your child's favorite? ;-)\n\nBUNDLE INCLUDES \"EXTRA MUSIC PACK\" !\n\nModes:\n\u2605 Numbers\n\u2605 Animals\n\u2605 Uppercases\n\u2605 Lowercases\n\u2605 Your own words\n\nFeatures:\n\u2605 Learn animals in a fun way\n\u2605 Learn the alphabet from A to Z\n\u2605 Take your first steps in counting\n\u2605 Enjoy a smart interface designed for children\n\u2605 Listen and repeat to improve pronunciation\n\u2605 Play with colors and save your creations\n\u2605 Develop fine motor skills with the help of a guide",
         "languages": null,
         "size": 341835776
+    },
+    "70070000013956": {
+        "id": null,
+        "rightsId": null,
+        "name": "Gotta Protectors: Cart of Darkness Ultimate Deluxe Bundle (Main Game + All DLC)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220414,
+        "nsuId": 70070000013956,
+        "category": null,
+        "ratingContent": [
+            "Crude Humor",
+            "Fantasy Violence",
+            "Suggestive Themes",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "8-4",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/798fe57d0295293cb87834a4788bb39c6ea6d6140f2d8cc9d2f7b2b6be37edee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/89e4f4f939f949b6665afce4a1ac8bd20dd9caba8516651f6e60656987caa989.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3730156d6b6167b609a4fcbc9fd062c04c69e18828a15db1450130a7d4eb3390.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4dcf3904c8ba3a2fd0d4ba005d0272c86d6f23b6373e9b031f99ebea672d415.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f7139b2ad239800aa6976e7ec3ef50575fbcdca20aebb4442aa58c524494843.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d8cb7fa70a4e210e12a4647f2bf77c5c7ed5b958b5c4edef72043af1ef90c00f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c8bd650a2b1c74668b8801bf1ae45852a141719e3f69e7880a7dadb5c8d652bf.jpg",
+        "intro": null,
+        "description": "This is a bundle of all available Gotta Protectors: Cart of Darkness content. It includes the base game, as well as all four optional DLC packs.\n\nThis bundle includes Gotta Protectors: Cart of Darkness as well the following DLC content:\n\nDLC Pack 1: Mega Blastin' Trax + Bonus Scenario A\n\u30fbOption to play the entire game soundtrack in \"MD\" and \"88\" sound chip formats\n\u30fb20 new bonus stages (Bonus Scenario A)\n\u30fbNew skills for the Fighter and Archer characters\n\nDLC Pack 2: Pocket Power Trax + Bonus Scenario B\n\u30fbOption to play the entire game soundtrack in \"GB\" and \"WS\" sound chip formats\n\u30fb20 new bonus stages (Bonus Scenario B)\n\u30fbNew skills for the Ninja and Oracle characters\n\nDLC Pack 3: Japanicom Trax + Bonus Scenario C\n\u30fbOption to play the entire game soundtrack in \"FDS\" and \"VRC\" sound chip formats\n\u30fb20 new bonus stages (Bonus Scenario C)\n\u30fbNew skills for the Amazon and Old Guy characters\n\nDLC Pack 4: Super Wavetable Trax + Bonus Scenario D\n\u30fbOption to play the entire game soundtrack in the \"SFC\" sound chip format\n\u30fb20 new bonus stages (Bonus Scenario D)\n\u30fbNew skills for the Mage and Prince characters\n\n* All of the content sold in this bundle is available for sale individually as well. Please make sure not to purchase the same content multiple times.",
+        "languages": null,
+        "size": 901775360
     }
 }
