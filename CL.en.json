@@ -4353,6 +4353,42 @@
         ],
         "size": 1330642944
     },
+    "70010000014631": {
+        "id": "010063C00C688000",
+        "rightsId": null,
+        "name": "Long Ago: A Puzzle Tale",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000014631,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "GRIMTALIN",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ac972c6db27c19318b199080a3405133dbf37abedfb89aa2b0b8f26aad24b732.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/9b530a9656412b2697627703c68c8d0d593a27f28787f3988610b8104be5ad0b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8df2cd0899cb033c357dd34131c916f1aca0b802245d52fdd02f0d68cabf005b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e290ca7b644d415e319330f41086322c1f174fcba3e9852c0d6418f669769c2d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e17d6632faa5c698e0d4d71eb555572bdc51cac271027c7e0bb627eaf16a301.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69de6a0f069ac984cab6b6be6462fd9d45d9086e56a8c104d16f52fe3f07ae01.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1ebfa40ecf07c016f710e50903b30167e6aabee39bf5dfc43e732b56d4fe24d4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1d8d073de345254ee21d3eab62bba6f30922628041e08f5058b6fc9bb72dca28.jpg",
+        "intro": "A relaxing puzzle game with colorful visuals, beautiful music and a narrated tale told in rhyme.",
+        "description": "Long Ago: A Puzzle Tale is a relaxing puzzle game combined with a modern fairy tale told in rhyme. Experience a beautiful colorful world and follow the story of a brave princess striving for freedom and adventure when everyone around her tries to keep her in line with the status quo.\n\nA WORLD OF PUZZLES TO DISCOVER\nSolve intuitive puzzles, collect feathers to reveal the story, gems to unlock new levels and coins to customize how the ball you're playing with looks. Discover new mechanics as you progress in a campaign consisting of 80 levels plus 30 variations. Each new chapter brings with it a new visual theme for both the play areas and the menu environment, in addition to new music tracks. Experience beautiful settings including windy summer forests, barren deserts, mountain forests at night and town squares.\n\nHIGHLIGHTS\n\u2022 Solve 80 puzzles plus 30 variations, grouped in 5 chapters\n\u2022 Unravel a fully voiced modern fairy tale told in rhyme\n\u2022 Discover each chapter's unique mechanics, visuals and music \n\u2022 Customize the look of the ball with unlockable skins\n\u2022 Enjoy the beautiful environments and relaxing music\n\u2022 Never get stuck with the integrated optional hints system\n\u2022 Track the progress of 26 in-game achievements",
+        "languages": [
+            "en"
+        ],
+        "size": 483393536
+    },
     "70010000014717": {
         "id": "010023600C704000",
         "rightsId": null,
@@ -8910,6 +8946,52 @@
             "en"
         ],
         "size": 183500800
+    },
+    "70010000026706": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Tsubasa: Rise of New Champions",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200828,
+        "nsuId": 70010000026706,
+        "category": [
+            "Sports",
+            "Action"
+        ],
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 10,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f152d5b9296e14bb85d165a357f2abe80b180b68963e2286636642b49e4acc35.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/58522d5c870551cede8b46aa6982168b891666db8ad837bb2ab5781e3a7d6d6d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fed507921c3d0bbfe6092fe76a60f223a099811478b42da33fcd81abdee09342.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d8114cd3930c0891be0741dfe7d8826d1a284257f20416ac6211d3cb0c082650.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8111309ec9de9398aeabfc7026af44134c7083e08b98da424cd42867953dd61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a91c3a439491df2d99ab1a87e8609c0a0c644aa3421a1480ff780fad494856c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6aab40cad00dcae77c79ceeabf2ac2998135135a5657ba380ee8a0a3922af3ed.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8527aa2328e1dd9e9dcde8766c8168559e6a7165b01882b7d06e368851cab9e1.jpg",
+        "intro": "Super plays clash in soccer action game Captain Tsubasa!",
+        "description": "Captain Tsubasa: Rise of New Champions, based on the globally beloved anime series, is an action soccer game featuring the latest graphics and super plays anyone can enjoy.\n\nGet a real taste for the world of Captain Tsubasa through two story modes! To savor the drama alongside the action in Captain Tsubasa, we've prepared Episode: Tsubasa, a story mode where you can experience the events as seen in the anime. Additionally, become a part of the world of Captain Tsubasa, as you play through Episode: New Hero, an original story mode found in this game.",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr"
+        ],
+        "size": 15980298240
     },
     "70010000026810": {
         "id": "0100F380105A4000",
@@ -21958,16 +22040,16 @@
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0c06b70fddf49966d06510afbe8a510be6be93c89e4f5bd4514364ccb5652905.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/e57e11fe0f1372802eccf1efd9987fd2031937ad664bd05649304d067dfd453f.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/0b2c7f131903bc19025f8645a4bffbf565b017c4b6951ad36b404982640eaa88.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/2589d420525aea2e52d9137b6d68208cfb70b1e4ecda6ac0753d2f04b5672c22.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/4580ebfa0e96047e29cc420e220d5681d12f1ed0ac76838bd434dfa4669f34ee.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7e7e0cd18253151f8dc050815a179411862924a9e405b2ed0fd68dbec6b261f5.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/6374c7ea0c0cffdaa2c8e7d177cbf26adb657ed8a6b4e5f704b6b2b78dd90058.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/72048bf98a091fbaea09c9fbde558ee6071a16bee1c84aecc44f21522c5aae62.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6e07237fb27ca8bd13cb91d1da59e1493a782d1f3e12db6395a335a785c8e7a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/058ab7fb86d866a83389767b5ff104e9f644a117b94e6e9131b7e38735c0b9fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc7da975832ce4a011ad97031046b3739e30302ea488ca3120bacfee8511afe2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/68af032280791d7666a670d98760d644251a4b03135a841e256df35a4824a07f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77f70e9aceb70a09b0d08cd9d00a4ce56197aef40e8931ca86262b52c89154b1.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7b109a4fef555989b9be334d5233815c8359703a349e0e4587583db6f24e37e3.jpg",
         "intro": "Get ready to race with Horrid Henry\u2019s Krazy Karts! ",
-        "description": "This is kart racing the whole family can enjoy.\n\nHit the gas pedal and control your kart as you swoop over awesome jumps and dodge yucky obstacles such as gross goo and smelly snot slime, in 40 mischief making levels set in four fantastic Horrid Henry themed locations.\n\nPlay as Horrid Henry, or race head-to-head as Rude Ralph, Moody Margaret, Perfect Peter, Brainy Brian or Singing Soraya.\n\nPerform amazing front and back flips to gain extra airtime points, win cups and upgrades, and deploy crazy character transformations to become the ultimate Horrid Hero.\n\nPlay 8 mighty mini-games to win terrific tricks and multiple power-ups to leave everyone else standing! \n\nVisit Henry's Workshop to create the coolest customized kart around. Change the wheels, select the best motor, then add funky stickers and cool paint effects.\n\nMultiplayer Mode to play with friends or family, and built-in Level Designer to create and share your very own Horridly tricky challenges. \n\nWant to be the best?  Brainy Brian is on hand to show you how with his interactive race tutorial.\n\nFUN, FAST, FRANTIC, this non-stop action-packed racing game will keep you entertained for hours!\n\nFeatures\n\u2022 Suitable for ages 6 and over\n\u2022 Simple and responsive controls\n\u2022 40 mischief making levels set in 4 authentic Horrid Henry locations\n\u2022 Henry\u2019s Kart Customization Workshop\n\u2022 8 Mighty mini-games; Foam Fungus Fizz, Smelly Snot Slime, Gross Goo, Banana Skid, Bedspring Bounce, Slime Squirt, Snotbag Slinger and Perfect Plane\n\u2022 Tournament and Race Modes\n\u2022 Crazy character transformations\n\u2022 Brainy Brian\u2019s Interactive Race School Tutorial\n\u2022 Built-in Level Designer\n\u2022 Real character voices and hilarious sound effects.\n\u2022 Rocking musical soundtrack\n\u2022 For 1 to 4 players\n\nThe most Horrid of kart games that even your Great Aunt Greta will love to play (but don't let her 'cos you'll never get it back again!)",
+        "description": "This is kart racing the whole family can enjoy.\n\nHit the gas pedal and control your kart as you swoop over awesome jumps and dodge yucky obstacles such as gross goo and smelly snot slime, in 40 mischief making levels set in fantastic Horrid Henry themed locations.\n\nPlay as Horrid Henry, or race head-to-head as Rude Ralph, Moody Margaret, Perfect Peter, Brainy Brian or Singing Soraya. Horrid Henry\u2019s Krazy Karts allows up to 4 player local play, that means you can play with your friends all from a single Nintendo Switch\u2122.\n\nPerform amazing front and back flips to gain extra airtime points, win cups and upgrades, and deploy crazy character transformations to become the ultimate Horrid Hero.\n\nPlay 8 mighty mini-games to win terrific tricks and multiple power-ups to leave everyone else standing! \n\nVisit Henry's Workshop to create the coolest customized kart around. Change the wheels, select the best motor, then add funky stickers and cool paint effects.\n\nMultiplayer Mode to play with friends or family, and built-in Level Designer to create and share your very own Horridly tricky challenges. \n\nWant to be the best?  Brainy Brian is on hand to show you how with his interactive race tutorial.\n\nFUN, FAST, FRANTIC, this non-stop action-packed racing game will keep you entertained for hours!\n\nFeatures\n\u2022 Suitable for ages 6 and over\n\u2022 Simple and responsive controls\n\u2022 40 mischief making levels set in 4 authentic Horrid Henry locations\n\u2022 Henry\u2019s Kart Customization Workshop\n\u2022 8 Mighty mini-games; Foam Fungus Fizz, Smelly Snot Slime, Gross Goo, Banana Skid, Bedspring Bounce, Slime Squirt, Snotbag Slinger and Perfect Plane\n\u2022 Tournament and Race Modes\n\u2022 Crazy character transformations\n\u2022 Brainy Brian\u2019s Interactive Race School Tutorial\n\u2022 Built-in Level Designer\n\u2022 Real character voices and hilarious sound effects.\n\u2022 Rocking musical soundtrack\n\u2022 For 1 to 4 players using a single Nintendo Switch\u2122",
         "languages": [
             "en",
             "es",
@@ -23436,6 +23518,55 @@
             "en"
         ],
         "size": 1235222528
+    },
+    "70010000044503": {
+        "id": "0100E0D015DE6000",
+        "rightsId": null,
+        "name": "Sockventure",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220414,
+        "nsuId": 70010000044503,
+        "category": [
+            "Platformer",
+            "Action",
+            "Adventure",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Versus Evil",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/346f5c3b4ddcd15fc97ece775176e5360386a5b974b0a795e25e7ca3d625eabc.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e3a7491964b1d52b1889a38c7cd153fba7028c61b76d25b31261cc9ed9481440.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/67bf890c7eb19e3ed043fb8d85bb32e6ac62f3db139d73c0f9cdac89d9ce960f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2482198354172ac947b2c7667d66cd922fdd8f663695fcf66ed1d2875a6d3c8a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/000fc13d64ac2d3ea4d2f4249148f14123fb7aa77f62abf565cc2d188bcee001.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4d9a8e70e84c7d1ab1805c05d22885994b2ead178858ab42e54b3fc5c0b8f67a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4603fda512b633e2ef69b4da98908ab27f11912e0d2ad6ca32f323e82b24f4c.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ac6b08d0f32c4bac867b182cf62821e879876b1835d75adee5e2308c80260391.jpg",
+        "intro": null,
+        "description": "In this challenging 2D platformer game, play as a Superhero and help the Kid to find all the missing socks inside the cursed washing machine. Sockventure has stunning colorful graphics, hand-crafted levels, tight controls and fun ever-changing gameplay.\n\nSockventure is a story about a kid whose favorite sock gets eaten by a cursed washing machine. Kid needs immediate help and calls superhero to the rescue and the adventure begins. Make your way through the dangerous levels to find the missing sock inside the washing machine!\n\nBeat over 200 levels of hardcore platforming, get new skills such as wall jumping, dashing and stomping and bring the socks back safely. Unlock Dark Chapters, collect Coins, beat Challenges and find the missing socks.\n\n\u2022 200+ Levels - Over 200 handcrafted Levels in 7 Chapters.\n\u2022 4 Special Skills - Get new Skills during the game. Wall jumping, double jumping, dashing, stomping.\n\u2022 Coins - Find and collect the coins to unlock Dark Chapters.\n\u2022 Dark Chapters - 3 Dark Chapters offers new more challenging Levels to test your skills in.\n\u2022 Challenges - Multiple Challenges to beat for every Chapter.\n\u2022 Leaderboards - Try to get to the top of global leaderboards for every Chapter.\n\u2022 20 Socks - Find hidden Socks and use them as your outfit.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1681915904
     },
     "70010000044515": {
         "id": "0100E2D015DEA000",
@@ -25372,6 +25503,54 @@
             "zh"
         ],
         "size": 720371712
+    },
+    "70010000045788": {
+        "id": "0100718016362000",
+        "rightsId": null,
+        "name": "Pinball Freedom",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220414,
+        "nsuId": 70010000045788,
+        "category": [
+            "Arcade",
+            "Simulation",
+            "Puzzle",
+            "Party"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "CGA Studio Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/609f027c74d5e7d478ebb9d7b77064f7a05f76a267cf7791155cad189d659ba0.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c61b4545eb6e84d022ed5350f3d8094890b54d348cd465f0655fcf71888eab61.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1135e07744632be927da75c2b0cce5fc74eb0146e0d4bca403e217a36e35f72c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d0091d3d95d5a87a4d5862557bbc4826161c5e9d2f04720dbe08432e50df1d8b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15997d1872b44c026af044bf16ad08498657af525ccb75add261f50c735b5de9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/15997d1872b44c026af044bf16ad08498657af525ccb75add261f50c735b5de9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/67c028747e8c692e906605c4edbfac8ef001ea6d647a75ca239e0bba8204ba7f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c4e5f09b760c02878c28b68d419d02bd60922be5d0dc60c3867b569e5db6e5ba.jpg",
+        "intro": "Grab your walk-man, and take a trip to your favourite arcade with our classic retro Pinball machines.",
+        "description": "Go Back to the Future with our Sci-fi table or indulge in a tale as old as time with our Fairytale themed machine. With our first-person, single-player simulation you\u2019re encouraged to channel your 90s kid as you compete to make it to the top of the leaderboard. With five uniquely-themed distinct tables, get in on the action! \n\nTables included:\n. Sci-fi \n. Fairytale \n. BMX\n. Skate Park\n. Chill Panda\u2019s Adventure",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 734003200
     },
     "70010000045790": {
         "id": "010055B01636A000",
@@ -28671,8 +28850,8 @@
             "https://img-eshop.cdn.nintendo.net/i/184473a6b0464ae7aef3d007a675a93cccea9b8441962c72e39e846ad568079c.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ab85d23f5f4fc14e704001c97321a87e9bcc6cae86f53ec67035dff96fc082e3.jpg",
-        "intro": "Return to classic '90s survival horror in this narrative-driven undead nightmare.",
-        "description": "Experience Lydia's desperate escape from a city overrun with the undead. Meet fellow survivors, scrounge for supplies, fight off undead monstrosities in brutally gory combat, and manage extremely limited resources in this soft reboot of the Outbreak series.\n\nAttempt to survive the nightmare with your choice of retro fixed camera, over-the-shoulder, and first-person shooter views, which you can change at any time during gameplay. Mo-cap animations, cheesy voiceovers and enhanced visuals await as you solve puzzles and fight for your life. Play the entire game in optional split-screen co-op or face the darkness alone.  The entire experience is designed to play and feel like a late '90s survival horror nightmare including rigid controls, crushing difficulty and much more.\n\nCan you survive the outbreak, or will you become yet another victim of the undead hordes?",
+        "intro": "A chilling love letter to classic 90s survival horror.",
+        "description": "Outbreak: Contagious Memories is a send-up to classic 90\u2019s horror where your survival will be determined by moment-to-moment decisions, what you decide to carry, and how good you are at spotting conveniently written notes.\n\nAfter being knocked unconscious, Lydia awakens in an abandoned warehouse as fellow survivors debate leaving her behind. Not one to play the helpless maiden, Lydia takes charge, forging a path through crafty environmental puzzles and hordes of the undead to figure out a way for her and her fellow survivors to escape the city.\n\nResources are scarce, is it worth that extra bullet to take down a zombie? Or maybe you should take a risk and try to dodge it. You will have to think on your feet and decide how best to approach every situation. A bullet saved is a bullet earned, but medical supplies are hard to come by in undead uprisings.\n\nIt\u2019s a nightmare scenario, but you don\u2019t have to go it alone, grab a friend and work together to escape the city in fully integrated co-op, and look at any scenario from the perspective that suits you with fully integrated 1st person, 3rd person, and fixed cameras. Escape the zombie outbreak your way!\n\nStill hungry for more? With plenty of unlockable bonus content like Operation: Rabid Wolf, work with your friends or compete against them, whether it\u2019s fighting through the city to rescue survivors, or to beat the main game in record time with nothing but your fists. With plenty of additional content to unlock, one run won\u2019t be enough to see everything Outbreak: Contagious Memories has to offer.\n\nFeatures:\n\nClassic survival horror mechanics. Inventory and resource management, conveniently written and placed notes, backtracking and puzzles.\n\nFull co-op integration, play through the full game solo or with a friend!\n\nIntegrated camera control, choose between 1st person, 3rd person, and classic fixed camera.\n\nHordes of undead, mutated beasts, and monsters with lots of extra teeth.\n\nUnlock Operation: Rabid Wolf, an arcade bonus game where you fight through the city alone or with a friend rescuing survivors.\n\nPlenty of unlockable bonus content and game modes.\n\nVoice acting that\u2019s almost cheesy enough to put in a sandwich!",
         "languages": [
             "en"
         ],
@@ -29272,6 +29451,46 @@
             "ru"
         ],
         "size": 473956352
+    },
+    "70010000047537": {
+        "id": "01002F0016AA8000",
+        "rightsId": null,
+        "name": "Birushana: Rising Flower of Genpei",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220628,
+        "nsuId": 70010000047537,
+        "category": [
+            "Adventure",
+            "Other"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Fantasy Violence",
+            "Language",
+            "Mild Suggestive Themes"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Idea Factory",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3543c85a9c4f72f6e8b5fe133157970d76d9d91d3aca1a7def4b7153e67c2ce9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7977ce8faca542baab337a73fa8c8ccaa4854a454ae3e0fa64aeb53c87d1b994.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6058973b905791b1d738cb1e9198022ccd8bfce9319ec50bc45f661a51bdebe9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f15899e19572136bd3c81a59018775f5a239472f952d904760ad023bf5c64115.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e335a3475d251934b7dac995f2e69589d4f11c9598fb97ce8d9b673eaece2ff.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/27a646fe76d44fd84285c76c8449de956507bc6dc2e5bb5adc75bb14f38f09ee.jpg",
+        "intro": null,
+        "description": "Torn between warring factions and a desire for a peaceful life, can Shanao forge her own path - and find someone worthy of her journey in this visual novel?\n\nFifteen years after the Heiji Rebellion, the Heike clan has reached the height of its power, while the Genji clan remains devastated by defeat. Hidden deep within the mountains of Kurama lives Shanao, the youngest surviving male heir to the Genji name. However, Shanao harbors a deep secret known by very few. \n\nThe youngest heir to the Genji name is no man.\n\nHer adventure leads her to find new cherished relationships, as well as something deeper than the feud between the rivaling clans.\n\nKEY FEATURES\n\u2022 Five potential routes will reveal different elements of Shanao's story and relationships. Once you've decided on your route, maintain your Affection Level to get up close and personal with someone\u2026\n\u2022 The Love Catch system allows players to gauge how their choices affect a character\u2019s Affection Level and Shanao\u2019s three Character Abilities of Strength, Knowledge, and Kindness in real time. Keep a close tab on Affection and Character Ability levels to reach a true ending!\n\u2022 After completing a chapter, players can revisit it and manipulate the Affection Levels and Character Abilities. If you feel Shanao is headed down the wrong path, replay the chapter and get back on track!",
+        "languages": [
+            "en"
+        ],
+        "size": 6769606656
     },
     "70010000047541": {
         "id": "0100AA8016AAC000",
@@ -30005,6 +30224,44 @@
         ],
         "size": 148897792
     },
+    "70010000047775": {
+        "id": "01000A7016B6A000",
+        "rightsId": null,
+        "name": "Red White Yellow Zinger",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220407,
+        "nsuId": 70010000047775,
+        "category": [
+            "Puzzle",
+            "Music"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Takahiro Miyazawa",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/08729a179b08617243fb0071d39c274e926b77ae72782ca853255506125aaa01.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/650efd452560facc130be6cf00fa75ff05a81bb304693c53d03b9bd0f5db1b03.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3897ce70fb1de0069f0cc5f10bd96840ace740d2057e41860302cd68a49534ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6386b892bde03af66bd8207991f4416febc24fad24b52523d24654f0498545f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4822f1bb32208e4fe9387b706b313bc39fa81b4f866140d368c05b5e7e048ada.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ebf470a063fe9960f7687d3ee6d3a6730dec721dbc8747934a0684369220808.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8de847eee1fadd91a2d579788ab9a4c42a95a524703214aaf1871d7bed023e0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/de0c1860e31565b317740d95386c4a82591ad0c5d06668de6d8effa7c345527e.jpg",
+        "intro": "A puzzle game to connect BGM by erasing blocks.\nFor those who want to be healed by the music of Room97.",
+        "description": "- A puzzle game in which blocks are erased in the order of red, white, and yellow!\n- Collaboration with popular music creator Room97!\n\nThis is a falling puzzle in which six blocks of three different colors are lined up and erased.\nThe blocks can only be erased in order.\nBlocks of indelible colors can be aligned first to form a chain.\n\nBGM is played while the block disappears and until the next block disappears.\nIn the meantime, you can keep the BGM playing by aligning the next block and continuing to erase it.\nAdvanced users can even play a full song.\n\nAll songs are in collaboration with popular music creator Room97!\nThe wide range of sounds, from K-POP to nostalgic melodies, employing a variety of singers, enhances the pleasantness of the combo.",
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "size": 547356672
+    },
     "70010000047789": {
         "id": "0100D06016B7E000",
         "rightsId": null,
@@ -30246,6 +30503,56 @@
             "en"
         ],
         "size": 291504128
+    },
+    "70010000047841": {
+        "id": "0100CF3016BBE000",
+        "rightsId": null,
+        "name": "MotoGP\u212222",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220421,
+        "nsuId": 70010000047841,
+        "category": [
+            "Racing",
+            "Sports",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Mild Violence",
+            "Use of Alcohol",
+            "Users Interact"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ee1d74e1be989866978a4077240af10e582b8be40ab5716e9633d70552313733.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4061691211d910f93a3296f12451164015810acffc047ef5abeae09fe9bc578d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c87e0631cc2bb6e06d8d57f0b7c38def8764795d19d1f346fe85cde153ea2b5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/563db5d8ff2c8419c0e53ed119321d00c1edbdc8ab8c12defe787b89978fbb5e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1dcc6ec151585895aeae2e67411f5f97d13aaa79ca992d6dd254993e15e5c6fb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/caaa4768b82d1d5923724f077467bc8919fc70cdbfeb20e38c8110d6e8aaf9d3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/667d2bf5d6a8be75ccd835f3548aa444f50aedaeeb1076481621471a42afaa5d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7a5b62e417af3c0f1fe94af32334c3815eed7dde27f63e2631a673dc7528adaf.jpg",
+        "intro": null,
+        "description": "Engines running: let\u2019s get the most immersive and authentic MotoGP\u2122 gaming experience ever started. \n\nTHE ENTIRE MOTOGP\u2122 WORLD\nExplore all the contents of the 2022 season in the MotoGP\u2122 classes and in all the other categories.\nMore than 120 riders, over 20 official circuits and all the excitement of the official championship are waiting for you.\nAnd if you want to take a leap into the past, over 70 historic champions will let you relive the best of MotoGP\u2122 history.\n\nNINE SEASON 2009\nRelive one of the most exciting championships in MotoGP\u2122 history!\n17 Chapters, one for each Grand Prix of the 2009 season, lie ahead! Put yourself in the boots of legends such as Rossi, Lorenzo, Stoner and Pedrosa at the peak of their careers. In each episode you will face different challenges reliving firsthand the most iconic moments of the world championship.\n\nAll contents will be enhanced by more than 50 minutes of real footage at the beginning of each chapter, entirely narrated and directed by the extraordinary Mark Neale.\n\nWHERE CHAMPIONS ARE MADE\nEnter the MotoGP\u2122 ACADEMY to reveal the champion in you: through new game challenges you will learn all the tricks of the trade to be the fastest on every track.\n\nBecome the rider you've always wanted to be with new tutorials that will help you improve quickly through short gameplay sessions.\n\nENJOY THE MOST REALISTIC GAMING EXPERIENCE AND CUSTOMIZE YOUR RACE\nDive into the most realistic and immersive MotoGP\u2122 experience ever!\nFrom the faces of your heroes to the restyling of the official pits, attention has been given to every detail like never before!\nCreate your world in the MotoGP\u2122 videogame and ride with even more style. By using 5 graphic editors, you will be able to customise every look of the game, from the liveries to the riders\u2019 suits.\n\nPLAN YOUR SUCCESS WITH THE MANAGERIAL CAREER!\nCreate your own team or join an official one. Choose your staff and develop your bike improving engine, frame, aerodynamics, and electronics: take full control of your gaming experience!\n\nCreate a junior team in Moto2\u2122 and Moto3\u2122: hire a team manager, technical director and a rider to achieve new goals.",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh",
+            "zh"
+        ],
+        "size": 12666798080
     },
     "70010000047850": {
         "id": "010039B016BC4000",
@@ -34078,6 +34385,55 @@
         ],
         "size": 1432354816
     },
+    "70010000048985": {
+        "id": "01006C3017146000",
+        "rightsId": null,
+        "name": "Lila's Sky Ark",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220421,
+        "nsuId": 70010000048985,
+        "category": [
+            "Adventure",
+            "Puzzle",
+            "Action",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Graffiti Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7b68b4fe795fdb53a1e31b0fb80b6505975c8f743e7882c3fa6c6d9a1d90b21b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6122003686d11c37caadfcaed49f544d4a5bd4754d0da289da9d73aca0674c84.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba5d6b0d80658280c6bbb49805e3f45bb976d726d3ef6d9d906e589d74d1ab19.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1616beb9fd2d510046ddc9cc75402878377f95e8283210ef37a88051ac4d8347.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c3385b8cbe15844a7a8530cfffba2a66bf8435e845a82dba280821f1fec84e2c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ead23a74b7aef85a20710e7850cbcaf335305c26a05f805e598619457bf6d89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09d89a59514dd450649e6f6d45bb232c4038e6ff8ba11e09cb57b8671b71a38e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ac7b9785f880ee4ec52bf7775f69bb349dfa527ec7551c73cc0f55491818fc46.jpg",
+        "intro": "Protect a psychedelic world from bizarre beasts and punishing bosses in this poetic mystery filled with secrets, puzzles, and music.",
+        "description": "Lila\u2019s psychedelic world is in grave danger. Help her and her eccentric friends stop the Conductor\u2019s minions from destroying all things musical and magical in this meditative action-adventure game. Explore this dark yet groovy world as you unravel the poetic mystery that is Lila\u2019s story. Discover secrets, solve puzzles, and battle bizarre beasts and punishing bosses as you attempt to unite the Spirits and save the mysterious Sky Island from ruin. Along the way, hunt down alchemy recipes to unlock new weapons. Battle enemies with rocks, Titan Eyes, cluster bombs, and anything else you can throw at them as you wander this music-inspired pixel dreamscape during Lila\u2019s strange yet beautiful journey.",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "ru",
+            "zh"
+        ],
+        "size": 328204288
+    },
     "70010000049031": {
         "id": "0100D59016874000",
         "rightsId": null,
@@ -34539,7 +34895,7 @@
         "languages": [
             "en"
         ],
-        "size": 115343360
+        "size": 188743680
     },
     "70010000049155": {
         "id": "01004810171EA000",
@@ -34588,6 +34944,53 @@
             "ru"
         ],
         "size": 103809024
+    },
+    "70010000049163": {
+        "id": "0100403017202000",
+        "rightsId": null,
+        "name": "Arcade Archives EMPIRE CITY: 1931",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000049163,
+        "category": [
+            "Shooter",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Partial Nudity",
+            "Use of Tobacco",
+            "Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/62621f6b928e0048360f10086b65d90e18c90d4de443587f622636722237c379.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b883c8f08bcb0f3a9027b7cd6455acfa959e954ccf1cb45e8b5d5534fa5c874c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5760e631440ac4eaeee3e3da8266b5eae099ba3cf9c37b83655d5d6057755412.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/384af8edbdf511e764946a29f73d637466dd419e4b5aa3fd5f5fb186a406f91f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58ca118070878dfb9e17aa51b6a9529e267f49a4a318b62fc0f27451e6ba9a0f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/123c2589603b545a0f33daab476ca34b198d8fc2cc4a7d2a14b36275f42708e8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c841225f9c4a6563538367b7ac3250ce8cbd5e6778fba49733a517fe876d3c0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e03f61f6bd730dfdfd3268d16e17da43c555ce4e9ae6f3a78d00a6a2efa0eb08.jpg",
+        "intro": "Magnum close call!!\nPull your gun before the enemy does!!",
+        "description": "\"EMPIRE CITY: 1931\" is a gun shooting game released by SEIBU KAIHATSU in 1986.\nSet in the United States in 1931. From the window, from the rooftop, while hiding, various enemies are aiming at us!\nPull out the gun before your opponent and defeat the enemies that appear one after another!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*This game uses the Japanese ROM for the main part of the game.\nThe options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 47185920
     },
     "70010000049188": {
         "id": "0100A31017238000",
@@ -34829,6 +35232,51 @@
             "en"
         ],
         "size": 918552576
+    },
+    "70010000049254": {
+        "id": "01003960172BC000",
+        "rightsId": null,
+        "name": "Arcade Archives WONDER MOMO",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000049254,
+        "category": [
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Suggestive Themes"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "HAMSTER",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5e97efd5dda746ada6329b4ebda011dd00bbfe49d376e2805fddcffe6a6a14ba.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1701c3f97112f8ae1cec0f63cd59a2213a4651f64d9cf98877ab7e038ee310fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8712e28e1a9662afe814886a57b3426b6f690253fb209159626d4026b55c00f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ae613bc4ced4f9b6c4f5633099b92f2d00e7d824953f9fd27b9f505557c35cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4893e44edfa315ad122a27714d65301ff716a61e0df41f92a868903a3fad31c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf14b5b3232f3c97d53561dddced521d161eb326779764355f61d94fd50a2eb2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d291054c5fcf042d6a48113f5ece50f815349bd10064819b34a07445bf42bf17.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b63a4b1783186f40101a5bd27bcda681177b210c61385619606df141d369483d.jpg",
+        "intro": "Defeat the Warudemon Villain that threaten\nyour peaceful world!",
+        "description": "\"WONDER MOMO\" is an action game released by NAMCO\uff08BANDAI NAMCO Entertainment Inc.)  in 1987.\nControl the hero, Momo, and take down the Warudemon Villain to keep the world at peace.\nRide the whirlwind to transform into WONDER MOMO and fight for your success as a costumed hero, using Wonder Rings and special moves!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 49283072
     },
     "70010000049293": {
         "id": "01001F4016AC8000",
@@ -38680,6 +39128,45 @@
         ],
         "size": 514850816
     },
+    "70010000051144": {
+        "id": "0100E00017BB0000",
+        "rightsId": null,
+        "name": "Logistics Simulator",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000051144,
+        "category": [
+            "Simulation",
+            "Study",
+            "Training",
+            "Strategy"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Megame",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/14d54230810123eb6752a01474c8707cbe291061ecc3584eec848af2e2ee3c79.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a5ffc483f55b2a5e437b084a7976e23946e50f4195270e7b7ea4b1c165310969.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4649bb0dd5e1521d390e2cdd02b75d648663add7965ebc19fd177b3ef979c86.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09fb6cbbe1ee5907203f2d5414285c13506be639aeb94cc52c565b82e9f4370e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e778352132f57f4f7b85f3db5ce165228128a6fc0177ef91c9f8cfba619539e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/541db7bef3a239c5402f12bb95d6b471d0a5b7fe807ba864a3482d0f7f03fdc8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8bc193d890a1eb61a6cbc02056e6fae97f69e6dd69e401d9d3cf7079cdc6d563.jpg",
+        "intro": "Logistics company management simulator with heavy machinery and realistic physics!",
+        "description": "Logistics Simulator is a realistic logistics company management simulator, a mixture of the tycoon genre and a realistic heavy transport simulator.\n\nYour grandfather left you a large logistics company with a warehouse and heavy equipment as a legacy. You have to learn how to manage a big business, take on the most difficult orders and deliver on time. Take control of your company and turn your modest warehouse into a major world-class logistics center by gradually increasing storage space and expanding transport routes for cargo transportation. A transport empire is what you should strive for!\n\nOperate a large multi-ton crane or reachstacker to load and unload trucks, ships and trains. You are waiting for various orders for the loading of heavy cargo. But be extremely careful \u2014 the cargo can be very fragile and even dangerous!\n\nGame Features:\n- Mix of genres \u2014 tycoon and realistic heavy transport simulator in one game!\n- Many orders of varying complexity\n- Various types of heavy transport\n- Soundtrack will immerse you in the atmosphere of the seaport\n- Realistic control of heavy transport",
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "size": 309329920
+    },
     "70010000051152": {
         "id": "0100CAB017BC0000",
         "rightsId": null,
@@ -39357,6 +39844,54 @@
         ],
         "size": 133169152
     },
+    "70010000051475": {
+        "id": "0100313017CF4000",
+        "rightsId": null,
+        "name": "Spingram",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220407,
+        "nsuId": 70010000051475,
+        "category": [
+            "Puzzle",
+            "Strategy"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Pixehn",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/138f52443dc8af3556c8e4ee375260b73d1b33257b338b669b6623bbdf1a1fc5.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/08faafcd98afa36c5f54005149d76f59bc434b13dea19be197fb0bc4ab88463a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cae781622b9d327bbaa60f33ef4c105997da42bde7a890da17f656a9c067d6b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/856e1d518f3f530e5b544ac75f9d2fe5ce5a757a3ac79d5340164d25afd64233.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04544b34b12cf118088add3566dd81d8be09f1a1bd13076d0c494a31bd1e8b82.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aaaf3e7f5ec48bcb659ecf1a7838f5fa84e2a28d1095a222e6ab0a64034cbd51.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e2dfe7e673de5b391a75a34357f35d96a49a9fc294cca1aee4de605578a90169.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ab0447635b100baadb895bf4eab938a856438c494251bc1e83a2b81ed18fff70.jpg",
+        "intro": "Challenge your brain with a clever game. Try the most mind-blowing puzzle game available on your console!",
+        "description": "Spingram is an exciting puzzle game that will blow your brain, with hundreds of levels and an extraordinary design. Our minds love challenges, and Spingram goes the extra mile to challenge players' gray matter.\nThe goal of the game is to reconstruct the pattern presented in the preview by rotating the blocks in any direction.\nTo align the trace perfectly you will need to examine the position and orientation of the original. If you are in trouble, you can always start over or undo the last move.\n\nFeatures:\n- A minimalist puzzle game with a captivating look.\n- 1000 unique levels.\n- Different color themes in light and dark mode.\n- Skip system.\n\nEnjoy the game!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "pt",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 62914560
+    },
     "70010000051513": {
         "id": "01008B10178BE000",
         "rightsId": null,
@@ -39586,6 +40121,45 @@
         ],
         "size": 560988160
     },
+    "70010000051737": {
+        "id": "0100D76017DAE000",
+        "rightsId": null,
+        "name": "HYPER DRONE X",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000051737,
+        "category": [
+            "Racing",
+            "Action",
+            "Party",
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "SAT-BOX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0592caaab1c0be9c9d777af71e91cbed4160031cb3d9edb9952057979d3df432.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d1b4e941dda9605804e98b3347b3e2c47531e776753329a2e54ffe5f0f21f75c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/67bf07371d01fa8cc170e2f849f64821d5d567b652dd93f84c275f614c3a6b2b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a8464718f8deb85f56d080335caa015462726541fed3723149bd5e38444f4373.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8bb4be8361b27ad9fbf8a835268ef653678268bf277eacd8846bb3a4c94423f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a994d4cade1a7a79cfdeca5f3c41a3e8037b3a8dbbb20004ed3541c475671148.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/35c0d5ddf23b3971771dbd718a1ad7fb02f89a67244b0c3a928e87ea46f34e37.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5e950599babda66d83efe2fe8d11b7f445e01ab5a38e467e569b541815d51d47.jpg",
+        "intro": "Soar to new heights with drones!\nExperience a racing game like no other!",
+        "description": "A high-tech drone racing game that's fun for the whole family!\nPass around Joy-Con\u2122 controllers and compete with up to four players!\n\nFind your favorite among more than twenty drones to choose from!\n\nRace through buildings, cities, nature, and more!\nLots of unique courses to discover!\n\nSteer through rings to get a boost of speed!\nUse dash items and fly rings to accelerate ahead of your opponents!\n\nGyro controls available too!\nLet your hands guide you!\n\nFree Race\nAim for the top time on your favorite track!\n\nGrand Prix\nChoose four courses and battle for first place!\n\nUp to four players can join in the high-speed fun!\nEnjoy drone racing with your friends and family!",
+        "languages": [
+            "en"
+        ],
+        "size": 183500800
+    },
     "70010000051802": {
         "id": "0100551017DF0000",
         "rightsId": null,
@@ -39720,6 +40294,47 @@
         ],
         "size": 228589568
     },
+    "70010000051967": {
+        "id": "0100F00017E96000",
+        "rightsId": null,
+        "name": "Bunny Mahjo",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220414,
+        "nsuId": 70010000051967,
+        "category": [
+            "Puzzle",
+            "Board Game",
+            "Strategy"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "DillyFrame",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2e97186f37f87ae5668a8ca9e8206f6e1ef82e300e2dd90827bde4398ad6f009.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f356d5f229d443e42945fe1bf6c59ea5fbaac325b3838e8f8427a56fd1684dfd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58aa6b5991dd296f8e80ba31fd564d717ae5dd426807d4456039e508ecb6f5ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3e923c30a85f4ff844cef6d25231aa1ae2f507626492727a0e90150e136479cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c978629b630c7efcc88708b3ff896717e060d735be5b3146c5c9098e1d4fce00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20ae7a9d697764bb25811a8152067e03986995c638db2c7007396594668250e9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e37ff1963defc10e9e1fa9ea406fab9eb259bb08bf4041373dc6a09ab8436667.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/540a496b4797318b9c10bedd6f9a5c8972c1ae2ef44054841763efd94ff7364d.jpg",
+        "intro": "Play Mahjong as a Bunny",
+        "description": "Classic Mahjong Solitaire is not single-player game anymore. You can play solo or in couch co-op in 3d-environment. Play together, win together, unlock more figures together.",
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "ru"
+        ],
+        "size": 297795584
+    },
     "70010000052125": {
         "id": "0100AE1017F12000",
         "rightsId": null,
@@ -39842,6 +40457,45 @@
         ],
         "size": 408944640
     },
+    "70010000052203": {
+        "id": "0100BB5017F46000",
+        "rightsId": null,
+        "name": "Super Car Driver",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220401,
+        "nsuId": 70010000052203,
+        "category": [
+            "Simulation",
+            "Racing",
+            "Action",
+            "Sports"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Pixelmob",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2f20ad3c8a9740cd4eb0d94266c7f32a295bb3cad3a0fccbcc9c9b48f49c77ff.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2e3de72cf3f249e10e441496dadaeb38fa6f317185872d734df58fab4430e485.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e357b2116cfbb89b574c1a9e7781631ff3727fe34de4d3bd0546240774557f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0588490bfa7e1b2744dc4b9a02ca53d52aa1bfdec695790300ce6f688cbf31c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e671777cd4ead44d3b39f03c7abb6a51918b50b12153936dd0b2983368588480.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7a8e6f29082e383f32ad46a83571d9b7b6ca48f8759151eacc3d1e75884696e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b46890ce5429baf32e2d751b207cb9455cf139753c6871502a8f763f954cd85b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/146f1a3d1e69f4bd9d3975267655b9980f00f52595d45cac8a9472c909af87de.jpg",
+        "intro": "The greatest Supercar Show has begun! It's your chance to drive the newest, most powerful cars around!",
+        "description": "Prepare for the excitement and joy of taking part in one of the greatest motor sports events!\n\nGAME FEATURES:\n\u25b6 IMPRESSIVE CAR COLLECTION : Drive 10 Awesome Cars\n\u25b6 PRO DRIVING MISSIONS: Huge campaign to beat, earn in-game money for your progress\n\u25b6 CAMERAS: Multiple cameras including First Person view for full immersion\n\nIn the game you will get the chance to drive around the festival grounds and beyond, exploring the whole sunny area where this amazing event is taking place in.\n\nDrive around varied, demanding courses. Explore the festival grounds, the neighboring area, avoid obstacles and try to reach the goal as fast as possible!",
+        "languages": [
+            "en"
+        ],
+        "size": 433061888
+    },
     "70010000052247": {
         "id": "0100A64017F6C000",
         "rightsId": null,
@@ -39907,6 +40561,43 @@
             "en"
         ],
         "size": 50331648
+    },
+    "70010000052583": {
+        "id": "0100751017FC8000",
+        "rightsId": null,
+        "name": "Dissection",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70010000052583,
+        "category": [
+            "Action",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "RandomSpin Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/fa04464c7f504c006e51e5ec06656ea35edd04937fe442b8144f6e68104e699d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4bd24a0fcf8eb12a788e2d323fa97a6a8aa6cc19d2d940a3fb0b47c4e535deb2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/47c39b91b8e7f9f8632c1dee149622201cec7ec49100473e550e3e9bdf8509fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cc5d67339f6d01c5509c17f1fca7949f23e8ba89fbd620db4ac91da978bf03d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27d623543988355bcf7082a5c09f8235d35e8dfc0da9c7433bdaed07ff16d5a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/464ecfbc4d2af39d1f1c4f37b1da1e88fe8eccecf798044059fd7640549a93b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4ab48cd528b3cb1d6648de224ae6b48ccb62c78c34ab4ef6f9c4fe616d8c44d0.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/90e8c2bf331da89f1079eb1be5c356117d01d2afce5239b60b5d6f374d4c2070.jpg",
+        "intro": "I don\u2019t remember how I got into this house. I only know that I need to quickly find a way out. Something terrible is walking around the house and looking for me.",
+        "description": "- Avoid meeting a 'living corpse'.\n- Hide from him in closets.\n- Find key items to progress through the game.\n- Find the key to the front door and run away from this house.",
+        "languages": [
+            "en"
+        ],
+        "size": 216006656
     },
     "70030000007383": {
         "id": null,
@@ -40864,6 +41555,34 @@
         "size": 3062890496,
         "parentId": "0100CC80140F8000"
     },
+    "70030000015607": {
+        "id": null,
+        "rightsId": null,
+        "name": "Imp of the Sun Demo",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000015607,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 1097859072,
+        "parentId": "01003C4016B12000"
+    },
     "70030000015727": {
         "id": null,
         "rightsId": null,
@@ -40891,6 +41610,32 @@
         "languages": null,
         "size": 1472200704,
         "parentId": "01004D300C5AE000"
+    },
+    "70030000015768": {
+        "id": null,
+        "rightsId": null,
+        "name": "HYPER DRONE X TrialEdtion",
+        "version": null,
+        "key": null,
+        "isDemo": true,
+        "region": null,
+        "releaseDate": null,
+        "nsuId": 70030000015768,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": null,
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 115343360,
+        "parentId": "0100D76017DAE000"
     },
     "70030000015867": {
         "id": null,
@@ -48046,6 +48791,41 @@
         "languages": null,
         "size": 3145728
     },
+    "70050000028884": {
+        "id": null,
+        "rightsId": null,
+        "name": "HOT WHEELS\u2122 - DC Super Heroes Racing Season",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70050000028884,
+        "category": null,
+        "ratingContent": [
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1b2c2b4ec4a621e9971a33777b1aa854c6f314d22b0fffdbec55bfd5ed5fe936.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c16cd3216d0e51a064aafdf02a39a37bf3bfe21c6a1961f29b5a99441b4fbb3b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cd6fb604b4c286bdb8f214afd338fb5ae74b112b208e8f47b81a9bbc94e93d74.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/84a21759a420bf66061c6d45da182e2ab6b0328fbf4442d03b8be933db5df542.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a7050d04b9558cda6afe18879a15f2e78da55c5d3a90f19d714890c21388771c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ea0e3716e3e358f4aa4d8ff0591b8c484021751ebe04458832eca8cbd0a57158.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9cdfdf06feb599e37daeb3a346308c1205bf49cf70752f2f21a97f186b115c6d.jpg",
+        "intro": null,
+        "description": "This season will be playable until: June 14, 2022.\n\nThe HOT WHEELS\u2122 - DC Super Heroes Racing Season will be available for purchase until:\n\nCET: June 09, 2022 at 6 pm\nET: June 09, 2022 at 12 pm\nPT: June 09, 2022 at 9 am\n\nMake way (and room in your collection) for DC Comics heroes and their super vehicles! \nWith HOT WHEELS\u2122 - DC Super Heroes Racing Season, a fantastic new season begins and it will be... super fun!\n\nThis DLC allows you to unlock all premium items of the season and add Nightwing\u2122 to your collection right away! In order to collect all the other exclusive super vehicles, prove your strength in the different challenges of this season and the force of Aquaman\u2122, the technological heart of Cyborg\u2122, the power of Supergirl\u2122, the speed of The Flash\u2122 and the strength of Shazam\u2122 will be yours! And then customize your Unleashed Profile and your Basement with 15 new unlockable items! This is really a Super DLC!\n\nWith this DLC you get access to 21 premium items:\n\n- 6 vehicles: Nightwing\u2122, Aquaman\u2122, Cyborg\u2122, Supergirl\u2122, The Flash\u2122, Shazam\u2122\n- 12 elements for your Basement: 3 walls, 2 floors, 2 doors, 2 decorations, 2 posters, 1 set of 4 posters\n- 3 elements for your Unleashed Profile: 1 icon, 1 tag, 1 background\n\nThis DLC is not included in any HOT WHEELS\u2122 Pass",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000028885": {
         "id": null,
         "rightsId": null,
@@ -48663,6 +49443,80 @@
         "description": "The wheel of fortune is always spinning\u2026 but to overcome this obstacle on the track you will need much more than just luck: class, speed and lightning-fast reflexes will be your secret weapons! Add Spinning Tire Module to your track and test your timing with this giant tire that rotates around the track \u2013 choose the right moment to avoid its unstoppable spinning bar or you'll be blown away without mercy! There's no getting around it: this module can really decide the fate of the competition.\n\nWith HOT WHEELS\u2122 - Spinning Tire Module\u2026 freewheeling fun is guaranteed!\n\nThis DLC is included in the HOT WHEELS\u2122 Pass Vol. 1",
         "languages": null,
         "size": 3145728
+    },
+    "70050000029458": {
+        "id": "01002DC0156A9002",
+        "rightsId": null,
+        "name": "Legacy Skins DLC",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70050000029458,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "ALL IN! GAMES",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/539997d5c6ba35165b393281683b95ecc8c8de558d0a6cdc227f26244c64bfca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9345ac9c8e5eb3110c9c3a5f786325974a1f000fa76a52ec250578285b75e14d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/53d3027440af886e7c1451bcb01a1b80851f0961bebba557cf88ef7b4687513e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46f71e2a7a6f2c6d50c55642ec7bb5b9e64019e06d97aa6b71c7479ba20a3273.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/00c94e58fc520b91ea3e77b3a9240a8ea218dbf074de195bd2226d9399f8b618.jpg",
+        "intro": null,
+        "description": "Prove yourself in exciting aerial battles and make a name for your squad as the best aces of WWI with a set of Legendary skins.\n\nDLC grants you an access to a set of unique Legendary skins for several planes. ",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01002DC0156A9002"
+        ]
+    },
+    "70050000029462": {
+        "id": "01002DC0156A9001",
+        "rightsId": null,
+        "name": "Heavy Metal DLC",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70050000029462,
+        "category": null,
+        "ratingContent": [
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "ALL IN! GAMES",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/345c3d8c0e88d1e792f200a7a24bc006c861e880e80b54ded334ddac17a771e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/47dfab2c066902c40768f7512559d450c37de8b540cc0aa582e09608b48c6047.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cc936eeff7a25f5b6b5a4946b3a539240d7e7b980000da78303711b679728b26.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e56b5c87fad4d0da1f74e14e36f95ff32769541b1760747c41092795056abc49.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/594a27f4c7a6c020c0541e20e43f6871df1231866c341a7a95a0c86f40e0502e.jpg",
+        "intro": null,
+        "description": "Prove yourself in exciting aerial battles and make a name for your squad as the best aces of WWI with a set of Heavy Metal skins.\n\nDLC grants you an access to a set of unique Heavy Metal skins for several planes. ",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01002DC0156A9001"
+        ]
     },
     "70050000029610": {
         "id": null,
@@ -59087,6 +59941,114 @@
         "languages": null,
         "size": 3145728
     },
+    "70050000033613": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Tsubasa: Rise of New Champions Taro Misaki Mission",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70050000033613,
+        "category": null,
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/33ac41906b90c8756e44ffcd5c6cab4c11b1ad4fd3216596849b9abd3401d81d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0907fceba00bc6dc7ee74f571a644cd37a7b7c68b11c101fb1cbd053e2fceab3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/32ddab2750ab45530696a7b27ebffa2ee52d2b071d34fdcd5c6a83f8e1f722a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb14e39ce303b4358e42ec6a11f5a47d2c522a83b20b62e1dae5ea1b95602317.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7e9e5e72745d7f9f431717b7a25f53955c6092e9b741a9fd82135f6df39fcfa3.jpg",
+        "intro": null,
+        "description": "Taro Misaki is now available as a new playable character in Captain Tsubasa: Rise of New Champions.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000033614": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Tsubasa: Rise of New Champions Hikaru Matsuyama Mission",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70050000033614,
+        "category": null,
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/56e0c1cca211c3465860aa19d3eec085e28597004472eb0c82cae34e78b4505d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0882879229197b7d56ab90492182ecff1f1f70c900587d25636ccaaaf4f7143.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f6025ca3867398454cc5079be069dd5f3459eae8e3bf6e8f1b0857b8b3296995.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f92300638b8edd3167e19270c5025bc8eab0950f04ef7f97c16d766b655d3b47.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/29d69d177823c292e4e2870de8c7f6f0726d51077a8b68823dcd343cc475394c.jpg",
+        "intro": null,
+        "description": "Hikaru Matsuyama is now available as a new playable character in Captain Tsubasa: Rise of New Champions.",
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000033615": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Tsubasa: Rise of New Champions Karl Heinz Schneider Mission",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70050000033615,
+        "category": null,
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/081a3fdb614216273f08d10ca886491b974b1f21775166627fcb35fa1ef58b07.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/48071adedc3d32783f1b7a15f626e253313e356dade1fd66a36645468a64500b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dc4197e2e819536b0dbc1188c8d1cb07e58d811a63b62d0d0f0562146515e651.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a932847da423f272a2f24b58a8c1fa67e6e8ea4c4a203212a9400f28173cf3a9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/76990b73ede8183c82964c9a33b00aa5ea50062c630b72941dc1cda45f9085ec.jpg",
+        "intro": null,
+        "description": "Karl Heinz Schneider is now available as a new playable character in Captain Tsubasa: Rise of New Champions.",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000033802": {
         "id": "0100763015C2F004",
         "rightsId": null,
@@ -59185,6 +60147,192 @@
         "ids": [
             "0100D7A017ADB001"
         ]
+    },
+    "70050000033967": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Tsubasa: Rise of New Champions Character Mission Pack 4",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221231,
+        "nsuId": 70050000033967,
+        "category": null,
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/286e6b0f93136005247380bd74b0b47e97e104c38d883c82198de2b829808511.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000033968": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Tsubasa: Rise of New Champions Character Mission Pack 5",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221231,
+        "nsuId": 70050000033968,
+        "category": null,
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/286e6b0f93136005247380bd74b0b47e97e104c38d883c82198de2b829808511.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000033969": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Tsubasa: Rise of New Champions Character Mission Pack 6",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221231,
+        "nsuId": 70050000033969,
+        "category": null,
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/286e6b0f93136005247380bd74b0b47e97e104c38d883c82198de2b829808511.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000033970": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Tsubasa: Rise of New Champions Character Mission Pack 7",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221231,
+        "nsuId": 70050000033970,
+        "category": null,
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/286e6b0f93136005247380bd74b0b47e97e104c38d883c82198de2b829808511.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000033971": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Tsubasa: Rise of New Champions Character Mission Pack 8",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221231,
+        "nsuId": 70050000033971,
+        "category": null,
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/286e6b0f93136005247380bd74b0b47e97e104c38d883c82198de2b829808511.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 3145728
+    },
+    "70050000033972": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Tsubasa: Rise of New Champions Character Mission Pack 9",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221231,
+        "nsuId": 70050000033972,
+        "category": null,
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/286e6b0f93136005247380bd74b0b47e97e104c38d883c82198de2b829808511.jpg",
+        "intro": null,
+        "description": null,
+        "languages": null,
+        "size": 3145728
     },
     "70070000000221": {
         "id": null,
@@ -62543,6 +63691,40 @@
         "languages": null,
         "size": 769654784
     },
+    "70070000013792": {
+        "id": null,
+        "rightsId": null,
+        "name": "Captain Tsubasa: Rise of New Champions Character Mission Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220331,
+        "nsuId": 70070000013792,
+        "category": null,
+        "ratingContent": [
+            "Mild Blood",
+            "Mild Language",
+            "Mild Violence",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "BANDAI NAMCO Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/db0892f9f1c3be214f9c779963a56a4f0460939c4761562e28358d54b5c241c8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41bf7872abe5ab7ae8255bf59ecfcb25349fc704146df5ce34294a477ba4763b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/286e6b0f93136005247380bd74b0b47e97e104c38d883c82198de2b829808511.jpg",
+        "intro": null,
+        "description": "Character Mission Pass gives you access to 9 characters with new abilities that can be used in Captain Tsubasa: Rise of New Champions.",
+        "languages": null,
+        "size": 28311552
+    },
     "70070000013832": {
         "id": null,
         "rightsId": null,
@@ -62806,6 +63988,43 @@
         "description": "An educational game for preschool children that will develop their motor skills and introduce them to the basics of writing letters and numbers in a child-friendly design.\n\nOnce this is mastered, you can move on to a more challenging game mode where children learn animals from A to Z in English! This will be a great introduction to learning languages and getting to know many fascinating animals. Maybe one of them will even become your child's favorite? ;-)\n\nBUNDLE INCLUDES \"EXTRA MUSIC PACK\" !\n\nModes:\n\u2605 Numbers\n\u2605 Animals\n\u2605 Uppercases\n\u2605 Lowercases\n\u2605 Your own words\n\nFeatures:\n\u2605 Learn animals in a fun way\n\u2605 Learn the alphabet from A to Z\n\u2605 Take your first steps in counting\n\u2605 Enjoy a smart interface designed for children\n\u2605 Listen and repeat to improve pronunciation\n\u2605 Play with colors and save your creations\n\u2605 Develop fine motor skills with the help of a guide",
         "languages": null,
         "size": 341835776
+    },
+    "70070000013934": {
+        "id": null,
+        "rightsId": null,
+        "name": "Horror Bundle: Paratopic + Fatum Betula",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220408,
+        "nsuId": 70070000013934,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Intense Violence",
+            "Strong Language",
+            "Use of Tobacco"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Baltoro Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/44b9bf36ea78d91c02372ce2350891ec4397349a293a9d841694bc5cce7545bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f93c1d7766561a3c8a673a90cd486d50e661c8330b6f829035501d45b73a0b5c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1a1d063916c3724d9607f9be1c06ca711ac9d945b989e93f918c5e62e2388c46.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8df422dbe866932372eceee7665f6039b2cd569c768a5553ec2ddc373ce1f6ee.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12ab4cbcff95a77b1a2378f76b83609ce39926a44f22fba5e6400a2292eb616a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/49f687b95a8046cff43624b4610606c453a6fc8b5873715ca30dbf740d106bdf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aaf208859e20f6fb3c7965530e37558ebf2635a16bd427494616416b97e2e7ae.jpg",
+        "intro": null,
+        "description": "Looking for a thrilling experience? This bundle is perfect for you! \n\nIt consists of two adventure games filled with mystery:\n- In Fatum Betula you will enter a world without a past that is sure to spark feelings of nostalgia, childlike fear and wonder.\n- Paratopic with its haunting atmosphere and horror vibe will remain in the dark corners of your mind after playthrough.\n\nGrab the horror bundle now and immerse yourself in retro 3D visuals and experimental gameplay!",
+        "languages": null,
+        "size": 1282408448
     },
     "70070000013956": {
         "id": null,
