@@ -9297,6 +9297,58 @@
         ],
         "size": 625999872
     },
+    "70010000027012": {
+        "id": "0100CB50107BA000",
+        "rightsId": null,
+        "name": "Truck Driver",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220401,
+        "nsuId": 70010000027012,
+        "category": [
+            "Simulation",
+            "Racing",
+            "Adventure",
+            "Lifestyle"
+        ],
+        "ratingContent": [
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Soedesco",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9141769b2cde94ae0e3710e91a1af1823e340bf0a0271d67f700b9f27a9c9d6b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0f8e6e7cea5cee5309fc3710067b293e98ecd6fd37177aeb55f61a39077c6ed8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62fdca476416d35e43c198b83a3e7059de5d5e9c20c6f3a25a08bac774ed68d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a319cb8f2d24d7b1fb25f9ce3b037a3d41ed6a9421755511f29e6967f733c04.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb0e4c01e36b1e10d0f2d9234393f19228ed1d9cc38742f82107583fd0703ca0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3f0026a4d72d741d43a616cd06c80a8779db19dcac350abbd81fa82978cc93d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a972ca2961dc9124683360137d75dca2727cb3c57c5a5966ade422d6833e95d8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c5008a7a08905a2dba13d8b5d4cb3da2902c7b048e20a56c3613b07438e09d96.jpg",
+        "intro": "Start from the bottom, take on jobs, buy new trucks & parts and become a respected Truck Driver!",
+        "description": "When you inherit a truck from your father, you decide to take your chance and move to a new city. Here, it\u2019s up to you to make a name for yourself and earn the respect of the local community. Drive through a seamless open world, work with all kinds of people ranging from a constructor to a lumberjack and honor your father by making it as a Truck Driver!\n\nFeatures\n\u25cf Enjoy a trucking experience focused on your career as a truck driver\n\u25cf Build stronger relationships with the local community with each job\n\u25cf Customize your truck with tons of parts and tune it to your liking\n\u25cf Navigate through diverse landscapes and interesting locations",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1850736640
+    },
     "70010000027179": {
         "id": "0100A130109B2000",
         "rightsId": null,
@@ -17089,7 +17141,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c00b20a81ba4710401c82e4e426db0019bdad9996e6b3f7e2357628b277b0890.jpg",
         "intro": "Explore the mysteries of an unknown land!",
-        "description": "\"Transiruby\" is a metroidvania game where you explore the world as a cyborg protagonist named Siruby. Slash and shoot your way to reveal its hidden secrets!\n\nA strange continent from a different dimension has suddenly appeared\u2026 and Siruby, a young cyborg traveling space just happens to pass by. Taking her trusty AI partner \u201cNe-com\u201d with her, she sets out to explore this unknown land.\n\nMeet other characters such as \u201cYamato\u201d, an unusual cyborg girl and \u201cDouglas\u201d the treasure hunter as you follow Siruby through her adventure.\n\nA new metroidvania game by Skipmore, the creators of \u201cKamiko\u201d and \u201cFairune\u201d!\nExpect the same high quality action\u2026 with a dash of adventure and puzzle-solving.\n\n\u25ce Quick, stress-free sword action\n\u25ce Collect golden \u201cTranchips\u201d to open doors to the next stage! \n\u25ce Freeze enemies using an element gun to use them as a foothold!\n\u25ce Perfect balance of puzzles and riddles accent the game!\n\u25ce Sylvie is a cyborg, so she can transform into a plane and a motorbike!",
+        "description": "\"Transiruby\" is a metroidvania game where you explore the world as a cyborg protagonist named Siruby. Slash and shoot your way to reveal its hidden secrets!\n\nA strange continent from a different dimension has suddenly appeared\u2026 and Siruby, a young cyborg traveling space just happens to pass by. Taking her trusty AI partner \u201cNe-com\u201d with her, she sets out to explore this unknown land.\n\nMeet other characters such as \u201cYamato\u201d, an unusual cyborg girl and \u201cDouglas\u201d the treasure hunter as you follow Siruby through her adventure.\n\nA new metroidvania game by Skipmore, the creators of \u201cKamiko\u201d and \u201cFairune\u201d!\nExpect the same high quality action\u2026 with a dash of adventure and puzzle-solving.\n\n\u25ce Quick, stress-free sword action\n\u25ce Collect golden \u201cTranchips\u201d to open doors to the next stage! \n\u25ce Freeze enemies using an element gun to use them as a foothold!\n\u25ce Perfect balance of puzzles and riddles accent the game!\n\u25ce Siruby is a cyborg, so she can transform into a plane and a motorbike!",
         "languages": [
             "ja",
             "en",
@@ -22368,6 +22420,57 @@
         ],
         "size": 2533359616
     },
+    "70010000043546": {
+        "id": "010016D0159D6000",
+        "rightsId": null,
+        "name": "Lumberhill",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220415,
+        "nsuId": 70010000043546,
+        "category": [
+            "Party",
+            "Simulation",
+            "Multiplayer",
+            "Action"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "ALL IN! GAMES",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f149fd1646dfbca2010a8d3196267ac7fcd53a6a3602816ab6dc74bf2b1f818a.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/980311da85f0b9db0068efc02c32b6ce728e6f5a376cd61e20b79f532907fb60.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5488bfc5388c0671184110358f4ec1fa5b0e3b109fed9c81bf5a6c291c3ff28a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a48c07dfd4f1cab8f8c5085aade082054c784cd697220b65ec1092bf25ce36f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2db06b2ceea0d7f1c2591b61266a6e8a4ed565afa98c0528e6c21afaf75736f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6282319e6a35f0e20a57489b78bf410ce03533bc5e10bfb0f863dbbbc6809d0a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f70c3e7aaa1c76238be91dfa101ab671f19bac23dc4eed690909cead9a9bf40.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c61b301da574c146b475505e67a822b56deaf64059d1718ad92dc6d4be464dcf.jpg",
+        "intro": "A hilarious multiplayer party game full of lumberjacks and chaos. Travel around the world and through time in co-op, pvp, or solo mode!",
+        "description": "A crazy multiplayer party game where lumberjacks try to get their tasks done and nature fights them every step of the way. Race against the clock, fulfill tasks, fight wildfires, pirates, and extremely annoying monkeys as you travel around the world and through time. Play in co-op, pvp, or solo mode!\n\nLumberjacks Versus Absolute Chaos\n\nSharpen your axe, call up your team, and iron your flannel! You\u2019re going to need your best teamwork skills because nature is united in getting in your way. In this chaotic race against time, you\u2019ll have to chop wood and chase animals back into their pens to fulfill tasks\u2026sounds easy, but it\u2019s not when there are meteors, dinosaurs, and nature itself set on stopping you. To succeed you\u2019ll have to race against the clock, find unorthodox paths through the map, work together as a team, and most importantly\u2014be prepared for anything!\n\nThrough Time and Around the World\n\nIf there\u2019s a tree, there\u2019s work for a lumberjack. Get ready for an incredible ride that will take you to the most unexpected periods and parts of the world and beyond! You\u2019ll get to explore new settings with unique events and mechanics as you progress and meet new animals\u2014big and small, rude and cute that you\u2019ll either want to cuddle or hide in the bushes from. Throughout your journey you\u2019ll also unlock tons of fun, new skins to really make for some crazy screenshots.\n\nMultiplayer Modes for Everyone\n\nWhether you\u2019re on the same sofa or miles apart, you can join axes and get to work: Lumberhill supports both local and online co-op! Feeling mischievous? Switch to PvP and chase your friends across the map (and off it!) as a ram or furious hog to keep them from fulfilling tasks. Want to see what you can accomplish alone? Chill out and enjoy a solitary journey in solo mode.\n\nIn Lumberhill you will:\n\n\u25cf\tPut your teamwork skills to the test with up to 3 additional friends in local or online co-op or pvp, or play alone in solo mode\n\u25cf\tHave your butt kicked by nature\n\u25cf\tComplete orders in a wide variety of challenging, time-limited levels\n\u25cf\tDeal with chaotic random events such as wildfires, meteor showers, and pirate attacks\n\u25cf\tUnlock new exciting worlds and a wide variety of skins as you progress\n\u25cf\tFind unexpected routes and ways of doing things\n\u25cf\tThrow pandas around and evade dinosaurs\n\u25cf\tProbably kick your friends off the map by accident a lot (or on purpose\u2014we don\u2019t judge)\n",
+        "languages": [
+            "ja",
+            "es",
+            "pt",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2147483648
+    },
     "70010000043579": {
         "id": "01001730159E8000",
         "rightsId": null,
@@ -22603,7 +22706,7 @@
         "languages": [
             "en"
         ],
-        "size": 1099956224
+        "size": 1182793728
     },
     "70010000043827": {
         "id": "0100CB7015AC4000",
@@ -23350,7 +23453,7 @@
         ],
         "ratingContent": [
             "Users Interact",
-            "In-Game Purchases"
+            "In-Game Purchases (Includes Random Items)"
         ],
         "numberOfPlayers": 4,
         "rating": 6,
@@ -36710,6 +36813,55 @@
         ],
         "size": 909115392
     },
+    "70010000049785": {
+        "id": "01005D30176A0000",
+        "rightsId": null,
+        "name": "Formula Retro Racing",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220415,
+        "nsuId": 70010000049785,
+        "category": [
+            "Racing",
+            "Arcade",
+            "Action",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "CGA Studio Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/330682452a608bdb15300fdf27baf3c951d1811c16de44195f5b491b8d446cf2.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/205e093615f90407be606510b824d58b73322b1a0064885512f05a7c7f39061f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af90554933b51dc121fd9e1ac006f65f53daa8ba287bd8bc0f6f8d5ddfd6365d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bd333d58307093c6548515c08e774cd0e2381abc7505ac6b66ff7fed956ce4b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e35fcc77aa29c90d855ac8783373fdc1ec0eb307217ded00d907fa6d888e731b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/54dd7359aed0781d4bbacd44def3ba85f68623aaf393ff911b9be8396c929929.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aac1a7af33cd3da6c912e698356f0bc1e0968536569c829e4c23f71173f7b5c8.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5542e1ccdafe2f40d1c384e06d8e6a34e6e737799bd8c56e2d2dcc51553d573d.jpg",
+        "intro": "Formula Retro Racing is a 8-circuit retro style racing game influenced by the classic arcade racers of the early 90\u2019s.",
+        "description": "Featuring the fast and exciting gameplay that the genre is known for, Formula Retro Racing captures the essence of old school racing games with low poly graphics, a retro soundtrack and high speed action. This revival of the classic-arcade racer takes advantage of modern hardware with smooth high-frame rate visuals as well as improved car handling and physics.\n \nRace through a diverse range of tracks across multiple game modes and car classes to beat your personal best times and compete in the global online leaderboards!\n\nFeatures\n\u2022 Retro arcade-racing action\n\u2022 8 unique tracks each with varying difficulty\n\u2022 Classic arcade checkpoint racing game mode\n\u2022 New \u2018Eliminator\u2019 game mode\n\u2022 High frame rate and retro visuals\n\u2022 Destructible cars with crazy crash physics\n\u2022 Best Lap and Race Time online leaderboards for each track \n\u2022 Up to 4 player split screen local multiplayer",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 483393536
+    },
     "70010000049807": {
         "id": "0100EA90176AE000",
         "rightsId": null,
@@ -39639,6 +39791,49 @@
         ],
         "size": 71303168
     },
+    "70010000051340": {
+        "id": "010040701787A000",
+        "rightsId": null,
+        "name": "Pad of Time",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220413,
+        "nsuId": 70010000051340,
+        "category": [
+            "Platformer",
+            "Action",
+            "Arcade",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Crude Humor",
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Markanime Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8f76370cbe91110a798a7cabfe8f0ccc0c8a6e5120b41da620990f9ae7500e9d.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f5960d51827786768aaeb413dd55cb163eb3584abf74131e4f5f49719780ec94.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0ce1a7aaf2b9851affd612bea6d777824e9a7c52ea762831dc93c86ea1ddd149.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca1402af1636b76e8af56a4c3affe6e81b0ec0238bb216d1930a8ec2ecdf836f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f005e90ba23e43ddd3842cac9409f4715bdbd3721fc4110017027001b61babe1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9880d14da608490f42e12bee2f6515f0a1ecaf0e649ee7d1c09a0af4cb4d5d58.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30dc298b8e7ad1feff610a50b2b3d8adfc0a95d4ab52aeae7607281a8d3b7106.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b1874926d63a2e89449af7f422ee56c979c9311f0bd886836731333c67b3ab7a.jpg",
+        "intro": "The time is in your hands",
+        "description": "It's time to play a 2.5D retro-style platformer, but with a twist. Now thanks to the time machine called \"Pad of Time\" you can explore the past, present and future of each level.\nGet ready to face tough bosses and try a new way to play levels with different playable characters: the balanced Mark, the fast July and the strong Art.",
+        "languages": [
+            "en"
+        ],
+        "size": 292552704
+    },
     "70010000051342": {
         "id": "01000DB017C84000",
         "rightsId": null,
@@ -39892,6 +40087,45 @@
         ],
         "size": 62914560
     },
+    "70010000051493": {
+        "id": "0100A41017D04000",
+        "rightsId": null,
+        "name": "Aery \u2013 A New Frontier",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220512,
+        "nsuId": 70010000051493,
+        "category": [
+            "Simulation",
+            "Adventure",
+            "Lifestyle",
+            "Other"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "EpiXR",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2cdb63655ae9909c3b2401e9a3b8aedc6ab2c7aa2c77b618c6c3a0317957efc8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/921b899c59589cb5e662e40b7dfc0badb2007a8e6052b99f90bfc6c3daa84261.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/10c3f71cacba2e4de958cd1b55551c57c6aa3416d2a60fdcc1eebbc43a88f048.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b74f262668107dea69d20a8edcf9864905ede014310aa4b871678527a3e61ae3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/398b40c74a4093e99aa423cb86bc5561fb981998783d43527e125997c33cdf2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f0ec97ebaa2c721af9a1531470bf6cf38f27b4fcc09f5c500cf0f0fa66d5c2cc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f53c29c4ce17667e98fc818c57def3388bba745df1eb4995ba292155210c8508.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fb9c5036966b13c79468794f79c0e3d95242fba9d8eac41b3fecf4d0b85d6ab7.jpg",
+        "intro": "Aery \u2013 A new Frontier is a story-driven 3D flight exploration game in which you control a bird-like creature while flying through a immersive but peaceful Sci-Fi world. ",
+        "description": "Aery \u2013 A New Frontier is a story-driven 3D flight exploration game in which you control a bird-like creature in space and on distant planets.\n\nYou can observe how humanity slowly evolves, inhabits new planets and discovers the secrets of the galaxy. \nWhile you progress through the story you will be able to see the different stages in which humanity has been at every state of their evolution. \nThe story itself talks about different events and milestones that have been reached as well as different happenings in between. \n\nYou can quite literally fly through space and time and different stages of human development.\nFollow an interesting story through a wonerful, peaceful Sci-Fi world and enjoy the speed of flying at the same time. \n\nThis story-driven game is non-violent so that you can enjoy the intuitive and relaxing gameplay in 8 giant different stages that are waiting to be explored.",
+        "languages": [
+            "en"
+        ],
+        "size": 4075814912
+    },
     "70010000051513": {
         "id": "01008B10178BE000",
         "rightsId": null,
@@ -40121,6 +40355,45 @@
         ],
         "size": 560988160
     },
+    "70010000051716": {
+        "id": "01000C8017DA2000",
+        "rightsId": null,
+        "name": "Rocket Cows",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220408,
+        "nsuId": 70010000051716,
+        "category": [
+            "Arcade",
+            "Action",
+            "Adventure",
+            "Shooter"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Entity3",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/dc2e33b2fafe8f1b833478da143c18a575db18b6d4334ffe84b17a9f1d57a592.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dec3148eebf6f04d33852b4f21dc3f69bf1c33aeebb420e316af480d54715bf6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d122f72480549bba82b8bdbdd6614266378a397053df10d37ce3ff406614677d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f7a18e12c1780859838ad9de95885ce417ae1f58d9cc1692415d66027426859.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c9f55c8c742d8b257c2cefa4745ea671f346d2c95f3e3375f8d142022862623b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3590a94c9ab94288b3a19bb8ca590eebcfd0142817ce80e123b0f48cdf84ce9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/68844b8be2926b3d522b4cb80ca5ff5f264c70cb9747c66f1539f7d9878a8bca.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/95465f22f9e5a1926e123587724297c026f6a6b0d572a70b3eacbfc5d680d620.jpg",
+        "intro": "The cows are 'udderly' fed up being abducted!",
+        "description": "Strap rockets to cows and take out those abducting little aliens in this destructive physics game!\nAim and lauch to smash down the aliens structures or go for a direct hit.\nRotate freely around the island to search for hidden aliens and TNT barrels.\n80 Great levels and hours of fun!",
+        "languages": [
+            "en"
+        ],
+        "size": 228589568
+    },
     "70010000051737": {
         "id": "0100D76017DAE000",
         "rightsId": null,
@@ -40335,6 +40608,47 @@
         ],
         "size": 297795584
     },
+    "70010000052005": {
+        "id": "010050F017AAC000",
+        "rightsId": null,
+        "name": "Feral Flowers",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220429,
+        "nsuId": 70010000052005,
+        "category": [
+            "Arcade",
+            "Action",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Comic Mischief",
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Starriver",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c3a47dac656d46a8519d19dcbf410eaa6dc566231e45443530ba8d7f0a0c0120.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7661d89c91ade19668c3f6367d21d2e5acf3cabba34732af9757825c2ec9e803.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/518836cffa5024ee4f50cf55b81d5ce0c9355019123472ac11106042676b937e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f7fcd69fc22d50cd998f59cbeea2e786e3a08b5d2421b8032cb2077325ff8ba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb42adf1a1f8d12cba5c544f9055bb5595b72b670f6a91b0410ff863e33397dc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0e2c5880e7090d5433edf26a61f1c0d67445e0cbacc261f07aca1926f6527295.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac0c4db9a58e6178ab21924652a2a6d1f581d5b2ef2d9b9de8a825a53bc84925.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67f51897e2f66005ab834f73d18144ba73369791dd2b38b4edb4677ef365b586.jpg",
+        "intro": "Perennial platforming action",
+        "description": "Feral Flowers is a lightning-fast romp through 92 levels of botanical platforming mayhem.\n\nPlaying as Quigley the Gardener, you'll battle hordes of pollen-spewing flowers. Owing to his rather unfortunate pollen allergy, you'll need to battle against the clock to beat them before the air gets too dense and you sneeze yourself all the way back to the first stage. In other words: if you don't move fast, you'll be fighting through bullet hell!\n\nBe warned, Game Overs will feature heavily for most players - but for those who venture far enough, you'll find ways of quickly recouping your progress\u2026",
+        "languages": [
+            "en"
+        ],
+        "size": 136314880
+    },
     "70010000052125": {
         "id": "0100AE1017F12000",
         "rightsId": null,
@@ -40456,6 +40770,44 @@
             "en"
         ],
         "size": 408944640
+    },
+    "70010000052185": {
+        "id": "0100C58017F32000",
+        "rightsId": null,
+        "name": "Pocket Rockets",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220401,
+        "nsuId": 70010000052185,
+        "category": [
+            "Arcade",
+            "Action",
+            "Adventure",
+            "Platformer"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Entity3",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5d8f5c48fbd8e13ab195a07efad037af4106d4d3ad1a9499a478e1958680c02b.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4826d20bedfad83aa3a134fd7461a58ec6007637220d45601faa5e89698acf99.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ecc293bd12d9a1d42858b68c5f2d4878ac808a93f9e36417fd1e08d314e00aa4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0e8fc5c40c13ad05a646257de481575a8302a213b3bcf4871ce23182dde9a82.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4beae4d76ef6512e7ec4edfd341aef4adaec7fd3a51d51abb5ebf02ff6a6d1a2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b2612f42a2e98ce7876572d3d7ad73139f91fed42f0ea4f654740fc492008dd5.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b7f11efba058254404badf4d3ab844d75f06730769d65d7d1cc28f617719e1f9.jpg",
+        "intro": "retro rocket action!",
+        "description": "Fly rockets through dangerous and challenges courses in Pocket Rockets\nSimply navigate left or right to thrust the rocket around the course\nCollect coins, unlock rockets and don't run out of fuel!\nEnjoy some retro pixelated fun and experience a new challenge!",
+        "languages": [
+            "en"
+        ],
+        "size": 87031808
     },
     "70010000052203": {
         "id": "0100BB5017F46000",
@@ -40598,6 +40950,40 @@
             "en"
         ],
         "size": 216006656
+    },
+    "70010000052728": {
+        "id": "01005100180DC000",
+        "rightsId": null,
+        "name": "Micro Stunt Machina",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220409,
+        "nsuId": 70010000052728,
+        "category": [
+            "Arcade"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Pix Arts",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3785f0db2de07707ed293afb850ac0888d02517058781b9ed8b8811683e311b9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/21fb800fc08adc5a9c3d7a21134a898f204d908f9c0958dbbc31060882d1bbc6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4eb3d3652e71137d2851ca7dd5d342b2f8090c85afa9321cc30c45d869b37796.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/740ec85c6046cae21dcfb4d59182a290b28d2faa77a34988a60ea8ebf945d952.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ea4f4f13127f7b619d5a1f0bad3dd39a24840aecb0dc96fa7e4a74b07373d75.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/30cd94b6f2db69e09ea0b719f796d0f21a0e00f316fbecd5736f930bd565f1de.jpg",
+        "intro": null,
+        "description": "Micro Stunt Machina is a casual game perfect mix of puzzle and arcade. On 80 Levels, get your micro-cars to the finish line going through obstacles over micro-tracks. Use the correct actions to get your vehicules throughout the different housing sceneries.\nWith a very high depth of play, you'll enjoy long hours of fun guaranteed.",
+        "languages": [
+            "en"
+        ],
+        "size": 112197632
     },
     "70030000007383": {
         "id": null,
@@ -57850,7 +58236,7 @@
         "category": null,
         "ratingContent": [
             "Users Interact",
-            "In-Game Purchases"
+            "In-Game Purchases (Includes Random Items)"
         ],
         "numberOfPlayers": null,
         "rating": 6,
@@ -63328,7 +63714,7 @@
         "category": null,
         "ratingContent": [
             "Users Interact",
-            "In-Game Purchases"
+            "In-Game Purchases (Includes Random Items)"
         ],
         "numberOfPlayers": null,
         "rating": 6,
