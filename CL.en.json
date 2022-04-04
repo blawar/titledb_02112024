@@ -17527,7 +17527,7 @@
             "zh",
             "zh"
         ],
-        "size": 7952400384
+        "size": 7963934720
     },
     "70010000038703": {
         "id": "01000460144B4000",
@@ -23475,7 +23475,7 @@
         "languages": [
             "en"
         ],
-        "size": 20425211904
+        "size": 20560478208
     },
     "70010000044479": {
         "id": "0100751015DC2000",
@@ -36177,6 +36177,51 @@
             "en"
         ],
         "size": 904921088
+    },
+    "70010000049575": {
+        "id": "010087D017578000",
+        "rightsId": null,
+        "name": "Inner Voices",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220414,
+        "nsuId": 70010000049575,
+        "category": [
+            "Adventure",
+            "First-Person Shooter",
+            "Action",
+            "Other"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "No Gravity Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d3997ea285190ecd3fff264be3ba4632bfba3c0da0eca20ddc65d887f1eac377.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7ce68d3286647044c3e066ffd1dff9399b1b07da1b75388e908a7fb8c8ad67db.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9accad5f934381d0a55de964db887d36deffa200c59311c80a7b78ba326cee81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/12e2609c041502e1b1d4f4d1d841795b30ee71b3fe057839dcd583f7b5816d55.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0c4178d13bafcafadc1b4a06c35fd4d1c568b1afa501fd1e1cee1dcd53c29f4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d7bbfa06eed0a7f67adb9b724530b2d130fdc46515e259bae589c7c979ce16c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be9bf7b36b3c04e27ddefb7003e962d985f90be59200eee94ab1666d3ed7b3e7.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/233d4ae2966c4802db9b7a81896305a5664bf77662a192525b4c2d6c1896d180.jpg",
+        "intro": "A non-linear, dark first person adventure game with horror, rogue-like elements and 5 endings. Inspired by the works of Lovecraft, Poe and King, Procedurally generated user path.",
+        "description": "Tune yourself to the voices lurking in the head of John Blake - the tormented man dwelling in a trap\u2026 that only you can guide him out of.\nYou will never know whether what you see is true - and you can be sure, that even after you\u2019ve escaped the trap, not all had been discovered\u2026\nYou will be constantly searching for a way to escape the randomised maze of rooms, you will be haunted by new voices and you will be the one deciding\u2026 who dies.\n\nMeet John and his past in possibly the only adventure game with a non-linear plot, procedurally generated user path and (more than) a pinch of the atmosphere of your favorite horrors.\n\nFEATURES:\n- NON-LINEAR storyline.\n- Intriguing, disquieting gameplay due to the ever-changing randomized maze.\n- Unique, dark atmosphere inspired by the works of H.P.Lovecraft, E.A.Poe and S.King.\n- An amazing experience thanks to the moody soundtrack and audio design.\n- Addictive story full of plot twists and choices that may lead you to one of 5 different ending.\n- Engaging puzzles with different levels of complexity.\n",
+        "languages": [
+            "en",
+            "ru",
+            "zh",
+            "zh"
+        ],
+        "size": 6771703808
     },
     "70010000049577": {
         "id": "0100D20015C06000",
@@ -63734,7 +63779,7 @@
         "intro": "Every pitch. Every hit. Every win. Make your mark and Own the Show in MLB\u00ae The Show\u2122 22.  ",
         "description": "Pre-order to get the Gold Choice pack.\n\nThe Digital Deluxe Edition includes:\n- Four Days Early Access.\n- One Diamond Choice pack.\n- One Cover Athlete Diamond Choice pack.\n- Five Gold Choice packs.\n- 20 The Show packs.\n- One Ballplayer pack.\n- Double daily login rewards.\n- Cover Athlete Themed Bat Skin.\n- 25K Stubs\u2122.\n\nEvery pitch. Every hit. Every win. Make your mark and Own the Show in MLB\u00ae The Show\u2122 22.  \n\n Diamond Dynasty is back and better than ever! Play, collect, and build on your fantasy card collection and bring to life on the diamond.*  Try the new Mini Seasons mode, where each season brings new challenges as you face off against a new set of competition!\n- Create and use multiple Ballplayers, beyond your Road to the Show personalized Baseball RPG experience, and customize your Ballplayers how you want to aid in your progression.\n- Face your friends with cross-platform play.** With cross progression, continue your progress and earn and use content on other console platforms.*** \n- Stepping up to the plate for the first time? Tailor your experience with gameplay styles and two new difficulty settings to help you get the hang of the basics.\n- Play March to October in your style, with updated mode tools to utilize custom uniforms, logos, and created stadiums.\n- New Intro Presentations provide the most immersive ballpark experience yet.\n- Live out your dream Baseball matchups with new Legends joining the diamond.",
         "languages": null,
-        "size": 20428357632
+        "size": 20563623936
     },
     "70070000013575": {
         "id": null,
