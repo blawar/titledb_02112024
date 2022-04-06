@@ -5366,7 +5366,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e52844f237f452c187db5daec14c3300f45d7be100c1dcff88c7188c8b9b48a9.jpg",
         "intro": null,
-        "description": "Pre-order the game and get day one access to the Trooper Pack. The digital edition also includes an exclusive classic Obi-Wan Kenobi playable character. \n\nPlay through all nine Star Wars saga films in a brand-new LEGO video game unlike any other. Experience fun-filled adventures, whimsical humor, and the freedom to fully immerse yourself in the LEGO Star Wars galaxy.\n\nWant to play as a Jedi? A Sith? Rebel, bounty hunter, or droid? LEGO Star Wars: The Skywalker Saga features hundreds of playable characters from throughout the galaxy. Whether on land or in space, a variety of vehicles are yours to command. Jump to light speed in the Millennium Falcon, fly the T-47 Airspeeder and battle TIE fighters in Resistance X-wings\u2026 it's the ULTIMATE LEGO Star Wars experience.",
+        "description": "The galaxy is yours in LEGO\u00ae Star Wars\u2122: The Skywalker Saga. Experience memorable moments and nonstop action from all nine Skywalker saga films reimagined with signature LEGO humor.  \n\nThe digital edition includes an exclusive classic Obi-Wan Kenobi playable character.  \n\n\u25cf Explore the Trilogies in Any Order \u2013 Players will relive the epic story of all nine films in the Skywalker Saga, and it all starts with picking the trilogy of their choice to begin the journey.\n\n\u25cf Play as Iconic Heroes and Villains \u2013More than 300 playable characters from throughout the galaxy. \n\n\u25cf Discover Legendary Locales \u2013 Players can visit well known locales from their favorite Skywalker saga films .They can unlock and have the freedom to seamlessly travel to 23 planets as they play through the saga or explore and discover exciting quests.  \n\n\u25cf Command Powerful Vehicles \u2013  More than 100 vehicles from across the galaxy to command.  Join dogfights and defeat capital ships like the Super Star Destroyer that can be boarded and explored. \n\n\u25cf Immersive Player Experiences \u2013 String attacks together to form combo chains and fend off oncoming attacks. New blaster controls and mechanics allow players to aim with precision, or utilize the skills of a Jedi by wielding a lightsaber and using the power of The Force. \n\n\u25cf Upgradable Character Abilities \u2013 Exploration rewards players as they uncover Kyber Bricks which unlock new features and upgraded abilities across a range of character classes, including Jedi, Hero, Dark Side, Villain, Scavenger, Scoundrel, Bounty Hunter, Astromech Droid, and Protocol Droid.",
         "languages": [
             "ja",
             "en",
@@ -11003,6 +11003,48 @@
         ],
         "size": 70254592
     },
+    "70010000030336": {
+        "id": "0100D96011D0E000",
+        "rightsId": null,
+        "name": "Debtor",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220407,
+        "nsuId": 70010000030336,
+        "category": [
+            "Puzzle",
+            "Platformer",
+            "Arcade",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Drageus Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4a86f1109a4a620a8531e3f183e58d57db5d36d949606171b737e209e829228c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/19e15ea8757fad01fdd0e66c2419e587fb9abf12cb73774a586630beda334130.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9c3e1d465dea0876452da639c066e3840b867124511d2a147941c350d75e639e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/750ef5c35572b0cc7550293b5311bfb590958d301ecfb088eb8bf99f3808dee9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d0bfba389a2d78104288848146b93de8c93bca4f266b8176329c57208c595bff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c8c76970e152b2dfd7253047855b8c83ed7ff9415238ad17e6f86cacd2be863f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7b8bac857a024c5468cd10d1dbfdf10feb49e06f59cbdff4ecdf8d203d691814.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6b982fe8f8a0d102a7443ef4706709d4fbb9ea752b410e22fc7ac35480c78265.jpg",
+        "intro": "Classic puzzle-platformer with fun characters and mechanics.",
+        "description": "Did you just wake up in the afterlife? The only thing you know is that you\u2019re tasked with a strange mission - collect all your debts!\n\nPick all the coins in 30 levels full of riddles, lethal traps, ruthless enemies...and time pressure! \nBe smart, be fast and make the best use of your hero\u2019s assets: a rock-solid head that can crush blocks and some good ol\u2019 explosives.\nYou also need to take advantage of your environment by pushing and placing boxes in a clever way.\n\nJust like in the golden days of gaming, enjoy some nice chiptune music, silly characters and pixel graphics and challenging puzzle-platforming action.\n",
+        "languages": [
+            "en"
+        ],
+        "size": 54525952
+    },
     "70010000030406": {
         "id": "010025F011DB4000",
         "rightsId": null,
@@ -11101,7 +11143,7 @@
             "zh",
             "zh"
         ],
-        "size": 897581056
+        "size": 946864128
     },
     "70010000030590": {
         "id": null,
@@ -25754,7 +25796,7 @@
             "zh",
             "zh"
         ],
-        "size": 734003200
+        "size": 1050673152
     },
     "70010000045790": {
         "id": "010055B01636A000",
@@ -32808,6 +32850,53 @@
         ],
         "size": 298844160
     },
+    "70010000048443": {
+        "id": "010023E016EDA000",
+        "rightsId": null,
+        "name": "Wild West Crops",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220415,
+        "nsuId": 70010000048443,
+        "category": [
+            "Platformer",
+            "Action",
+            "Shooter",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/797c89dedb63311084b81587076b3d3a71770e06cd0f5ca9d87f67def3597ee3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2047a954d68fcf60567e95e8d06cd723a2bf9b13c137d26626b6ebd75aa0c98d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95dc494e77ba37fad59ef275daa70c7b1d445eeb791bb4f1cbab71c677445594.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/90e2b243a209a68fdb42c679b800d018e7e107e7183e0587a4c677882eab7027.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91bfee753020d95aeb93367dd2c1225331bd1bc586f46d601077d358bee7eb7a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c300e1a12dfe1d469ec95b13802d8b5605707fa26c2f6313486e463900d5be77.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/59513ef090a4e52329ddd707cd0e1daa20f04f2514199ccc8d6d7688e2792e8b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b112d2f87979f95707414ea77ca70fc9090f5341d596f514dc9236aafd64d08e.jpg",
+        "intro": "Be a cowboy and liberate your hometown from mutant vegetables!",
+        "description": "Wild West Crops is a retro-style mini metroidvania game that tells the story of El Gatito, a cool cat who fights against mutant crops to save Meowtown. \n\nIt was a peaceful night, like any other in Meowtown, suddenly a giant radioactive meteor fell on the city's plantations turning the crops into mutants who wanted to destroy everything around them. Now, it's up to El Gatito to rescue the city from this terrible vegetable menace! \n\nPlaying as El Gatito, you will travel through numerous locations during the Old West period, searching for powerful items to help you defeat your foes. \n\n\nFeatures \n* Visit different scenarios during the Old West\n* Colorful 8-bit style graphics\n* Vibrant Western-style music\n* Different special items with helpful abilities\n* Epic boss battles",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "pt",
+            "ru"
+        ],
+        "size": 40894464
+    },
     "70010000048449": {
         "id": "0100498016EE0000",
         "rightsId": null,
@@ -35194,7 +35283,7 @@
             "de",
             "it"
         ],
-        "size": 47185920
+        "size": 81788928
     },
     "70010000049188": {
         "id": "0100A31017238000",
@@ -37057,7 +37146,7 @@
             "zh",
             "zh"
         ],
-        "size": 483393536
+        "size": 538968064
     },
     "70010000049807": {
         "id": "0100EA90176AE000",
@@ -58307,14 +58396,14 @@
         ]
     },
     "70050000032237": {
-        "id": null,
+        "id": "010082A01538F0CE",
         "rightsId": null,
         "name": "Sophie's Swimsuit \"White Canvas\"",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20220531,
+        "releaseDate": 20220407,
         "nsuId": 70050000032237,
         "category": null,
         "ratingContent": [
@@ -58328,22 +58417,29 @@
         "publisher": "KOEI TECMO AMERICA",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12d1ca6563a3457aa26cdda09f34894a47ea3b34508f77267cd0bd4e14c01805.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ed2f2b0988ead7d4f83861b123ee7461c0580d6f8efb4634596fa24a4404d0b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4c31e670307467284716ce5ae74749a42b4de327a63fcf4ecf4d8f00056266ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d59517b6666fa4cb91d106561d6b32eff3dc81fe3dafb657caa9f771cc9a45a9.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67bcf18f88c359eab0c0a6e23795ca9cc1a1e2c806891dfe0fde5bec77d4913c.jpg",
         "intro": "A new swimsuit for Sophie!",
-        "description": "An additional costume for Sophie: \"White Canvas\".\n\nNote: This item is planned to be released before the end of May 2022. \n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
+        "description": "An additional costume for Sophie: \"White Canvas\".\n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
         "languages": null,
-        "size": 0
+        "size": 7340032,
+        "ids": [
+            "010082A01538F0CE"
+        ]
     },
     "70050000032239": {
-        "id": null,
+        "id": "010082A01538F0CF",
         "rightsId": null,
         "name": "Plachta's Swimsuit \"Clivia Nobilis\"",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20220531,
+        "releaseDate": 20220407,
         "nsuId": 70050000032239,
         "category": null,
         "ratingContent": [
@@ -58357,22 +58453,29 @@
         "publisher": "KOEI TECMO AMERICA",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12d1ca6563a3457aa26cdda09f34894a47ea3b34508f77267cd0bd4e14c01805.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ef5c890fbe8a6ce5586aa8751d8f29ca8169076fab7136acd5712978ce9db14f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/269bf6df87fa2c6897fadbb555e719ff0c31bb451c96598ab0395ea95cfe49ef.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eccaaf48d94092fafc3c5d4430a64621621503988b77d109aea10253f539a4bf.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b8573d63e7a98cb15d5539917f75da40c0e47e94b14ab931db99a9bbffaf18fc.jpg",
         "intro": "A new swimsuit for Plachta!",
-        "description": "An additional costume for Plachta: \"Clivia Nobilis\".\n\nNote: This item is planned to be released before the end of May 2022. \n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
+        "description": "An additional costume for Plachta: \"Clivia Nobilis\".\n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
         "languages": null,
-        "size": 0
+        "size": 11534336,
+        "ids": [
+            "010082A01538F0CF"
+        ]
     },
     "70050000032241": {
-        "id": null,
+        "id": "010082A01538F0D0",
         "rightsId": null,
         "name": "Ramizel's Swimsuit \"Agapanthus Romance\"",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20220531,
+        "releaseDate": 20220407,
         "nsuId": 70050000032241,
         "category": null,
         "ratingContent": [
@@ -58386,22 +58489,29 @@
         "publisher": "KOEI TECMO AMERICA",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12d1ca6563a3457aa26cdda09f34894a47ea3b34508f77267cd0bd4e14c01805.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1b9266414afd4bbc589379c327660ac4543c6165ec163b6a449870abad55e8cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/36179c60f4e570a6d3cd723f67c6a2f46958ea6980fe52efba221b5fa00c3f86.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f827db77bb8a05f4c60527e41b0f88a9b49b3bd7d1891c85c69ef27ed6861173.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fa99cf5509d6ebd09985e21f96450603307fad62ea099fa84bc05d94043aa0b0.jpg",
         "intro": "A new swimsuit for Ramizel!",
-        "description": "An additional costume for Ramizel: \"Agapanthus Romance\".\n\nNote: This item is planned to be released before the end of May 2022. \n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
+        "description": "An additional costume for Ramizel: \"Agapanthus Romance\".\n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
         "languages": null,
-        "size": 0
+        "size": 9437184,
+        "ids": [
+            "010082A01538F0D0"
+        ]
     },
     "70050000032243": {
-        "id": null,
+        "id": "010082A01538F0D1",
         "rightsId": null,
         "name": "Alette's Swimsuit \"Rainmaker\"",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20220531,
+        "releaseDate": 20220407,
         "nsuId": 70050000032243,
         "category": null,
         "ratingContent": [
@@ -58415,22 +58525,29 @@
         "publisher": "KOEI TECMO AMERICA",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12d1ca6563a3457aa26cdda09f34894a47ea3b34508f77267cd0bd4e14c01805.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f835cc7ac9d86d6597136eb767f7efdd21a911c4141106d32088507987bdfb5a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/374f67b33beead4df715c440e8a67a88d336e808a956823fc42d0ae9d7587262.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/72cb93021d7ceba4bb3b1dd6c4a6330f74fdd2fb926c5c1b9fd6844d2dca331d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ea1a247d05ad5d829535080ba1b77b8dcc7472ab55b3b0ad735622f92bbbc76.jpg",
         "intro": "A new swimsuit for Alette!",
-        "description": "An additional costume for Alette: \"Rainmaker\".\n\nNote: This item is planned to be released before the end of May 2022. \n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
+        "description": "An additional costume for Alette: \"Rainmaker\".\n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
         "languages": null,
-        "size": 0
+        "size": 8388608,
+        "ids": [
+            "010082A01538F0D1"
+        ]
     },
     "70050000032245": {
-        "id": null,
+        "id": "010082A01538F0D2",
         "rightsId": null,
         "name": "Olias's Swimsuit \"Vegetable Garden\"",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20220531,
+        "releaseDate": 20220407,
         "nsuId": 70050000032245,
         "category": null,
         "ratingContent": [
@@ -58444,22 +58561,29 @@
         "publisher": "KOEI TECMO AMERICA",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12d1ca6563a3457aa26cdda09f34894a47ea3b34508f77267cd0bd4e14c01805.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1590985dbabaa1fb77409eb34aef4a9a8ef3dd3610d7fa9aadafb8db1747afbd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8ea02885c45066a3d9fb8fded613c6c2f94fdd9faddf6c4c771316ef0b53fd4d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a8629e6e045f1b8a050a7865bdd1f2d9718269599ff190235f780801cedf54f.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a3f75bd5b009fbb73049d8e4de65cc305b00fb0ecff5d3d3b2b7402a8f57ad71.jpg",
         "intro": "A new swimming costume for Olias!",
-        "description": "An additional costume for Olias: \"Vegetable Garden\".\n\nNote: This item is planned to be released before the end of May 2022. \n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
+        "description": "An additional costume for Olias: \"Vegetable Garden\".\n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
         "languages": null,
-        "size": 0
+        "size": 8388608,
+        "ids": [
+            "010082A01538F0D2"
+        ]
     },
     "70050000032247": {
-        "id": null,
+        "id": "010082A01538F0D3",
         "rightsId": null,
         "name": "Diebold's Swimsuit \"Knight Commander\"",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20220531,
+        "releaseDate": 20220407,
         "nsuId": 70050000032247,
         "category": null,
         "ratingContent": [
@@ -58473,12 +58597,19 @@
         "publisher": "KOEI TECMO AMERICA",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/12d1ca6563a3457aa26cdda09f34894a47ea3b34508f77267cd0bd4e14c01805.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/381722c64ef806689572fe296e1604188f216b4518ae4bc515d6a68c5ef18d9c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f3e5812073a9a154bf9a57e5ffdca2a33de90a0fdd82df73ea6a53d477fe581d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8d6d37f79e22a7e78453f3f507e9b192982f9b137afcbe3b5c905650d3ab5ff3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/54951bb632b4d56089edc464f9d95c541c5dcc5b13a8c7cbf272ff58df70545d.jpg",
         "intro": "A new swimming costume for Diebold!",
-        "description": "An additional costume for Diebold: \"Knight Commander\".\n\nNote: This item is planned to be released before the end of May 2022. \n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
+        "description": "An additional costume for Diebold: \"Knight Commander\".\n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
         "languages": null,
-        "size": 0
+        "size": 9437184,
+        "ids": [
+            "010082A01538F0D3"
+        ]
     },
     "70050000032249": {
         "id": null,
@@ -58508,6 +58639,38 @@
         "description": "An additional story episode with young Plachta as the main character, set in the time after she arrived in Erde Wiege and before she first met Sophie. Players will play as Plachta, with Diebold and Ramizel available as party members.\n\nNote: This item is planned to be released before the end of May 2022. \n\nNote: After you clear this story, the area and items added with this DLC will be added to the main game.\nThe additional story features Japanese voice-over.\nThis content will appear on the title screen after it is installed.\nPlease visit the official website for more information. \nThis item is included in the \"Atelier Sophie 2 Season Pass\". Please avoid making redundant purchases.",
         "languages": null,
         "size": 0
+    },
+    "70050000032313": {
+        "id": "010042D00D901009",
+        "rightsId": null,
+        "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga Classic Character Pack [code redemption only]",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220405,
+        "nsuId": 70050000032313,
+        "category": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "WB Games",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7bcf70894398f5c8a7cff591b8c68bbd125b8806b12fad746516831e726e752c.jpg",
+        "intro": null,
+        "description": "Play as the classic LEGO variants of Luke, Leia, Han, Lando and Darth Vader in LEGO\u00ae Star Wars\u2122: The Skywalker Saga. Explore the galaxy as iconic characters based on the original LEGO\u00ae minifigures from 1999.",
+        "languages": null,
+        "size": 6291456,
+        "ids": [
+            "010042D00D901009"
+        ]
     },
     "70050000032321": {
         "id": "0100876015D75001",
@@ -60036,7 +60199,7 @@
         ]
     },
     "70050000033145": {
-        "id": null,
+        "id": "010042D00D90100C",
         "rightsId": null,
         "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga Mumble Mode Pack",
         "version": null,
@@ -60062,10 +60225,13 @@
         "intro": null,
         "description": "Download this pack and enjoy LEGO\u00ae Star Wars\u2122: The Skywalker Saga in mumble mode.",
         "languages": null,
-        "size": 94371840
+        "size": 94371840,
+        "ids": [
+            "010042D00D90100C"
+        ]
     },
     "70050000033146": {
-        "id": null,
+        "id": "010042D00D90100D",
         "rightsId": null,
         "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga French Language Pack",
         "version": null,
@@ -60091,10 +60257,13 @@
         "intro": null,
         "description": "Download this pack and enjoy LEGO\u00ae Star Wars\u2122: The Skywalker Saga with dialogue in French.",
         "languages": null,
-        "size": 560988160
+        "size": 560988160,
+        "ids": [
+            "010042D00D90100D"
+        ]
     },
     "70050000033147": {
-        "id": null,
+        "id": "010042D00D90100E",
         "rightsId": null,
         "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga German Language Pack",
         "version": null,
@@ -60120,10 +60289,13 @@
         "intro": null,
         "description": "Download this pack and enjoy LEGO\u00ae Star Wars\u2122: The Skywalker Saga with dialogue in German.",
         "languages": null,
-        "size": 589299712
+        "size": 589299712,
+        "ids": [
+            "010042D00D90100E"
+        ]
     },
     "70050000033148": {
-        "id": null,
+        "id": "010042D00D90100F",
         "rightsId": null,
         "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga Italian Language Pack",
         "version": null,
@@ -60149,10 +60321,13 @@
         "intro": null,
         "description": "Download this pack and enjoy LEGO\u00ae Star Wars\u2122: The Skywalker Saga with dialogue in Italian.",
         "languages": null,
-        "size": 592445440
+        "size": 592445440,
+        "ids": [
+            "010042D00D90100F"
+        ]
     },
     "70050000033149": {
-        "id": null,
+        "id": "010042D00D901010",
         "rightsId": null,
         "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga Spanish Language Pack",
         "version": null,
@@ -60178,10 +60353,13 @@
         "intro": null,
         "description": "Download this pack and enjoy LEGO\u00ae Star Wars\u2122: The Skywalker Saga with dialogue in Spanish.",
         "languages": null,
-        "size": 589299712
+        "size": 589299712,
+        "ids": [
+            "010042D00D901010"
+        ]
     },
     "70050000033150": {
-        "id": null,
+        "id": "010042D00D901011",
         "rightsId": null,
         "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga Polish Language Pack",
         "version": null,
@@ -60207,10 +60385,13 @@
         "intro": null,
         "description": "Download this pack and enjoy LEGO\u00ae Star Wars\u2122: The Skywalker Saga with dialogue in Polish.",
         "languages": null,
-        "size": 583008256
+        "size": 583008256,
+        "ids": [
+            "010042D00D901011"
+        ]
     },
     "70050000033151": {
-        "id": null,
+        "id": "010042D00D901012",
         "rightsId": null,
         "name": "LEGO\u00ae Star Wars\u2122:Skywalker Saga Portuguese (Brazil) Pack",
         "version": null,
@@ -60236,10 +60417,13 @@
         "intro": null,
         "description": "Download this pack and enjoy LEGO\u00ae Star Wars\u2122: The Skywalker Saga with dialogue in Brazilian Portuguese.",
         "languages": null,
-        "size": 585105408
+        "size": 585105408,
+        "ids": [
+            "010042D00D901012"
+        ]
     },
     "70050000033152": {
-        "id": null,
+        "id": "010042D00D901013",
         "rightsId": null,
         "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga Spanish (Mexico) Pack",
         "version": null,
@@ -60265,10 +60449,13 @@
         "intro": null,
         "description": "Download this pack and enjoy LEGO\u00ae Star Wars\u2122: The Skywalker Saga with dialogue in Spanish (Mexico).",
         "languages": null,
-        "size": 573571072
+        "size": 573571072,
+        "ids": [
+            "010042D00D901013"
+        ]
     },
     "70050000033153": {
-        "id": null,
+        "id": "010042D00D901014",
         "rightsId": null,
         "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga Japanese Language Pack",
         "version": null,
@@ -60294,7 +60481,10 @@
         "intro": null,
         "description": "Download this pack and enjoy LEGO\u00ae Star Wars\u2122: The Skywalker Saga with dialogue in Japanese.",
         "languages": null,
-        "size": 562036736
+        "size": 562036736,
+        "ids": [
+            "010042D00D901014"
+        ]
     },
     "70050000033198": {
         "id": "0100A86014333001",
@@ -64246,7 +64436,7 @@
         "intro": "A mysterious story of a mysterious dream \u2026",
         "description": "This is a story about one of the adventures Sophie the Alchemist had after she left her hometown of Kirchen Bell. It is centered around Sophie's quest of searching for Plachta after they are separated in a dream world of Erde Wiege, and the new friends they meet there.\n\nIn this set:\n- Atelier Sophie 2: The Alchemist of the Mysterious Dream Digital Deluxe Edition\n- Atelier Sophie 2 Season Pass\nAccess to 14 DLCs that will be added in the future. The Season Pass content will become available starting from March 2022.\n- Season Pass Bonus: Sophie/Ramizel's Costumes \"Grandma's Outfit (Matching Set)\"\nA pair of costumes for Sophie and Ramizel based on a special costume previously released for \"Atelier Sophie: The Alchemist of the Mysterious Book DX\".\n\nIncluded in the Season Pass:\n1. Sophie's Costume \"Alchemist of the Mysterious Journey\"\n2. Plachta's Costume \"Haute Couture\"\n3. Ramizel's Costume \"Ertona Hunter\"\n4. Sophie/Plachta/Ramizel/Alette's Costumes \"Bunny-Eared Salesgirl\"\n5. Recipe Expansion Pack \"The Art of Synthesis\"\n6. Recipe Expansion Pack \"The Art of Battle\"\n7. Gust Extra BGM Pack\n8. Sophie's Swimsuit \"White Canvas\"\n9. Plachta's Swimsuit \"Clivia Nobilis\"\n10. Ramizel's Swimsuit \"Agapanthus Romance\"\n11. Alette's Swimsuit \"Rainmaker\"\n12. Olias's Swimsuit \"Vegetable Garden\"\n13. Diebold's Swimsuit \"Knight Commander\"\n14. Extra Scenario/Area \"Atelier Plachta\"\n\nNote: Items 1 to 7 are planned to be released before the end of April 2022, and items 8 to 14 are planned to be released before the end of May 2022.\nItems 1 to 4 and 8 to 13 are individual character costumes. Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nItems 5 and 6 add new recipes and catalysts that can be purchased from Gnome at \"Crystal Sparkle Pavilion\" after progressing the story.\nItem 7 adds new in-game BGM tracks that can be changed at the desk in the atelier.\nItem 14 will feature an additional story episode with young Plachta as the main character, set in the time after she arrived in Erde Wiege and before she first met Sophie. Players will play as Plachta, with Diebold and Ramizel available as party members. This DLC will also feature a unique area and new items.\nThe content of the Season Pass, release dates and order are subject to change without notice. Please visit the official website for more information.\nAtelier Sophie 2 Season Pass and all items included in it can be purchased separately at a later date. Please avoid making redundant purchases.\nPlease beware that the main game and other sets featuring same items are currently available for purchase separately and in other sets as well.",
         "languages": null,
-        "size": 7990149120
+        "size": 8044675072
     },
     "70070000013573": {
         "id": null,
@@ -64310,7 +64500,8 @@
         "intro": null,
         "description": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga Character Collection pack includes seven character packs featuring more iconic Star Wars\u2122 characters from the galaxy far, far away. The Character Collection bundle pack includes:\n- The Mandalorian Season 1\n- The Mandalorian Season 2\n- Rogue One: A Star Wars Story\n- Classic Characters\n- Solo: A Star Wars Story \n- Star Wars: The Bad Batch\n- Trooper Pack",
         "languages": null,
-        "size": 68157440
+        "size": 68157440,
+        "ids": []
     },
     "70070000013575": {
         "id": null,
@@ -64344,7 +64535,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1106107417908021b735454ab43cb0d034910b3c60f8b1afa58d42e2980fa39e.jpg",
         "intro": null,
-        "description": "Pre-order the game and get day one access to the Trooper Character DLC Pack.  The digital edition also includes an exclusive classic Obi-Wan Kenobi playable character.  \n\nGet the LEGO Star Wars: The Skywalker Saga Digital Deluxe Edition and enjoy more of the galaxy far, far away.  In addition to the base game, the Deluxe Edition includes seven DLC packs in a Character Collection bundle:    \n- The Mandalorian Season 1\n- The Mandalorian Season 2\n- Rogue One: A Star Wars Story\n- Classic Characters \n- Solo: A Star Wars Story\n- Star Wars: The Bad Batch\n- Trooper Pack - Get day one access to this pack by pre-ordering the game.\n\nWith the base game, you can play through all nine Star Wars saga films in a brand-new LEGO video game unlike any other! Experience fun-filled adventures, whimsical humor, and the freedom to fully immerse yourself in the LEGO Star Wars galaxy.\n\nWant to play as a Jedi? A Sith? Rebel, bounty hunter, or droid? LEGO Star Wars: The Skywalker Saga features hundreds of playable characters from throughout the galaxy. Whether on land or in space, a variety of vehicles are yours to command. Jump to light speed in the Millennium Falcon, fly the T-47 Airspeeder and battle TIE fighters in Resistance X-wings\u2026 it's the ULTIMATE LEGO Star Wars experience.",
+        "description": "The Deluxe Edition includes 7 downloadable content character packs. The digital edition also includes an exclusive classic Obi-Wan Kenobi playable character.\n\nThe galaxy is yours in LEGO\u00ae Star Wars\u2122: The Skywalker Saga. Experience memorable moments and nonstop action from all nine Skywalker saga films reimagined with signature LEGO humor.  The digital edition also includes an exclusive classic Obi-Wan Kenobi playable character.\n\n\u25cf Explore the Trilogies in Any Order \u2013 Players will relive the epic story of all nine films in the Skywalker Saga, and it all starts with picking the trilogy of their choice to begin the journey.\n\n\u25cf Play as Iconic Heroes and Villains \u2013More than 300 playable characters from throughout the galaxy. \n\n\u25cf Discover Legendary Locales \u2013 Players can visit well known locales from their favorite Skywalker saga films .They can unlock and have the freedom to seamlessly travel to 23 planets as they play through the saga or explore and discover exciting quests.\n\n\u25cf Command Powerful Vehicles \u2013  More than 100 vehicles from across the galaxy to command.  Join dogfights and defeat capital ships like the Super Star Destroyer that can be boarded and explored.\n\n\u25cf Immersive Player Experiences \u2013 String attacks together to form combo chains and fend off oncoming attacks. New blaster controls and mechanics allow players to aim with precision, or utilize the skills of a Jedi by wielding a lightsaber and using the power of The Force.\n\n\u25cf Upgradable Character Abilities \u2013 Exploration rewards players as they uncover Kyber Bricks which unlock new features and upgraded abilities across a range of character classes, including Jedi, Hero, Dark Side, Villain, Scavenger, Scoundrel, Bounty Hunter, Astromech Droid, and Protocol Droid.",
         "languages": null,
         "size": 15184429056
     },
@@ -64510,7 +64701,7 @@
         "intro": "Get the full experience with the Season Pass!",
         "description": "This item grants access to 14 DLCs that will be added in the future for a discounted price. The Season Pass content will become available starting from March 2022.\n\nFeatured content:\n- Season Pass Bonus: Sophie/Ramizel's Costumes \"Grandma's Outfit (Matching Set)\"\nA pair of costumes for Sophie and Ramizel based on a special costume previously released for \"Atelier Sophie: The Alchemist of the Mysterious Book DX\".\n\nIncluded in the Season Pass:\n1. Sophie's Costume \"Alchemist of the Mysterious Journey\"\n2. Plachta's Costume \"Haute Couture\"\n3. Ramizel's Costume \"Ertona Hunter\"\n4. Sophie/Plachta/Ramizel/Alette's Costumes \"Bunny-Eared Salesgirl\"\n5. Recipe Expansion Pack \"The Art of Synthesis\"\n6. Recipe Expansion Pack \"The Art of Battle\"\n7. Gust Extra BGM Pack\n8. Sophie's Swimsuit \"White Canvas\"\n9. Plachta's Swimsuit \"Clivia Nobilis\"\n10. Ramizel's Swimsuit \"Agapanthus Romance\"\n11. Alette's Swimsuit \"Rainmaker\"\n12. Olias's Swimsuit \"Vegetable Garden\"\n13. Diebold's Swimsuit \"Knight Commander\"\n14. Extra Scenario/Area \"Atelier Plachta\"\n\nNote: Items 1 to 7 are planned to be released before the end of April 2022, and items 8 to 14 are planned to be released before the end of May 2022.\nItems 1 to 4 and 8 to 13 are individual character costumes. Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nItems 5 and 6 add new recipes and catalysts that can be purchased from Gnome at \"Crystal Sparkle Pavilion\" after progressing the story.\nItem 7 adds new in-game BGM tracks that can be changed at the desk in the atelier.\nItem 14 will feature an additional story episode with young Plachta as the main character, set in the time after she arrived in Erde Wiege and before she first met Sophie. Players will play as Plachta, with Diebold and Ramizel available as party members. This DLC will also feature a unique area and new items.\nThe content of the Season Pass, release dates and order are subject to change without notice. \nPlease visit the official website for more information. \nPlease beware that all items included in the Season Pass can be purchased separately. Please avoid making redundant purchases.\nPlease beware that the \"Atelier Sophie 2: The Alchemist of the Mysterious Dream Ultimate Edition\" set that includes the main game and the Season Pass is also available. ",
         "languages": null,
-        "size": 1214251008,
+        "size": 1268776960,
         "ids": []
     },
     "70070000013723": {
