@@ -1776,6 +1776,55 @@
         ],
         "size": 541065216
     },
+    "70010000004582": {
+        "id": "01009D3008D20000",
+        "rightsId": "01009D3008D200000000000000000003",
+        "name": "Furi",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220406,
+        "nsuId": 70010000004582,
+        "category": [
+            "Action",
+            "Fighting",
+            "Shooter",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Strong Language",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "The Game Bakers",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4271cafccac8e9f01c2a61f517ded73c2907bb16e957e7d7df389ce6171e5ea3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0c7a351564c3097de19e02873047559b255f566878e74c53817922646525c1c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/40c22d7136e4686f59dba96ac0a00157c33ee13c04ff6c422274880459ac53dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ee352bfc2742f5481ed07898927d00251bfedffb00b86955413aa628221540b4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/34f1225fc34a909163806ef04e62b36526c5f709b5c8c87de8f3005e2acd23fa.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/68f52557822f8e3adbf18d3a116c187aade8f94ec74d249c112ad7abc8fd3cd2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aad7f30594c7ffcae7bd54786726ce012f73b6d4b51216d2848a69711a38e4ae.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5729f11035470f484b47d91026dbfd25666b8d5dc6b121da1f83a4c905a831b8.jpg",
+        "intro": "\"You were captured. Look what they\u2019ve done to you\u2026 \nThe jailer is the key, kill him and you\u2019ll be free.\"",
+        "description": "Fight your way free in this ultra-responsive, fast-paced sword fighting and dual-stick shooting game.\n\nFeel the tension and adrenaline of one-on-one duels against deadly adversaries: you will need absolute focus and skill to defeat each of the guardians.\n\nDo you have what it takes to reach the last gate?\n\nBoss design by Takashi Okazaki. Original soundtrack by Carpenter Brut, Danger and more!\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
+        "size": 5066719232
+    },
     "70010000005042": {
         "id": "0100CC7009196000",
         "rightsId": "0100CC70091960000000000000000004",
@@ -2865,7 +2914,7 @@
             "zh",
             "zh"
         ],
-        "size": 12644777984
+        "size": 12650020864
     },
     "70010000010531": {
         "id": "0100E9E00B052000",
@@ -8145,7 +8194,7 @@
             "zh",
             "zh"
         ],
-        "size": 161480704
+        "size": 190840832
     },
     "70010000023478": {
         "id": "010097900F550000",
@@ -12081,7 +12130,7 @@
             "de",
             "it"
         ],
-        "size": 4465885184
+        "size": 4501536768
     },
     "70010000032843": {
         "id": "01006550129C6000",
@@ -13216,6 +13265,44 @@
             "ru"
         ],
         "size": 178257920
+    },
+    "70010000034088": {
+        "id": null,
+        "rightsId": null,
+        "name": "UNO\u00ae",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20210901,
+        "nsuId": 70010000034088,
+        "category": [
+            "Board Game",
+            "Puzzle"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bc4ea9be5f2f8d277b97ba2d0189e454aa3177822c2158b7f02549df42d78fff.jpg",
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ac97854c142c719f8ae843106d43511db61822eb9bdb78e2c1a98ea0ae3b6c08.jpg",
+        "intro": null,
+        "description": "UNO\u00ae, the beloved card game, is coming to the Nintendo Switch system with exciting new features. \nPlayers can now race against friends to see who can empty their hand first in Classic Play, or you can customize your experience with a variety of unique and exciting House Rules. For even more fun, the new Emote system allows players to share the joy of victory \u2013 or the agony of defeat.\n\nThe addition of Today\u2019s Rulesets brings a new collection of game attributes, challenges, and live leaderboards.\n\nThe classic rules you love are back! Stacking, swapping 7s, passing 0s, and, for the first time on consoles, Jump-In.\n\nFlick the controller to play, draw, or pass cards for the physical feel of real-life UNO.\n\nPlay online or locally using up to four Switch consoles, and communicate using the new Emote system!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "size": 4389339136
     },
     "70010000034099": {
         "id": "0100708012ECC000",
@@ -18004,7 +18091,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20220407,
+        "releaseDate": 20220421,
         "nsuId": 70010000039144,
         "category": [
             "Arcade",
@@ -18015,7 +18102,7 @@
         "ratingContent": [
             "Fantasy Violence"
         ],
-        "numberOfPlayers": 1,
+        "numberOfPlayers": 2,
         "rating": 10,
         "developer": null,
         "publisher": "Skystone Games",
@@ -18035,7 +18122,7 @@
         "languages": [
             "en"
         ],
-        "size": 3795845120
+        "size": 4351590400
     },
     "70010000039188": {
         "id": "0100713011E92000",
@@ -20631,7 +20718,7 @@
         "languages": [
             "en"
         ],
-        "size": 6735003648
+        "size": 6736052224
     },
     "70010000041968": {
         "id": "010004E01523C000",
@@ -23490,6 +23577,56 @@
             "zh"
         ],
         "size": 651165696
+    },
+    "70010000044394": {
+        "id": "0100428015C6A000",
+        "rightsId": null,
+        "name": "Wildcat Gun Machine",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220504,
+        "nsuId": 70010000044394,
+        "category": [
+            "Action",
+            "Shooter"
+        ],
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Blood"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Daedalic Entertainment",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/1051eea640dfdef52c40b4935c2019198c7e2d0407274ff06cf1c760a70b77be.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ca95c9f5015d63eecc16dfe3fc49d1260fcfb4ce63b5fc1c3c697d2a88ee6502.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/56091ecade724c3ecbc2b4a5defa7e9f8a749a4eeb9289a9e29db54539d0fa04.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c4d2d8fbbc0f0c23b987b6a6aad03eb6c0ee6938eb1ff4c0bc80f53087b55746.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5cafca02ff0e250ce31661295d6bcf0ef351d5cd3eff8f8057316b016a0d74f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/dbfbfd9f8d0cc0d5c1a2c7dc8462b6c2beaef8578a0900bef2416a0251093995.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fba7d15a8ff586a125581775c4beb7d3c2f9d5ab14ec8fa855cddbc2c30b8096.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/641fc28bf3882bbb2b773eef85aaca79b11ece0e23dc68bb5a50bc74463368b1.jpg",
+        "intro": "Wildcat Gun Machine is an explosion roller coaster ride!\n",
+        "description": "Enter a bullet hell dungeon crawler where you take on hordes of disgusting flesh beasts with a wide variety of guns, giant mech robots, and cute kittens.\n\nExplore sprawling maze-like dungeons and liberate giant mech robots from demonic elder gods. Enemy encounters are challenging and specifically designed - not randomized - to provide difficult combat puzzles.\n\nGear Up - Mow Down - Get Killed - Retaliate! Over 40 gun types to choose from. Each has their own unique features like auto-aim bullets, long-range laser beams or exploding rounds with a huge blast radius.\n\nSuper abilities that disintegrate everything on the screen!\nCharacter upgrades to suit the player\u2019s gameplay style. Players wanting a more forgiving difficulty can increase the times they\u2019re able to respawn, while speedrunners can upgrade their movement speed and improve their dash skill.\n\nFeatures\n-Bullet Hell shooter\n-Over 40 gun types\n-Epic set-piece boss battles\n-Skill upgrades to suit your playstyle\n-Unique 2D art style\n-Monster closet combat puzzles\n-Hand crafted, consistent experience",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 2653945856
     },
     "70010000044415": {
         "id": "0100492015D02000",
@@ -26458,7 +26595,7 @@
             "ko",
             "zh"
         ],
-        "size": 260046848
+        "size": 353370112
     },
     "70010000046253": {
         "id": "0100199016588000",
@@ -26931,6 +27068,48 @@
             "zh"
         ],
         "size": 3588227072
+    },
+    "70010000046372": {
+        "id": "0100D6F016676000",
+        "rightsId": null,
+        "name": "Seven Pirates H",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220512,
+        "nsuId": 70010000046372,
+        "category": [
+            "RPG",
+            "Adventure"
+        ],
+        "ratingContent": [
+            "Partial Nudity",
+            "Sexual Themes",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "eastasiasoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/52b1c38f89f95878da756b6acb6810c0c59bf22d8d0a9ff3dfc23553bc5eb867.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3e2848615098f07959eb4231f63c19eb1a8b555d5a2d7fb69344901e6f43fa2a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/219224386f4010fc0094d68312214feebaa1d33aea337b62d406849b44aebb98.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a8d12d0156297097784bf26d13347b078d0d25eac886bcd5abf13fb2f75778b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d7b94aae5b7147f8189ed2aa560ba90d9473f9220ccea5edcd0e1bd3730b18fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9ea410364be3576252dc6ad047064859123ec5469294ffd7d7385d0a06a0a945.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09ae2c97e9e30f32d8f6a3e06aff410fa42ad545ee344622a4179db4288a60be.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ffca3ffa1f872f7d14f3aa776448581d0207f6ed2db2773645700a3225f0a719.jpg",
+        "intro": "Set sail with a sassy crew of monster girls as you search the seas for treasure and glory!",
+        "description": "Join young pirate Parute Kairi and pervy boy monster Otton in an adventure to locate the lost treasures of the Monsupi Sea! Determined to make a legendary name for herself, Parute sets sail with a magic compass and the aid of newfound monster girl companions, but what starts as a raucous romp across uncharted islands gradually reveals something more sinister. Through their colorful encounters with rival pirates and locals in need, Parute and company learn some unsettling truths about the king who governs these waters, all leading to a confrontation that could tear their adorable crew apart!\n\nSeven Pirates H is a traditional RPG focused on exploration and discovery with a gigantic dose of fanservice thrown in! As Parute, you\u2019ll command your party of monster girls in combat against naughty enemies, exploiting weaknesses to gain the upper hand in turn-based combat. Adventure across islands and ride Otton to reach secret areas, gather items and enhance your abilities as you level up! With the special \u201cBooby Training\u201d system, you can control the bust size of the all-female crew for stat boosts, bigger for increased power and defense or smaller for improved speed and agility!\n\nFeatures:\n\n\u2022 Discover a new stand-alone chapter in the Genkai Tokki series!\n\u2022 Explore islands and their surrounding waters in search of legendary treasure.\n\u2022 Take on naughty enemies in turn-based combat enhanced with Auto mode and other quality-of-life features.\n\u2022 Play bust-enhancing mini-games to control the attributes of your all-female crew!\n\u2022 Upgrade stats and skills, accept side quests and more as you brave treacherous dungeons.\n\u2022 Enjoy colorful high-definition 3D presentation, fully voiced characters and loads of fanservice!\n",
+        "languages": [
+            "en",
+            "zh"
+        ],
+        "size": 1298137088
     },
     "70010000046376": {
         "id": "0100C1E01666E000",
@@ -37558,6 +37737,55 @@
         ],
         "size": 0
     },
+    "70010000049974": {
+        "id": "01002AB017786000",
+        "rightsId": null,
+        "name": "Moorhuhn Jump and Run 'Traps and Treasures 2'",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220414,
+        "nsuId": 70010000049974,
+        "category": [
+            "Platformer",
+            "Arcade",
+            "Adventure",
+            "RPG"
+        ],
+        "ratingContent": [
+            "Fantasy Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Higgs Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/522980984beba8cf8d09aebe6d2792292916b29389234e945f045babe1a63392.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f53bc629b0ea9870f45981ee50144fc43cb71c92d1a9891a40c18497656ef0b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a780fda599ac260513b1e9ddfc331fbd42e51907fa1a97b3d221fbbb4fb47231.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/24b2ecdd8c4f05b2fcc11d559050fcb839f04d1e50870378c490523a5a8ada73.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb83959054c6aba160241f99f1272bce51d1e4e500bb588e12dd3d6d37f85beb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/20ffffbe2b95ff139e023f0edc206f49cddbd3813a67bcfbc5bb053f5c23eaff.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/292ae3dd2456ed78fe44db212322e1508d5f1aadbadc3a241a2a0153841edb31.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9b4019a7158b7a2b6389ce85ef68f4106bb29205544c44d2dba5fbdc69ee46c7.jpg",
+        "intro": "Moorhuhn Jump and Run 'Traps and Treasures 2'  brings 21 challenging levels + 6 bonus levels full of dangerous traps, devious enemies and hidden treasures ...",
+        "description": "Welcome to the foot of the Shlimalaya!\n\nA new challenge for daring treasure hunter Moorhuhn Indy!\n\nWell-hidden among the snowy crags of the mountain massif lies the monastery of SingSong. Since the beginning of time, the monks have watched over a fabulous relic - the HEART OF GOLD.\n\nLegend has it that this invaluable treasure gives its bearer magic powers.\n\nMoorhuhn Indy will have to deal with many new and dastardly enemies, evade countless traps, cross rough terrain and battle snowdrifts.\n\nYetis, local spirits and demons will do their best to hinder our hero on his way to the SingSong Monks' monastery. Then he will face the powerful, battle-hardened brothers themselves. And they are determined to protect the HEART OF GOLD at any cost ...\n\nFEATURES:\n\u2022 21 jam-packed Jump and Run levels\n\u2022 6 bonus levels\n\u2022 Cool bonus treasures\n\u2022 Rankings \u2014 Beat your own top scores over and over again and compete against friends and players around the world for the top position in the online leaderboard.\n\u2022 Online/Offline \u2014 Play whenever and wherever you like. No internet connection is needed to play. However, you will need an internet connection to upload your top score to the global leaderboard and see other players\u2019 scores.\n\u2022 Community \u2014 With more than 15 million games sold, Moorhuhn is one of the best-known and most successful game characters. Join the large Moorhuhn community now!\n\u2022 Moorhuhn speaks English, Dutch, French, German, Italian, Japanese, Portuguese, Spanish and Russian.\n\nAt the end of each level, you can see the number of coins, statues and artefacts you have collected, the number of defeated opponents and the points you have earned. You can compete with other players in the online ranking.\n\nBut that's not all! In addition to the 3 bonus levels from the original game, 3 new bonus levels bring further fun and the opportunity to collect additional points.\n\nYou can replay unlocked levels at any time to improve your final score.\n\nAnd when there is nothing left to collect and all the opponents have been defeated, you can still try to achieve a new best time.\n\nEnough talk. Get the game now and jump into the adventure!",
+        "languages": [
+            "ja",
+            "pt",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "size": 407896064
+    },
     "70010000049984": {
         "id": "010036001778C000",
         "rightsId": null,
@@ -38694,6 +38922,55 @@
         ],
         "size": 576716800
     },
+    "70010000050647": {
+        "id": "0100281017990000",
+        "rightsId": null,
+        "name": "In the Mood",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220421,
+        "nsuId": 70010000050647,
+        "category": [
+            "Puzzle",
+            "Action",
+            "Arcade"
+        ],
+        "ratingContent": [
+            "Nudity",
+            "Sexual Themes"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "eastasiasoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e502bcab5672fb2605c2b1e08ad5375945f1b3ead75d5aa2362de92546b00499.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/70b59077886243ebb7398eb42d980911603e5c382949a173562953872885e1a3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f9e8854eafadd8cfa289c3b935655bac424a57fb56eaf61a381358c3b31bfd70.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8c936e73233414d31e147e43b8ff6dc4c2378463248df5d0e900dbdd725deaa7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a9c2905f04bb15b136db5c01b3f665eb402954d7ede975ff3478a49a154be33f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/abbfea86be70fcd3f74880990ddf918152dffcce4802714c9283a586eed367c1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3b621dfa4e554bcd9ef9501afd467f600ae2d5bb9809c28b05186b223a91d01a.jpg",
+        "intro": "Uncover beautiful ladies hidden under stacks of colorful balls in classic arcade-inspired puzzle action!",
+        "description": "Play as the Naughty Seagull and meet more than 10 alluring ladies across dozens of puzzle stages, each with unique ball layouts and some light platforming for our fearless fowl to navigate! Grab your ball and throw it at the stacks above you, and if you match 3 or more, the connected balls will come tumbling down to reveal a part of the image beneath. Be careful, though! The ceiling slowly creeps downward, threatening to crush you under the remaining balls if you\u2019re not fast enough.\n\nIn the Mood is simple yet challenging. The Naughty Seagull can move along platforms at the bottom of the screen, hop over pitfalls and get in position for a perfect throw. Holding the throw button lets you adjust angle for maximum ball control. A smart hit could mean the difference between clearing more balls or getting squashed by them!\n\nFeatures:\n\n\u2022 Engage in arcade-style match-3 puzzle action!\n\u2022 Meet more than 10 original female characters.\n\u2022 Uncover naughty images by clearing stacks of balls across 30 levels!\n\u2022 Run and jump along platforms themed for each girl\u2019s stages.\n\u2022 Enjoy endearing pixel art gameplay contrasted against HD hand-drawn backdrops.\n\u2022 View unlocked images in a convenient Gallery mode!\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 247463936
+    },
     "70010000050675": {
         "id": "01005FA01778E000",
         "rightsId": null,
@@ -38955,6 +39232,45 @@
             "en"
         ],
         "size": 298844160
+    },
+    "70010000050757": {
+        "id": "01006C40179FC000",
+        "rightsId": null,
+        "name": "Pretty Girls Rivers",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220414,
+        "nsuId": 70010000050757,
+        "category": [
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Suggestive Themes"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "eastasiasoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7b3022cfd17174cb52d23aceaf3a7d9825230f3b7e7043c5d962a8c4afdc9a14.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/fdc2caeb2afa08155ac4e80742adee3986bf8919c74c7988254ce2812832eb84.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0cf1e5da4cc92298e5fcc8daf1ead7067d12a555e17b97d6e5c25f0f34ef256b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/002d7e5dd3f95c627b91ffc961bc3e850ae9d9c646e298da66e88681f4a0e7ad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d57b8fca6134fe004eff1541a91fe17b04723b22a05a405439f63030ea5ed7d3.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/80095788ae31d77c1d447e37f275e1d9430497ddb2eec6c708aad8a1eeed2175.jpg",
+        "intro": "Match tiles as you race against the clock and earn new outfits for your lovely companions!",
+        "description": "Tile-matching action gets a new alluring twist in Pretty Girls Rivers! In this fast-paced puzzler, you\u2019ll need to find pairs of tiles similar to mahjong solitaire, but instead of having stacks to clear, Rivers is all about patterns, obstacles and beating the clock. All tiles are revealed and easy to see, allowing you to strategically select pairs and avoid getting trapped. Quick-thinking combos will earn higher scores! And if you don\u2019t feel like racing the clock, switch to easy mode for hints, shuffle assists and a more relaxed play style.\n\nFor every 4 play fields you clear in Pretty Girls Rivers, new outfits will be revealed for your female companions. There are 6 beautiful challengers to meet, all voiced in Japanese and sporting a wardrobe ranging from casual and cute to cool and sexy! Unlocked outfits become available for viewing anytime in an enhanced Dressing Room mode. Will you collect them all?\n\nFeatures:\n\n\u2022 Match tiles in puzzle action that\u2019s easy to learn and fun to master!\n\u2022 Clear dozens of stages with unique tile patterns and obstacles.\n\u2022 Unlock outfits to dress up the female challengers!\n\u2022 Meet 6 lovely ladies voiced in Japanese.\n\u2022 Assemble dioramas using newly enhanced Dressing Room features!\n",
+        "languages": [
+            "ja",
+            "en",
+            "zh",
+            "zh"
+        ],
+        "size": 522190848
     },
     "70010000050764": {
         "id": "010070A017A02000",
@@ -40848,6 +41164,56 @@
         ],
         "size": 239075328
     },
+    "70010000051873": {
+        "id": "0100C74017A98000",
+        "rightsId": null,
+        "name": "Watcher Chronicles",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220428,
+        "nsuId": 70010000051873,
+        "category": [
+            "Action",
+            "RPG",
+            "Multiplayer"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Third Sphere Game Studios",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/df244acf5cd7b3f35b71a92fe4c98dd197c1df2ab6ec3f25cc906ad5d2922583.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8de2c66dc80c7b79592bfe36da290342181f21fa4ab3d016c0ce7d6f4f7d4106.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b05b519c3b6a855e6e18ba641a1f6a689a7ad81afcf2ed001f28c18651fd9358.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c79fa2d63847dc4e2d91b66c0c5042c897488c873c97bbbe09e2e5b161f659fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/73397e208fc12eada78b1b302cea7aba189ab0b7ec2877166403face39d24b35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2b454900116cd743590b5b976f594f99aa1b69d9711aa073bc499cef1bf5d533.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5299b14181884dbcb8256561eac62ac7aabb66f837e1ae9c8e31abf2a4701319.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/99012086ee1c52ffc453c6c7b3966113610c1ef1e468d851bf0a66d7ac0f1598.jpg",
+        "intro": "Become a glutton for punishment and persevere, alone or with a friend, against 20+ merciless bosses and legions of skeletal nightmares in this savage yet charming 2D souls-like.",
+        "description": "Purgatory has been invaded by an unholy threat. A group of fallen angels called \u201cThe Watchers\u201d now seek to transform it into a new hell. Lost souls must unite or face utter annihilation\u2026\n\nFast Skill Based Combat - Challenging but fair souls-like combat with tight and finely tuned controls. Dodge, block, and slice your way through enemies.\n\nLarge Interconnected World - Explore every crack of a purgatorial realm filled with secrets and game changing loot in a non-linear fashion.\n\nLocal Co-op Multiplayer - Take on the entire game in local co-op with a friend! Single Joy-Con\u2122 mode supported!\n\nPowerful Magic - Incinerate enemies with waves of fire, lightning, and void or summon the horde with powerful necromancy.\n\nUnique Weapons - Giant swords, blade staffs, scythes, polearms, and more to discover and master. Weapon types all have different move sets that completely changes up the gameplay. \n\nRobust Streamlined RPG System - Carefully upgrade your hero to match your play style and build out your own unique character class. Discover 100+ upgradable armor, weapons, and rings to specialize your build.\n\nRelentless Bosses - Battle over 20+ finely tuned and challenging bosses that require careful planning and significant skill to take down.\n\nNew Game Plus - Keep your gear when finishing the game and continue the journey with increasingly harder difficulties.\n\nOh and you will die... a lot...",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 1307574272
+    },
     "70010000051933": {
         "id": "0100FEC017E64000",
         "rightsId": null,
@@ -41288,6 +41654,46 @@
             "en"
         ],
         "size": 50331648
+    },
+    "70010000052329": {
+        "id": "0100498017FB0000",
+        "rightsId": null,
+        "name": "Robo Wars",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220415,
+        "nsuId": 70010000052329,
+        "category": [
+            "Action",
+            "Shooter",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Mild Fantasy Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 6,
+        "developer": null,
+        "publisher": "MobilWay",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8253349dd928a57ed87ac112dbf746a1b8489c93529c1f7e2e4d2e27d628eac9.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4378e02a28517e2511aae2cf94eb715bdf07556a04a20f4ebbd5f24d0f92eca0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/be0cdc0a4c6ede9258add0f92168db5047cd10684a20485cc079e99ed9b1feea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/976e2fd6c49df88686bf631909e1023d62d5a05e1ca5d1720caf7cc9c26581d2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0b5ef06ac527589c0fabcabf913c57d0e7c12646c5ff4e3c0806d36771e4648a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f184052392b176e8250d76882bf61b5a1c327a21d475b401a7cd200692b4d5e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/164f27d7806b98d797be4bfda696aef9b601ff6ab1aef323e46c8e5e0c1baa85.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6129ba589c8182b2af4062541d2adab58752a659c21de09653012826314b1078.jpg",
+        "intro": "Are you ready to enter a world full of robots and total destruction? Robo Wars is a fast paced action game full of mechs and explosions.",
+        "description": "Fight face to face with your opponent or keep your distance, it's up to you how the fight will go! Your main task is to defeat all opponents and become a duel master.\n\nTest your skills against various opponents in all arenas!\nUpgrade and change your equipment as you like - all to achieve the coveted victory!\n\nMain features:\n- Dynamic combat!\n- Dozens of unique weapons and mechs!\n- Upgrading your inventory!\n- Various arenas and enemies!",
+        "languages": [
+            "en"
+        ],
+        "size": 677380096
     },
     "70010000052583": {
         "id": "0100751017FC8000",
@@ -60159,6 +60565,31 @@
             "0100FBD013AB7017"
         ]
     },
+    "70050000033137": {
+        "id": null,
+        "rightsId": null,
+        "name": "UNO\u00ae Valhalla DLC",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220407,
+        "nsuId": 70050000033137,
+        "category": null,
+        "ratingContent": [],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ubisoft",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5f6a5daf4498631888211253c2867ab1888f2276d11c9fa4b2e1cf11302d894a.jpg",
+        "intro": null,
+        "description": "Enjoy your favorite card game at the table of a warm Norse tavern, where clans, mead, and the desire for exploration mingle. Follow Eivor\u2019s path to glory: explore, collect resources, battle against other players, and play all your cards to be worthy of Valhalla.\n\nFor the first time in UNO\u00ae, the board becomes part of the gameplay:\n\n\u2022 Discard your cards wisely to travel across the board and collect precious cargo to unlock exclusive perks. \n\u2022 Collect cargo to engage in card fights with your opponents to slow them down and use your longboat to discard several cards at once. \n\u2022 Immerse yourself in the Viking fantasy: play your cards to the rhythm of the epic Assassin\u2019s Creed\u00ae Valhalla soundtrack.\n\nIn UNO\u00ae Valhalla DLC, only true Vikings can claim the victory!",
+        "languages": null,
+        "size": 3145728
+    },
     "70050000033142": {
         "id": "0100763015C2F002",
         "rightsId": null,
@@ -61171,6 +61602,39 @@
         "description": "Karl Heinz Schneider is now available as a new playable character in Captain Tsubasa: Rise of New Champions.",
         "languages": null,
         "size": 3145728
+    },
+    "70050000033617": {
+        "id": null,
+        "rightsId": null,
+        "name": "Atelier Series Legacy BGM Pack",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220407,
+        "nsuId": 70050000033617,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Fantasy Violence",
+            "Suggestive Themes"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "KOEI TECMO AMERICA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d65984e234d0ae889cde8e7766cabb136bc1ae81c68a026b46d0210e537386b5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/851105b782cc805aad2159928cc17824db609e30102c5c4dd138191643dd6461.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/07b4db68f7a9704c92c7d34acf2740acf290324173921032494eb09cd7d4c10a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a7a756767e7e6f344d7a0c638604fd096949294d8fbf438ab3646cb1fb45eb5.jpg",
+        "intro": "A collection of nostalgic Atelier tracks for BGM!",
+        "description": "A set of more than a 1000 BGM tracks from older Atelier titles, starting with \"Atelier Marie: The Alchemist of Salburg\" and up to \"Atelier Ryza: Ever Darkness & the Secret Hideout\".\n\nNote: In-game BGM can be changed from the desk at the atelier.\nPlease visit the official website for more information. ",
+        "languages": null,
+        "size": 3034578944
     },
     "70050000033802": {
         "id": "0100763015C2F004",
@@ -64436,7 +64900,7 @@
         "intro": "A mysterious story of a mysterious dream \u2026",
         "description": "This is a story about one of the adventures Sophie the Alchemist had after she left her hometown of Kirchen Bell. It is centered around Sophie's quest of searching for Plachta after they are separated in a dream world of Erde Wiege, and the new friends they meet there.\n\nIn this set:\n- Atelier Sophie 2: The Alchemist of the Mysterious Dream Digital Deluxe Edition\n- Atelier Sophie 2 Season Pass\nAccess to 14 DLCs that will be added in the future. The Season Pass content will become available starting from March 2022.\n- Season Pass Bonus: Sophie/Ramizel's Costumes \"Grandma's Outfit (Matching Set)\"\nA pair of costumes for Sophie and Ramizel based on a special costume previously released for \"Atelier Sophie: The Alchemist of the Mysterious Book DX\".\n\nIncluded in the Season Pass:\n1. Sophie's Costume \"Alchemist of the Mysterious Journey\"\n2. Plachta's Costume \"Haute Couture\"\n3. Ramizel's Costume \"Ertona Hunter\"\n4. Sophie/Plachta/Ramizel/Alette's Costumes \"Bunny-Eared Salesgirl\"\n5. Recipe Expansion Pack \"The Art of Synthesis\"\n6. Recipe Expansion Pack \"The Art of Battle\"\n7. Gust Extra BGM Pack\n8. Sophie's Swimsuit \"White Canvas\"\n9. Plachta's Swimsuit \"Clivia Nobilis\"\n10. Ramizel's Swimsuit \"Agapanthus Romance\"\n11. Alette's Swimsuit \"Rainmaker\"\n12. Olias's Swimsuit \"Vegetable Garden\"\n13. Diebold's Swimsuit \"Knight Commander\"\n14. Extra Scenario/Area \"Atelier Plachta\"\n\nNote: Items 1 to 7 are planned to be released before the end of April 2022, and items 8 to 14 are planned to be released before the end of May 2022.\nItems 1 to 4 and 8 to 13 are individual character costumes. Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nItems 5 and 6 add new recipes and catalysts that can be purchased from Gnome at \"Crystal Sparkle Pavilion\" after progressing the story.\nItem 7 adds new in-game BGM tracks that can be changed at the desk in the atelier.\nItem 14 will feature an additional story episode with young Plachta as the main character, set in the time after she arrived in Erde Wiege and before she first met Sophie. Players will play as Plachta, with Diebold and Ramizel available as party members. This DLC will also feature a unique area and new items.\nThe content of the Season Pass, release dates and order are subject to change without notice. Please visit the official website for more information.\nAtelier Sophie 2 Season Pass and all items included in it can be purchased separately at a later date. Please avoid making redundant purchases.\nPlease beware that the main game and other sets featuring same items are currently available for purchase separately and in other sets as well.",
         "languages": null,
-        "size": 8044675072
+        "size": 8045723648
     },
     "70070000013573": {
         "id": null,
@@ -64807,7 +65271,7 @@
         "intro": "A mysterious story of a mysterious dream \u2026",
         "description": "This is a story about one of the adventures Sophie the Alchemist had after she left her hometown of Kirchen Bell. It is centered around Sophie's quest of searching for Plachta after they are separated in a dream world of Erde Wiege, and the new friends they meet there.\n\nIn this set:\n- The main game \"Atelier Sophie 2: The Alchemist of the Mysterious Dream\"\n- Atelier Series Legacy Swimsuit Set\nA set of six swimming costumes based on designs introduced in past Atelier titles, one for each character: Sophie, Plachta, Ramizel, Alette, Olias, and Diebold.\n- Useful Weapons Set\nA set of six weapons with useful effects such as \"Normal Attack Count +2\" that you can equip from the beginning of the game, one for each character: Sophie, Plachta, Ramizel, Alette, Olias, and Diebold.\n- Useful Items Set\nA set of useful items that you would usually have to wait to acquire in the second half of the game, including three types of talismans, Traveler's Shoes that increase your movement speed, Victor's Charm that increases the amount of Cole earned after a battle by 4%, and Training Charm that increases the amount of EXP gained after a battle by 10%.\n\nNote: Costumes can be changed in the \"Changing Room\" at the desk in the atelier.\nThe DLC items can be obtained from the Container in the atelier.\nWeapons and talismans can only be used after you progressed the game to the point where you can change your equipment.\nPlease visit the official website for more information. \nPlease beware that the main game \"Atelier Sophie 2: The Alchemist of the Mysterious Dream\" is currently also available for purchase separately and in the \"Atelier Sophie 2: The Alchemist of the Mysterious Dream Ultimate Edition\" set. ",
         "languages": null,
-        "size": 6775898112
+        "size": 6776946688
     },
     "70070000013745": {
         "id": null,
