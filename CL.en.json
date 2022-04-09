@@ -20714,7 +20714,7 @@
         "languages": [
             "en"
         ],
-        "size": 3038773248
+        "size": 3143630848
     },
     "70010000041671": {
         "id": "0100E220152A6000",
@@ -29585,7 +29585,7 @@
             "ko",
             "zh"
         ],
-        "size": 369098752
+        "size": 477102080
     },
     "70010000047255": {
         "id": "01001EF016972000",
@@ -34484,7 +34484,10 @@
             "Study",
             "Training"
         ],
-        "ratingContent": [],
+        "ratingContent": [
+            "Alcohol Reference",
+            "Mild Blood"
+        ],
         "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
@@ -34967,7 +34970,7 @@
             "it",
             "zh"
         ],
-        "size": 3093299200
+        "size": 3287285760
     },
     "70010000048949": {
         "id": "0100FBB0161D8000",
@@ -37328,7 +37331,12 @@
         "intro": "Travel the world and solve dangerous cases using real world research in a neon-lit world that\u2019s on the brink of collapse in the year 2037.",
         "description": "Midnight in Singapore. Your contact\u2019s a no show, your client wants answers and your empty bank balance hangs over you like a neon-tinted Sword of Damocles. Welcome to 2037. Welcome to Chinatown Detective Agency.\n\nThe world is in a state of flux as the global economy nears the nadir of its decade-long collapse. Singapore stands as a last refuge of order but even here the government struggles on the brink of chaos. That\u2019s where you come in. You are Amira Darma, once a rising star at INTERPOL, now a freshly minted Private Investigator in the heart of Chinatown, and your first client is about to walk through your door\u2026\n\nEXPLORE A WORLD ON THE EDGE\nNeon lamp-light reflected in pools of rainwater. The fury of the angry masses manifested in graffiti daubed across decaying cities. The encroaching murk of riverside London and the blinding lights of Shanghai. Explore over a hundred stunningly rendered environments from artist Ricardo Juchem and immerse yourself in the chaotic future of 2037.Travel the globe from your base in Singapore in search of leads, and talk with dozens of uniquely voiced characters each with their own mysterious agendas.\n\nSOLVE CASES WITH REAL WORLD RESEARCH\nThe cases Amira takes on require smart thinking and intuition to beat - but what happens when the clues dry up? That\u2019s when you\u2019ll have to look beyond the game for answers. The mysteries of Chinatown Detective Agency require real world investigation, whether that\u2019s an online search for an airport code or tracking down a mysterious quote. You\u2019re not just playing a detective, you\u2019re becoming one.\n\nDON\u2019T GO BANKRUPT!\nIn Chinatown Detective Agency, time is a precious resource. Use your time and money wisely to stay one step ahead, and avoid the looming threat of going broke.\n\nEvery choice will affect the world around you and change Amira\u2019s story for good. Can you save the city from the jaws of panic and pandemonium?",
         "languages": [
-            "en"
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "zh"
         ],
         "size": 1604321280
     },
@@ -39390,6 +39398,42 @@
         ],
         "size": 576716800
     },
+    "70010000050623": {
+        "id": "0100E94017978000",
+        "rightsId": null,
+        "name": "A Sketchbook About Her Sun",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220415,
+        "nsuId": 70010000050623,
+        "category": [
+            "Adventure",
+            "Music"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Fantastico Studio",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e99dcd676ca235e0ff98ab0fa4b66078e11129fef82e8b21c12924cab3375d17.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d5f12d09b4c91baafbb785af9c21c3d4012a6be58f28e54981eee6687ce102f3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/93b24622aa1205854f1ddf1e9d0e176b5b53c56cfe73e99ffb2e4671f9784c82.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/111baa37b0fd8d2d210e36410bd396ad1287ea5f40e112142d2181b552f1790d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1180912df4fcc087eb8ae3a0a4c4dd5185a865b8c1bf3f20e5e0ee75f40b9a74.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c2758d43bf03a57808ff2b9e089eeef02f25e91f560ce92b748703813acb0dd.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9cd63a9bd90e86424973a9dfef1b4c4a6d2165261699e6d2678b0276c3cbe2c4.jpg",
+        "intro": null,
+        "description": "Confused about her feelings for someone, Lucia, the main character, decides to flee from her city and wanders through a smaller town where she\u2019s never been, searching for herself while still tormented by the thought of the person she\u2019s attracted to.\n\nThe project is an interactive experience divided into 11 segments, each corresponding to a song from Red Ribbon\u2019s new album \u201cPlanet X\u201d.\nLose yourself into Lucia\u2019s mindscape, divided between her thoughts, drawings, and music she\u2019s listening to through her journey to re-discover her own self.",
+        "languages": [
+            "en"
+        ],
+        "size": 226492416
+    },
     "70010000050647": {
         "id": "0100281017990000",
         "rightsId": null,
@@ -39822,6 +39866,52 @@
             "en"
         ],
         "size": 308281344
+    },
+    "70010000050766": {
+        "id": "0100872017A0C000",
+        "rightsId": null,
+        "name": "Car Mechanic Simulator Pocket Edition 2",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220415,
+        "nsuId": 70010000050766,
+        "category": [
+            "Simulation",
+            "Racing",
+            "Lifestyle",
+            "Practical"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Ultimate Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e30b6ed90b83d355a769f063f16ea9e3a1512dfc2b4dfc394eaad02368aa1b61.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/85a44cdc70a0488e781ca57f7f9cd2cb8280ee544f79d0e16ce7d73bc7af9376.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d19a6e0368dd84c09748449b794c672497ca27b79d285050efb01240029c10f2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b360938da7efb186a115cd52663b4cc3f0d56fab94978e47ae804668a86e9c9f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e52cdac8f20ca5ee40ac163a80d4f41679efee19a001183f3df5c4bb9e961c00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0d52a766bc1978e5524481b788f6b98c9604fcbaa10deeff28842147b3f7d6f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/093524767bc7677f0025a645965b8e3df011aae97f4b1fc66d682dcab391a32b.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9db790f231fcdf592f08f9c0fbd1864f6843d9124ecfcff93e9fab7f2e003870.jpg",
+        "intro": "Build and expand your repair service empire in this incredibly detailed and highly realistic simulation game.",
+        "description": "Car Mechanic Simulator Pocket Edition 2 challenges players to repair, paint, tune and drive cars. Find classic, unique cars in the new Barn Find module and Junkyard module. Game also includes car auctions where old cars are available for resale or purchased for your collection!\n\nEach mission offers its own unique challenge of varying difficulty and time constraints to meet. Additional tools are available for purchase if needed. You can eventually upgrade your garage to include specific equipment such as lacquer sprayer or a parts warehouse.\n\nIt\u2019s time to roll up your sleeves and get to work!\n\nFeatures:\n- 40+ cars to get your hands dirty with\n- 10+ tools to help you check out cars\n- 1000+ parts waiting for you\n- Start from a small workshop and upgrade it to a full sized 3-lifter gem\n- Mix of randomly generated jobs to fulfill\n- Endless gameplay\n- Multilevel car parking in which you can store you cars\n- Path Test to test car suspension\n- Test Track to test car condition (or just fool around\n- Race Track to test car performance\n- Car Auctions where you can compete with other bidders and try to outbid them\n- Advanced Upgrades System \n- Car Paint Shop with different paint types and car liveries (or you can just paint one part to save money)\n- Barn Finds, where you search for abandoned cars in barns - make sure to look there for parts\n- Junkyard (scavenge for parts and rusty cars)",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru"
+        ],
+        "size": 6760169472
     },
     "70010000050775": {
         "id": "01006AD017A16000",
@@ -40660,9 +40750,9 @@
             "https://img-eshop.cdn.nintendo.net/i/949ffa782d601235ddcbf851b234457d0fa657732c4d34bf3d185136e71b7a97.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1db475a19801810562486b6f7f8ee0b4b58d289990de2823a1dbafccb59ae7fc.jpg"
         ],
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c839fba0f49112553bdea0a79840f5ee72c7415bb40bdc3cab25e389cb50a9c5.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a6b388ddce58048102bfe572a51126ef723fe761769f19ac504c751ba3fae2d4.jpg",
         "intro": "Become a magnificent elephant who climbs things in the mid of a desert",
-        "description": "Explore over 50 different areas while trying to manage your stamina, passing through many types of traps!\nRafra\u00eechissez le petit \u00e9l\u00e9phant dans l'eau.\nCool off the little elephant in the water.",
+        "description": "Become a magnificent axolotl who climbs things in the mid of a desert.\nExplore over 50 different areas while trying to manage your stamina, passing through many types of traps.\nCool off the axolotl in the water",
         "languages": [
             "en",
             "pt"
@@ -41331,7 +41421,7 @@
             "zh",
             "zh"
         ],
-        "size": 62914560
+        "size": 109051904
     },
     "70010000051493": {
         "id": "0100A41017D04000",
@@ -62190,7 +62280,7 @@
         "size": 3145728
     },
     "70050000033501": {
-        "id": null,
+        "id": "010082301754D001",
         "rightsId": null,
         "name": "Inukari - Chase of Deception Soundtrack",
         "version": null,
@@ -62215,7 +62305,10 @@
         "intro": "Listen to over 2 hours of amazingly atmospheric and at the same time diverse melodies composed by Nakanoi for Inukari - Chase of Deception. ",
         "description": "Upbeat 8-bit soundtrack - from the little sweet melodies in a quiet forest over the pumping beats on big hills into a living and energetic breathing city. ",
         "languages": null,
-        "size": 3145728
+        "size": 3145728,
+        "ids": [
+            "010082301754D001"
+        ]
     },
     "70050000033613": {
         "id": null,
@@ -66480,5 +66573,32 @@
         "description": "This is a bundle of all available Gotta Protectors: Cart of Darkness content. It includes the base game, as well as all four optional DLC packs.\n\nThis bundle includes Gotta Protectors: Cart of Darkness as well the following DLC content:\n\nDLC Pack 1: Mega Blastin' Trax + Bonus Scenario A\n\u30fbOption to play the entire game soundtrack in \"MD\" and \"88\" sound chip formats\n\u30fb20 new bonus stages (Bonus Scenario A)\n\u30fbNew skills for the Fighter and Archer characters\n\nDLC Pack 2: Pocket Power Trax + Bonus Scenario B\n\u30fbOption to play the entire game soundtrack in \"GB\" and \"WS\" sound chip formats\n\u30fb20 new bonus stages (Bonus Scenario B)\n\u30fbNew skills for the Ninja and Oracle characters\n\nDLC Pack 3: Japanicom Trax + Bonus Scenario C\n\u30fbOption to play the entire game soundtrack in \"FDS\" and \"VRC\" sound chip formats\n\u30fb20 new bonus stages (Bonus Scenario C)\n\u30fbNew skills for the Amazon and Old Guy characters\n\nDLC Pack 4: Super Wavetable Trax + Bonus Scenario D\n\u30fbOption to play the entire game soundtrack in the \"SFC\" sound chip format\n\u30fb20 new bonus stages (Bonus Scenario D)\n\u30fbNew skills for the Mage and Prince characters\n\n* All of the content sold in this bundle is available for sale individually as well. Please make sure not to purchase the same content multiple times.",
         "languages": null,
         "size": 901775360
+    },
+    "70070000013960": {
+        "id": null,
+        "rightsId": null,
+        "name": "Red Wings: Coloring Planes Bundle",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220408,
+        "nsuId": 70070000013960,
+        "category": null,
+        "ratingContent": [
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 6,
+        "developer": null,
+        "publisher": "ALL IN! GAMES",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9c6b2b3de291d0562463d2fe1c59b442dcbbe8a2ebc69125a2f09459a4f4fae4.jpg",
+        "intro": "Paint the most memorable and exciting planes of WWI in Red Wings: Coloring Planes now with American Aces DLC!\n",
+        "description": "In Red Wings: Coloring Planes you get:\n\n30 different WWI plane coloring pages to color in\nA Free Paint Mode that lets you draw and paint whatever you want\nLots of colors to choose from and multiple brushes, textures, and stamps\nA gallery to save and display all your favorite creations in\n\nThe DLC offers 3 new chapters with 18 planes from Red Wings: American Aces. Use your imagination and painting skills honed in the base game to restore them to their former glory.\n",
+        "languages": null,
+        "size": 477102080
     }
 }
