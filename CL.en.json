@@ -1631,6 +1631,48 @@
         ],
         "size": 5762973696
     },
+    "70010000002730": {
+        "id": "0100361007268000",
+        "rightsId": "01003610072680000000000000000004",
+        "name": "MotoGP\u212218",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220411,
+        "nsuId": 70010000002730,
+        "category": [
+            "Racing",
+            "Sports"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0337a9b85e684579e77f4e063e37aa5bcc479025b90b9e70b5b26371dcfbf475.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/743929cd2ea196234ed81e6be9a5d6bf5348751c30df2ef16e37bf7ea4cdb86e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/197577e05aef943ffbc432ea2e12b72f17a52631137648339c57cb4cc4356edc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/496bc4e8679c5c9a4aedacd5bea2a6d587c115ae3bf01911958c8d7ee42f7913.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac2bc64d7843e855f1ddc836a92bb291363101649481e8e96e0b10e7a6a15778.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/97ae299fe6b72cba16144f41c1766b5e6e8b639a2c9500f4333d7f2165f84595.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2049c2fffe6e8eaa95b238951fe6648529f06fe336018a549bb93167c5af66d2.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/59200902fa7aadf66cc5849f1c80ba5663f96dc757c384a643c0a38e1a9f8afc.jpg",
+        "intro": null,
+        "description": "Become the star of the 2018 MotoGP\u2122 season! Pursue your career as a professional rider making your way from the Red Bull MotoGP\u2122 Rookies Cup up to the Premier class of the MotoGP\u2122.\n\nRace with all the riders of the MotoGP\u2122 on 19 official tracks, including the new Buriram International Circuit in Thailand and enjoy an even more immersive experience thanks to new features.\n\nFeel like a professional rider, decide how to change your bike, learn how to manage tire wear, use the MotoGP\u2122 ID to monitor your progress and challenge your friends with the local multiplayer. ",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt"
+        ],
+        "size": 15014559744
+    },
     "70010000003074": {
         "id": "01009DC001DB6000",
         "rightsId": "01009DC001DB60000000000000000003",
@@ -1884,7 +1926,7 @@
         "numberOfPlayers": 1,
         "rating": 10,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a30b0cec960a76833b6b23fbba71ab8af81a26fc6064cbddb35f01cf150e58b7.jpg",
         "screenshots": [
@@ -1975,7 +2017,7 @@
         "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/e4168de49d7a0d3bdc9045ef35ea0c45d21afc3ec158a431f3e7f4ec703e7790.jpg",
         "screenshots": [
@@ -5000,6 +5042,49 @@
         ],
         "size": 72351744
     },
+    "70010000016268": {
+        "id": "01004B800D0E8000",
+        "rightsId": null,
+        "name": "MotoGP\u212219",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220411,
+        "nsuId": 70010000016268,
+        "category": [
+            "Racing",
+            "Sports",
+            "Simulation"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/192e11cc2d096f3868d52208a05fc27c5b1cb84c946a8b09b90e7ed417a05b96.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/dde13132765c7f753357871026b69eb88698529411ad8ff4802b30b5f98fc6bc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8e9f62ffcc82d211cf833e802accbce33492ee2ae686fb82bd6846b8d0f10e3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80babb0fcbb271e2a6619a1a3a0dc779dd7eefe5bbd2f17f6748a47d8c174c9e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d69ca1e22d4f6f6bb928a6505cbff12822c9aa66def8823237a9fb557a90d9c7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/05c1c26cb8d7e6b80c8eb626cc86f5700c07c5eb49afdeba27c2e23fbbb326d6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d28d54574eae23d3ae646d4143782a868701253150deaa49f2320f1f5512423.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f64dc418a2c2d871e2bc9a405113943d505d3cfa8a8cb7c3ee1bf721df619bd1.jpg",
+        "intro": null,
+        "description": "MotoGP\u212219 celebrates passion for motorsports with many new features!\n\nWith the Historical Challenges mode you can relive the most exciting rivalries that made the history of the MotoGP\u2122!\n\nCompete with a faster, smarter and more accurate AI based on machine learning!\n\nPlay with your favorite 2019 Championship rider and race on 19 different tracks! Discover all the classes: MotoGP\u2122, Moto2\u2122, Moto3\u2122, Red Bull MotoGP\u2122 Rookies Cup and the new MotoE\u2122.\n\nCreate your style and customize your helmet, lower back patch and racing number with the new graphic editors!\n\nImprove your bike's performance working on different technical aspects during dedicated tests and plan your strategy to be the best!",
+        "languages": [
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 7918845952
+    },
     "70010000016273": {
         "id": "0100F3900D0F0000",
         "rightsId": null,
@@ -5494,7 +5579,7 @@
         "numberOfPlayers": 1,
         "rating": 17,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ec75c09eef9bb345dd099a921425d25054d2b80ae2340b26e16f6f560b292d6b.jpg",
         "screenshots": [
@@ -7169,7 +7254,7 @@
         "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/c2d26ca825f1797df639da857e4491e7c8108af4f27550b9759986674fa40c7d.jpg",
         "screenshots": [
@@ -8053,7 +8138,7 @@
         "numberOfPlayers": 1,
         "rating": 17,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/6b86ecfcb4396574dbda68c9ad6ab40e24a4f0f8b367b8454fd6301eb6108218.jpg",
         "screenshots": [
@@ -8504,6 +8589,51 @@
             "ko"
         ],
         "size": 802160640
+    },
+    "70010000024527": {
+        "id": "01001FA00FBBC000",
+        "rightsId": null,
+        "name": "MotoGP\u212220",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220411,
+        "nsuId": 70010000024527,
+        "category": [
+            "Racing",
+            "Sports",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Users Interact"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a7a5408e3c649c1f2092f22310337e0d9e793e10e05203f919913b7e8c735bbe.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/7afdbfc036e1668783fb8f70af1624a80d16735d9ccb983b2df655931782a046.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/41f1602bf61a9f37c87583313ad0f804a992ee5cc29c7a83818689845ed7a9b1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c2dcaf90e33cc9f364584b25f6791b512bb92ce9afd34988b45cb8a080c5b75b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1c6af64df466fdeaf9700110842662ff127ef91bf82ea0897a51ef8839b2f249.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cb036228bb4ac1cedd33b664aa32422a3cc7b1a494b390b00fa6a0ec24a096dd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/288e5681425936949dcbfb4be76d5f477e11a6ca1d50ab8e4258bbb11eb0d08a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/149de10f4cd70451862aa57cde1078904aa68846007100cde9ff42a44f54bb6f.jpg",
+        "intro": null,
+        "description": "Rev up your engines for a new chapter of the MotoGP\u2122 series!\n\nWith MotoGP\u212220, experience all the thrills of the more-complete-than-ever Managerial Career mode and decide whether to join a 2020 season team and race together with the official riders or join a totally brand new team.\n\nDiscover more realistic physics, improved graphics, new 3D models of riders and face scans of official MotoGP\u2122 team managers, plus new animations. Learn to manage gasoline and tyre consumption.\n\nCustomize your bike and your suit! Find the best combination of sponsor and livery, and choose colours and materials. Coordinate everything to win in style!\n\nCompete with legendary riders! New historic content and a new gaming mode await you to let you relive MotoGP\u2122 history.",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 11808014336
     },
     "70010000024531": {
         "id": "010024600C794000",
@@ -10948,7 +11078,7 @@
         "numberOfPlayers": 1,
         "rating": 13,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d7af9c8842f8d418b8d3afd5c158bc06d46d7c9de1f64d9be0702e81c4324843.jpg",
         "screenshots": [
@@ -13076,7 +13206,7 @@
             "ko",
             "zh"
         ],
-        "size": 369098752
+        "size": 370147328
     },
     "70010000033802": {
         "id": "01000B7012D7E000",
@@ -13842,7 +13972,7 @@
         "numberOfPlayers": 1,
         "rating": 13,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/beffe95ad22ee5322f5085bc3aee37e0dd6d1b7ed5944d004579fd14aea0676e.jpg",
         "screenshots": [
@@ -14834,7 +14964,7 @@
         "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/bfb02b73da99aa36fdf1b267b4f58f1ed4ef36a5f70ad97635d42e5c2a219c83.jpg",
         "screenshots": [
@@ -15049,6 +15179,49 @@
             "zh"
         ],
         "size": 281018368
+    },
+    "70010000035915": {
+        "id": "01000F5013820000",
+        "rightsId": null,
+        "name": "MotoGP\u212221",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220411,
+        "nsuId": 70010000035915,
+        "category": [
+            "Racing",
+            "Sports",
+            "Simulation"
+        ],
+        "ratingContent": [
+            "Users Interact"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Milestone",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/737eb4fb07d46b1cad0b2e150bb75219494c036bc0df974f1628961a31de3ef3.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1b79dcc46ede6dd47aad9e6849dc41e83d14f4d686218711f2499061eb13f835.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5d3bc549c1d56c9229204d19c96872bedfb08f181b3348b3146c317a0745f02d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0360d18c7aa92cf82a1ccc42fc31b0648945659bb41dfc3d0eb029dd5c9ad113.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6c57905f1a2501bff203b36b74f19e07f98e4ff8226144068ce95bd1f07371c1.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/49b4cced78931cfc7daa1dfa682edc9ca1e44ff8d0f0c7b9b3d7634d3247978c.jpg",
+        "intro": null,
+        "description": "Take your place on the starting grid and get ready for the most realistic and immersive MotoGP\u2122 videogame ever.\n\nTHE VERY BEST OF MotoGP\u2122\nLive the 2021 Season at its fullest with the MotoGP\u2122, Moto2\u2122, Moto3\u2122 classes.\nLive the most authentic and immersive 2-wheels racing experience with more than 120 official riders, over 20 tracks and new and improved features for an unprecedented level of realism. And for the first time, experience the Long Lap Penalty. \nRelive the history of MotoGP\u2122 with more than 40 historic riders and their iconic bikes.\n\nPLAN YOUR GAME\nTake full control of your managerial career: joining an official team or creating a brand-new one is up to you. Then select your Staff: a team of professionals will assist you throughout the season and your career, helping you to take crucial decisions like the choice of the best contract and the development of your bike.\n\nAnd once you get to the highest classes, build your own Junior Team, handling every aspect of it.\n\nEVERY DETAIL UNDER CONTROL\nWhen you can control and manage every aspect of the race, every decision matters. Keep tabs on the level of your fuel, the temperature of your brakes and the wear of your tires. Take crucial choices based on your riding style and the conditions of the race. \nGear up for the most thrilling racing experience but don't get too carried away: if you fall you'll have to get back on the bike as fast as possible! Every second counts!\n\nWINNING WITH STYLE\nWhether it's the way you ride or the way you look, style is key in MotoGP\u212221. Show them who you really are! Customize helmet, suit, stickers, racing number and livery with 5 incredible graphic editors! \n\nAnd impress everyone with your riding style too! Also, our revolutionary neural AI system based on machine learning is back with significant improvements: get ready to discover new faces of A.N.N.A. in the most exciting races ever!",
+        "languages": [
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 11660165120
     },
     "70010000035927": {
         "id": "0100DF0013830000",
@@ -15599,7 +15772,7 @@
         "numberOfPlayers": 1,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/911db1918e74da41182873ad50a86a1e020583d11396768281aa3e71cf013a26.jpg",
         "screenshots": [
@@ -16412,7 +16585,7 @@
             "ja",
             "en"
         ],
-        "size": 614465536
+        "size": 620756992
     },
     "70010000037420": {
         "id": "0100E82013ED6000",
@@ -21910,7 +22083,7 @@
             "nl",
             "zh"
         ],
-        "size": 593494016
+        "size": 633339904
     },
     "70010000042607": {
         "id": "01006960155C4000",
@@ -26554,7 +26727,7 @@
             "ja",
             "en"
         ],
-        "size": 1050673152
+        "size": 1210056704
     },
     "70010000045968": {
         "id": "0100E7501640E000",
@@ -29897,7 +30070,7 @@
             "zh",
             "zh"
         ],
-        "size": 2571108352
+        "size": 2570059776
     },
     "70010000047340": {
         "id": "0100E4D0169E0000",
@@ -32673,7 +32846,7 @@
         "numberOfPlayers": 1,
         "rating": 10,
         "developer": null,
-        "publisher": "Sold Out",
+        "publisher": "Fireshine Games",
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f074911c522fcb4f66a25276472406ae41a0cc0e5667a692a9eee9f9bfee7473.jpg",
         "screenshots": [
@@ -33161,6 +33334,61 @@
             "en"
         ],
         "size": 440401920
+    },
+    "70010000048350": {
+        "id": "01002DD016E50000",
+        "rightsId": null,
+        "name": "Capcom Fighting Collection",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220624,
+        "nsuId": 70010000048350,
+        "category": [
+            "Arcade",
+            "Fighting",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Mild Language",
+            "Partial Nudity",
+            "Use of Tobacco",
+            "Violence",
+            "Users Interact"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/59ae16a8df77cd5189927ed12dd0e99d835f8bff78ff53fbc65313d48cc9d217.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e084e4b4cee6942b677d96f35e5844a735ef61d314ba3f711553dc830ec10622.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/411bf8280e4dd2ea9239bb91782ff8852bf00dcffb1a5e70d61eac7ddff614d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac1beaabee0482d2a00b3a5ef6c7640aa9c5ea4bdd18375a73b0b1f0e8614bb7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d71a9e2f0706362b2cbfeb20855519bab3a2b50f24520b13402fe5efb957cecd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d1b81c8bd10e342aba7e6959423be2851c48eb32ffd09fb3160321519a446c7e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8a7a710b8190623748a21ee971cec5e953162638f49bb30bc64fb80014228f88.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0ff93cf9f43eb82a21570184738edac72644e77d73e0a591d646ecb2823bafc4.jpg",
+        "intro": "Ten of Capcom's most popular arcade games in one epic collection!\nAll titles support online play!",
+        "description": "Ten of Capcom's most popular arcade games in one epic collection!\n\nA wide variety of titles are included from iconic series such as Street Fighter and Darkstalkers, Cyberbots, and the first home console port of Red Earth!\nAnd of course, all titles support online play!\nThis is the perfect collection for both arcade veterans who remember the titles, and those who want to get into them for the first time!\n\n\u25a0 Fully-featured online modes\nPlayers can aim to top the global leaderboards in ranked matches, or create a lobby with friends for casual games or just spectate some exciting matches.\nSupported with a robust Rollback netcode which offers a stable and smooth online experience.\n\n\u25a0 First-timers welcome\nBeginner-friendly features such as training mode and one-button special move control options are included.\nYou can also save and load any time for a quick do-over!\n\n\u25a0 Additional content: The Museum\nThis archive features more than 500 illustrations and development materials across the 10 included titles.\nIt also includes concept art that has never been shown to the public before, and behind-the-scenes materials that give a glimpse into the development process.\nNot only that, you can listen to over 400 music tracks recorded from the arcade versions of each title.\u3000\n\nIncluded game titles (Japanese and English versions selectable for most titles *1)\nDarkstalkers: The Night Warriors\nNight Warriors: Darkstalkers\u2019 Revenge\nVampire Savior: The Lord of Vampire\nVampire Hunter 2: Darkstalkers\u2019 Revenge\nVampire Savior 2: The Lord of Vampire\nHyper Street Fighter II: The Anniversary Edition\nSuper Puzzle Fighter II Turbo\nSuper Gem Fighter Mini Mix\nCyberbots: Full Metal Madness\nRed Earth\n\n(*1 Vampire Hunter 2: Darkstalkers\u2019 Revenge and Vampire Savior 2: The Lord of Vampire are Japanese versions only)",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 3438280704
     },
     "70010000048380": {
         "id": "01006B9016E78000",
@@ -33939,6 +34167,54 @@
             "en"
         ],
         "size": 84934656
+    },
+    "70010000048562": {
+        "id": "0100309016E7A000",
+        "rightsId": null,
+        "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220609,
+        "nsuId": 70010000048562,
+        "category": [
+            "Action",
+            "Fighting"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Language",
+            "Violence"
+        ],
+        "numberOfPlayers": 2,
+        "rating": 13,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/4ead941b54a7c4bb7bb612d7329c23a3da8b6eb9133ba4d944207dddac43817c.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/959b04e8ff982dc1f02099bca80a4342d480d1655e680ccf07dd23869fbbb865.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d27fc96c0d0ce61e9fc5a869875e857b8429822706ce7885c723f4d673893364.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/19e3f1b407cc66da54c8a16d83dc5a61a031fa2da6aecb0b60be19f69849216c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b4b3a5cb5c294af1af5a84de610d94d26349ede8cf1a09680e1d7642e3e69a1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e775e322ef1ad7b0f647decb7afe8b3cd24bc6e230ebc98aa0a1af8b426eeb15.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a17b988fa44cffc4537c1ed9968825d0ada3ec199a67d672e3abaf507fb1cbe4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7af59d38c725b9da41f15e54e866027336762b6c0415ab7fbe92ef5f0eb23cba.jpg",
+        "intro": "Become the Blade that Destroys Demons!",
+        "description": "<Adventure Mode>\nRelive memorable moments from the Demon Slayer: Kimetsu no Yaiba anime through the eyes of its protagonist, Tanjiro Kamado!\n\nFollow the story from Demon Slayer: Kimetsu no Yaiba Tanjiro Kamado, Unwavering Resolve Arc\u2014where Tanjiro joins the Demon Slayer Corps\u2014 to Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train featuring the Flame Hashira, Kyojuro Rengoku!\n\nFace off against demons from the anime series with stunning graphical effects faithfully recreating iconic battle techniques in full 3D!\n\n<Versus Mode>\nChoose from a cast of 24 fighters, including not only protagonists like Tanjiro Kamado and Nezuko Kamado, but demons like Rui (Lower Five of the Twelve Kizuki) and Akaza (Upper Three of the Twelve Kizuki). Pit your favorite characters against each other and enjoy never-before-seen matchups!\n\n[Included in this Download]\n\u30fb Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles Game\n\u30fb Character Unlock Key: Kimetsu Academy Tanjiro Kamado\n\nThe following items are included in the game from the beginning as a bonus for the Nintendo Switch\u2122 version.\n\u30fb Kimetsu Points (16,000 Points)\n\u30fb In-game Costumes:\n     -Butterfly Mansion Patient Wear (Tanjiro Kamado, Zenitsu Agatsuma, and Inosuke Hashibira)\n     -Kimetsu Academy Summer Uniform Costumes (Kimetsu Academy Tanjiro Kamado, Kimetsu Academy Nezuko Kamado, Kimetsu Academy Zenitsu Agatsuma, Kimetsu Academy Inosuke Hashibira, Kimetsu Academy Giyu Tomioka)\n\nRegarding the Pre-Order Bonus\n\n[Pre-Order Bonus]\n\u30fb Character Unlock Keys: Kimetsu Academy Nezuko Kamado, Kimetsu Academy Zenitsu Agatsuma, Kimetsu Academy Inosuke Hashibira\n\n*Pre-order bonuses can be obtained until two weeks following the release date.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "zh",
+            "zh"
+        ],
+        "size": 9387900928
     },
     "70010000048585": {
         "id": "01005A100B314000",
@@ -34943,7 +35219,8 @@
             "Puzzle"
         ],
         "ratingContent": [
-            "Fantasy Violence"
+            "Fantasy Violence",
+            "Mild Language"
         ],
         "numberOfPlayers": 1,
         "rating": 10,
@@ -41423,6 +41700,55 @@
         ],
         "size": 109051904
     },
+    "70010000051480": {
+        "id": "0100B78017CFC000",
+        "rightsId": null,
+        "name": "Jigsaw Fun 3-in-1 Collection",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220602,
+        "nsuId": 70010000051480,
+        "category": [
+            "Puzzle",
+            "Multiplayer",
+            "Party",
+            "Board Game"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Mindscape",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a2af8a69eeed526bee5939955f74d2a441a8fe4a6973dbbe02e8ebd277736ee8.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/0ac6360d723dade213bc031a4e6e5bd940a84f60e6ca23d25613720153f6ec5e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cf94c83b5412c336fedf66a649dec8d5c32e98da6b6517bc3feae33975eb49d1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3c5e576a58b05b07c5c4cab81e39b755a3cb67e93b4de390e644e6a916f58867.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c0db3260f00a33dbac98b2d6313b6e7a6089e4f48c4b3db1cb478d29a50b914c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3670e5f20154374a54a2be9a954ccc6c94d62a41ef8b8bf171028b9343919e81.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b0ab6c5bcc7ad8fe3d6fdcc2ab353f2eaadbdc3290496c0084300d37ce2c5ba4.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b855cbdfa71a5b7643498a8a30f7e3cc4b3fe034ab2e040bacb9a46515123f75.jpg",
+        "intro": "Solve 300 jigsaw puzzles of Wonderful Nature, Amazing Animals and Greatest Cities. Choose puzzles from 30 to 600 pieces and play solo or together up to 4 players!",
+        "description": "Enjoy a collection of 300 high-quality jigsaw puzzles of Wonderful Nature, Amazing Animals and Greatest Cities from all around the world. Change the size of your puzzle for increased difficulty and solve jigsaws up to 600 pieces. You can also play with up to 4 players to solve jigsaws together!\n \n\u2022 4 different puzzle sizes (30/120/300/600 pieces)\n\u2022 Easy and accessible touch controls\n\u2022 Pick up where you left off with the automatic save feature\n\u2022 Up to 4 player local multiplayer\n \nWonderful Nature:\n\u2022 Mt. Fuji\n\u2022 Antarctica\n\u2022 Patagonia\n\u2022 Pebble Beach\n\u2022 Matterhorn\n \nAmazing Animals:\n\u2022 Panda\u2019s\n\u2022 Elephants\n\u2022 Killer Whale\n\u2022 Gorilla\u2019s\n\u2022 White Tiger\n \nGreatest Cities:\n\u2022 New York City, USA\n\u2022 Tokyo, Japan\n\u2022 Paris, France\n\u2022 Rome, Italy\n\u2022 Shanghai, China\n \nAnd many more...!",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 825229312
+    },
     "70010000051493": {
         "id": "0100A41017D04000",
         "rightsId": null,
@@ -42460,6 +42786,47 @@
         ],
         "size": 2828009472
     },
+    "70010000052604": {
+        "id": "0100D72018078000",
+        "rightsId": null,
+        "name": "Castle Formers",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220422,
+        "nsuId": 70010000052604,
+        "category": [
+            "Action",
+            "RPG",
+            "Platformer"
+        ],
+        "ratingContent": [
+            "Blood",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Ratalaika Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/2d6f0e107f08c08fa2adcf558a7ea644cfb2ab08c074994457e0ef9b2790e650.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/234f541b50eb306e4756fe335853b94618bf660f444872e7dae4fb94d59857c2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8384de97056c5135588f9ad1b8886579df3b29e7e5794a07df31f813f56ce573.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df8b15be5e27ba956e02ed6f26a357c79416c6abbd6a03233b28231dbe251581.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba2c41148d326b2014bd8bb510a51c7e1bf7d07856b741bd10ffa6a283034378.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6aa5ea0860241f9c902075574aa5187ec1fbd7d8c222d5fd777b04cc6f4e697c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c8d155695af58dd6ea3a221becc08f6e19e49b84322cddc75d800c8600c8af24.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/fc96eb1b9719bbeb0119414198f5704e9234885a435d19ad137c0e0f07affea4.jpg",
+        "intro": "Defend your castle through a dark night full of invading hordes!",
+        "description": "Castle Formers cleverly combines platform action with castle defense to create original and dynamic gameplay. Choose to control a king or queen and defend your beloved castle from invading hordes.\n\nEvery day you have the opportunity to build your defenses, train soldiers, and prepare magic spells. Then, every night the battle begins! To overcome the invaders, you\u2019ll have to navigate and interact with NPCs and build up your castle defenses.\n\nCut plants, hunt, find treasures, form an army, upgrade your weapons, prepare food, and cast spells. When the sun sets, defend your castle at all costs.\n\nCan you discover the best way to battle, find secrets that will allow you to survive 30 days, and ensure the survival of your kingdom?\n\n\nFEATURES\n* Castle defense action gameplay\n* RPG elements - Upgrade your defenses by building up resources\n* Choose between a king and a queen player characters\n* Day and night cycle\n* Medieval indie pixel art",
+        "languages": [
+            "en"
+        ],
+        "size": 130023424
+    },
     "70010000052728": {
         "id": "01005100180DC000",
         "rightsId": null,
@@ -42530,6 +42897,43 @@
             "en"
         ],
         "size": 144703488
+    },
+    "70010000053008": {
+        "id": "01009160181BA000",
+        "rightsId": null,
+        "name": "Radon Break",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220414,
+        "nsuId": 70010000053008,
+        "category": [
+            "Arcade",
+            "Action"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": 6,
+        "developer": null,
+        "publisher": "EntwicklerX",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b6d66178f05098d335e75cebfac72f09a1ca536b06430fd53fe0697ce473c8fb.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2ec635f5904fb58e05e6e37285ff90e9b4986d765609853c7c075e1bf1bbfac3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/54f9fa02057978e11541351c09351b97edb0764eef7006895e87544f24c7ef54.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/60f0278250dbfd46c012e7ff93b28f0ebfbe433057eb63371a72969b5de189d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eebbae0be5ec05447e8df3ac5f6aa735514fc8fdf8156682a4e83a15e2ff0575.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4a13460058c6976c2808b86040e47ac00d6be433fa91a62571c8a30be3acc02.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/71622df6e49803471f80563bb97e57bf5ac78399750a778dd5d0e0db07a04fbe.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e7ebbe9c90101f87d1dce4a9b02087c51d97cbfc3f567249b231b65dacf95933.jpg",
+        "intro": "Radon Break is a classic Brick Breaker style game.",
+        "description": "Radon Break is a classic Brick Breaker style game. Break bricks by using the ball. Get items like speed, ball splitter and paddle resize to make the game more challenging. Some specials like gun, power ball or block wall helps you while playing your game.\n\nRadon Blast is full packed with randomly sorted stages. Jump from stage to stage, collect bonus items for a better higher score.\n\nFeatures:\n- 40 action stages\n- Retro game play with a modern twist\n- Clean 3D graphics and nice effects\n- Stunning chip tune enhanced music track\n- Special Items: split ball, paddle resize, power ball, speed, glue, gun, ball splitter\n- Bonus Items: block wall, extra score, next level, extra ball",
+        "languages": [
+            "en"
+        ],
+        "size": 94371840
     },
     "70030000007021": {
         "id": null,
@@ -49022,7 +49426,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
@@ -49052,7 +49456,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
@@ -49089,7 +49493,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
@@ -49119,7 +49523,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
@@ -49149,7 +49553,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
@@ -49186,7 +49590,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
@@ -49223,7 +49627,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
@@ -49260,7 +49664,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
@@ -49290,7 +49694,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
@@ -49320,7 +49724,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
@@ -49355,7 +49759,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
@@ -49386,7 +49790,7 @@
         "numberOfPlayers": null,
         "rating": 13,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
@@ -49562,7 +49966,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
@@ -49592,7 +49996,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
@@ -49629,7 +50033,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
@@ -49664,7 +50068,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
@@ -49700,7 +50104,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
@@ -49730,7 +50134,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
@@ -61366,7 +61770,7 @@
         "numberOfPlayers": null,
         "rating": 6,
         "developer": null,
-        "publisher": "Focus Home Interactive",
+        "publisher": "Focus Entertainment",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": [
@@ -61809,6 +62213,38 @@
             "0100EB500D92F01E"
         ]
     },
+    "70050000033282": {
+        "id": "0100309016E7B001",
+        "rightsId": null,
+        "name": "Character Unlock Key (Kimetsu Academy Tanjiro Kamado)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220609,
+        "nsuId": 70050000033282,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Language",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7af59d38c725b9da41f15e54e866027336762b6c0415ab7fbe92ef5f0eb23cba.jpg",
+        "intro": null,
+        "description": "This unlock key allows immediate access to play as Kimetsu Academy Tanjiro Kamado in Versus mode.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100309016E7B001"
+        ]
+    },
     "70050000033309": {
         "id": null,
         "rightsId": null,
@@ -62145,6 +62581,38 @@
         "size": 3145728,
         "ids": [
             "01002F70132250D2"
+        ]
+    },
+    "70050000033417": {
+        "id": "0100309016E7B002",
+        "rightsId": null,
+        "name": "Character Unlock Key (Kimetsu Academy Nezuko Kamado, Kimetsu Academy Zenitsu Agatsuma, Kimetsu Academy Inosuke Hashibira)",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220609,
+        "nsuId": 70050000033417,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Language",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "SEGA",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7af59d38c725b9da41f15e54e866027336762b6c0415ab7fbe92ef5f0eb23cba.jpg",
+        "intro": null,
+        "description": "This unlock key allows immediate access to play as Kimetsu Academy Nezuko Kamado, Kimetsu Academy Zenitsu Agatsuma, and Kimetsu Academy Inosuke Hashibira in Versus mode.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "0100309016E7B002"
         ]
     },
     "70050000033435": {
@@ -62775,6 +63243,41 @@
         "description": null,
         "languages": null,
         "size": 3145728
+    },
+    "70050000034201": {
+        "id": "01002DD016E51001",
+        "rightsId": null,
+        "name": "Exclusive new illustrations & music remixes",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220624,
+        "nsuId": 70050000034201,
+        "category": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Mild Language",
+            "Partial Nudity",
+            "Use of Tobacco",
+            "Violence",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "CAPCOM",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4512e45a0bbd04cce8e61d38247709efbdb4eb5bfd5df0018548b27606a51cea.jpg",
+        "intro": null,
+        "description": "The pre-order / early-purchase bonus contains the following content.\nEnjoy additional original content created by some great artists!\n\nEach will be downloaded to the in-game \"Museum\".\n\nExclusive new illustrations by:\nChisato Mita\nYuri Kataiwa\nRyuji Higurashi\nTamio\nSAKUTAMO\n\n18 remixed music tracks by:\nCAP-JAMS (8 tracks)\nKnxwledge (6 tracks)\nMndsgn (1 track)\nKEIZOmachine! (1 track)\nOlive Oil (1 track)\nMatt Cab (1 track)\n\nNote: Bonus content is available to customers who purchase by 23:59 on Friday 30 September, 2022.",
+        "languages": null,
+        "size": 3145728,
+        "ids": [
+            "01002DD016E51001"
+        ]
     },
     "70050000034210": {
         "id": "0100763015C2F005",
