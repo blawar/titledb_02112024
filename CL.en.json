@@ -19873,11 +19873,11 @@
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a6d0caeeb5976bae6d66b7a318d5c2775193e3dcecdbb398b7346e28a4f9a26e.jpg",
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/2ce7d686d5b2fc389fa6e6fd6f6938d2ba536de4505eec8e0bf30d28d00da791.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/b7d45a075531a47997efef4e1b3bda48d8217e191bdf141f17f914e9933403b4.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/20ce16cf8812b152f33ba27b51a6135529901c364411d29f82d7acc8b7a08a68.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fb7df7a1d0c22f79acdc308a96245ec7bb92cd8a44452a9c8645c4b9bcdee92c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0c3651202b902d878fd3855fd8937c210dd98095efdc8f02ec853ae1010acf23.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7d5602236946db3ca2068a8ab7bec5e25f32f4ee3df4fc25495fe60bc7b6e268.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/3ae1e5bc18b6765b302968fd0ec744a2ee60fa7d69733664463789e39253182a.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/59ef6bbf99484fa77e26109587fbadcef5deb08ba62350720c6443d3fd974a5c.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/ce4be6125acee58b7af81b5cd1168002ccd8902ed562b8e71236863724dca2e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7267f06e2251d60c476b04694f613bcae733f228e57cd5c973653bbf2915cc8a.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bf160ba08631e0206beb0ebade4e1527b5dd73be5a7dd8eafe79aa85f27b6854.jpg",
         "intro": "A 2D metroidvania adventure inspired by '80s action movies",
@@ -23333,6 +23333,50 @@
         ],
         "size": 59768832
     },
+    "70010000043753": {
+        "id": "0100766015A88000",
+        "rightsId": null,
+        "name": "The Sorrowvirus - A Faceless Short Story",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220427,
+        "nsuId": 70010000043753,
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Language"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "eastasiasoft",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/41795a76b4067d2e282890bd2d595c45bcb0b7a53af914666e4d228f8b5cf240.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6c7c3b30a70d428ecb5a6370d7d6b0ab0728197c689471b52f3b9aaef5f83ed9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ce97e4a4aad81774c11645b291fe4ee7a7791ec405ed4a9a975e592955a4bae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/16307a23eb6cf03d66c462d9089f375def0c32b0e36f5cb094b1f039d530e974.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/37d362d20e52af391e467ae4b9db5355bd51f91ca4b49aca0699281e2528029f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38714fc6cebbcbb9307391fbd5a3ce89f3ef735a7cb43a3ae1d5b1b629ab2b24.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/951c2d8ec9b91993cf7f35a76843e9e736a7c710460ced13c82a09983185c299.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/93c8082ae0873d0a518efa497f837006e86e2bc451a25c13f126af144021eacc.jpg",
+        "intro": "Set a young man\u2019s soul free from the torment of endlessly repeating death!",
+        "description": "Follow the journey of Wyatt Heyll, a young man stricken with a multitude of ailments from an early age. On the verge of death, Wyatt\u2019s parents administer a paranormal substance known as the Sorrowvirus, which contaminates the human soul and prevents it from passing on to the afterlife. This causes a subject to fall into Purgatory instead, where they can heal and return to life. However, every time Wyatt comes back, his cancers and illnesses return more quickly than before.\n\nWyatt's parents allow him to continue dying over and over while they perform research on organic particles found in Purgatory that may cure him once and for all. Having died so many times, Wyatt simply wants to let go. Your objective is to set Wyatt free from his everlasting torment. Navigate haunting environments in first person, solving puzzles and discovering clues to unravel Wyatt\u2019s tragic tale. With four endings in sight, only one is the true path.\n\nFeatures:\n\n\u2022 Explore the circumstances of a young man\u2019s endless cycle of death.\n\u2022 Discover changes in dialogue and difficulty as the game remembers previous runs.\n\u2022 Navigate highly detailed environments in a first-person perspective!\n\u2022 Solve challenging puzzles to find the answers you seek.\n\u2022 Immerse yourself with a hauntingly atmospheric soundtrack.\n\u2022 Release Wyatt from his torment by finding the one true path forward!\n",
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "ru"
+        ],
+        "size": 3614441472
+    },
     "70010000043772": {
         "id": "010076E0150CC000",
         "rightsId": null,
@@ -25516,6 +25560,57 @@
             "zh"
         ],
         "size": 338690048
+    },
+    "70010000045164": {
+        "id": "0100454006F1E000",
+        "rightsId": null,
+        "name": "Bugsnax",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220428,
+        "nsuId": 70010000045164,
+        "category": [
+            "Adventure",
+            "Puzzle"
+        ],
+        "ratingContent": [
+            "Animated Blood",
+            "Crude Humor",
+            "Fantasy Violence",
+            "Suggestive Themes"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Young Horses",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/a3a97ef1d45ab35a00d45831cb31006488bc609c1ecd95057103a12247d209ef.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/326770ef0e2aa8ecc7ecb10aa15335373d4962e01add227ff27effb5ac86b17e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c17b1c7338e5d4f3e37331b8a012023ad875b2462de8253b13dc9d0dbb0ee092.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/38f9790fd28467321c21dd83e24ae7bc2a6e593b54c257aa63c077d3e7ccbf14.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3d26c6a453247f4c7ca4b4552ffaeab7dfb72311ab06f118561bd2b9369feb89.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/201b01485ee01e03f66fc15c318317930d74e44fe83c5d0792630c6e88b146da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/98cd1207a3e3a870bcfa319355e1da70e325a293ea6c30990c7aea90ded767aa.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/62bd1e91fa13206fc7f29224eb7f5ef827b8ebd87356470d49e7d7da31e86472.jpg",
+        "intro": "Catch mysterious living snacks and feed them to your friends in this unusual island adventure!",
+        "description": "Bugsnax takes you on a journey to Snaktooth Island, home of the legendary half-bug half-snack creatures, Bugsnax. Invited by intrepid explorer Elizabert Megafig, you arrive to discover your host nowhere to be found, her camp in shambles, and her followers scattered across the island alone... and hungry!\n\nIt's up to you to solve the mysteries of Snaktooth Island: What happened to Lizbert? What are Bugsnax and where do they come from? But most of all, why do they taste SO GOOD?\n\nFill Your Pack With Snax! Discover, hunt, and capture all 100 different species of Bugsnax using a variety of contraptions and bait.\n\nEmbark on a Tasty Quest! Explore the diverse biomes of Snaktooth Island to track down and reunite the inhabitants of Snaxburg.\n\nFeed Somebody and You'll See, We Are Whatever We Eat! Stuff your new friends with Bugsnax to customize them with countless new looks.\n\nVenture Deep to Seek the Truth! Follow every lead to learn more about Lizbert's band of misfits and the mysteries of Snaktooth Island.\n\nCome Back For Seconds! Seek out side quests and travel off the beaten path to test your skills against fearsome supersized Bugsnax!\n\nMake Yourself At Home! Complete challenges from your mailbox, collect decorations to personalize your hut, and most important of all: put hats on your favorite Snax!\n",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "pt",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "size": 5846859776
     },
     "70010000045235": {
         "id": "0100FA60160DE000",
@@ -37586,6 +37681,7 @@
         ],
         "ratingContent": [
             "Blood",
+            "Drug Reference",
             "Language",
             "Suggestive Themes",
             "Use of Alcohol and Tobacco",
@@ -40234,7 +40330,7 @@
         "size": 248512512
     },
     "70010000050778": {
-        "id": null,
+        "id": "010071F0143EA000",
         "rightsId": null,
         "name": "Fire Emblem Warriors: Three Hopes",
         "version": null,
@@ -40259,18 +40355,18 @@
         "developer": null,
         "publisher": "Nintendo",
         "frontBoxArt": null,
-        "iconUrl": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d7a519b2d98e969fd11bd33ba16aff4a5125acc30453535080ad4b3ec804bf39.jpg",
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/7617362b1c68d2f62f9e40ab19e93961aac30993cd463a2954f0990851da0619.jpg",
             "https://img-eshop.cdn.nintendo.net/i/58b35b7b9eb27aeeb67938add90a6e5136672750b6d5aa2f6b4f97a7a611ef9b.jpg",
             "https://img-eshop.cdn.nintendo.net/i/12db68b3c1d6e010e3c66390b30673fa9ae5a898051a4dfb032c8ee276493b6c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/675d9a11f621be10ee0c4e226a18a10a3a088a61c9b813d83a03960b914cac52.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/856eeb0ce9d78d4929128633504be74a29da5dd7537b8d38eacf0ebb051d7a00.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/725d7a19fbd88ffef88a9e8583cd3f3d830926c54c48522038d31b61f1c2a99d.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/06934aa562c5b5da947a9606aca31607d2dd9684ac0d07ac3f9714d780c806b9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6a5746ec3e51eae93f58b4204e5a672a1d28548a4bcf32160abfc4da082197d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/968770a51c8a1e8a367971582dc40182f826f035e35d282f499d8790163c77f0.jpg"
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/13b6f1009fb1058652d203fcd5948e5a4db43c2536e14effa3a3f55d160b529f.jpg",
-        "intro": "Join Fire Emblem\u2122: Three Houses characters as you engage in massive battles across F\u00f3dlan",
-        "description": "Edelgard, Dimitri, Claude, and other Fire Emblem: Three Houses characters return to put their combat expertise on display as you revisit a war-torn F\u00f3dlan.\n\nUnleash devastating combos and striking special moves in action-packed, real-time combat\n\nCut through hordes of enemies as characters from the Fire Emblem: Three Houses game. Take down dozens of foes with Edelgard\u2019s axe or Dimitri\u2019s lance, or blast enemies from a distance with Claude\u2019s bow. Slash, swing, and spear your way to a brighter future for F\u00f3dlan.",
+        "intro": "Join Fire Emblem\u2122: Three Houses characters in epic, real-time battles across F\u00f3dlan",
+        "description": "Step into the shoes of Shez, as they meet Edelgard, Dimitri, Claude, and other Fire Emblem: Three Houses characters as you fight for the future of F\u00f3dlan. Align with a leader to build and command an army in 1 vs. 1,000-style battles and deep strategy. The house you choose will bring you through one of three compelling stories, each with a different outcome. Each Fire Emblem: Three Houses character you recruit on these journeys has a distinct set of flashy combos and powerful specials that can cut through hordes of enemies.\n\nUse the strategy of Fire Emblem to gain the tactical advantage in Warriors-style gameplay\n\nDive into real-time battles as you and your army of Fire Emblem: Three Houses characters take on hundreds of opponents, while using elements from Fire Emblem to maximize your strategy. Issue commands to your army in the midst of the chaos of battle to achieve missions and objectives. Plan ahead and prepare for battle by equipping weapons, skills, and classes that capitalize on opponent weaknesses. Assign elements from Fire Emblem: Three Houses, like crests or battalions, to characters to further hone how you plan your approach. \n\nStrengthen your bonds in and out of battle\n\nDevelop and build battle-tested relationships with other Fire Emblem: Three Houses characters as you fight for the future of F\u00f3dlan. Deepen the relationships between characters to give yourself a tactical advantage on the battlefield and to see them open up in support conversations. Bring characters closer together by pairing them up in battle or by spending time together at base camp. Develop your base camp and train, shop, and prepare each of your team members before jumping into the heat of battle.\n\nPurchase the digital version of the game to receive regular visits from a friendly messenger owl outside of your personal quarters. It'll gift you Owl Feathers that can be used to boost your support level with other characters!",
         "languages": [
             "ja",
             "en",
@@ -40282,7 +40378,7 @@
             "zh",
             "zh"
         ],
-        "size": 0
+        "size": 14409531392
     },
     "70010000050782": {
         "id": "0100EA8017A22000",
@@ -63316,6 +63412,38 @@
         "size": 55574528,
         "ids": [
             "0100763015C2F005"
+        ]
+    },
+    "70050000034403": {
+        "id": "010071F0143EB001",
+        "rightsId": null,
+        "name": "Fire Emblem Warriors: Three Hopes Digital Purchase Bonus",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20220624,
+        "nsuId": 70050000034403,
+        "category": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Mild Suggestive Themes",
+            "Violence"
+        ],
+        "numberOfPlayers": null,
+        "rating": 13,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a07a2f1cec69790728766bfc493d2254bcf7ff855d4b182300179da68cc7455a.jpg",
+        "intro": null,
+        "description": "Purchase the digital version of the game to receive regular visits from a friendly messenger owl outside of your personal quarters. It'll gift you Owl Feathers that can be used to boost your support level with other characters!",
+        "languages": null,
+        "size": 5242880,
+        "ids": [
+            "010071F0143EB001"
         ]
     },
     "70070000000221": {
