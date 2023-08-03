@@ -2820,6 +2820,57 @@
         "size": 315621376,
         "version": null
     },
+    "70010000045559": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a6352402ceaa63ebe3b998a6c839423d48b509c9edccb5e220f8eb7ad2b614ce.jpg",
+        "category": [
+            "Actiespel",
+            "Party",
+            "Multiplayer",
+            "Vechtspel"
+        ],
+        "description": "King of the Hat is 2-4 player 2D party platformer where you fight with a hat! Throw your hat to attack, defend and bait opponents. But watch out! If someone jumps on your hat... you die!\n\nIn King of the Hat, your hat contains your soul. Crush your opponent\u2019s hats (and souls) to assert your dominance over them.\n\nWhen you throw your hat, it goes on fire and becomes invulnerable. You can use it to beat the devil out of other players or to defend against your opponents\u2019 flaming hats.\n\nAlthough the basic mechanics are easy to pick up and play, King of the Hat allows for deep, hat-tastic competitive play as a 2 player game.\n\nChange the rules, add power ups and play around level hazards to create the hat-based madness you've always dreamed of.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/eede80f31691efacce97f9550d44eb67e6e7e4f473862511dce992168b1e4ff0.jpg",
+        "id": "010063E014E98000",
+        "intro": "A 2D party platformer where you fight with a hat!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "King of the Hat",
+        "nsuId": 70010000045559,
+        "numberOfPlayers": 4,
+        "publisher": "Hat Games",
+        "rating": 7,
+        "ratingContent": [
+            "Licht geweld"
+        ],
+        "region": null,
+        "releaseDate": 20230824,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/856be1820c915d705452631900bdebd924a006f2064ea64938becefb61e92025.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4dd87e91f63786898d33bde19ba8cb9e222caf619e956a2648b1aaefc3208d43.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d21c1676267c34415f5ebdb636258a4d1e6adf3e4b29343e96fe29a03b441c94.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/af52dca5b2e3a05a41fd864e793f1e718beef1541152d83e49c57ad0a3c80eb4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/aa5558e26ad669aa37ce51a59cf2357efedd2e8a81ebeabf8c27153e9b57cb4c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/91600dfa34baef03bdc7e2598de37f5b9da4262289484d81f5ad8c04bddd664c.jpg"
+        ],
+        "size": 462422016,
+        "version": null
+    },
     "70010000045650": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bf9665c0d3f4f99954d8faa8f426e63a1e3cd1eec297b4f10d5954d9d188b199.jpg",
         "category": [
@@ -8456,6 +8507,54 @@
             "https://img-eshop.cdn.nintendo.net/i/5af0fd351506b088bc8a4623403c8fdf838900100b44018dca73a2262496898c.jpg"
         ],
         "size": 8815378432,
+        "version": null
+    },
+    "70010000059003": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e2c326b8fbab42b3f48c86c10c728b8bc04cf59fa51302c54837823879e6749f.jpg",
+        "category": [
+            "Avonturenspel",
+            "Actiespel"
+        ],
+        "description": "Mow down thousands of night creatures and survive until dawn! \n\nVampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you.\n\nHell is empty, the devils are here, and there's no place to run or hide. All you can do is survive as long as you can until death inevitably puts an end to your struggles. Gather gold in each run to buy upgrades and help the next survivor.\n\nThe supernatural indie phenomenon that lets you be the bullet hell!\n\nThe whole game is also playable in 1-4 player couch co-op.\n\nStarting Tips:\n- Take your time to grab gems and items, they won't disappear.\n- Get two or three offensive weapons at first, but focus on levelling them up one at a time.\n- Armour and Luck are good starting power-ups to spend money on.\n- Refund power-ups often, it's free, and try new upgrade paths.\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/9127f995a9d5f3f2f8fe7c953197e3f5a16eb5e26e890c30fc790f347d9c1ab2.jpg",
+        "id": "010089A0197E4000",
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "pt",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh"
+        ],
+        "name": "Vampire Survivors",
+        "nsuId": 70010000059003,
+        "numberOfPlayers": 4,
+        "publisher": "poncle",
+        "rating": 12,
+        "ratingContent": [
+            "Matig geweld"
+        ],
+        "region": null,
+        "releaseDate": 20230817,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d484bc7b4c7463481fda76d21459b99904fe6c63d05bea724213e7c65205e3c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/260b1e03f7249f78cdb36006a24de6d085736c22938cd1e1b483f88b7ab4754d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e1bb41bf5674daa6f019209a7b90f17dc11d289e5b6b9200484d98a632b5dd1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bbee0766ba74795a5a20d23613d9f560c5ba9b61e189f70afc34b05e59707342.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/75d0cc13dadf14e7a87dd77850e02a6d2fa55795d8c85a8c0b1dfbbbd06d8c80.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bb441bf19ba9d7137c992645027a2db111a9ada17c9754b36c4bfa2b2a0755eb.jpg"
+        ],
+        "size": 255852544,
         "version": null
     },
     "70010000059030": {
@@ -16459,6 +16558,51 @@
         "size": 63963136,
         "version": null
     },
+    "70010000065761": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3243f45acc1c55a327d1335a0d69bec713cc63c02230beb087fafdcacd9bb658.jpg",
+        "category": [
+            "Actiespel",
+            "Schietspel",
+            "Speelhalspel"
+        ],
+        "description": "\"BARADUKE 2\" is an action shooter released by NAMCO (Bandai Namco Entertainment Inc.) in 1988.\nThe crablike \"OCTY\" were not fully eliminated from their fortress in the previous title, \"BARADUKE\".\nRely on help from the PACCET you rescued in the last game as you complete your mission to finish off the vicious OCTY extraterrestrials!\n\nThe \"Arcade Archives\" series has faithfully reproduced many classic Arcade masterpieces.\nPlayers can change various game settings such as game difficulty, and also reproduce the atmosphere of arcade display settings at that time. Players can also compete against each other from all over the world with their high scores.\nPlease enjoy the masterpiece that built a generation for video games.\n\n*The options menu and manual are available in Japanese, English, French, German, Italian, and Spanish.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cfdc1498e7af0ff31ba721dbe9a06030fcfe96f6c04f90f461794e2668be6fe8.jpg",
+        "id": "01008AF01AF98000",
+        "intro": "Creepily adorable aliens",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "name": "Arcade Archives BARADUKE 2",
+        "nsuId": 70010000065761,
+        "numberOfPlayers": 2,
+        "publisher": "HAMSTER",
+        "rating": 7,
+        "ratingContent": [
+            "Licht geweld"
+        ],
+        "region": null,
+        "releaseDate": 20230803,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5dfb6524d0960b2d3eab39e0dd3c96581a98c3716339ee87804884a40f58615c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a0ccfde6f519c9e1b08d5d156fb581d9da827ff4ed128064f8bb82e9bc12113b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f3c2e14b0267f6bd2c73eaa1d395f2425563d1c4e87e6d6758489a41df8f5eb5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/db7df00e93924486516166ec6ccf74b6d158eea889b763cdef77f60123e5e9e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/46f6b55558ec9d7732d0be173bcb325d64ed19dc1e38a4eb5bbeed77ca005a34.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8dee12988e63c629c5e6ae5c1c458c899e6572a5ea413eb5f2b9b82348ff4132.jpg"
+        ],
+        "size": 105906176,
+        "version": null
+    },
     "70010000065797": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/152d4bfd7e212b6236119e2137b4b654f7793a8fb6e63830eb738cc8e5354c6c.jpg",
         "category": [
@@ -20312,6 +20456,57 @@
         "size": 201326592,
         "version": null
     },
+    "70010000067311": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ca68d121c4cc1faa2cc6347d08caa87d35e12ef13fae33ea170f9c1f32340166.jpg",
+        "category": [
+            "Puzzelspel",
+            "Avonturenspel",
+            "Speelhalspel",
+            "Party"
+        ],
+        "description": "Een Kasteel vol Katten is een spel rond verborgen voorwerpen met een Metroidvania-achtige structuur: het bevat alternatieve paden, sleutels om te vinden, mysterieuze NPC's... en meer!\n\nFofi\u00f1o is zichzelf niet meer sinds hij vervloekt is door een kwade kracht... Hij heeft elke kat in het kasteel getransformeerd in een duister (maar schattig) wezen!\n\nNu kan alleen Lily, de lapjeskat, haar zielsverwant redden en het kasteel bevrijden van de kwade vloek!\n\nFuncties:\nMeer dan 500 katten om te vinden\nMeer dan 100 katten\u2026 die nog moeilijker te vinden zijn!\nMeer dan 20 unieke kamers om te doorzoeken\n\u2026Geheimen!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/3dbb6b1015beaaef40b77610c9ae39c8f8eb3524fbb0cf1b5f3782f0984c70df.jpg",
+        "id": "010094501B6C8000",
+        "intro": "Een sfeervol verborgen voorwerpenspel met kattendrama, -verraad... en -liefde.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "A Castle Full of Cats",
+        "nsuId": 70010000067311,
+        "numberOfPlayers": 1,
+        "publisher": "Silesia Games",
+        "rating": 7,
+        "ratingContent": [
+            "Angst"
+        ],
+        "region": null,
+        "releaseDate": 20230817,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/97e2f7adaa7b1752649ce19315300576f2649d4b67b1216323f96e05612a7fd6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/038b6882ef8ac61e52d01ebb5b33a0fc513a31807a81107019045fd055d7e6d4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4e4d5fb4ba1aa325c8a8b0ee5291c1c5c8ea2f1b9c327a97597558ccb9ef7850.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7c602dc545bd0e7f727b3967f3eef460333e23ce31c1119de75e64ab2c373571.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb9a9b7b6ee4aa3a8bf10244407de5ba1a649aa4321b84d82333a98e1d3811af.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/62ee86378d6767509718872a53fe515b5cb06fbbc96b1cb817df3cae7c77f3fe.jpg"
+        ],
+        "size": 719323136,
+        "version": null
+    },
     "70010000067313": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/050f412a263ea056425294028623e7181bc5d6a0d058c4b201bb69ee0babf4ab.jpg",
         "category": [
@@ -23452,6 +23647,49 @@
         "size": 352321536,
         "version": null
     },
+    "70010000068592": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4e118a5e60472bb1abbfd7c5929f425e385b4c55a4c8c2d1a04486dfcbbb769f.jpg",
+        "category": [
+            "RPG",
+            "Avonturenspel",
+            "Strategiespel",
+            "Simulatiespel"
+        ],
+        "description": "Kruz is een keizerlijke soldaat die een leugen heeft ontdekt achter een missie om het Rebellenleger te onderdrukken. Voortbordurend op de nalatenschap van een gevallen kameraad, loopt hij over van het keizerlijke leger en sluit hij zich aan bij de onafhankelijke mobiele eenheid Chroomwolf van de Vrijheidsstrijders om wraak, boetedoening, gerechtigheid en idealen te zoeken... Wat zal de brigade van de Chroomwolf aan het einde van hun reis aantreffen?\n\nBlaas je vijanden weg in tankgevechten! Spring in een tank om vijanden te verslaan in turn-based gevechten en geniet van hevige kanongevechten. Pas de tank aan met onderdelen om je aanvalscapaciteiten en prestaties te verbeteren. Je kunt ook de klasse van je personages kiezen, wat invloed heeft op de wapens die ze uitrusten, de vaardigheden die ze leren, hun statistieken en passieve vaardigheden. Wissel van klasse om een groep samen te stellen die bij jouw stijl past.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/027757eb245c2532c46c691ae739e97b8c74aec057fed136ed65f722178a9409.jpg",
+        "id": "010069801BC8E000",
+        "intro": "Geniet van tankgevechten in een verhaal over het leven van vrijheidsstrijders!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "name": "Chrome Wolf",
+        "nsuId": 70010000068592,
+        "numberOfPlayers": 1,
+        "publisher": "KEMCO",
+        "rating": 12,
+        "ratingContent": [
+            "Seksuele insinuatie",
+            "In-game-aankopen"
+        ],
+        "region": null,
+        "releaseDate": 20230817,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e6242fe9a60c6ef785f80e8fc6fd3fb9818cadf8a979ae3a430e4628afc43287.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d2d9e4ab696a89bcfb7caff0c57152b432558f304dc6447df0e3d29387c5b1d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ac495074a0dd19ed87b5b9e3de965aaba4aaf0b109f6bb8e0c4b479b7ce221c9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d27a683c19db3b147c22acbd0c4568c30dcd2bca49728f821efd90feed986202.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f180cd21190cd572eb04586403aa1cc66d1ba4cd7e7656cba73b58bac09ed488.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3015bbbf7d7c57ad9aee1c7944911214e9d528034bf0204398156033a88352d5.jpg"
+        ],
+        "size": 110100480,
+        "version": null
+    },
     "70010000068601": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/577d8cd9c9725f10fbb2c6bfda8de10dbfdbd3e8d1603c869c71d194e74d8ac2.jpg",
         "category": [
@@ -24993,6 +25231,50 @@
         "size": 565182464,
         "version": null
     },
+    "70010000069126": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d05708836f3fd5a279d22bcb05f9c61cacdea69eb93e1c2627df314e0f53313b.jpg",
+        "category": [
+            "Racespel"
+        ],
+        "description": "Duck Race is an adrenaline-fueled racing game where players enter the whimsical world of competitive rubber duck racing. Players get to use their skills to outmaneuver opponents, face off against formidable boss ducks, and tackle a multitude of levels each featuring unique challenges. With its seemingly endless exploration opportunities, the game provides countless hours of excitement for players across the skill spectrum. Additionally, the game also offers a collectible aspect, where players can gather various types of ducks, ranging from classic rubber designs to more unique and quirky options, adding an extra layer of engagement to the gameplay. Get ready to embrace the thrill of the race and quack your way to victory in Duck Race!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/18cd09678220415ff0be0a65df1d07d34edb9dc45a6fa74c7501dc3a3b62d4b4.jpg",
+        "id": "0100C7801BEE4000",
+        "intro": "Race, conquer, and collect with 'Duck Race'! Limitless fun in a duck's world!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "ko"
+        ],
+        "name": "Duck Race",
+        "nsuId": 70010000069126,
+        "numberOfPlayers": 1,
+        "publisher": "Fantastico Studio",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20230810,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4c25f37553ca9622c123292380780d742d1d3e193a54c047f054a9c4f714b833.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/95ace96a85cf05d5680cbf7d5d0f3fabeae17ca468d73db47bd253d352f77487.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a907b4a3845614e547a6e58617c04e7f565c2ca692191f34712b846b90f22c9a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b7d1c8adc4089ca893aab5b5c014214d2835b55daa78aa960ad69872ec7964ec.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/07d2ed01616d018587279d11f70d7cecc7e12ac251ce3fde28ba2a43ddf1e865.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6d9d1dd02ceaa00a319f3902804e7740bd7716b5c93f2a4591655dfbe0525ea8.jpg"
+        ],
+        "size": 121634816,
+        "version": null
+    },
     "70010000069136": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/15a815906d4c8a90cdde380b6971692a15b0bb7c05e7ac02114df2445a751050.jpg",
         "category": [
@@ -26068,6 +26350,55 @@
         "size": 186646528,
         "version": null
     },
+    "70010000069947": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/32090f5a7e3aa7e44fb0da83814ba349ab3fa04141d142ec4a84051a92a8f180.jpg",
+        "category": [
+            "Avonturenspel",
+            "Simulatiespel"
+        ],
+        "description": "Female Nation Takeover -\u5973\u6027\u56fd\u5bb6\u4e57\u3063\u53d6\u308a\u8a08\u753b - \u76d7\u8cca\u306e\u4ffa\u304c\u738b\u306b\u306a\u308b - is a novel game in which the bandit leader, Eddie, deceives the beautiful women of Rugalant in order to further his ambitions of stealing the kingdom itself.\nA Bishojo Game released in 2017 under the \"Black Currant\" brand has been reworked for the \"PandaShojo\" platform for players of various ages worldwide to enjoy.\n\n\u25c6Introduction\nThe women of this country don't see men as a threat.\nIf I can find their weakness and exploit it, I'll be back on top.\nThe pieces are falling into place, all that's left is to make my move.\n\n\n\n\u25c6Synopsis\nIn Rugalant, women hold all the power, be it political or martial.\nSensing an easy target, Eddie takes his band of brigands to raid the kingdom.\nHowever, Eddie's forces are quickly routed and his pride forever besmirched.\nUnable to accept his embarrassing loss, Eddie infiltrates the kingdom to enact his revenge.\n\nI'm going to make that kingdom mine, no matter what it takes.\n\nRugalant is ruled by Princess Alicia.\nTo get to her, he's going to need help from somebody on the inside.\n\nEddie chooses the florist, Tina, the bar mistress, Ruth, and the general, Stella.\nBy blackmailing them into doing his bidding, Eddie gains powerful allies in his conquest of Rugalant.\nWill he succeed in making the Princess his pawn and take the kingdom for himself?\n\n\u25c6Characters\n\u30fbAlicia Lilly\n\"My heart will always remain with my people.\"\nThe Princess of Rugalant, known for her cheery disposition.\nHer position is indispensable to Eddie's plan of taking over the kingdom.\nShe's been sighted around town helping her subjects after Eddie's assault ended in failure.\n\n\u30fbStella Cook\n\"Oh, Princess Alicia......how I yearn for you......\"\nThe beautiful and fiercely loyal leader of Rugalant's knights.\nEddie discovers her secret admiration for the Princess and uses it to force her to do his bidding.\nDespite her feelings towards the Princess, Alicia only sees her as a loyal subject.\n\n\u30fbTina Maxwell\n\"Umm......so that flower is called a Gerbera......\"\nA quiet and reserved florist who cares dearly for her family.\nThought she hides her magical prowess, Eddie's ability to sense magic makes her one of his primary targets.\nShe's coerced into fighting for the kingdom for money, but holds no loyalty to the Princess.\n\n\u30fbRuth Ailey\n\"The men of this kingdom are so pathetic compared to those from other countries.\"\nThe sociable madame of the pub, often seen taming rowdy regulars in her signature apron.\nShe loves to talk and is a precious source of information to Eddie.\n\n\u30fbEddie Hales\nThe leader of what was once the most feared gang of bandits in the country.\nHe suffered an embarrassing loss to the women of Rugalant.\nCunning and ruthless, he'll do anything to achieve his goals.\n\n\u30fbGil Quilter\nEddie's partner in crime.\nWhile not particularly clever, he's disciplined and always gets the job done.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d9e141e54253b43c1c5354f532a9753072bd54faf2b284930b2b4c273f53fdd3.jpg",
+        "id": "010010801C344000",
+        "intro": "In a country where women hold all the power, a bandit aspires to take the crown.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Female Nation Takeover -\u5973\u6027\u56fd\u5bb6\u4e57\u3063\u53d6\u308a\u8a08\u753b - \u76d7\u8cca\u306e\u4ffa\u304c\u738b\u306b\u306a\u308b -",
+        "nsuId": 70010000069947,
+        "numberOfPlayers": 1,
+        "publisher": "CyberStep",
+        "rating": 16,
+        "ratingContent": [
+            "Extreem taalgebruik"
+        ],
+        "region": null,
+        "releaseDate": 20230810,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/aa69fac1fea473d81a3f016c896e011f97861c96fc003bd86acb011f03a32a03.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/825c5a8a64ceafd99f971b0642964af4c80c9ed98fc87eec2b560854f71a0307.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/324bd9bc88c3523109f5fa148ac6d5d81ba54e44a5d395dfba60e6b35a7730f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58a5cdeb99d8f01ff8153026a02ba6da57850dc16011c53c363ba625c85377e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf30c6466b7860cc971fe2d417377726c83f291567eba80edb5d814df85241c3.jpg"
+        ],
+        "size": 180355072,
+        "version": null
+    },
     "70010000069960": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c63fd3e49414135c93c3791740aee44446f5ad53caec7e34a63788b340bad6d5.jpg",
         "category": [
@@ -26230,6 +26561,46 @@
             "https://img-eshop.cdn.nintendo.net/i/6bfd6f8d01b8a40d3d5163d9276c44713b4b98c75c88e50e627c75fef241f592.jpg"
         ],
         "size": 390070272,
+        "version": null
+    },
+    "70010000070135": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/94604cd53ed4025375189836613ece837ee2e0849a00a0ff925bb0560eb41308.jpg",
+        "category": [
+            "Puzzelspel",
+            "Actiespel",
+            "Speelhalspel",
+            "Party"
+        ],
+        "description": "De besturing is simpel!\nDraai de wereld rond met de L-knop en de R-knop op jouw Joy-Con\u2122 om de bal te rollen en de schakelaar in te drukken!\n\nHandleiding:\nGebruik de L-knop of de linkerkant van het touchscreen om naar links te draaien.\nGebruik de R-knop of de rechterkant van het touchscreen om naar rechts te draaien.\n\n\u25c6 Levels\nMeer dan 200 levels! Er zijn eindeloos veel uitdagingen om aan te gaan: van makkelijke levels tot absolute breinbrekers!\n\n\u25c6 Ballen\nVerdien punten door levels te halen.\nGebruik die punten om verschillende ballen te ontgrendelen.\n\n\u25c6 Cre\u00eber\nJe kunt je eigen level bouwen in deze modus.\nMaak iets leuks voor jouw familie en vrienden om te proberen!\n\n\u25c6 Veldslag\nDeel de Joy-Con\u2122-controllers uit en strijd met maximaal vier spelers!\nDe persoon die de verschillende levels het snelst uitspeelt, wint.\nEindig zo snel als je kan in deze vijf-setwedstrijd!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/b959af292f342f21744ec07cfc76b519817c7ad8e9f523f7ff8dacaa2aec85f7.jpg",
+        "id": "010009801C42E000",
+        "intro": "Simpel en bevredigend! Kom tot rust met dit nieuwe puzzelactiespel voor breintraining!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "name": "World Spin",
+        "nsuId": 70010000070135,
+        "numberOfPlayers": 4,
+        "publisher": "SAT-BOX",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20230810,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/75fe9ce82e12f2598e4f3e2bc27a8f949d7d9b25bdff3c4044125361226e1c5c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/89e2b282ba68306fa7ece1bc5758b4c930ff2f48905846d4258d5a31a5a5a70d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3aaec597832e9053c9d522ad358d608b435ef48f94a5793dd8e6a908134ecef1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/83648044d4f33f0f58af3f136212384312fc1fbbcb6b9d1554e71e5744378cfb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/14f0b478d91599c1b59f57d3fee6ec408b928cfa191c5e98c1e75845792becbe.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a50f55944f24b2fa76324250b5fbd6722b75f5395c70ba64312803ac02c7b899.jpg"
+        ],
+        "size": 118489088,
         "version": null
     },
     "70010000070153": {
@@ -26459,6 +26830,45 @@
             "https://img-eshop.cdn.nintendo.net/i/bde5769f56261879988fd8625e5c753356b608b37faca4e774113926092f283a.jpg"
         ],
         "size": 342884352,
+        "version": null
+    },
+    "70010000070526": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/582fc7fdce316289ebc0b1ad328e694c5ac2ff036270dac68e4b6ec0c97ebeb4.jpg",
+        "category": [
+            "Avonturenspel",
+            "Simulatiespel"
+        ],
+        "description": "De zon was opgekomen boven de stad van de oude beschaving, maar de eens levendige en levendige straten waren nu leeg en stil, gevuld alleen met het gekreun van de zieken. De leiders verzamelden zich in hun kamers en bespraken de verspreiding van de ziekte en het gebrek aan een geneesmiddel. Ze besloten een klein vogeltje door een portaal te sturen om in andere tijdperken naar een geneesmiddel te zoeken, en dat kleine vogeltje ben jij!\n\nGeniet van een gevechtsvrije reis door kleurrijke werelden! Leun achterover en geniet van het landschap en de sensatie van vliegen. Het is een geweldig spel om te ontspannen en tot rust te komen na een uitputtende dag vol gedoe.\n\nDe meeste niveaus kunnen vrij snel worden voltooid, zodat je naar eigen keuze tijd kunt besteden aan het verkennen van de omgeving, maar je hoeft niet te lang te blijven als je gewoon op zoek bent naar een kort moment van rust en plezier.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/62c33fcb36a79cab2040b4b25a97bf52bcfab47fba952d584aab754401a9e8d0.jpg",
+        "id": "010018801C5B2000",
+        "intro": "Geniet van een gevechtsvrije reis door kleurrijke werelden en zoek naar de remedie! Leun achterover en geniet van het landschap en het gevoel van vliegen.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Aery - Flow of Time",
+        "nsuId": 70010000070526,
+        "numberOfPlayers": 1,
+        "publisher": "EpiXR Games",
+        "rating": 7,
+        "ratingContent": [
+            "Angst"
+        ],
+        "region": null,
+        "releaseDate": 20230817,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3b773adbf5046ac76b9a44773af5e70b2709380cd3f94a6ffbba428023dcd05e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77f2d3518107aac50d700c84b60a083b062bbce96b5261ac35f8354bb0f28304.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fcee318d6b38eac66fe5acdbec2add7507b01a12a6d8a596434a5b463b8807fd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/062031653720066d741b8fb67b137a16257db576ad225218b4d1d6432b502c72.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d414f0605041caf1856379cfc11b0ee07bb562182d73f5a3f3fd0d348198fcdc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a02e3965bf04f43057a188c2ca433131521a425aeb168615891ddd055a639ad9.jpg"
+        ],
+        "size": 3834642432,
         "version": null
     },
     "70030000013291": {
@@ -27399,6 +27809,32 @@
         "rightsId": null,
         "screenshots": null,
         "size": 5186256896,
+        "version": null
+    },
+    "70030000020114": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "World Spin Demo",
+        "nsuId": 70030000020114,
+        "numberOfPlayers": null,
+        "parentId": "010009801C42E000",
+        "publisher": null,
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 65011712,
         "version": null
     },
     "70050000010512": {
@@ -28435,6 +28871,33 @@
         ],
         "region": null,
         "releaseDate": 20230720,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 3145728,
+        "version": null
+    },
+    "70050000037599": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/442505f2d44fbdd61dcbbaf92b6bbe287c44f61ff8e5cecbc108f3b76c11e178.jpg",
+        "category": null,
+        "description": " - Pioneer Summer Outfit: Aqua \"Refreshingly cool summer wear often seen around the Nak Peninsula's southern frontier.\"\n - Summer Pioneer Kid's Wear: Aq \"Refreshingly cool kid's summer wear often seen around the Nak Peninsula's southern frontier.\"\n *You can buy it at any time in the game shop( Clothing Store in Castle St. ) when you purchase it.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pioneer Summer Outfi Set: Aqua",
+        "nsuId": 70050000037599,
+        "numberOfPlayers": null,
+        "publisher": "althi",
+        "rating": 12,
+        "ratingContent": [
+            "Grof taalgebruik"
+        ],
+        "region": null,
+        "releaseDate": 20230803,
         "rightsId": null,
         "screenshots": null,
         "size": 3145728,
@@ -34601,6 +35064,79 @@
             "https://img-eshop.cdn.nintendo.net/i/8162dc22383f6553a409bfb66c935c03baca6896f42b275be6c0efe2d7a49af2.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e3ce3075e6555c3636cc98cc7f5d5648a9e471bcf5060c7ac917e91b6eabd274.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1eb5477069fa154245f8e693c3a6e22ad14cc07ec1fe708e4f05c3ea43dd636b.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000042402": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7a912d0c480c6cac6788f822e898ad31811855facc7f49064d56556e067f9783.jpg",
+        "category": null,
+        "description": "Legacy of the Moonspell introduces a brand new stage, new characters, new monsters, and new weapons to slaughter them with. There might even be some hidden mysteries for those of an inquiring mindset, but we can neither confirm nor deny the presence of vampires\u2026\n\nThe Fall of Clan Moonspell\nIn eastern lands, a clan has fallen. The Moonspell, once vigilant guardians of a sorcerous valley nestled in the mountains, have been overrun by hordes of yokai and oni. Though treacherous, this hive of spectral activity may provide some clue as to the location of a vampire. If not, at least it\u2019ll be entertaining to defeat thousands of wayward spirits in the process. \n\nNew Content\n\n8 New Characters including:\n\nMiang Moonspell - The last disciple of the Moonspell Clan before its downfall, and possibly its finest. Self-consciously a shounen protagonist.\n\nMenya Moonspell - One of the few surviving Moonspell elders, Menya\u2019s mystical powers are near god-like. \n\nSyuuto Moonspell - Banished practitioner of the new moon dark magic, Syuuto is nonetheless an enemy of evil. Poor personal hygiene may contribute to his continued exile.  \n\nBabi-Onna - Returned from the dead to seek vengeance on demons and mortals alike, she nonetheless retains her impeccable ability to charm, amuse, and dazzle.\n\n\n13 New Weapons between base versions and evolutions, including:\n\nSilver Wind - An ancestral force unleashed by the staff of the Moonspell Clan, only those born under the moon can fully wield its power (or whoever finds it in a chest, we\u2019re not sure). \nFour Seasons - A set of orbs which unleash the power of the changing seasons, of death and rebirth.\nSummon Night - A weapon which drips with the darkness of the new moon. Despite the clan\u2019s superstitions, even the shadows can oppose evil. \nMirage Robe - An enchanted kimono, weaved on a loom from the silk of the earth spider, and imbued with a fragment of Babi-Onna\u2019s vengeful spirit. Besides, it looks fabulous darling.\n\nNew Stage\n\nMt.Moonspell - Our biggest stage yet, a sprawling map featuring several different environments, all with their own challenges and resident monsters! This one stage includes an abandoned castle, snow covered mountain, and a yokai infested village, and more besides.\n\nNew Music Tracks\n\n\u266b Legacy of the Moonspell\n\u266b Festive Breeze\n\u266b Rumble Kachara\n\u266b Haze of Night\n\u266b Hell Night\n\u266b Crystal Allure",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010089A0197E5001",
+        "ids": [
+            "010089A0197E5001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Vampire Survivors: Legacy of the Moonspell",
+        "nsuId": 70050000042402,
+        "numberOfPlayers": null,
+        "publisher": "poncle",
+        "rating": 12,
+        "ratingContent": [
+            "Matig geweld"
+        ],
+        "region": null,
+        "releaseDate": 20230817,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6160dd7983c3450ec3dd043c076ee5281631f54029ba5549941985c435918da9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4696de6eccc2c260e19ff9faecda63aaad34f53178086d06e5bdd8d4d7545920.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/96bc513e7e7b1f9213d94a60c1c6467ce5d3a08c1a343958fbc92cb290886599.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/04d1d7ef840b20f02d0ccefe451104360e1fb4706b01053f75a94137b43acf59.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bacf28157225867766b491a6536892385aedd7eeee516038bf49b36e1043d52a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fee086b02dfee51e36dc6d9954616371c4fef5a101be2d86928480e59a1ab547.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000042405": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4fc110df8a4970738742b4e71e6ed56f40fa651b652a365e2057b150c31b0ff2.jpg",
+        "category": null,
+        "description": "Tides of the Foscari is the second DLC expansion for Vampire Survivors, introducing another huge stage as well as a slate of new characters, monsters and weapons to play with. And of course, secrets may be lurking in the shadowed canopies of the deep forest\u2026 But as always we can neither confirm nor deny the presence of vampires.\n\nNestled deep within a continent-sized forest is Foscari Academy, a school where the elite of the world train their children for careers as powerful wizards, indefatigable generals, and expert spies. The Academy is divided into three houses, a premise hitherto untouched in all of fantasy fiction. Three students, one from each house, brave the journey into a forest stuffed with mythological creatures, all to have a jolly adventure, with absolutely nothing interrupting the whimsy. This is all mind-blowingly original stuff, we know, but it only gets better folks.\n\n8 New Characters \nIncluding a cast of extremely original and not remotely derivative character archetypes, such as:\n\nEleanor - Star pupil of The Azure Tower and a skilled magic user, Eleanor is as bright as she is shy. \nMaruto - Undefeated champion of The Crimson Anvil. Stern, brooding, but with a heart of gold beneath his scowl, Maruto is a man of few words and strong arm.\nKeitha - Sly, quick-witted, and fun loving, Keitha will do anything for a bit of adventure and levity. Deliberately stays near the bottom of class rankings in The Amber Sickle to avoid hassle.\nLuminaire - The guardian of Lake Foscari, Luminaire is an ancient witch of great power and pure heart. Known in stories as the Lady of the Lake, or sometimes the Arboreal Mistress.[/list]\n\n13 New Weapons \n\nAlso including a range of unique weapons, definitely not drawn from the personal media tastes of a selection of game devs:\n\nSpellString - Eleanor\u2019s trusted textbook, sure to provide the answers on any magical topic that might cross her path.\nEskizzibur - Forged by Maruto\u2019s blacksmith uncle as a jape, but to his surprise his young nephew was capable of lifting it. \nFlash Arrow - Keitha\u2019s home crafted arrows will put a hole through a tree at 100 paces, though her prodigious tendon strength certainly helps.\nPrismatic Missile - A fragment of concentrated elemental power loaned to Luminaire by spirits as thanks for her continued protection of the natural world.[/list]\n\n7 New Music Tracks\n\n\u266b Tides of the Foscari\n\u266b An Introduction to Sorcery\n\u266b Slaying Dragons\n\u266b Hide and Steal\n\u266b Frozen in Time\n\u266b The Heart of the World\n\u266b The World Eater\n\nA Brand New Stage \n\nLake Foscari - An enchanted forest stuffed with fae mysteries, mythological entities, and beasts you\u2019d find in any given RPG bestiary. The perfect place to have an average adventure with zero complications.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "010089A0197E5002",
+        "ids": [
+            "010089A0197E5002"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Vampire Survivors: Tides of the Foscari",
+        "nsuId": 70050000042405,
+        "numberOfPlayers": null,
+        "publisher": "poncle",
+        "rating": 12,
+        "ratingContent": [
+            "Matig geweld"
+        ],
+        "region": null,
+        "releaseDate": 20230817,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5e579bf979df189b1f03f49d409ae884e3b176eeeec6fc2821554d4a57a15f47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b6aee95bd294bd6e4a6068c1d4a6a0643cf861950131d929b22a2a1d5a8dd3ca.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2cedf8e4e383a8521c8480e3bec154ac16b33c61c26c62971fcd90fcbcebf8e5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/296f0ac5915da5e4e88f77e17aa028b773391e84e9c4fcbcb478f142a5081434.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f7bae4e186fb425dd7858800629eb3eec606a480bf477bbffd530dcefcb03be.jpg"
         ],
         "size": 3145728,
         "version": null
