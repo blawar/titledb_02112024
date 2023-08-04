@@ -7029,7 +7029,7 @@
             "https://img-eshop.cdn.nintendo.net/i/03ae3117c69c6befc6f006394c9f8114f76c7951dd66a22f27c48597ba6ee0d3.jpg",
             "https://img-eshop.cdn.nintendo.net/i/c6bcc0341f5b506a3b16eb2115a5755f2be309b4877b0a14706e38c194202dbb.jpg"
         ],
-        "size": 3006267392,
+        "size": 3072327680,
         "version": null
     },
     "70010000050263": {
@@ -11727,7 +11727,7 @@
             "https://img-eshop.cdn.nintendo.net/i/ef29a1ea50113cfbe620ee7f1b90638902c3e9a65ca5e7d7f888dee60bb92641.jpg",
             "https://img-eshop.cdn.nintendo.net/i/2ff11a93c6aac690c66b50c18bf56531913fbf97540bdf307c38b9baf9fc0a30.jpg"
         ],
-        "size": 859832320,
+        "size": 987758592,
         "version": null
     },
     "70010000059597": {
@@ -12751,9 +12751,12 @@
         "nsuId": 70010000060795,
         "numberOfPlayers": 1,
         "publisher": "Sting",
-        "rating": 10,
+        "rating": 13,
         "ratingContent": [
-            "Violencia de fantasia"
+            "Violencia moderada de fantas\u00eda",
+            "Lenguaje moderado",
+            "Temas insinuantes moderados",
+            "Desnudez parcial"
         ],
         "region": null,
         "releaseDate": 20230727,
@@ -17968,7 +17971,7 @@
             "https://img-eshop.cdn.nintendo.net/i/47cc184025dbe6927204cb0a52cdbe62b86b14ac3abf594d004285cd0884fe97.jpg",
             "https://img-eshop.cdn.nintendo.net/i/3a6786dde4c8055eed40a113c64497b022004bc8192ee9ff62d0652ab93223d5.jpg"
         ],
-        "size": 137363456,
+        "size": 179306496,
         "version": null
     },
     "70010000065438": {
@@ -18266,6 +18269,47 @@
             "https://img-eshop.cdn.nintendo.net/i/24ff5507a8796d099b310c0aeaf41d3c7bd0f008f6965e8dc90fba850cb90950.jpg"
         ],
         "size": 6861881344,
+        "version": null
+    },
+    "70010000065614": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bc9a40ef295612fdbc9899344c8525bfe192030efc42da75b106a3e87038ad83.jpg",
+        "category": [
+            "Simulaci\u00f3n",
+            "Peleas",
+            "Acci\u00f3n",
+            "Estrategia"
+        ],
+        "description": "   Experience the harsh realities of prison life in \u201cPrison Life Simulator Jail\u201d! As a prisoner, maintain order, complete tasks, and accumulate enough money to bribe the policeman and escape. \n   Immerse yourself in the gritty world of prison life like never before:\n \u2022 Experience a realistic first-person simulation of a prisoner's struggles.\n \u2022 Maintain order and follow the prison's strict schedule to avoid trouble.\n \u2022 Complete tasks for other inmates, from deliveries to confrontations.\n \u2022 Explore prisoners' cells to find essential items for completing tasks.\n \u2022 Test your resourcefulness, cunning, and social skills in a challenging environment.\n \u2022 Devise clever strategies, forge alliances, and overcome obstacles.\n \u2022 Accumulate money to bribe the vigilant policeman and plan your escape.\n   Can you outsmart the system and regain your freedom? Find out now!\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d4d96c6e98ad30e0437e566b9ee81e4030caf745426b064d8a0e90717f46e194.jpg",
+        "id": "010032401AF0E000",
+        "intro": "Outwit, Outplay, Outlast: The Ultimate Prison Life Simulator!\n",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Prison Life Simulator Jail - Gangster Escape Games Scary Architect Battle",
+        "nsuId": 70010000065614,
+        "numberOfPlayers": 1,
+        "publisher": "DEZVOLT GAMES",
+        "rating": 13,
+        "ratingContent": [
+            "Violencia"
+        ],
+        "region": null,
+        "releaseDate": 20230811,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ae41dbfb1ae2a210382fe21d9b86c20d40516a33e8813bd434aa2585587fdf12.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e583ff1757592680882c2704baae3ee25f7d3992943289e29a784aa9c674c847.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/614595538ca8148b24134a22c43dd478688b9b22a5f787dbc5e73b35a9b97c01.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0cd799b8b0e496395d4b534ff0bdd5fe24988c91c77e2fa4fdf83cf8c9b3ec1b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d74997b17e4d16ffb26c23d487affb2656f7b1da3999fdd8078d6030ff3491e1.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8248623a278f2db26ee80a1b8a50acc21f7d0fd50fc9f9e9b99d92d49fa04dcd.jpg"
+        ],
+        "size": 1365245952,
         "version": null
     },
     "70010000065626": {
@@ -20116,7 +20160,7 @@
             "https://img-eshop.cdn.nintendo.net/i/a6a25700d2944b6319758c494125da7ff4fd0bb9a325862abb51d7228f5e5112.jpg",
             "https://img-eshop.cdn.nintendo.net/i/23515b5aca71001c2afddd3f7cc694079df53a1595c0eb28cd63a82160811636.jpg"
         ],
-        "size": 754974720,
+        "size": 757071872,
         "version": null
     },
     "70010000066680": {
@@ -25119,6 +25163,50 @@
             "https://img-eshop.cdn.nintendo.net/i/44d365b74924b94be36c395588bca0a3beddd0fe9201f5dd24329dc2e17c5abc.jpg"
         ],
         "size": 112197632,
+        "version": null
+    },
+    "70010000068719": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/44e33ace7fcbc6227380e3fce33c7b702d8bea1897979fb24a9b2c6b7e3ac911.jpg",
+        "category": [
+            "Acci\u00f3n en primera persona",
+            "Aventura",
+            "Acci\u00f3n",
+            "Disparos"
+        ],
+        "description": "Bunker 21 is a first-person storytelling action game in which the main character Andrey finds himself in a mysterious world where all people have disappeared. You will find exciting gameplay, atmospheric graphics and a deep story that unfolds as the hero progresses.\n\nThe main character is left alone. He goes on a journey in search of answers. He will have to fight terrible monsters and unravel the secrets that the mysterious Bunker 21 hides.\n\n\u2022Survival. Find various weapons that will help you in the fight against aggressive mutants, as well as collect resources and items to be ready for battle.\n\n\u2022 Fascinating story. The game's plot takes place in a post-apocalyptic setting and offers exciting twists and turns. Dark mysteries and amazing characters await you.\n\n\u2022Puzzles. The hero will solve interesting puzzles, collect items and find records that will shed light on events related to the disappearance of people.\n\n\u2022Various gameplay with hand-crafted levels and unique style allowed us to create a unique game that will give you an amazing adventure.\n\nWelcome to the new world!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/86b0cbc3260437289023a952276be858aea48a8e77d1abb016fbf67c5163c18c.jpg",
+        "id": "01001AD01BCEA000",
+        "intro": "All the people in the world disappear and the main character is left alone. Fight terrible monsters and unravel the secrets that hide the mysterious Bunker 21.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "name": "Bunker 21 Extended Edition",
+        "nsuId": 70010000068719,
+        "numberOfPlayers": 1,
+        "publisher": "17Studio",
+        "rating": 17,
+        "ratingContent": [
+            "Sangre",
+            "Lenguaje fuerte",
+            "Violencia"
+        ],
+        "region": null,
+        "releaseDate": 20230706,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4f0a3c2c93cbe86755bacbd4f92c7709aa5867b04a650073bb871aae9683e23a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cbb514b618ab4372813efbf3d0f4f20303cda4be87932e61566597d81a08b89a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a97f431ce67490b2a600c519148bddb04efd191adc04e1b48b68139cc21a4475.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e3e748b1a87083c43ce9f03fd399a3538ad627fbe8948da92d8fea599356e6c2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/86f94a71c69282bb326fcf7da54bc5b7e97ad93650afc74d4d5951308b482fba.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/64126d2167b2e39332b1bd2369a0a0c6e56b18bc59995da258c062fba90b6d60.jpg"
+        ],
+        "size": 874512384,
         "version": null
     },
     "70010000068738": {
@@ -38634,6 +38722,37 @@
         "size": 3145728,
         "version": null
     },
+    "70050000042724": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1712945af5c98bc25a58cf8f06f253ee1cef6f732b902065fa7d0227559c6925.jpg",
+        "category": null,
+        "description": "\u00a1A\u00fan m\u00e1s niveles! \u00a1Juega incre\u00edbles niveles adicionales y haz tu mejor esfuerzo para superar tus puntajes anteriores!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "\u00a1Haz un Fashion Hits junto con tus amigos!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Fashion Girls: Special Levels",
+        "nsuId": 70050000042724,
+        "numberOfPlayers": null,
+        "publisher": "RuWaMo Games",
+        "rating": 6,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20230804,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/1aec57a97ed9b7f8f4133ecf31cc008992587b9b0649270f781567572b996228.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/341adeead9cb2f82337584f71235cc0a540e5a0cfe79b98d8607517e245f1b4e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/baae017afe7637d35bc6115867a93ce324133f67c46aa36a4e95179a0b56ed35.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf9773163a7155f0e4902ba293e882a84eee328c1df3a88b9c9b0022fb66a8cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/810a4ff30ba94932c087dbbc3e4d54a0d930316ea89c7e914efb30599463ff2a.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
     "70050000042727": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b7967452175befb1c1f99d489b76f4e38357a5ec5ee399b0f35e9603d0daf98c.jpg",
         "category": null,
@@ -42107,7 +42226,7 @@
             "https://img-eshop.cdn.nintendo.net/i/6319c8ce93629d559b37df2248e22fbd76b57d064555e6bd0147345ef844b4f6.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e4fc688cec11041ec25769a3d1f44be2995bcc24679f2cd4fcc88ee58b50d73c.jpg"
         ],
-        "size": 602931200,
+        "size": 658505728,
         "version": null
     },
     "70070000017886": {
@@ -43315,7 +43434,7 @@
             "https://img-eshop.cdn.nintendo.net/i/6319c8ce93629d559b37df2248e22fbd76b57d064555e6bd0147345ef844b4f6.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e4fc688cec11041ec25769a3d1f44be2995bcc24679f2cd4fcc88ee58b50d73c.jpg"
         ],
-        "size": 606076928,
+        "size": 661651456,
         "version": null
     },
     "70070000018077": {
@@ -44308,6 +44427,38 @@
         "size": 358612992,
         "version": null
     },
+    "70070000018259": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b33f44a401fbaabfcebb3cdba60c3bde71d0b02eb992b64db5f3e162dd466108.jpg",
+        "category": null,
+        "description": "\u00a1Fashion Girls y Super Puzzler en un solo juego!\n\u00a1Llamando a todas las amantes de la moda!\n\n\u00a1El cl\u00e1sico juego de rompecabezas arcade regresa como una mezcla entre moda y rompecabezas!\n\nEn Fashion Girls te convertir\u00e1s en una fashionista tratando de obtener nuevos disfraces e intentar convertirte en el mejor fot\u00f3grafo que existe.\n\n- \u00a180 niveles!\n- \u00a1Cientos de disfraces, fondos y art\u00edculos combinados!\n- \u00a1Modo foto!\n- \u00a1Sistema de tres estrellas, que le da al juego rejugabilidad!\n- \u00a1Precio pagable!\n- \u00a1Dirigido a ni\u00f1os y adultos por igual!\n\nJuega el juego, obt\u00e9n los disfraces y guarda la moda junto con... \u00a1Ni\u00f1as de la moda!\n\n\u00a1Este paquete incluye el juego base y niveles especiales con niveles adicionales! \u00a1Nuevos niveles! \u00a1Nuevas aventuras! \u00a1Nueva diversi\u00f3n!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "\u00a1Chicas a la moda y acertijos incre\u00edbles en un solo juego!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Fashion Girls Super Edition",
+        "nsuId": 70070000018259,
+        "numberOfPlayers": null,
+        "publisher": "RuWaMo Games",
+        "rating": 6,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20230804,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/d9b8a37b6a9856b7345d95e8ff119ed92a66711c1e6a3da0323250570e399b44.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/1aec57a97ed9b7f8f4133ecf31cc008992587b9b0649270f781567572b996228.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b02890c68c9370c98b8ce6920bf358eb34f97ac1e900581ab9d229917159c3cd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/341adeead9cb2f82337584f71235cc0a540e5a0cfe79b98d8607517e245f1b4e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df75283e56d31e18880872d58cf6f210373282e9061a7ce8fd30b8a8e77f568d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/baae017afe7637d35bc6115867a93ce324133f67c46aa36a4e95179a0b56ed35.jpg"
+        ],
+        "size": 358612992,
+        "version": null
+    },
     "70070000018263": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ee681ca3dc33a9e1de4248d1483973c1ebca1d5cd5f77e0d9f8019ccfc778290.jpg",
         "category": null,
@@ -44703,7 +44854,7 @@
             "https://img-eshop.cdn.nintendo.net/i/6319c8ce93629d559b37df2248e22fbd76b57d064555e6bd0147345ef844b4f6.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e4fc688cec11041ec25769a3d1f44be2995bcc24679f2cd4fcc88ee58b50d73c.jpg"
         ],
-        "size": 606076928,
+        "size": 661651456,
         "version": null
     },
     "70070000018358": {
@@ -45349,6 +45500,80 @@
         "size": 1846542336,
         "version": null
     },
+    "70070000018488": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7a26dcff3af6ad2167c81271cb7deeb39143420d4c45fa577ea4c020e7ac9530.jpg",
+        "category": null,
+        "description": "You'll be able to chat with attractive girls, know their engaging storylines, receive spicy pictures, and solve Match-3 Puzzles to unlock new and cool pick-up lines for your waifu!\n\nIn this bundle you get content from the base game and Spicy Pack which includes:\n- 21 romanceable women to meet\n- 120+ hot pics to unlock\n- over 30 routes to go with each waifu, with between 5.000 to 10.000 words each\n-  280 levels to beat\n-  25+ hours of gameplay so get ready for flirting and pics!\n\nBrowse hot profiles and start a romance. Each girl you meet unveils a mix of storytelling, visuals and desires, from bishoujo women to anime klutz. Exchange intimate messages and flirty selfies, use cool pick-up lines and ask provocative questions - every choice you make will shape the outcome of your relationships.\n\nCannot take romance to another level? Solve puzzles and reach your true potential as a pick-up artist! With over 200 handcrafted levels and neat mechanics, expect addictive gameplay that goes far beyond basic blast puzzles. \n\nUncover the interesting stories behind each waifu, unlock pictures, but be aware, some of these pictures are quite spicy so viewer discretion is advised ;)\n\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "We found 21 Hot and Spicy Anime Girls in your area",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Eroblast: Spicy Edition",
+        "nsuId": 70070000018488,
+        "numberOfPlayers": null,
+        "publisher": "QubicGames",
+        "rating": 17,
+        "ratingContent": [
+            "Desnudez parcial",
+            "Temas sexuales",
+            "Lenguaje fuerte",
+            "Compras dentro del juego"
+        ],
+        "region": null,
+        "releaseDate": 20230811,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/a7e5d70e6461cc9ecf4424768b6bcff91f820d022e7385a2cabf6f3955faa4f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/fb83352f69d3769a3fddc8eb3d1473f0c6e1d8b21235dd5b7fd72d6ff0884d6f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/264b30fa5bdc16b8d5b256d212fb6e48d1e95d763c342f5a9649f1a9c7670153.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a3835ce716b5d5cd42a5ce31e4615e4b69b126409e7858bd06f54e775895292.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6bbaa93edcd80fbe5f8653ca55e98b2f7a47f944071d85f990e58c38b32ce7c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ff95829b0e8199ab46fce3fa1a511b31f224ff236f17d6b9f65e699f2ffde169.jpg"
+        ],
+        "size": 983564288,
+        "version": null
+    },
+    "70070000018489": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1068ca8488f66514adb69998e17d7d94d9305a2a42e39b5fd086daa0c121b1b1.jpg",
+        "category": null,
+        "description": "You'll be able to chat with attractive girls, know their engaging storylines, receive spicy pictures, and solve Match-3 Puzzles to unlock new and cool pick-up lines for your waifu!\n\nIn this bundle you get content from the base game and Passion Pack which includes:\n- 21 romanceable women to meet\n- 120+ hot pics to unlock\n- over 30 routes to go with each waifu, with between 5.000 to 10.000 words each\n-  280 levels to beat\n-  25+ hours of gameplay so get ready for flirting and pics!\n\nBrowse hot profiles and start a romance. Each girl you meet unveils a mix of storytelling, visuals and desires, from bishoujo women to anime klutz. Exchange intimate messages and flirty selfies, use cool pick-up lines and ask provocative questions - every choice you make will shape the outcome of your relationships.\n\nCannot take romance to another level? Solve puzzles and reach your true potential as a pick-up artist! With over 200 handcrafted levels and neat mechanics, expect addictive gameplay that goes far beyond basic blast puzzles. \n\nUncover the interesting stories behind each waifu, unlock pictures, but be aware, some of these pictures are quite spicy so viewer discretion is advised ;)",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "We found 21 Hot and Passion Anime Girls in your area",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Eroblast: Passion Edition",
+        "nsuId": 70070000018489,
+        "numberOfPlayers": null,
+        "publisher": "QubicGames",
+        "rating": 17,
+        "ratingContent": [
+            "Desnudez parcial",
+            "Temas sexuales",
+            "Lenguaje fuerte",
+            "Compras dentro del juego"
+        ],
+        "region": null,
+        "releaseDate": 20230818,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/c1551ab9f36823f02c8fa58a20495c7310a988185463c2a46e49a293b0aa93dc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/55a518d6359493e54dcae20b3ae7f42bee3aae3469d7338db44b1f304e0cccf6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bf5c9051c48c29b9c512eb01dc7fefc0fc02e5cf15e42270690e7ccb088f48b3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3a3835ce716b5d5cd42a5ce31e4615e4b69b126409e7858bd06f54e775895292.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6bbaa93edcd80fbe5f8653ca55e98b2f7a47f944071d85f990e58c38b32ce7c3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a92125e0e7203b442d77f42e94436a86abcc9c2d748e9024204081ab9bad7301.jpg"
+        ],
+        "size": 983564288,
+        "version": null
+    },
     "70070000018495": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/154d3c599a5db9f526f5fc95ad30d2bcb67ad55bc50136c6271351cc1454156a.jpg",
         "category": null,
@@ -45381,6 +45606,41 @@
             "https://img-eshop.cdn.nintendo.net/i/0ef8156345d96a408900bd82371dbd53d221dcd43bc4768049067ed02429c73a.jpg"
         ],
         "size": 324009984,
+        "version": null
+    },
+    "70070000018517": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3083e524f6de6d9b2a11e30c765835aa46e712bc5871974ce42f31b9b0e28b69.jpg",
+        "category": null,
+        "description": "Estas chicas quieren invitarte a la experiencia de juego de puzles m\u00e1s tentadora que ofrece Nintendo Switch\u2122.\n\nHENTAI ES ARTE\n\nUn estilo art\u00edstico anime familiar de Hentai Girls te mete de lleno en la vida de estas j\u00f3venes y bellas mujeres. Avanza en la historia resolviendo sus respectivos puzles. Estas encantadoras chicas te har\u00e1n compa\u00f1\u00eda.\n\nDIFICULTAD CRECIENTE\n\nLa mec\u00e1nica del juego es sencilla pero desafiante: la dificultad aumenta a medida que avanzas. Su precioso atuendo puede distraerte... \u00bfas\u00ed que ay\u00fadales a deshacerse de \u00e9l? Cada \u00e9xito por tu parte las har\u00e1 m\u00e1s felices.\n\nEn este paquete, te divertir\u00e1s mucho con Etsuko, una de las chicas del juego principal.\n\nCaracter\u00edsticas principales:\n\n- Arte Hentai dibujado a mano\n- M\u00fasica relajante\n- Mec\u00e1nica de juego sencilla\n- Premisa \u00fanica",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Sum\u00e9rgete en el cautivador mundo habitado por Yui, Shirayuki y Etsuko. ",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Hentai Girls Extended Edition",
+        "nsuId": 70070000018517,
+        "numberOfPlayers": null,
+        "publisher": "RedDeer.Games",
+        "rating": 17,
+        "ratingContent": [
+            "Desnudez",
+            "Temas insinuantes"
+        ],
+        "region": null,
+        "releaseDate": 20230804,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3f7e83bd54cbed86e9bf46782df7c459433b633513d99861299fd38f6db6f57a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ad8e427ae8068f768249da6a4533e881115f377c94491257eabb2ac23bbfa5c6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d3fbe3aed7968e1e9b68aca50f4312ec7a928709b07b7892e3fd25e6b5c73861.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a793f1c926e6ae3462a482c0b0b1de435c37d5fe47b47273a85667ce7dd37ffc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d7ad52ac193dd963171d0be0cd0bb946691770286946fce272c326cfa2702e4e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6e42ff0e84a563878d98048b27f1524da195025fdcc4464ac08db75cf09df581.jpg"
+        ],
+        "size": 544210944,
         "version": null
     },
     "70070000018518": {
@@ -45508,6 +45768,71 @@
         "rightsId": null,
         "screenshots": null,
         "size": 3145728,
+        "version": null
+    },
+    "70070000018542": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/404eacb3a33f9186c5e2e9faa1c9b0ee468418cd24be1b5ed913ccd363a716ea.jpg",
+        "category": null,
+        "description": "F\u00c1CIL DE JUGAR\n\u00a1Juega con la familia y los amigos! Los controles son intuitivos, as\u00ed que simplemente mu\u00e9vete como lo har\u00edas normalmente al nadar y empuja hacia adelante. Cambia de estilo de nataci\u00f3n en cualquier momento para divertirte un poco m\u00e1s.\n\nALCANZA TU META\nJuega con tus amigos o desaf\u00edate a ti mismo. Completa objetivos diarios para mejorar tu salud y hazlo lo mejor que puedas para desbloquear cada logro.\n\nDISFRUTA\nAcu\u00e9rdate de nadar a tu ritmo y t\u00f3mate el tiempo necesario para descansar. Disfruta del bucle de juego m\u00e1s saludable de toda tu vida.\n\nEste paquete incluye dos nuevos personajes: un adorable drag\u00f3n y una tortuga superdulce.\n\n CARACTER\u00cdSTICAS PRINCIPALES:\n\n- simp\u00e1ticos personajes\n- diferentes estilos de nataci\u00f3n\n- cambia de personaje y de estilo en cualquier momento\n- variedad de lugares para nadar\n- objetivos diarios\n- diversi\u00f3n familiar para todas las edades\n- modo multijugador e individual",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "\u00a1Descubre un nuevo mundo de diversi\u00f3n! Sum\u00e9rgete en Sport & Fun: Swimming y usa tus mandos Joy-Con\u2122 para experimentar el desaf\u00edo m\u00e1s mono de tu vida. ",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Sport & Fun: Swimming Legendary Edition",
+        "nsuId": 70070000018542,
+        "numberOfPlayers": null,
+        "publisher": "RedDeer.Games",
+        "rating": 6,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20230804,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/4c96b016dd5291fd4d67e0bfefb91fc08c00a5b279dd0372a09017e9f1bb024a.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7368113c9771f221e42feb717e74f4cd3f7b1d77777e719234b848485e7957be.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/08dcdd86752bb0a135f40478a96a55a68f8bd9d6e6ec6aa5dfafd4966380be5c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/129a1d6f97dedb9f6c5e584065d20d789c88856c072b7c8a9d092da2c6fb2ed2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/375f1320bd35cf6172592dafb06e520447917077899ffbab55b8b5f6b86a6a34.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba73251de20ca117d16f3ac21d53b27df277785f22b779b1efa6ecc3a7f39f85.jpg"
+        ],
+        "size": 267386880,
+        "version": null
+    },
+    "70070000018543": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/67f7460510a6c7e1893b30380076b955403a6e688fdefd809fa8b4f18cabf005.jpg",
+        "category": null,
+        "description": "Convi\u00e9rtete en un maestro de la pesca\n\nConozca a los lugare\u00f1os y consiga sus herramientas. Si\u00e9ntate o ponte de pie y espera a que lucios, salmones y otros peces m\u00e1s peque\u00f1os o m\u00e1s grandes se traguen el anzuelo. \nEnse\u00f1a a todos tus trofeos. Atrapa peces y artefactos con una red de pesca o una ca\u00f1a adecuada.\n\nAprende m\u00e1s\n\nValiosos conocimientos que te permitir\u00e1n completar con \u00e9xito el informe de biolog\u00eda.\n\nRel\u00e1jate y desconecta. Siente el clima y el ambiente tranquilo y apacible de la isla.\n\nEste lote incluye once colores para su ca\u00f1a de mosca y su ca\u00f1a de pescar simple.\n\nCaracter\u00edsticas principales:\n\n - M\u00e1s de 50 especies de peces\n - 3 t\u00e9cnicas de pesca diferentes\n- Sin l\u00edmite de tiempo (juega a tu ritmo) ",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "\u00a1Visita la extraordinaria isla de Jura y pesca deliciosos peces!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Isle of Jura Fishing Trip Definitive Edition",
+        "nsuId": 70070000018543,
+        "numberOfPlayers": null,
+        "publisher": "RedDeer.Games",
+        "rating": 6,
+        "ratingContent": [
+            "Referencia al alcohol"
+        ],
+        "region": null,
+        "releaseDate": 20230804,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5b70b5f7f3c111c96739c96c05bed1b65b147e204326aebfb1df7cee6e67c113.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b6b940c802399b360d11334aee18b46b76f8029ba39cb9129974995331f73dde.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6bd3561ece59f497b82bf430b065178832564211b04f175e0e897109e1b8c80.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6319c8ce93629d559b37df2248e22fbd76b57d064555e6bd0147345ef844b4f6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e4fc688cec11041ec25769a3d1f44be2995bcc24679f2cd4fcc88ee58b50d73c.jpg"
+        ],
+        "size": 661651456,
         "version": null
     },
     "70070000018554": {
