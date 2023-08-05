@@ -8601,7 +8601,7 @@
             "https://img-eshop.cdn.nintendo.net/i/75d0cc13dadf14e7a87dd77850e02a6d2fa55795d8c85a8c0b1dfbbbd06d8c80.jpg",
             "https://img-eshop.cdn.nintendo.net/i/bb441bf19ba9d7137c992645027a2db111a9ada17c9754b36c4bfa2b2a0755eb.jpg"
         ],
-        "size": 255852544,
+        "size": 423624704,
         "version": null
     },
     "70010000059030": {
@@ -12506,7 +12506,7 @@
             "https://img-eshop.cdn.nintendo.net/i/7c6e778151827d31a6d73bedc536fb671a559fc4b992ea7853882f4c291add48.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b4a0727dac23c55df63c63bf548cacfb2fe109f6d50bcc85758faf78ee800d25.jpg"
         ],
-        "size": 203423744,
+        "size": 385875968,
         "version": null
     },
     "70010000063037": {
@@ -12758,7 +12758,7 @@
             "https://img-eshop.cdn.nintendo.net/i/2dbc020d712fa08c9c55482b8c4f65333068be4aeda90c881f05d5cc21836162.jpg",
             "https://img-eshop.cdn.nintendo.net/i/4e32ffbb5e6457cc884ae5fbd9dfd68fa7b58de3e80a9dd1ca3be4ebd5e82592.jpg"
         ],
-        "size": 1432354816,
+        "size": 1485832192,
         "version": null
     },
     "70010000063198": {
@@ -16021,7 +16021,7 @@
             "https://img-eshop.cdn.nintendo.net/i/61843bcbd3f23d976dd5d04e0f19ced7c33288e8039d7992fb705bf6fdff9936.jpg",
             "https://img-eshop.cdn.nintendo.net/i/670463b71a5a6a29d0c2b827d5d3db3494e171625a98ba40f965ea9803193fba.jpg"
         ],
-        "size": 1598029824,
+        "size": 1693450240,
         "version": null
     },
     "70010000065392": {
@@ -19611,7 +19611,7 @@
             "https://img-eshop.cdn.nintendo.net/i/96efd91359c05179e35f94452291bd45390de1a759d8eaf41fab46bd05f7af89.jpg",
             "https://img-eshop.cdn.nintendo.net/i/a518c40daed8c42bcef9b4e3bb5a2e237a4f2025e41a114925afecb3fed6b06b.jpg"
         ],
-        "size": 311427072,
+        "size": 321912832,
         "version": null
     },
     "70010000066897": {
@@ -20676,7 +20676,7 @@
             "https://img-eshop.cdn.nintendo.net/i/eb9a9b7b6ee4aa3a8bf10244407de5ba1a649aa4321b84d82333a98e1d3811af.jpg",
             "https://img-eshop.cdn.nintendo.net/i/62ee86378d6767509718872a53fe515b5cb06fbbc96b1cb817df3cae7c77f3fe.jpg"
         ],
-        "size": 719323136,
+        "size": 720371712,
         "version": null
     },
     "70010000067313": {
@@ -22839,6 +22839,46 @@
             "https://img-eshop.cdn.nintendo.net/i/7c11c48a8b86bd562468a6865bc238048768c3f2b3f5faca024207db8a1661ee.jpg"
         ],
         "size": 159383552,
+        "version": null
+    },
+    "70010000068122": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/022dd6caf61c47f30582267b0dde5de6916cc0bd97f30b1fbf2894675c11c8da.jpg",
+        "category": [
+            "Strategiespel",
+            "Simulatiespel",
+            "Actiespel"
+        ],
+        "description": "Mage & Monsters is an active auto battler, where you must choose wisely between upgrading the might of your army, or increasing the power of your spells.\n\nFeatures\n- 8 mages each with a special bonus and starting spell. And Gus.\n- 25 distinct units you can recruit, and 35 different monsters to defeat.\n- 11 unique spells you can use in battle to help your army.\n- Earn Blood Shards by playing that can be spent on Power Ups before starting a new game.\n- An arena and a forest map, each with 30 normal levels followed by 5 levels of endgame.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f6b2f11f05148d1103a185b0c2e5eb28822cc83e37a93a3b80e3d92a11f9339a.jpg",
+        "id": "01002A001B13E000",
+        "intro": "Create an army and use spells while it fights for you.",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en",
+            "zh"
+        ],
+        "name": "Mage and Monsters",
+        "nsuId": 70010000068122,
+        "numberOfPlayers": 1,
+        "publisher": "Malvzach Games",
+        "rating": 7,
+        "ratingContent": [
+            "Licht geweld"
+        ],
+        "region": null,
+        "releaseDate": 20230706,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cb81a4c9e275657707ed17a011a13fece3099234cdfb0be20fb614658bd50f40.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b38d84f224a8b418c099657ab7a535659686d11fe4ce01e1aada9f91afc98e6b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/246451dc6a115d14ff1b97310be30b0abdd1756e2b7deef0ff1aa798df274a9f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/cbae18c4803c7159a1104e889184f2529c969d1c10eb66552f44c270debf0928.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a29c6556eb7b92f5212d40743c15ae07c4cea30b19905de3fe59e068f4397c31.jpg"
+        ],
+        "size": 147849216,
         "version": null
     },
     "70010000068143": {
@@ -41988,7 +42028,7 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "id": null,
-        "intro": "This is the latest work by STEINS;GATE creator Chiyomaru Shikura, in collaboration with returning staff from the Science Adventure Series. Experience the story ",
+        "intro": "This is the latest work by STEINS;GATE creator Chiyomaru Shikura, in collaboration with returning staff from the Science Adventure Series.",
         "isDemo": false,
         "key": null,
         "languages": null,
