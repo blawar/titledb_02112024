@@ -2737,12 +2737,14 @@
         "version": null
     },
     "70010000022817": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5b66f082173099a814f9537cd832b62c54edc2c7536584769da5b4891275d5b4.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2b1d1eb1cba708144bce551551ae4ef62f05bf5727320ab40d91787cafecab6c.jpg",
         "category": [
             "Simulaci\u00f3n",
-            "Carreras"
+            "Carreras",
+            "Acci\u00f3n",
+            "Peleas"
         ],
-        "description": "\u00bfAlguna vez te has preguntado qu\u00e9 se siente al pilotar un avi\u00f3n? En Flight Sim 2018, tienes un mundo abierto que explorar, con una incre\u00edble selecci\u00f3n de aviones realistas.\nDisfruta de la experiencia completa que te proporcionar\u00e1n unos fascinantes controles de vuelo, unos interiores y efectos de sonido realistas, un ciclo de d\u00eda y noche completo y escenarios meteorol\u00f3gicos desafiantes.\nEn este simulador de vuelo, podr\u00e1s volar por todo el mundo y recorrer una amplia selecci\u00f3n de ciudades y aeropuertos reales. \u00a1Demuestra tu val\u00eda como piloto cuando te enfrentes a desafiantes aterrizajes!\n\n\u00a1Vuela por todo el mundo y juega al mejor simulador de vuelo mundial!\n\nCaracter\u00edsticas:\nMuchos aviones entre los que elegir\nMapa de mundo abierto mundial\nEspectacular ciclo de noche y d\u00eda\nControles de vuelo realistas (inclinaci\u00f3n de la direcci\u00f3nk, botones o palanca)\nCabinas de mando reales\nSistemas meteorol\u00f3gicos din\u00e1micos\nEscenarios de aterrizaje desafiantes\nSonidos del motor precisos\nComunicaci\u00f3n por radio durante el vuelo\nMontones de personalizaciones",
+        "description": "\u00bfAlguna vez te has preguntado qu\u00e9 se siente al pilotar un avi\u00f3n? En Airplane Flight Simulator, tienes un mundo abierto que explorar, con una incre\u00edble selecci\u00f3n de aviones realistas.\nDisfruta de la experiencia completa que te proporcionar\u00e1n unos fascinantes controles de vuelo, unos interiores y efectos de sonido realistas, un ciclo de d\u00eda y noche completo y escenarios meteorol\u00f3gicos desafiantes.\nEn este simulador de vuelo, podr\u00e1s volar por todo el mundo y recorrer una amplia selecci\u00f3n de ciudades y aeropuertos reales. \u00a1Demuestra tu val\u00eda como piloto cuando te enfrentes a desafiantes aterrizajes!\n\n\u00a1Vuela por todo el mundo y juega al mejor simulador de vuelo mundial!\n\nCaracter\u00edsticas:\nMuchos aviones entre los que elegir\nMapa de mundo abierto mundial\nEspectacular ciclo de noche y d\u00eda\nControles de vuelo realistas (inclinaci\u00f3n de la direcci\u00f3nk, botones o palanca)\nCabinas de mando reales\nSistemas meteorol\u00f3gicos din\u00e1micos\nEscenarios de aterrizaje desafiantes\nSonidos del motor precisos\nComunicaci\u00f3n por radio durante el vuelo\nMontones de personalizaciones",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": "https://img-eshop.cdn.nintendo.net/i/5af5bf862f75de60db3dca6480e8b0905dd11d61305b20e37c0b74faa080f3ae.jpg",
@@ -2753,7 +2755,7 @@
         "languages": [
             "en"
         ],
-        "name": "Flight Sim 2019",
+        "name": "Airplane Flight Simulator",
         "nsuId": 70010000022817,
         "numberOfPlayers": 1,
         "publisher": "SC Ovilex Soft",
@@ -2765,7 +2767,7 @@
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/33ec429b67d5b8a5d94e8e7b2d07834d06ebf04f38f0698b4c100e89c5715c13.jpg",
             "https://img-eshop.cdn.nintendo.net/i/4dd61d8662f676e6b100f2be9f1255461afa2608e69e9fff7f907d59cb1cbddd.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/f8d35e46be9203e52befcb3c1f4bee0a9a235fd699e8a86d3b20d7b6c52eca49.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/80155c4dbc8547aa26f351c3eba92b12fa175b0f3fe408f18f38f8271cf3c4f5.jpg",
             "https://img-eshop.cdn.nintendo.net/i/eb06769b25d5c3585acca14f3c180fe56f7a58791af15f978f6790c9f61cbcb1.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7cc42e146c5557c7a6f4f08fd41e41e225d68dc85b9704e297f3362b4e102611.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b9e2a1d215ab14117e1b1dbdd0a53876a4ae75b9a94429d0bcc456b7b4278131.jpg"
@@ -5528,7 +5530,7 @@
             "https://img-eshop.cdn.nintendo.net/i/d42ae9b316ddcf08ec30815ed75f8dc4fe0cbe93807b1671951075bb12f61086.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1f4cd1d3f2c316afc85dd7724d219fe62ca6061a344f4f42b778cc35a450423d.jpg"
         ],
-        "size": 424673280,
+        "size": 504365056,
         "version": null
     },
     "70010000042843": {
@@ -6056,8 +6058,8 @@
         "publisher": "Sabotage Studio",
         "rating": 10,
         "ratingContent": [
-            "Referencia al alcohol",
             "Violencia de fantasia",
+            "Bajo contenido de sangre",
             "Lenguaje moderado"
         ],
         "region": null,
@@ -7753,7 +7755,8 @@
         "publisher": "BILIBILI HK",
         "rating": 13,
         "ratingContent": [
-            "Violencia moderada",
+            "Violencia de fantasia",
+            "Desnudez parcial",
             "Temas insinuantes",
             "Uso de alcohol"
         ],
@@ -7768,7 +7771,7 @@
             "https://img-eshop.cdn.nintendo.net/i/8e57e798e56db64e12067e4987e31cc00e3c5087434366ba5cf646b42805a5d7.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f25c47f5d682405f13f920027a52a09465db19503e565ca9b018ac5ad6f9a40e.jpg"
         ],
-        "size": 9630121984,
+        "size": 9633267712,
         "version": null
     },
     "70010000052198": {
@@ -7856,7 +7859,7 @@
             "https://img-eshop.cdn.nintendo.net/i/ffa1eeaa789463605ce6b9c78e56805690da8d5a4a66feb5741ff6b69e7bba17.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7ef7cd7312aa49cb5c6acdce4c83d909bfbde384376c0f2c1e45ee275267e3b9.jpg"
         ],
-        "size": 643825664,
+        "size": 860880896,
         "version": null
     },
     "70010000052237": {
@@ -8036,7 +8039,7 @@
             "https://img-eshop.cdn.nintendo.net/i/3aed3dc2b92907e2ed6c7ba1b6df3ef4058c543fd4ddb9e34d720dc8fda8adc1.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7359db94b3072ef62daae49f28acaf233860196715da01433c18a08d8ead5f9c.jpg"
         ],
-        "size": 1762656256,
+        "size": 1783627776,
         "version": null
     },
     "70010000053166": {
@@ -8502,11 +8505,11 @@
         "category": [
             "Peleas"
         ],
-        "description": "\u00a1Lo llevamos en la sangre!\n\nDescubre el nuevo universo de Mortal\u00a0Kombat, creado por el Dios del Fuego Liu Kang. \u00a1Mortal\u00a0Kombat 1 marca el comienzo de una nueva era para la ic\u00f3nica franquicia, con un sistema de lucha, modos de juego y Fatalities nuevos!",
+        "description": "\u00a1Lo llevamos en la sangre!\n\nDescubre el nuevo universo de Mortal\u00a0Kombat, creado por el Dios del Fuego Liu Kang. \u00a1Mortal\u00a0Kombat 1 marca el comienzo de una nueva era para la ic\u00f3nica franquicia, con un sistema de lucha, modos de juego y Fatalities nuevos!\n\nMortal Kombat 1: Reserva ahora para obtener al personaje jugable Shang Tsung\n\nMortal Kombat 1 Edici\u00f3n Pr\u00e9mium: Reserva ahora para obtener al personaje jugable Shang Tsung y 5 d\u00edas de acceso anticipado a Mortal\u00a0Kombat\u00a01.",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": null,
-        "id": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0be624f8e9f868ca5f07b9b2665eaea6a46534ff15f34b80600d7ab59502bf52.jpg",
+        "id": "01006560184E6000",
         "intro": null,
         "isDemo": false,
         "key": null,
@@ -8529,13 +8532,15 @@
         "ratingContent": [
             "Derramamiento de sangre",
             "Violencia intensa",
-            "Lenguaje fuerte"
+            "Lenguaje fuerte",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
         ],
         "region": null,
         "releaseDate": 20230919,
         "rightsId": null,
         "screenshots": null,
-        "size": 0,
+        "size": 6316621824,
         "version": null
     },
     "70010000053890": {
@@ -9950,7 +9955,7 @@
             "https://img-eshop.cdn.nintendo.net/i/52ee48c71483156ad5521a667936cefc65c11d96d47a8194d27050e4ea3e512d.jpg",
             "https://img-eshop.cdn.nintendo.net/i/378dee858e360d186370ccbf92bc94b7b9a559b9509ace6c235706cb142fc674.jpg"
         ],
-        "size": 132120576,
+        "size": 177209344,
         "version": null
     },
     "70010000057337": {
@@ -11910,7 +11915,7 @@
         "rating": 6,
         "ratingContent": [],
         "region": null,
-        "releaseDate": 20230810,
+        "releaseDate": 20230914,
         "rightsId": null,
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/fe3ec69f97dce3e558b0aff4da5c5cb10ceaadbe863ea3d132d36287e925583e.jpg",
@@ -12305,7 +12310,9 @@
         "publisher": "Ratalaika Games",
         "rating": 13,
         "ratingContent": [
-            "Lenguaje"
+            "Sangre",
+            "Lenguaje",
+            "Violencia"
         ],
         "region": null,
         "releaseDate": 20230804,
@@ -13549,7 +13556,7 @@
             "https://img-eshop.cdn.nintendo.net/i/751362b5c47a1161ed786641b4e88e0d27c6e4dd1ed9f2f0d78b96bda919144e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/88e4a6fbe05fcd6c1afb1bc0559f4bf96eae70654f42ec2ef73b0ec56f7bdf6f.jpg"
         ],
-        "size": 740294656,
+        "size": 745537536,
         "version": null
     },
     "70010000061990": {
@@ -13726,10 +13733,10 @@
         "nsuId": 70010000062161,
         "numberOfPlayers": 1,
         "publisher": "Seaven Studio",
-        "rating": 13,
+        "rating": 10,
         "ratingContent": [
-            "Sangre",
-            "Violencia"
+            "Violencia de fantasia",
+            "Bajo contenido de sangre"
         ],
         "region": null,
         "releaseDate": 20230803,
@@ -15729,7 +15736,7 @@
             "https://img-eshop.cdn.nintendo.net/i/71a62cd8d6e96dfe3d9e087edacebd5073e3886283db0d4039d38e81a47d4a9e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/997a4681864409efa2321d2c437ad7e79db283fd3f851c332dff80abf39b57ea.jpg"
         ],
-        "size": 2032140288,
+        "size": 2038431744,
         "version": null
     },
     "70010000064092": {
@@ -16834,7 +16841,7 @@
             "https://img-eshop.cdn.nintendo.net/i/b11c0c113fcdaeeb0442ac5187e916ac5c865bc9c299052b8b067b1c820d9d9e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/704c4b4fb34e6dee5814dd35e9daf7d72ce96d31f58ef7c6963f1fba370525a6.jpg"
         ],
-        "size": 4345298944,
+        "size": 4646240256,
         "version": null
     },
     "70010000064535": {
@@ -17116,6 +17123,57 @@
             "https://img-eshop.cdn.nintendo.net/i/e74937b9b73c56ebcf275df4437bad12a2b058e47f548018fe5c6a4d5602b0db.jpg"
         ],
         "size": 57671680,
+        "version": null
+    },
+    "70010000064730": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8c72140be80565b11080b370329550dcdce6dff908655fd579cc3017d75579c9.jpg",
+        "category": [
+            "Arcade",
+            "Acci\u00f3n",
+            "Juego de mesa"
+        ],
+        "description": "Metro City ha ca\u00eddo en manos del malvado Dr. Gang y sus agentes de MAD. Para salvar la ciudad, el Inspector Gadget debe viajar al pasado usando una m\u00e1quina del tiempo. Lamentablemente, se estropea y sus antepasados se teletransportan al presente.\n\nTu misi\u00f3n: Explorar Metro City y competir con tus antepasados para recoger las piezas que le faltan a la m\u00e1quina del tiempo. Deber\u00e1s completar minijuegos para desbloquear los tornillos necesarios para reparar la m\u00e1quina. Juega contra tres antepasados de Gadget para ganar los tornillos. \n\nVisita lugares emblem\u00e1ticos de la famosa serie original, conoce a personajes como el Jefe Gontier, Sophie y los agentes de MAD, y utiliza los diversos artilugios del inspector para luchar contra las fuerzas de MAD.\n\n\u00a1Emb\u00e1rcate en una emocionante aventura en la que interpretar\u00e1s al legendario Inspector Gadget y salvar\u00e1s Metro City de las garras del Dr. Gang!\n\nExplora la emblem\u00e1tica Metro City y completa misiones y desaf\u00edos en el modo en solitario. \n\n\u00a1Descubre 16 divertidos minijuegos inspirados en el universo del Inspector Gadget!\n\nDivi\u00e9rtete con tu familia y amigos en el modo multijugador.\n\nDisfruta de la estupenda banda sonora de Tanis Chalopin, la hija del creador del Inspector Gadget: Jean Chalopin.\n\n",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/d1ef50d00ac7c60220a5f039c656dbbcd66042e65a638d27ce39a4f01b1ea63b.jpg",
+        "id": "010002A01ABF8000",
+        "intro": "\u00a1Vamos Gadget! \u00a1Convi\u00e9rtete en el famoso Inspector Gadget y divi\u00e9rtete con tus amigos en esta nueva aventura!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Inspector Gadget - MAD Time Party",
+        "nsuId": 70010000064730,
+        "numberOfPlayers": 4,
+        "publisher": "Microids",
+        "rating": 6,
+        "ratingContent": [
+            "Violencia moderada de fantas\u00eda"
+        ],
+        "region": null,
+        "releaseDate": 20230914,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/8c53be30d20e114270f620f6ffe45d54ec533c384a3f9d6911a70e6cc5f20716.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2832b6353da44c7c77993e8d177a1efb4f65f92aaefc7f3730cb13f4c6617329.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8627f8423a64b89ee6ac66b1e6225d73146fa6905a3561fba01bf0212ff7b65b.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03b8b76e33b7291f293f2d2f65c92332f00a7ab38ad801da5a8b7f69222d2ea6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7a2628232a134018a3836d62f1df1b19297b109fcc99e79506221ebbf8d669f0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f502535f62089cf094d9341527f7d4280261a3a1f192d6923c57918743476606.jpg"
+        ],
+        "size": 1456472064,
         "version": null
     },
     "70010000064735": {
@@ -19491,7 +19549,7 @@
             "https://img-eshop.cdn.nintendo.net/i/10aefda5fddb7c92f9c85d0af908c58853320503b58de0a70878ebde405c70ed.jpg",
             "https://img-eshop.cdn.nintendo.net/i/34686784c5eebf6d78ec7f12f29dea722c5a52603724652bc90d37329d5cb38a.jpg"
         ],
-        "size": 9829351424,
+        "size": 10333716480,
         "version": null
     },
     "70010000066030": {
@@ -22644,6 +22702,52 @@
         "size": 180355072,
         "version": null
     },
+    "70010000067566": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2f6c59f884a70c9244062cbc190a8b64233073dc595a2f6fc1ade90703cd0858.jpg",
+        "category": [
+            "Simulaci\u00f3n",
+            "Estrategia"
+        ],
+        "description": "Satay es la comida m\u00e1s popular en Indonesia y algunos pa\u00edses de Asia. \u00a1En este juego construir\u00e1s un negocio desde cero para tener \u00e9xito!\n\nMejore las instalaciones de su negocio, anuncie su negocio, conozca varios tipos de clientes de d\u00eda o de noche y realice las misiones diarias disponibles.\n\nCaracter\u00edsticas:\n- Gestiona y desarrolla tu negocio satay\n- Mejora tus instalaciones\n- muchos personajes\n- Anuncia tu negocio\n- Misiones diarias\n- \u00a1Conoce al vip!\n- Recoge algunos lanzamientos a\u00e9reos\n- Ciclo diurno y nocturno\n\n\u00a1Y lo m\u00e1s importante, recolecta el dinero y haz que tu negocio satay sea el mejor del mundo!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/726198d2435301556a40beb7124de84eacf449b6d88f43b3bd3e046a5b12e3b0.jpg",
+        "id": "010070401B7BC000",
+        "intro": "\u00a1Haz crecer tu negocio satay y convi\u00e9rtete en el empresario satay m\u00e1s exitoso del mundo!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "nl",
+            "pt",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "name": "Satay Shop Tycoon",
+        "nsuId": 70010000067566,
+        "numberOfPlayers": 1,
+        "publisher": "SOFT SOURCE",
+        "rating": 6,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20230817,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/6c236d65463e8af98bebd7836af9530458970d33a8ec465acad4ef76a353d9fc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/03bc1e9fcde39d73db4b5c87747abb63e899d45b98f48fef9c1af295483326c0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3fff5a57c8ce07c5882bba51ce933889e72748c9888431d788078c7f77d716a7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ca1b48d3e9a4525b7f04dc443851a6dc1c17d8bb1279225302aa17a23e1208e2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f3a49c46ec1af729285445bf89709f523e6c0b53e65ea06df8720348b5a76e6.jpg"
+        ],
+        "size": 281018368,
+        "version": null
+    },
     "70010000067576": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/098b879b605ce10394daefb94be68325e57ac1c588df6d7eb539466144b8c7d8.jpg",
         "category": [
@@ -23326,7 +23430,7 @@
             "https://img-eshop.cdn.nintendo.net/i/0d2fd1c8a2465f88f309be33d4639970775c4664219d3fe8b3148edd828b98cd.jpg",
             "https://img-eshop.cdn.nintendo.net/i/25f52c9f19ae6ac3f0fd14792403f515b5ad1ffcee8d71f58d28708b7b7a6085.jpg"
         ],
-        "size": 550502400,
+        "size": 652214272,
         "version": null
     },
     "70010000067855": {
@@ -23580,7 +23684,7 @@
             "https://img-eshop.cdn.nintendo.net/i/84208480180a7181001c75ec9e0e8060e39151b162e070550f16d6b927c73f00.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b60d3dcaa9aba21d109d421e8ff17ea704e7314f1f48fda4bbe39cdcc32463af.jpg"
         ],
-        "size": 214958080,
+        "size": 220200960,
         "version": null
     },
     "70010000067951": {
@@ -24487,7 +24591,7 @@
         "description": "Emb\u00e1rcate en la divertid\u00edsima aventura de Punch A Bunch, un emocionante juego de boxeo donde la habilidad del jugador es de vital importancia, por lo que deber\u00e1 dedicarse en cuerpo y alma para dominar el arte del boxeo. Prep\u00e1rate para esta experiencia inmersiva desde el momento de saltar al ring enfr\u00e9ntate a incre\u00edbles oponentes en tres campeonatos diferentes, cada uno con sus propios desaf\u00edos y adversarios.\n\n\u00a1Convi\u00e9rtete en el campe\u00f3n!\n\u00c1brete camino hasta la cima a pu\u00f1etazos en los tres campeonatos, de Amateur a Profesional, cada uno con rivales \u00fanicos que no te lo pondr\u00e1n nada f\u00e1cil.\nPunch A Bunch se basa en el aprendizaje de las mec\u00e1nicas del juego conforme avanzas, en lugar de subir de nivel o conseguir puntos de atributo.\nLos controles se han dise\u00f1ado para que aporten una experiencia totalmente nueva. Los comienzos nunca son f\u00e1ciles, as\u00ed que sentir\u00e1s una satisfacci\u00f3n enorme conforme afines tus habilidades y domines los controles.\n\nTienes todo lo necesario para llegar a lo m\u00e1s alto desde el principio, la cuesti\u00f3n es, \u00bfestar\u00e1s a la altura del desaf\u00edo?\n\nCaracter\u00edsticas del juego:\n\nControles \u00fanicos con los que someter a tus oponentes... cuando los domines.\nJuego basado en la f\u00edsica.\nDesaf\u00edos adicionales para que los amantes de los logros disfruten de lo lindo.\nJuega contra jugadores en el modo Multijugador Local.\nM\u00e1s de 100 objetos desbloqueables con los que personalizar tu personaje.\nExperiencia cl\u00e1sica basada en \u00abUn Intento M\u00e1s\u00bb.\nSIN puntos de habilidades NI niveles, solo necesitas tres cosas: entrenar, sacar a relucir tus habilidades y tener paciencia.\n\nNO es un juego relajado, si los desaf\u00edos no son lo tuyo, \u00a1a otra cosa, mariposa!\nNO es un juego donde pulsar botones al azar lo es todo.",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cc34270c246305ced5a8d6baa4a1486617aa70735126fb48fb8629f2933df324.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/29681f7a38c6985fb0f4bd75940e31d17138a69ae2e6b8c5ddb00c3c2a2ade2c.jpg",
         "id": "0100AE401BAF8000",
         "intro": "Un juego de boxeo de lo m\u00e1s desafiante donde todo depende de la habilidad del jugador, que deber\u00e1 dominar con el paso del tiempo. ",
         "isDemo": false,
@@ -24514,7 +24618,7 @@
             "https://img-eshop.cdn.nintendo.net/i/f6fc9abf8233b207a432a814576038c39a5fdfa22b361071ab86f953238378b3.jpg",
             "https://img-eshop.cdn.nintendo.net/i/a468980e4ae0f490e5f1b228204839508198b320129a4299362769da470e7dea.jpg"
         ],
-        "size": 734003200,
+        "size": 851443712,
         "version": null
     },
     "70010000068267": {
@@ -25320,8 +25424,11 @@
         "nsuId": 70010000068652,
         "numberOfPlayers": 1,
         "publisher": "GAME NACIONAL",
-        "rating": 6,
-        "ratingContent": [],
+        "rating": 10,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Bajo contenido de sangre"
+        ],
         "region": null,
         "releaseDate": 20230729,
         "rightsId": null,
@@ -25657,7 +25764,7 @@
         "category": [
             "Aventura"
         ],
-        "description": "Investiga una serie de misterios que est\u00e1n ocurriendo a lo largo de Ryme City con un parlanch\u00edn Pikachu que adora el caf\u00e9 y quien se considera a s\u00ed mismo un detective de primera. Este Pikachu podr\u00eda tener mucha confianza en s\u00ed mismo y hablar como una persona madura, pero aun as\u00ed no pierde su caracter\u00edstico encanto. Junto a su compa\u00f1ero Tim Goodman, este par de detectives de primera resolver\u00e1n una variedad de casos con la ayuda de muchos Pok\u00e9mon y las personas que viven en Ryme City.\n\nInvestiga Ryme City, donde los Pok\u00e9mon y las personas viven en armon\u00eda\n\nBusca pistas en Ryme City, donde los Pok\u00e9mon y los humanos coexisten en armon\u00eda. Con la ayuda de muchos otros Pok\u00e9mon, Tim y su parlanch\u00edn compa\u00f1ero Pikachu trabajar\u00e1n juntos para resolver una serie de misteriosos incidentes en este cinem\u00e1tico juego de aventura.\n",
+        "description": "Descifra una serie de misterios a trav\u00e9s de Ryme City con un parlanch\u00edn Pikachu, que adora el caf\u00e9, y su compa\u00f1ero humano Tim Goodman. En esta ocasi\u00f3n, el caso del robo de una gema lleva a este d\u00fao de detectives hacia un camino lleno de misterio. \u00bfPor qu\u00e9 desapareci\u00f3 Harry, el padre de Tim? \u00bfQu\u00e9 est\u00e1 causando incidentes relacionados con Pok\u00e9mon alrededor de Ryme City? Busca pistas, investiga los lugares de los hechos y utiliza tu cuaderno de investigaci\u00f3n para hacer deducciones, encontrar las respuestas a estas preguntas y m\u00e1s.\n\nHabla directamente con Pok\u00e9mon y utiliza sus habilidades para descubrir pistas\n\nEl tosco detective Pikachu podr\u00e1 hablar directamente con Pok\u00e9mon. Descubre m\u00e1s acerca del caso y de Ryme City a medida que conversas con Pok\u00e9mon locales y as\u00ed podr\u00e1s ver una faceta diferente de ellos conforme descubres sus personalidades. Algunos de estos Pok\u00e9mon utilizan sus habilidades especiales para ayudar en tu investigaci\u00f3n. \u00a1Recorre lugares a lomos de Growlithe para rastrear aromas con la ayuda de su agudo sentido del olfato!\n\nInvestiga Ryme City, un lugar donde los Pok\u00e9mon y las personas viven en armon\u00eda\n\nBusca pistas en Ryme City, un lugar donde los Pok\u00e9mon y los seres humanos viven y trabajan juntos. Con la ayuda de los Pok\u00e9mon de la ciudad y sus habitantes, Tim y su compa\u00f1ero parlanch\u00edn Pikachu resuelven una variedad de casos. Investiga y deduce, tanto de forma individual como en d\u00fao, al emprender la b\u00fasqueda por la verdad en este juego de aventura cinem\u00e1tica.\n\n\u00bfRequieres un poco de ayuda con tus deducciones y tu progreso en el juego? Si no encuentras una manera de avanzar en tu investigaci\u00f3n, podr\u00e1s acudir a Pikachu para obtener una pista. Tambi\u00e9n podr\u00e1s activar la funci\u00f3n \u201cIndicar opci\u00f3n correcta\u201d cuando est\u00e9s haciendo deducciones o al investigar un lugar. Con el modo \u201cCarta de episodios\u201d podr\u00e1s escoger cualquier episodio de la historia. \u00a1\u00dasalo para repetir episodios que ya hayas completado o para saltar a episodios que a\u00fan no hayas jugado!",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -25688,12 +25795,12 @@
         "releaseDate": 20231006,
         "rightsId": null,
         "screenshots": [
-            "https://img-eshop.cdn.nintendo.net/i/24de56bd75d6873e64cb41203d0d8c94efab7f4741f6b613c8ca0c3a773efce3.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/d395ca1e9f3448c5e9da0708ee815019303fff42b1c27d1d2a531e5870c9fd64.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/7fff953f79aeb409260a3d0ab84546044bdc0bdb32d1f8dfbadd46a87ec165d1.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/3a04759badd1954fb6acaf07756b0d9ae1202098292a81cd94aac64e53547ff0.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/333eca091dae2009838da3d6cae7c4cb9d81591ea85338ad103851bc94670b7a.jpg",
-            "https://img-eshop.cdn.nintendo.net/i/94f22a308006086fd28bb97e33deb92c908175a784714316163d48ae2c1cc037.jpg"
+            "https://img-eshop.cdn.nintendo.net/i/96c03211ef6317f41f9dd48c191c522594e5a120567993a2e44d32594e53bef6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22fbff592842f429909d2fab9ce2461b4fe8000aea29156bc3a9af60483344ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77dac747b4e85df28a484838ba93625715a5b1e3e62c75c33873e6be106f965e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/babbba586f6d80c82a4b167bd766b7c0a0827c7b22283bd568164130aba5de47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94c9eb36723273f13cab11a1c0fc582705b64fa0724d2c62dd1a6f372c256ba4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e5b2cecbd589f1afe0ff824c8cecc2574e82ab25effeb1e05a7c7d66630abcf.jpg"
         ],
         "size": 0,
         "version": null
@@ -26820,6 +26927,7 @@
             "pt",
             "ru",
             "ko",
+            "zh",
             "zh"
         ],
         "name": "Heist Force : Fuerza del atraco",
@@ -26841,7 +26949,7 @@
             "https://img-eshop.cdn.nintendo.net/i/e56f9146c73538fbef7e1c1f754d46bd92c80ccde68ba3225ef8a3fbe5c66281.jpg",
             "https://img-eshop.cdn.nintendo.net/i/f618dc361043ff9c6e0e25ef059a4e91efd92ccadf3db21ffe6fda07d7b05207.jpg"
         ],
-        "size": 125829120,
+        "size": 186646528,
         "version": null
     },
     "70010000069378": {
@@ -28451,8 +28559,8 @@
         "publisher": null,
         "rating": 10,
         "ratingContent": [
-            "Referencia al alcohol",
             "Violencia de fantasia",
+            "Bajo contenido de sangre",
             "Lenguaje moderado"
         ],
         "region": null,
@@ -29226,6 +29334,63 @@
         "rightsId": null,
         "screenshots": null,
         "size": 404750336,
+        "version": null
+    },
+    "70030000019989": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "LEGEND BOWL Demo",
+        "nsuId": 70030000019989,
+        "numberOfPlayers": null,
+        "parentId": "0100307019438000",
+        "publisher": null,
+        "rating": 13,
+        "ratingContent": [
+            "Sangre",
+            "Violencia"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 545259520,
+        "version": null
+    },
+    "70030000020031": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Unidentified Falling Objects Demo",
+        "nsuId": 70030000020031,
+        "numberOfPlayers": null,
+        "parentId": "0100D71019232000",
+        "publisher": null,
+        "rating": 10,
+        "ratingContent": [
+            "Violencia de fantasia"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 119537664,
         "version": null
     },
     "70030000020063": {
@@ -33565,6 +33730,42 @@
         "size": 3145728,
         "version": null
     },
+    "70050000024250": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6851c3534f35c63a5f8ee6b8b50fb5ac8b595792f2bd8b66f20563c05e029072.jpg",
+        "category": null,
+        "description": "\u201d#Gensokyo Holoism Pack\" has arrived!\nIt includes all the popular \"#Gensokyo Holoism\" arrangements.\nThe challenges in this release contain special mini-stories!\nAll the mini stories are Shichijo Lettuce (IOSYS) originals,\nbased off \"Touhou Spell Bubble\" and \"#Gensokyo Holoism.\"\nEnjoy the dual-world crossovers!\n\nThis pack includes the following content.\n\n\u25a06 Songs\n\u30fbHoi Hoi \u2606 Genso Holoism\n\u30fbCaptain Marine's Ketsu Anchor\n\u30fbShiawase Usagi, PekoMikoMarine\n\u30fbEarphone Romance\n\u30fbOver the Border\n\u30fbHelp me, ERINNNNNN!! #Gensokyo Holoism ver.\n\n\u25a06 Challenge Stages\n2 difficulty levels.\nBeginners, try out easy mode first!\nOr try hard mode if you're feeling confident!\n\n<Difficulty Level: Easy>\n\u30fbLv. 1 Angry Princess's Special Training Course (Ditching Strictly Prohibited!)\n\u3000\u3000\u3000(Shiawase Usagi, PekoMikoMarine)\n\u30fbLv. 2 Wait, Is There Actually Romance?\n\u3000\u3000\u3000(Earphone Romance)\n\u30fbLv. 3 Cirno Produces An Original Song?!\n\u3000\u3000\u3000(Captain Marine's Ketsu Anchor)\n\u30fbLv. 4 Flandre Scarlet's Crazy Talk\n\u3000\u3000\u3000(Help me, ERINNNNNN!!  #Genssokyo Holoism ver.)\n\u30fbLv. 5 \"\"Gensokyo is All-Welcoming\"\"\n\u3000\u3000\u3000(Over the Border)\n\u30fbLv. 6 Impending Doom? Protect Gensokyo From the Outside World!\n\u3000\u3000\u3000(Hoi Hoi \u2606 Gensokyo Holosim)\n\n<Difficulty Level: Hard>\n\u30fbLv. 6 Angry Princess's Special Training Course \u2605 (Ditching Strictly Prohibited!)\n\u3000\u3000\u3000(Shiawase Usagi, PekoMikoMarine)\n\u30fbLv. 7 Wait, Is There Actually Romance? \u2605\n\u3000\u3000\u3000(Earphone Romance)\n\u30fbLv. 8 Cirno Produces An Original Song?! \u2605\n\u3000\u3000\u3000(Captain Marine's Ketsu Anchor)\n\u30fbLv. 9 Flandre Scarlet's Crazy-Talk \u2605\n \u3000\u3000\u3000(Help me, ERINNNNNN!!  #Genssokyo Holoism ver.)\n\u30fbLv. 10 \"\"Gensokyo is All-Welcoming\"\" \u2605\n\u3000\u3000\u3000(Over the Border)\n\u30fbLv.10 Impending Doom? Protect Gensokyo From the Outside World! \u2605\n\u3000\u3000\u3000(Hoi Hoi \u2606 Gensokyo Holosim)\n\n*In order to play purchased songs, you need to restart the game after purchase.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "The thoroughly hyped \"#Gensokyo Holoism\" is finally out!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "#Gensokyo Holoism Pack",
+        "nsuId": 70050000024250,
+        "numberOfPlayers": null,
+        "publisher": "TAITO",
+        "rating": 6,
+        "ratingContent": [
+            "Lenguaje moderado",
+            "Referencias violentas",
+            "Compras dentro del juego"
+        ],
+        "region": null,
+        "releaseDate": 20230810,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/07e508eec4defc475e7273591fa0a8be53faf368429d51e3e91ff2b2f9843deb.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b96b413f1bf67bbac77a945f7b4128be77ae9fe28385c3c557986a8edbf0cf07.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb6ecada08e8eb8e53528da4c30e116d20eea6ceb25df916a79ae4f3f2c64f86.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b40a8b90f45c9da240920b289dc71653e0e239a8907c53d167eb592a484a4cfd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/69e52b8938588bb9cf78138c6a3c363759525f6946247104b83a84677e9429e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/63b1a227d107508f2a01fab579ca6f6f9b37f0f4a78ce472a999e2c4ab26a08e.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
     "70050000024307": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5e42404109893d115d7844c8e7c6c811cd5ee9c094c83b37586414e81d9c5fd1.jpg",
         "category": null,
@@ -34785,6 +34986,42 @@
             "https://img-eshop.cdn.nintendo.net/i/b8b7b0de8d56dd8c29361385fa6bf86597edee96d6b5bcbed9ab68ea7387d6cd.jpg"
         ],
         "size": 42991616,
+        "version": null
+    },
+    "70050000027037": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/bdaf4a8fcdb2d3e23154745c76f629938af9438518605f9358bfdc7e09d2cdb6.jpg",
+        "category": null,
+        "description": "Side Story Pack, vol. 3!\nThe title is, \"The Education of Spell Bubble - Yukari's Counterattack\"!\n\n\u25a0Plot:\nYukari was not amused by Spell Bubble\u2019s popularity in Gensokyo. So, in order to put restrictions on it, she came up with a surprising plan!\n\nThis is the story of how Gensokyo and Yukari came to accept Spell Bubble, in spite of some initial prejudices.\n\n\u25a0New Music\n\u30fbSlicing Netherworld Boundaries / Diao ye zong\n\u30fbZangetsu Aria / Kishida Kyoudan & The Akeboshi Rockets\n\u30fbDOWN DOWN DOLL / Akatsuki Records\n\n* Songs can be played by clearing the corresponding stages.\n\n\u25a0Stages\nThe side story is broken up into 5 stages\nwhere you can battle against different oppnonents.\nThere\u2019s also three difficulty levels to choose from.\n\n\u30fbStage 1: Yuyuko Saigyoji\n  (Slicing Netherworld Boundaries)\n\u30fbStage 2: Satori Komeiji (Sadistic Paranoia)\n\u30fbStage 3: Youmu Konpaku (Zangetsu Aria)\n\u30fbStage 4: Tenshi Hinanai (Ecstatic Dreamers)\n\u30fbStage 5: Alice Margatroid (DOWN DOWN DOLL)\n\n* Internet connection required for purchase.\n* Game must be restarted after pack is purchased in order to use it.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Side Story Pack 3 is the Yukari Arc!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Side Story Pack Yukari Arc",
+        "nsuId": 70050000027037,
+        "numberOfPlayers": null,
+        "publisher": "TAITO",
+        "rating": 6,
+        "ratingContent": [
+            "Lenguaje moderado",
+            "Referencias violentas",
+            "Compras dentro del juego"
+        ],
+        "region": null,
+        "releaseDate": 20230810,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/ae9e84efa4522e7f2d1d4fe37f09e3f54a7d0016e1eb1cd0c292d55f45f76e7d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e97e0b99dc41226396cd70ee2875193b828a165b6c6a64351e2dd51cf83834da.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6ddcb68acd30d628687ef063485d3f2a7a71fe208033c55203d2bf6594fe8b5f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3ae2752cf71344b17077453cda3acc865172de3e80af4258374c4d7a8a99ce90.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b9c254f4365e269173dc9ce0f0f618be8a65611b6899b7f5ab8cf44622e755a6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c71fab4c278ccaa2e4d67fae21e20592bb1cd38f32eb320ba23324fb26a8c27f.jpg"
+        ],
+        "size": 3145728,
         "version": null
     },
     "70050000027203": {
@@ -37553,9 +37790,9 @@
         "version": null
     },
     "70050000034889": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/78ab2e1c1696fa508382c9a2f6b3bd7f22f0921eced807f23ecf38fd309fb80c.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/432194745e61176ab38783dc7e8b36c86e9bb47cbb43ce8785fb716d79550181.jpg",
         "category": null,
-        "description": "Este DLC incluye nuevo contenido de la historia de Mario + Rabbids Sparks of Hope\n",
+        "description": "\u00a1Rayman vuelve por la puerta grande para unir fuerzas con Rabbid Mario y Rabbid Peach! Los ha invitado el dram\u00e1tico Fantasma en persona, antigua n\u00e9mesis de Mario + Rabbids\u00ae Kingdom Battle, que afirma que es un\u2026 fantasma cambiado. Necesita ayuda, y por eso ha invitado a este ins\u00f3lito elenco de estrellas para entablar batallas t\u00e1cticas por turnos \u00a1y crear el mayor espect\u00e1culo nunca visto!\n \n\u2022 \u00a1Rayman ha vuelto por fin! Contr\u00f3lalo, junto a su equipo, cuando una fuerzas con Rabbid Mario, Rabbid Peach y los nuevos Sparks para embarcarse en una extraordinaria aventura.\n\u2022 Descubre un nuevo universo cinem\u00e1tico repleto de sorpresas, entre las que se encuentran tres divertid\u00edsimos plat\u00f3s cinematogr\u00e1ficos: oeste, pirata y medieval.\n\u2022 Aprovecha las habilidades \u00fanicas de Rayman para destacar en el mundo de la far\u00e1ndula. Salta con el pelic\u00f3ptero y usa tu emblem\u00e1tico pu\u00f1etazo para desvelar lo que se encuentra tras el tel\u00f3n. \u00a1Entabla batallas para desencadenar todo el poder de los trajes legendarios de Rayman y sus chifladas armas!\n\u2022 Vence a nuevos enemigos y supera desaf\u00edos ex\u00f3ticos en batallas t\u00e1cticas repletas de acci\u00f3n.\n\u2022 Prep\u00e1rate para brillar en el \"Gran estreno\". El Fantasma valorar\u00e1 tu actuaci\u00f3n al final de cada batalla. Act\u00faa con elegancia y eficacia para causar una buena impresi\u00f3n y conseguir la puntuaci\u00f3n m\u00e1s alta.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -37564,7 +37801,7 @@
         "isDemo": false,
         "key": null,
         "languages": null,
-        "name": "MARIO + RABBIDS SPARKS OF HOPE - DLC 3",
+        "name": "Mario + Rabbids\u00ae Sparks of Hope DLC 3: Rayman in the Phantom Show",
         "nsuId": 70050000034889,
         "numberOfPlayers": null,
         "publisher": "Ubisoft",
@@ -37574,9 +37811,16 @@
             "Compras dentro del juego"
         ],
         "region": null,
-        "releaseDate": 20240331,
+        "releaseDate": 20230830,
         "rightsId": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f62a0c9f9287109b516d29c3c0257a69ccc85f9ccea203d3ae2df4e2266b8164.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3bce763bb86b316891abce365282a65cf09b34a788bdefde740c63f8610ade43.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bbeb86daff84da8e5ae5b302b33e3738c9fd4e483b2bc7db1a45f36e41a2c401.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d0a7afb635975a230352d3448efefe0988e206da8a8054bb8354b325b7a5cbea.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f412d730a0497b6a40a25009145da203a26de9e25cc0678419a89546a4ece07f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ab185aa457a0f1907d3ff76aa9bd35a39146cf23b29c46e05aa48fcad570a4e5.jpg"
+        ],
         "size": 0,
         "version": null
     },
@@ -38526,7 +38770,7 @@
         "releaseDate": 20230809,
         "rightsId": null,
         "screenshots": null,
-        "size": 0,
+        "size": 67108864,
         "version": null
     },
     "70050000036421": {
@@ -38728,9 +38972,9 @@
         "version": null
     },
     "70050000036427": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ef404b2e14eddb00289b7fe189dd3895640e4cf2d8e16bf0ded5505ecadc60dc.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d35c400750da71b47f2fb340bd36013bbeec01f0196160222082942c9ec1c4e3.jpg",
         "category": null,
-        "description": "Un paquete de temas musicales adicionales para utilizar con Theatrhythm Final Bar Line.\n\n\u266a DLC Pack 14 (6 temas)\nSe anunciar\u00e1 en el futuro.\n\n*Tambi\u00e9n hay disponibles ediciones completas del juego y pases de temporada que incluyen este producto. Por favor, ten cuidado de no hacer compras duplicadas.\n\n*Se necesita la versi\u00f3n completa del juego (que se vende por separado) para poder utilizar este contenido. Aseg\u00farate de actualizar el juego antes de usarlo en situaciones en las que se requiera el \u00faltimo parche.\n\n*Se requiere una conexi\u00f3n a Internet para obtener los paquetes de pistas musicales.",
+        "description": "Un paquete de temas musicales adicionales para utilizar con Theatrhythm Final Bar Line.\n\n\u266aTHEATRHYTHM FBL BRAVELY DEFAULT Pack (6 temas)\nThe Horizon: Endless Light and Shadow\nThat of the Name\nThe Evil Wings\nUroboros, the Serpent That Devours the Horizon\nThe Ones Who Gather Stars in the Night\nSpurred into Flight, Drenched and Fallen - The Night Rises\n\n*Tambi\u00e9n hay disponibles ediciones completas del juego y pases de temporada que incluyen este producto. Por favor, ten cuidado de no hacer compras duplicadas.\n\n*Se necesita la versi\u00f3n completa del juego (que se vende por separado) para poder utilizar este contenido. Aseg\u00farate de actualizar el juego antes de usarlo en situaciones en las que se requiera el \u00faltimo parche.\n\n*Se requiere una conexi\u00f3n a Internet para obtener los paquetes de pistas musicales.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -38739,7 +38983,7 @@
         "isDemo": false,
         "key": null,
         "languages": null,
-        "name": "THEATRHYTHM FBL DLC Pack Vol. 14",
+        "name": "THEATRHYTHM FBL BRAVELY DEFAULT Pack",
         "nsuId": 70050000036427,
         "numberOfPlayers": null,
         "publisher": "SQUARE ENIX",
@@ -45341,7 +45585,7 @@
             "Compras dentro del juego"
         ],
         "region": null,
-        "releaseDate": 20231231,
+        "releaseDate": 20230913,
         "rightsId": null,
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/8728a93be50eea45f76d639a503d78991ee148e70f2a61fd6bca1b81d3f8474a.jpg",
@@ -45374,7 +45618,7 @@
             "Compras dentro del juego"
         ],
         "region": null,
-        "releaseDate": 20231231,
+        "releaseDate": 20230913,
         "rightsId": null,
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/8728a93be50eea45f76d639a503d78991ee148e70f2a61fd6bca1b81d3f8474a.jpg",
@@ -50956,7 +51200,7 @@
             "https://img-eshop.cdn.nintendo.net/i/1f2e7c25e30c9ce70a23f12609f0c5e23ae8b19f3d2110dc6ecfa58b8cd2adaa.jpg",
             "https://img-eshop.cdn.nintendo.net/i/fc3e745cf4bc8848a97964044dee88084374cf4fcb1a276b44dd11903c593444.jpg"
         ],
-        "size": 52428800,
+        "size": 47185920,
         "version": null
     },
     "70050000042349": {
@@ -53771,6 +54015,41 @@
         "size": 0,
         "version": null
     },
+    "70050000043195": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/4e324882074cdc8191ac870014fcfcb27534a4f9e5b761d3e5c490ff87b22926.jpg",
+        "category": null,
+        "description": "\u00a1Vive una aventura de pinball de otra galaxia en la mesa Star Trek\u2122: The Next Generation Williams\u2122 Pinball! \u00a1\u00danete al capit\u00e1n Picard a bordo de la U.S.S. Enterprise-D y lucha contra romulanos, cardassianos y los Borg mientras escuchas la m\u00fasica y voces originales de la serie!\n\nCaracter\u00edsticas de la mesa:\n\n- Cumple ocho misiones de la U.S.S. Enterprise-D\n- Disfruta de la m\u00fasica y las voces originales de ocho miembros del reparto\n- Dispara torpedos de fotones para defender la nave estelar\n- Adelanta a tus rivales con la secuencia de lanzamiento de bola Warp Speed\n- Sobrevive a la simulaci\u00f3n de lanzadera en la holocubierta\n- Alcanza el Warp Factor 9.9 para obtener recompensas \u00fanicas\n- Encuentra modos secretos ocultos a la galaxia. \u00a1Convi\u00e9rtete hoy mismo en oficial honor\u00edfico de la Flota Estelar!",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Pinball FX - Williams Pinball: Star Trek\u2122: The Next Generation",
+        "nsuId": 70050000043195,
+        "numberOfPlayers": null,
+        "publisher": "Zen Studios",
+        "rating": 13,
+        "ratingContent": [
+            "Sangre",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "region": null,
+        "releaseDate": 20230824,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f960b13570c858896c311735f909ce0c3f362180654b3b1ae935ad69064b89d7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/a5886e52518894fcfb7c302278862439fd423fb004ab102b89ef48191242d3d8.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30f8bc89bde7be2e1ff44d8708767b04f9cf35682a1bc63f0442516c818d89b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eee206f69dde7e406c2abffbd2ec0005e6bf7d28043ec70db6c2e2df4e64c3e7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0f59b481104c12ffef820107e3dd01a0ce1b708fa1141b490a13594910d42570.jpg"
+        ],
+        "size": 0,
+        "version": null
+    },
     "70050000043207": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/23698859f324733c256141b688fdeeb6808c69af8b9bac688e4e53d275574053.jpg",
         "category": null,
@@ -54127,6 +54406,68 @@
             "https://img-eshop.cdn.nintendo.net/i/c9946a3630bc193ca61bfc557df4e32f709984d5d226c3ef701126f6918e29fb.jpg",
             "https://img-eshop.cdn.nintendo.net/i/793bd197752dd820aea6bbb5602826a7c19a3164ee2c9e7ea42cbd46d4a79ed1.jpg"
         ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000043352": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ef33129b846bab59c2f67e0489898f8f0e0e61d3637af5c1c77a072d449e0b0b.jpg",
+        "category": null,
+        "description": "The second collaboration pack of \"Touhou LostWord\" songs have already arrived!\nOnce again, it features 6 songs from popular MV Projects!\nPlease enjoy this music pack full of songs just as popular as Vol. 1!\n\nThis pack contains the following:\n\n\u25a06 Songs\n\u30fbThe Moon and Izayoi / Touhou LostWord feat. nano \u00d7 KISHIDA KYOUDAN & THE AKEBOSHI ROCKETS\n\u30fbBlue Goodbyes / Touhou LostWord feat. Toshihiko Tahara \u00d7 Butaotome\n\u30fbDisillusion / Touhou LostWord feat. Faylan \u00d7 Alstroemeria Records\n\u30fbNight-Splitting Light / Touhou LostWord feat. Hironobu Kageyama \u00d7 Butaotome\n\u30fbMoonlit Festival! / Touhou LostWord feat. Eimi Naruse+Ringo Coisio from Band Ja Naimon MAXX NAKAYOSHI \u00d7 IOSYS\n\u30fbTataeLost / Touhou LostWord feat. Kishida Mel \u00d7 Sekkenya\n\n\u25a06 Challenge Stages\n\u30fbLv.5 If Only (Disillusion)\n\u30fbLv.6 Game of Bubbles (TataeLost)\n\u30fbLv.7 Wasshoi, Wasshoi! (Moonlit Festival)\n\u30fbLv.8 How to Thunderswipe Bubble (Night-Splitting Light)\n\u30fbLv.9 Do You Have to Keep Asking? (Blue Goodbyes)\n\u30fbLv.10 Together on a Moonlit Night (The Moon and Izayoi)\n\n* Internet connection required for purchase.\n* Game must be restarted after songs are purchased in order to use them.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Vol. 2 of the \"Touhou LostWord\" Collaborations Pack is here!",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Touhou LostWord Song Pack Vol.2",
+        "nsuId": 70050000043352,
+        "numberOfPlayers": null,
+        "publisher": "TAITO",
+        "rating": 6,
+        "ratingContent": [
+            "Lenguaje moderado",
+            "Referencias violentas",
+            "Compras dentro del juego"
+        ],
+        "region": null,
+        "releaseDate": 20230810,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/b41df5f06ff8289d4ef2062caa179b9cf856f64b02842b359bdc6958e5116a93.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/969f01877f8faa4fac49e5c3c7105d01a269439f221961582dcac59e23faa9e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/774e4b14b3ef3b9feb7589ef9265c3d153979da3b014a240256e5af79e5376ae.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/09b1407fbcf0453799998a7806dbb2c97c8d94202c6163b5060f4f22a4f233ff.jpg"
+        ],
+        "size": 3145728,
+        "version": null
+    },
+    "70050000043488": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/e5a0f493ba7a1bf628a03b55f010a680d43b8304b620abf7bebb41a510575096.jpg",
+        "category": null,
+        "description": "\u00a1Reserva Marble It Up! Ultra ahora para conseguir todo el juego y obtener acceso al paquete Gemas Ocultas solo disponible en reserva, incluyendo una canica, estela y sombrero exclusivos!\n\nLa oferta de reserva de Marble It Up! Ultra estar\u00e1 disponible desde el 10 de agosto hasta el 17 de agosto.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": "0100C18016897001",
+        "ids": [
+            "0100C18016897001"
+        ],
+        "intro": null,
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Paquete de reserva Gemas Ocultas",
+        "nsuId": 70050000043488,
+        "numberOfPlayers": null,
+        "publisher": "Marble It Up",
+        "rating": 6,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20230817,
+        "rightsId": null,
+        "screenshots": null,
         "size": 3145728,
         "version": null
     },
@@ -56285,7 +56626,7 @@
     "70070000017756": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b17782f43960aea7f83e8a08a1244b9beed1e375fd8af8aa110398d5d3c930a4.jpg",
         "category": null,
-        "description": "\u00a1Lo llevamos en la sangre!\n\nDescubre el nuevo universo de Mortal\u00a0Kombat, creado por el Dios del Fuego Liu Kang. \u00a1Mortal\u00a0Kombat 1 marca el comienzo de una nueva era para la ic\u00f3nica franquicia, con un sistema de lucha, modos de juego y Fatalities nuevos!                                                                                                       La Edici\u00f3n Pr\u00e9mium incluye el Paquete de Kombate, 1 semana de acceso anticipado a los personajes descargables y 1250 kristales de drag\u00f3n (moneda en el juego). ",
+        "description": "Reserva ahora para obtener al personaje jugable Shang Tsung y 5 d\u00edas de acceso anticipado a Mortal\u00a0Kombat\u00a01.\n\n\u00a1Lo llevamos en la sangre!\n\nDescubre el nuevo universo de Mortal\u00a0Kombat, creado por el Dios del Fuego Liu Kang. \u00a1Mortal\u00a0Kombat 1 marca el comienzo de una nueva era para la ic\u00f3nica franquicia, con un sistema de lucha, modos de juego y Fatalities nuevos!                                                                                                       La Edici\u00f3n Pr\u00e9mium incluye el Paquete de Kombate, 1 semana de acceso anticipado a los personajes descargables y 1250 kristales de drag\u00f3n (moneda en el juego). ",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -56306,7 +56647,7 @@
         "releaseDate": 20230914,
         "rightsId": null,
         "screenshots": null,
-        "size": 0,
+        "size": 6316621824,
         "version": null
     },
     "70070000017769": {
@@ -57342,7 +57683,7 @@
             "https://img-eshop.cdn.nintendo.net/i/26e8ee7fee32e04d7f55cb8bc05adc44b7e266009d3fb79b439f3f839bb8956a.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e98dccf7bd3e1247d1e41e7d7a8d5fe9c9685f56e0e6148cf204adfcaffe6377.jpg"
         ],
-        "size": 10024386560,
+        "size": 10528751616,
         "version": null
     },
     "70070000017942": {
@@ -58137,12 +58478,12 @@
     "70070000018077": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3606a2d02239e9bc5fe034971a99f33fb91f241a672fa59f5bd50a1868815493.jpg",
         "category": null,
-        "description": "In addition to the full version of the game, the Deluxe Edition includes a digital art book and digital soundtrack!\n\nDigital Deluxe Edition Contents\nGame - ANONYMOUS;CODE\nDigital Art Book - A BEGINNER'S GUIDE TO EARTH SIMULATOR\nDigital Soundtrack - ANONYMOUS;CODE SOUND DATA LOG\n\nStory\n2037. Nakano, Tokyo. \nPollon Takaoka is caught up in a tangle of plots as a result of his encounter with the mysterious girl Momo and faces major events that shake the world. Live the experience with Pollon, help him hack the myriad branches of reality and \"\"load\"\" the ending that saves the world! ",
+        "description": "In addition to the full version of the game, the Deluxe Edition includes a digital art book and digital soundtrack!\n\nDigital Deluxe Edition Contents\nGame - ANONYMOUS;CODE\nInteractive Digital Art Book - A BEGINNER'S GUIDE TO EARTH SIMULATOR\nFull Digital Soundtrack with 52 songs - SOUND DATA LOG\n\nStory\n2037. Nakano, Tokyo. \nPollon Takaoka is caught up in a tangle of plots as a result of his encounter with the mysterious girl Momo and faces major events that shake the world. Live the experience with Pollon, help him hack the myriad branches of reality and \"\"load\"\" the ending that saves the world! ",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
         "id": null,
-        "intro": "This is the latest work by STEINS;GATE creator Chiyomaru Shikura, in collaboration with returning staff from the Science Adventure Series. Experience the story ",
+        "intro": "This is the latest work by STEINS;GATE creator Chiyomaru Shikura, in collaboration with returning staff from the Science Adventure Series. ",
         "isDemo": false,
         "key": null,
         "languages": null,

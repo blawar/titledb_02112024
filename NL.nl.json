@@ -2473,7 +2473,7 @@
             "https://img-eshop.cdn.nintendo.net/i/d42ae9b316ddcf08ec30815ed75f8dc4fe0cbe93807b1671951075bb12f61086.jpg",
             "https://img-eshop.cdn.nintendo.net/i/1f4cd1d3f2c316afc85dd7724d219fe62ca6061a344f4f42b778cc35a450423d.jpg"
         ],
-        "size": 424673280,
+        "size": 504365056,
         "version": null
     },
     "70010000042844": {
@@ -4913,7 +4913,7 @@
             "https://img-eshop.cdn.nintendo.net/i/92a4e08bc4428206644e4b92dde74106f068454235c78b682a429da83c55979c.jpg",
             "https://img-eshop.cdn.nintendo.net/i/8e57e798e56db64e12067e4987e31cc00e3c5087434366ba5cf646b42805a5d7.jpg"
         ],
-        "size": 9630121984,
+        "size": 9633267712,
         "version": null
     },
     "70010000052199": {
@@ -5135,7 +5135,7 @@
             "https://img-eshop.cdn.nintendo.net/i/3aed3dc2b92907e2ed6c7ba1b6df3ef4058c543fd4ddb9e34d720dc8fda8adc1.jpg",
             "https://img-eshop.cdn.nintendo.net/i/7359db94b3072ef62daae49f28acaf233860196715da01433c18a08d8ead5f9c.jpg"
         ],
-        "size": 1762656256,
+        "size": 1783627776,
         "version": null
     },
     "70010000052989": {
@@ -5644,8 +5644,8 @@
         "description": "Het zit in ons bloed!\n\nOntdek de wedergeboorte van het Mortal Kombat-universum, gecre\u00eberd door de vuurgod Liu Kang. Mortal Kombat 1 is het begin van een nieuw tijdperk voor de iconische serie met een nieuw vechtsysteem, nieuwe speltypes en nieuwe fatalities!",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": null,
-        "id": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/0be624f8e9f868ca5f07b9b2665eaea6a46534ff15f34b80600d7ab59502bf52.jpg",
+        "id": "01006560184E6000",
         "intro": null,
         "isDemo": false,
         "key": null,
@@ -5665,12 +5665,16 @@
         "numberOfPlayers": 2,
         "publisher": "WB Games",
         "rating": 18,
-        "ratingContent": [],
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game-aankopen"
+        ],
         "region": null,
         "releaseDate": 20230919,
         "rightsId": null,
         "screenshots": null,
-        "size": 0,
+        "size": 6316621824,
         "version": null
     },
     "70010000053805": {
@@ -6456,7 +6460,7 @@
             "https://img-eshop.cdn.nintendo.net/i/8a62fad3df3592dbc21b24a0aedb1e7fc1bed78aa232579f2a1bd76d9d440fc5.jpg",
             "https://img-eshop.cdn.nintendo.net/i/86945d8a1c699babec1ab74098251df998786b32964aca7800e699e8911b2040.jpg"
         ],
-        "size": 3817865216,
+        "size": 3828350976,
         "version": null
     },
     "70010000055913": {
@@ -6500,7 +6504,7 @@
             "https://img-eshop.cdn.nintendo.net/i/981f4c32e17632c17941c14c3ee0ca007195f6dd2208edd9bab71eaa3ebcb508.jpg",
             "https://img-eshop.cdn.nintendo.net/i/d4406067d0968966e5352bbcdbaa02f1b42a1600ee404c15336ba32a63547e76.jpg"
         ],
-        "size": 1993342976,
+        "size": 2000683008,
         "version": null
     },
     "70010000055941": {
@@ -7192,7 +7196,7 @@
             "https://img-eshop.cdn.nintendo.net/i/ea2a8de69fe01805fcdeac24649be2a981b76c5da197df84ab0989535ca09df3.jpg",
             "https://img-eshop.cdn.nintendo.net/i/9b657d18c419ebb44cdc98f06ba3138fb28e7665e8405d253bd5dbea8b3b405c.jpg"
         ],
-        "size": 446693376,
+        "size": 461373440,
         "version": null
     },
     "70010000057029": {
@@ -7276,7 +7280,7 @@
         "version": null
     },
     "70010000057289": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d53e80872fb9b61f500c7f5d0b87c3238d138bdb18ccdc238cb37a6d9bc4e512.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5292d54deb4211819dfc81c1e33418e61b8c3cb1f012bce4175f62883eeea8ad.jpg",
         "category": [
             "Speelhalspel",
             "Platformspel",
@@ -7324,7 +7328,7 @@
             "https://img-eshop.cdn.nintendo.net/i/52ee48c71483156ad5521a667936cefc65c11d96d47a8194d27050e4ea3e512d.jpg",
             "https://img-eshop.cdn.nintendo.net/i/378dee858e360d186370ccbf92bc94b7b9a559b9509ace6c235706cb142fc674.jpg"
         ],
-        "size": 132120576,
+        "size": 177209344,
         "version": null
     },
     "70010000057338": {
@@ -8010,7 +8014,7 @@
             "https://img-eshop.cdn.nintendo.net/i/d1cb58f978159a8fa94dcf0704dd9c1dd731fcde23d6ceb5124783d55f9716f1.jpg",
             "https://img-eshop.cdn.nintendo.net/i/366751332d662f81f68240dc1bd4a2780bcb2f2827e728249344cd5470298d82.jpg"
         ],
-        "size": 917504000,
+        "size": 934281216,
         "version": null
     },
     "70010000058295": {
@@ -11054,7 +11058,7 @@
             "https://img-eshop.cdn.nintendo.net/i/751362b5c47a1161ed786641b4e88e0d27c6e4dd1ed9f2f0d78b96bda919144e.jpg",
             "https://img-eshop.cdn.nintendo.net/i/88e4a6fbe05fcd6c1afb1bc0559f4bf96eae70654f42ec2ef73b0ec56f7bdf6f.jpg"
         ],
-        "size": 740294656,
+        "size": 745537536,
         "version": null
     },
     "70010000061878": {
@@ -13751,7 +13755,7 @@
             "https://img-eshop.cdn.nintendo.net/i/313ce6a969e64fe317d122bc555c9cd76fcd9d7f7bc4eecb56afb0941ce19df7.jpg",
             "https://img-eshop.cdn.nintendo.net/i/997a4681864409efa2321d2c437ad7e79db283fd3f851c332dff80abf39b57ea.jpg"
         ],
-        "size": 2032140288,
+        "size": 2038431744,
         "version": null
     },
     "70010000064093": {
@@ -14780,7 +14784,7 @@
             "https://img-eshop.cdn.nintendo.net/i/9245d82096aa35ece9f04f94bc2e1d23c78f10fe1256bdc18996acf2ac18f7a7.jpg",
             "https://img-eshop.cdn.nintendo.net/i/a7ad4d2d3badbd49be9cd2d22ef5a245a0c76d8e51584774a073a92e1b2e7235.jpg"
         ],
-        "size": 4345298944,
+        "size": 4646240256,
         "version": null
     },
     "70010000064536": {
@@ -17840,7 +17844,7 @@
             "https://img-eshop.cdn.nintendo.net/i/10aefda5fddb7c92f9c85d0af908c58853320503b58de0a70878ebde405c70ed.jpg",
             "https://img-eshop.cdn.nintendo.net/i/34686784c5eebf6d78ec7f12f29dea722c5a52603724652bc90d37329d5cb38a.jpg"
         ],
-        "size": 9829351424,
+        "size": 10333716480,
         "version": null
     },
     "70010000066031": {
@@ -18354,6 +18358,44 @@
             "https://img-eshop.cdn.nintendo.net/i/7e27b79c40fd4aa487a55a154a014d2c1df2a57bf558b7ecefd13e3de2d4c0e9.jpg"
         ],
         "size": 492830720,
+        "version": null
+    },
+    "70010000066210": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/cdcc4339d69562613ac4ed7ddbcd8b675b0aa0b4a08d0534e5070d85f68df3c0.jpg",
+        "category": [
+            "Avonturenspel"
+        ],
+        "description": "Nu hun eerste jaar samen aan de Amadronia Academy er bijna op zit, maken Lisha en Sable plannen om hun vakantie door te brengen in een idyllisch elvendorpje.\n\nMaar wat ze daar aantreffen is niet wat ze verwacht hadden. Hun vakantie wordt al snel bedorven door nieuws over recente, mysterieuze misdaden. Sable en Lisha komen de ene na de andere schokkende onthulling tegen, zoals hersenspoelingen, verboden magie en een geheim uit het verleden van Lisha's vader.\n\nIs een teder moment tussen een man en een elf te veel gevraagd met al die chaos om hen heen?\n\n\nKenmerken\n* Visuele novelle van 150.000 woorden\n* Veel personages uit de eerste game keren terug, plus een aantal nieuwe gezichten\n* Optionele uitleg, zodat spelers de wereld kunnen leren kennen of dingen kunnen overslaan die in de eerste game zijn uitgelegd\n* Woordenlijst en castafbeeldingen bieden meer informatie over de personages en terminologie van de game\n* Twee verschillende eindes\n* 28 CG's\n* Volledig originele tekeningen en muziek",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7104e19ce54e82f0fdb0bd112f03bccf9d34f221b3ed5ede0e25be552703258e.jpg",
+        "id": "0100C5001B152000",
+        "intro": "Zal een oude elvenvete Sable en Lisha's feestdagen verpesten?",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Sable's Grimoire: Man And Elf",
+        "nsuId": 70010000066210,
+        "numberOfPlayers": 1,
+        "publisher": "Gamuzumi",
+        "rating": 16,
+        "ratingContent": [
+            "Extreem taalgebruik"
+        ],
+        "region": null,
+        "releaseDate": 20230818,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/290a338406289eb949e0ec2c71a794657d70103946371775c492878485b7a8f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/27243c2907ab2cfad80d8f61de1106f8081b5c6697b520508a6d2a3b26bf6ca2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/65a077e42b9526460540ce4de48e0e7973428ceb1f7f3abff776860440cc844d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/0a19a41886a68ad3827ca428ae633f43d2c36d567aeee678de2e5a465df5e431.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/2a4140a087609f5269cde40ae877e663b89f5ab4ac0333750790eb30478c0b5d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d6c7fe45334017d95101cfbb8d24e66ae046b368d6e491cda8dc5258d7bbd1c9.jpg"
+        ],
+        "size": 341835776,
         "version": null
     },
     "70010000066238": {
@@ -21395,7 +21437,10 @@
         "key": null,
         "languages": [
             "en",
-            "pt"
+            "es",
+            "pt",
+            "fr",
+            "de"
         ],
         "name": "Adore",
         "nsuId": 70010000067370,
@@ -22479,7 +22524,7 @@
             "https://img-eshop.cdn.nintendo.net/i/0d2fd1c8a2465f88f309be33d4639970775c4664219d3fe8b3148edd828b98cd.jpg",
             "https://img-eshop.cdn.nintendo.net/i/25f52c9f19ae6ac3f0fd14792403f515b5ad1ffcee8d71f58d28708b7b7a6085.jpg"
         ],
-        "size": 550502400,
+        "size": 652214272,
         "version": null
     },
     "70010000067856": {
@@ -22814,7 +22859,7 @@
             "https://img-eshop.cdn.nintendo.net/i/84208480180a7181001c75ec9e0e8060e39151b162e070550f16d6b927c73f00.jpg",
             "https://img-eshop.cdn.nintendo.net/i/b60d3dcaa9aba21d109d421e8ff17ea704e7314f1f48fda4bbe39cdcc32463af.jpg"
         ],
-        "size": 214958080,
+        "size": 220200960,
         "version": null
     },
     "70010000067952": {
@@ -23425,7 +23470,7 @@
         "version": null
     },
     "70010000068148": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a86dfe4c48dffafccdb0c619350706f1f1d5f8315d02149b4a2dec30299329d8.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d6b1e171c06d35ef90b6767d7c1b16932862587d0b09b15b02ba2e47ea58cd9d.jpg",
         "category": [
             "Sportspel",
             "Simulatiespel",
@@ -23906,7 +23951,7 @@
         "description": "Embark on an exhilarating journey with Punch A Bunch, a highly engaging and thrilling boxing game that places a strong emphasis on player skill, demanding dedicated time and practice to truly reach mastery. Prepare yourself for an immersive experience as you step into the ring and face formidable opponents across three distinct championships, each presenting its own set of unique challenges and adversaries.\n\nBecome a Champion!\nFight your way to the top through 3 championships from Amateur to Pro, each featuring unique and challenging opponents.\nPunch A Bunch focuses on you learning the game mechanics to improve your skills rather than relying on \u201cleveling up\u201d or \u201cattribute points\u201d.\nThe controls are uniquely designed to give a fresh experience. Most people start off pretty rough, the game is designed to give you great satisfaction through honing your skills and mastering the controls.\n\nYou have everything you need to become a champion right away, the question is, are you up for the challenge?\n\nGame Features: \n\nUnique controls giving you full control but takes practice to master.\nQuick tutorial to get you started on your boxing journey.\n100% physics-based.\nLots of additional challenges to keep completionists coming back for more.\nPlay against friends in Local Multiplayer.\n100+ unlockable items to customize your character with.\nClassic \u201cJust One More Try\u201d experience.\n\nNO skill-points or leveling, all you need is practice, skill and patience.\nNOT a casual game, if you don\u2019t like a challenge, keep looking!\nNOT a button-mashing game.",
         "developer": null,
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/cc34270c246305ced5a8d6baa4a1486617aa70735126fb48fb8629f2933df324.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/29681f7a38c6985fb0f4bd75940e31d17138a69ae2e6b8c5ddb00c3c2a2ade2c.jpg",
         "id": "0100AE401BAF8000",
         "intro": "A challenging boxing game with an emphasis on player skill that takes time and practice to master!",
         "isDemo": false,
@@ -23933,7 +23978,7 @@
             "https://img-eshop.cdn.nintendo.net/i/f6fc9abf8233b207a432a814576038c39a5fdfa22b361071ab86f953238378b3.jpg",
             "https://img-eshop.cdn.nintendo.net/i/a468980e4ae0f490e5f1b228204839508198b320129a4299362769da470e7dea.jpg"
         ],
-        "size": 734003200,
+        "size": 851443712,
         "version": null
     },
     "70010000068268": {
@@ -24135,6 +24180,48 @@
             "https://img-eshop.cdn.nintendo.net/i/39168989977d293652680a1dc33cc6284add7ebcce8e829a526e4f26132ef164.jpg"
         ],
         "size": 240123904,
+        "version": null
+    },
+    "70010000068375": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/a73cf8fae505be048eaeebcf431f1f18baf5487882326d60410241ae4dd5164d.jpg",
+        "category": [
+            "Puzzelspel",
+            "Speelhalspel",
+            "Sportspel",
+            "Schietspel"
+        ],
+        "description": "Onze verslavende slagpuzzel dompelt je onder in de magische middeleeuwen!\n\nDe mechanica van het spel is eenvoudig: trek aan het touwtje, richt en probeer het touw te raken. Klinkt simpel? Maar echte natuurkunde maakt zijn eigen aanpassingen en bemoeilijkt de taak. En je moet opschieten, want de tijd is ook beperkt!\n\nVeel verschillende niveaus nemen je mee door de magische Middeleeuwen. Je bezoekt donkere kerkers, dichte bossen, eindeloze velden en andere gedenkwaardige plaatsen uit de magische Middeleeuwen. Red alle prinsessen en word een held!\n\nBelangrijkste kenmerken:\n\u2022 Uitstekende opwarming voor nauwkeurigheid en logica;\n\u2022 Veel niveaus met verschillende moeilijkheidsgraden;\n\u2022 Realistische fysica van pijlvluchten;\n\u2022 Kleurrijke cartoonafbeeldingen;\n\u2022 Beheer met Joy-Con\u2122\ufe0f.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/f313b9ac853624345bada040689baf314256f5d4a6ce050b7af78f89ae628f14.jpg",
+        "id": "0100FF101BBD2000",
+        "intro": "De prinses is in gevaar! Archer, schiet op het touw en red de prinses! Demonstreer je nauwkeurigheidsvaardigheden en voltooi de puzzel met echte fysica!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "ja",
+            "en"
+        ],
+        "name": "Brave Bow Archer: Princess Rescue Simulator!",
+        "nsuId": 70010000068375,
+        "numberOfPlayers": 1,
+        "publisher": "Megame",
+        "rating": 7,
+        "ratingContent": [
+            "Licht geweld"
+        ],
+        "region": null,
+        "releaseDate": 20230822,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/3fc6fe5da8378a75386c15dc83ff2bc1877097c8ae1be402a30d01bf937ff38f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4a9da5ac7d5e9440ab4548120e71b6a2d974358d984791f9e244a6b37c56ef00.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/044bd7fc6fcb40bbe1c48bea576c1a55b9e8b621ddafffab7caa72e4fd6f4056.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/335ef22dd24533ac71994ac4636e77483920eed216299c7ce307e0db5446c9b7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d8e75693fb06de3097bea385131e4cd265503719db8d43d66c90eea658bb25b0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5f0dd58a59e2462acbf540ee8aa12cbd7c92a0abdc80ed471a6781f86e41b643.jpg"
+        ],
+        "size": 125829120,
         "version": null
     },
     "70010000068380": {
@@ -24851,8 +24938,10 @@
         "nsuId": 70010000068653,
         "numberOfPlayers": 1,
         "publisher": "GAME NACIONAL",
-        "rating": 3,
-        "ratingContent": [],
+        "rating": 7,
+        "ratingContent": [
+            "Licht geweld"
+        ],
         "region": null,
         "releaseDate": 20230729,
         "rightsId": null,
@@ -25200,7 +25289,13 @@
         "region": null,
         "releaseDate": 20231006,
         "rightsId": null,
-        "screenshots": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/96c03211ef6317f41f9dd48c191c522594e5a120567993a2e44d32594e53bef6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/22fbff592842f429909d2fab9ce2461b4fe8000aea29156bc3a9af60483344ce.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/77dac747b4e85df28a484838ba93625715a5b1e3e62c75c33873e6be106f965e.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/babbba586f6d80c82a4b167bd766b7c0a0827c7b22283bd568164130aba5de47.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/94c9eb36723273f13cab11a1c0fc582705b64fa0724d2c62dd1a6f372c256ba4.jpg"
+        ],
         "size": 0,
         "version": null
     },
@@ -26511,7 +26606,7 @@
             "https://img-eshop.cdn.nintendo.net/i/57860c74d5420d5437db5417b7724d867d826b55110839f5c6ffd1891a21c8dd.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e80739208b2b43e975dd7ad8b0b35f180ddc7a820f700813ff1133e9f9751d14.jpg"
         ],
-        "size": 125829120,
+        "size": 186646528,
         "version": null
     },
     "70010000069379": {
@@ -26549,6 +26644,42 @@
             "https://img-eshop.cdn.nintendo.net/i/b1b32e1f34129b0629165ce65ff42f17b6945f9f823e2a9a29078b48c641c8ef.jpg"
         ],
         "size": 208666624,
+        "version": null
+    },
+    "70010000069386": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7b35a304819bc3f0cc1c7fedca8b602885f116706b5bd8821ac305367af25889.jpg",
+        "category": [
+            "Party",
+            "Lifestyle",
+            "Anders"
+        ],
+        "description": "Get ready to giggle and chuckle with our delightful joke book app for Nintendo Switch!\nPacked with 50 side-splitting jokes spanning 6 categories, this app is perfect for all ages and guaranteed to brighten your day. Whether you're a pun enthusiast, a witty one-liner lover, or a fan of classic knock-knock jokes, our app has something for everyone.",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/ccba90195ca2aec7eda39512c21a5258a4c69795e6e6ce13bb18b245ebab1d4a.jpg",
+        "id": "010016301C02A000",
+        "intro": "Laugh your way through 50 hilarious jokes across 6 categories in this fun and entertaining joke book app for Nintendo Switch\u2122!",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "en"
+        ],
+        "name": "Funny Jokes",
+        "nsuId": 70010000069386,
+        "numberOfPlayers": 1,
+        "publisher": "Cooking & Publishing",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20230810,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/e2fb8ac75eaad1a7cdfde866c35163b609bfbf5a06d595eca31052f84f9ecb73.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8f7f4c91dee5b33c068ee91d742f9999482169fcc51471947a7ffad24c5283f9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/52e45eb33f665a5ab243b0fbeb1cb29658a10d96a5b22942670201b235a3967f.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f3ea55238263d1f99f5f8bf34e5a09c0ba46c28a7fd545f5ce8541e440045c59.jpg"
+        ],
+        "size": 56623104,
         "version": null
     },
     "70010000069394": {
@@ -29132,6 +29263,63 @@
         "rightsId": null,
         "screenshots": null,
         "size": 900726784,
+        "version": null
+    },
+    "70030000019990": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "LEGEND BOWL Demo",
+        "nsuId": 70030000019990,
+        "numberOfPlayers": null,
+        "parentId": "0100307019438000",
+        "publisher": null,
+        "rating": 12,
+        "ratingContent": [
+            "Matig geweld",
+            "Seksuele insinuatie"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 545259520,
+        "version": null
+    },
+    "70030000020032": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "Unidentified Falling Objects Demo",
+        "nsuId": 70030000020032,
+        "numberOfPlayers": null,
+        "parentId": "0100D71019232000",
+        "publisher": null,
+        "rating": 7,
+        "ratingContent": [
+            "Licht geweld"
+        ],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 119537664,
         "version": null
     },
     "70030000020047": {
@@ -42986,7 +43174,7 @@
         "releaseDate": 20230809,
         "rightsId": null,
         "screenshots": null,
-        "size": 0,
+        "size": 67108864,
         "version": null
     },
     "70050000036523": {
@@ -43294,9 +43482,9 @@
         "version": null
     },
     "70050000036533": {
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ef404b2e14eddb00289b7fe189dd3895640e4cf2d8e16bf0ded5505ecadc60dc.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d35c400750da71b47f2fb340bd36013bbeec01f0196160222082942c9ec1c4e3.jpg",
         "category": null,
-        "description": "Een pack met extra muziektracks om te gebruiken in Theatrhythm Final Bar Line.\n\n\u266a DLC Pack 14 (6 tracks)\nWordt op een later tijdstip bekend gemaakt.\n\n*Volledige game-edities en Season Passes waarin deze content opgenomen is, zijn eveneens verkrijgbaar. Let op dat je geen dubbele aankopen doet.\n\n*De volledige versie van de game (afzonderlijk verkrijgbaar) is nodig om deze content te kunnen gebruiken. Zorg ervoor dat je de game bijwerkt wanneer de nieuwste update vereist is.\n\n*Je hebt een internetverbinding nodig om de muziektrackpacks te verkrijgen.\n\n*Muziekdownloads niet geclassificeerd door PEGI.",
+        "description": "Een pack met extra muziektracks om te gebruiken in Theatrhythm Final Bar Line.\n\n\u266aTHEATRHYTHM FBL BRAVELY DEFAULT Pack (6 tracks)\nThe Horizon: Endless Light and Shadow\nThat of the Name\nThe Evil Wings\nUroboros, the Serpent That Devours the Horizon\nThe Ones Who Gather Stars in the Night\nSpurred into Flight, Drenched and Fallen - The Night Rises\n\n*Volledige game-edities en Season Passes waarin deze content opgenomen is, zijn eveneens verkrijgbaar. Let op dat je geen dubbele aankopen doet.\n\n*De volledige versie van de game (afzonderlijk verkrijgbaar) is nodig om deze content te kunnen gebruiken. Zorg ervoor dat je de game bijwerkt wanneer de nieuwste update vereist is.\n\n*Je hebt een internetverbinding nodig om de muziektrackpacks te verkrijgen.\n\n*Muziekdownloads niet geclassificeerd door PEGI.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -43305,7 +43493,7 @@
         "isDemo": false,
         "key": null,
         "languages": null,
-        "name": "THEATRHYTHM FBL DLC Pack Vol. 14",
+        "name": "THEATRHYTHM FBL BRAVELY DEFAULT Pack",
         "nsuId": 70050000036533,
         "numberOfPlayers": null,
         "publisher": "SQUARE ENIX",
@@ -54257,7 +54445,11 @@
         "numberOfPlayers": null,
         "publisher": "WB Games",
         "rating": 18,
-        "ratingContent": [],
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game-aankopen"
+        ],
         "region": null,
         "releaseDate": 20231231,
         "rightsId": null,
@@ -54282,7 +54474,11 @@
         "numberOfPlayers": null,
         "publisher": "WB Games",
         "rating": 18,
-        "ratingContent": [],
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game-aankopen"
+        ],
         "region": null,
         "releaseDate": 20231231,
         "rightsId": null,
@@ -54307,7 +54503,11 @@
         "numberOfPlayers": null,
         "publisher": "WB Games",
         "rating": 18,
-        "ratingContent": [],
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game-aankopen"
+        ],
         "region": null,
         "releaseDate": 20231231,
         "rightsId": null,
@@ -54332,7 +54532,11 @@
         "numberOfPlayers": null,
         "publisher": "WB Games",
         "rating": 18,
-        "ratingContent": [],
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game-aankopen"
+        ],
         "region": null,
         "releaseDate": 20231231,
         "rightsId": null,
@@ -54357,7 +54561,11 @@
         "numberOfPlayers": null,
         "publisher": "WB Games",
         "rating": 18,
-        "ratingContent": [],
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game-aankopen"
+        ],
         "region": null,
         "releaseDate": 20231231,
         "rightsId": null,
@@ -54382,7 +54590,11 @@
         "numberOfPlayers": null,
         "publisher": "WB Games",
         "rating": 18,
-        "ratingContent": [],
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game-aankopen"
+        ],
         "region": null,
         "releaseDate": 20231231,
         "rightsId": null,
@@ -54407,7 +54619,11 @@
         "numberOfPlayers": null,
         "publisher": "WB Games",
         "rating": 18,
-        "ratingContent": [],
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game-aankopen"
+        ],
         "region": null,
         "releaseDate": 20231231,
         "rightsId": null,
@@ -54432,7 +54648,11 @@
         "numberOfPlayers": null,
         "publisher": "WB Games",
         "rating": 18,
-        "ratingContent": [],
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game-aankopen"
+        ],
         "region": null,
         "releaseDate": 20231231,
         "rightsId": null,
@@ -54457,7 +54677,11 @@
         "numberOfPlayers": null,
         "publisher": "WB Games",
         "rating": 18,
-        "ratingContent": [],
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game-aankopen"
+        ],
         "region": null,
         "releaseDate": 20231231,
         "rightsId": null,
@@ -54482,7 +54706,11 @@
         "numberOfPlayers": null,
         "publisher": "WB Games",
         "rating": 18,
-        "ratingContent": [],
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game-aankopen"
+        ],
         "region": null,
         "releaseDate": 20231231,
         "rightsId": null,
@@ -54507,7 +54735,11 @@
         "numberOfPlayers": null,
         "publisher": "WB Games",
         "rating": 18,
-        "ratingContent": [],
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game-aankopen"
+        ],
         "region": null,
         "releaseDate": 20231231,
         "rightsId": null,
@@ -56678,7 +56910,7 @@
             "https://img-eshop.cdn.nintendo.net/i/1f2e7c25e30c9ce70a23f12609f0c5e23ae8b19f3d2110dc6ecfa58b8cd2adaa.jpg",
             "https://img-eshop.cdn.nintendo.net/i/fc3e745cf4bc8848a97964044dee88084374cf4fcb1a276b44dd11903c593444.jpg"
         ],
-        "size": 52428800,
+        "size": 47185920,
         "version": null
     },
     "70050000042369": {
@@ -56821,7 +57053,10 @@
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
-        "id": null,
+        "id": "0100A4E00F671002",
+        "ids": [
+            "0100A4E00F671002"
+        ],
         "intro": "Voegt vier gespecialiseerde nieuwe klassen en vier nieuwe speelbare rassen toe, waardoor je toegang hebt tot unieke speelstijlen voor je avonturen!",
         "isDemo": false,
         "key": null,
@@ -61320,7 +61555,7 @@
         "releaseDate": 20230602,
         "rightsId": null,
         "screenshots": null,
-        "size": 4212129792,
+        "size": 4222615552,
         "version": null
     },
     "70070000017349": {
@@ -62226,7 +62461,7 @@
     "70070000017760": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b17782f43960aea7f83e8a08a1244b9beed1e375fd8af8aa110398d5d3c930a4.jpg",
         "category": null,
-        "description": "Het zit in ons bloed!\n\nOntdek de wedergeboorte van het Mortal Kombat-universum, gecre\u00eberd door de vuurgod Liu Kang. Mortal Kombat 1 is het begin van een nieuw tijdperk voor de iconische serie met een nieuw vechtsysteem, nieuwe speltypes en nieuwe fatalities!                                                                                                                                                                                                                                               De Premium Edition bevat het Kombat-pack, \u00e9\u00e9n week eerder toegang tot downloadbare personages en 1250 Dragon Krystals (in-game valuta). ",
+        "description": "Het zit in ons bloed!\n\nOntdek de wedergeboorte van het Mortal Kombat-universum, gecre\u00eberd door de vuurgod Liu Kang. Mortal Kombat 1 is het begin van een nieuw tijdperk voor de iconische serie met een nieuw vechtsysteem, nieuwe speltypes en nieuwe fatalities!                                                                                                                                                                                                                                               De Premium Edition bevat het Kombat-pack, \u00e9\u00e9n week eerder toegang tot downloadbare personages en 1250 Dragon Krystals (in-game valuta). \n",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
@@ -62240,12 +62475,16 @@
         "numberOfPlayers": null,
         "publisher": "WB Games",
         "rating": 18,
-        "ratingContent": [],
+        "ratingContent": [
+            "Bad Language",
+            "Violence",
+            "In-game-aankopen"
+        ],
         "region": null,
         "releaseDate": 20230914,
         "rightsId": null,
         "screenshots": null,
-        "size": 0,
+        "size": 6316621824,
         "version": null
     },
     "70070000017764": {
@@ -63323,7 +63562,7 @@
             "https://img-eshop.cdn.nintendo.net/i/26e8ee7fee32e04d7f55cb8bc05adc44b7e266009d3fb79b439f3f839bb8956a.jpg",
             "https://img-eshop.cdn.nintendo.net/i/e98dccf7bd3e1247d1e41e7d7a8d5fe9c9685f56e0e6148cf204adfcaffe6377.jpg"
         ],
-        "size": 10024386560,
+        "size": 10528751616,
         "version": null
     },
     "70070000017932": {
