@@ -1,0 +1,42 @@
+name: Check titledb files format validity
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  validate_json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        name: Checkout latest commit
+
+      - uses: actions/setup-python@v4
+        name: Setup Python env
+        with:
+          python-version: '3.x'
+      - uses: jannekem/run-python-script-action@v1
+        name: Check validity of json files
+        with:
+          script: |
+            import os
+            import json
+
+            failed = []
+            for json_file in sorted([f for f in os.listdir() if f.endswith('.json')]):
+                try:
+                    with open(json_file) as f:
+                        data = json.load(f)
+                    print(f'{json_file} OK')
+                except:
+                    print(f'{json_file} FAILED')
+                    failed.append(json_file)
+
+            if len(failed):
+                print('Files with incorrect format: \n - ' + '\n - '.join(failed))
+                exit(1)
